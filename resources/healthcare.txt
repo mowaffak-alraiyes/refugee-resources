@@ -1,3 +1,37 @@
-1. Free Clinic A – open M–F, walk-ins accepted, 123 Main St
-2. Mercy Health – diabetes care, 456 Oak Blvd
+Category: Healthcare Clinics
+Last Reviewed: April 2025 (HRSA Database)
 
+1. AHS Family Health Center  
+   📍 2501 W Peterson Ave, Chicago, IL 60659  
+   🌐 https://ahsfhc.org  
+   🗣 Languages: English, Spanish, and ~40 other languages  
+   🏥 Services: Family Medicine, Dental  
+   ⏰ Hours: Mon/Wed/Fri 9am–5pm; Tue/Thu 9am–7pm; Sat 9am–1pm  
+
+2. AHS Family Health Center  
+   📍 6301 N Western Ave, Chicago, IL 60659  
+   🌐 https://ahsfhc.org  
+   🗣 Languages: English, Spanish, and ~40 other languages  
+   🏥 Services: Family Medicine, Obstetrics/Gyn, Pediatrics, Psychiatry, Dental  
+   ⏰ Hours: Mon/Wed/Fri 9am–5pm; Tue/Thu 9am–7pm; Sat 9am–1pm  
+
+3. ALIVIO MEDICAL CENTER  
+   📍 966 W 21st St, Chicago, IL 60608  
+   🌐 https://alivio.org  
+   🗣 Languages: English, Spanish, Mandarin, Urdu, Cantonese, Taiwanese, German, Hindi  
+   🏥 Services: Primary Care (Adult & Pediatric), Midwifery, Behavioral Health, Dental, Nutrition, Surgery  
+   ⏰ Hours: Mon/Tue/Thu/Fri 8:30am–5:30pm; Wed 1pm–8pm; Sat 9am–1pm  
+
+4. ALIVIO MEDICAL CENTER – Western Ave  
+   📍 2355 S Western Ave, Chicago, IL 60608  
+   🌐 https://alivio.org  
+   🗣 Languages: English, Spanish, Mandarin, Urdu, Yoruba, Kannada, Tamil  
+   🏥 Services: Primary Care, Women’s Health, Behavioral Health, Nutrition, Pediatrics  
+   ⏰ Hours: Mon/Tue/Thu/Fri 8:30am–5:30pm; Wed 1pm–8pm; Sat 9am–1pm  
+
+5. AMC Mobile Unit (Alivio)  
+   📍 966 W 21st St, Chicago, IL 60608  
+   🌐 https://alivio.org  
+   🗣 Languages: English, Spanish  
+   🏥 Services: Screenings (glucose, blood pressure), immunizations, health education  
+   ⏰ Hours vary (mobile unit at scheduled outreach events)
