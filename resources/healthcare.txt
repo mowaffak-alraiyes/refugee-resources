@@ -1,157 +1,483 @@
 Category: Healthcare Clinics
 Last Reviewed: April 2025 (HRSA Database)
 
-1. AHS Family Health Center
-📍 2501 W Peterson Ave, Chicago, IL 60659
-🌐 https://ahsfhc.org
-🗣 Languages: English, Spanish, and ~40 other languages
-🏥 Services: Family Medicine, Dental
-⏰ Hours: Mon/Wed/Fri 9am–5pm; Tue/Thu 9am–7pm; Sat 9am–1pm
+1. AHS Family Health Center  
+📍 2501 W Peterson Ave, Chicago, IL 60659-4108  
+📝 HRSA database - Last reviewed April 2025  
+🌐 https://ahsfhc.org  
+🗣 Languages: English; Spanish; and ~40 other languages  
+🏥 Services: Family Medicine; Dental  
+⏰ Hours: Mon/Wed/Fri 9:00 am–5:00 pm; Tue/Thu 9:00 am–7:00 pm; Sat 9:00 am–1:00 pm  
 
-2. AHS Family Health Center
-📍 6301 N Western Ave, Chicago, IL 60659
-🌐 https://ahsfhc.org
-🗣 Languages: English, Spanish, and ~40 other languages
-🏥 Services: Family Medicine, Obstetrics/Gyn, Pediatrics, Psychiatry, Dental
-⏰ Hours: Mon/Wed/Fri 9am–5pm; Tue/Thu 9am–7pm; Sat 9am–1pm
+2. AHS Family Health Center  
+📍 6301 N Western Ave, Chicago, IL 60659-2009  
+📝 HRSA database - Last reviewed April 2025  
+🌐 https://ahsfhc.org  
+🗣 Languages: English; Spanish; and ~40 other languages  
+🏥 Services: Family Medicine; Obstetrics/Gyn; Pediatrics; Psychiatry; Dental  
+⏰ Hours: Mon/Wed/Fri 9:00 am–5:00 pm; Tue/Thu 9:00 am–7:00 pm; Sat 9:00 am–1:00 pm  
 
-3. ALIVIO MEDICAL CENTER
-📍 966 W 21st St, Chicago, IL 60608
-🌐 https://alivio.org
-🗣 Languages: English, Spanish, Mandarin, Urdu, Cantonese, Taiwanese, German, Hindi
-🏥 Services: Primary care (Adult & Pediatric), Midwifery, Behavioral Health, Dental, Nutrition, Surgery
-⏰ Hours: Mon/Tue/Thu/Fri 8:30am–5:30pm; Wed 1:00pm–8:00pm; Sat 9:00am–1:00pm
+3. ALIVIO MEDICAL CENTER  
+📍 966 W 21st St, Chicago, IL 60608-4511  
+📝 HRSA database - Last reviewed April 2025  
+🌐 https://alivio.org  
+🗣 Languages: English; Spanish; Mandarin; Urdu; Cantonese; Taiwanese; German; Hindi  
+🏥 Services: Primary care (Adult & Pediatric); Midwifery; Behavioral Health; Dental; Nutrition; Surgery  
+⏰ Hours: Mon/Tue/Thu/Fri 8:30 am–5:30 pm; Wed 1:00 pm–8:00 pm; Sat 9:00 am–1:00 pm  
 
-4. ALIVIO MEDICAL CENTER
-📍 2355 S Western Ave, Chicago, IL 60608
-🌐 https://alivio.org
-🗣 Languages: English, Spanish, Mandarin, Urdu, Yoruba, Kannada, Tamil
-🏥 Services: Primary care (Adult & Pediatric), Midwifery, Behavioral Health, Nutrition, Pediatrics
-⏰ Hours: Mon/Tue/Thu/Fri 8:30am–5:30pm; Wed 1:00pm–8:00pm; Sat 9:00am–1:00pm
+4. ALIVIO MEDICAL CENTER  
+📍 2355 S Western Ave, Chicago, IL 60608-3837  
+📝 HRSA database - Last reviewed April 2025  
+🌐 https://alivio.org  
+🗣 Languages: English; Spanish; Mandarin; Urdu; Yoruba; Kannada; Tamil  
+🏥 Services: Primary care (Adult & Pediatric); Midwifery; Behavioral Health; Nutrition; Pediatrics  
+⏰ Hours: Mon/Tue/Thu/Fri 8:30 am–5:30 pm; Wed 1:00 pm–8:00 pm; Sat 9:00 am–1:00 pm  
 
-5. AMC Mobile Unit (Alivio)
-📍 966 W 21st St, Chicago, IL 60608
-🌐 https://alivio.org
-🗣 Languages: English, Spanish
-🏥 Services: Mobile clinic – screenings, immunizations, education
-⏰ Hours: Hours vary (scheduled outreach events)
+5. AMC Mobile Unit  
+📍 966 W 21st St, Chicago, IL 60608-4511  
+📝 HRSA database - Last reviewed April 2025  
+🌐 https://alivio.org  
+🗣 Languages: English; Spanish  
+🏥 Services: Mobile health clinic – screenings (glucose, blood pressure, etc.); immunizations; health education  
+⏰ Hours: Hours vary (operates on scheduled outreach events)  
 
-6. Administrative Annex
-📍 2938 E 91st St, Chicago, IL 60617
-🌐 https://chicagofamilyhealth.org
-🗣 Languages: English, Spanish
-🏥 Services: Administrative office (supports 5 clinics)
-⏰ Hours: Mon–Fri 8:00am–5:00pm
+6. Administrative Annex  
+📍 2938 E 91st St, Chicago, IL 60617-4208  
+📝 HRSA database - Last reviewed April 2025  
+🌐 https://chicagofamilyhealth.org  
+🗣 Languages: English; Spanish  
+🏥 Services: Administrative offices (supports 5 clinic sites; no medical services)  
+⏰ Hours: Mon–Fri 8:00 am–5:00 pm  
 
-43. Alivio Medical Center Dental at 63rd St.
-📍 4255 W 63rd St, Chicago, IL 60629
-🌐 https://alivio.org
-🗣 Languages: English, Spanish, Mandarin, Cantonese, Taiwanese
-🏥 Services: Dental care (exams, cleanings, X-rays, extractions, emergencies)
-⏰ Hours: Tue/Thu 8:30am–5:00pm
+7. Alivio Medical Center Dental at 63rd St.  
+📍 4255 W 63rd St, Chicago, IL 60629-5041  
+📝 HRSA database - Last reviewed April 2025  
+🌐 https://alivio.org  
+🗣 Languages: English; Spanish; Mandarin; Cantonese; Taiwanese  
+🏥 Services: Dental care (exams, cleanings, X-rays, extractions, emergencies, etc.)  
+⏰ Hours: Tue/Thu 8:30 am–5:00 pm; Mon/Wed/Fri/Sat/Sun closed  
 
-50. Benito Juarez Community Academy
-📍 1450 W Cermak Rd, Chicago, IL 60608
-🌐 https://alivio.org
-🗣 Languages: English, Spanish, Mandarin, Cantonese, Taiwanese
-🏥 Services: Adolescent medicine, Pediatrics, Family Medicine, Behavioral Health
-⏰ Hours: Mon–Fri 8:30am–1:00pm, 2:00pm–4:00pm
+8. Benito Juarez Community Academy  
+📍 1450 W Cermak Rd, Chicago, IL 60608-4408  
+📝 HRSA database - Last reviewed April 2025  
+🌐 https://alivio.org  
+🗣 Languages: English; Spanish; Mandarin; Cantonese; Taiwanese  
+🏥 Services: Adolescent medicine; Pediatrics; Family Medicine; Behavioral Health  
+⏰ Hours: Mon–Fri 8:30 am–1:00 pm, 2:00 pm–4:00 pm (closed Sat/Sun)  
 
-57. Broadway Youth Center
-📍 1023 W Irving Park Rd, Chicago, IL 60613
-🌐 https://howardbrown.org/byc
-🗣 Languages: English, Spanish (bilingual services)
-🏥 Services: LGBTQ+ youth-focused primary care, mental health, social services
-⏰ Hours: Mon/Tue/Thu/Fri 9:00am–6:00pm; Wed 1:00pm–6:00pm
+9. Broadway Youth Center  
+📍 1023 W Irving Park Rd, Chicago, IL 60613-2913  
+📝 HRSA database - Last reviewed April 2025  
+🌐 https://howardbrown.org/byc  
+🗣 Languages: English; Spanish (bilingual services)  
+🏥 Services: LGBTQ+ youth-focused primary care; mental health; social services; drop-in support  
+⏰ Hours: Mon/Tue/Thu/Fri 9:00 am–6:00 pm; Wed 1:00 pm–6:00 pm; Sat/Sun closed  
 
-64. CHRISTIAN COMMUNITY HEALTH CENTER
-📍 9718 S Halsted St, Chicago, IL 60628
-🌐 https://cchc-online.org
-🗣 Languages: English, Spanish
-🏥 Services: Primary medical, dental, prenatal/OB, behavioral health, HIV/STI services
-⏰ Hours: Mon/Tue 8:00am–6:00pm; Wed 8:00am–7:00pm; Thu 9:00am–8:00pm; Fri 8:00am–5:00pm; 1st & 3rd Sat 8:00am–2:00pm
+10. CHRISTIAN COMMUNITY HEALTH CENTER  
+📍 9718 S Halsted St, Chicago, IL 60628-1007  
+📝 HRSA database - Last reviewed April 2025  
+🌐 https://cchc-online.org  
+🗣 Languages: English; Spanish  
+🏥 Services: Comprehensive primary medical (adult & children); dental; women’s health (prenatal/OB); behavioral health; HIV/STI services  
+⏰ Hours: Mon/Tue 8:00 am–6:00 pm; Wed 8:00 am–7:00 pm; Thu 9:00 am–8:00 pm; Fri 8:00 am–5:00 pm; 1st & 3rd Sat 8:00 am–2:00 pm  
 
-71. COMMUNITY HEALTH PARTNERSHIP OF ILLINOIS
-📍 205 W Randolph St STE 2222, Chicago, IL 60606
-🌐 http://chpofil.org
-🗣 Languages: English, Spanish
-🏥 Services: Administrative office for migrant/seasonal farmworkers (FQHC)
-⏰ Hours: Mon–Fri 9:00am–5:00pm
+11. COMMUNITY HEALTH PARTNERSHIP OF ILLINOIS  
+📍 205 W Randolph St STE 2222, Chicago, IL 60606-1814  
+📝 HRSA database - Last reviewed April 2025  
+🌐 http://chpofil.org  
+🗣 Languages: English; Spanish  
+🏥 Services: Administrative office (FQHC program for migrant/seasonal farmworkers)  
+⏰ Hours: Mon–Fri 9:00 am–5:00 pm (office hours)  
 
-78. Children's Reception Center
-📍 5001 S Michigan Ave, Chicago, IL 60615
-🌐 https://www.auntmarthas.org
-🗣 Languages: English, Spanish
-🏥 Services: 24/7 crisis intake center for youth (health screening & temporary shelter)
-⏰ Hours: 24/7
+12. Children's Reception Center  
+📍 5001 S Michigan Ave, Chicago, IL 60615-2112  
+📝 HRSA database - Last reviewed April 2025  
+🌐 https://www.auntmarthas.org  
+🗣 Languages: English; Spanish  
+🏥 Services: 24/7 crisis intake center for youth (abused/neglected children entering DCFS care – health screening & temporary shelter)  
+⏰ Hours: 24 hours, 7 days (open 24/7 for emergency youth services)  
 
-85. Christian Community Health Center - 87th Street
-📍 1701 W 87th St, Chicago, IL 60620
-🌐 https://cchc-online.org
-🗣 Languages: English, Spanish
-🏥 Services: Supportive housing & social services (no clinic on site)
-⏰ Hours: Mon–Fri 9:00am–5:00pm
+13. Christian Community Health Center - 87th Street  
+📍 1701 W 87th St, Chicago, IL 60620-4808  
+📝 HRSA database - Last reviewed April 2025  
+🌐 https://cchc-online.org  
+🗣 Languages: English; Spanish  
+🏥 Services: Supportive housing & social services site (no on-site medical clinic)  
+⏰ Hours: Mon–Fri 9:00 am–5:00 pm (business hours)  
 
-92. Cottage View Health Center
-📍 4829 S Cottage Grove Ave, Chicago, IL 60615
-🌐 https://nearnorthhealth.org
-🗣 Languages: English
-🏥 Services: Internal Medicine, Lab Services, Health Education, Podiatry
-⏰ Hours: Mon–Fri 8:00am–5:00pm
+14. Cottage View Health Center  
+📍 4829 S Cottage Grove Ave, Chicago, IL 60615-1600  
+📝 HRSA database - Last reviewed April 2025  
+🌐 https://nearnorthhealth.org  
+🗣 Languages: English (primary)  
+🏥 Services: Internal Medicine; Lab Services; Health Education; Podiatry  
+⏰ Hours: Mon–Fri 8:00 am–5:00 pm; Sat/Sun closed  
 
-99. Denny Health Center
-📍 150 E Huron St, Chicago, IL 60611
-🌐 https://nearnorthhealth.org
-🗣 Languages: English
-🏥 Services: Internal Medicine, Lab Services
-⏰ Hours: Mon–Fri 8:00am–4:00pm
+15. Denny Health Center  
+📍 150 E Huron St, Chicago, IL 60611-2999  
+📝 HRSA database - Last reviewed April 2025  
+🌐 https://nearnorthhealth.org  
+🗣 Languages: English (primary)  
+🏥 Services: Internal Medicine; Lab Services  
+⏰ Hours: Mon–Fri 8:00 am–4:00 pm; Sat/Sun closed  
 
-106. Esperanza 63rd Street Annex
-📍 4104 W 63rd St, Chicago, IL 60629
-🌐 https://esperanzachicago.org
-🗣 Languages: English, Spanish
-🏥 Services: Insurance enrollment, SNAP/Medicaid assistance
-⏰ Hours: Mon–Wed 8:00am–5:00pm; Thu varies; Fri 8:00am–4:00pm; 2nd & 4th Sat 8:00am–2:00pm
+16. Esperanza 63rd Street Annex  
+📍 4104 W 63rd St, Chicago, IL 60629-5008  
+📝 HRSA database - Last reviewed April 2025  
+🌐 https://esperanzachicago.org  
+🗣 Languages: English; Spanish  
+🏥 Services: Patient benefit navigation (insurance enrollment, SNAP/Medicaid applications)  
+⏰ Hours: Mon–Wed 8:00 am–5:00 pm; Thu 11:15 am–7:00 pm (1st & 3rd Thu), otherwise 8:00 am–5:00 pm; Fri 8:00 am–4:00 pm; 2nd & 4th Sat 8:00 am–2:00 pm  
 
-113. Esperanza Academy for Global Citizenship
-📍 4647 W 47th St RM 200, Chicago, IL 60632
-🌐 https://esperanzachicago.org
-🗣 Languages: English, Spanish
-🏥 Services: School-based pediatric primary care and wellness
-⏰ Hours: Mon–Fri ~7:30am–5:00pm (school hours)
+17. Esperanza Academy for Global Citizenship  
+📍 4647 W 47th St RM 200, Chicago, IL 60632-4847  
+📝 HRSA database - Last reviewed April 2025  
+🌐 https://esperanzachicago.org  
+🗣 Languages: English; Spanish  
+🏥 Services: School-based health center – Pediatric primary care and wellness services for students (open to community as FQHC)  
+⏰ Hours: Mon–Fri ~7:30 am–5:00 pm (during school hours); closed Sat/Sun (approximate)  
 
-120. Esperanza Academy Annex
-📍 4941 W 46th St RM 100, Chicago, IL 60638
-🌐 https://esperanzachicago.org
-🗣 Languages: English, Spanish
-🏥 Services: School-based health extension (pediatric)
-⏰ Hours: Mon–Fri ~7:30am–5:00pm (school hours)
+18. Esperanza Academy for Global Citizenship Annex  
+📍 4941 W 46th St RM 100, Chicago, IL 60638-2023  
+📝 HRSA database - Last reviewed April 2025  
+🌐 https://esperanzachicago.org  
+🗣 Languages: English; Spanish  
+🏥 Services: School-based health center – Pediatric primary care and wellness services (extension of above)  
+⏰ Hours: Mon–Fri ~7:30 am–5:00 pm (during school hours); closed Sat/Sun (approximate)  
 
-127. Esperanza Brighton Park
-📍 4700 S California Ave, Chicago, IL 60632
-🌐 https://esperanzachicago.org
-🗣 Languages: English, Spanish
-🏥 Services: Adult & Pediatric Primary Care, Women’s Health, Behavioral Health
-⏰ Hours: Mon–Sat various hours; Sun closed
+19. Esperanza Brighton Park  
+📍 4700 S California Ave, Chicago, IL 60632-2016  
+📝 HRSA database - Last reviewed April 2025  
+🌐 https://esperanzachicago.org  
+🗣 Languages: English; Spanish  
+🏥 Services: Adult & Pediatric Primary Care; Women’s Health; Behavioral Health  
+⏰ Hours: Mon 7:15 am–5:45 pm; Tue/Wed 7:15 am–6:00 pm; Thu 11:30 am–6:45 pm (1st & 3rd), 7:15 am–5:45 pm (others); Fri 7:15 am–4:00 pm; Sat 7:30 am–4:00 pm; Sun closed  
 
-134. Esperanza Brighton Park Campus Expansion
-📍 4720 S California Ave, Chicago, IL 60632
-🌐 https://esperanzachicago.org
-🗣 Languages: English, Spanish
-🏥 Services: Adult & Pediatric Primary Care, Women’s Health, Behavioral Health
-⏰ Hours: Mon–Sat various hours; Sun closed
+20. Esperanza Brighton Park Campus Expansion  
+📍 4720 S California Ave, Chicago, IL 60632-2016  
+📝 HRSA database - Last reviewed April 2025  
+🌐 https://esperanzachicago.org  
+🗣 Languages: English; Spanish  
+🏥 Services: Adult & Pediatric Primary Care; Women’s Health; Behavioral Health  
+⏰ Hours: Mon 7:30 am–5:30 pm; Tue 7:30 am–4:30 pm; Wed 7:30 am–5:00 pm; Thu 11:30 am–6:30 pm (1st & 3rd), 7:30 am–4:30 pm (others); Fri 7:30 am–4:30 pm; Sat 7:30 am–3:30 pm; Sun closed  
 
-141. Esperanza California
-📍 2001 S California Ave, Ste 100, Chicago, IL 60608
-🌐 https://esperanzachicago.org
-🗣 Languages: English, Spanish
-🏥 Services: Adult & Pediatric Primary Care, Women’s Health (Ob/Gyn), Behavioral Health
-⏰ Hours: Mon–Sat various hours; Sun closed
+21. Esperanza California  
+📍 2001 S California Ave, Ste 100, Chicago, IL 60608-2486  
+📝 HRSA database - Last reviewed April 2025  
+🌐 https://esperanzachicago.org  
+🗣 Languages: English; Spanish  
+🏥 Services: Adult & Pediatric Primary Care; Women’s Health (Ob/Gyn); Behavioral Health  
+⏰ Hours: Mon/Tue 7:00 am–5:30 pm; Wed 7:00 am–6:00 pm; Thu 11:00 am–6:00 pm (1st), 7:00 am–5:30 pm (others); Fri 7:00 am–5:00 pm; Sat 7:00 am–2:00 pm; Sun closed  
 
-148. Esperanza California, Suite 101
-📍 2001 S California Ave STE 101, Chicago, IL 60608
-🌐 https://esperanzachicago.org
-🗣 Languages: English, Spanish
-🏥 Services: Clinic expansion for Primary Care, Women’s Health, Behavioral Health
-⏰ Hours: Same as Suite 100
+22. Esperanza California, Suite 101  
+📍 2001 S California Ave STE 101, Chicago, IL 60608-2486  
+📝 HRSA database - Last reviewed April 2025  
+🌐 https://esperanzachicago.org  
+🗣 Languages: English; Spanish  
+🏥 Services: Adult & Pediatric Primary Care; Women’s Health; Behavioral Health (clinic expansion)  
+⏰ Hours: Same as Suite 100 – Mon/Tue 7:00 am–5:30 pm; Wed 7:00 am–6:00 pm; Thu 11:00 am–6:00 pm (1st), 7:00 am–5:30 pm (others); Fri 7:00 am–5:00 pm; Sat 7:00 am–2:00 pm; Sun closed  
+
+23. Esperanza Little Village  
+📍 3059 W 26th St, Chicago, IL 60623-4131  
+📝 HRSA database - Last reviewed April 2025  
+🌐 https://esperanzachicago.org  
+🗣 Languages: English; Spanish  
+🏥 Services: Adult & Pediatric Primary Care; Women’s Health; Behavioral Health  
+⏰ Hours: Mon 7:30 am–5:30 pm; Tue 7:30 am–5:45 pm; Wed 7:30 am–5:30 pm; Thu 11:00 am–7:15 pm (1st & 3rd), 7:30 am–4:30 pm (others); Fri 8:00 am–5:30 pm; Sat 8:00 am–4:00 pm (except 5th Sat); Sun closed  
+
+24. Esperanza Marquette  
+📍 6550 S Richmond St, Chicago, IL 60629-2821  
+📝 HRSA database - Last reviewed April 2025  
+🌐 https://esperanzachicago.org  
+🗣 Languages: English; Spanish  
+🏥 Services: School-based health center – Primary care (family medicine, pediatrics), women’s health; behavioral health  
+⏰ Hours: Mon 7:30 am–5:45 pm; Tue/Wed 7:45 am–4:30 pm; Thu 11:30 am–6:00 pm (1st & 3rd), 7:30 am–5:30 pm (others); Fri 7:45 am–3:30 pm; 1st Sat 7:30 am–3:30 pm; 3rd Sat 7:45 am–11:30 am; Sun closed  
+
+25. Esperanza at 63rd  
+📍 4058 W 63rd St, Chicago, IL 60629-4639  
+📝 HRSA database - Last reviewed April 2025  
+🌐 https://esperanzachicago.org  
+🗣 Languages: English; Spanish  
+🏥 Services: Adult & Pediatric Primary Care; Women’s Health; Behavioral Health  
+⏰ Hours: Mon/Tue/Wed 7:30 am–5:30 pm; Thu 11:00 am–7:00 pm (1st & 3rd), 7:30 am–5:30 pm (others); Fri 7:30 am–4:00 pm; Sat 8:00 am–2:00 pm (2nd & 4th only); Sun closed  
+
+26. Esperanza at Charles G. Hammond Elementary School  
+📍 2819 W 21st Pl, Chicago, IL 60623-3503  
+📝 HRSA database - Last reviewed April 2025  
+🌐 https://esperanzachicago.org  
+🗣 Languages: English; Spanish  
+🏥 Services: School-based health center – limited services (behavioral health counseling for students)  
+⏰ Hours: Mon–Fri ~7:30 am–5:00 pm (during school hours); Sat/Sun closed (approximate)  
+
+27. Esperanza at Cultivate Collective  
+📍 4350 S Laporte Ave, Chicago, IL 60638  
+📝 HRSA database - Last reviewed April 2025  
+🌐 https://esperanzachicago.org  
+🗣 Languages: English; Spanish  
+🏥 Services: Adult & Pediatric Primary Care; Behavioral Health  
+⏰ Hours: Mon–Wed 7:30 am–5:00 pm; Thu 11:30 am–6:00 pm (1st), 12:00 pm–6:00 pm (3rd), 7:30 am–5:00 pm (others); Fri 7:30 am–3:00 pm; 4th Sat 8:00 am–2:00 pm; Sun closed  
+
+28. FFHC-Ashland  
+📍 4802 S Ashland Ave, Chicago, IL 60609-4233  
+📝 HRSA database - Last reviewed April 2025  
+🌐 http://friendfhc.org  
+🗣 Languages: English; Spanish  
+🏥 Services: Comprehensive primary care (adult & pediatric); women’s health; behavioral health; on-site lab/testing; HIV/STI services  
+⏰ Hours: Mon 8:00 am–5:00 pm; Tue 9:00 am–5:00 pm; Wed/Thu/Fri 8:00 am–5:00 pm; Sat/Sun closed  
+
+29. FFHC-Beethoven  
+📍 25 W 47th St, Chicago, IL 60609-4627  
+📝 HRSA database - Last reviewed April 2025  
+🌐 http://friendfhc.org  
+🗣 Languages: English; Spanish  
+🏥 Services: School-based health center – Pediatric primary care, immunizations, behavioral health (students)  
+⏰ Hours: Mon/Thu/Fri 8:00 am–5:00 pm (school year); Tue/Wed/Sat/Sun closed  
+
+30. FFHC-Pulaski  
+📍 5635 S Pulaski Rd, Chicago, IL 60629-4438  
+📝 HRSA database - Last reviewed April 2025  
+🌐 http://friendfhc.org  
+🗣 Languages: English; Spanish  
+🏥 Services: Comprehensive primary care (adult & pediatric); women’s health; behavioral health; on-site lab/testing; HIV/STI services  
+⏰ Hours: Mon 8:00 am–5:00 pm; Tue 9:00 am–5:00 pm; Wed/Thu/Fri 8:00 am–5:00 pm; Sat/Sun closed  
+
+31. FFHC-Western  
+📍 5843 S Western Ave, Chicago, IL 60636-1526  
+📝 HRSA database - Last reviewed April 2025  
+🌐 http://friendfhc.org  
+🗣 Languages: English; Spanish  
+🏥 Services: Comprehensive primary care (adult & pediatric); women’s health; behavioral health; on-site lab/testing; HIV/STI services  
+⏰ Hours: Mon/Fri 8:00 am–5:00 pm; Tue/Thu 9:00 am–5:00 pm; Wed 8:00 am–8:00 pm; Sat/Sun closed  
+
+32. FFHC-Woodlawn  
+📍 1522 E 63rd St, Chicago, IL 60637-2921  
+📝 HRSA database - Last reviewed April 2025  
+🌐 http://friendfhc.org  
+🗣 Languages: English; Spanish  
+🏥 Services: Comprehensive primary care (adult & pediatric); women’s health; behavioral health; on-site lab/testing; HIV/STI services  
+⏰ Hours: Mon 8:00 am–5:00 pm; Tue 9:00 am–5:00 pm; Wed/Thu/Fri 8:00 am–5:00 pm; Sat/Sun closed  
+
+33. Haymarket Center  
+📍 108 N Sangamon St, Chicago, IL 60607-2202  
+📝 HRSA database - Last reviewed April 2025  
+🌐 https://haymarketcenter.org  
+🗣 Languages: English; Spanish; Polish  
+🏥 Services: Substance use disorder treatment; detox; residential; outpatient; mental health; recovery support  
+⏰ Hours: 24 hours, 7 days (services available 24/7)  
+
+34. Haymarket Center  
+📍 120 N Sangamon St, Chicago, IL 60607-2202  
+📝 HRSA database - Last reviewed April 2025  
+🌐 https://haymarketcenter.org  
+🗣 Languages: English; Spanish; Polish  
+🏥 Services: Substance use disorder treatment; detox; residential; outpatient; mental health; recovery support  
+⏰ Hours: 24 hours, 7 days (services available 24/7)  
+
+35. Haymarket Center  
+📍 124 N Sangamon St, Chicago, IL 60607-2202  
+📝 HRSA database - Last reviewed April 2025  
+🌐 https://haymarketcenter.org  
+🗣 Languages: English; Spanish; Polish  
+🏥 Services: Substance use disorder treatment; detox; residential; outpatient; mental health; recovery support  
+⏰ Hours: 24 hours, 7 days (services available 24/7)  
+
+36. IMAN - Youth and Family Health Center  
+📍 2749 W 63rd St, Chicago, IL 60629-2342  
+📝 HRSA database - Last reviewed April 2025  
+🌐 https://imancentral.org  
+🗣 Languages: English; Spanish; Arabic  
+🏥 Services: Free community health clinic – comprehensive primary care (adult & pediatric); behavioral health counseling; social services support  
+⏰ Hours: Mon/Tue/Thu/Fri 9:00 am–5:00 pm; Wed 10:00 am–7:00 pm; Sat 8:00 am–12:00 pm; Sun 9:00 am–5:00 pm  
+
+37. IMAN Mobile Health Unit  
+📍 2744 W 63rd St, Chicago, IL 60629-2343  
+📝 HRSA database - Last reviewed April 2025  
+🌐 https://imancentral.org  
+🗣 Languages: English; Spanish; Arabic  
+🏥 Services: Mobile health clinic – screenings, immunizations, health education (community outreach)  
+⏰ Hours vary (operates on scheduled outreach events)  
+
+38. IMAN-Main Site  
+📍 2744 W 63rd St, Chicago, IL 60629-2343  
+📝 HRSA database - Last reviewed April 2025  
+🌐 https://imancentral.org  
+🗣 Languages: English; Spanish; Arabic  
+🏥 Services: Free community health clinic – comprehensive primary care (adult & pediatric); behavioral health counseling; social services support  
+⏰ Hours: Mon/Tue/Thu/Fri 9:00 am–5:00 pm; Wed 10:00 am–7:00 pm; Sat 8:00 am–12:00 pm; Sun 9:00 am–5:00 pm  
+
+39. Jose Clemente Orozco Academy  
+📍 1940 W 18th St, Chicago, IL 60608-1903  
+📝 HRSA database - Last reviewed April 2025  
+🌐 https://alivio.org  
+🗣 Languages: English; Spanish  
+🏥 Services: School-based health center – Pediatric primary care and behavioral health services for students  
+⏰ Hours: Mon–Thu 8:00 am–4:30 pm; Fri/Sat/Sun closed  
+
+40. Komed Holman Health Center  
+📍 4259 S Berkeley Ave, Chicago, IL 60653-3030  
+📝 HRSA database - Last reviewed April 2025  
+🌐 https://nearnorthhealth.org  
+🗣 Languages: English (primary)  
+🏥 Services: Internal Medicine; Women’s Health (Ob/Gyn); Pediatrics; Dental; Behavioral Health; WIC/Nutrition; lab, x-ray, pharmacy  
+⏰ Hours: Mon/Tue/Thu/Fri 8:00 am–5:00 pm; Wed 8:00 am–8:30 pm; Sat 9:00 am–1:00 pm; Sun closed  
+
+41. LCHC Belle Whaley  
+📍 3812 W Ogden Ave, Chicago, IL 60623-2458  
+📝 HRSA database - Last reviewed April 2025  
+🌐 https://lawndale.org  
+🗣 Languages: English, Spanish  
+🏥 Services: Women, Infants & Children (WIC) program; health support services  
+⏰ Hours: Mon–Fri ~8:30am–5:00pm  
+
+42. LCHC Eye Clinic  
+📍 3851 W Ogden Ave, Chicago, IL 60623-2459  
+📝 HRSA database - Last reviewed April 2025  
+🌐 https://lawndale.org  
+🗣 Languages: English, Spanish  
+🏥 Services: Optometry (comprehensive eye exams for adults & children)  
+⏰ Hours: Mon–Fri 8:30am–4:00pm; Sat/Sun closed  
+
+43. LCHC Health & Fitness - 3750  
+📍 3750 W Ogden Ave, Chicago, IL 60623-2426  
+📝 HRSA database - Last reviewed April 2025  
+🌐 https://lawndale.org  
+🗣 Languages: English, Spanish  
+🏥 Services: Women’s health (OB/GYN); Pediatrics; Family Dental Clinic; on-site lab  
+⏰ Hours: Mon 7:15am–7:00pm; Tue–Fri 7:15am–5:00pm; Dental: Mon/Wed/Fri 7:00am–5:00pm; Tue/Thu 7:00am–7:00pm; Sat/Sun closed  
+
+44. LCHC at 3745  
+📍 3745 W Ogden Ave, Chicago, IL 60623-2427  
+📝 HRSA database - Last reviewed April 2025  
+🌐 https://lawndale.org  
+🗣 Languages: English, Spanish  
+🏥 Services: Senior Day Services (SDS) and PACE elderly care program  
+⏰ Hours: No public clinic hours (services by schedule for seniors)  
+
+45. LCHC at 3910  
+📍 3910 W Ogden Ave, Chicago, IL 60623-2470  
+📝 HRSA database - Last reviewed April 2025  
+🌐 https://lawndale.org  
+🗣 Languages: English, Spanish  
+🏥 Services: Immediate Care (urgent care for minor illness/injury); On-site pharmacy  
+⏰ Hours: Mon–Fri 8:00am–7:30pm; Sat/Sun closed; Pharmacy: Mon–Sat 9:00am–5:00pm; Sun closed  
+
+46. LCHC at Archer Avenue  
+📍 5122 S Archer Ave, Chicago, IL 60632-4508  
+📝 HRSA database - Last reviewed April 2025  
+🌐 https://lawndale.org  
+🗣 Languages: English, Spanish  
+🏥 Services: Adult/internal medicine; Pediatrics; Women’s & prenatal care; vaccinations; on-site lab  
+⏰ Hours: Mon 8:30am–5:00pm; Tue 8:30am–7:00pm; Wed–Fri 8:30am–5:00pm; Sat/Sun closed  
+
+47. LCHC at Bobby E. Wright  
+📍 5002 W Madison St, Chicago, IL 60644-4127  
+📝 HRSA database - Last reviewed April 2025  
+🌐 https://lawndale.org  
+🗣 Languages: English, Spanish  
+🏥 Services: Primary care services on-site at behavioral health center  
+⏰ Hours: Limited hours (clinic services provided to center clients; call for availability)  
+
+48. LCHC at Breakthrough Men's Shelter  
+📍 402 N Saint Louis Ave, Chicago, IL 60624-1332  
+📝 HRSA database - Last reviewed April 2025  
+🌐 https://lawndale.org  
+🗣 Languages: English, Spanish  
+🏥 Services: On-site medical clinic for homeless men (primary care, screenings)  
+⏰ Hours: Limited hours (Lawndale mobile team weekly visits)  
+
+49. LCHC at Breakthrough Women's Center  
+📍 3330 W Carroll Ave, Chicago, IL 60624-2034  
+📝 HRSA database - Last reviewed April 2025  
+🌐 https://lawndale.org  
+🗣 Languages: English, Spanish  
+🏥 Services: On-site medical clinic for homeless women and families  
+⏰ Hours: Limited hours (Lawndale mobile team weekly visits)  
+
+50. LCHC at Farragut Academy  
+📍 3256 W 24th St, Chicago, IL 60623-3407  
+📝 HRSA database - Last reviewed April 2025  
+🌐 https://lawndale.org  
+🗣 Languages: English, Spanish  
+🏥 Services: School-based primary healthcare for students  
+⏰ Hours: Mon–Fri 8:30am–5:00pm; Sat/Sun closed  
+
+51. LCHC at Franciscan Harrison  
+📍 2715 W Harrison St, Chicago, IL 60612-3422  
+📝 HRSA database - Last reviewed April 2025  
+🌐 https://lawndale.org  
+🗣 Languages: English, Spanish  
+🏥 Services: On-site clinic for shelter residents (primary care, basic acute care)  
+⏰ Hours: Limited hours (weekly clinic sessions for shelter guests)  
+
+52. LCHC at Garfield Park FamilyPlex  
+📍 3219 W Carroll Ave FL 1, Chicago, IL 60624-2031  
+📝 HRSA database - Last reviewed April 2025  
+🌐 https://lawndale.org  
+🗣 Languages: English, Spanish  
+🏥 Services: Family Practice, Internal Medicine, Pediatrics, OB/GYN, Prenatal care  
+⏰ Hours: Mon 8:30am–5:00pm; Tue 8:30am–7:00pm; Wed–Fri 8:30am–5:00pm; Sat/Sun closed  
+
+53. LCHC at Habilitative Systems  
+📍 415 S Kilpatrick Ave, Chicago, IL 60644-4923  
+📝 HRSA database - Last reviewed April 2025  
+🌐 https://lawndale.org  
+🗣 Languages: English, Spanish  
+🏥 Services: On-site health clinic for residents in transitional housing (primary care)  
+⏰ Hours: Limited hours (visiting clinic services; call for schedule)  
+
+54. LCHC at Hand-n-Hand  
+📍 4207 W Carroll Ave, Chicago, IL 60624-1704  
+📝 HRSA database - Last reviewed April 2025  
+🌐 https://lawndale.org  
+🗣 Languages: English, Spanish  
+🏥 Services: On-site healthcare for transitional housing residents (primary care, screenings)  
+⏰ Hours: Limited hours (visiting clinic services; call for schedule)  
+
+55. LCHC at Homan Square  
+📍 3517 W Arthington St Side West, Chicago, IL 60624-4165  
+📝 HRSA database - Last reviewed April 2025  
+🌐 https://lawndale.org  
+🗣 Languages: English, Spanish  
+🏥 Services: Adult and Children’s primary care; Dental clinic on-site  
+⏰ Hours: Mon–Tue 7:15am–7:00pm; Wed–Fri 8:30am–5:00pm; Sat/Sun closed; Dental: Mon–Fri 7:00am–5:00pm  
+
+56. LCHC at Midway Shelter  
+📍 7353 S Cicero Ave, Chicago, IL 60629-5816  
+📝 HRSA database - Last reviewed April 2025  
+🌐 https://lawndale.org  
+🗣 Languages: English, Spanish  
+🏥 Services: On-site health screenings & basic care for migrant/homeless shelter residents  
+⏰ Hours: On-site medical team daily; hours vary (staff available for shelter residents)  
+
+57. LCHC at Pacific Garden Mission  
+📍 1458 S Canal St FL 1, Chicago, IL 60607-5201  
+📝 HRSA database - Last reviewed April 2025  
+🌐 https://lawndale.org  
+🗣 Languages: English, Spanish  
+🏥 Services: Free clinic within homeless mission (acute medical care, triage)  
+⏰ Hours: Open 24/7 (shelter infirmary is open at all hours)  
+
+58. LCHC at Primo Center for Women and Children  
+📍 4952 W Madison St, Chicago, IL 60644-3541  
+📝 HRSA database - Last reviewed April 2025  
+🌐 https://lawndale.org  
+🗣 Languages: English, Spanish  
+🏥 Services: On-site health clinic for homeless families (integrated medical, dental, mental health)  
+⏰ Hours: Limited hours (weekly clinic days on-site; coordinated with shelter programming)  
+
+59. LCHC at Salvation Army Freedom Center  
+📍 825 N Christiana Ave RM 042, Chicago, IL 60651-4110  
+📝 HRSA database - Last reviewed April 2025  
+🌐 https://lawndale.org  
+🗣 Languages: English, Spanish  
+🏥 Services: On-site primary care clinic for rehabilitation program participants  
+⏰ Hours: Limited hours (clinic services available on designated days)  
+
+60. LCHC at Walls Memorial  
+📍 200 S Sacramento Blvd, Chicago, IL 60612-2716  
+📝 HRSA database - Last reviewed April 2025  
+🌐 https://lawndale.org  
+🗣 Languages: English, Spanish  
+🏥 Services: On-site health services for shelter guests (basic medical care)  
+⏰ Hours: Limited hours (visiting clinic schedule; call for details)  
 
