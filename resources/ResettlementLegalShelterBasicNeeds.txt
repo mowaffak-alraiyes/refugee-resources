@@ -1,6 +1,6 @@
 Category: Resettlement, Legal, Shelter & Basic Needs
 
-RefugeeOne
+1. RefugeeOne
 📍 4753 N Broadway St Suite 401, Chicago, IL 60640
 📝 Last verified: 01/15/2024
 🌐 https://refugeeone.org
@@ -9,7 +9,7 @@ RefugeeOne
 ⏰ Hours: Mon–Fri 9:00 AM–5:00 PM
 📞 (773) 989-5647
 
-Catholic Charities (Refugee Resettlement)
+2. Catholic Charities (Refugee Resettlement)
 📍 721 N LaSalle St, Chicago, IL 60654
 📝 Last verified: 04/10/2024
 🌐 https://www.catholiccharities.net
@@ -18,7 +18,7 @@ Catholic Charities (Refugee Resettlement)
 ⏰ Hours: Mon–Fri 8:30 AM–4:30 PM
 📞 (312) 655-7700
 
-Heartland Alliance (Refugee & Immigrant Community Services)
+3. Heartland Alliance (Refugee & Immigrant Community Services)
 📍 4411 N Ravenswood Ave, Chicago, IL 60640
 📝 Last verified: 05/30/2024
 🌐 https://heartlandalliance.org
@@ -27,7 +27,7 @@ Heartland Alliance (Refugee & Immigrant Community Services)
 ⏰ Hours: Mon–Fri 9:00 AM–5:00 PM
 📞 (312) 660-1300
 
-National Immigrant Justice Center (NIJC)
+4. National Immigrant Justice Center (NIJC)
 📍 224 S Michigan Ave Suite 600, Chicago, IL 60604
 📝 Last verified: 03/01/2024
 🌐 https://immigrantjustice.org
@@ -36,7 +36,7 @@ National Immigrant Justice Center (NIJC)
 ⏰ Hours: Mon–Fri 9:00 AM–5:00 PM
 📞 (312) 660-1370
 
-Iraqi Mutual Aid Society
+5. Iraqi Mutual Aid Society
 📍 2607 W Devon Ave Suite 2E, Chicago, IL 60659
 📝 Last verified: 07/20/2023
 🌐 https://iraqimutualaid.org
@@ -45,7 +45,7 @@ Iraqi Mutual Aid Society
 ⏰ Hours: Mon–Fri 9:00 AM–5:00 PM
 📞 (773) 409-4597
 
-Latinos Progresando
+6. Latinos Progresando
 📍 3047 W Cermak Rd, Chicago, IL 60623
 📝 Last verified: 05/22/2024
 🌐 https://latinospro.org
@@ -54,7 +54,7 @@ Latinos Progresando
 ⏰ Hours: Mon–Fri 9:00 AM–5:00 PM
 📞 (773) 542-7077
 
-Apna Ghar (Our Home)
+7. Apna Ghar (Our Home)
 📍 4350 N Broadway St, Chicago, IL 60613
 📝 Last verified: 03/08/2024
 🌐 https://apnaghar.org
@@ -63,7 +63,7 @@ Apna Ghar (Our Home)
 ⏰ Hours: Office: Mon–Fri 9:00 AM–5:00 PM (Crisis line 24/7)
 📞 (773) 334-4663 (24/7 hotline)
 
-Chicago 311 City Services Hotline
+8. Chicago 311 City Services Hotline
 📍 Chicago, IL (citywide hotline)
 📝 Last verified: 01/01/2025
 🌐 https://311.chicago.gov
@@ -72,7 +72,7 @@ Chicago 311 City Services Hotline
 ⏰ Hours: 24/7 hotline
 📞 311
 
-Greater Chicago Food Depository (Benefits Outreach)
+9. Greater Chicago Food Depository (Benefits Outreach)
 📍 4100 W Ann Lurie Pl, Chicago, IL 60632
 📝 Last verified: 11/01/2023
 🌐 https://chicagosfoodbank.org
@@ -81,7 +81,7 @@ Greater Chicago Food Depository (Benefits Outreach)
 ⏰ Hours: Mon–Fri 8:30 AM–5:00 PM
 📞 (773) 247-3663
 
-Pacific Garden Mission
+10. Pacific Garden Mission
 📍 1458 S Canal St, Chicago, IL 60607
 📝 Last verified: 10/15/2023
 🌐 https://www.pgm.org
@@ -90,7 +90,7 @@ Pacific Garden Mission
 ⏰ Hours: Intake 24/7 (overnight shelter daily)
 📞 (312) 492-9410
 
-Legal Aid Chicago
+11. Legal Aid Chicago
 📍 120 S LaSalle St Suite 900, Chicago, IL 60603
 📝 Last verified: 05/01/2024
 🌐 https://legalaidchicago.org
@@ -99,7 +99,7 @@ Legal Aid Chicago
 ⏰ Hours: Mon–Fri 8:30 AM–5:00 PM
 📞 (312) 341-1070
 
-Salvation Army – Shield of Hope Shelter
+12. Salvation Army – Shield of Hope Shelter
 📍 924 N Christiana Ave, Chicago, IL 60651
 📝 Last verified: 01/10/2024
 🌐 https://centralusa.salvationarmy.org
@@ -108,7 +108,7 @@ Salvation Army – Shield of Hope Shelter
 ⏰ Hours: Open 24/7 (via 311 referral)
 📞 311 (24/7 intake)
 
-IDHS Family Community Resource Center (Uptown)
+13. IDHS Family Community Resource Center (Uptown)
 📍 5050 N Broadway St, Chicago, IL 60640
 📝 Last verified: 04/15/2024
 🌐 http://www.dhs.state.il.us
@@ -117,7 +117,7 @@ IDHS Family Community Resource Center (Uptown)
 ⏰ Hours: Mon–Fri 8:30 AM–5:00 PM
 📞 (800) 843-6154
 
-World Relief Chicago
+14. World Relief Chicago
 📍 3507 W Lawrence Ave, Chicago, IL 60625
 📝 Last verified: 07/01/2023
 🌐 https://worldrelief.org/chicago
@@ -126,7 +126,7 @@ World Relief Chicago
 ⏰ Hours: Mon–Fri 9:00 AM–5:00 PM
 📞 (773) 583-9191
 
-Ethiopian Community Association of Chicago
+15. Ethiopian Community Association of Chicago
 📍 5800 N Lincoln Ave, Chicago, IL 60659
 📝 Last verified: 06/15/2023
 🌐 http://ecachicago.org
@@ -135,7 +135,7 @@ Ethiopian Community Association of Chicago
 ⏰ Hours: Mon–Fri 9:00 AM–5:00 PM
 📞 (773) 728-0303
 
-Chinese Mutual Aid Association
+16. Chinese Mutual Aid Association
 📍 1016 W Argyle St, Chicago, IL 60640
 📝 Last verified: 02/10/2024
 🌐 https://www.chinesemutualaid.org
@@ -144,7 +144,7 @@ Chinese Mutual Aid Association
 ⏰ Hours: Mon–Fri 9:00 AM–5:00 PM
 📞 (773) 784-2900
 
-Indo-American Center
+17. Indo-American Center
 📍 6328 N California Ave, Chicago, IL 60659
 📝 Last verified: 08/05/2023
 🌐 https://indoamerican.org
@@ -153,7 +153,7 @@ Indo-American Center
 ⏰ Hours: Mon–Fri 9:00 AM–5:00 PM
 📞 (773) 973-4444
 
-Pan-African Association
+18. Pan-African Association
 📍 6163 N Broadway, Chicago, IL 60660
 📝 Last verified: 09/12/2023
 🌐 http://panafricanassociation.org
@@ -162,7 +162,7 @@ Pan-African Association
 ⏰ Hours: Mon–Fri 9:00 AM–5:00 PM
 📞 (773) 381-9723
 
-Polish American Association
+19. Polish American Association
 📍 3834 N Cicero Ave, Chicago, IL 60641
 📝 Last verified: 04/01/2024
 🌐 https://polish.org
