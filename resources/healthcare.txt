@@ -1422,6 +1422,7 @@ New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 📝 HRSA Health Center Program — Last reviewed 07/2026
 📞 (312) 787-4570
 🏥 Services: HRSA-supported health center (primary and preventive care)
+🌐 https://www.lawndale.org
 
 163. Winfield Moody Health Center
 1276 N Clybourn Ave, Chicago, IL, 60610-2089
@@ -1517,6 +1518,7 @@ New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 📝 HRSA Health Center Program — Last reviewed 07/2026
 📞 (872) 588-3000
 🏥 Services: HRSA-supported health center (primary and preventive care)
+🌐 https://www.lawndale.org
 
 177. Erie Westside Health Center at Laura S. Ward Elementary
 646 N Lawndale Ave, Chicago, IL, 60624-1254
@@ -1530,6 +1532,7 @@ New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 📝 HRSA Health Center Program — Last reviewed 07/2026
 📞 (872) 588-3183
 🏥 Services: HRSA-supported health center (primary and preventive care)
+🌐 https://www.lawndale.org
 
 179. LCHC at the Gallery
 3824 W Ogden Ave Fl 1, Chicago, IL, 60623-2458
@@ -1543,12 +1546,14 @@ New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 📝 HRSA Health Center Program — Last reviewed 07/2026
 📞 (872) 235-0777
 🏥 Services: HRSA-supported health center (primary and preventive care)
+🌐 https://www.pcccommunitywellness.org
 
 181. Erie Sankofa Village Health Center
 4305 W Madison St, Chicago, IL, 60624-2224
 📝 HRSA Health Center Program — Last reviewed 07/2026
 📞 (312) 666-3494
 🏥 Services: HRSA-supported health center (primary and preventive care)
+🌐 https://www.eriefamilyhealth.org
 
 182. Sunnyside Health Center
 4140 N Broadway St, Chicago, IL, 60613-2121
@@ -1610,6 +1615,7 @@ New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 📝 HRSA Health Center Program — Last reviewed 07/2026
 📞 (708) 406-3929
 🏥 Services: HRSA-supported health center (primary and preventive care)
+🌐 https://www.pcccommunitywellness.org
 
 191. LCHC at MWRD
 3034 W Foster Ave  RM Community, Chicago, IL, 60625-4154
@@ -1630,6 +1636,7 @@ New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 📝 HRSA Health Center Program — Last reviewed 07/2026
 📞 (872) 588-3000
 🏥 Services: HRSA-supported health center (primary and preventive care)
+🌐 https://www.lawndale.org
 
 194. UI Health Mile Square Health Center Dental - 55th and Pulaski
 5525 S. Pulaski Road  STE 150, Chicago, IL, 60629-4400
@@ -1650,6 +1657,7 @@ New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 📝 HRSA Health Center Program — Last reviewed 07/2026
 📞 (872) 731-2257
 🏥 Services: HRSA-supported health center (primary and preventive care)
+🌐 https://www.lawndale.org
 
 197. Midwest Refuah Health Center- Behavioral Health
 6374 N Lincoln Ave, Ste 305, Chicago, IL, 60659-1283
@@ -1670,12 +1678,14 @@ New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 📝 HRSA Health Center Program — Last reviewed 07/2026
 📞 773-764-4998 x108
 🏥 Services: HRSA-supported health center (primary and preventive care)
+🌐 https://www.lawndale.org
 
 200. LCHC at Robert Johnson Inner Voice
 8040 S. Western Ave, Medication Room, Chicago, IL, 60620-5936
 📝 HRSA Health Center Program — Last reviewed 07/2026
 📞 (312) 994-4351
 🏥 Services: HRSA-supported health center (primary and preventive care)
+🌐 https://www.lawndale.org
 
 201. TCA Chatham II
 8419 S Cottage Grove Ave, Chicago, IL, 60619-6113
@@ -1710,6 +1720,7 @@ New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 📝 HRSA Health Center Program — Last reviewed 07/2026
 📞 (708) 745-5277
 🏥 Services: HRSA-supported health center (primary and preventive care)
+🌐 http://www.pillarscommunityhealth.org
 
 206. Pillars Community Health La Grange Park
 321 N La Grange Rd, La Grange Park, IL, 60526-5622
@@ -1723,6 +1734,7 @@ New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 📝 HRSA Health Center Program — Last reviewed 07/2026
 📞 (773) 264-5665
 🏥 Services: HRSA-supported health center (primary and preventive care)
+🌐 https://www.lawndale.org
 
 208. 10225 Grand Avenue, Franklin Park, IL 60131
 10225 Grand Ave, Franklin Park, IL, 60131-3138
@@ -1771,18 +1783,21 @@ New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 📝 HRSA Health Center Program — Last reviewed 07/2026
 📞 (844) 599-3700
 🏥 Services: HRSA-supported health center (primary and preventive care)
+🌐 http://www.greaterfamilyhealth.org
 
 215. VNA Health Center - Bensenville
 213 W Main St, Bensenville, IL, 60106-2134
 📝 HRSA Health Center Program — Last reviewed 07/2026
 📞 (630) 892-4355
 🏥 Services: HRSA-supported health center (primary and preventive care)
+🌐 http://www.vnahealth.com
 
 216. VNA Health Care - Villa Park
 101 East St. Charles Road,  2nd Floor, Villa Park, IL, 60181-2476
 📝 HRSA Health Center Program — Last reviewed 07/2026
 📞 (630) 892-4355
 🏥 Services: HRSA-supported health center (primary and preventive care)
+🌐 http://www.vnahealth.com
 
 217. Hamdard Health Addison
 228 E Lake St, Addison, IL, 60101-2889
@@ -1921,12 +1936,14 @@ New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 📝 HRSA Health Center Program — Last reviewed 07/2026
 📞 (630) 830-5926
 🏥 Services: HRSA-supported health center (primary and preventive care)
+🌐 http://www.legacymedicalcare.org
 
 237. VNA Health Care Romeoville
 160 N Independence Blvd, Romeoville, IL, 60446-1803
 📝 HRSA Health Center Program — Last reviewed 07/2026
 📞 (630) 892-4355
 🏥 Services: HRSA-supported health center (primary and preventive care)
+🌐 http://www.vnahealth.com
 
 238. 135 Irving Park Road
 135 Irving Park Road, Streamwood, IL, 60107
@@ -2002,6 +2019,7 @@ New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 📝 HRSA Health Center Program — Last reviewed 07/2026
 📞 (847) 749-2248
 🏥 Services: HRSA-supported health center (primary and preventive care)
+🌐 http://www.legacymedicalcare.org
 
 249. Erie Waukegan Health Center
 2323 Grand Ave, Waukegan, IL, 60085-3312
@@ -2056,6 +2074,7 @@ New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 📝 HRSA Health Center Program — Last reviewed 07/2026
 📞 (630) 892-4355
 🏥 Services: HRSA-supported health center (primary and preventive care)
+🌐 http://www.vnahealth.com
 
 257. 1435 N Randall Rd
 1435 N Randall Rd Ste 408, Elgin, IL, 60123-2305
@@ -2145,6 +2164,7 @@ New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 📝 HRSA Health Center Program — Last reviewed 07/2026
 📞 (815) 972-1000
 🏥 Services: HRSA-supported health center (primary and preventive care)
+🌐 http://hospital.uillinois.edu/patients-and-visitors/mile-square-federally-qualified-health-center
 
 270. Crusader Community Health Loves Park
 6115 N    2nd St, Loves Park, IL, 61111-4155
@@ -2191,6 +2211,7 @@ New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider — Last reviewed 07/2026
 📞 (312) 355-3785
 🏥 Services: Ryan White HIV/AIDS Program care and support services (HIV medical care, case management, and related HAB-funded supports)
+🌐 http://n/a
 
 277. CORE CENTER
 2020 W Harrison St, Chicago, IL, 60612-3741
@@ -2233,12 +2254,14 @@ New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider — Last reviewed 07/2026
 📞 (888) 824-0200
 🏥 Services: Ryan White HIV/AIDS Program care and support services (HIV medical care, case management, and related HAB-funded supports)
+🌐 http://n/a
 
 284. UNIVERSITY OF CHICAGO PEDIATRIC & ADOLESCENT HIV PROGRAM
 5841 S Maryland Ave # MC605, Chicago, IL, 60637-1443
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider — Last reviewed 07/2026
 📞 (773) 702-5872
 🏥 Services: Ryan White HIV/AIDS Program care and support services (HIV medical care, case management, and related HAB-funded supports)
+🌐 http://n/a
 
 285. CARE2PREVENT CLINIC AT FRIEND HEALTH
 6250 S Cottage Grove Ave, Chicago, IL, 60637-2530
