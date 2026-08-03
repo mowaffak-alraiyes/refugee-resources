@@ -276,6 +276,7 @@ Bryant St, San Francisco, CA, 94107
 350 90th St., 3rd Floor, Daly City, CA, 94015-1880
 🏥 Services: primary_care
 📞 650-991-2240
+🌐 https://www.co.sanmateo.ca.us
 
 53. NORTH COUNTY MENTAL HEALTH
 1400 Emeline Ave Ste 150,277,280, SANTA CRUZ, CA, 95060-1976
@@ -460,6 +461,7 @@ Bryant St, San Francisco, CA, 94107
 770 53rd St Ste 100, Oakland, CA, 94609-1814
 🏥 Services: primary_care
 📞 510-428-3783
+🌐 https://www.childrenshospitaloakland.org
 
 85. WILLIAM BYRON RUMFORD MED CLINIC
 2960 SACRAMENTO ST, BERKELEY, CA, 94702-2510
@@ -587,6 +589,7 @@ Koret Building Floors 6 & 7Highland General Hospital Campus1411 E. 31st Street, 
 540 Ashbury Ave, El Cerrito, CA, 94530-3221
 🏥 Services: primary_care
 📞 510-231-1437
+🌐 https://www.edcchc.org
 
 107. TIGER HEALTH CLINIC (aka Fremont High School-Based Clinic)
 4610 FOOTHILL BLVD, OAKLAND, CA, 94601-4618
@@ -630,6 +633,7 @@ Koret Building Floors 6 & 7Highland General Hospital Campus1411 E. 31st Street, 
 170 Hegenberger Loop, Oakland, CA, 94621-1326
 🏥 Services: primary_care
 📞 510-377-2872
+🌐 http://www.lifelongmedical.org/locations/our-locations/trust-health-center.html
 
 115. Redwood High School Teen Clinic
 395 Doherty Dr, Larkspur, CA, 94939-1536
@@ -841,6 +845,7 @@ Koret Building Floors 6 & 7Highland General Hospital Campus1411 E. 31st Street, 
 222 W   39th Ave, San Mateo, CA, 94403-4364
 🏥 Services: primary_care
 📞 650-573-2561
+🌐 http://www.alamedahealthsystem.org/services/community-health/
 
 153. EDISON CLINIC
 222 W 39th Ave # S-130, San Mateo, CA, 94403-4364
@@ -1318,6 +1323,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 2400 Moorpark Ave  STE 110, San Jose, CA, 95128
 🏥 Services: primary_care
 📞 408-975-2730
+🌐 http://aaci.org/main/programs/health/#health-center
 
 239. ST. JAMES HEALTH CENTER
 55 E Julian St, San Jose, CA, 95112-4007
@@ -1340,6 +1346,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 725 E Santa Clara St, San Jose, CA, 95112-1900
 🏥 Services: primary_care
 📞 408-918-2682
+🌐 https://www.gardnerhealthservices.org
 
 243. John XXIII Health Center
 195 E San Fernando St Ste 100, San Jose, CA, 95112-3503
@@ -1644,6 +1651,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 1500 Capitola Rd, Santa Cruz, CA, 95062-2912
 🏥 Services: primary_care
 📞 831-276-7010
+🌐 https://dientes.org
 
 298. Mountain Health Mobile
 1510 Capitola Rd, Santa Cruz, CA, 95062-2912
@@ -1895,6 +1903,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 302 Northgate Dr, Manteca, CA, 95336-3139
 🏥 Services: primary_care
 📞 209-383-1848
+🌐 https://www.gvhc.org
 
 342. Family Medicine Clinic
 500 W Hospital Rd Ste B, French Camp, CA, 95231-9693
@@ -2168,6 +2177,9 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 2051 John Jones Rd, Davis, CA, 95616-9701
 🏥 Services: primary_care
 📞 530-758-2060
+🌐 http://davisstreet.org/
+🗣 Languages: English
+⏰ Hours: Friday 9:00
 
 392. Family Wellness Center - Hope Building
 619 Lincoln Ave, Woodland, CA, 95695-4017
@@ -2247,6 +2259,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 4675 Missouri Flat Rd, Placerville, CA, 95667-6816
 🏥 Services: primary_care
 📞 530-621-7700
+🌐 https://www.edcchc.org
 
 406. Peach Tree Mobile Unit
 5600 Lindhurst Ave, Marysville, CA, 95901-7109
@@ -2335,6 +2348,8 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 747 E Channel St, Stockton, CA, 95202-2628
 🏥 Services: primary_care
 📞 209-944-4700
+🌐 https://www.communitymedicalcenters.org
+🗣 Languages: Spoken
 
 422. Community Medical Centers, Dorothy L. Jones
 2044 Fair St, Stockton, CA, 95206-2313
@@ -2412,11 +2427,13 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 208 W Coolidge Ave, Modesto, CA, 95350-4447
 🏥 Services: primary_care
 📞 209-724-6200
+🌐 https://www.gvhc.org
 
 436. Central Valley PACE
 2401 E Orangeburg Ave Ste 330, Modesto, CA, 95355-3396
 🏥 Services: primary_care
 📞 209-373-2800
+🌐 https://www.cnhfclinic.org
 
 437. Modesto Orangeburg Ave Center
 2116 E. Orangeburg Avenue, Modesto, CA, 95355-3370
@@ -2473,11 +2490,13 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 2101 Tenaya Dr, Modesto, CA, 95354-3930
 🏥 Services: primary_care
 📞 209-576-6766
+🌐 https://www.gvhc.org
 
 447. GVHC - Empire
 198 N. G Street, Empire, CA, 95319
 🏥 Services: primary_care
 📞 209-383-1848
+🌐 https://www.gvhc.org
 
 448. GVHC - Ceres East
 1920 MEMORIAL DR, CERES, CA, 95307-1827
@@ -2675,6 +2694,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 123 S Alvarado St, Los Angeles, CA, 90057-2201
 🏥 Services: primary_care
 📞 213-989-7700
+🌐 https://www.laclinica.org
 
 482. Benevolence Health Center- Alvarado
 2065 W 6th St Ste 110, Los Angeles, CA, 90057-3180
@@ -2985,6 +3005,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 1300 N Vermont Ave Ste 606, Los Angeles, CA, 90027-6088
 🏥 Services: primary_care
 📞 323-660-6200
+🌐 https://Under Construction
 
 536. APHCV-Los Feliz Health Center
 1530 Hillhurst Ave, Los Angeles, CA, 90027-5516
@@ -4530,6 +4551,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 5472 El Cajon Boulevard  STE 101, San Diego, CA, 92115
 🏥 Services: primary_care
 📞 619-515-2300
+🌐 https://www.edcchc.org
 
 807. FamilyHealth - Center for Older Adults
 3420 College Ave, San Diego, CA, 92115-7134
@@ -4807,6 +4829,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 1111 E Washington Ave STE A, B, G, ESCONDIDO, CA, 92025
 🏥 Services: primary_care
 📞 760-466-8700
+🌐 https://www.daphealth.org
 
 859. Oak Hill Elementary School
 1820 Oak Hill Dr  RM MPR, Escondido, CA, 92027-3731
@@ -4954,6 +4977,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 590 Palm Canyon Dr Ste 212, Borrego Springs, CA, 92004
 🏥 Services: primary_care
 📞 760-767-5112
+🌐 https://www.daphealth.org
 
 886. Camino Health Center - SJC Allcove
 27125 Calle Arroyo, San Juan Capistrano, CA, 92675-2763
@@ -5322,6 +5346,8 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 4770 N Cedar Ave, Fresno, CA, 93726-1065
 🏥 Services: primary_care
 📞 559-860-4900
+🌐 https://www.all4health.org
+⏰ Hours: Sat - 8:00am
 
 952. North Marks Medical Clinic
 4011 N Marks Ave, Fresno, CA, 93722-4555
@@ -5685,6 +5711,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 857 W Childs Ave, Merced, CA, 95341-6862
 🏥 Services: primary_care
 📞 209-385-5600
+🌐 https://www.gvhc.org
 
 1014. GVHC  - Merced Suites
 847 W. CHILDS AVE, MERCED, CA, 95341-6862
@@ -5707,11 +5734,13 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 3940 Sandpiper Avenue, Merced, CA, 95340-8361
 🏥 Services: primary_care
 📞 209-383-1848
+🌐 https://www.gvhc.org
 
 1018. GVHC - Merced Ranchero
 2752 Ranchero Ln, Merced, CA, 95348-3503
 🏥 Services: primary_care
 📞 866-682-4842
+🌐 https://www.gvhc.org
 
 1019. Camarena Health - Los Banos
 2520 Pacheco Boulevard, Los Banos, CA, 93635-9403
@@ -5728,6 +5757,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 365 Pearson Dr Ste 5, Porterville, CA, 93257-3360
 🏥 Services: primary_care
 📞 559-788-2175
+🌐 https://Under Construction
 
 1022. Family HealthCare Network - Porterville Dental Center
 1133 W Poplar Ave, Porterville, CA, 93257-5839
@@ -5787,6 +5817,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 1199 Delbon Ave Ste 3, Turlock, CA, 95382-2006
 🏥 Services: primary_care
 📞 209-385-5503
+🌐 https://www.gvhc.org
 
 1032. Turlock Colorado Ave Center
 2141 Colorado Ave, Turlock, CA, 95382-2011
@@ -5804,11 +5835,13 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 733 3rd St, Mc Farland, CA, 93250-1008
 🏥 Services: primary_care
 📞 661-792-3097
+🌐 https://www.chcoa.org
 
 1035. GVHC - Turlock Monte Vista
 2240 W Monte Vista Ave, Turlock, CA, 95382-9667
 🏥 Services: primary_care
 📞 209-385-5503
+🌐 https://www.gvhc.org
 
 1036. Waterford Bentley St Center
 12619 BENTLEY ST, WATERFORD, CA, 95386-9011
@@ -6368,6 +6401,7 @@ Anonymous, Santa Maria, CA, 93454-0000
 9919 Laurel Canyon Blvd, Pacoima, CA, 91331-3940
 🏥 Services: primary_care
 📞 213-989-7700
+🌐 http://www.laclinica.org
 
 1138. S. Mark Taper Center For a Healthy Community - WINNETKA Clinic
 20800 SHERMAN WAY, WINNETKA, CA, 91306-2707
@@ -6499,6 +6533,7 @@ Anonymous, Santa Maria, CA, 93454-0000
 7400 Van Nuys Blvd.  # 120, Van Nuys, CA, 91405-1972
 🏥 Services: primary_care
 📞 818-782-9892
+🌐 https://www.laclinica.org
 
 1162. Van Nuys Women's & Reproductive Health Center Suite 306
 14624 Sherman Way, Ste 306, Van Nuys, CA, 91405-2288
@@ -6543,6 +6578,7 @@ Anonymous, Santa Maria, CA, 93454-0000
 6330 Van Nuys Blvd.  UNIT A, Van Nuys, CA, 91401-2610
 🏥 Services: primary_care
 📞 818-994-9822
+🌐 https://www.laclinica.org
 
 1170. VALLEY COMMUNITY HEALTHCARE
 6801 Coldwater Canyon Ave, North Hollywood, CA, 91605-5162
