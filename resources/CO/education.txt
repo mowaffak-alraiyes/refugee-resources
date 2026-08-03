@@ -2,3 +2,13 @@
 # Populated by Aidr HRSA import / clinic-ops (hub cities, 250-mile catchment).
 # Format: numbered blocks matching IL listings (name, address, 📞, 🌐, 🏥, 🗣, ⏰, 📝).
 
+1. Spring Institute for Intercultural Learning
+1373 Grant St, Denver, CO 80203
+🌐 https://www.springinstitute.org
+🏥 Services: ESL, workforce, interpreter training, adult education
+
+2. Emily Griffith Technical College
+1860 Lincoln St, Denver, CO 80203
+🌐 https://www.emilygriffith.edu
+🏥 Services: ESL, GED, career training, adult education
+
