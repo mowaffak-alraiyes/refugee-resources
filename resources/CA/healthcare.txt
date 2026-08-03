@@ -299,6 +299,8 @@ Bryant St, San Francisco, CA, 94107
 1699 W Grand Ave, Oakland, CA, 94607-1606
 🏥 Services: primary_care
 📞 510-986-6830
+🌐 https://ahsfhc.org
+⏰ Hours: Friday: 9am-5pm
 
 57. AHS Dental Clinic @ CoA
 555 Ralph Appezzato Memorial Parkway BLDG A218, Alameda, CA, 94501
@@ -384,6 +386,9 @@ Bryant St, San Francisco, CA, 94107
 3501 SAN PABLO AVE, OAKLAND, CA, 94608-4255
 🏥 Services: primary_care
 📞 510-635-4809
+🌐 https://www.scmedcenter.org
+🗣 Languages: Spanish, Hindi, Korean, Tagalog, Farsi, Khmer
+⏰ Hours: Monday - Friday 9:30am - 4:30pm
 
 72. Lincoln Elementary School
 1029 N Broadway  RM SONR6, Escondido, CA, 92026-3043
@@ -534,6 +539,8 @@ Highland Care Pavilion Floors 4 & 5,Highland General Hospital Campus,1411-E.31st
 1411 E.31ST STREET, BLDG E FLOORS 1 and 2, OAKLAND, CA, 94602-1018
 🏥 Services: primary_care
 📞 510-437-4473
+🌐 https://ahsfhc.org
+⏰ Hours: Friday: 9am-5pm
 
 99. HIGHLAND WELLNESS
 Koret Building Floors 6 & 7Highland General Hospital Campus1411 E. 31st Street, Oakland, CA, 94602-1018
@@ -917,6 +924,8 @@ Mobile UnitContra Costa County, Martinez, CA, 94553
 200 Edmonds Rd, Redwood City, CA, 94062-3813
 🏥 Services: primary_care
 📞 650-367-1890
+🌐 https://www.sdfhc.org
+🗣 Languages: Spanish, English
 
 168. Silva Pediatric Clinic
 680 Tennyson Rd, Hayward, CA, 94544-5236
@@ -1048,6 +1057,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 7212 Regional St, Dublin, CA, 94568-2326
 🏥 Services: primary_care
 📞 925-462-1755
+🌐 http://www.axishealth.org
 
 192. NEWARK WELLNESS
 6066 Civic Terrace Ave, Newark, CA, 94560-3746
@@ -1345,6 +1355,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 266 N Jackson Ave, Ste 4, San Jose, CA, 95116-1606
 🏥 Services: primary_care
 📞 408-975-2763
+🌐 http://aaci.org/main/programs/health/#health-center
 
 246. Montpelier Health Clinic
 2380 Montpelier Drive  STE 200 &amp; 400, San Jose, CA, 95116
@@ -1775,6 +1786,8 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 29 Bishop St Ste A, Royal Oaks, CA, 95076-5266
 🏥 Services: primary_care
 📞 831-728-2505
+🌐 https://www.csvs.org
+⏰ Hours: Mon-Fri: 8am-5pm
 
 324. Pajaro Resource Center
 250 Salinas Rd  STE 4A, Watsonville, CA, 95076-5229
@@ -1809,6 +1822,8 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 2180 N Main St, Salinas, CA, 93906-1735
 🏥 Services: primary_care
 📞 831-757-8689
+🌐 https://www.csvs.org
+⏰ Hours: Mon-Fri: 8am-5pm
 
 330. Monterey County Clinic at Marina
 3155 De Forest Rd, Marina, CA, 93933-2702
@@ -1873,6 +1888,8 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 955 Blanco Cir, Ste B, Salinas, CA, 93901-4454
 🏥 Services: primary_care
 📞 831-676-2605
+🌐 https://www.csvs.org
+⏰ Hours: Mon-Fri: 8am-5pm
 
 341. GVHC – Manteca Northgate West
 302 Northgate Dr, Manteca, CA, 95336-3139
@@ -2251,11 +2268,13 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 355 Samuel Dr, Yuba City, CA, 95991-6324
 🏥 Services: primary_care
 📞 530-677-9200
+🌐 https://www.amplahealth.org
 
 410. Ampla Health Richland Medical
 355 Samuel Dr, Yuba City, CA, 95991-6324
 🏥 Services: primary_care
 📞 530-674-9200
+🌐 https://www.amplahealth.org
 
 411. Peach Tree Yuba County Probation
 120 5th Street  RM 1, Marysville, CA, 95901-5734
@@ -2266,6 +2285,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 608 J St, Marysville, CA, 95901-5413
 🏥 Services: primary_care
 📞 530-674-4261
+🌐 https://www.amplahealth.org
 
 413. Ampla Health Yuba City
 1000 Sutter St, Yuba City, CA, 95991-3459
@@ -2538,6 +2558,8 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 767 N Hill St Ste 213, Los Angeles, CA, 90012-2365
 🏥 Services: primary_care
 📞 213-808-1792
+🌐 https://www.cscla.org
+🗣 Languages: Assistance, Career Guidance, Resume Writing, Mock Interviews, Job Search Assistance, Tuition, Certification, Training, Mandarin, Cantonese
 
 462. CSC - Chinatown Ste. 315
 767 N Hill St Ste 315, Los Angeles, CA, 90012-2376
@@ -2566,6 +2588,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 1127 Wilshire Blvd, Ste 707, Los Angeles, CA, 90017-3908
 🏥 Services: primary_care
 📞 213-482-4830
+🌐 https://www.cnhfclinic.org
 
 467. Children's Hospital Los Angeles - Jovenes
 1208 Pleasant Ave, Los Angeles, CA, 90033-2356
@@ -2646,6 +2669,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 123 S Alvarado St, Los Angeles, CA, 90057-2201
 🏥 Services: primary_care
 📞 213-989-7700
+🌐 https://www.laclinica.org
 
 481. Clinica Monsenor Oscar A. Romero-Mobile Unit
 123 S Alvarado St, Los Angeles, CA, 90057-2201
@@ -2662,11 +2686,15 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 2100 W. 3rd Street  STE 301, Los Angeles, CA, 90057-2285
 🏥 Services: primary_care
 📞 888-499-9303
+🌐 https://www.altamed.org
+🗣 Languages: English
 
 484. AltaMed Health Service Pharmacy - Westlake
 2100 W 3rd St Ste 190, Los Angeles, CA, 90057-1999
 🏥 Services: primary_care
 📞 888-499-9303
+🌐 https://www.altamed.org
+🗣 Languages: English
 
 485. Universal Community Health Center - Washington
 1005 E Washington Blvd, Los Angeles, CA, 90021-3020
@@ -2768,6 +2796,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 2707 S Central Ave, Los Angeles, CA, 90011-5527
 🏥 Services: primary_care
 📞 310-418-7786 x31041
+🌐 https://www.cnhfclinic.org
 
 503. Gracelight Community Health - Echo Park
 150 N. RENO ST, LOS ANGELES, CA, 90026-4656
@@ -2973,6 +3002,8 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 4360 Dozier St, Los Angeles, CA, 90022-1404
 🏥 Services: primary_care
 📞 888-499-9303
+🌐 https://www.altamed.org
+🗣 Languages: English
 
 539. JWCH Institute, Inc., Mini House Residential Treatment
 303 E   52nd St, Los Angeles, CA, 90011-4513
@@ -3039,6 +3070,8 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 4066 W Johnnie Cochran Vis, Los Angeles, CA, 90019-6025
 🏥 Services: primary_care
 📞 888-499-9303
+🌐 https://www.altamed.org
+🗣 Languages: English
 
 551. Childrens Hospital Los Angeles - Covenant House California
 1325 N Western Ave, Los Angeles, CA, 90027-5615
@@ -3189,6 +3222,8 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 7716 S Alameda St, Huntington Park, CA, 90255-3745
 🏥 Services: primary_care
 📞 888-499-9303
+🌐 https://www.altamed.org
+🗣 Languages: English
 
 578. Triangle Square, First Floor Mental Health Office
 1602 Ivar Ave, Los Angeles, CA, 90028-6353
@@ -3311,11 +3346,15 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 5901 W Olympic Blvd Ste 310, Los Angeles, CA, 90036-4664
 🏥 Services: primary_care
 📞 323-215-1725
+🌐 https://www.apla.org
+⏰ Hours: Friday: 10
 
 600. AltaMed Behavioral Health – Willow Elementary School
 2777 Willow Pl, Rm Psychologist Office, South Gate, CA, 90280
 🏥 Services: primary_care
 📞 888-499-9030
+🌐 https://www.altamed.org
+🗣 Languages: English
 
 601. APLA Health - 3741 S. La Brea
 3741 S La Brea Ave, Los Angeles, CA, 90016-5309
@@ -3333,6 +3372,8 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 7531 Santa Monica Blvd, Ste 100, West Hollywood, CA, 90046-6458
 🏥 Services: primary_care
 📞 323-215-1725
+🌐 https://www.apla.org
+⏰ Hours: Friday: 10
 
 604. SJCH at Hyde Park Elementary School
 6505 8th Avenue, Los Angeles, CA, 90043-4313
@@ -3422,6 +3463,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 2710 W Manchester Blvd, Inglewood, CA, 90305-2436
 🏥 Services: primary_care
 📞 323-778-4310
+🌐 https://www.cnhfclinic.org
 
 620. UMMA Health Figueora Care Center
 10421 South Figueroa Street, Los Angeles, CA, 90044
@@ -3443,6 +3485,8 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 133 N Prairie Ave, Inglewood, CA, 90301-4878
 🏥 Services: primary_care
 📞 310-912-6100
+🌐 http://amchealthcare.org/
+⏰ Hours: Monday - Friday: 9AM - 6PM
 
 624. Complete Care Health Center - South Gate
 5831 Firestone Blvd Ste E, South Gate, CA, 90280-3718
@@ -3453,6 +3497,8 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 5225 Tweedy Blvd, Rm AP Office, South Gate, CA, 90280
 🏥 Services: primary_care
 📞 855-425-1777
+🌐 https://www.altamed.org
+🗣 Languages: English
 
 626. CSC Health - San Gabriel
 526 W Las Tunas Dr, San Gabriel, CA, 91776-1111
@@ -3497,6 +3543,8 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 2031 W. Alameda Blvd. STE 330, Burbank, CA, 91506
 🏥 Services: primary_care
 📞 818-409-3020
+🌐 https://all4health.org
+⏰ Hours: Sat - 8:00am
 
 634. Imperial-Vermont Clinic
 837 W Imperial Hwy, Los Angeles, CA, 90044-4110
@@ -3508,6 +3556,8 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 1679 E. 120th St., Suites 101 &amp; 102, Los Angeles, CA, 90059
 🏥 Services: primary_care
 📞 323-329-9700
+🌐 https://www.apla.org
+⏰ Hours: Friday: 10
 
 636. Anphon Medical Center
 333 E Nutwood St STE C, Inglewood, CA, 90301-2357
@@ -3542,6 +3592,8 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 3310 W Century Blvd, Inglewood, CA, 90303-1305
 🏥 Services: primary_care
 📞 888-499-9303
+🌐 https://www.altamed.org
+🗣 Languages: English
 
 642. TL Health Care Foundation
 1418 S San Gabriel Blvd, Ste B, San Gabriel, CA, 91776-4605
@@ -3553,6 +3605,8 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 200 Corporate Pointe, Suite 50, Culver City, CA, 90230-8726
 🏥 Services: primary_care
 📞 424-266-7480
+🌐 http://www.achievable.org
+⏰ Hours: Monday : 8:00 am – 6:00 pm
 
 644. Centro Medico Hardy Street
 575 E Hardy St, Suite 207, Inglewood, CA, 90301
@@ -3609,6 +3663,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 8500 Florence Ave, Suite 200, Downey, CA, 90240-4056
 🏥 Services: primary_care
 📞 562-861-1245
+🌐 https://WWW-CA-MED.ORG
 
 654. HCHC-El Monte
 3401 Aerojet Avenue, El Monte, CA, 91731
@@ -3776,6 +3831,8 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 9056 Rosecrans Ave, Bellflower, CA, 90706-2038
 🏥 Services: primary_care
 📞 888-499-9303
+🌐 https://www.altamed.org
+🗣 Languages: English
 
 683. BHS Integrated Care Services
 15519 Crenshaw Blvd, Gardena, CA, 90249-4525
@@ -3948,6 +4005,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 1334 N Avalon Blvd, Wilmington, CA, 90744-2639
 🏥 Services: primary_care
 📞 310-836-4000
+🌐 https://bhshealthcenternetwork.com/index.php
 
 714. Tarzana Treatment Centers - Atlantic Ave
 5190 Atlantic Ave, Long Beach, CA, 90805-6510
@@ -3963,11 +4021,14 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 3325 Palo Verde Ave, Ste 208, Long Beach, CA, 90808-4132
 🏥 Services: primary_care
 📞 562-270-0324
+🌐 https://www.cmwcusa.org
+🗣 Languages: Needs, Spanish, English, Khmer
 
 717. BHS - Carson Health Center
 1000 E Dominguez Street  STE 110, Carson, CA, 90746
 🏥 Services: primary_care
 📞 310-830-4561
+🌐 https://bhshealthcenternetwork.com/index.php
 
 718. TCC Mobile
 2321 Abalone Ave, Torrance, CA, 90501-3714
@@ -4011,6 +4072,8 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 8710 Moody St, Cypress, CA, 90630-2220
 🏥 Services: primary_care
 📞 888-499-9303
+🌐 https://www.altamed.org
+🗣 Languages: English
 
 726. AltaMed PACE - Norwalk
 11541 Rosecrans Ave, Norwalk, CA, 90650-3898
@@ -4145,6 +4208,8 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 2609 W 5th St, Santa Ana, CA, 92703-1818
 🏥 Services: primary_care
 📞 888-499-9303
+🌐 https://www.altamed.org
+🗣 Languages: English
 
 750. Share Ourselves at Costa Mesa
 1650 Adams Ave, Costa Mesa, CA, 92626-4958
@@ -4156,6 +4221,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 2015 W    1st St Ste L, Santa Ana, CA, 92703-3516
 🏥 Services: primary_care
 📞 714-716-1830
+🌐 https://bhshealthcenternetwork.com/index.php
 
 752. Share Our Selves at the BESST Center
 2045 Meyer Pl  UNIT C, Costa Mesa, CA, 92627-2967
@@ -4167,6 +4233,9 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 700 W 19th St, Costa Mesa, CA, 92627-3517
 🏥 Services: primary_care
 📞 949-866-3600
+🌐 https://www.clchc.org/
+🗣 Languages: Spanish, Ukrainian, Russian, English
+⏰ Hours: Saturday: 9:00 am
 
 754. Saint Youstina - Costa Mesa
 2200 Harbor Blvd  STE B-240, Costa Mesa, CA, 92627
@@ -4206,6 +4275,8 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 333 W Walnut St, Santa Ana, CA, 92701-5662
 🏥 Services: primary_care
 📞 888-499-9303
+🌐 https://www.altamed.org
+🗣 Languages: English
 
 761. UC IRVINE MOBILE MEDICINE UNIT
 800 N Main St, Santa Ana, CA, 92701-3576
@@ -4222,6 +4293,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 520 N Main St, Ste 220, Santa Ana, CA, 92701-4623
 🏥 Services: primary_care
 📞 714-352-5800
+🌐 https://www.achn.net
 
 764. Serve The People Medical & Vision Center - Orange
 293 S Main St STE 100, Orange, CA, 92868-3843
@@ -4244,6 +4316,9 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 1444 South Main Street, Santa Ana, CA, 92707-1717
 🏥 Services: primary_care
 📞 949-866-3600
+🌐 https://www.clchc.org/
+🗣 Languages: Spanish, Ukrainian, Russian, English
+⏰ Hours: Saturday: 9:00 am
 
 768. VCC: Mobile Wellness Clinic - La Habra1
 1295 W Lambert Rd, Brea, CA, 92821-2819
@@ -4271,6 +4346,9 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 3175 Airway Ave, Costa Mesa, CA, 92626-4655
 🏥 Services: primary_care
 📞 949-866-3600
+🌐 https://www.clchc.org/
+🗣 Languages: Spanish, Ukrainian, Russian, English
+⏰ Hours: Saturday: 9:00 am
 
 773. San Ysidro Health Senior Dental Center
 1525 Fourth Ave  STE 201, San Diego, CA, 92101-3107
@@ -4864,6 +4942,8 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 1300 Avenida Vista Hermosa Ste 250, San Clemente, CA, 92673-6340
 🏥 Services: primary_care
 📞 949-240-2030 x0
+🌐 https://www.caminohealthcenter.org
+⏰ Hours: Monday: 8:00am
 
 884. Neighborhood Healthcare PACE ~ Murrieta
 30135 Technology Dr.  STE 100/150, Murrieta, CA, 92563-2654
@@ -5333,6 +5413,8 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 4148 Town Center Blvd, Madera, CA, 93636
 🏥 Services: primary_care
 📞 559-664-4000
+🌐 https://www.camarenahealth.org/
+🗣 Languages: Spanish
 
 968. United Health Centers Parlier 3rd Street
 601 3rd St, Parlier, CA, 93648-2028
@@ -5404,6 +5486,8 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 2339 W Cleveland Ave Ste 103, Madera, CA, 93637-8765
 🏥 Services: primary_care
 📞 559-673-8055
+🌐 https://www.camarenahealth.org/
+🗣 Languages: Spanish
 
 980. Family HealthCare Network – Reedley South Avenue Health Center
 256 E. South Avenue, Reedley, CA, 93654-9537
@@ -5534,6 +5618,9 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 1134 E Cartmill Ave, Tulare, CA, 93274
 🏥 Services: primary_care
 📞 559-686-9097
+🌐 https://www.altura.org
+🗣 Languages: Spanish, Portuguese
+⏰ Hours: Mon - Thu 8:00 AM - 7:00 PM
 
 1003. Altura Centers for Health Dental Mobile Clinic 1
 1101 N Cherry St, Tulare, CA, 93274-2231
@@ -5733,6 +5820,8 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 122 San Antonio Drive, King City, CA, 93930-2508
 🏥 Services: primary_care
 📞 831-728-2506
+🌐 https://www.csvs.org
+⏰ Hours: Mon-Fri: 8am-5pm
 
 1038. Hughson 3rd St Center
 2412 3rd St Ste B, Hughson, CA, 95326-9310
@@ -5849,6 +5938,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 1205 E Grand Ave Ste H, Arroyo Grande, CA, 93420-2419
 🏥 Services: primary_care
 📞 805-929-3211
+🌐 https://www.chccc.org
 
 1058. Community Health Centers - New Cuyama
 4711 Highway 166, New Cuyama, CA, 93254
@@ -5881,6 +5971,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 3041 West Avenue K Student Services Building SSV  RM 187, Lancaster, CA, 93535
 🏥 Services: primary_care
 📞 661-874-4050
+🌐 https://www@bachc.org
 
 1064. Clinicas del Camino Real Inc - Fillmore
 355 CENTRAL AVE, FILLMORE, CA, 93015-1920
@@ -6384,6 +6475,8 @@ Anonymous, Santa Maria, CA, 93454-0000
 8800 Foothill Blvd, Sunland, CA, 91040-1925
 🏥 Services: primary_care
 📞 855-252-7223
+🌐 https://www.altamed.org
+🗣 Languages: English
 
 1158. All For Health, Health For All-Sunland
 8134 Foothill Blvd, Sunland, CA, 91040-2941
