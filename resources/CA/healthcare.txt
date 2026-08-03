@@ -1,0 +1,4 @@
+# CA — healthcare.txt
+# Populated by Aidr HRSA import / clinic-ops (hub cities, 250-mile catchment).
+# Format: numbered blocks matching IL listings (name, address, 📞, 🌐, 🏥, 🗣, ⏰, 📝).
+
