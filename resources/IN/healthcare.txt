@@ -2,3 +2,1301 @@
 # Populated by Aidr HRSA Find-a-HC import (Indianapolis + surrounding, 250-mile catchment).
 # Format: numbered blocks matching IL listings (name, address, 📞, 🌐, 🏥, 🗣, ⏰, 📝).
 
+1. Salvation Army Family Shelter Clinic (for women and children)
+540 N Alabama St, Indianapolis, IN, 46204-1536
+🌐 https://www.usc.salvationarmy.org
+🏥 Services: primary_care
+📞 317-637-5551
+
+2. Raphael Health Center - Salvation Army
+711 E Washington St, Indianapolis, IN, 46202-3915
+🏥 Services: primary_care
+📞 317-638-6585
+
+3. Eskenazi Health Center Pedigo
+1112 Southeastern Ave, Indianapolis, IN, 46202-3947
+🌐 https://www.eskenazihealth.edu/locations/primary-care-sites
+🏥 Services: primary_care
+📞 317-880-1900
+
+4. Aspire Indiana Health - New Acess Point - MACY
+201 Shelby St, Indianapolis, IN, 46202-3943
+🏥 Services: primary_care
+📞 888-736-6138
+
+5. Washington Irving School 14 - Urban Act Academy
+1250 E Market St, Indianapolis, IN, 46202-3831
+🌐 https://www.shalomhealthcenter.org
+🏥 Services: primary_care
+📞 317-226-4214
+
+6. Crispus Attucks Clinic
+1140 Dr Martin Luther King Jr St Rm 615, Indianapolis, IN, 46202-2221
+🏥 Services: primary_care
+📞 317-957-2070
+
+7. Damien Center - Mosaic
+1420 E Washington St, Indianapolis, IN, 46201-3847
+🏥 Services: primary_care
+📞 317-632-0123
+
+8. HealthNet Homeless Initiative Program
+901 Shelby St.  STE 301, Indianapolis, IN, 46203
+🏥 Services: primary_care
+📞 317-957-2275
+
+9. Southeast Health Center
+901 Shelby St, Indianapolis, IN, 46203-1151
+🌐 https://www.indyhealthnet.org
+🏥 Services: primary_care
+📞 317-957-2400
+
+10. Dayspring Center Clinic
+1537 Central Ave, Indianapolis, IN, 46202-2606
+🌐 https://www.dayspringcenter.org
+🏥 Services: primary_care
+📞 317-635-6780
+
+11. Tech Teen Clinic
+1500 E Michigan St, Indianapolis, IN, 46201-3079
+🌐 https://www.indyhealthnet.org
+🏥 Services: primary_care
+📞 317-693-5420
+
+12. H.L. Harshman Middle School - SBC
+1501 E 10th St, Indianapolis, IN, 46201-1909
+🏥 Services: primary_care
+📞 317-226-4101
+
+13. IPS 31 School Base Clinic - James A. Garfield
+307 Lincoln St Ste 100, Indianapolis, IN, 46225-1819
+🏥 Services: primary_care
+📞 317-226-4231
+
+14. HealthNet Downtown Health Center
+1801 Senate Blvd Ste 310, Indianapolis, IN, 46202-1196
+🏥 Services: primary_care
+📞 317-957-2229
+
+15. William McKinley School 39
+1734 Fletcher Ave  RM 404, Indianapolis, IN, 46203
+🌐 https://www.shalomhealthcenter.org
+🏥 Services: primary_care
+📞 317-226-4239
+
+16. Thomas D. Gregg School 15
+2302 E Michigan St Rm 404, Indianapolis, IN, 46201-3112
+🏥 Services: primary_care
+📞 317-226-4615
+
+17. Outreach, Inc. Clinic
+2416 E New York St, Indianapolis, IN, 46201-3232
+🏥 Services: primary_care
+📞 317-951-8886
+
+18. Interfaith Hospitality Network
+1850 N ARSENAL AVE, INDIANAPOLIS, IN, 46218-4237
+🏥 Services: primary_care
+📞 317-261-1562
+
+19. Peoples Health Center
+2340 E   10th St, Indianapolis, IN, 46201-2008
+🌐 https://www.indyhealthnet.org
+🏥 Services: primary_care
+📞 317-957-2200
+
+20. George Washington High School - SBC
+2215 W Washington St, Indianapolis, IN, 46222-4279
+🏥 Services: primary_care
+📞 317-693-5555
+
+21. IPS School 46 - Daniel Webster
+1450 S Reisner St Ste 100, Indianapolis, IN, 46221-1637
+🏥 Services: primary_care
+📞 317-226-4246
+
+22. Global Preparatory Academy - Charter School
+2033 Sugar Grove Ave Rm 140, Indianapolis, IN, 46202-1134
+🏥 Services: primary_care
+📞 317-226-4266
+
+23. Matchbook Learning at No 63
+1163 N Belmont Ave  RM 100, Indianapolis, IN, 46222-3144
+🏥 Services: primary_care
+📞 317-226-4263
+
+24. Wheeler Shelter for Women and Children Clinic
+3208 E Michigan St, Indianapolis, IN, 46201-3318
+🏥 Services: primary_care
+📞 317-687-3630
+
+25. IPS 54 School Based Clinic - Brookside Academy
+3150 E 10th St Ste 100, Indianapolis, IN, 46201-2404
+🏥 Services: primary_care
+📞 317-229-4254
+
+26. IPS School 34 - Eleanor Skillen
+1404 Wade St Rm 129, Indianapolis, IN, 46203-4340
+🌐 https://www.shalomhealthcenter.org
+🏥 Services: primary_care
+📞 317-226-4876
+
+27. Adult and Child Health - Garfield Park
+234 E Southern Ave, Indianapolis, IN, 46225-2121
+🏥 Services: primary_care
+📞 317-882-5122
+
+28. Adult and Child at KIPP Indy
+1740 E 30th St, Indianapolis, IN, 46218-2605
+🏥 Services: primary_care
+📞 877-882-5122
+
+29. Barrington Health Center
+3401 E Raymond St, Indianapolis, IN, 46203-4744
+🌐 https://www.indyhealthnet.org
+🏥 Services: primary_care
+📞 317-957-2100
+
+30. Path School (67)
+653 N Somerset Ave, Indianapolis, IN, 46222-3327
+🌐 https://www.shalom-hcc.org
+🏥 Services: primary_care
+📞 317-226-4267
+
+31. HealthNet Administration/HealthNet Specialty Care at Barrington
+3403 E Raymond St, Indianapolis, IN, 46203-4744
+🏥 Services: primary_care
+📞 317-957-2000
+
+32. Martindale Brightwood Health Center
+2855 N Keystone Ave STE 100, Indianapolis, IN, 46218-2790
+🌐 https://www.indyhealthnet.org
+🏥 Services: primary_care
+📞 317-957-2300
+
+33. IPS Short Ridge High School
+3401 N Meridian Street, Indianapolis, IN, 46208-4436
+🏥 Services: primary_care
+📞 317-226-2810
+
+34. Ralph Waldo Emerson IPS School 58
+321 N Linwood Ave, Indianapolis, IN, 46201-3641
+🌐 https://www.shalomhealthcenter.org
+🏥 Services: primary_care
+📞 317-226-4258
+
+35. Salvation Army Harbor Light Center Clinic
+2400 N Tibbs Ave, Indianapolis, IN, 46222-2458
+🌐 https://www.usc.salvationarmy.org
+🏥 Services: primary_care
+📞 317-972-1450
+
+36. IPS School 43 - James Whitcomb Riley
+150 W 40th St Rm 336, Indianapolis, IN, 46208-3956
+🏥 Services: primary_care
+📞 317-226-4243
+
+37. Jane Pauley Community Health Center at 16th Street
+5317 E 16TH ST, INDIANAPOLIS, IN, 46218-4897
+🌐 https://www.janepauleychc.com
+🏥 Services: primary_care
+📞 844-695-7242
+
+38. Adult and Child Health Irvington Location
+5839 E Washington St, Indianapolis, IN, 46219-6560
+🏥 Services: primary_care
+📞 317-882-5122
+
+39. Fisher Elementary School
+5151 W   14th St, Indianapolis, IN, 46224-6410
+🏥 Services: primary_care
+📞 317-241-6543
+
+40. Adult and Child at Center for Inquiry School 70
+510 E 46th St, Indianapolis, IN, 46205-1817
+🏥 Services: primary_care
+📞 877-882-5122
+
+41. IPS School 88 - Anna Brochhausen
+5801 E 16th St Rm 413, Indianapolis, IN, 46218-5101
+🌐 https://www.shalomhealthcenter.org
+🏥 Services: primary_care
+📞 317-229-4288
+
+42. FARRINGTON MIDDLE SCHOOL
+4326 PATRICIA ST, INDIANAPOLIS, IN, 46222-1543
+🌐 https://www.shalom-hcc.org
+🏥 Services: primary_care
+📞 317-226-4194
+
+43. SHALOM PRIMARY CARE CENTER
+3400 Lafayette Rd, Indianapolis, IN, 46222-1146
+🌐 https://www.shalomhealthcenter.org
+🏥 Services: primary_care
+📞 317-291-7422
+
+44. Sankofa at Arlington Woods#99
+5801 E 30th St Rm 104, Indianapolis, IN, 46218-3315
+🏥 Services: primary_care
+📞 317-226-4299
+
+45. Aspire Indiana Health - Willowbrook
+2506 Willowbrook Pkwy, Indianapolis, IN, 46205-1564
+🏥 Services: primary_care
+📞 877-574-1254
+
+46. Indiana Math and Science Academy West
+4575 W 38TH ST, INDIANAPOLIS, IN, 46254-3313
+🌐 https://www.shalomhealthcenter.org
+🏥 Services: primary_care
+📞 317-298-0025
+
+47. Meridian Health Services Corp
+2622 Lake Ave STE 1, Fort Wayne, IN, 46805-5410
+🏥 Services: primary_care
+📞 765-282-1928
+
+48. IPS School 79 - Carl Wilde
+5002 W 34th St Rm 604, Indianapolis, IN, 46224-1519
+🏥 Services: primary_care
+📞 317-226-4279
+
+49. HealthNet Healthy Families
+6029 W   10th St, Indianapolis, IN, 46224-6115
+🌐 https://www.indyhealthnet.org
+🏥 Services: primary_care
+📞 317-957-2550
+
+50. Epler Parke BH Services
+5550 S. East Street  STE A1, Indianapolis, IN, 46227-1991
+🌐 https://www.windrosehealth.net
+🏥 Services: primary_care
+📞 317-534-4660
+
+51. Windrose Health Network - Epler Parke
+5550 S East St, Indianapolis, IN, 46227-1979
+🌐 http://www.windrosehealth.net
+🏥 Services: primary_care
+📞 317-534-4660
+
+52. HealthNet Speedway Health & Dental Center
+6020 Crawfordsville Rd Ste 102, Indianapolis, IN, 46224-3710
+🌐 https://www.indyhealthnet.org/locations/speedway-health--dental-center
+🏥 Services: primary_care
+📞 317-957-2070
+
+53. Northwest Middle School
+5525 W 34th St.  RM 180, Indianapolis, IN, 46224-1399
+🌐 https://www.shalomhealthcenter.org
+🏥 Services: primary_care
+📞 317-693-5600
+
+54. Adult and Child at Meredith Nicholson School 96
+3651 N Kiel Ave, Indianapolis, IN, 46224-1226
+🏥 Services: primary_care
+📞 877-882-5122
+
+55. IPS School 107 - Lew Wallace
+3307 Ashway. DD  Rm 404, Indianapolis, IN, 46224-2120
+🏥 Services: primary_care
+📞 317-226-4107
+
+56. Enlace Academy
+3725 Kiel Avenue. 2nd floor, Indianapolis, IN, 46224
+🌐 https://www.shalomhealthcenter.org
+🏥 Services: primary_care
+📞 317-226-4108
+
+57. Shalom 56th Street - New Access Point
+5750 W 56th St, Indianapolis, IN, 46254-1695
+🏥 Services: primary_care
+📞 317-291-7422
+
+58. Adult and Child at Circle City Prep
+4002 N Franklin Rd, Indianapolis, IN, 46226-5297
+🏥 Services: primary_care
+📞 877-882-5122
+
+59. Adult and Child at Thompson Crossing Elementary
+7525 E Thompson Rd, Indianapolis, IN, 46239-9127
+🏥 Services: primary_care
+📞 877-882-5122
+
+60. Charles W. Fairbanks IPS School 105
+8620 Montery Rd, Indianapolis, IN, 46226-5470
+🏥 Services: primary_care
+📞 317-226-4105
+
+61. Adult and Child Health - Greenwood
+8320 Madison Ave, Indianapolis, IN, 46227-6066
+🏥 Services: primary_care
+📞 317-882-5122
+
+62. Adult and Child -Siear Terrace
+8404 Siear Ter, Ste 100, Indianapolis, IN, 46227-7201
+🏥 Services: primary_care
+📞 877-882-5122
+
+63. Damar Services, Inc- Damar Health Services
+5715 Decatur Blvd, Indianapolis, IN, 46241-9561
+🌐 https://www.damarhealth.org
+🏥 Services: primary_care
+📞 317-455-2366
+
+64. Adult and Child at Franklin Central High School
+6215 S Franklin Rd, Indianapolis, IN, 46259-9600
+🏥 Services: primary_care
+📞 877-882-5122
+
+65. Adult and Child at Kitley Intermediate
+8735 Indian Creek Rd S, Indianapolis, IN, 46259-1330
+🏥 Services: primary_care
+📞 877-882-5122
+
+66. Adult and Child at South Creek Elementary
+9010 E Southport Rd, Indianapolis, IN, 46259-9813
+🏥 Services: primary_care
+📞 877-882-5122
+
+67. Shalom Health Care Center 92nd Street Site
+9240 N Meridian St, Suite 270, Indianapolis, IN, 46260-1876
+🏥 Services: primary_care
+📞 317-582-1100
+
+68. IHC Mobile Unit
+8003 Castleway Dr, Indianapolis, IN, 46250-1946
+🏥 Services: primary_care
+📞 812-393-8070
+
+69. Adult and Child at Ray Crowe Elementary
+1300 Ray Crowe Way, Greenwood, IN, 46143
+🏥 Services: primary_care
+📞 877-882-5122
+
+70. Jane Pauley Community Health Center ELC Amy Beverland
+11660 Fox Rd, Indianapolis, IN, 46236-8374
+🏥 Services: primary_care
+📞 844-695-7242
+
+71. Adult and Child Health - Northwood Plaza
+1860 Northwood Plz, Franklin, IN, 46131-1037
+🌐 https://www.adultandchild.org
+🏥 Services: primary_care
+📞 317-882-5122
+
+72. Windrose Health Network - Franklin
+55 N. Milford Drive, Franklin, IN, 46131-7308
+🌐 https://www.windrosehealth.net
+🏥 Services: primary_care
+📞 317-739-4848
+
+73. Aspire Indiana Health - Noblesville
+17840 Cumberland Rd, Noblesville, IN, 46060-5409
+🏥 Services: primary_care
+📞 877-574-1254
+
+74. IHC Hamilton County WIC
+942 N   10th St, Noblesville, IN, 46060-1801
+🏥 Services: primary_care
+📞 317-776-3445
+
+75. Adult and Child at Monrovia Middle School
+215 S Chestnut St, Monrovia, IN, 46157-1025
+🏥 Services: primary_care
+📞 877-882-5122
+
+76. Windrose Health Network - Trafalgar
+14 Trafalgar Sq, Trafalgar, IN, 46181-9515
+🌐 https://www.windrosehealth.net
+🏥 Services: primary_care
+📞 317-412-9190
+
+77. Boone County Community Clinic
+416 W Camp St, Lebanon, IN, 46052-1799
+🌐 https://boonecountyclinic.org
+🏥 Services: primary_care
+📞 765-483-4469
+
+78. Aspire Indiana Health - Lebanon
+1600 West Main St, Lebanon, IN, 46052
+🏥 Services: primary_care
+📞 877-574-1254
+
+79. Aspire Indiana Health - May House
+6775 W State Road 32, Anderson, IN, 46011-8765
+🏥 Services: primary_care
+📞 877-574-1254
+
+80. Aspire Indiana Health - Mockingbird Hill
+4038 Ridgeview Court  STE 1, Anderson, IN, 46013-2307
+🏥 Services: primary_care
+📞 877-574-1254
+
+81. Jane Pauley Community Heath Center Ascension
+141 W 22nd St, Anderson, IN, 46016-4304
+🏥 Services: primary_care
+📞 844-266-7242
+
+82. Open Door Health Services - Anderson Primary Care
+2101 Jackson St Ste 8, Anderson, IN, 46016-4341
+🏥 Services: primary_care
+📞 765-286-7000
+
+83. Aspire Indiana Health - Mobile Clinic
+215 W 19th St, Anderson, IN, 46016-4204
+🏥 Services: primary_care
+📞 877-574-1254
+
+84. Grace Clinic - Putnam County
+239 Hillsdale Ave Ste A, Greencastle, IN, 46135-1340
+🌐 http://www.hamiltoncenter.org
+🏥 Services: primary_care
+📞 765-653-1024
+
+85. IHC Clinton County WIC
+2120 Washington Ave, Frankfort, IN, 46041-8207
+🏥 Services: primary_care
+📞 765-659-2131
+
+86. Centerstone Health Services - Columbus
+720 N Marr Rd Ste A, Columbus, IN, 47201-6660
+🌐 https://www.centerstonehealth.org
+🏥 Services: primary_care
+📞 812-339-1691
+
+87. VPCHC - Crawfordsville
+1702 Lafayette Rd, Crawfordsville, IN, 47933-1033
+🌐 https://www.valleyprohealth.org
+🏥 Services: primary_care
+📞 765-362-5100
+
+88. Monroe County Public Library Clinic
+303 East Kirkwood Ave, Room 2B, Bloomington, IN, 47408-3534
+🏥 Services: primary_care
+📞 812-349-3050
+
+89. Middle Way House Clinic
+338 S Washington St, Bloomington, IN, 47401-3529
+🌐 https://middlewayhouse.org/
+🏥 Services: primary_care
+📞 812-829-1660
+
+90. Bloomington Health and Dental Center
+811 W 2nd St, Bloomington, IN, 47403-2212
+🌐 https://www.indyhealthnet.org
+🏥 Services: primary_care
+📞 812-333-4001
+
+91. Wheeler Mission Center for Men Clinic
+215 S Westplex Ave RM 3, Bloomington, IN, 47404-5082
+🏥 Services: primary_care
+📞 812-333-1905
+
+92. IHC-Owen County
+35 Bob Babbs Dr, Spencer, IN, 47460-6828
+🌐 https://indianahealthonline.org
+🏥 Services: primary_care
+📞 812-585-3775
+
+93. IHC at Kokomo
+3118 S Lafountain St, Kokomo, IN, 46902-3710
+🏥 Services: primary_care
+📞 765-864-4160
+
+94. Bowen Health- Kokomo
+2312 S Dixon Rd, Ste 250, Kokomo, IN, 46902-6426
+🏥 Services: primary_care
+📞 800-342-5653
+
+95. Crawford Apartments Clinic
+2440 South Henderson St, Rooms 122 and124, Bloomington, IN, 47401-4620
+🏥 Services: primary_care
+📞 812-822-3748
+
+96. Open Door Pediatrics and Family Medicine
+2600 W White River Blvd, Muncie, IN, 47303-5263
+🌐 https://opendoorhs.org
+🏥 Services: primary_care
+📞 765-286-7000
+
+97. MeridianMD
+100 N Tillotson Ave, Muncie, IN, 47304-3997
+🏥 Services: primary_care
+📞 765-288-1928
+
+98. IHC Howard County WIC
+1805 E Vaile Street, Kokomo, IN, 46901-5614
+🏥 Services: primary_care
+📞 765-252-4249
+
+99. Urgent Care
+1651 E 29th St, Muncie, IN, 47302-5886
+🏥 Services: primary_care
+📞 765-286-7000 x76528
+
+100. Open Door Mobile School Health #1
+333 S Madison St, Muncie, IN, 47305-2465
+🌐 https://www.opendoorhs.org
+🏥 Services: primary_care
+📞 765-286-7000
+
+101. Family Heath Clinic of Burlington
+425 E 5th St, Burlington, IN, 46915-9700
+🏥 Services: primary_care
+📞 765-566-5055
+
+102. Fayette County Medical Center
+2025 Virginia Ave, Connersville, IN, 47331-2971
+🌐 https://www.neighborhoodhc.org
+🏥 Services: primary_care
+📞 765-827-8064
+
+103. Carroll  Consolidated School Corporation
+105 S 225 E Rm Wr-A, Flora, IN, 46929-9688
+🌐 https://www.familyhconline.com/
+🏥 Services: primary_care
+📞 574-967-4881
+
+104. Carroll Elementary School
+105 S 225 E, Flora, IN, 46929-9688
+🏥 Services: primary_care
+📞 574-967-4881
+
+105. Carroll Jr-Sr High School
+2362 E State Road 18, Flora, IN, 46929-8201
+🏥 Services: primary_care
+📞 574-967-4157
+
+106. VPCHC - Rockville
+727 N Lincoln Rd, Rockville, IN, 47872-1117
+🌐 https://www.valleyprohealth.org
+🏥 Services: primary_care
+📞 765-569-1123
+
+107. IHC Jackson County Annex
+120 Saint Louis Ave, Seymour, IN, 47274-2304
+🏥 Services: primary_care
+📞 812-405-1857
+
+108. IHC Marion
+3710 S Western Ave, Marion, IN, 46953-4827
+🏥 Services: primary_care
+📞 765-664-7492
+
+109. VPCHC - Bloomingdale
+201 W Academy St, Bloomingdale, IN, 47832-8095
+🌐 https://www.valleyprohealth.org
+🏥 Services: primary_care
+📞 765-498-9000
+
+110. Riggs Community Health Center South Street
+2316 South St, Lafayette, IN, 47904-2971
+🏥 Services: primary_care
+📞 765-742-1567
+
+111. Ferry
+2323 Ferry Street Floor 2, Lafayette, IN, 47904-3054
+🌐 https://valleyoaks.org
+🏥 Services: primary_care
+📞 866-682-5539
+
+112. IHC Grant-Blackford
+116 East 32nd Street  STE A, Marion, IN, 46953-4060
+🏥 Services: primary_care
+📞 765-662-2039
+
+113. Alliance Health Centers - Marion
+2620 S Western Ave, Marion, IN, 46953-3556
+🌐 https://www.myalliancehealth.org
+🏥 Services: primary_care
+📞 260-266-0780
+
+114. IHC Grant County WIC
+325 E. 2nd Street, Marion, IN, 46952-3871
+🏥 Services: primary_care
+📞 765-613-0150
+
+115. Camden Early Childhood Center
+205 E Cumberland St, Camden, IN, 46917-4108
+🏥 Services: primary_care
+📞 574-686-2362
+
+116. Delphi Community High School
+301 Armory Rd, Delphi, IN, 46923-1904
+🏥 Services: primary_care
+📞 765-564-3481
+
+117. Well Care Community Health - Dental
+100 Mattie Harris Rd, Centerville, IN, 47330-1335
+🏥 Services: primary_care
+📞 765-855-3435
+
+118. Family Health Clinic of Carroll County
+901 Prince William Rd Ste A, Delphi, IN, 46923-1759
+🏥 Services: primary_care
+📞 765-564-3016
+
+119. SICHC Bedford
+629 Lincoln Ave, Bedford, IN, 47421-4142
+🏥 Services: primary_care
+📞 812-675-4470
+
+120. IHC Lawrence County WIC
+2415 Mitchell Road  STE A, Bedford, IN, 47421
+🏥 Services: primary_care
+📞 317-576-1335
+
+121. Neighborhood Health Center - Liberty Mobile Unit
+950 N Market St, Liberty, IN, 47353-8496
+🏥 Services: primary_care
+📞 765-458-5191
+
+122. VPCHC - Clinton
+777 S Main St STE 100, Clinton, IN, 47842-2493
+🌐 https://www.vallyprohealth.org
+🏥 Services: primary_care
+📞 765-828-1003
+
+123. VPCHC - Mobile School Based Health Center
+777 S Main St STE 100, Clinton, IN, 47842-2493
+🌐 https://www.valleyprohealth.org
+🏥 Services: primary_care
+📞 765-828-1003
+
+124. Wabash Valley Health Center, Inc.
+1436 Locust St, Terre Haute, IN, 47807-1648
+🌐 https://www.wabashvalleyhealthcenter.org
+🏥 Services: primary_care
+📞 812-232-7447
+
+125. IHC Peru
+661 E Main St, Peru, IN, 46970-2662
+🏥 Services: primary_care
+📞 765-472-3192
+
+126. VPCHC - Terre Haute North
+1530 N 7th St Ste 201, Terre Haute, IN, 47807-1061
+🌐 https://www.valleyprohealth.org
+🏥 Services: primary_care
+📞 812-238-7631
+
+127. Greene County Health- Shakamak
+326 E Main St, Jasonville, IN, 47438-1510
+🏥 Services: primary_care
+📞 812-665-9000
+
+128. Hamilton Center - A Moving Grace
+622 8th Ave, Terre Haute, IN, 47804-2744
+🏥 Services: primary_care
+📞 812-231-8377
+
+129. IHC Logansport
+1700 Dividend Dr, Logansport, IN, 46947-1572
+🏥 Services: primary_care
+📞 574-722-7407
+
+130. IHC Cass County WIC
+1803 Smith St, Logansport, IN, 46947-1576
+🏥 Services: primary_care
+📞 514-753-4961
+
+131. VPCHC - Springhill
+1600 E Springhill Dr, Terre Haute, IN, 47802-4363
+🏥 Services: primary_care
+📞 812-645-9809
+
+132. VPCHC - Cayuga
+703 W Park St, Cayuga, IN, 47928-8207
+🌐 https://www.valleyprohealth.org
+🏥 Services: primary_care
+📞 765-492-9042
+
+133. VPCHC - Ivy Tech
+8000 S Education Dr Rm E148A, Terre Haute, IN, 47802-4883
+🌐 https://www.valleyprohealth.org
+🏥 Services: primary_care
+📞 812-229-1121
+
+134. Greene County Health Linton
+1600 A St NE Ste 9, Linton, IN, 47441-1612
+🏥 Services: primary_care
+📞 812-847-7005
+
+135. Austin Medical Center
+2277 W Frontage Rd, Austin, IN, 47102-8820
+🌐 https://www.lifespringhealthsystems.org
+🏥 Services: primary_care
+📞 813-413-3117
+
+136. LifeSpring Mobile Health Services
+2277 W Frontage Rd, Austin, IN, 47102-8820
+🏥 Services: primary_care
+📞 812-413-3117
+
+137. Bowen Center- Wabash
+255 N Miami St, Wabash, IN, 46992-2705
+🏥 Services: primary_care
+📞 260-563-8446
+
+138. SICHC Mitchell
+2759 State Rd 37, Mitchell, IN, 47446-6016
+🌐 https://www.sichc.org
+🏥 Services: primary_care
+📞 812-992-5440
+
+139. SICHC Orleans High School
+200 W Wilson St, Orleans, IN, 47452-1007
+🏥 Services: primary_care
+📞 812-865-2688
+
+140. Orleans Family Health
+260 S Maple St, Orleans, IN, 47452-1724
+🏥 Services: primary_care
+📞 812-865-3350
+
+141. Salem Community Schools Health Center
+1101 N Shelby St, Salem, IN, 47167-1678
+🏥 Services: primary_care
+📞 812-280-2080
+
+142. North Daviess Elementary School
+5498 E State Road 58  FL 1, Elnora, IN, 47529
+🏥 Services: primary_care
+📞 812-636-8000
+
+143. SALEM COMMUNITY MEDICAL SERVICES
+1321 S Jackson St, Salem, IN, 47167-9730
+🌐 http://www.lifespringhealthsystems.org/
+🏥 Services: primary_care
+📞 812-280-2080
+
+144. Family Health Clinic of Wolcott
+128 W Market St, Wolcott, IN, 47995-8130
+🏥 Services: primary_care
+📞 219-474-2067
+
+145. SICHC Paoli
+420 W Longest St, Paoli, IN, 47454-8821
+🌐 https://www.sichc.org
+🏥 Services: primary_care
+📞 812-723-3944
+
+146. North White Middle-High School
+305 E Broadway St, Monon, IN, 47959-8137
+🏥 Services: primary_care
+📞 219-604-4005
+
+147. Bowen Center- Huntington
+2860 Northpark Ave, Huntington, IN, 46750-9700
+🏥 Services: primary_care
+📞 888-470-0082
+
+148. Martin County Family Health Center
+200 S John F Kennedy Ave, Loogootee, IN, 47553-1624
+🏥 Services: primary_care
+📞 812-494-7900
+
+149. Loogootee High School
+201 Brooks Ave  FL 1, Loogootee, IN, 47553-1412
+🏥 Services: primary_care
+📞 812-295-3254
+
+150. SICHC West Baden
+8163 W State Road 56 Ste A, West Baden Springs, IN, 47469-7706
+🌐 https://www.sichc.org
+🏥 Services: primary_care
+📞 812-723-7125
+
+151. North Knox Jr/Sr High School
+10890 N State Road 159  RM E20, Bicknell, IN, 47512-8184
+🏥 Services: primary_care
+📞 812-735-2990
+
+152. North Knox Primary
+215 E 4th St  FL 1, Bicknell, IN, 47512-1803
+🏥 Services: primary_care
+📞 812-735-2547
+
+153. Washington Upper Elementary
+600 NE 6th St  FL 1, Washington, IN, 47501-2030
+🏥 Services: primary_care
+📞 812-254-8363
+
+154. Valley Oaks Health Rensselaer
+131 W Drexel Pkwy, Rensselaer, IN, 47978-7344
+🏥 Services: primary_care
+📞 866-682-5539
+
+155. North Knox Intermediate
+7820 N Camp Arthur Rd  FL 1, Bruceville, IN, 47516-6225
+🏥 Services: primary_care
+📞 812-324-2291
+
+156. SICHC English
+307 S. Indiana Ave., English, IN, 47118
+🌐 https://www.sichc.org
+🏥 Services: primary_care
+📞 812-338-2924
+
+157. SICHC Marengo
+5604 E White Oak Ln, Marengo, IN, 47140-8413
+🌐 https://www.sichc.org
+🏥 Services: primary_care
+📞 812-365-3221
+
+158. Floyd Central Student Health Center
+6575 Old Vincennes Rd RM E108, Floyds Knobs, IN, 47119
+🏥 Services: primary_care
+📞 812-981-7452
+
+159. Family Health Centers of Southern Indiana Clarksville
+1420 Blackiston Mill Road  Unit 1  BLDG 2, Clarksville, IN, 47129-2290
+🌐 https://www.fhcenters.org
+🏥 Services: primary_care
+📞 812-283-2308
+
+160. Bowen Center Whitley
+1259 E State Road 205, Columbia City, IN, 46725-9492
+🏥 Services: primary_care
+📞 260-248-8176
+
+161. New Albany Student Health Center
+1020 Vincennes St, New Albany, IN, 47150-3148
+🏥 Services: primary_care
+📞 812-280-2080
+
+162. New Albany Senior High School
+1020 Vincennes St, New Albany, IN, 47150-3148
+🌐 https://www.lifespringhealthsystems.org/lifespring-community-medical-services/
+🏥 Services: primary_care
+📞 812-280-6606
+
+163. Bowen Center- Fort Wayne
+201 Rudisill Blvd, Fort Wayne, IN, 46806-1738
+🌐 https://www.bowencenter.org/fort-wayne
+🏥 Services: primary_care
+📞 260-471-3500
+
+164. Neighborhood Health - Southeast Clinic
+3350 E PAULDING RD, FORT WAYNE, IN, 46816-4513
+🌐 https://www.nhci.org
+🏥 Services: primary_care
+📞 260-458-2641
+
+165. Tecumseh Harrison Elementary
+2116 N 2nd St  RM B1, Vincennes, IN, 47591-2440
+🏥 Services: primary_care
+📞 812-882-8458
+
+166. Washington Learning Academy
+2134 Washington Ave  FL 3, Vincennes, IN, 47591-4948
+🏥 Services: primary_care
+📞 812-882-5167
+
+167. Metro Mobile Unit
+618 E Market St, New Albany, IN, 47150-2914
+🏥 Services: primary_care
+📞 812-280-2080
+
+168. Alliance Health Center
+2700 Lafayette St STE 110, Fort Wayne, IN, 46806-1100
+🌐 https://www.myalliancehealth.org
+🏥 Services: primary_care
+📞 260-266-0780
+
+169. LifeSpring Comunity Medical Services
+1036 SHARON DR, JEFFERSONVILLE, IN, 47130-4522
+🌐 https://www.lifespringhealthsystems.org
+🏥 Services: primary_care
+📞 812-280-2080
+
+170. Franklin Elementary
+2600 Wabash Ave  RM 214, Vincennes, IN, 47591-6413
+🏥 Services: primary_care
+📞 812-882-8176
+
+171. Bowen Health Warsaw
+901 Anchorage Point Dr, Warsaw, IN, 46580
+🏥 Services: primary_care
+📞 800-342-5653
+
+172. Neighborhood Health - Calhoun Site
+1717 S Calhoun St, Fort Wayne, IN, 46802-5257
+🌐 https://www.nhci.org
+🏥 Services: primary_care
+📞 260-458-2641
+
+173. Mobile Dental Unit
+1319 Duncan Ave, Jeffersonville, IN, 47130-3759
+🌐 https://www.fhcenters.org
+🏥 Services: primary_care
+📞 812-283-2308
+
+174. Neighborhood Health Family Medicine Center
+750 Broadway STE 350, Fort Wayne, IN, 46802-1412
+🏥 Services: primary_care
+📞 206-423-2675
+
+175. Clark Middle School
+1926 Bauer Dr  RM 412, Vincennes, IN, 47591
+🏥 Services: primary_care
+📞 812-882-5172
+
+176. Green Door Center
+300 N 1st St, Vincennes, IN, 47591
+🏥 Services: primary_care
+📞 833-644-3575
+
+177. Bowen Center- Goshen Road
+2100 Goshen Rd, Fort Wayne, IN, 46808-1493
+🏥 Services: primary_care
+📞 800-342-5653
+
+178. HealthLinc Newton
+102 E State St, Morocco, IN, 47963-7500
+🏥 Services: primary_care
+📞 888-580-1060
+
+179. Willows Family Health Center
+1901 Willow St, Vincennes, IN, 47591-4277
+🏥 Services: primary_care
+📞 812-494-7500
+
+180. Bowen Health- Washington Center Road
+1313 W Washington Center Rd, Fort Wayne, IN, 46825-4142
+🏥 Services: primary_care
+📞 800-342-5653
+
+181. Bowen Center Auburn
+923 Cardinal Ct, Auburn, IN, 46706-2678
+🏥 Services: primary_care
+📞 800-342-5653
+
+182. Bowen Center Albion
+101 E Park Dr, Albion, IN, 46701-1438
+🏥 Services: primary_care
+📞 800-342-5653
+
+183. Bowen Center Syracuse
+901 S Huntington St, Syracuse, IN, 46567-1923
+🏥 Services: primary_care
+📞 800-342-5653
+
+184. Bowen Center Angola
+200 Hoosier Dr, Angola, IN, 46703-9345
+🏥 Services: primary_care
+📞 800-342-5653
+
+185. Bowen Center LaGrange
+836 N Detroit St, Lagrange, IN, 46761-1112
+🏥 Services: primary_care
+📞 800-342-5653
+
+186. Maple City Health Care Center – 215 Middlebury St
+215 Middlebury St, Goshen, IN, 46528-2956
+🌐 https://www.mchcc.org
+🏥 Services: primary_care
+📞 574-534-3300
+
+187. Northside Community Health Center
+213 Middlebury Street, Goshen, IN, 46528-2956
+🌐 https://www.mchcc.org
+🏥 Services: primary_care
+📞 574-534-3300
+
+188. Maple City Mobile
+808 N 3rd St, Goshen, IN, 46528-7100
+🌐 https://www.mchcc.org
+🏥 Services: primary_care
+📞 574-534-0088
+
+189. Maple City Dental
+814 N 3rd St, Goshen, IN, 46528-7100
+🌐 https://www.mchcc.org
+🏥 Services: primary_care
+📞 574-534-0088
+
+190. Bowen Health- Bremen
+1120 W South St, Bremen, IN, 46506-1849
+🏥 Services: primary_care
+📞 800-342-5653
+
+191. Heart City Health Center SCENIC HEALTH
+148 W Hively Ave Ste 1, Elkhart, IN, 46517-2191
+🌐 https://www.heartcityhealth.org
+🏥 Services: primary_care
+📞 574-293-0052
+
+192. Heart City Health Dental
+2100 Superior St, Elkhart, IN, 46516-4704
+🏥 Services: primary_care
+📞 574-293-0052
+
+193. Heart City Womens Health
+1545 Cassopolis St, Elkhart, IN, 46514-3128
+🏥 Services: primary_care
+📞 574-293-0052
+
+194. Bowen Center Marshall
+2904 Miller Dr, Plymouth, IN, 46563-8083
+🏥 Services: primary_care
+📞 800-342-5653
+
+195. HealthLinc Mishawaka
+420 W    4th St, Mishawaka, IN, 46544-1948
+🌐 https://www.healthlincchc.org
+🏥 Services: primary_care
+📞 219-462-7173
+
+196. HealthLinc IUSB Medical
+1960 Northside Blvd, South Bend, IN, 46615-1630
+🌐 https://www.healthlincchc.org
+🏥 Services: primary_care
+📞 888-580-1060
+
+197. HealthLinc Southeast
+1708 High St, South Bend, IN, 46613-2633
+🏥 Services: primary_care
+📞 219-462-7173
+
+198. Bowen Health South Bend
+405 E Dubail Ave, South Bend, IN, 46613-2434
+🏥 Services: primary_care
+📞 800-342-5653
+
+199. IHC at the Centers for the Homeless
+813 S Michigan St, South Bend, IN, 46601-3102
+🏥 Services: primary_care
+📞 574-235-7990
+
+200. IHC Michigan Street
+765 S Michigan St, South Bend, IN, 46601-3101
+🌐 https://www.indianahealthonline.org
+🏥 Services: primary_care
+📞 574-234-9033
+
+201. IHC at Oaklawn
+415 E MADISON ST, SOUTH BEND, IN, 46617-2322
+🏥 Services: primary_care
+📞 574-234-9033
+
+202. HealthLinc Centennial
+621 Memorial Dr Ste 402, South Bend, IN, 46601-1074
+🏥 Services: primary_care
+📞 888-580-1060
+
+203. IHC at South Bend
+1901 WEST WESTERN AVE STE B, SOUTH BEND, IN, 46619-3521
+🏥 Services: primary_care
+📞 574-234-9033
+
+204. IHC Bendix Community Health Center
+1010 N BENDIX DR, SOUTH BEND, IN, 46628-1925
+🌐 https://www.indianahealthonline.com
+🏥 Services: primary_care
+📞 574-245-4980
+
+205. Knox/Winamac Community Health Centers
+1002 S. Edgewood Dr., Knox, IN, 46534-8226
+🏥 Services: primary_care
+📞 574-772-6030
+
+206. HealthLinc Knox
+104 E Culver Rd Ste 106, Knox, IN, 46534-2241
+🏥 Services: primary_care
+📞 574-772-7400 x57430
+
+207. NorthShore LaPorte Health Center
+508 Legacy Plz W, Laporte, IN, 46350-5254
+🏥 Services: primary_care
+📞 219-763-8112
+
+208. HealthLinc La Porte Pediatrics
+1509 State Street  STE B, La Porte, IN, 46350-0000
+🏥 Services: primary_care
+📞 888-580-1060
+
+209. HealthLinc Michigan City
+200 Alfred St, Michigan City, IN, 46360-7303
+🏥 Services: primary_care
+📞 888-580-1060
+
+210. NorthShore Michigan City
+817 Pine St., Michigan City, IN, 46360
+🏥 Services: primary_care
+📞 219-763-8112
+
+211. 219 Health Network – 3800 Saint Mary Rd.  STE 203
+3800 Saint Mary Rd.  STE 203, Valparaiso, IN, 46383-3986
+🌐 https://www.219health.org
+🏥 Services: primary_care
+📞 219-947-6713
+
+212. HealthLinc Valparaiso
+1001 Sturdy Rd, Valparaiso, IN, 46383-4126
+🌐 https://www.healthlincchc.org
+🏥 Services: primary_care
+📞 219-462-7173
+
+213. Marram Health Center Valparaiso
+701 Wall St, Valparaiso, IN, 46383-2514
+🏥 Services: primary_care
+📞 219-476-4646
+
+214. HealthLinc Corporate
+2401 Valley Dr, Valparaiso, IN, 46383-2520
+🌐 https://healthlincchc.org
+🏥 Services: primary_care
+📞 219-413-5100
+
+215. Stacy McKay Health & Education Center
+6450 Us Highway 6, Portage, IN, 46368-5110
+🏥 Services: primary_care
+📞 219-763-8112
+
+216. NorthShore Mobile Clinic
+6050 Sterling Creek Rd, Portage, IN, 46368-7752
+🏥 Services: primary_care
+📞 219-763-8112
+
+217. ECHO Community Health Care, Inc. Mulberry Street Clinic
+315 Mulberry St, Evansville, IN, 47713
+🌐 https://www.echochc.org
+🏥 Services: primary_care
+📞 812-421-7489
+
+218. ECHO Pediatric and Prenatal Clinic
+316 CHANDLER AVE, EVANSVILLE, IN, 47713-1147
+🏥 Services: primary_care
+📞 812-436-4501
+
+219. ECHO Division Street Family Clinic
+25 West Division Street, Evansville, IN, 47710
+🌐 https://www.echochc.org
+🏥 Services: primary_care
+📞 812-436-4501
+
+220. ECHO John Street Woodson Homeless Health Clinic
+401 John St, Evansville, IN, 47713-2733
+🏥 Services: primary_care
+📞 812-436-0224
+
+221. Tulip Tree Family Health Care Princeton
+108 N Main St, Princeton, IN, 47670-1540
+🌐 https://www.tuliptreehealth.org
+🏥 Services: primary_care
+📞 812-753-1039
+
+222. Pike Central Middle School
+1814 E State Road 56, Petersburg, IN, 47567-8378
+🏥 Services: primary_care
+📞 812-354-8478
+
+223. Marram Health Center Portage
+3176 Lancer St STE B, Portage, IN, 46368-4408
+🏥 Services: primary_care
+📞 219-762-9557
+
+224. Community HealthNet Miller
+1015 N Shelby, Gary, IN, 46403
+🌐 https://www.chn-indiana.org
+🏥 Services: primary_care
+📞 219-880-1190
+
+225. NorthShore Dr. Fernando Rivera Dental Center
+3099 Central Ave, Lake Station, IN, 46405-2207
+🏥 Services: primary_care
+📞 219-962-1418
+
+226. Regional Mobile Health Unit1
+3379 East 84th Place, Merrillville, IN, 46410
+🏥 Services: primary_care
+📞 219-769-4005 x2554
+
+227. Marram Health Center Suite 104
+3229 Broadway STE 104, Gary, IN, 46409-1041
+🌐 http://www.marramhealth.org/
+🏥 Services: primary_care
+📞 219-806-3000
+
+228. Edgewater Health
+1100 W 6th Ave, Gary, IN, 46402-1711
+🌐 https://www.edgewaterhealth.org
+🏥 Services: primary_care
+📞 219-885-4264
+
+229. Turning Point
+1110 W 5th Ave, Gary, IN, 46402-1723
+🌐 https://www.edgewaterhealth.org
+🏥 Services: primary_care
+📞 219-239-2944
+
+230. Regional Mental Health - Strawhun Center
+8555 Taft St, Merrillville, IN, 46410-6123
+🌐 https://www.regionalhealthclinic.org
+🏥 Services: primary_care
+📞 219-937-3300
+
+231. West Side Leadership Academy
+900 Gerry St, Gary, IN, 46406
+🌐 https://edgewaterhealth.org/
+🏥 Services: primary_care
+📞 844-433-4392
+
+232. Primary Care - Griffith
+1212 N Broad St, Griffith, IN, 46319-1534
+🌐 https://www.edgewaterhealth.org
+🏥 Services: primary_care
+📞 219-838-1270
+
+233. HealthLinc East Chicago Harbor
+2323 Broadway St, East Chicago, IN, 46312-2264
+🌐 https://www.healthlincchc.org
+🏥 Services: primary_care
+📞 888-580-1060
+
+234. Community HealthNet at Hammond Morton
+6915 Grand Ave, Hammond, IN, 46323-2587
+🌐 https://www.chn-indiana.org
+🏥 Services: primary_care
+📞 219-880-1190
+
+235. NorthShore East Chicago
+2121 E Columbus Dr., East Chicago, IN, 46312
+🏥 Services: primary_care
+📞 219-763-8112
+
+236. Community HealthNet at E.C. Central
+1100 W Columbus Dr, East Chicago, IN, 46312-2582
+🌐 https://www.chn-indiana.org
+🏥 Services: primary_care
+📞 219-880-1190
+
+237. Community HealthNet at Ophelia Steen
+5927 Columbia Ave, Hammond, IN, 46320-2611
+🌐 https://www.chn-indiana.org
+🏥 Services: primary_care
+📞 219-880-1190
+
+238. CHN at Hammond Central High
+5926 Calumet Avenue, Hammond, IN, 46320-2505
+🌐 https://www.chn-indiana.org
+🏥 Services: primary_care
+📞 219-880-1190
+
+239. 219 Health Network – 1545 W US Highway 30  STE 1A
+1545 W US Highway 30  STE 1A, Schererville, IN, 46375-1562
+🏥 Services: primary_care
+📞 219-595-0410
+
+240. Regional Health Clinic
+4022 Hohman Ave, Hammond, IN, 46327-1239
+🌐 https://regionalhealthclinic.org
+🏥 Services: primary_care
+📞 219-937-3300
+
+241. TCA Health Hammond
+5504 Hohman Ave, Hammond, IN, 46320-1933
+🏥 Services: primary_care
+📞 773-995-6300
+
