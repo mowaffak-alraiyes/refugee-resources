@@ -173,6 +173,7 @@
 🌐 https://www.indyhealthnet.org
 🏥 Services: primary_care
 📞 317-957-2100
+🗣 Languages: English Espa, Ntilde, Ol Burmese Hakha Chin Search For, Burmese, English
 
 30. Path School (67)
 653 N Somerset Ave, Indianapolis, IN, 46222-3327
@@ -216,6 +217,8 @@
 150 W 40th St Rm 336, Indianapolis, IN, 46208-3956
 🏥 Services: primary_care
 📞 317-226-4243
+🌐 https://www.shalomhealthcenter.org
+🗣 Languages: Other Than English, English
 
 37. Jane Pauley Community Health Center at 16th Street
 5317 E 16TH ST, INDIANAPOLIS, IN, 46218-4897
@@ -295,12 +298,14 @@
 🌐 https://www.indyhealthnet.org
 🏥 Services: primary_care
 📞 317-957-2550
+🗣 Languages: English Espa, Ntilde, Ol Burmese Hakha Chin Search For, Burmese, English
 
 50. Epler Parke BH Services
 5550 S. East Street  STE A1, Indianapolis, IN, 46227-1991
 🌐 https://www.windrosehealth.net
 🏥 Services: primary_care
 📞 317-534-4660
+🗣 Languages: Burmese
 
 51. Windrose Health Network - Epler Parke
 5550 S East St, Indianapolis, IN, 46227-1979
@@ -313,6 +318,8 @@
 🌐 https://www.indyhealthnet.org/locations/speedway-health--dental-center
 🏥 Services: primary_care
 📞 317-957-2070
+🗣 Languages: English Espa, Ntilde, Ol Burmese Hakha Chin Search For, Spanish, Burmese, English
+⏰ Hours: Mon 7
 
 53. Northwest Middle School
 5525 W 34th St.  RM 180, Indianapolis, IN, 46224-1399
@@ -345,6 +352,7 @@
 5750 W 56th St, Indianapolis, IN, 46254-1695
 🏥 Services: primary_care
 📞 317-291-7422
+🌐 https://www.achn.net
 
 58. Adult and Child at Circle City Prep
 4002 N Franklin Rd, Indianapolis, IN, 46226-5297
@@ -388,6 +396,7 @@
 🌐 https://www.damarhealth.org
 🏥 Services: primary_care
 📞 317-455-2366
+⏰ Hours: sation 21
 
 64. Adult and Child at Franklin Central High School
 6215 S Franklin Rd, Indianapolis, IN, 46259-9600
@@ -417,6 +426,8 @@
 9240 N Meridian St, Suite 270, Indianapolis, IN, 46260-1876
 🏥 Services: primary_care
 📞 317-582-1100
+🌐 https://www.shalomhealthcenter.org
+🗣 Languages: Other Than English, English
 
 68. IHC Mobile Unit
 8003 Castleway Dr, Indianapolis, IN, 46250-1946
@@ -443,6 +454,7 @@
 🌐 https://www.adultandchild.org
 🏥 Services: primary_care
 📞 317-882-5122
+🗣 Languages: Assistance, Amp, Auxiliary Aids Client, Patient Non
 
 72. Windrose Health Network - Franklin
 55 N. Milford Drive, Franklin, IN, 46131-7308
@@ -506,6 +518,8 @@
 2101 Jackson St Ste 8, Anderson, IN, 46016-4341
 🏥 Services: primary_care
 📞 765-286-7000
+🌐 https://opendoorhs.org
+🗣 Languages: Translation Open Door Offers Both In
 
 83. Aspire Indiana Health - Mobile Clinic
 215 W 19th St, Anderson, IN, 46016-4204
@@ -517,6 +531,7 @@
 🌐 http://www.hamiltoncenter.org
 🏥 Services: primary_care
 📞 765-653-1024
+🗣 Languages: History Programs
 
 85. IHC Clinton County WIC
 2120 Washington Ave, Frankfort, IN, 46041-8207
@@ -529,6 +544,7 @@
 🌐 https://www.centerstonehealth.org
 🏥 Services: primary_care
 📞 812-339-1691
+⏰ Hours: mond 83
 
 87. VPCHC - Crawfordsville
 1702 Lafayette Rd, Crawfordsville, IN, 47933-1033
@@ -552,6 +568,7 @@
 🌐 https://www.indyhealthnet.org
 🏥 Services: primary_care
 📞 812-333-4001
+🗣 Languages: English Espa, Ntilde, Ol Burmese Hakha Chin Search For, Burmese, English
 
 91. Wheeler Mission Center for Men Clinic
 215 S Westplex Ave RM 3, Bloomington, IN, 47404-5082
@@ -621,6 +638,7 @@
 🌐 https://www.neighborhoodhc.org
 🏥 Services: primary_care
 📞 765-827-8064
+🗣 Languages: Spanish, English
 
 103. Carroll  Consolidated School Corporation
 105 S 225 E Rm Wr-A, Flora, IN, 46929-9688
@@ -726,6 +744,8 @@
 629 Lincoln Ave, Bedford, IN, 47421-4142
 🏥 Services: primary_care
 📞 812-675-4470
+🌐 https://www.sichc.org
+🗣 Languages: English
 
 120. IHC Lawrence County WIC
 2415 Mitchell Road  STE A, Bedford, IN, 47421
@@ -738,6 +758,7 @@
 950 N Market St, Liberty, IN, 47353-8496
 🏥 Services: primary_care
 📞 765-458-5191
+🌐 https://www.nhci.org
 
 122. VPCHC - Clinton
 777 S Main St STE 100, Clinton, IN, 47842-2493
@@ -779,6 +800,7 @@
 622 8th Ave, Terre Haute, IN, 47804-2744
 🏥 Services: primary_care
 📞 812-231-8377
+🌐 https://None
 
 129. IHC Logansport
 1700 Dividend Dr, Logansport, IN, 46947-1572
@@ -797,6 +819,7 @@
 1600 E Springhill Dr, Terre Haute, IN, 47802-4363
 🏥 Services: primary_care
 📞 812-645-9809
+🌐 https://www.valleyprohealth.org
 
 132. VPCHC - Cayuga
 703 W Park St, Cayuga, IN, 47928-8207
@@ -820,6 +843,8 @@
 🌐 https://www.lifespringhealthsystems.org
 🏥 Services: primary_care
 📞 813-413-3117
+🗣 Languages: Spanish, English
+⏰ Hours: monitored 24
 
 136. LifeSpring Mobile Health Services
 2277 W Frontage Rd, Austin, IN, 47102-8820
@@ -845,6 +870,8 @@
 200 W Wilson St, Orleans, IN, 47452-1007
 🏥 Services: primary_care
 📞 812-865-2688
+🌐 https://www.sichc.org
+🗣 Languages: English
 
 140. Orleans Family Health
 260 S Maple St, Orleans, IN, 47452-1724
@@ -855,6 +882,9 @@
 1101 N Shelby St, Salem, IN, 47167-1678
 🏥 Services: primary_care
 📞 812-280-2080
+🌐 http://www.lifespringhealthsystems.org/
+🗣 Languages: Spanish, English
+⏰ Hours: monitored 24
 
 142. North Daviess Elementary School
 5498 E State Road 58  FL 1, Elnora, IN, 47529
@@ -964,6 +994,9 @@
 1020 Vincennes St, New Albany, IN, 47150-3148
 🏥 Services: primary_care
 📞 812-280-2080
+🌐 https://www.lifespringhealthsystems.org/lifespring-community-medical-services/
+🗣 Languages: Services, Anything Else That May Be Necessary, Spanish, English
+⏰ Hours: monitored 24
 
 162. New Albany Senior High School
 1020 Vincennes St, New Albany, IN, 47150-3148
@@ -1136,6 +1169,7 @@
 🌐 https://www.heartcityhealth.org
 🏥 Services: primary_care
 📞 574-293-0052
+🗣 Languages: English
 
 192. Heart City Health Dental
 2100 Superior St, Elkhart, IN, 46516-4704
@@ -1218,11 +1252,13 @@
 🌐 https://www.indianahealthonline.com
 🏥 Services: primary_care
 📞 574-245-4980
+🗣 Languages: English
 
 205. Knox/Winamac Community Health Centers
 1002 S. Edgewood Dr., Knox, IN, 46534-8226
 🏥 Services: primary_care
 📞 574-772-6030
+🌐 https://www.healthlincchc.org
 
 206. HealthLinc Knox
 104 E Culver Rd Ste 106, Knox, IN, 46534-2241
@@ -1268,6 +1304,7 @@
 701 Wall St, Valparaiso, IN, 46383-2514
 🏥 Services: primary_care
 📞 219-476-4646
+🌐 http://www.marramhealth.org/
 
 214. HealthLinc Corporate
 2401 Valley Dr, Valparaiso, IN, 46383-2520
@@ -1290,6 +1327,7 @@
 🌐 https://www.echochc.org
 🏥 Services: primary_care
 📞 812-421-7489
+🗣 Languages: Assistance Services Text Messaging Terms, Amp, Privacy Notice
 
 218. ECHO Pediatric and Prenatal Clinic
 316 CHANDLER AVE, EVANSVILLE, IN, 47713-1147
@@ -1303,6 +1341,7 @@
 🌐 https://www.echochc.org
 🏥 Services: primary_care
 📞 812-436-4501
+🗣 Languages: Assistance Services Text Messaging Terms, Amp, Privacy Notice
 
 220. ECHO John Street Woodson Homeless Health Clinic
 401 John St, Evansville, IN, 47713-2733
@@ -1326,12 +1365,15 @@
 3176 Lancer St STE B, Portage, IN, 46368-4408
 🏥 Services: primary_care
 📞 219-762-9557
+🌐 http://www.marramhealth.org/
 
 224. Community HealthNet Miller
 1015 N Shelby, Gary, IN, 46403
 🌐 https://www.chn-indiana.org
 🏥 Services: primary_care
 📞 219-880-1190
+🗣 Languages: Spanish, English
+⏰ Hours: Monday – Friday: 8:30 am – 5pm
 
 225. NorthShore Dr. Fernando Rivera Dental Center
 3099 Central Ave, Lake Station, IN, 46405-2207
@@ -1342,6 +1384,8 @@
 3379 East 84th Place, Merrillville, IN, 46410
 🏥 Services: primary_care
 📞 219-769-4005 x2554
+🌐 https://www.regionalhealthclinic.org
+🗣 Languages: Bill Pay Your Family
 
 227. Marram Health Center Suite 104
 3229 Broadway STE 104, Gary, IN, 46409-1041
@@ -1390,6 +1434,8 @@
 🌐 https://www.chn-indiana.org
 🏥 Services: primary_care
 📞 219-880-1190
+🗣 Languages: Spanish, English
+⏰ Hours: Monday – Friday: 8:30 am – 5pm
 
 235. NorthShore East Chicago
 2121 E Columbus Dr., East Chicago, IN, 46312
@@ -1401,18 +1447,23 @@
 🌐 https://www.chn-indiana.org
 🏥 Services: primary_care
 📞 219-880-1190
+🗣 Languages: Spanish, English
+⏰ Hours: Monday – Friday: 8:30 am – 5pm
 
 237. Community HealthNet at Ophelia Steen
 5927 Columbia Ave, Hammond, IN, 46320-2611
 🌐 https://www.chn-indiana.org
 🏥 Services: primary_care
 📞 219-880-1190
+⏰ Hours: Monday – Friday: 8:30 am – 5pm
 
 238. CHN at Hammond Central High
 5926 Calumet Avenue, Hammond, IN, 46320-2505
 🌐 https://www.chn-indiana.org
 🏥 Services: primary_care
 📞 219-880-1190
+🗣 Languages: Spanish, English
+⏰ Hours: Monday – Friday: 8:30 am – 5pm
 
 239. 219 Health Network – 1545 W US Highway 30  STE 1A
 1545 W US Highway 30  STE 1A, Schererville, IN, 46375-1562
