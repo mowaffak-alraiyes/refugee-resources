@@ -2,3 +2,8 @@
 # Populated by Aidr HRSA Find-a-HC import (Indianapolis + surrounding, 250-mile catchment).
 # Format: numbered blocks matching IL listings (name, address, 📞, 🌐, 🏥, 🗣, ⏰, 📝).
 
+1. Immigrant Welcome Center
+901 Shelby St, Indianapolis, IN 46203
+🌐 https://www.immigrantwelcomecenter.org
+🏥 Services: ESL, citizenship, workforce, immigrant navigation
+
