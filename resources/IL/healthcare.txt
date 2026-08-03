@@ -1489,6 +1489,7 @@ New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 🌐 http://lawndale.org
 📞 (872) 588-3000
 🏥 Services: HRSA-supported health center (primary and preventive care)
+🗣 Languages: English
 
 168. Mile Square  Dr. Cynthia Barnes Boyd/Drake Health and Wellness Center
 2710 S. Dearborn, Chicago, IL, 60616
@@ -1510,6 +1511,7 @@ New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 🌐 http://lawndale.org
 📞 (872) 588-3000
 🏥 Services: HRSA-supported health center (primary and preventive care)
+🗣 Languages: English
 
 171. LCHC at Salvation Army Clybourn
 2258 N Clybourn Ave  RM Conf., Chicago, IL, 60614-3012
@@ -1517,6 +1519,7 @@ New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 🌐 http://lawndale.org
 📞 (872) 588-3000
 🏥 Services: HRSA-supported health center (primary and preventive care)
+🗣 Languages: English
 
 172. Michael Michelini Center for Health
 1431 N Western Ave Ste 209, Chicago, IL, 60622-7712
@@ -1530,6 +1533,7 @@ New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 🌐 http://lawndale.org
 📞 (872) 588-3000
 🏥 Services: HRSA-supported health center (primary and preventive care)
+🗣 Languages: English
 
 174. LCHC at Ignite
 3745 S Indiana Ave  RM 7, Chicago, IL, 60653-1602
@@ -1537,6 +1541,7 @@ New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 🌐 http://lawndale.org
 📞 (872) 588-3000
 🏥 Services: HRSA-supported health center (primary and preventive care)
+🗣 Languages: English
 
 175. Louise Landau Health Center
 800 N Kedzie Ave, Chicago, IL, 60651-4100
@@ -1550,6 +1555,7 @@ New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 📞 (872) 588-3000
 🏥 Services: HRSA-supported health center (primary and preventive care)
 🌐 https://www.lawndale.org
+🗣 Languages: English
 
 177. Erie Westside Health Center at Laura S. Ward Elementary
 646 N Lawndale Ave, Chicago, IL, 60624-1254
@@ -1566,6 +1572,7 @@ New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 📞 (872) 588-3183
 🏥 Services: HRSA-supported health center (primary and preventive care)
 🌐 https://www.lawndale.org
+🗣 Languages: English
 
 179. LCHC at the Gallery
 3824 W Ogden Ave Fl 1, Chicago, IL, 60623-2458
@@ -1573,6 +1580,7 @@ New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 🌐 http://lawndale.org
 📞 (872) 588-3000
 🏥 Services: HRSA-supported health center (primary and preventive care)
+🗣 Languages: English
 
 180. PCC Collaborative Bridges Health Center
 4221 W Lake St, Chicago, IL, 60624-1707
@@ -1609,6 +1617,7 @@ New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 🌐 http://www.nearnorthhealth.org
 📞 (312) 337-1073
 🏥 Services: Ryan White HIV/AIDS Program care and support services (HIV medical care, case management, and related HAB-funded supports)
+🗣 Languages: That Was Easy For Me To Understand
 
 185. LCHC at Cornerstone Community Outreach
 4615 N Clifton Ave  OFC 1, Chicago, IL, 60640-5013
@@ -1616,6 +1625,7 @@ New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 🌐 http://lawndale.org
 📞 (872) 588-3000
 🏥 Services: HRSA-supported health center (primary and preventive care)
+🗣 Languages: English
 
 186. LCHC at DuSable Best Western
 4900 S DuSable Lake Shore Dr  RM 202, Chicago, IL, 60615-3277
@@ -1623,6 +1633,7 @@ New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 🌐 http://lawndale.org
 📞 (872) 588-3000
 🏥 Services: HRSA-supported health center (primary and preventive care)
+🗣 Languages: English
 
 187. PCC Thresholds Health Center
 5801 W Corcoran Pl, Chicago, IL, 60644-1854
@@ -1658,6 +1669,7 @@ New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 🌐 http://lawndale.org
 📞 (872) 588-3000
 🏥 Services: HRSA-supported health center (primary and preventive care)
+🗣 Languages: English
 
 192. LCHC at Phoenix House
 5300 S Pulaski Rd  RM Community, Chicago, IL, 60632-4224
@@ -1665,6 +1677,7 @@ New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 🌐 http://lawndale.org
 📞 (872) 588-3000
 🏥 Services: HRSA-supported health center (primary and preventive care)
+🗣 Languages: English
 
 193. LCHC at Olive Branch Mission
 6310 S Claremont Ave  Chapel, Chicago, IL, 60636-2439
@@ -1672,6 +1685,7 @@ New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 📞 (872) 588-3000
 🏥 Services: HRSA-supported health center (primary and preventive care)
 🌐 https://www.lawndale.org
+🗣 Languages: English
 
 194. UI Health Mile Square Health Center Dental - 55th and Pulaski
 5525 S. Pulaski Road  STE 150, Chicago, IL, 60629-4400
@@ -1686,6 +1700,7 @@ New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 🌐 http://lawndale.org
 📞 (872) 588-3000
 🏥 Services: HRSA-supported health center (primary and preventive care)
+🗣 Languages: English
 
 196. LCHC at Lyte Collective
 549 E 76th St, Health Clinic, Chicago, IL, 60619-2430
@@ -1693,6 +1708,7 @@ New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 📞 (872) 731-2257
 🏥 Services: HRSA-supported health center (primary and preventive care)
 🌐 https://www.lawndale.org
+🗣 Languages: English
 
 197. Midwest Refuah Health Center- Behavioral Health
 6374 N Lincoln Ave, Ste 305, Chicago, IL, 60659-1283
@@ -1714,6 +1730,7 @@ New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 📞 773-764-4998 x108
 🏥 Services: HRSA-supported health center (primary and preventive care)
 🌐 https://www.lawndale.org
+🗣 Languages: English
 
 200. LCHC at Robert Johnson Inner Voice
 8040 S. Western Ave, Medication Room, Chicago, IL, 60620-5936
@@ -1721,6 +1738,7 @@ New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 📞 (312) 994-4351
 🏥 Services: HRSA-supported health center (primary and preventive care)
 🌐 https://www.lawndale.org
+🗣 Languages: English
 
 201. TCA Chatham II
 8419 S Cottage Grove Ave, Chicago, IL, 60619-6113
@@ -1744,6 +1762,8 @@ New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 🌐 http://www.hamdardhealth.org
 📞 (773) 465-4600
 🏥 Services: HRSA-supported health center (primary and preventive care)
+🗣 Languages: Holds A Deep Appreciation For The Ethnic, Cultural Traditions That Info, Urdu
+⏰ Hours: Monday-Friday: 7:00am - 5:00pm
 
 204. ACCESS Des Plaines Valley Health Center
 7450 W   63rd St, Summit Argo, IL, 60501-1816
@@ -1758,6 +1778,7 @@ New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 📞 (708) 745-5277
 🏥 Services: HRSA-supported health center (primary and preventive care)
 🌐 http://www.pillarscommunityhealth.org
+🗣 Languages: English
 
 206. Pillars Community Health La Grange Park
 321 N La Grange Rd, La Grange Park, IL, 60526-5622
@@ -1765,6 +1786,7 @@ New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 🌐 http://www.pillarscommunityhealth.org
 📞 (708) 745-5277
 🏥 Services: HRSA-supported health center (primary and preventive care)
+🗣 Languages: English
 
 207. LCHC at Roseland Christian Ministries
 10858 S Michigan Ave, Hall of Passages, Chicago, IL, 60628-3512
@@ -1772,6 +1794,7 @@ New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 📞 (773) 264-5665
 🏥 Services: HRSA-supported health center (primary and preventive care)
 🌐 https://www.lawndale.org
+🗣 Languages: English
 
 208. Greater Family Health – 10225 Grand Ave
 10225 Grand Ave, Franklin Park, IL, 60131-3138
@@ -1779,6 +1802,7 @@ New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 🌐 http://greaterfamilyhealth.org
 📞 (844) 599-3700
 🏥 Services: Ryan White HIV/AIDS Program; HRSA-supported health center (primary and preventive care)
+🗣 Languages: English Espa, English
 
 209. Southeast Side Community Health Center
 3528 E  118th St, Chicago, IL, 60617-7314
@@ -1821,6 +1845,7 @@ New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 📞 (844) 599-3700
 🏥 Services: HRSA-supported health center (primary and preventive care)
 🌐 http://www.greaterfamilyhealth.org
+🗣 Languages: English Espa, English
 
 215. VNA Health Center - Bensenville
 213 W Main St, Bensenville, IL, 60106-2134
@@ -1842,6 +1867,8 @@ New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 🌐 http://www.hamdardhealth.org/
 📞 630-835-1430 x258
 🏥 Services: HRSA-supported health center (primary and preventive care)
+🗣 Languages: Holds A Deep Appreciation For The Ethnic, Cultural Traditions That Info, Urdu
+⏰ Hours: Monday-Friday: 7:00am - 5:00pm
 
 218. ACCESS Genesis Center for Health and Empowerment
 1 N Broadway St, Des Plaines, IL, 60016-2335
@@ -1884,6 +1911,7 @@ New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 🌐 http://www.greaterfamilyhealth.org
 📞 (844) 599-3700
 🏥 Services: Ryan White HIV/AIDS Program; HRSA-supported health center (primary and preventive care)
+🗣 Languages: English Espa, English
 
 224. VNA Health Center - Carol Stream
 350 S Schmale Rd Ste 150, Carol Stream, IL, 60188-2778
@@ -1935,6 +1963,7 @@ New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 🌐 http://www.gpsbh.org
 📞 (708) 985-3040
 🏥 Services: HRSA-supported health center (primary and preventive care)
+⏰ Hours: Fri. 9:00
 
 231. VNA Health Center- DuPage County Health Department
 111 N County Farm Rd  FL 1 Clinic, Wheaton, IL, 60187-3977
@@ -1971,6 +2000,7 @@ New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 🌐 http://www.greaterfamilyhealth.org
 📞 (844) 599-3700
 🏥 Services: Ryan White HIV/AIDS Program; HRSA-supported health center (primary and preventive care)
+🗣 Languages: English Espa, English
 
 236. Legacy Medical Care - Hanover Park
 6620 Barrington Rd, Hanover Park, IL, 60133-3935
@@ -1992,6 +2022,7 @@ New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 🌐 http://www.greaterfamilyhealth.org
 📞 (844) 599-3700
 🏥 Services: Ryan White HIV/AIDS Program; HRSA-supported health center (primary and preventive care)
+🗣 Languages: English Espa, English
 
 239. VNA Health Center - Elgin Villa
 801 Villa St, Elgin, IL, 60120
@@ -2033,6 +2064,7 @@ New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 🌐 http://www.greaterfamilyhealth.org
 📞 (844) 599-3700
 🏥 Services: Ryan White HIV/AIDS Program; HRSA-supported health center (primary and preventive care)
+🗣 Languages: English Espa, English
 
 245. Greater Family Health – 450 Dundee Ave
 450 Dundee Ave, Elgin, IL, 60120-4205
@@ -2040,6 +2072,7 @@ New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 🌐 http://www.greaterfamilyhealth.org
 📞 (844) 599-3700
 🏥 Services: HRSA-supported health center (primary and preventive care)
+🗣 Languages: English Espa, English
 
 246. CARPENTERSVILLE COMMUNITY HEALTH CENTER
 3003 WAKEFIELD BLVD., CARPENTERSVILLE, IL, 60110-2422
@@ -2126,6 +2159,7 @@ New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 🌐 http://www.greaterfamilyhealth.org
 📞 (844) 599-3700
 🏥 Services: Ryan White HIV/AIDS Program; HRSA-supported health center (primary and preventive care)
+🗣 Languages: English Espa, English
 
 258. Zion Health Center
 1911 27th St, Zion, IL, 60099-2542
@@ -2146,6 +2180,7 @@ New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 🌐 http://www.greaterfamilyhealth.org
 📞 (844) 599-3700
 🏥 Services: Ryan White HIV/AIDS Program; HRSA-supported health center (primary and preventive care)
+🗣 Languages: English Espa, English
 
 261. Kankakee Community Health Center
 1777 E. Court Street, Kankakee, IL, 60901-2670
@@ -2167,6 +2202,7 @@ New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 🌐 http://www.greaterfamilyhealth.org
 📞 (844) 599-3700
 🏥 Services: Ryan White HIV/AIDS Program; HRSA-supported health center (primary and preventive care)
+🗣 Languages: English Espa, English
 
 264. Greater Family Health – 2550 N Annie Glidden Rd
 2550 N Annie Glidden Rd, Dekalb, IL, 60115-1389
@@ -2174,6 +2210,7 @@ New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 🌐 http://www.greaterfamilyhealth.org
 📞 (844) 599-3700
 🏥 Services: Ryan White HIV/AIDS Program; HRSA-supported health center (primary and preventive care)
+🗣 Languages: English Espa, English
 
 265. Susana P. Castro Health Center - Dental Clinic
 62 N Ayer Street, Suites C & D, Harvard, IL, 60033-2871
@@ -2227,6 +2264,7 @@ New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 🌐 http://www.crusaderhealth.org
 📞 (815) 490-1600
 🏥 Services: HRSA-supported health center (primary and preventive care)
+🗣 Languages: Audio, Accessible Electronic Formats, Other Formats, English, ASL
 
 272. Crusader Clinic on West State Street
 1200 W State St, Rockford, IL, 61102-2112
@@ -2386,6 +2424,7 @@ New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 🌐 https://www.hhsil.com
 🏥 Services: primary_care
 📞 309-680-7600
+⏰ Hours: Friday 8:00
 
 297. Solvera Health Peoria
 3525 N University St, Peoria, IL, 61604-1324
@@ -2452,6 +2491,7 @@ New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 🌐 https://www.chcqca.org/schoolhealth
 🏥 Services: primary_care
 📞 563-336-3000
+🗣 Languages: Assistance, Spanish, Polish, English, Gujarati
 
 308. Community Health Care, Inc. - The Project
 4101 John Deere Rd, Moline, IL, 61265-9951
@@ -2510,6 +2550,8 @@ New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 120 N 11th St, Springfield, IL, 62703-1002
 🏥 Services: primary_care
 📞 217-788-2300
+🌐 https://ahsfhc.org
+⏰ Hours: Friday: 9am-5pm
 
 318. Capitol Community Health Center
 2239 E Cook St, Springfield, IL, 62703-1944
