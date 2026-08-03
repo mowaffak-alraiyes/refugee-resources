@@ -2,3 +2,8 @@
 # Populated by Aidr HRSA import / clinic-ops (hub cities, 250-mile catchment).
 # Format: numbered blocks matching IL listings (name, address, 📞, 🌐, 🏥, 🗣, ⏰, 📝).
 
+1. Jewish Vocational Service (JVS SoCal)
+6505 Wilshire Blvd, Los Angeles, CA 90048
+🌐 https://www.jvs-socal.org
+🏥 Services: ESL, workforce, job readiness, refugee employment
+
