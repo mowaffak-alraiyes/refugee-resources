@@ -1,0 +1,4 @@
+# IN — healthcare.txt
+# Populated by Aidr HRSA Find-a-HC import (Indianapolis + surrounding, 250-mile catchment).
+# Format: numbered blocks matching IL listings (name, address, 📞, 🌐, 🏥, 🗣, ⏰, 📝).
+
