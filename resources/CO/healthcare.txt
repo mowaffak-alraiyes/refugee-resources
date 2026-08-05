@@ -1,4 +1,4 @@
-# CO — healthcare.txt
+# CO  -  healthcare.txt
 # Populated by Aidr HRSA import / clinic-ops (hub cities, 250-mile catchment).
 # Format: numbered blocks matching IL listings (name, address, 📞, 🌐, 🏥, 🗣, ⏰, 📝).
 
@@ -59,7 +59,7 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 🌐 https://www.coloradocoalition.org
 🗣 Languages: ASL
 
-10. The Colorado Coalition For The Homeless – 2100 BROADWAY
+10. The Colorado Coalition For The Homeless  -  2100 BROADWAY
 2100 BROADWAY, DENVER, CO, 80205-2526
 🌐 https://www.coloradocoalition.org
 🏥 Services: Primary Care
@@ -276,7 +276,7 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 🏥 Services: Primary Care
 📞 303-778-7433
 
-46. STRIDE CHC – Wheat Ridge
+46. STRIDE CHC  -  Wheat Ridge
 7495 W   29th Ave, Wheat Ridge, CO, 80033-8002
 🌐 https://www.mcpn.org
 🏥 Services: Primary Care
@@ -306,7 +306,7 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 🏥 Services: Primary Care
 📞 303-436-4949
 
-51. STRIDE CHC – Englewood
+51. STRIDE CHC  -  Englewood
 3515 S Delaware St, Englewood, CO, 80110-3529
 🌐 https://www.mcpn.org
 🏥 Services: Primary Care
@@ -318,7 +318,7 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 🏥 Services: Primary Care
 📞 303-340-3940
 
-53. STRIDE CHC – Oneida
+53. STRIDE CHC  -  Oneida
 2255 S. Oneida St., Denver, CO, 80224-2522
 🌐 https://www.stridechc.org
 🏥 Services: Primary Care
@@ -371,7 +371,7 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 🗣 Languages: Assistance Non
 ⏰ Hours: Monday - Friday: 8:00 am - 5:00 pm
 
-61. STRIDE CHC – Peoria
+61. STRIDE CHC  -  Peoria
 3292 Peoria St, Aurora, CO, 80010
 🌐 https://www.stridechc.org
 🏥 Services: Primary Care
@@ -413,7 +413,7 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 🏥 Services: Primary Care
 📞 720-424-0909
 
-68. STRIDE CHC – Hampden and Chambers
+68. STRIDE CHC  -  Hampden and Chambers
 15132 E Hampden Ave STE G, Aurora, CO, 80014-5038
 🌐 https://stridechc.org
 🏥 Services: Primary Care
@@ -869,7 +869,7 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 🏥 Services: Primary Care
 📞 719-564-4823
 
-145. Northwest Colorado Health Community Health Center – Routt County
+145. Northwest Colorado Health Community Health Center  -  Routt County
 940 Central Park Dr Ste 101, Steamboat Springs, CO, 80487-8853
 🌐 https://www.northwestcoloradohealth.org
 🏥 Services: Primary Care
@@ -916,7 +916,7 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 🏥 Services: Primary Care
 📞 970-824-8000
 🗣 Languages: English
-⏰ Hours: Monday: 7:00 AM–5:00 PM
+⏰ Hours: Monday: 7:00 AM - 5:00 PM
 
 153. Axis Health System - Gunnison
 710 N Taylor St, Gunnison, CO, 81230-2244
@@ -950,7 +950,7 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 🏥 Services: Primary Care
 📞 719-543-8711
 
-159. Northwest Colorado Health Dental Clinic – Craig
+159. Northwest Colorado Health Dental Clinic  -  Craig
 485 Yampa Ave, Craig, CO, 81625-2609
 🌐 https://www.northwestcoloradohealth.org
 🏥 Services: Primary Care

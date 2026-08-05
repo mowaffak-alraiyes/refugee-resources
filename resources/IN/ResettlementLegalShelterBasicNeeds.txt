@@ -1,9 +1,9 @@
-# IN — ResettlementLegalShelterBasicNeeds.txt
+# IN  -  ResettlementLegalShelterBasicNeeds.txt
 # Populated by Aidr HRSA Find-a-HC import (Indianapolis + surrounding, 250-mile catchment).
 # Format: numbered blocks matching IL listings (name, address, 📞, 🌐, 🏥, 🗣, ⏰, 📝).
 
-1. Catholic Charities Indianapolis — Refugee & Immigrant Services
+1. Catholic Charities Indianapolis  -  Refugee & Immigrant Services
 1400 N Meridian St, Indianapolis, IN 46202
 🌐 https://www.archindy.org/cc
-🏥 Services: refugee resettlement, immigration, basic needs
+🏥 Services: Refugee Resettlement, Immigration, Basic Needs
 

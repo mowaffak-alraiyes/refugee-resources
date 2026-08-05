@@ -1,4 +1,4 @@
-# IN — healthcare.txt
+# IN  -  healthcare.txt
 # Populated by Aidr HRSA Find-a-HC import (Indianapolis + surrounding, 250-mile catchment).
 # Format: numbered blocks matching IL listings (name, address, 📞, 🌐, 🏥, 🗣, ⏰, 📝).
 
@@ -1134,7 +1134,7 @@
 📞 800-342-5653
 🌐 https://www.bowencenter.org/fort-wayne
 
-186. Maple City Health Care Center – 215 Middlebury St
+186. Maple City Health Care Center  -  215 Middlebury St
 215 Middlebury St, Goshen, IN, 46528-2956
 🌐 https://www.mchcc.org
 🏥 Services: Primary Care
@@ -1288,7 +1288,7 @@
 🏥 Services: Primary Care
 📞 219-763-8112
 
-211. 219 Health Network – 3800 Saint Mary Rd.  STE 203
+211. 219 Health Network  -  3800 Saint Mary Rd.  STE 203
 3800 Saint Mary Rd.  STE 203, Valparaiso, IN, 46383-3986
 🌐 https://www.219health.org
 🏥 Services: Primary Care
@@ -1373,7 +1373,7 @@
 🏥 Services: Primary Care
 📞 219-880-1190
 🗣 Languages: Spanish, English
-⏰ Hours: Monday – Friday: 8:30 am – 5pm
+⏰ Hours: Monday  -  Friday: 8:30 am  -  5pm
 
 225. NorthShore Dr. Fernando Rivera Dental Center
 3099 Central Ave, Lake Station, IN, 46405-2207
@@ -1435,7 +1435,7 @@
 🏥 Services: Primary Care
 📞 219-880-1190
 🗣 Languages: Spanish, English
-⏰ Hours: Monday – Friday: 8:30 am – 5pm
+⏰ Hours: Monday  -  Friday: 8:30 am  -  5pm
 
 235. NorthShore East Chicago
 2121 E Columbus Dr., East Chicago, IN, 46312
@@ -1448,14 +1448,14 @@
 🏥 Services: Primary Care
 📞 219-880-1190
 🗣 Languages: Spanish, English
-⏰ Hours: Monday – Friday: 8:30 am – 5pm
+⏰ Hours: Monday  -  Friday: 8:30 am  -  5pm
 
 237. Community HealthNet at Ophelia Steen
 5927 Columbia Ave, Hammond, IN, 46320-2611
 🌐 https://www.chn-indiana.org
 🏥 Services: Primary Care
 📞 219-880-1190
-⏰ Hours: Monday – Friday: 8:30 am – 5pm
+⏰ Hours: Monday  -  Friday: 8:30 am  -  5pm
 
 238. CHN at Hammond Central High
 5926 Calumet Avenue, Hammond, IN, 46320-2505
@@ -1463,9 +1463,9 @@
 🏥 Services: Primary Care
 📞 219-880-1190
 🗣 Languages: Spanish, English
-⏰ Hours: Monday – Friday: 8:30 am – 5pm
+⏰ Hours: Monday  -  Friday: 8:30 am  -  5pm
 
-239. 219 Health Network – 1545 W US Highway 30  STE 1A
+239. 219 Health Network  -  1545 W US Highway 30  STE 1A
 1545 W US Highway 30  STE 1A, Schererville, IN, 46375-1562
 🏥 Services: Primary Care
 📞 219-595-0410

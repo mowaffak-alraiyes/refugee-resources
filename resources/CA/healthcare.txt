@@ -1,4 +1,4 @@
-# CA — healthcare.txt
+# CA  -  healthcare.txt
 # Populated by Aidr HRSA import / clinic-ops (hub cities, 250-mile catchment).
 # Format: numbered blocks matching IL listings (name, address, 📞, 🌐, 🏥, 🗣, ⏰, 📝).
 
@@ -1009,7 +1009,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 🏥 Services: Primary Care
 📞 510-535-4000
 
-182. OHI – Virginia Head Start
+182. OHI  -  Virginia Head Start
 1328 Virginia St, Vallejo, CA, 94590-6345
 🏥 Services: Primary Care
 📞 707-558-2000
@@ -1728,7 +1728,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 🏥 Services: Primary Care
 📞 831-728-0222
 
-312. Dientes Community Dental Care – Penny Lane
+312. Dientes Community Dental Care  -  Penny Lane
 55 Penny Ln, Suite 103, Watsonville, CA, 95076-6017
 🌐 https://dientes.org
 🏥 Services: Primary Care
@@ -1899,7 +1899,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 🌐 https://www.csvs.org
 ⏰ Hours: Mon-Fri: 8am-5pm
 
-341. GVHC – Manteca Northgate West
+341. GVHC  -  Manteca Northgate West
 302 Northgate Dr, Manteca, CA, 95336-3139
 🏥 Services: Primary Care
 📞 209-383-1848
@@ -2678,7 +2678,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 🏥 Services: Primary Care
 📞 424-236-4800
 
-479. Angeles Community Health Center – 7th Street – Fl 3
+479. Angeles Community Health Center  -  7th Street  -  Fl 3
 1919 W 7th St Fl 3, Los Angeles, CA, 90057-4103
 🌐 https://www.angelescommunity.org
 🏥 Services: Primary Care
@@ -3233,7 +3233,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 🏥 Services: Primary Care
 📞 323-732-0100
 
-576. Angeles Community Health Center – Maywood School
+576. Angeles Community Health Center  -  Maywood School
 5800 King Ave, Maywood, CA, 90270-2928
 🌐 http://www.angelescommunity.org
 🏥 Services: Primary Care
@@ -3370,7 +3370,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 🌐 https://www.apla.org
 ⏰ Hours: Friday: 10
 
-600. AltaMed Behavioral Health – Willow Elementary School
+600. AltaMed Behavioral Health  -  Willow Elementary School
 2777 Willow Pl, Rm Psychologist Office, South Gate, CA, 90280
 🏥 Services: Primary Care
 📞 888-499-9030
@@ -3442,7 +3442,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 
 612. Bell Gardens Community Health Center
 6912 AJAX AVE, BELL GARDENS, CA, 90201-4057
-🌐 http://www.jwchinstitute.org/clinic_bg.htm
+🌐 http://www.jwchinstitute.org/Clinic Bg.htm
 🏥 Services: Primary Care
 📞 323-562-5813
 
@@ -3514,7 +3514,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 🏥 Services: Primary Care
 📞 323-266-6700
 
-625. AltaMed Behavioral Health – Legacy Senior High VAPA
+625. AltaMed Behavioral Health  -  Legacy Senior High VAPA
 5225 Tweedy Blvd, Rm AP Office, South Gate, CA, 90280
 🏥 Services: Primary Care
 📞 855-425-1777
@@ -3627,7 +3627,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 🏥 Services: Primary Care
 📞 424-266-7480
 🌐 http://www.achievable.org
-⏰ Hours: Monday : 8:00 am – 6:00 pm
+⏰ Hours: Monday : 8:00 am  -  6:00 pm
 
 644. Centro Medico Hardy Street
 575 E Hardy St, Suite 207, Inglewood, CA, 90301
@@ -3691,7 +3691,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 🏥 Services: Primary Care
 📞 626-286-8700
 
-655. ChapCare by AltaMed General Pediatrics and Dental Group – Pasadena, Lincoln
+655. ChapCare by AltaMed General Pediatrics and Dental Group  -  Pasadena, Lincoln
 2055 Lincoln Ave, Pasadena, CA, 91103-1324
 🌐 https://www.altamed.org
 🏥 Services: Primary Care
@@ -3720,7 +3720,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 🏥 Services: Primary Care
 📞 818-843-9900
 
-660. ChapCare by AltaMed Medical Group – Pasadena, Lake
+660. ChapCare by AltaMed Medical Group  -  Pasadena, Lake
 1595 N Lake Ave, Pasadena, CA, 91104-2307
 🌐 https://www.altamed.org
 🏥 Services: Primary Care
@@ -3762,7 +3762,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 🏥 Services: Primary Care
 📞 310-659-7867
 
-667. St. Anthony Medical Center – Compton
+667. St. Anthony Medical Center  -  Compton
 1145 E Compton Blvd, Compton, CA, 90221-3307
 🏥 Services: Primary Care
 📞 310-637-5555
@@ -3778,7 +3778,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 🏥 Services: Primary Care
 📞 310-392-8636
 
-670. ChapCare by AltaMed Medical Group – El Monte, Garvey
+670. ChapCare by AltaMed Medical Group  -  El Monte, Garvey
 10127 Garvey Ave, El Monte, CA, 91733-2066
 🌐 https://www.altamed.org
 🏥 Services: Primary Care
@@ -3848,7 +3848,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 🏥 Services: Primary Care
 📞 818-503-9800
 
-682. AltaMed Pharmacy and Infusion Center–Bellflower
+682. AltaMed Pharmacy and Infusion Center - Bellflower
 9056 Rosecrans Ave, Bellflower, CA, 90706-2038
 🏥 Services: Primary Care
 📞 888-499-9303
@@ -4115,7 +4115,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 
 729. NORWALK REGIONAL HEALTH CENTER
 12360 FIRESTONE BLVD, NORWALK, CA, 90650-4324
-🌐 http://www.jwchinstitute.org/clinic_norwalk.htm
+🌐 http://www.jwchinstitute.org/Clinic Norwalk.htm
 🏥 Services: Primary Care
 📞 562-281-0305
 
@@ -4207,7 +4207,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 🏥 Services: Primary Care
 📞 714-446-5100
 
-746. AltaMed Dental Group – Santa Ana, Sunflower
+746. AltaMed Dental Group  -  Santa Ana, Sunflower
 3601 W. Sunflower Avenue, Rooms 200-242, 245-251, 253 &amp; 255-261, Santa Ana, CA, 92704
 🌐 https://altamed.org
 🏥 Services: Primary Care
@@ -4322,7 +4322,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 🏥 Services: Primary Care
 📞 714-352-2911
 
-765. Yehowa Medical Services – North Main
+765. Yehowa Medical Services  -  North Main
 517 N Main St, STES 100, 220, 339, Santa Ana, CA, 92701
 🌐 https://ymedical.org/
 🏥 Services: Primary Care
@@ -5206,7 +5206,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 🏥 Services: Primary Care
 📞 760-767-5051
 
-927. Neighborhood Healthcare – Mobile Dental Health Services
+927. Neighborhood Healthcare  -  Mobile Dental Health Services
 8856 Arlington Ave REAR, Riverside, CA, 92503
 🏥 Services: Primary Care
 📞 760-520-8300
@@ -5382,7 +5382,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 🏥 Services: Primary Care
 📞 559-664-4000
 
-958. Camarena Health – Millbrook Health Center
+958. Camarena Health  -  Millbrook Health Center
 7202 N Millbrook Ave Ste 202, Fresno, CA, 93720-3341
 🌐 https://www.camarenahealth.org
 🏥 Services: Primary Care
@@ -5405,7 +5405,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 🏥 Services: Primary Care
 📞 559-646-6618 x0010
 
-962. Camarena Health – Madera Ranchos
+962. Camarena Health  -  Madera Ranchos
 37416 Avenue 12, Madera, CA, 93636-8610
 🌐 https://www.camarenahealth.org/
 🏥 Services: Primary Care
@@ -5515,12 +5515,12 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 🌐 https://www.camarenahealth.org/
 🗣 Languages: Spanish
 
-980. Family HealthCare Network – Reedley South Avenue Health Center
+980. Family HealthCare Network  -  Reedley South Avenue Health Center
 256 E. South Avenue, Reedley, CA, 93654-9537
 🏥 Services: Primary Care
 📞 877-960-3426
 
-981. Camarena Health – Matilda Torres High School, School Based Health Center
+981. Camarena Health  -  Matilda Torres High School, School Based Health Center
 16645 Road 26, Madera, CA, 93638-0830
 🌐 https://www.camarenahealth.org
 🏥 Services: Primary Care
@@ -5532,7 +5532,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 🏥 Services: Primary Care
 📞 559-693-2462
 
-983. Dinuba Community Health Center – Building 2
+983. Dinuba Community Health Center  -  Building 2
 920 N Alta Ave, Dinuba, CA, 93618-3003
 🌐 https://www.vht.org
 🏥 Services: Primary Care
@@ -5707,7 +5707,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 🏥 Services: Primary Care
 📞 209-383-5871
 
-1013. GVHC – Senior Health and Wellness Center
+1013. GVHC  -  Senior Health and Wellness Center
 857 W Childs Ave, Merced, CA, 95341-6862
 🏥 Services: Primary Care
 📞 209-385-5600
@@ -5908,7 +5908,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 🏥 Services: Primary Care
 📞 661-328-4000
 
-1047. KERN MEDICAL OUTPATIENT HEALTH (KMOH) – 34th STREET
+1047. KERN MEDICAL OUTPATIENT HEALTH (KMOH)  -  34th STREET
 820 34th St, Ste 202, Bakersfield, CA, 93301-2268
 🌐 https://www.kernmedical.com/kern-medical-outpatient-health
 🏥 Services: Primary Care
@@ -5925,13 +5925,13 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 🏥 Services: Primary Care
 📞 833-678-2781
 
-1050. KERN MEDICAL OUTPATIENT HEALTH (KMOH) – STOCKDALE 400
+1050. KERN MEDICAL OUTPATIENT HEALTH (KMOH)  -  STOCKDALE 400
 9330 Stockdale Hwy, Ste 400, Bakersfield, CA, 93311-3615
 🌐 https://www.kernmedical.com/kern-medical-outpatient-health
 🏥 Services: Primary Care
 📞 661-664-2200
 
-1051. KERN MEDICAL OUTPATIENT HEALTH (KMOH) – COLUMBUS 1000
+1051. KERN MEDICAL OUTPATIENT HEALTH (KMOH)  -  COLUMBUS 1000
 1111 Columbus St, Ste 1000, Bakersfield, CA, 93305-1937
 🌐 https://www.kernmedical.com/kern-medical-outpatient-health
 🏥 Services: Primary Care
@@ -6494,7 +6494,7 @@ Anonymous, Santa Maria, CA, 93454-0000
 🏥 Services: Primary Care
 📞 818-830-7751
 
-1155. Tarzana Treatment Centers – Woodland Hills
+1155. Tarzana Treatment Centers  -  Woodland Hills
 6022 Variel Ave, Woodland Hills, CA, 91367-3719
 🌐 https://www.tarzanatc.org
 🏥 Services: Primary Care
@@ -6505,7 +6505,7 @@ Anonymous, Santa Maria, CA, 93454-0000
 🏥 Services: Primary Care
 📞 805-346-3914
 
-1157. AltaMed PACE – Sunland
+1157. AltaMed PACE  -  Sunland
 8800 Foothill Blvd, Sunland, CA, 91040-1925
 🏥 Services: Primary Care
 📞 855-252-7223
@@ -6597,7 +6597,7 @@ Anonymous, Santa Maria, CA, 93454-0000
 🏥 Services: Primary Care
 📞 818-907-0322
 
-1173. Eisner Health  – Mobile Care Van #1
+1173. Eisner Health   -  Mobile Care Van #1
 15477 Ventura Blvd Ste 300, Sherman Oaks, CA, 91403-3068
 🏥 Services: Primary Care
 📞 213-747-5542

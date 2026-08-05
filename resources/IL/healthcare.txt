@@ -1,11 +1,11 @@
 1. AHS Family Health Center
 2501 W Peterson Ave, Chicago, IL 60659-4108
-📝 Ryan White HIV/AIDS Program (HRSA HAB) provider — Last reviewed 07/2026; HRSA database - Last reviewed April 2025
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026; HRSA database - Last reviewed April 2025
 🌐 https://ahsfhc.org
 📞 (800) 597-5077
 🗣 Languages: English; Spanish; and ~40 other languages
-🏥 Services: Ryan White HIV/AIDS Program; Family Medicine; Dental
-⏰ Hours: Mon/Wed/Fri 9:00 am–5:00 pm; Tue/Thu 9:00 am–7:00 pm; Sat 9:00 am–1:00 pm
+🏥 Services: Ryan White HIV/AIDS Program, Family Medicine, Dental
+⏰ Hours: Mon/Wed/Fri 9:00 am - 5:00 pm; Tue/Thu 9:00 am - 7:00 pm; Sat 9:00 am - 1:00 pm
 
 2. AHS Family Health Center
 6301 N Western Ave, Chicago, IL 60659-2009
@@ -13,8 +13,8 @@
 🌐 https://ahsfhc.org
 📞 (708) 780-9777
 🗣 Languages: English; Spanish; and ~40 other languages
-🏥 Services: Family Medicine; Obstetrics/Gyn; Pediatrics; Psychiatry; Dental
-⏰ Hours: Mon/Wed/Fri 9:00 am–5:00 pm; Tue/Thu 9:00 am–7:00 pm; Sat 9:00 am–1:00 pm
+🏥 Services: Family Medicine, Obstetrics/Gyn, Pediatrics, Psychiatry, Dental
+⏰ Hours: Mon/Wed/Fri 9:00 am - 5:00 pm; Tue/Thu 9:00 am - 7:00 pm; Sat 9:00 am - 1:00 pm
 
 3. ALIVIO MEDICAL CENTER
 966 W 21st St, Chicago, IL 60608-4511
@@ -22,8 +22,8 @@
 🌐 https://alivio.org
 📞 (773) 254-1400
 🗣 Languages: English; Spanish; Mandarin; Urdu; Cantonese; Taiwanese; German; Hindi
-🏥 Services: Primary care (Adult & Pediatric); Midwifery; Behavioral Health; Dental; Nutrition; Surgery
-⏰ Hours: Mon/Tue/Thu/Fri 8:30 am–5:30 pm; Wed 1:00 pm–8:00 pm; Sat 9:00 am–1:00 pm
+🏥 Services: Primary care (Adult & Pediatric), Midwifery, Behavioral Health, Dental, Nutrition, Surgery
+⏰ Hours: Mon/Tue/Thu/Fri 8:30 am - 5:30 pm; Wed 1:00 pm - 8:00 pm; Sat 9:00 am - 1:00 pm
 
 4. ALIVIO MEDICAL CENTER
 2355 S Western Ave, Chicago, IL 60608-3837
@@ -31,8 +31,8 @@
 📞 (773) 254-1400
 🌐 https://alivio.org
 🗣 Languages: English; Spanish; Mandarin; Urdu; Yoruba; Kannada; Tamil
-🏥 Services: Primary care (Adult & Pediatric); Midwifery; Behavioral Health; Nutrition; Pediatrics
-⏰ Hours: Mon/Tue/Thu/Fri 8:30 am–5:30 pm; Wed 1:00 pm–8:00 pm; Sat 9:00 am–1:00 pm
+🏥 Services: Primary care (Adult & Pediatric), Midwifery, Behavioral Health, Nutrition, Pediatrics
+⏰ Hours: Mon/Tue/Thu/Fri 8:30 am - 5:30 pm; Wed 1:00 pm - 8:00 pm; Sat 9:00 am - 1:00 pm
 
 5. AMC Mobile Unit
 966 W 21st St, Chicago, IL 60608-4511
@@ -40,7 +40,7 @@
 🌐 https://alivio.org
 📞 (773) 254-1400
 🗣 Languages: English; Spanish
-🏥 Services: Mobile health clinic – screenings (glucose, blood pressure, etc.); immunizations; health education
+🏥 Services: Mobile health clinic  -  screenings (glucose, Blood Pressure, Etc.), Immunizations, Health Education
 ⏰ Hours: Hours vary (operates on scheduled outreach events)
 
 6. Administrative Annex
@@ -49,8 +49,8 @@
 📞 (773) 768-5000
 🌐 https://chicagofamilyhealth.org
 🗣 Languages: English; Spanish
-🏥 Services: Administrative offices (supports 5 clinic sites; no medical services)
-⏰ Hours: Mon–Fri 8:00 am–5:00 pm
+🏥 Services: Administrative offices (supports 5 clinic sites, No Medical Services)
+⏰ Hours: Mon - Fri 8:00 am - 5:00 pm
 
 7. Alivio Medical Center Dental at 63rd St.
 4255 W 63rd St, Chicago, IL 60629-5041
@@ -58,8 +58,8 @@
 🌐 https://alivio.org
 📞 (773) 254-1400
 🗣 Languages: English; Spanish; Mandarin; Cantonese; Taiwanese
-🏥 Services: Dental care (exams, cleanings, X-rays, extractions, emergencies, etc.)
-⏰ Hours: Tue/Thu 8:30 am–5:00 pm; Mon/Wed/Fri/Sat/Sun closed
+🏥 Services: Dental care (exams, Cleanings, X-rays, Extractions, Emergencies, Etc.)
+⏰ Hours: Tue/Thu 8:30 am - 5:00 pm; Mon/Wed/Fri/Sat/Sun closed
 
 8. Benito Juarez Community Academy
 1450 W Cermak Rd, Chicago, IL 60608-4408
@@ -67,8 +67,8 @@
 🌐 https://alivio.org
 📞 (773) 254-1400
 🗣 Languages: English; Spanish; Mandarin; Cantonese; Taiwanese
-🏥 Services: Adolescent medicine; Pediatrics; Family Medicine; Behavioral Health
-⏰ Hours: Mon–Fri 8:30 am–1:00 pm, 2:00 pm–4:00 pm (closed Sat/Sun)
+🏥 Services: Adolescent medicine, Pediatrics, Family Medicine, Behavioral Health
+⏰ Hours: Mon - Fri 8:30 am - 1:00 pm, 2:00 pm - 4:00 pm (closed Sat/Sun)
 
 9. Broadway Youth Center
 1023 W Irving Park Rd, Chicago, IL 60613-2913
@@ -76,17 +76,17 @@
 🌐 https://howardbrown.org/byc
 📞 (773) 388-1600
 🗣 Languages: English; Spanish (bilingual services)
-🏥 Services: LGBTQ+ youth-focused primary care; mental health; social services; drop-in support
-⏰ Hours: Mon/Tue/Thu/Fri 9:00 am–6:00 pm; Wed 1:00 pm–6:00 pm; Sat/Sun closed
+🏥 Services: LGBTQ+ youth-focused primary care, Mental Health, Social Services, Drop-In Support
+⏰ Hours: Mon/Tue/Thu/Fri 9:00 am - 6:00 pm; Wed 1:00 pm - 6:00 pm; Sat/Sun closed
 
 10. CHRISTIAN COMMUNITY HEALTH CENTER
 9718 S Halsted St, Chicago, IL 60628-1007
-📝 Ryan White HIV/AIDS Program (HRSA HAB) provider — Last reviewed 07/2026; HRSA database - Last reviewed April 2025
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026; HRSA database - Last reviewed April 2025
 🌐 https://cchc-online.org
 📞 (773) 233-4100
 🗣 Languages: English; Spanish
-🏥 Services: Ryan White HIV/AIDS Program; Comprehensive primary medical (adult & children); dental; women’s health (prenatal/OB); behavioral health; HIV/STI services
-⏰ Hours: Mon/Tue 8:00 am–6:00 pm; Wed 8:00 am–7:00 pm; Thu 9:00 am–8:00 pm; Fri 8:00 am–5:00 pm; 1st & 3rd Sat 8:00 am–2:00 pm
+🏥 Services: Ryan White HIV/AIDS Program, Comprehensive primary medical (adult & children), Dental, women’s health (prenatal/OB), Behavioral Health, HIV/STI services
+⏰ Hours: Mon/Tue 8:00 am - 6:00 pm; Wed 8:00 am - 7:00 pm; Thu 9:00 am - 8:00 pm; Fri 8:00 am - 5:00 pm; 1st & 3rd Sat 8:00 am - 2:00 pm
 
 11. COMMUNITY HEALTH PARTNERSHIP OF ILLINOIS
 205 W Randolph St STE 2222, Chicago, IL 60606-1814
@@ -95,7 +95,7 @@
 📞 (630) 859-0015
 🗣 Languages: English; Spanish
 🏥 Services: Administrative office (FQHC program for migrant/seasonal farmworkers)
-⏰ Hours: Mon–Fri 9:00 am–5:00 pm (office hours)
+⏰ Hours: Mon - Fri 9:00 am - 5:00 pm (office hours)
 
 12. Children's Reception Center
 5001 S Michigan Ave, Chicago, IL 60615-2112
@@ -103,7 +103,7 @@
 🌐 https://www.auntmarthas.org
 📞 (877) 692-8686
 🗣 Languages: English; Spanish
-🏥 Services: 24/7 crisis intake center for youth (abused/neglected children entering DCFS care – health screening & temporary shelter)
+🏥 Services: 24/7 crisis intake center for youth (abused/neglected children entering DCFS care  -  health screening & temporary shelter)
 ⏰ Hours: 24 hours, 7 days (open 24/7 for emergency youth services)
 
 13. Christian Community Health Center - 87th Street
@@ -113,25 +113,25 @@
 🌐 https://cchc-online.org
 🗣 Languages: English; Spanish
 🏥 Services: Supportive housing & social services site (no on-site medical clinic)
-⏰ Hours: Mon–Fri 9:00 am–5:00 pm (business hours)
+⏰ Hours: Mon - Fri 9:00 am - 5:00 pm (business hours)
 
 14. Cottage View Health Center
 4829 S Cottage Grove Ave, Chicago, IL 60615-1600
-📝 Ryan White HIV/AIDS Program (HRSA HAB) provider — Last reviewed 07/2026; HRSA database - Last reviewed April 2025
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026; HRSA database - Last reviewed April 2025
 🌐 https://nearnorthhealth.org
 📞 (312) 337-1073
 🗣 Languages: English (primary)
-🏥 Services: Ryan White HIV/AIDS Program; Internal Medicine; Lab Services; Health Education; Podiatry
-⏰ Hours: Mon–Fri 8:00 am–5:00 pm; Sat/Sun closed
+🏥 Services: Ryan White HIV/AIDS Program, Internal Medicine, Lab Services, Health Education, Podiatry
+⏰ Hours: Mon - Fri 8:00 am - 5:00 pm; Sat/Sun closed
 
 15. Denny Health Center
 150 E Huron St, Chicago, IL 60611-2999
-📝 Ryan White HIV/AIDS Program (HRSA HAB) provider — Last reviewed 07/2026; HRSA database - Last reviewed April 2025
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026; HRSA database - Last reviewed April 2025
 🌐 https://nearnorthhealth.org
 📞 (312) 337-1073
 🗣 Languages: English (primary)
-🏥 Services: Ryan White HIV/AIDS Program; Internal Medicine; Lab Services
-⏰ Hours: Mon–Fri 8:00 am–4:00 pm; Sat/Sun closed
+🏥 Services: Ryan White HIV/AIDS Program, Internal Medicine, Lab Services
+⏰ Hours: Mon - Fri 8:00 am - 4:00 pm; Sat/Sun closed
 
 16. Esperanza 63rd Street Annex
 4104 W 63rd St, Chicago, IL 60629-5008
@@ -140,23 +140,23 @@
 🌐 https://esperanzachicago.org
 🗣 Languages: English; Spanish
 🏥 Services: Patient benefit navigation (insurance enrollment, SNAP/Medicaid applications)
-⏰ Hours: Mon–Wed 8:00 am–5:00 pm; Thu 11:15 am–7:00 pm (1st & 3rd Thu), otherwise 8:00 am–5:00 pm; Fri 8:00 am–4:00 pm; 2nd & 4th Sat 8:00 am–2:00 pm
+⏰ Hours: Mon - Wed 8:00 am - 5:00 pm; Thu 11:15 am - 7:00 pm (1st & 3rd Thu), otherwise 8:00 am - 5:00 pm; Fri 8:00 am - 4:00 pm; 2nd & 4th Sat 8:00 am - 2:00 pm
 
 17. Esperanza Academy for Global Citizenship
 4647 W 47th St RM 200, Chicago, IL 60632-4847
 📝 HRSA database - Last reviewed April 2025
 🌐 https://esperanzachicago.org
 🗣 Languages: English; Spanish
-🏥 Services: School-based health center – Pediatric primary care and wellness services for students (open to community as FQHC)
-⏰ Hours: Mon–Fri ~7:30 am–5:00 pm (during school hours); closed Sat/Sun (approximate)
+🏥 Services: School-based health center  -  Pediatric primary care and wellness services for students (open to community as FQHC)
+⏰ Hours: Mon - Fri ~7:30 am - 5:00 pm (during school hours); closed Sat/Sun (approximate)
 
 18. Esperanza Academy for Global Citizenship Annex
 4941 W 46th St RM 100, Chicago, IL 60638-2023
 📝 HRSA database - Last reviewed April 2025
 🌐 https://esperanzachicago.org
 🗣 Languages: English; Spanish
-🏥 Services: School-based health center – Pediatric primary care and wellness services (extension of above)
-⏰ Hours: Mon–Fri ~7:30 am–5:00 pm (during school hours); closed Sat/Sun (approximate)
+🏥 Services: School-based health center  -  Pediatric primary care and wellness services (extension of above)
+⏰ Hours: Mon - Fri ~7:30 am - 5:00 pm (during school hours); closed Sat/Sun (approximate)
 
 19. Esperanza Brighton Park
 4700 S California Ave, Chicago, IL 60632-2016
@@ -164,8 +164,8 @@
 🌐 https://esperanzachicago.org
 📞 (773) 584-6200
 🗣 Languages: English; Spanish
-🏥 Services: Adult & Pediatric Primary Care; Women’s Health; Behavioral Health
-⏰ Hours: Mon 7:15 am–5:45 pm; Tue/Wed 7:15 am–6:00 pm; Thu 11:30 am–6:45 pm (1st & 3rd), 7:15 am–5:45 pm (others); Fri 7:15 am–4:00 pm; Sat 7:30 am–4:00 pm; Sun closed
+🏥 Services: Adult & Pediatric Primary Care, Women's Health, Behavioral Health
+⏰ Hours: Mon 7:15 am - 5:45 pm; Tue/Wed 7:15 am - 6:00 pm; Thu 11:30 am - 6:45 pm (1st & 3rd), 7:15 am - 5:45 pm (others); Fri 7:15 am - 4:00 pm; Sat 7:30 am - 4:00 pm; Sun closed
 
 20. Esperanza Brighton Park Campus Expansion
 4720 S California Ave, Chicago, IL 60632-2016
@@ -173,8 +173,8 @@
 📞 (773) 584-6200
 🌐 https://esperanzachicago.org
 🗣 Languages: English; Spanish
-🏥 Services: Adult & Pediatric Primary Care; Women’s Health; Behavioral Health
-⏰ Hours: Mon 7:30 am–5:30 pm; Tue 7:30 am–4:30 pm; Wed 7:30 am–5:00 pm; Thu 11:30 am–6:30 pm (1st & 3rd), 7:30 am–4:30 pm (others); Fri 7:30 am–4:30 pm; Sat 7:30 am–3:30 pm; Sun closed
+🏥 Services: Adult & Pediatric Primary Care, Women's Health, Behavioral Health
+⏰ Hours: Mon 7:30 am - 5:30 pm; Tue 7:30 am - 4:30 pm; Wed 7:30 am - 5:00 pm; Thu 11:30 am - 6:30 pm (1st & 3rd), 7:30 am - 4:30 pm (others); Fri 7:30 am - 4:30 pm; Sat 7:30 am - 3:30 pm; Sun closed
 
 21. Esperanza California
 2001 S California Ave, Ste 100, Chicago, IL 60608-2486
@@ -182,8 +182,8 @@
 🌐 https://esperanzachicago.org
 📞 (773) 584-6200
 🗣 Languages: English; Spanish
-🏥 Services: Adult & Pediatric Primary Care; Women’s Health (Ob/Gyn); Behavioral Health
-⏰ Hours: Mon/Tue 7:00 am–5:30 pm; Wed 7:00 am–6:00 pm; Thu 11:00 am–6:00 pm (1st), 7:00 am–5:30 pm (others); Fri 7:00 am–5:00 pm; Sat 7:00 am–2:00 pm; Sun closed
+🏥 Services: Adult & Pediatric Primary Care, Women’s Health (Ob/Gyn), Behavioral Health
+⏰ Hours: Mon/Tue 7:00 am - 5:30 pm; Wed 7:00 am - 6:00 pm; Thu 11:00 am - 6:00 pm (1st), 7:00 am - 5:30 pm (others); Fri 7:00 am - 5:00 pm; Sat 7:00 am - 2:00 pm; Sun closed
 
 22. Esperanza California, Suite 101
 2001 S California Ave STE 101, Chicago, IL 60608-2486
@@ -191,8 +191,8 @@
 📞 (773) 584-6200
 🌐 https://esperanzachicago.org
 🗣 Languages: English; Spanish
-🏥 Services: Adult & Pediatric Primary Care; Women’s Health; Behavioral Health (clinic expansion)
-⏰ Hours: Same as Suite 100 – Mon/Tue 7:00 am–5:30 pm; Wed 7:00 am–6:00 pm; Thu 11:00 am–6:00 pm (1st), 7:00 am–5:30 pm (others); Fri 7:00 am–5:00 pm; Sat 7:00 am–2:00 pm; Sun closed
+🏥 Services: Adult & Pediatric Primary Care, Women's Health, Behavioral Health (clinic expansion)
+⏰ Hours: Same as Suite 100  -  Mon/Tue 7:00 am - 5:30 pm; Wed 7:00 am - 6:00 pm; Thu 11:00 am - 6:00 pm (1st), 7:00 am - 5:30 pm (others); Fri 7:00 am - 5:00 pm; Sat 7:00 am - 2:00 pm; Sun closed
 
 23. Esperanza Little Village
 3059 W 26th St, Chicago, IL 60623-4131
@@ -200,8 +200,8 @@
 🌐 https://esperanzachicago.org
 📞 (773) 932-2111
 🗣 Languages: English; Spanish
-🏥 Services: Adult & Pediatric Primary Care; Women’s Health; Behavioral Health
-⏰ Hours: Mon 7:30 am–5:30 pm; Tue 7:30 am–5:45 pm; Wed 7:30 am–5:30 pm; Thu 11:00 am–7:15 pm (1st & 3rd), 7:30 am–4:30 pm (others); Fri 8:00 am–5:30 pm; Sat 8:00 am–4:00 pm (except 5th Sat); Sun closed
+🏥 Services: Adult & Pediatric Primary Care, Women's Health, Behavioral Health
+⏰ Hours: Mon 7:30 am - 5:30 pm; Tue 7:30 am - 5:45 pm; Wed 7:30 am - 5:30 pm; Thu 11:00 am - 7:15 pm (1st & 3rd), 7:30 am - 4:30 pm (others); Fri 8:00 am - 5:30 pm; Sat 8:00 am - 4:00 pm (except 5th Sat); Sun closed
 
 24. Esperanza Marquette
 6550 S Richmond St, Chicago, IL 60629-2821
@@ -209,8 +209,8 @@
 🌐 https://esperanzachicago.org
 📞 (773) 584-6200
 🗣 Languages: English; Spanish
-🏥 Services: School-based health center – Primary care (family medicine, pediatrics), women’s health; behavioral health
-⏰ Hours: Mon 7:30 am–5:45 pm; Tue/Wed 7:45 am–4:30 pm; Thu 11:30 am–6:00 pm (1st & 3rd), 7:30 am–5:30 pm (others); Fri 7:45 am–3:30 pm; 1st Sat 7:30 am–3:30 pm; 3rd Sat 7:45 am–11:30 am; Sun closed
+🏥 Services: School-based health center  -  Primary care (family medicine, Pediatrics), Women's Health, Behavioral Health
+⏰ Hours: Mon 7:30 am - 5:45 pm; Tue/Wed 7:45 am - 4:30 pm; Thu 11:30 am - 6:00 pm (1st & 3rd), 7:30 am - 5:30 pm (others); Fri 7:45 am - 3:30 pm; 1st Sat 7:30 am - 3:30 pm; 3rd Sat 7:45 am - 11:30 am; Sun closed
 
 25. Esperanza at 63rd
 4058 W 63rd St, Chicago, IL 60629-4639
@@ -218,8 +218,8 @@
 🌐 https://esperanzachicago.org
 📞 (773) 584-6200
 🗣 Languages: English; Spanish
-🏥 Services: Adult & Pediatric Primary Care; Women’s Health; Behavioral Health
-⏰ Hours: Mon/Tue/Wed 7:30 am–5:30 pm; Thu 11:00 am–7:00 pm (1st & 3rd), 7:30 am–5:30 pm (others); Fri 7:30 am–4:00 pm; Sat 8:00 am–2:00 pm (2nd & 4th only); Sun closed
+🏥 Services: Adult & Pediatric Primary Care, Women's Health, Behavioral Health
+⏰ Hours: Mon/Tue/Wed 7:30 am - 5:30 pm; Thu 11:00 am - 7:00 pm (1st & 3rd), 7:30 am - 5:30 pm (others); Fri 7:30 am - 4:00 pm; Sat 8:00 am - 2:00 pm (2nd & 4th only); Sun closed
 
 26. Esperanza at Charles G. Hammond Elementary School
 2819 W 21st Pl, Chicago, IL 60623-3503
@@ -227,8 +227,8 @@
 📞 (773) 584-6200
 🌐 https://esperanzachicago.org
 🗣 Languages: English; Spanish
-🏥 Services: School-based health center – limited services (behavioral health counseling for students)
-⏰ Hours: Mon–Fri ~7:30 am–5:00 pm (during school hours); Sat/Sun closed (approximate)
+🏥 Services: School-based health center  -  limited services (behavioral health counseling for students)
+⏰ Hours: Mon - Fri ~7:30 am - 5:00 pm (during school hours); Sat/Sun closed (approximate)
 
 27. Esperanza at Cultivate Collective
 4350 S Laporte Ave, Chicago, IL 60638
@@ -236,8 +236,8 @@
 🌐 https://esperanzachicago.org
 📞 (773) 584-6200
 🗣 Languages: English; Spanish
-🏥 Services: Adult & Pediatric Primary Care; Behavioral Health
-⏰ Hours: Mon–Wed 7:30 am–5:00 pm; Thu 11:30 am–6:00 pm (1st), 12:00 pm–6:00 pm (3rd), 7:30 am–5:00 pm (others); Fri 7:30 am–3:00 pm; 4th Sat 8:00 am–2:00 pm; Sun closed
+🏥 Services: Adult & Pediatric Primary Care, Behavioral Health
+⏰ Hours: Mon - Wed 7:30 am - 5:00 pm; Thu 11:30 am - 6:00 pm (1st), 12:00 pm - 6:00 pm (3rd), 7:30 am - 5:00 pm (others); Fri 7:30 am - 3:00 pm; 4th Sat 8:00 am - 2:00 pm; Sun closed
 
 28. FFHC-Ashland
 4802 S Ashland Ave, Chicago, IL 60609-4233
@@ -245,8 +245,8 @@
 🌐 http://friendfhc.org
 📞 (773) 376-9400
 🗣 Languages: English; Spanish
-🏥 Services: Comprehensive primary care (adult & pediatric); women’s health; behavioral health; on-site lab/testing; HIV/STI services
-⏰ Hours: Mon 8:00 am–5:00 pm; Tue 9:00 am–5:00 pm; Wed/Thu/Fri 8:00 am–5:00 pm; Sat/Sun closed
+🏥 Services: Comprehensive primary care (adult & pediatric), Women's Health, Behavioral Health, On-Site Lab/Testing, HIV/STI services
+⏰ Hours: Mon 8:00 am - 5:00 pm; Tue 9:00 am - 5:00 pm; Wed/Thu/Fri 8:00 am - 5:00 pm; Sat/Sun closed
 
 29. FFHC-Beethoven
 25 W 47th St, Chicago, IL 60609-4627
@@ -254,8 +254,8 @@
 🌐 http://friendfhc.org
 📞 (773) 702-0660
 🗣 Languages: English; Spanish
-🏥 Services: School-based health center – Pediatric primary care, immunizations, behavioral health (students)
-⏰ Hours: Mon/Thu/Fri 8:00 am–5:00 pm (school year); Tue/Wed/Sat/Sun closed
+🏥 Services: School-based health center  -  Pediatric primary care, Immunizations, Behavioral Health (Students)
+⏰ Hours: Mon/Thu/Fri 8:00 am - 5:00 pm (school year); Tue/Wed/Sat/Sun closed
 
 30. FFHC-Pulaski
 5635 S Pulaski Rd, Chicago, IL 60629-4438
@@ -263,8 +263,8 @@
 🌐 http://friendfhc.org
 📞 (773) 585-3900
 🗣 Languages: English; Spanish
-🏥 Services: Comprehensive primary care (adult & pediatric); women’s health; behavioral health; on-site lab/testing; HIV/STI services
-⏰ Hours: Mon 8:00 am–5:00 pm; Tue 9:00 am–5:00 pm; Wed/Thu/Fri 8:00 am–5:00 pm; Sat/Sun closed
+🏥 Services: Comprehensive primary care (adult & pediatric), Women's Health, Behavioral Health, On-Site Lab/Testing, HIV/STI services
+⏰ Hours: Mon 8:00 am - 5:00 pm; Tue 9:00 am - 5:00 pm; Wed/Thu/Fri 8:00 am - 5:00 pm; Sat/Sun closed
 
 31. FFHC-Western
 5843 S Western Ave, Chicago, IL 60636-1526
@@ -272,8 +272,8 @@
 🌐 http://friendfhc.org
 📞 (773) 434-8600
 🗣 Languages: English; Spanish
-🏥 Services: Comprehensive primary care (adult & pediatric); women’s health; behavioral health; on-site lab/testing; HIV/STI services
-⏰ Hours: Mon/Fri 8:00 am–5:00 pm; Tue/Thu 9:00 am–5:00 pm; Wed 8:00 am–8:00 pm; Sat/Sun closed
+🏥 Services: Comprehensive primary care (adult & pediatric), Women's Health, Behavioral Health, On-Site Lab/Testing, HIV/STI services
+⏰ Hours: Mon/Fri 8:00 am - 5:00 pm; Tue/Thu 9:00 am - 5:00 pm; Wed 8:00 am - 8:00 pm; Sat/Sun closed
 
 32. FFHC-Woodlawn
 1522 E 63rd St, Chicago, IL 60637-2921
@@ -281,16 +281,16 @@
 📞 (312) 682-6110
 🌐 http://friendfhc.org
 🗣 Languages: English; Spanish
-🏥 Services: Comprehensive primary care (adult & pediatric); women’s health; behavioral health; on-site lab/testing; HIV/STI services
-⏰ Hours: Mon 8:00 am–5:00 pm; Tue 9:00 am–5:00 pm; Wed/Thu/Fri 8:00 am–5:00 pm; Sat/Sun closed
+🏥 Services: Comprehensive primary care (adult & pediatric), Women's Health, Behavioral Health, On-Site Lab/Testing, HIV/STI services
+⏰ Hours: Mon 8:00 am - 5:00 pm; Tue 9:00 am - 5:00 pm; Wed/Thu/Fri 8:00 am - 5:00 pm; Sat/Sun closed
 
 33. Haymarket Center
 108 N Sangamon St, Chicago, IL 60607-2202
-📝 Ryan White HIV/AIDS Program (HRSA HAB) provider — Last reviewed 07/2026; HRSA database - Last reviewed April 2025
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026; HRSA database - Last reviewed April 2025
 🌐 https://haymarketcenter.org
 📞 (312) 226-7984
 🗣 Languages: English; Spanish; Polish
-🏥 Services: Ryan White HIV/AIDS Program; Substance use disorder treatment; detox; residential; outpatient; mental health; recovery support
+🏥 Services: Ryan White HIV/AIDS Program, Substance use disorder treatment, Detox, Residential, Outpatient, Mental Health, Recovery Support
 ⏰ Hours: 24 hours, 7 days (services available 24/7)
 
 34. Haymarket Center
@@ -299,7 +299,7 @@
 📞 (312) 226-9843
 🌐 https://haymarketcenter.org
 🗣 Languages: English; Spanish; Polish
-🏥 Services: Substance use disorder treatment; detox; residential; outpatient; mental health; recovery support
+🏥 Services: Substance use disorder treatment, Detox, Residential, Outpatient, Mental Health, Recovery Support
 ⏰ Hours: 24 hours, 7 days (services available 24/7)
 
 35. Haymarket Center
@@ -308,7 +308,7 @@
 📞 (312) 226-9843
 🌐 https://haymarketcenter.org
 🗣 Languages: English; Spanish; Polish
-🏥 Services: Substance use disorder treatment; detox; residential; outpatient; mental health; recovery support
+🏥 Services: Substance use disorder treatment, Detox, Residential, Outpatient, Mental Health, Recovery Support
 ⏰ Hours: 24 hours, 7 days (services available 24/7)
 
 36. IMAN - Youth and Family Health Center
@@ -317,8 +317,8 @@
 🌐 https://imancentral.org
 📞 (773) 434-4626
 🗣 Languages: English; Spanish; Arabic
-🏥 Services: Free community health clinic – comprehensive primary care (adult & pediatric); behavioral health counseling; social services support
-⏰ Hours: Mon/Tue/Thu/Fri 9:00 am–5:00 pm; Wed 10:00 am–7:00 pm; Sat 8:00 am–12:00 pm; Sun 9:00 am–5:00 pm
+🏥 Services: Free community health clinic  -  comprehensive primary care (adult & pediatric), Behavioral Health Counseling, Social Services Support
+⏰ Hours: Mon/Tue/Thu/Fri 9:00 am - 5:00 pm; Wed 10:00 am - 7:00 pm; Sat 8:00 am - 12:00 pm; Sun 9:00 am - 5:00 pm
 
 37. IMAN Mobile Health Unit
 2744 W 63rd St, Chicago, IL 60629-2343
@@ -326,7 +326,7 @@
 🌐 https://imancentral.org
 📞 (773) 434-4626
 🗣 Languages: English; Spanish; Arabic
-🏥 Services: Mobile health clinic – screenings, immunizations, health education (community outreach)
+🏥 Services: Mobile health clinic  -  screenings, Immunizations, Health Education (Community Outreach)
 ⏰ Hours vary (operates on scheduled outreach events)
 
 38. IMAN-Main Site
@@ -335,8 +335,8 @@
 🌐 https://imancentral.org
 📞 (773) 434-4626
 🗣 Languages: English; Spanish; Arabic
-🏥 Services: Free community health clinic – comprehensive primary care (adult & pediatric); behavioral health counseling; social services support
-⏰ Hours: Mon/Tue/Thu/Fri 9:00 am–5:00 pm; Wed 10:00 am–7:00 pm; Sat 8:00 am–12:00 pm; Sun 9:00 am–5:00 pm
+🏥 Services: Free community health clinic  -  comprehensive primary care (adult & pediatric), Behavioral Health Counseling, Social Services Support
+⏰ Hours: Mon/Tue/Thu/Fri 9:00 am - 5:00 pm; Wed 10:00 am - 7:00 pm; Sat 8:00 am - 12:00 pm; Sun 9:00 am - 5:00 pm
 
 39. Jose Clemente Orozco Academy
 1940 W 18th St, Chicago, IL 60608-1903
@@ -344,17 +344,17 @@
 🌐 https://alivio.org
 📞 (773) 254-1400
 🗣 Languages: English; Spanish
-🏥 Services: School-based health center – Pediatric primary care and behavioral health services for students
-⏰ Hours: Mon–Thu 8:00 am–4:30 pm; Fri/Sat/Sun closed
+🏥 Services: School-based health center  -  Pediatric primary care and behavioral health services for students
+⏰ Hours: Mon - Thu 8:00 am - 4:30 pm; Fri/Sat/Sun closed
 
 40. Komed Holman Health Center
 4259 S Berkeley Ave, Chicago, IL 60653-3030
-📝 Ryan White HIV/AIDS Program (HRSA HAB) provider — Last reviewed 07/2026; HRSA database - Last reviewed April 2025
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026; HRSA database - Last reviewed April 2025
 🌐 https://nearnorthhealth.org
 📞 (773) 268-7600
 🗣 Languages: English (primary)
-🏥 Services: Ryan White HIV/AIDS Program; Internal Medicine; Women’s Health (Ob/Gyn); Pediatrics; Dental; Behavioral Health; WIC/Nutrition; lab, x-ray, pharmacy
-⏰ Hours: Mon/Tue/Thu/Fri 8:00 am–5:00 pm; Wed 8:00 am–8:30 pm; Sat 9:00 am–1:00 pm; Sun closed
+🏥 Services: Ryan White HIV/AIDS Program, Internal Medicine, Women’s Health (Ob/Gyn), Pediatrics, Dental, Behavioral Health, WIC/Nutrition, Lab, X-Ray, Pharmacy
+⏰ Hours: Mon/Tue/Thu/Fri 8:00 am - 5:00 pm; Wed 8:00 am - 8:30 pm; Sat 9:00 am - 1:00 pm; Sun closed
 
 41. LCHC Belle Whaley
 3812 W Ogden Ave, Chicago, IL 60623-2458
@@ -362,8 +362,8 @@
 🌐 https://lawndale.org
 📞 (773) 650-3200
 🗣 Languages: English, Spanish
-🏥 Services: Women, Infants & Children (WIC) program; health support services
-⏰ Hours: Mon–Fri ~8:30am–5:00pm
+🏥 Services: Women, Infants & Children (WIC) program, Health Support Services
+⏰ Hours: Mon - Fri ~8:30am - 5:00pm
 
 42. LCHC Eye Clinic
 3851 W Ogden Ave, Chicago, IL 60623-2459
@@ -372,7 +372,7 @@
 📞 (872) 588-3000
 🗣 Languages: English, Spanish
 🏥 Services: Optometry (comprehensive eye exams for adults & children)
-⏰ Hours: Mon–Fri 8:30am–4:00pm; Sat/Sun closed
+⏰ Hours: Mon - Fri 8:30am - 4:00pm; Sat/Sun closed
 
 43. LCHC Health & Fitness - 3750
 3750 W Ogden Ave, Chicago, IL 60623-2426
@@ -380,8 +380,8 @@
 🌐 https://lawndale.org
 📞 (872) 588-3000
 🗣 Languages: English, Spanish
-🏥 Services: Women’s health (OB/GYN); Pediatrics; Family Dental Clinic; on-site lab
-⏰ Hours: Mon 7:15am–7:00pm; Tue–Fri 7:15am–5:00pm; Dental: Mon/Wed/Fri 7:00am–5:00pm; Tue/Thu 7:00am–7:00pm; Sat/Sun closed
+🏥 Services: Women’s health (OB/GYN), Pediatrics, Family Dental Clinic, On-Site Lab
+⏰ Hours: Mon 7:15am - 7:00pm; Tue - Fri 7:15am - 5:00pm; Dental: Mon/Wed/Fri 7:00am - 5:00pm; Tue/Thu 7:00am - 7:00pm; Sat/Sun closed
 
 44. LCHC at 3745
 3745 W Ogden Ave, Chicago, IL 60623-2427
@@ -398,8 +398,8 @@
 🌐 https://lawndale.org
 📞 (872) 588-3000
 🗣 Languages: English, Spanish
-🏥 Services: Immediate Care (urgent care for minor illness/injury); On-site pharmacy
-⏰ Hours: Mon–Fri 8:00am–7:30pm; Sat/Sun closed; Pharmacy: Mon–Sat 9:00am–5:00pm; Sun closed
+🏥 Services: Immediate Care (urgent care for minor illness/injury), On-site pharmacy
+⏰ Hours: Mon - Fri 8:00am - 7:30pm; Sat/Sun closed; Pharmacy: Mon - Sat 9:00am - 5:00pm; Sun closed
 
 46. LCHC at Archer Avenue
 5122 S Archer Ave, Chicago, IL 60632-4508
@@ -407,8 +407,8 @@
 🌐 https://lawndale.org
 📞 (872) 588-3000
 🗣 Languages: English, Spanish
-🏥 Services: Adult/internal medicine; Pediatrics; Women’s & prenatal care; vaccinations; on-site lab
-⏰ Hours: Mon 8:30am–5:00pm; Tue 8:30am–7:00pm; Wed–Fri 8:30am–5:00pm; Sat/Sun closed
+🏥 Services: Adult/internal medicine, Pediatrics, Women’s & prenatal care, Vaccinations, On-Site Lab
+⏰ Hours: Mon 8:30am - 5:00pm; Tue 8:30am - 7:00pm; Wed - Fri 8:30am - 5:00pm; Sat/Sun closed
 
 47. LCHC at Bobby E. Wright
 5002 W Madison St, Chicago, IL 60644-4127
@@ -425,7 +425,7 @@
 🌐 https://lawndale.org
 📞 (872) 588-3000
 🗣 Languages: English, Spanish
-🏥 Services: On-site medical clinic for homeless men (primary care, screenings)
+🏥 Services: On-site medical clinic for homeless men (primary care, Screenings)
 ⏰ Hours: Limited hours (Lawndale mobile team weekly visits)
 
 49. LCHC at Breakthrough Women's Center
@@ -444,7 +444,7 @@
 📞 (872) 588-3000
 🗣 Languages: English, Spanish
 🏥 Services: School-based primary healthcare for students
-⏰ Hours: Mon–Fri 8:30am–5:00pm; Sat/Sun closed
+⏰ Hours: Mon - Fri 8:30am - 5:00pm; Sat/Sun closed
 
 51. LCHC at Franciscan Harrison
 2715 W Harrison St, Chicago, IL 60612-3422
@@ -452,7 +452,7 @@
 🌐 https://lawndale.org
 📞 (872) 588-3000
 🗣 Languages: English, Spanish
-🏥 Services: On-site clinic for shelter residents (primary care, basic acute care)
+🏥 Services: On-site clinic for shelter residents (primary care, Basic Acute Care)
 ⏰ Hours: Limited hours (weekly clinic sessions for shelter guests)
 
 52. LCHC at Garfield Park FamilyPlex
@@ -462,7 +462,7 @@
 📞 (872) 588-3000
 🗣 Languages: English, Spanish
 🏥 Services: Family Practice, Internal Medicine, Pediatrics, OB/GYN, Prenatal care
-⏰ Hours: Mon 8:30am–5:00pm; Tue 8:30am–7:00pm; Wed–Fri 8:30am–5:00pm; Sat/Sun closed
+⏰ Hours: Mon 8:30am - 5:00pm; Tue 8:30am - 7:00pm; Wed - Fri 8:30am - 5:00pm; Sat/Sun closed
 
 53. LCHC at Habilitative Systems
 415 S Kilpatrick Ave, Chicago, IL 60644-4923
@@ -479,7 +479,7 @@
 🌐 https://lawndale.org
 📞 (872) 588-3000
 🗣 Languages: English, Spanish
-🏥 Services: On-site healthcare for transitional housing residents (primary care, screenings)
+🏥 Services: On-site healthcare for transitional housing residents (primary care, Screenings)
 ⏰ Hours: Limited hours (visiting clinic services; call for schedule)
 
 55. LCHC at Homan Square
@@ -488,8 +488,8 @@
 🌐 https://lawndale.org
 📞 (872) 588-3000
 🗣 Languages: English, Spanish
-🏥 Services: Adult and Children’s primary care; Dental clinic on-site
-⏰ Hours: Mon–Tue 7:15am–7:00pm; Wed–Fri 8:30am–5:00pm; Sat/Sun closed; Dental: Mon–Fri 7:00am–5:00pm
+🏥 Services: Adult and Children’s primary care, Dental clinic on-site
+⏰ Hours: Mon - Tue 7:15am - 7:00pm; Wed - Fri 8:30am - 5:00pm; Sat/Sun closed; Dental: Mon - Fri 7:00am - 5:00pm
 
 56. LCHC at Midway Shelter
 7353 S Cicero Ave, Chicago, IL 60629-5816
@@ -506,7 +506,7 @@
 🌐 https://lawndale.org
 📞 (872) 588-3000
 🗣 Languages: English, Spanish
-🏥 Services: Free clinic within homeless mission (acute medical care, triage)
+🏥 Services: Free clinic within homeless mission (acute medical care, Triage)
 ⏰ Hours: Open 24/7 (shelter infirmary is open at all hours)
 
 58. LCHC at Primo Center for Women and Children
@@ -515,7 +515,7 @@
 🌐 https://lawndale.org
 📞 (872) 588-3000
 🗣 Languages: English, Spanish
-🏥 Services: On-site health clinic for homeless families (integrated medical, dental, mental health)
+🏥 Services: On-site health clinic for homeless families (integrated medical, Dental, Mental Health)
 ⏰ Hours: Limited hours (weekly clinic days on-site; coordinated with shelter programming)
 
 59. LCHC at Salvation Army Freedom Center
@@ -542,17 +542,17 @@
 📞 (866) 267-2353
 🌐 https://www.achn.net/locations/auburn-gresham
 🗣 Languages: English; Spanish
-🏥 Services: Primary care; Women’s health; Pediatrics; Behavioral health; Immunizations; STD testing
-⏰ Hours: Mon–Fri 8:00am–5:00pm
+🏥 Services: Primary Care, Women's Health, Pediatrics, Behavioral Health, Immunizations, STD testing
+⏰ Hours: Mon - Fri 8:00am - 5:00pm
 
 62. ACCESS Austin Family Health Center
 4909 W Division St STE 508, Chicago, IL 60651-3161
-📝 Ryan White HIV/AIDS Program (HRSA HAB) provider — Last reviewed 07/2026; HRSA database - Last reviewed April 2025
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026; HRSA database - Last reviewed April 2025
 🌐 https://www.achn.net/locations/austin
 📞 (773) 364-4600
 🗣 Languages: English; Spanish
-🏥 Services: Ryan White HIV/AIDS Program; Primary care; Women’s health; Pediatrics; Behavioral health; Family planning
-⏰ Hours: Mon–Fri 8:00am–5:00pm
+🏥 Services: Ryan White HIV/AIDS Program, Primary Care, Women's Health, Pediatrics, Behavioral Health, Family Planning
+⏰ Hours: Mon - Fri 8:00am - 5:00pm
 
 63. ACCESS Booker Family Health Center
 654 E 47th St, Chicago, IL 60653-4224
@@ -560,8 +560,8 @@
 🌐 https://www.achn.net/locations/booker
 📞 (773) 624-4800
 🗣 Languages: English; Spanish
-🏥 Services: Primary care; Pediatrics; Behavioral health; Family planning; STD testing
-⏰ Hours: Mon–Fri 8:00am–5:00pm
+🏥 Services: Primary Care, Pediatrics, Behavioral Health, Family Planning, STD testing
+⏰ Hours: Mon - Fri 8:00am - 5:00pm
 
 64. ACCESS Brandon Family Health Center
 2822 E 83rd St, Chicago, IL 60617-2105
@@ -569,8 +569,8 @@
 🌐 https://www.achn.net/locations/brandon
 📞 (773) 721-7600
 🗣 Languages: English; Spanish
-🏥 Services: Primary care; Pediatrics; Women’s health; Immunizations
-⏰ Hours: Mon–Fri 8:00am–5:00pm
+🏥 Services: Primary Care, Pediatrics, Women's Health, Immunizations
+⏰ Hours: Mon - Fri 8:00am - 5:00pm
 
 65. ACCESS Brickyard Family Health Center
 6020 W Diversey Ave BLDG West, Chicago, IL 60639-1108
@@ -578,8 +578,8 @@
 🌐 https://www.achn.net/locations/brickyard
 📞 (773) 237-5544
 🗣 Languages: English; Spanish
-🏥 Services: Family medicine; Women’s health; Behavioral health; On-site lab
-⏰ Hours: Mon–Fri 8:00am–5:00pm
+🏥 Services: Family medicine, Women's Health, Behavioral Health, On-site lab
+⏰ Hours: Mon - Fri 8:00am - 5:00pm
 
 66. ACCESS Cabrini Family Health Center
 3450 S Archer Ave, Chicago, IL 60608-6837
@@ -587,8 +587,8 @@
 🌐 https://www.achn.net/locations/cabrini
 📞 (773) 523-1000
 🗣 Languages: English; Spanish
-🏥 Services: Family medicine; Women’s health; Pediatrics; STD testing
-⏰ Hours: Mon–Fri 8:00am–5:00pm
+🏥 Services: Family medicine, Women's Health, Pediatrics, STD testing
+⏰ Hours: Mon - Fri 8:00am - 5:00pm
 
 67. ACCESS Center for Discovery and Learning
 5139 S Ashland Ave, Chicago, IL 60609-4931
@@ -596,7 +596,7 @@
 📞 (866) 267-2353
 🌐 https://www.achn.net
 🗣 Languages:
-🏥 Services: Health education, community wellness programs
+🏥 Services: Health education, Community Wellness Programs
 ⏰ Hours: Varies (by appointment)
 
 68. ACCESS Centro Medico
@@ -605,8 +605,8 @@
 🌐 https://www.achn.net/locations/centro-medico
 📞 (773) 542-5203
 🗣 Languages: English; Spanish
-🏥 Services: Family medicine; Prenatal care; Family planning
-⏰ Hours: Mon–Fri 8:00am–5:00pm
+🏥 Services: Family medicine, Prenatal care, Family Planning
+⏰ Hours: Mon - Fri 8:00am - 5:00pm
 
 69. ACCESS Doctors Medical Center
 6240 W 55th St, Chicago, IL 60638-2531
@@ -614,17 +614,17 @@
 🌐 https://www.achn.net/locations/doctors-medical-center
 📞 (773) 284-2200
 🗣 Languages: English; Spanish
-🏥 Services: Primary care; Pediatrics; Women’s health; Immunizations
-⏰ Hours: Mon–Fri 8:00am–5:00pm
+🏥 Services: Primary Care, Pediatrics, Women's Health, Immunizations
+⏰ Hours: Mon - Fri 8:00am - 5:00pm
 
 70. ACCESS Grand Boulevard Health and Specialty Center
 5401 S Wentworth Ave Spc 5, Chicago, IL 60609-6300
-📝 Ryan White HIV/AIDS Program (HRSA HAB) provider — Last reviewed 07/2026; HRSA database - Last reviewed April 2025
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026; HRSA database - Last reviewed April 2025
 🌐 https://www.achn.net/locations/grand-boulevard
 📞 (708) 533-6013
 🗣 Languages: English; Spanish
-🏥 Services: Ryan White HIV/AIDS Program; Primary care; Women’s health; STD testing; HIV services
-⏰ Hours: Mon–Fri 8:00am–5:00pm
+🏥 Services: Ryan White HIV/AIDS Program, Primary Care, Women's Health, STD testing, HIV services
+⏰ Hours: Mon - Fri 8:00am - 5:00pm
 
 71. ACCESS Humboldt Park Family Health Center
 3202 W North Ave, Chicago, IL 60647-4940
@@ -632,8 +632,8 @@
 🌐 https://www.achn.net/locations/humboldt-park
 📞 (773) 489-6333
 🗣 Languages: English; Spanish
-🏥 Services: Family medicine; Pediatrics; Behavioral health; Preventive care
-⏰ Hours: Mon–Fri 8:00am–5:00pm
+🏥 Services: Family medicine, Pediatrics, Behavioral Health, Preventive care
+⏰ Hours: Mon - Fri 8:00am - 5:00pm
 
 72. ACCESS Kedzie Family Health Center
 3229 W 47th Pl, Chicago, IL 60632-3011
@@ -641,8 +641,8 @@
 🌐 https://www.achn.net/locations/kedzie
 📞 (773) 254-6044
 🗣 Languages: English; Spanish
-🏥 Services: Family medicine; Women’s health; STD testing; Prenatal care
-⏰ Hours: Mon–Fri 8:00am–5:00pm
+🏥 Services: Family medicine, Women's Health, STD testing, Prenatal care
+⏰ Hours: Mon - Fri 8:00am - 5:00pm
 
 73. ACCESS Located at Holy Cross
 2701 W 68th St # 3-south, Chicago, IL 60629-1813
@@ -650,17 +650,17 @@
 🌐 https://www.achn.net/locations/holy-cross
 📞 (866) 882-2237
 🗣 Languages: English; Spanish
-🏥 Services: OB/GYN services; Women’s health
-⏰ Hours: Mon–Fri 8:00am–5:00pm
+🏥 Services: OB/GYN services, Women's Health
+⏰ Hours: Mon - Fri 8:00am - 5:00pm
 
 74. ACCESS Madison Family Health Center
 3800 W Madison St, Chicago, IL 60624-2312
-📝 Ryan White HIV/AIDS Program (HRSA HAB) provider — Last reviewed 07/2026; HRSA database - Last reviewed April 2025
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026; HRSA database - Last reviewed April 2025
 🌐 https://www.achn.net/locations/madison
 📞 (773) 826-6600
 🗣 Languages: English; Spanish
-🏥 Services: Ryan White HIV/AIDS Program; Primary care; Pediatrics; Women’s health; Mental health
-⏰ Hours: Mon–Fri 8:00am–5:00pm
+🏥 Services: Ryan White HIV/AIDS Program, Primary Care, Pediatrics, Women's Health, Mental Health
+⏰ Hours: Mon - Fri 8:00am - 5:00pm
 
 75. ACCESS Paul and Mimi Francis Westside Family Health Center
 3752 W 16th St, Chicago, IL 60623-2028
@@ -668,8 +668,8 @@
 🌐 https://www.achn.net/locations/francis-westside
 📞 (773) 762-2435
 🗣 Languages: English; Spanish
-🏥 Services: Primary care; Pediatrics; OB/GYN; Behavioral health; Immunizations; HIV/STD screening
-⏰ Hours: Mon–Fri 8:00am–5:00pm
+🏥 Services: Primary Care, Pediatrics, OB/GYN, Behavioral Health, Immunizations, HIV/STD screening
+⏰ Hours: Mon - Fri 8:00am - 5:00pm
 
 76. ACCESS Pilsen Family Health Center
 1817 S Loomis St, Chicago, IL 60608-3018
@@ -677,8 +677,8 @@
 🌐 https://www.achn.net/locations/pilsen
 📞 (312) 666-6511
 🗣 Languages: English; Spanish
-🏥 Services: Family medicine; Women’s health; Prenatal care; STD testing
-⏰ Hours: Mon–Fri 8:00am–5:00pm
+🏥 Services: Family medicine, Women's Health, Prenatal care, STD testing
+⏰ Hours: Mon - Fri 8:00am - 5:00pm
 
 77. ACCESS Plaza Family Health Center
 2533 W Cermak Rd, Chicago, IL 60608-3719
@@ -686,17 +686,17 @@
 🌐 https://www.achn.net/locations/plaza
 📞 (773) 523-0900
 🗣 Languages: English; Spanish
-🏥 Services: Primary care; Pediatrics; Women’s health; Immunizations; Preventive screenings
-⏰ Hours: Mon–Fri 8:00am–5:00pm
+🏥 Services: Primary Care, Pediatrics, Women's Health, Immunizations, Preventive screenings
+⏰ Hours: Mon - Fri 8:00am - 5:00pm
 
 78. ACCESS Rogers Park Family Health Center
 1555 W Howard St, Chicago, IL 60626-1707
-📝 Ryan White HIV/AIDS Program (HRSA HAB) provider — Last reviewed 07/2026; HRSA database - Last reviewed April 2025
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026; HRSA database - Last reviewed April 2025
 🌐 https://www.achn.net/locations/rogers-park
 📞 (773) 764-7146
 🗣 Languages: English; Spanish
-🏥 Services: Ryan White HIV/AIDS Program; Family medicine; OB/GYN; Behavioral health; Pediatric services
-⏰ Hours: Mon–Fri 8:00am–5:00pm
+🏥 Services: Ryan White HIV/AIDS Program, Family medicine, OB/GYN, Behavioral Health, Pediatric services
+⏰ Hours: Mon - Fri 8:00am - 5:00pm
 
 79. ACCESS Servicios Medicos La Villita
 3303 W 26th St, Chicago, IL 60623-4036
@@ -704,8 +704,8 @@
 🌐 https://www.achn.net/locations/servicios-la-villita
 📞 (773) 277-6589
 🗣 Languages: English; Spanish
-🏥 Services: Family medicine; Women’s health; Family planning; Chronic disease management
-⏰ Hours: Mon–Fri 8:00am–5:00pm
+🏥 Services: Family medicine, Women's Health, Family Planning, Chronic disease management
+⏰ Hours: Mon - Fri 8:00am - 5:00pm
 
 80. ACCESS Southwest Family Health Center
 4839 W 47th St, Chicago, IL 60638-2039
@@ -713,8 +713,8 @@
 🌐 https://www.achn.net/locations/southwest
 📞 (773) 735-2345
 🗣 Languages: English; Spanish
-🏥 Services: Primary care; Pediatrics; OB/GYN; Behavioral health; Immunizations
-⏰ Hours: Mon–Fri 8:00am–5:00pm
+🏥 Services: Primary Care, Pediatrics, OB/GYN, Behavioral Health, Immunizations
+⏰ Hours: Mon - Fri 8:00am - 5:00pm
 
 81. ACCESS Warren Family Health Center
 2409 W Warren Blvd, Chicago, IL 60612-2115
@@ -722,8 +722,8 @@
 📞 (866) 267-2353
 🌐 https://www.achn.net/locations/warren
 🗣 Languages: English; Spanish
-🏥 Services: Internal medicine; Pediatrics; Preventive care
-⏰ Hours: Mon–Fri 8:00am–5:00pm
+🏥 Services: Internal medicine, Pediatrics, Preventive care
+⏰ Hours: Mon - Fri 8:00am - 5:00pm
 
 82. ACCESS at Gary Comer Youth Center
 7200 S Ingleside Ave, Chicago, IL 60619-1254
@@ -731,8 +731,8 @@
 🌐 https://www.achn.net/locations/gary-comer
 📞 (773) 324-6942
 🗣 Languages: English; Spanish
-🏥 Services: Pediatric & adolescent primary care; Immunizations; Sports physicals
-⏰ Hours: Mon–Fri 8:00am–4:30pm
+🏥 Services: Pediatric & adolescent primary care, Immunizations, Sports physicals
+⏰ Hours: Mon - Fri 8:00am - 4:30pm
 
 83. ACCESS at Sinai
 2653 W Ogden Ave, Chicago, IL 60608-1647
@@ -740,359 +740,359 @@
 🌐 https://www.achn.net/locations/sinai
 📞 (773) 257-6730
 🗣 Languages: English; Spanish
-🏥 Services: OB/GYN; Women’s health
-⏰ Hours: Mon–Fri 8:00am–5:00pm
+🏥 Services: OB/GYN, Women's Health
+⏰ Hours: Mon - Fri 8:00am - 5:00pm
 
-84. Tapestry 360 Health – Albany Park
+84. Tapestry 360 Health  -  Albany Park
 3737 W Lawrence Ave, Chicago, IL 60625
-📝 Last verified: 08/2025; HRSA Health Center Program — Last reviewed 07/2026
+📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://tap360health.org/location/tapestry-albany-park/
 📞 (773) 366-7777
 🗣 Languages: English; Spanish; interpretation in 200+ languages
-🏥 Services: Primary care; dental; behavioral health; gynecology; diabetic care
-⏰ Hours: Mon–Fri 8:30 AM–5:00 PM; Sat–Sun Closed
+🏥 Services: Primary Care, Dental, Behavioral Health, Gynecology, Diabetic Care
+⏰ Hours: Mon - Fri 8:30 AM - 5:00 PM; Sat - Sun Closed
 
-85. Tapestry 360 Health – Devon
+85. Tapestry 360 Health  -  Devon
 1300 W Devon Ave, Chicago, IL 60660
-📝 Last verified: 08/2025; HRSA Health Center Program — Last reviewed 07/2026
+📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://tap360health.org/location/tapestry-devon/
 📞 (773) 751-7850
 🗣 Languages: English; Spanish; interpretation in 200+ languages
-🏥 Services: Primary care; mental health; well-child exams; vaccines; school/sports physicals
-⏰ Hours: Mon 8:30 AM–8:00 PM; Tue 8:30 AM–8:00 PM; Wed 8:30 AM–5:00 PM
+🏥 Services: Primary Care, Mental Health, Well-Child Exams, Vaccines, School/Sports Physicals
+⏰ Hours: Mon 8:30 AM - 8:00 PM; Tue 8:30 AM - 8:00 PM; Wed 8:30 AM - 5:00 PM
 
-86. Tapestry 360 Health – Gale Elementary School
+86. Tapestry 360 Health  -  Gale Elementary School
 1631 W Jonquil Terr, Chicago, IL 60626
-📝 Last verified: 08/2025; HRSA Health Center Program — Last reviewed 07/2026
+📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://tap360health.org/location/tapestry-gale-elementary-school/
 📞 (773) 366-7710
 🗣 Languages: English; Spanish; interpretation in 200+ languages
-🏥 Services: School-based: physicals; vaccines; injury/illness care; dental checkups
-⏰ Hours: Mon, Wed & Thu 8:00 AM–4:00 PM
+🏥 Services: School-based: physicals, Vaccines, Injury/Illness Care, Dental Checkups
+⏰ Hours: Mon, Wed & Thu 8:00 AM - 4:00 PM
 
-87. Tapestry 360 Health – Hibbard Elementary School
+87. Tapestry 360 Health  -  Hibbard Elementary School
 4930 N Sawyer Ave, Chicago, IL 60625
-📝 Last verified: 08/2025; HRSA Health Center Program — Last reviewed 07/2026
+📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://tap360health.org/location/tapestry-hibbard-elementary-school/
 📞 (773) 336-6100
 🗣 Languages: English; Spanish; interpretation in 200+ languages
-🏥 Services: School-based: physicals; vaccines; injury/illness care; dental care
-⏰ Hours: Mon–Fri 8:00 AM–4:00 PM; Dental Wed 8:00 AM–4:00 PM
+🏥 Services: School-based: physicals, Vaccines, Injury/Illness Care, Dental Care
+⏰ Hours: Mon - Fri 8:00 AM - 4:00 PM; Dental Wed 8:00 AM - 4:00 PM
 
-88. Tapestry 360 Health – Kilmer Elementary School
+88. Tapestry 360 Health  -  Kilmer Elementary School
 6700 N Greenview Ave, Chicago, IL 60626
-📝 Last verified: 08/2025; HRSA Health Center Program — Last reviewed 07/2026
+📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://tap360health.org/location/tapestry-kilmer-elementary-school/
 📞 (773) 366-7704
 🗣 Languages: English; Spanish; interpretation in 200+ languages
-🏥 Services: School-based: physicals; vaccines; injury/illness care; dental checkups
-⏰ Hours: Mon, Tue & Thu 8:00 AM–4:00 PM
+🏥 Services: School-based: physicals, Vaccines, Injury/Illness Care, Dental Checkups
+⏰ Hours: Mon, Tue & Thu 8:00 AM - 4:00 PM
 
-89. Tapestry 360 Health – Lakeview
+89. Tapestry 360 Health  -  Lakeview
 3154 N Clark St, Chicago, IL 60657
-📝 Ryan White HIV/AIDS Program (HRSA HAB) provider — Last reviewed 07/2026; Last verified: 08/2025; HRSA Health Center Program — Last reviewed 07/2026
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026; Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://tap360health.org/location/tapestry-lakeview/
 📞 (773) 296-7580
 🗣 Languages: English; Spanish; interpretation in 200+ languages
-🏥 Services: Ryan White HIV/AIDS Program; Primary care for adults & children; mental health; integrative medicine consults
-⏰ Hours: Mon 8:30 AM–8:00 PM; Tue 8:30 AM–5:00 PM; Wed 8:30 AM–5:00 PM
+🏥 Services: Ryan White HIV/AIDS Program, Primary care for adults & children, Mental Health, Integrative Medicine Consults
+⏰ Hours: Mon 8:30 AM - 8:00 PM; Tue 8:30 AM - 5:00 PM; Wed 8:30 AM - 5:00 PM
 
-90. Tapestry 360 Health – Lincoln Square
+90. Tapestry 360 Health  -  Lincoln Square
 2645 W Lawrence Ave, Chicago, IL 60625
-📝 Last verified: 08/2025; HRSA Health Center Program — Last reviewed 07/2026
+📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://tap360health.org/location/tapestry-lincoln-square/
 📞 (773) 275-1680
 🗣 Languages: English; Spanish; interpretation in 200+ languages
-🏥 Services: Primary care; vaccines; physicals; behavioral health (per system-wide services)
-⏰ Hours: Mon–Wed 8:30 AM–5:00 PM; Thu 8:30 AM–8:00 PM; Fri 8:30 AM–5:00 PM
+🏥 Services: Primary Care, Vaccines, Physicals, behavioral health (per system-wide services)
+⏰ Hours: Mon - Wed 8:30 AM - 5:00 PM; Thu 8:30 AM - 8:00 PM; Fri 8:30 AM - 5:00 PM
 
-91. Tapestry 360 Health – Roosevelt High School
+91. Tapestry 360 Health  -  Roosevelt High School
 3436 W Wilson Ave, Chicago, IL 60625
-📝 Last verified: 08/2025; HRSA Health Center Program — Last reviewed 07/2026
+📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://tap360health.org/location/tapestry-roosevelt-high-school/
 📞 (872) 268-7545
 🗣 Languages: English; Spanish; interpretation in 200+ languages
-🏥 Services: School-based: physicals; vaccines; injury/illness care; dental
-⏰ Hours: Mon–Fri 8:00 AM–4:00 PM; Walk-in Fri 8:00 AM–4:00 PM; Dental Thu 8:00 AM–4:00 PM
+🏥 Services: School-based: physicals, Vaccines, Injury/Illness Care, Dental
+⏰ Hours: Mon - Fri 8:00 AM - 4:00 PM; Walk-in Fri 8:00 AM - 4:00 PM; Dental Thu 8:00 AM - 4:00 PM
 
-92. Tapestry 360 Health – Senn High School
+92. Tapestry 360 Health  -  Senn High School
 5900 N Glenwood Ave, Chicago, IL 60660
-📝 Last verified: 08/2025; HRSA Health Center Program — Last reviewed 07/2026
+📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://tap360health.org/location/tapestry-senn-high-school/
 📞 (773) 751-1860
 🗣 Languages: English; Spanish; interpretation in 200+ languages
-🏥 Services: School-based: physicals; vaccines; injury/illness care; dental checkups
-⏰ Hours: Mon–Fri 8:00 AM–4:00 PM
+🏥 Services: School-based: physicals, Vaccines, Injury/Illness Care, Dental Checkups
+⏰ Hours: Mon - Fri 8:00 AM - 4:00 PM
 
-93. Tapestry 360 Health – Sullivan High School
+93. Tapestry 360 Health  -  Sullivan High School
 6631 N Bosworth Ave, Chicago, IL 60626
-📝 Last verified: 08/2025; HRSA Health Center Program — Last reviewed 07/2026
+📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://tap360health.org/location/tapestry-sullivan-high-school/
 📞 (312) 571-2590
 🗣 Languages: English; Spanish; interpretation in 200+ languages
-🏥 Services: School-based: physicals; vaccines; injury/illness care; dental checkups
-⏰ Hours: Mon–Fri 8:00 AM–4:00 PM; Walk-in Tue & Thu 8:00 AM–4:00 PM
+🏥 Services: School-based: physicals, Vaccines, Injury/Illness Care, Dental Checkups
+⏰ Hours: Mon - Fri 8:00 AM - 4:00 PM; Walk-in Tue & Thu 8:00 AM - 4:00 PM
 
-94. Tapestry 360 Health – Touhy
+94. Tapestry 360 Health  -  Touhy
 2200 W Touhy Ave, Chicago, IL 60645
-📝 Last verified: 08/2025; HRSA Health Center Program — Last reviewed 07/2026
+📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://tap360health.org/location/tapestry-touhy/
 📞 (773) 751-1875
 🗣 Languages: English; Spanish; interpretation in 200+ languages
-🏥 Services: Primary care; behavioral health; referrals; school/sports physicals
-⏰ Hours: Mon–Fri 8:30 AM–5:00 PM
+🏥 Services: Primary Care, Behavioral Health, Referrals, School/Sports Physicals
+⏰ Hours: Mon - Fri 8:30 AM - 5:00 PM
 
-95. Tapestry 360 Health – Trilogy
+95. Tapestry 360 Health  -  Trilogy
 1400 W Greenleaf Ave, Chicago, IL 60626
-📝 Last verified: 08/2025; HRSA Health Center Program — Last reviewed 07/2026
+📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://tap360health.org/location/tapestry-trilogy/
 📞 (773) 508-6135
 🗣 Languages: English; Spanish; interpretation in 200+ languages
-🏥 Services: Primary care integrated with mental health; screenings; physicals
+🏥 Services: Primary care integrated with mental health, Screenings, Physicals
 ⏰ Hours: Call for hours (integrated site with Trilogy Behavioral Healthcare)
 
-96. Tapestry 360 Health – Wilson
+96. Tapestry 360 Health  -  Wilson
 845 W Wilson Ave, Chicago, IL 60640
-📝 Last verified: 08/2025; HRSA Health Center Program — Last reviewed 07/2026
+📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://tap360health.org/location/tapestry-wilson/
 📞 (773) 506-4283
 🗣 Languages: English; Spanish; interpretation in 200+ languages
-🏥 Services: Primary care; behavioral health; dental suite onsite; services for uninsured
+🏥 Services: Primary Care, Behavioral Health, Dental Suite Onsite, Services For Uninsured
 ⏰ Hours: Hours not listed on page; call for current hours
 
-97. Tapestry 360 Health – Thresholds (Integrated Care)
+97. Tapestry 360 Health  -  Thresholds (Integrated Care)
 4423 N Ravenswood Ave, Chicago, IL 60640
-📝 Last verified: 08/2025; HRSA Health Center Program — Last reviewed 07/2026
+📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://tap360health.org/medical-specialties/adult-family-care/
 📞 (773) 572-5700
 🗣 Languages: English; Spanish; interpretation in 200+ languages
-🏥 Services: Adult & family primary care integrated with behavioral health; chronic disease management
+🏥 Services: Adult & family primary care integrated with behavioral health, Chronic Disease Management
 ⏰ Hours: Call for hours (integrated care site)
 
-98. Howard Brown Health – 55th Street (Lake Park Ave)
+98. Howard Brown Health  -  55th Street (Lake Park Ave)
 5500 S Lake Park Ave FL 1, Chicago, IL 60637-1917
-📝 Last verified: 08/2025; HRSA Health Center Program — Last reviewed 07/2026
-🌐 https://howardbrown.org/clinic_location/55th-street/
+📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://howardbrown.org/Clinic Location/55th-street/
 📞 (773) 388-1600
 🗣 Languages: English; interpretation services available
-🏥 Services: Services for Women and Youth Living with HIV; Sexual and Reproductive Health Walk-in Clinic; Case Management; PEP (Post-Exposure Prophylaxis); Trans & Gender Diverse Health; Men’s Health; Primary Care; Geriatric Medicine & Aging Services; Diabetes Care; Social Services; Linkage To Care; Insurance Navigation; Behavioral Health; PrEP (Pre-Exposure Prophylaxis); Gynecology Care
-⏰ Hours: Mon 9:00 AM–7:00 PM; Tue 10:00 AM–7:00 PM; Wed 9:00 AM–7:00 PM; Thu 9:00 AM–7:00 PM; Fri 9:00 AM–5:00 PM; Sat 9:00 AM–3:00 PM; Sun Closed
+🏥 Services: Services for Women and Youth Living with HIV, Sexual and Reproductive Health Walk-in Clinic, Case Management, PEP (Post-Exposure Prophylaxis), Trans & Gender Diverse Health, Men’s Health, Primary Care, Geriatric Medicine & Aging Services, Diabetes Care, Social Services, Linkage To Care, Insurance Navigation, Behavioral Health, PrEP (Pre-Exposure Prophylaxis), Gynecology Care
+⏰ Hours: Mon 9:00 AM - 7:00 PM; Tue 10:00 AM - 7:00 PM; Wed 9:00 AM - 7:00 PM; Thu 9:00 AM - 7:00 PM; Fri 9:00 AM - 5:00 PM; Sat 9:00 AM - 3:00 PM; Sun Closed
 
-99. Howard Brown Health – 55th Street (E 55th St STE 201)
+99. Howard Brown Health  -  55th Street (E 55th St STE 201)
 1525 E 55th St STE 201, Chicago, IL 60615-5582
-📝 Ryan White HIV/AIDS Program (HRSA HAB) provider — Last reviewed 07/2026; Last verified: 08/2025; HRSA Health Center Program — Last reviewed 07/2026
-🌐 https://howardbrown.org/clinic_location/55th-street/
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026; Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://howardbrown.org/Clinic Location/55th-street/
 📞 (773) 388-1600
 🗣 Languages: English; interpretation services available
-🏥 Services: Ryan White HIV/AIDS Program; Services for Women and Youth Living with HIV; Sexual and Reproductive Health Walk-in Clinic; Case Management; PEP (Post-Exposure Prophylaxis); Trans & Gender Diverse Health; Men’s Health; Primary Care; Geriatric Medicine & Aging Services; Diabetes Care; Social Services; Linkage To Care; Insurance Navigation; Behavioral Health; PrEP (Pre-Exposure Prophylaxis); Gynecology Care
-⏰ Hours: Mon 9:00 AM–7:00 PM; Tue 10:00 AM–7:00 PM; Wed 9:00 AM–7:00 PM; Thu 9:00 AM–7:00 PM; Fri 9:00 AM–5:00 PM; Sat 9:00 AM–3:00 PM; Sun Closed
+🏥 Services: Ryan White HIV/AIDS Program, Services for Women and Youth Living with HIV, Sexual and Reproductive Health Walk-in Clinic, Case Management, PEP (Post-Exposure Prophylaxis), Trans & Gender Diverse Health, Men’s Health, Primary Care, Geriatric Medicine & Aging Services, Diabetes Care, Social Services, Linkage To Care, Insurance Navigation, Behavioral Health, PrEP (Pre-Exposure Prophylaxis), Gynecology Care
+⏰ Hours: Mon 9:00 AM - 7:00 PM; Tue 10:00 AM - 7:00 PM; Wed 9:00 AM - 7:00 PM; Thu 9:00 AM - 7:00 PM; Fri 9:00 AM - 5:00 PM; Sat 9:00 AM - 3:00 PM; Sun Closed
 
-100. Howard Brown Health – 63rd Street
+100. Howard Brown Health  -  63rd Street
 641 W 63rd St, Chicago, IL 60621-2032
-📝 Last verified: 08/2025; HRSA Health Center Program — Last reviewed 07/2026
-🌐 https://howardbrown.org/clinic_location/63rd-street/
+📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://howardbrown.org/Clinic Location/63rd-street/
 📞 (773) 388-1600
 🗣 Languages: English; interpretation services available
-🏥 Services: Dental Services; Pediatric Services; PEP (Post-Exposure Prophylaxis); Services for Women and Youth Living with HIV; Sexual and Reproductive Health Walk-in Clinic; Support Groups and Workshops; Trans & Gender Diverse Health; Diabetes Care; Gynecology Care; Geriatric Medicine & Aging Services; PrEP (Pre-Exposure Prophylaxis); Primary Care
-⏰ Hours: Mon 9:00 AM–7:00 PM; Tue 10:00 AM–7:00 PM; Wed 9:00 AM–7:00 PM; Thu 9:00 AM–7:00 PM; Fri 9:00 AM–5:00 PM; Sat 9:00 AM–3:00 PM; Sun Closed
+🏥 Services: Dental Services, Pediatric Services, PEP (Post-Exposure Prophylaxis), Services for Women and Youth Living with HIV, Sexual and Reproductive Health Walk-in Clinic, Support Groups and Workshops, Trans & Gender Diverse Health, Diabetes Care, Gynecology Care, Geriatric Medicine & Aging Services, PrEP (Pre-Exposure Prophylaxis), Primary Care
+⏰ Hours: Mon 9:00 AM - 7:00 PM; Tue 10:00 AM - 7:00 PM; Wed 9:00 AM - 7:00 PM; Thu 9:00 AM - 7:00 PM; Fri 9:00 AM - 5:00 PM; Sat 9:00 AM - 3:00 PM; Sun Closed
 
-101. Howard Brown Health – 63rd Street (Oral Health Services)
+101. Howard Brown Health  -  63rd Street (Oral Health Services)
 641 W 63rd St Bsmt, Chicago, IL 60621-2032
 📝 Last verified: 08/2025
 📞 (773) 388-1600
-🌐 https://howardbrown.org/clinic_location/63rd-street/
+🌐 https://howardbrown.org/Clinic Location/63rd-street/
 🗣 Languages: English; interpretation services available
 🏥 Services: Dental Services (comprehensive oral health care)
-⏰ Hours: Mon–Fri 9:00 AM–5:00 PM; Sat–Sun Closed
+⏰ Hours: Mon - Fri 9:00 AM - 5:00 PM; Sat - Sun Closed
 
-102. Howard Brown Health – Clark Street
+102. Howard Brown Health  -  Clark Street
 6500 N Clark St, Chicago, IL 60626-4097
-📝 Last verified: 08/2025; HRSA Health Center Program — Last reviewed 07/2026
-🌐 https://howardbrown.org/clinic_location/clark-street/
+📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://howardbrown.org/Clinic Location/clark-street/
 📞 (773) 388-1600
 🗣 Languages: English; interpretation services available
-🏥 Services: Queer Family Building; Geriatric Medicine & Aging Services; Insurance Navigation; Linkage To Care; Men’s Health; PEP (Post-Exposure Prophylaxis); Services for Women and Youth Living with HIV
-⏰ Hours: Mon 9:00 AM–7:00 PM; Tue 10:00 AM–7:00 PM; Wed 9:00 AM–7:00 PM; Thu 9:00 AM–7:00 PM; Fri 9:00 AM–5:00 PM; Sat 9:00 AM–3:00 PM; Sun Closed
+🏥 Services: Queer Family Building, Geriatric Medicine & Aging Services, Insurance Navigation, Linkage To Care, Men’s Health, PEP (Post-Exposure Prophylaxis), Services for Women and Youth Living with HIV
+⏰ Hours: Mon 9:00 AM - 7:00 PM; Tue 10:00 AM - 7:00 PM; Wed 9:00 AM - 7:00 PM; Thu 9:00 AM - 7:00 PM; Fri 9:00 AM - 5:00 PM; Sat 9:00 AM - 3:00 PM; Sun Closed
 
-103. Howard Brown Health – Sunnyside
+103. Howard Brown Health  -  Sunnyside
 1025 W Sunnyside Ave, Chicago, IL 60640-5684
 📝 Last verified: 08/2025
 📞 (773) 388-1600
 🌐 https://howardbrown.org
 🗣 Languages: English; interpretation services available
 🏥 Services: Not specified (administrative office)
-⏰ Hours: Mon–Fri 9:00 AM–5:00 PM; Sat–Sun Closed
+⏰ Hours: Mon - Fri 9:00 AM - 5:00 PM; Sat - Sun Closed
 
-104. Howard Brown Health – Counseling Center
+104. Howard Brown Health  -  Counseling Center
 3948 N Sheridan Rd, Chicago, IL 60613-2935
-📝 Last verified: 08/2025; HRSA Health Center Program — Last reviewed 07/2026
+📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://howardbrown.org
 📞 (773) 388-1600
 🗣 Languages: English; interpretation services available
 🏥 Services: Behavioral health counseling and mental health services
-⏰ Hours: Mon–Fri 9:00 AM–5:00 PM; Sat–Sun Closed
+⏰ Hours: Mon - Fri 9:00 AM - 5:00 PM; Sat - Sun Closed
 
-105. Howard Brown Health – Halsted
+105. Howard Brown Health  -  Halsted
 3501 N Halsted St, Chicago, IL 60657-1832
-📝 Last verified: 08/2025; HRSA Health Center Program — Last reviewed 07/2026
-🌐 https://howardbrown.org/clinic_location/halsted/
+📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://howardbrown.org/Clinic Location/halsted/
 📞 (773) 388-1600
 🗣 Languages: English; interpretation services available
-🏥 Services: Dental Services; Geriatric Medicine & Aging Services; Men’s Health; Pediatric Services; Services for Women and Youth Living with HIV; Trans & Gender Diverse Health; Women’s Health; Behavioral Health; Group Therapy; Primary Care; Psychiatry
-⏰ Hours: Mon 9:00 AM–7:00 PM; Tue 10:00 AM–7:00 PM; Wed 9:00 AM–7:00 PM; Thu 9:00 AM–7:00 PM; Fri 9:00 AM–5:00 PM; Sat 9:00 AM–3:00 PM; Sun Closed
+🏥 Services: Dental Services, Geriatric Medicine & Aging Services, Men’s Health, Pediatric Services, Services for Women and Youth Living with HIV, Trans & Gender Diverse Health, Women's Health, Behavioral Health, Group Therapy, Primary Care, Psychiatry
+⏰ Hours: Mon 9:00 AM - 7:00 PM; Tue 10:00 AM - 7:00 PM; Wed 9:00 AM - 7:00 PM; Thu 9:00 AM - 7:00 PM; Fri 9:00 AM - 5:00 PM; Sat 9:00 AM - 3:00 PM; Sun Closed
 
-106. Howard Brown Health – South Side Mobile
+106. Howard Brown Health  -  South Side Mobile
 5837 S Maryland Ave, Chicago, IL 60637-1463
-📝 Last verified: 08/2025; HRSA Health Center Program — Last reviewed 07/2026
+📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://howardbrown.org
 📞 (773) 388-1600
 🗣 Languages: English; interpretation services available
-🏥 Services: Mobile outreach health services (HIV/STI testing, prevention, and primary care)
-⏰ Hours: Varies (mobile clinic – contact for schedule)
+🏥 Services: Mobile outreach health services (HIV/STI testing, Prevention, And Primary Care)
+⏰ Hours: Varies (mobile clinic  -  contact for schedule)
 
-107. Howard Brown Health – at La Casa Norte
+107. Howard Brown Health  -  at La Casa Norte
 3533 W North Ave STE 1, Chicago, IL 60647-7573
-📝 Last verified: 08/2025; HRSA Health Center Program — Last reviewed 07/2026
-🌐 https://howardbrown.org/clinic_location/la-casa-norte/
+📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://howardbrown.org/Clinic Location/la-casa-norte/
 📞 (773) 388-1600
 🗣 Languages: English; interpretation services available
-🏥 Services: Women’s Health; Trans & Gender Diverse Health; Men’s Health; Geriatric Medicine & Aging Services; Pediatric Services; Services for Women and Youth Living with HIV
-⏰ Hours: Mon 9:00 AM–5:00 PM; Tue 10:00 AM–5:00 PM; Wed 9:00 AM–5:00 PM; Thu 11:00 AM–7:00 PM; Fri 9:00 AM–5:00 PM; 1st Sat of month 9:00 AM–3:00 PM; Sun Closed
+🏥 Services: Women's Health, Trans & Gender Diverse Health, Men’s Health, Geriatric Medicine & Aging Services, Pediatric Services, Services for Women and Youth Living with HIV
+⏰ Hours: Mon 9:00 AM - 5:00 PM; Tue 10:00 AM - 5:00 PM; Wed 9:00 AM - 5:00 PM; Thu 11:00 AM - 7:00 PM; Fri 9:00 AM - 5:00 PM; 1st Sat of month 9:00 AM - 3:00 PM; Sun Closed
 
-108. Howard Brown Health – Sheridan
+108. Howard Brown Health  -  Sheridan
 4025 N Sheridan Rd, Chicago, IL 60613-2010
-📝 Ryan White HIV/AIDS Program (HRSA HAB) provider — Last reviewed 07/2026; Last verified: 08/2025; HRSA Health Center Program — Last reviewed 07/2026
-🌐 https://howardbrown.org/clinic_location/sheridan/
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026; Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://howardbrown.org/Clinic Location/sheridan/
 📞 (773) 388-1600
 🗣 Languages: English; interpretation services available
-🏥 Services: Ryan White HIV/AIDS Program; Case Management; Insurance Navigation; PEP (Post-Exposure Prophylaxis); Services for Women and Youth Living with HIV; Sexual and Reproductive Health Walk-in Clinic; Social Services; Substance Use & Recovery; Support Groups and Workshops; Trans & Gender Diverse Health
-⏰ Hours: Mon 9:00 AM–7:00 PM; Tue 10:00 AM–7:00 PM; Wed 9:00 AM–7:00 PM; Thu 9:00 AM–7:00 PM; Fri 9:00 AM–5:00 PM; Sat 9:00 AM–3:00 PM; Sun Closed
+🏥 Services: Ryan White HIV/AIDS Program, Case Management, Insurance Navigation, PEP (Post-Exposure Prophylaxis), Services for Women and Youth Living with HIV, Sexual and Reproductive Health Walk-in Clinic, Social Services, Substance Use & Recovery, Support Groups and Workshops, Trans & Gender Diverse Health
+⏰ Hours: Mon 9:00 AM - 7:00 PM; Tue 10:00 AM - 7:00 PM; Wed 9:00 AM - 7:00 PM; Thu 9:00 AM - 7:00 PM; Fri 9:00 AM - 5:00 PM; Sat 9:00 AM - 3:00 PM; Sun Closed
 
 109. Erie Amundsen School Based Health Center
 5110 N Damen Ave, Chicago, IL 60625-1317
-📝 Last verified: 08/2025; HRSA Health Center Program — Last reviewed 07/2026
+📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.eriefamilyhealth.org/locations/amundsen/
 📞 (312) 666-3494
 🗣 Languages: English, Spanish
-🏥 Services: Behavioral Health/Counseling; Health and Wellness Programs; Teen Health Services; Substance Use Services; Telehealth
-⏰ Hours: Mon, Tue, Thu, Fri 8:00 AM–4:30 PM; Wed 10:00 AM–4:30 PM; Sat–Sun Closed
+🏥 Services: Behavioral Health / Counseling, Health and Wellness Programs, Teen Health Services, Substance Use Services, Telehealth
+⏰ Hours: Mon, Tue, Thu, Fri 8:00 AM - 4:30 PM; Wed 10:00 AM - 4:30 PM; Sat - Sun Closed
 
 110. Erie Clemente Wildcats Student Health Center
 1147 N Western Ave, Chicago, IL 60622-2931
-📝 Last verified: 08/2025; HRSA Health Center Program — Last reviewed 07/2026
+📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.eriefamilyhealth.org/locations/clemente/
 📞 (773) 394-8821
 🗣 Languages: English, Spanish
-🏥 Services: Behavioral Health/Counseling; Health and Wellness Programs; Teen Health Services; Substance Use Services; Telehealth
-⏰ Hours: Mon, Tue, Thu, Fri 8:00 AM–4:30 PM; Wed 10:00 AM–4:30 PM; Sat–Sun Closed
+🏥 Services: Behavioral Health / Counseling, Health and Wellness Programs, Teen Health Services, Substance Use Services, Telehealth
+⏰ Hours: Mon, Tue, Thu, Fri 8:00 AM - 4:30 PM; Wed 10:00 AM - 4:30 PM; Sat - Sun Closed
 
 111. Erie Division Street Health Center
 2418 W Division St, Chicago, IL 60622-2940
-📝 Last verified: 08/2025; HRSA Health Center Program — Last reviewed 07/2026
+📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.eriefamilyhealth.org/locations/division/
 📞 (312) 432-7394
 🗣 Languages: English, Spanish
-🏥 Services: Children’s, Adult and Senior Health; Teen Health; Reproductive Health, Family Planning and Prenatal Care; Behavioral Health/Counseling; Health and Wellness Programs; Case and Care Management; Substance Use Services; Medication Assisted Treatment Program; Covid-19 Testing for Patients; Telehealth
-⏰ Hours: Mon, Tue, Thu, Fri 8:30 AM–5:30 PM; Wed 10:00 AM–5:30 PM; Sat–Sun Closed
+🏥 Services: Children’s, Adult and Senior Health, Teen Health, Reproductive Health, Family Planning and Prenatal Care, Behavioral Health / Counseling, Health and Wellness Programs, Case and Care Management, Substance Use Services, Medication Assisted Treatment Program, Covid-19 Testing for Patients, Telehealth
+⏰ Hours: Mon, Tue, Thu, Fri 8:30 AM - 5:30 PM; Wed 10:00 AM - 5:30 PM; Sat - Sun Closed
 
 112. Erie Foster Avenue Health Center
 5215 N California Ave STE F700, Chicago, IL 60625-8562
-📝 Ryan White HIV/AIDS Program (HRSA HAB) provider — Last reviewed 07/2026; Last verified: 08/2025; HRSA Health Center Program — Last reviewed 07/2026
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026; Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.eriefamilyhealth.org/locations/foster/
 📞 (312) 666-3494
 🗣 Languages: English, Spanish
-🏥 Services: Ryan White HIV/AIDS Program; Children’s, Adult and Senior Health; Teen Health; Reproductive Health, Family Planning and Prenatal Care; Oral Health; Behavioral Health/Counseling; Hepatitis C Management and Treatment; HIV/AIDS Specialized Services; Health and Wellness Programs; Case and Care Management; Substance Use Services; Medication Assisted Treatment Program; Covid-19 Testing for Patients; Telehealth
-⏰ Hours: Mon, Tue, Thu, Fri 8:30 AM–5:30 PM; Wed 10:00 AM–7:00 PM; Sat 10:00 AM–2:00 PM; Sun Closed
+🏥 Services: Ryan White HIV/AIDS Program, Children’s, Adult and Senior Health, Teen Health, Reproductive Health, Family Planning and Prenatal Care, Oral Health, Behavioral Health / Counseling, Hepatitis C Management and Treatment, HIV/AIDS Specialized Services, Health and Wellness Programs, Case and Care Management, Substance Use Services, Medication Assisted Treatment Program, Covid-19 Testing for Patients, Telehealth
+⏰ Hours: Mon, Tue, Thu, Fri 8:30 AM - 5:30 PM; Wed 10:00 AM - 7:00 PM; Sat 10:00 AM - 2:00 PM; Sun Closed
 
 113. Erie Helping Hands Health Center
 4747 N Kedzie Ave, Chicago, IL 60625-4420
-📝 Last verified: 08/2025; HRSA Health Center Program — Last reviewed 07/2026
+📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.eriefamilyhealth.org/locations/helping-hands/
 📞 (312) 666-3494
 🗣 Languages: English, Spanish
-🏥 Services: Children’s, Adult and Senior Health; Teen Health; Reproductive Health, Family Planning and Prenatal Care; Behavioral Health/Counseling; Health and Wellness Programs; Case and Care Management; Substance Use Services; Medication Assisted Treatment Program; Covid-19 Testing for Patients; Telehealth
-⏰ Hours: Mon, Thu, Fri 8:30 AM–5:30 PM; Tue 7:00 AM–8:00 PM; Wed 10:00 AM–7:00 PM; Sat–Sun Closed
+🏥 Services: Children’s, Adult and Senior Health, Teen Health, Reproductive Health, Family Planning and Prenatal Care, Behavioral Health / Counseling, Health and Wellness Programs, Case and Care Management, Substance Use Services, Medication Assisted Treatment Program, Covid-19 Testing for Patients, Telehealth
+⏰ Hours: Mon, Thu, Fri 8:30 AM - 5:30 PM; Tue 7:00 AM - 8:00 PM; Wed 10:00 AM - 7:00 PM; Sat - Sun Closed
 
 114. Erie Humboldt Park Health Center
 2750 W North Ave, Chicago, IL 60647-5247
-📝 Ryan White HIV/AIDS Program (HRSA HAB) provider — Last reviewed 07/2026; Last verified: 08/2025
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026; Last verified: 08/2025
 🌐 https://www.eriefamilyhealth.org/locations/humboldt/
 📞 (312) 666-3493
 🗣 Languages: English, Spanish
-🏥 Services: Ryan White HIV/AIDS Program; Children’s, Adult and Senior Health; Teen Health; Reproductive Health, Family Planning and Prenatal Care; Oral Health; Behavioral Health/Counseling; HIV/AIDS Care; PrEP Navigation Services; Health and Wellness Programs; Case and Care Management; WIC Services; Substance Use Services; Medication Assisted Treatment Program; Covid-19 Testing for Patients; Telehealth
-⏰ Hours: Mon, Tue, Thu, Fri 8:30 AM–5:30 PM; Wed 10:00 AM–7:00 PM; Sat 10:00 AM–2:00 PM; Sun Closed
+🏥 Services: Ryan White HIV/AIDS Program, Children’s, Adult and Senior Health, Teen Health, Reproductive Health, Family Planning and Prenatal Care, Oral Health, Behavioral Health / Counseling, HIV/AIDS Care, PrEP Navigation Services, Health and Wellness Programs, Case and Care Management, WIC Services, Substance Use Services, Medication Assisted Treatment Program, Covid-19 Testing for Patients, Telehealth
+⏰ Hours: Mon, Tue, Thu, Fri 8:30 AM - 5:30 PM; Wed 10:00 AM - 7:00 PM; Sat 10:00 AM - 2:00 PM; Sun Closed
 
 115. Erie Johnson School-Based Health Center
 1504 S Albany Ave, Chicago, IL 60623-2209
-📝 Ryan White HIV/AIDS Program (HRSA HAB) provider — Last reviewed 07/2026; Last verified: 08/2025; HRSA Health Center Program — Last reviewed 07/2026
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026; Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.eriefamilyhealth.org/locations/johnson/
 📞 (312) 666-3494
 🗣 Languages: English, Spanish
-🏥 Services: Ryan White HIV/AIDS Program; Behavioral Health/Counseling; Health and Wellness Programs; Teen Health Services; Substance Use Services; Telehealth
-⏰ Hours: Mon, Tue, Thu, Fri 8:00 AM–4:30 PM; Wed 10:00 AM–4:30 PM; Sat–Sun Closed
+🏥 Services: Ryan White HIV/AIDS Program, Behavioral Health / Counseling, Health and Wellness Programs, Teen Health Services, Substance Use Services, Telehealth
+⏰ Hours: Mon, Tue, Thu, Fri 8:00 AM - 4:30 PM; Wed 10:00 AM - 4:30 PM; Sat - Sun Closed
 
 116. Erie Lake View School Based Health Center
 4015 N Ashland Ave, Chicago, IL 60613-2593
-📝 Last verified: 08/2025; HRSA Health Center Program — Last reviewed 07/2026
+📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.eriefamilyhealth.org/locations/lake-view/
 📞 (312) 666-3494
 🗣 Languages: English, Spanish
-🏥 Services: Behavioral Health/Counseling; Health and Wellness Programs; Teen Health Services; Substance Use Services; Telehealth
-⏰ Hours: Mon, Tue, Thu, Fri 8:00 AM–4:30 PM; Wed 10:00 AM–4:30 PM; Sat–Sun Closed
+🏥 Services: Behavioral Health / Counseling, Health and Wellness Programs, Teen Health Services, Substance Use Services, Telehealth
+⏰ Hours: Mon, Tue, Thu, Fri 8:00 AM - 4:30 PM; Wed 10:00 AM - 4:30 PM; Sat - Sun Closed
 
 117. Erie West Town Health Center
 1701 W Superior St, Chicago, IL 60622-5646
-📝 Last verified: 08/2025; HRSA Health Center Program — Last reviewed 07/2026
+📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.eriefamilyhealth.org/locations/west-town/
 📞 (312) 666-3494
 🗣 Languages: English, Spanish
-🏥 Services: Children’s, Adult and Senior Health; Teen Health; Reproductive Health, Family Planning and Prenatal Care; Behavioral Health/Counseling; Health and Wellness Programs; Case and Care Management; Substance Use Services; Medication Assisted Treatment Program; Covid-19 Testing for Patients; Telehealth
-⏰ Hours: Mon, Thu, Fri 8:30 AM–5:30 PM; Tue 8:30 AM–7:30 PM; Wed 10:00 AM–7:00 PM; Sat–Sun Closed
+🏥 Services: Children’s, Adult and Senior Health, Teen Health, Reproductive Health, Family Planning and Prenatal Care, Behavioral Health / Counseling, Health and Wellness Programs, Case and Care Management, Substance Use Services, Medication Assisted Treatment Program, Covid-19 Testing for Patients, Telehealth
+⏰ Hours: Mon, Thu, Fri 8:30 AM - 5:30 PM; Tue 8:30 AM - 7:30 PM; Wed 10:00 AM - 7:00 PM; Sat - Sun Closed
 
 118. PRIMECARE Fullerton
 3924 W Fullerton Ave, Chicago, IL 60647-2228
-📝 Last verified: 08/2025; HRSA Health Center Program — Last reviewed 07/2026
+📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.primecarehealth.org/fullerton-health-center
 📞 (773) 276-2229
 🗣 Languages: English, Spanish, Polish
-🏥 Services: Primary care (all ages), behavioral health, immunizations, and more
-⏰ Hours: Mon 6:30 AM–8:00 PM; Tue 7:30 AM–5:00 PM; Wed 6:30 AM–5:00 PM; Thu 6:30 AM–5:00 PM; Fri 6:30 AM–5:00 PM; Sat 8:00 AM–2:00 PM; Sun Closed
+🏥 Services: Primary care (all ages), Behavioral Health, Immunizations, And More
+⏰ Hours: Mon 6:30 AM - 8:00 PM; Tue 7:30 AM - 5:00 PM; Wed 6:30 AM - 5:00 PM; Thu 6:30 AM - 5:00 PM; Fri 6:30 AM - 5:00 PM; Sat 8:00 AM - 2:00 PM; Sun Closed
 
 119. PRIMECARE West Town
 1431 N Western Ave STE 406, Chicago, IL 60622-1774
-📝 Last verified: 08/2025; HRSA Health Center Program — Last reviewed 07/2026
+📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.primecarehealth.org/west-town-health-center
 📞 (312) 633-5841
 🗣 Languages: English, Spanish
-🏥 Services: Primary care (family medicine), behavioral health, substance use (MAT) services
-⏰ Hours: Mon, Wed, Fri 7:30 AM–5:00 PM; Tue, Thu 7:30 AM–8:00 PM; Sat 7:30 AM–12:30 PM; Sun Closed
+🏥 Services: Primary care (family medicine), Behavioral Health, substance use (MAT) services
+⏰ Hours: Mon, Wed, Fri 7:30 AM - 5:00 PM; Tue, Thu 7:30 AM - 8:00 PM; Sat 7:30 AM - 12:30 PM; Sun Closed
 
 120. PrimeCare Belmont Cragin
 5635 W Belmont Ave, Chicago, IL 60634-4384
-📝 Last verified: 08/2025; HRSA Health Center Program — Last reviewed 07/2026
+📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.primecarehealth.org/belmont-cragin-health-center
 📞 (312) 633-5841
 🗣 Languages: English, Spanish, Polish, Mandarin
-🏥 Services: Primary care (adult and pediatric), women's health, behavioral health, dental care, substance use treatment
-⏰ Hours: Mon 6:30 AM–8:00 PM; Tue 8:30 AM–5:00 PM; Wed 6:30 AM–8:00 PM; Thu 7:30 AM–8:00 PM; Fri 8:30 AM–5:00 PM; Sat 8:00 AM–2:00 PM; Sun Closed
+🏥 Services: Primary care (adult and pediatric), Women's Health, Behavioral Health, Dental Care, Substance Use Treatment
+⏰ Hours: Mon 6:30 AM - 8:00 PM; Tue 8:30 AM - 5:00 PM; Wed 6:30 AM - 8:00 PM; Thu 7:30 AM - 8:00 PM; Fri 8:30 AM - 5:00 PM; Sat 8:00 AM - 2:00 PM; Sun Closed
 
 121. PrimeCare Hamlin
 1920 N Hamlin Ave, Chicago, IL 60647-3411
-📝 Last verified: 08/2025; HRSA Health Center Program — Last reviewed 07/2026
+📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.primecarehealth.org/hamlin-health-center
 📞 (773) 772-7202
 🗣 Languages: English, Spanish
-🏥 Services: Primary care (family medicine), pediatric care, behavioral health
-⏰ Hours: Mon–Fri 8:00 AM–5:00 PM; Sat–Sun Closed
+🏥 Services: Primary care (family medicine), Pediatric Care, Behavioral Health
+⏰ Hours: Mon - Fri 8:00 AM - 5:00 PM; Sat - Sun Closed
 
 122. PrimeCare Northwest
 1649 N Pulaski Rd, Chicago, IL 60639-5207
-📝 Last verified: 08/2025; HRSA Health Center Program — Last reviewed 07/2026
+📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.primecarehealth.org/northwest-health-center
 📞 (773) 278-6868
 🗣 Languages: English, Spanish
-🏥 Services: Primary care (family medicine), pediatric care, behavioral health
-⏰ Hours: Mon–Thu 7:30 AM–5:00 PM; Wed 7:30 AM–8:00 PM; Fri 7:30 AM–5:00 PM; Sat 8:00 AM–2:00 PM; Sun Closed
+🏥 Services: Primary care (family medicine), Pediatric Care, Behavioral Health
+⏰ Hours: Mon - Thu 7:30 AM - 5:00 PM; Wed 7:30 AM - 8:00 PM; Fri 7:30 AM - 5:00 PM; Sat 8:00 AM - 2:00 PM; Sun Closed
 
 123. PrimeCare West Town Dental
 1431 N Western Ave STE 401, Chicago, IL 60622-7712
@@ -1100,89 +1100,89 @@
 📞 (312) 633-5841
 🌐 https://www.primecarehealth.org/west-town-oral-health-center
 🗣 Languages: English, Spanish
-🏥 Services: Preventive, restorative, and emergency dental services (exams, X-rays, fillings, sealants, extractions, and more)
-⏰ Hours: Mon–Thu 7:30 AM–6:00 PM; Fri–Sun Closed
+🏥 Services: Preventive, Restorative, and emergency dental services (exams, X-rays, Fillings, Sealants, Extractions, And More)
+⏰ Hours: Mon - Thu 7:30 AM - 6:00 PM; Fri - Sun Closed
 
 124. PrimeCare Wicker Park
 1127 N Oakley Blvd, Chicago, IL 60622-3507
-📝 Last verified: 08/2025; HRSA Health Center Program — Last reviewed 07/2026
+📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.primecarehealth.org/wicker-park-health-center
 📞 (312) 770-2040
 🗣 Languages: English, Spanish
-🏥 Services: Primary care (family medicine), pediatric care, behavioral health
-⏰ Hours: Mon, Wed, Fri 7:30 AM–5:00 PM; Tue, Thu 7:30 AM–8:00 PM; Sat Closed; Sun Closed
+🏥 Services: Primary care (family medicine), Pediatric Care, Behavioral Health
+⏰ Hours: Mon, Wed, Fri 7:30 AM - 5:00 PM; Tue, Thu 7:30 AM - 8:00 PM; Sat Closed; Sun Closed
 
 125. PrimeCare Young Family Health Center
 1431 N Western Ave STE 202, Chicago, IL 60622-7712
-📝 Last verified: 08/2025; HRSA Health Center Program — Last reviewed 07/2026
+📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.primecarehealth.org/young-family-health-center
 📞 (773) 276-2272
 🗣 Languages: English, Spanish
-🏥 Services: Primary care (all ages), women's health (OB/GYN), pediatric care, behavioral health
-⏰ Hours: Mon 8:00 AM–7:00 PM; Tue 9:00 AM–5:00 PM; Wed 9:00 AM–7:00 PM; Thu–Fri 8:00 AM–5:00 PM; Sat 8:30 AM–2:00 PM; Sun Closed
+🏥 Services: Primary care (all ages), women's health (OB/GYN), Pediatric Care, Behavioral Health
+⏰ Hours: Mon 8:00 AM - 7:00 PM; Tue 9:00 AM - 5:00 PM; Wed 9:00 AM - 7:00 PM; Thu - Fri 8:00 AM - 5:00 PM; Sat 8:30 AM - 2:00 PM; Sun Closed
 
-126. Chicago Family Health Center – South Chicago
+126. Chicago Family Health Center  -  South Chicago
 9119 S Exchange Ave, Chicago, IL 60617-4225
-📝 Last verified: 08/2025; HRSA Health Center Program — Last reviewed 07/2026
+📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://chicagofamilyhealth.org/find-clinic/south-chicago-health-center/
 📞 (708) 386-0845
 🗣 Languages: English, Spanish (translation services available for other languages)
-🏥 Services: Primary care (adult and pediatric), women's health (OB/GYN), behavioral health, dental care, immunizations, HIV/STI testing, WIC program
-⏰ Hours: Mon, Wed, Thu 8:30 AM–8:00 PM; Tue, Fri 8:30 AM–5:00 PM; Sat 8:30 AM–1:00 PM; Sun Closed
+🏥 Services: Primary care (adult and pediatric), women's health (OB/GYN), Behavioral Health, Dental Care, Immunizations, HIV/STI testing, WIC program
+⏰ Hours: Mon, Wed, Thu 8:30 AM - 8:00 PM; Tue, Fri 8:30 AM - 5:00 PM; Sat 8:30 AM - 1:00 PM; Sun Closed
 
-127. Chicago Family Health Center – CVCA
+127. Chicago Family Health Center  -  CVCA
 2100 E 87th St, Chicago, IL 60617-3011
-📝 Last verified: 08/2025; HRSA Health Center Program — Last reviewed 07/2026
+📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://chicagofamilyhealth.org/find-clinic/cvca-health-center/
 📞 (773) 768-5000
 🗣 Languages: English, Spanish (translation services available)
-🏥 Services: Primary care (students and community), men's and women's health, pediatric care, behavioral health (school-based)
-⏰ Hours: Mon–Fri 8:30 AM–5:00 PM; Sat–Sun Closed
+🏥 Services: Primary care (students and community), Men'S And Women'S Health, Pediatric Care, Behavioral Health (School-Based)
+⏰ Hours: Mon - Fri 8:30 AM - 5:00 PM; Sat - Sun Closed
 
-128. Chicago Family Health Center – Roseland
+128. Chicago Family Health Center  -  Roseland
 120 W 111th St, Chicago, IL 60628-4215
-📝 Last verified: 08/2025; HRSA Health Center Program — Last reviewed 07/2026
+📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://chicagofamilyhealth.org/find-clinic/roseland-health-center/
 📞 (773) 768-5000
 🗣 Languages: English, Spanish (translation services available)
-🏥 Services: Primary care (adult and pediatric), women's health (OB/GYN), behavioral health, immunizations, HIV/STI testing, Healthy Start program, insurance assistance
-⏰ Hours: Mon–Fri 8:30 AM–5:00 PM; 2nd and 4th Sat 8:30 AM–1:00 PM; Sun Closed
+🏥 Services: Primary care (adult and pediatric), women's health (OB/GYN), Behavioral Health, Immunizations, HIV/STI testing, Healthy Start program, Insurance Assistance
+⏰ Hours: Mon - Fri 8:30 AM - 5:00 PM; 2nd and 4th Sat 8:30 AM - 1:00 PM; Sun Closed
 
-129. Chicago Family Health Center – East Side
+129. Chicago Family Health Center  -  East Side
 10536 S Ewing Ave, Chicago, IL 60617-6219
-📝 Last verified: 08/2025; HRSA Health Center Program — Last reviewed 07/2026
+📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://chicagofamilyhealth.org/find-clinic/east-side-health-center/
 📞 (773) 768-5000
 🗣 Languages: English, Spanish (translation services available)
-🏥 Services: Primary care (adult and pediatric), women's health (prenatal), behavioral health, immunizations, HIV/STI testing, insurance assistance
-⏰ Hours: Mon, Wed, Thu, Fri 8:30 AM–5:00 PM; Tue 8:30 AM–8:00 PM; 2nd and 4th Sat 8:30 AM–1:00 PM; Sun Closed
+🏥 Services: Primary care (adult and pediatric), Women'S Health (Prenatal), Behavioral Health, Immunizations, HIV/STI testing, Insurance Assistance
+⏰ Hours: Mon, Wed, Thu, Fri 8:30 AM - 5:00 PM; Tue 8:30 AM - 8:00 PM; 2nd and 4th Sat 8:30 AM - 1:00 PM; Sun Closed
 
-130. Chicago Family Health Center – Chicago Lawn
+130. Chicago Family Health Center  -  Chicago Lawn
 3223 W 63rd St, Chicago, IL 60629-3333
-📝 Ryan White HIV/AIDS Program (HRSA HAB) provider — Last reviewed 07/2026; Last verified: 08/2025; HRSA Health Center Program — Last reviewed 07/2026
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026; Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://chicagofamilyhealth.org/find-clinic/chicago-lawn-health-center/
 📞 (773) 768-5000
 🗣 Languages: English, Spanish (translation services available)
-🏥 Services: Ryan White HIV/AIDS Program; Primary care (adult and pediatric), women's health (OB/GYN), behavioral health, immunizations, HIV/STI testing, insurance assistance
-⏰ Hours: Mon–Fri 8:30 AM–5:00 PM; 2nd and 4th Mon 8:30 AM–8:00 PM; 2nd and 4th Sat 8:30 AM–1:00 PM; Sun Closed
+🏥 Services: Ryan White HIV/AIDS Program, Primary care (adult and pediatric), women's health (OB/GYN), Behavioral Health, Immunizations, HIV/STI testing, Insurance Assistance
+⏰ Hours: Mon - Fri 8:30 AM - 5:00 PM; 2nd and 4th Mon 8:30 AM - 8:00 PM; 2nd and 4th Sat 8:30 AM - 1:00 PM; Sun Closed
 
-131. Chicago Family Health Center – Pullman
+131. Chicago Family Health Center  -  Pullman
 570 E 115th St, Chicago, IL 60628-5740
-📝 Last verified: 08/2025; HRSA Health Center Program — Last reviewed 07/2026
+📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://chicagofamilyhealth.org/find-clinic/pullman-health-center/
 📞 (773) 768-5000
 🗣 Languages: English, Spanish (translation services available)
-🏥 Services: Primary care (adult and pediatric), women's health (OB/GYN), behavioral health, dental care, immunizations, HIV/STI testing
-⏰ Hours: Mon and Thu 8:30 AM–8:00 PM; Tue, Wed, Fri 8:30 AM–5:00 PM; Sat 8:30 AM–1:00 PM; Sun Closed
+🏥 Services: Primary care (adult and pediatric), women's health (OB/GYN), Behavioral Health, Dental Care, Immunizations, HIV/STI testing
+⏰ Hours: Mon and Thu 8:30 AM - 8:00 PM; Tue, Wed, Fri 8:30 AM - 5:00 PM; Sat 8:30 AM - 1:00 PM; Sun Closed
 
 132. PCC Austin Family Health Center
 5461 W Lake St, Chicago, IL 60644-2343
-📝 Last verified: 08/2025; HRSA Health Center Program — Last reviewed 07/2026
+📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.pccwellness.org/locations/pcc-austin-family-health-center/
 📞 (773) 378-3347
 🗣 Languages: English, Spanish
-🏥 Services: Primary care (adult and pediatric), behavioral health, wellness programs (nutrition and fitness); dental and specialty services on campus
-⏰ Hours: Mon, Wed, Thu 8:00 AM–8:00 PM; Tue 9:00 AM–8:00 PM; Fri 8:00 AM–5:00 PM; Sat 8:00 AM–12:00 PM; Sun Closed
+🏥 Services: Primary care (adult and pediatric), Behavioral Health, wellness programs (nutrition and fitness), dental and specialty services on campus
+⏰ Hours: Mon, Wed, Thu 8:00 AM - 8:00 PM; Tue 9:00 AM - 8:00 PM; Fri 8:00 AM - 5:00 PM; Sat 8:00 AM - 12:00 PM; Sun Closed
 
 133. PCC Clinic at The Boulevard
 3456 W Franklin Blvd, Chicago, IL 60624-1308
@@ -1191,45 +1191,45 @@
 🌐 https://www.pccwellness.org/locations/pcc-clinic-at-the-boulevard/
 🗣 Languages: English, Spanish
 🏥 Services: On-site primary care for medical respite center residents (homeless adults)
-⏰ Hours: Mon–Fri 8:00 AM–5:00 PM; Sat–Sun Closed
+⏰ Hours: Mon - Fri 8:00 AM - 5:00 PM; Sat - Sun Closed
 
 134. PCC Community Wellness Center at Steinmetz
 3030 N Mobile Ave, Chicago, IL 60634-4041
-📝 Last verified: 08/2025; HRSA Health Center Program — Last reviewed 07/2026
+📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.pccwellness.org/locations/pcc-community-wellness-center-at-steinmetz/
 📞 (708) 524-7686
 🗣 Languages: English, Spanish
-🏥 Services: Primary care (all ages), prenatal and women's health (midwifery), mental health counseling, substance use treatment
-⏰ Hours: Mon, Tue, Thu, Fri 8:00 AM–5:00 PM; Wed 8:00 AM–8:00 PM; Sat–Sun Closed
+🏥 Services: Primary care (all ages), prenatal and women's health (midwifery), Mental Health Counseling, Substance Use Treatment
+⏰ Hours: Mon, Tue, Thu, Fri 8:00 AM - 5:00 PM; Wed 8:00 AM - 8:00 PM; Sat - Sun Closed
 
 135. PCC Dental and Specialty Care Center
 5425 W Lake St, Chicago, IL 60644-2342
-📝 Last verified: 08/2025; HRSA Health Center Program — Last reviewed 07/2026
+📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.pccwellness.org/locations/pcc-dental-services/
 📞 (773) 413-1920
 🗣 Languages: English, Spanish
-🏥 Services: Dental services (X-rays, cleanings, fillings, extractions, and more) and specialty care (cardiology, physical therapy)
-⏰ Hours: Mon, Tue, Thu 8:00 AM–6:00 PM; Wed 8:30 AM–6:00 PM; Fri 8:00 AM–4:00 PM; Sat–Sun Closed
+🏥 Services: Dental services (X-rays, Cleanings, Fillings, Extractions, and more) and specialty care (cardiology, Physical Therapy)
+⏰ Hours: Mon, Tue, Thu 8:00 AM - 6:00 PM; Wed 8:30 AM - 6:00 PM; Fri 8:00 AM - 4:00 PM; Sat - Sun Closed
 
 136. PCC Salud Family Health Center
 5359 W Fullerton Ave, Chicago, IL 60639-1450
-📝 Last verified: 08/2025; HRSA Health Center Program — Last reviewed 07/2026
+📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.pccwellness.org/locations/pcc-salud-family-health-center/
 📞 (773) 836-2785
 🗣 Languages: English, Spanish
-🏥 Services: Primary and preventive care (adult and pediatric), family planning, prenatal care, behavioral health, chronic disease management
-⏰ Hours: Mon–Thu 8:00 AM–8:00 PM; *3rd Wed 9:00 AM–8:00 PM; Fri 8:00 AM–5:00 PM; Sat 8:00 AM–12:00 PM; Sun Closed
+🏥 Services: Primary and preventive care (adult and pediatric), Family Planning, Prenatal Care, Behavioral Health, Chronic Disease Management
+⏰ Hours: Mon - Thu 8:00 AM - 8:00 PM; *3rd Wed 9:00 AM - 8:00 PM; Fri 8:00 AM - 5:00 PM; Sat 8:00 AM - 12:00 PM; Sun Closed
 
 137. PCC West Town Family Health Center
 2434 W Division St, Chicago, IL 60622-2942
-📝 Last verified: 08/2025; HRSA Health Center Program — Last reviewed 07/2026
+📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.pccwellness.org/locations/pcc-west-town-family-health-center/
 📞 (773) 584-4178
 🗣 Languages: English, Spanish
-🏥 Services: Adult primary care (including OB/GYN), adolescent/teen health, pediatric check-ups, behavioral health, school and work physicals, COVID-19 testing/vaccination, benefits assistance
-⏰ Hours: Mon–Thu 8:00 AM–5:00 PM; Fri–Sun Closed
+🏥 Services: Adult primary care (including OB/GYN), Adolescent/Teen Health, Pediatric Check-Ups, Behavioral Health, School And Work Physicals, COVID-19 testing/vaccination, Benefits Assistance
+⏰ Hours: Mon - Thu 8:00 AM - 5:00 PM; Fri - Sun Closed
 
-138. Heartland Alliance Health – Antonia
+138. Heartland Alliance Health  -  Antonia
 4730 N Winthrop Ave, Chicago, IL 60640-5034
 📝 Last verified: 08/2025
 📞 (773) 275-2586
@@ -1238,40 +1238,40 @@
 🏥 Services: 16-bed residential mental health program (supportive housing with therapeutic services for adults with serious mental illness)
 ⏰ Hours: Open 24/7 (residential facility)
 
-139. Heartland Alliance Health – Englewood
+139. Heartland Alliance Health  -  Englewood
 5501 S Halsted St, Chicago, IL 60621
-📝 Ryan White HIV/AIDS Program (HRSA HAB) provider — Last reviewed 07/2026; Last verified: 08/2025
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026; Last verified: 08/2025
 🌐 https://hahealth.org/
 📞 (773) 275-2586
 🗣 Languages: English, Spanish
-🏥 Services: Ryan White HIV/AIDS Program; Primary medical care, substance use treatment, mental health/psychiatry, insurance enrollment, case management, specialty referrals, chronic disease management (including HIV/AIDS care)
-⏰ Hours: Mon–Fri 8:30 AM–5 PM (1st & 3rd Wed 10 AM–5 PM)
+🏥 Services: Ryan White HIV/AIDS Program, Primary medical care, Substance Use Treatment, Mental Health/Psychiatry, Insurance Enrollment, Case Management, Specialty Referrals, chronic disease management (including HIV/AIDS care)
+⏰ Hours: Mon - Fri 8:30 AM - 5 PM (1st & 3rd Wed 10 AM - 5 PM)
 
-140. Heartland Alliance Health – Uptown
+140. Heartland Alliance Health  -  Uptown
 4009 N Broadway St, Chicago, IL 60613
-📝 Ryan White HIV/AIDS Program (HRSA HAB) provider — Last reviewed 07/2026; Last verified: 08/2025; HRSA Health Center Program — Last reviewed 07/2026
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026; Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://hahealth.org/
 📞 (773) 275-2586
 🗣 Languages: English, Spanish; additional languages served (Chinese, French Creole, Japanese, Hindi, Swahili, Ukrainian, Polish, Filipino, Urdu, etc.)
-🏥 Services: Ryan White HIV/AIDS Program; Comprehensive primary care (medical, dental), mental health, substance use treatment, support services for vulnerable populations
-⏰ Hours: Mon, Wed, Thu, Fri 8 AM–5 PM; Tue 8 AM–8 PM; 1st & 3rd Wed 10 AM–5 PM
+🏥 Services: Ryan White HIV/AIDS Program, Comprehensive primary care (medical, Dental), Mental Health, Substance Use Treatment, support services for vulnerable populations
+⏰ Hours: Mon, Wed, Thu, Fri 8 AM - 5 PM; Tue 8 AM - 8 PM; 1st & 3rd Wed 10 AM - 5 PM
 
-141. Temporary Site – Heartland International Health Centers (High Ridge Shelter)
+141. Temporary Site  -  Heartland International Health Centers (High Ridge Shelter)
 2424 W Touhy Ave, Chicago, IL 60645
 📝 Last verified: 08/2025
 🌐 https://tap360health.org/
 🗣 Languages: English, Spanish (interpretation available)
 🏥 Services: Primary health care and supportive services for people experiencing homelessness
-⏰ Hours: Temporary clinic – hours not publicly posted
+⏰ Hours: Temporary clinic  -  hours not publicly posted
 
-142. Aunt Martha’s Community Health Center (Humboldt Park – Norwegian Site)
+142. Aunt Martha’s Community Health Center (Humboldt Park  -  Norwegian Site)
 1044 N Francisco Ave, Chicago, IL 60622
-📝 Last verified: 08/2025; HRSA Health Center Program — Last reviewed 07/2026
+📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://auntmarthas.org/
 📞 (877) 692-8686
 🗣 Languages: English, Spanish
-🏥 Services: Primary and family health care (pediatrics, family planning, women’s health), behavioral health, pediatric care, family support services
-⏰ Hours: Mon–Fri ~8:30 AM–4:00 PM
+🏥 Services: Primary and family health care (pediatrics, Family Planning, Women’S Health), Behavioral Health, Pediatric Care, Family Support Services
+⏰ Hours: Mon - Fri ~8:30 AM - 4:00 PM
 
 143. Aunt Martha’s Humboldt Park Community Health Center
 2641 W Division St, Chicago, IL 60622
@@ -1279,107 +1279,107 @@
 📞 (877) 692-8686
 🌐 https://auntmarthas.org/
 🗣 Languages: English, Spanish
-🏥 Services: Primary care, women’s health (OB/GYN), pediatrics, behavioral health, family planning, care coordination
-⏰ Hours: Mon–Fri 8:30 AM–4:00 PM
+🏥 Services: Primary Care, women’s health (OB/GYN), Pediatrics, Behavioral Health, Family Planning, Care Coordination
+⏰ Hours: Mon - Fri 8:30 AM - 4:00 PM
 
 144. Aunt Martha’s Roseland Community Health Center
 45 W 111th St, Chicago, IL 60628
-📝 Last verified: 08/2025; HRSA Health Center Program — Last reviewed 07/2026
+📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://auntmarthas.org/
 📞 (877) 692-8686
 🗣 Languages: English, Spanish
-🏥 Services: Primary and preventive care for all ages (adult and pediatric), women’s health, behavioral health
-⏰ Hours: Mon–Fri 8:00 AM–5:00 PM (varies)
+🏥 Services: Primary and preventive care for all ages (adult and pediatric), Women's Health, Behavioral Health
+⏰ Hours: Mon - Fri 8:00 AM - 5:00 PM (varies)
 
-145. Friend Family Health Center – Cottage Grove (Hyde Park)
+145. Friend Family Health Center  -  Cottage Grove (Hyde Park)
 800 E 55th St, Chicago, IL 60615
 📝 Last verified: 08/2025
 📞 (312) 682-6110
 🌐 https://friendhealth.org/
 🗣 Languages: English, Spanish
-🏥 Services: Comprehensive primary care (adult & pediatric), women’s health, behavioral health, HIV care, dental services
-⏰ Hours: Mon, Tue, Thu, Fri 8:00 AM–5:00 PM; Wed 8:00 AM–8:00 PM
+🏥 Services: Comprehensive primary care (adult & pediatric), Women's Health, Behavioral Health, HIV care, Dental Services
+⏰ Hours: Mon, Tue, Thu, Fri 8:00 AM - 5:00 PM; Wed 8:00 AM - 8:00 PM
 
-146. Friend Family Health Center – Mobile Dental Unit
+146. Friend Family Health Center  -  Mobile Dental Unit
 800 E 55th St, Chicago, IL 60615
-📝 Last verified: 08/2025; HRSA Health Center Program — Last reviewed 07/2026
+📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://friendhealth.org/
 📞 (773) 702-0600
 🗣 Languages: English, Spanish
 🏥 Services: Mobile dental clinic providing preventive and basic dental care
-⏰ Hours: Varies (mobile clinic events – by appointment)
+⏰ Hours: Varies (mobile clinic events  -  by appointment)
 
-147. Friend Health – Cottage Grove Center
+147. Friend Health  -  Cottage Grove Center
 6250 S Cottage Grove Ave, Chicago, IL 60637
-📝 Ryan White HIV/AIDS Program (HRSA HAB) provider — Last reviewed 07/2026; Last verified: 08/2025; HRSA Health Center Program — Last reviewed 07/2026
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026; Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://friendhealth.org/
 📞 (312) 682-6110
 🗣 Languages: English, Spanish
-🏥 Services: Ryan White HIV/AIDS Program; Primary care (family medicine), pediatrics, women’s health, behavioral health, infectious disease, on-site pharmacy
-⏰ Hours: Mon & Wed 8 AM–8 PM; Tue & Thu 9 AM–5 PM; Fri 8 AM–4:30 PM; Sat 8 AM–12 PM
+🏥 Services: Ryan White HIV/AIDS Program, Primary care (family medicine), Pediatrics, Women's Health, Behavioral Health, Infectious Disease, On-Site Pharmacy
+⏰ Hours: Mon & Wed 8 AM - 8 PM; Tue & Thu 9 AM - 5 PM; Fri 8 AM - 4:30 PM; Sat 8 AM - 12 PM
 
 148. Beloved Community Family Wellness Center (Englewood)
 6821 S Halsted St, Chicago, IL 60621
-📝 Last verified: 08/2025; HRSA Health Center Program — Last reviewed 07/2026
+📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://bcfwc.org/
 📞 (773) 651-3629
 🗣 Languages: English, Spanish
-🏥 Services: Comprehensive primary care for all ages (adult, pediatric), women’s health (OB/GYN), behavioral health, dental care, chronic disease management
-⏰ Hours: Mon & Thu 8:30 AM–7:00 PM; Tue/Wed/Fri 8:30 AM–5:30 PM; Sat 8:30 AM–2:00 PM
+🏥 Services: Comprehensive primary care for all ages (adult, Pediatric), women’s health (OB/GYN), Behavioral Health, Dental Care, Chronic Disease Management
+⏰ Hours: Mon & Thu 8:30 AM - 7:00 PM; Tue/Wed/Fri 8:30 AM - 5:30 PM; Sat 8:30 AM - 2:00 PM
 
-149. Beloved Community FWC – Halsted Dental Clinic
+149. Beloved Community FWC  -  Halsted Dental Clinic
 6853 S Halsted St Ste 1A, Chicago, IL 60621
 📝 Last verified: 08/2025
 📞 (877) 991-6273
 🌐 https://bcfwc.org/
 🗣 Languages: English, Spanish
-🏥 Services: Comprehensive dental services (exams, cleanings, fillings, extractions) for all ages
-⏰ Hours: Mon–Fri ~8:30 AM–5:00 PM (closed Sat/Sun)
+🏥 Services: Comprehensive dental services (exams, Cleanings, Fillings, Extractions) For All Ages
+⏰ Hours: Mon - Fri ~8:30 AM - 5:00 PM (closed Sat/Sun)
 
-150. IWS Family Health – Dunning
+150. IWS Family Health  -  Dunning
 6416 W Belmont Ave, Chicago, IL 60634
-📝 Last verified: 08/2025; HRSA Health Center Program — Last reviewed 07/2026
+📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://iwsfamilyhealth.org/
 📞 (773) 782-2800
 🗣 Languages: English, Spanish (bilingual staff)
-🏥 Services: Pediatric primary care (well-child visits, immunizations, acute/chronic illness management, developmental screenings)
-⏰ Hours: Mon & Wed 9:30 AM–6:00 PM; Tue & Thu 8:30 AM–5:00 PM; Fri 8:00 AM–4:30 PM; 2 Saturdays/month 8:00 AM–2:00 PM
+🏥 Services: Pediatric primary care (well-child visits, Immunizations, Acute/Chronic Illness Management, Developmental Screenings)
+⏰ Hours: Mon & Wed 9:30 AM - 6:00 PM; Tue & Thu 8:30 AM - 5:00 PM; Fri 8:00 AM - 4:30 PM; 2 Saturdays/month 8:00 AM - 2:00 PM
 
-151. IWS Family Health – Logan Square (Angel Harvey Center)
+151. IWS Family Health  -  Logan Square (Angel Harvey Center)
 3600 W Fullerton Ave, Chicago, IL 60647
-📝 Last verified: 08/2025; HRSA Health Center Program — Last reviewed 07/2026
+📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://iwsfamilyhealth.org/
 📞 (773) 782-2800
 🗣 Languages: English, Spanish, Polish
-🏥 Services: Full-spectrum primary care (adult and pediatric), prenatal care, dental, counseling, care coordination
-⏰ Hours: Mon, Wed, Thu 8:00 AM–8:00 PM; Tue 8:00 AM–6:00 PM; Fri 8:00 AM–5:00 PM; 2nd & 4th Sat 8:00 AM–2:00 PM
+🏥 Services: Full-spectrum primary care (adult and pediatric), Prenatal Care, Dental, Counseling, Care Coordination
+⏰ Hours: Mon, Wed, Thu 8:00 AM - 8:00 PM; Tue 8:00 AM - 6:00 PM; Fri 8:00 AM - 5:00 PM; 2nd & 4th Sat 8:00 AM - 2:00 PM
 
-152. Lawndale Christian Health Center – Main Clinic
+152. Lawndale Christian Health Center  -  Main Clinic
 3860 W Ogden Ave, Chicago, IL 60623
-📝 Ryan White HIV/AIDS Program (HRSA HAB) provider — Last reviewed 07/2026; Last verified: 08/2025; HRSA Health Center Program — Last reviewed 07/2026
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026; Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://lawndale.org/
 📞 (773) 843-3000
 🗣 Languages: English, Spanish
-🏥 Services: Ryan White HIV/AIDS Program; Comprehensive primary care for all ages, behavioral health, women’s health/prenatal, HIV care, specialty care referrals
-⏰ Hours: Mon 8:30 AM–7:00 PM; Tue 7:15 AM–7:00 PM; Wed–Fri 7:15 AM–5:00 PM; Sat 8:00 AM–12:30 PM
+🏥 Services: Ryan White HIV/AIDS Program, Comprehensive primary care for all ages, Behavioral Health, Women’S Health/Prenatal, HIV care, Specialty Care Referrals
+⏰ Hours: Mon 8:30 AM - 7:00 PM; Tue 7:15 AM - 7:00 PM; Wed - Fri 7:15 AM - 5:00 PM; Sat 8:00 AM - 12:30 PM
 
 153. Little Village Lawndale HS Campus Clinic (Alivio Medical Center)
 3120 S Kostner Ave, Chicago, IL 60623
-📝 Last verified: 08/2025; HRSA Health Center Program — Last reviewed 07/2026
+📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://alivio.org/
 📞 (773) 254-1400
 🗣 Languages: English, Spanish (bilingual staff)
-🏥 Services: Preventive primary care for adolescents (school physicals, immunizations, STI testing & treatment, mental health counseling)
-⏰ Hours: Tue & Wed 8:30 AM–12:00 PM, 1:00–4:30 PM; Fri 8:30 AM–12:00 PM, 1:00–4:30 PM (Mon/Thu/Sat/Sun closed)
+🏥 Services: Preventive primary care for adolescents (school physicals, Immunizations, STI testing & treatment, Mental Health Counseling)
+⏰ Hours: Tue & Wed 8:30 AM - 12:00 PM, 1:00 - 4:30 PM; Fri 8:30 AM - 12:00 PM, 1:00 - 4:30 PM (Mon/Thu/Sat/Sun closed)
 
-154. Hamdard Health – Rogers Park
+154. Hamdard Health  -  Rogers Park
 1542 W Devon Ave, Chicago, IL 60660
-📝 Last verified: 08/2025; HRSA Health Center Program — Last reviewed 07/2026
+📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://hamdardhealth.org/
 📞 (773) 465-4600
 🗣 Languages: English, Spanish (and other languages as needed)
-🏥 Services: Family medicine and integrated support services (adult & pediatric care, mental health counseling, case management, preventive health, PrEP, etc.)
-⏰ Hours: Mon–Fri 7:00 AM–5:00 PM; 1st & 3rd Sat 8:00 AM–12:00 PM
+🏥 Services: Family medicine and integrated support services (adult & pediatric care, Mental Health Counseling, Case Management, Preventive Health, PrEP, Etc.)
+⏰ Hours: Mon - Fri 7:00 AM - 5:00 PM; 1st & 3rd Sat 8:00 AM - 12:00 PM
 
 155. SEVA Free Clinic (UChicago)
 2645 W Peterson Ave, Chicago, IL 60659
@@ -1388,7 +1388,7 @@
 🌐 https://pritzker.uchicago.edu/
 🗣 Languages: English, Hindi/Urdu (South Asian languages)
 🏥 Services: Weekly free health clinic providing basic primary care and health screenings for uninsured individuals (adults and children)
-⏰ Hours: Fridays 5:30 PM–8:30 PM
+⏰ Hours: Fridays 5:30 PM - 8:30 PM
 
 156. Bridgeport Free Clinic (UChicago)
 3001 S Lowe Ave, Chicago, IL 60616
@@ -1396,8 +1396,8 @@
 📞 (773) 702-1939
 🌐 https://pritzker.uchicago.edu/
 🗣 Languages: English, Chinese (Mandarin) (interpretation available)
-🏥 Services: Free primary care for uninsured community members – acute care, physicals, screenings, referrals
-⏰ Hours: Tuesdays 5:30 PM–7:00 PM
+🏥 Services: Free primary care for uninsured community members  -  acute care, Physicals, Screenings, Referrals
+⏰ Hours: Tuesdays 5:30 PM - 7:00 PM
 
 157. Washington Park Children’s Free Clinic (UChicago/CYP)
 5350 S Prairie Ave, Chicago, IL 60615
@@ -1405,33 +1405,33 @@
 📞 (773) 702-1939
 🌐 https://pritzker.uchicago.edu/
 🗣 Languages: English
-🏥 Services: Free pediatric health care – well-child checkups, immunizations, school/sports physicals, acute illness care, health education
-⏰ Hours: Tuesdays 5:30 PM–7:00 PM
+🏥 Services: Free pediatric health care  -  well-child checkups, Immunizations, School/Sports Physicals, Acute Illness Care, Health Education
+⏰ Hours: Tuesdays 5:30 PM - 7:00 PM
 
-158. CommunityHealth Clinic (CHC) – West Town
+158. CommunityHealth Clinic (CHC)  -  West Town
 2611 W Chicago Ave, Chicago, IL 60622
 📝 Last verified: 08/2025
 📞 (773) 395-9900
 🌐 https://communityhealth.org/
 🗣 Languages: English, Spanish, Polish (services available in multiple languages)
-🏥 Services: Comprehensive free health center for uninsured adults – primary care, chronic disease management, women’s health, dental, behavioral health, on-site pharmacy and labs
-⏰ Hours: Mon & Wed 8:30 AM–7:30 PM; Tue 8:30 AM–5:30 PM; Thu 8:30 AM–5:30 PM; Fri 8:30 AM–2:30 PM; Sat 8:30 AM–1:00 PM (by appointment)
+🏥 Services: Comprehensive free health center for uninsured adults  -  primary care, Chronic Disease Management, Women's Health, Dental, Behavioral Health, On-Site Pharmacy And Labs
+⏰ Hours: Mon & Wed 8:30 AM - 7:30 PM; Tue 8:30 AM - 5:30 PM; Thu 8:30 AM - 5:30 PM; Fri 8:30 AM - 2:30 PM; Sat 8:30 AM - 1:00 PM (by appointment)
 
 159. South Side Free Clinic (SSFC)
-New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
+New Beginnings Church  -  6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 📝 Last verified: 08/2025
 📞 (773) 923-8270
 🌐 https://phnewsite.squarespace.com/
 🗣 Languages: English
-🏥 Services: Monthly free clinic offering basic medical screenings, primary care consultations, and health education for underserved residents (all ages)
-⏰ Hours: First Sunday of each month, 1:00 PM–4:00 PM
+🏥 Services: Monthly free clinic offering basic medical screenings, Primary Care Consultations, and health education for underserved residents (all ages)
+⏰ Hours: First Sunday of each month, 1:00 PM - 4:00 PM
 
 160. SAMS Free Specialty Clinic (Willowbrook, IL)
 16W631 91st St, Door #12, Willowbrook, IL 60527 (inside Anne M. Jeans Elementary School)
 📝 Last verified: 08/2025
 🌐 https://samscommunityclinic.org/
 🗣 Languages: English (Arabic and Urdu interpretation available)
-🏥 Services: Adult primary care; Cardiology; Obstetrics/Gynecology; Endocrinology; Pulmonology
+🏥 Services: Adult Primary Care, Cardiology, Obstetrics/Gynecology, Endocrinology, Pulmonology
 ⏰ Hours: Open 2 days/month (1st Saturday & 3rd Sunday of the month)
 📞 (630) 474-4724
 📧 samsfreeclinic@gmail.com
@@ -1442,959 +1442,959 @@ New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 📞 (224) 338-9050
 🌐 https://ifnclinic.com
 🗣 Languages: Arabic, Hindi, Spanish, Gujarati, Urdu, Punjabi, Bangla
-🏥 Services: Yearly physicals, COVID testing, chronic disease management, primary care, cardiology
-⏰ Hours: Sundays 10:30 AM – 1:00 PM
+🏥 Services: Yearly physicals, COVID testing, Chronic Disease Management, Primary Care, Cardiology
+⏰ Hours: Sundays 10:30 AM  -  1:00 PM
 
 162. LCHC at Fourth Presbyterian - Chicago Lights
 126 East Chestnut Street, Randolph Room, Chicago, IL, 60611-2094
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 📞 (312) 787-4570
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 🌐 https://www.lawndale.org
 🗣 Languages: English
 
 163. Winfield Moody Health Center
 1276 N Clybourn Ave, Chicago, IL, 60610-2089
-📝 Ryan White HIV/AIDS Program (HRSA HAB) provider — Last reviewed 07/2026
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026
 🌐 http://www.nearnorthhealth.org
 📞 (312) 337-1073
-🏥 Services: Ryan White HIV/AIDS Program care and support services (HIV medical care, case management, and related HAB-funded supports)
+🏥 Services: Ryan White HIV/AIDS Program care and support services (HIV medical care, Case Management, and related HAB-funded supports)
 
 164. LCHC at Lincoln Park Sedgwick
 1521 N Sedgwick St  OFC Nurse, Chicago, IL, 60610-1222
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://lawndale.org
 📞 (872) 588-3000
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 🗣 Languages: English
 
 165. LCHC at Deborah's Place
 1530 N Sedgwick St  BSMT, Chicago, IL, 60610-5853
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://lawndale.org
 📞 (872) 588-3000
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 🗣 Languages: English
 
 166. UNIVERSITY OF ILLINOIS MEDICAL CENTER - MILE SQUARE HEALTH CENTER, NATIONAL TEACHERS ACADEMY HEALTH AND WELLNESS CENTER
 55 W CERMAK RD, CHICAGO, IL, 60616-2001
-📝 Ryan White HIV/AIDS Program (HRSA HAB) provider — Last reviewed 07/2026; HRSA Health Center Program — Last reviewed 07/2026
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://n/a
 📞 (312) 413-3880
-🏥 Services: Ryan White HIV/AIDS Program; HRSA-supported health center (primary and preventive care)
+🏥 Services: Ryan White HIV/AIDS Program, Primary Care
 
 167. LCHC at SPARC
 2241 S Halsted St  RM Resource, Chicago, IL, 60608-4521
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://lawndale.org
 📞 (872) 588-3000
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 🗣 Languages: English
 
 168. Mile Square  Dr. Cynthia Barnes Boyd/Drake Health and Wellness Center
 2710 S. Dearborn, Chicago, IL, 60616
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://oceanhp/uic/edu
 📞 (312) 355-5745
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 
 169. Young Women's Leadership Academy
 2641 S Calumet Ave  RM Clinical1, Chicago, IL, 60616-2901
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://lawndale.org
 📞 (872) 588-3000
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 
 170. LCHC at Lincoln Park Fullerton
 600 W Fullerton Pkwy  OFC Nurse, Chicago, IL, 60614-2614
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://lawndale.org
 📞 (872) 588-3000
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 🗣 Languages: English
 
 171. LCHC at Salvation Army Clybourn
 2258 N Clybourn Ave  RM Conf., Chicago, IL, 60614-3012
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://lawndale.org
 📞 (872) 588-3000
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 🗣 Languages: English
 
 172. Michael Michelini Center for Health
 1431 N Western Ave Ste 209, Chicago, IL, 60622-7712
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 📞 (312) 491-5435
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 
 173. LCHC at Covenant House
 2934 W Lake St  RM CHL, Chicago, IL, 60612-1924
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://lawndale.org
 📞 (872) 588-3000
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 🗣 Languages: English
 
 174. LCHC at Ignite
 3745 S Indiana Ave  RM 7, Chicago, IL, 60653-1602
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://lawndale.org
 📞 (872) 588-3000
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 🗣 Languages: English
 
 175. Louise Landau Health Center
 800 N Kedzie Ave, Chicago, IL, 60651-4100
-📝 Ryan White HIV/AIDS Program (HRSA HAB) provider — Last reviewed 07/2026
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026
 📞 (773) 826-3450
-🏥 Services: Ryan White HIV/AIDS Program care and support services (HIV medical care, case management, and related HAB-funded supports)
+🏥 Services: Ryan White HIV/AIDS Program care and support services (HIV medical care, Case Management, and related HAB-funded supports)
 
 176. LCHC at 3401
 3401 W Roosevelt Rd, Chicago, IL, 60624-4339
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 📞 (872) 588-3000
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 🌐 https://www.lawndale.org
 🗣 Languages: English
 
 177. Erie Westside Health Center at Laura S. Ward Elementary
 646 N Lawndale Ave, Chicago, IL, 60624-1254
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.eriefamilyhealth.org
 📞 (312) 666-3494
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 🗣 Languages: They Speak, English
 ⏰ Hours: Monday: 8:00 AM - 5:30 PM
 
 178. LCHC at American Islamic College-KLEO
 640 W Irving Park Rd  RM 1, Chicago, IL, 60613-3106
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 📞 (872) 588-3183
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 🌐 https://www.lawndale.org
 🗣 Languages: English
 
 179. LCHC at the Gallery
 3824 W Ogden Ave Fl 1, Chicago, IL, 60623-2458
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://lawndale.org
 📞 (872) 588-3000
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 🗣 Languages: English
 
 180. PCC Collaborative Bridges Health Center
 4221 W Lake St, Chicago, IL, 60624-1707
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 📞 (872) 235-0777
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 🌐 https://www.pcccommunitywellness.org
 
 181. Erie Sankofa Village Health Center
 4305 W Madison St, Chicago, IL, 60624-2224
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 📞 (312) 666-3494
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 🌐 https://www.eriefamilyhealth.org
 🗣 Languages: They Speak, English
 ⏰ Hours: Monday: 8:00 AM - 5:30 PM
 
 182. Sunnyside Health Center
 4140 N Broadway St, Chicago, IL, 60613-2121
-📝 Ryan White HIV/AIDS Program (HRSA HAB) provider — Last reviewed 07/2026
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026
 📞 (312) 337-1073
-🏥 Services: Ryan White HIV/AIDS Program care and support services (HIV medical care, case management, and related HAB-funded supports)
+🏥 Services: Ryan White HIV/AIDS Program care and support services (HIV medical care, Case Management, and related HAB-funded supports)
 
 183. UI Health Mile Square Health Center Back of the Yards Dental
 4634 S Bishop St, Chicago, IL, 60609-3240
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://hospital.uillinois.edu/patients-and-visitors/mile-square-federally-qualified-health-center
 📞 (312) 355-5645
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 
 184. North/Kostner Health Center
 1520 N Kostner Ave, Chicago, IL, 60651-1610
-📝 Ryan White HIV/AIDS Program (HRSA HAB) provider — Last reviewed 07/2026
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026
 🌐 http://www.nearnorthhealth.org
 📞 (312) 337-1073
-🏥 Services: Ryan White HIV/AIDS Program care and support services (HIV medical care, case management, and related HAB-funded supports)
+🏥 Services: Ryan White HIV/AIDS Program care and support services (HIV medical care, Case Management, and related HAB-funded supports)
 🗣 Languages: That Was Easy For Me To Understand
 
 185. LCHC at Cornerstone Community Outreach
 4615 N Clifton Ave  OFC 1, Chicago, IL, 60640-5013
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://lawndale.org
 📞 (872) 588-3000
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 🗣 Languages: English
 
 186. LCHC at DuSable Best Western
 4900 S DuSable Lake Shore Dr  RM 202, Chicago, IL, 60615-3277
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://lawndale.org
 📞 (872) 588-3000
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 🗣 Languages: English
 
 187. PCC Thresholds Health Center
 5801 W Corcoran Pl, Chicago, IL, 60644-1854
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://pccwellness.org
 📞 (773) 378-3347
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 
 188. PCC Dr. Tong Health Center
 1 Erie Ct STE 6040, Oak Park, IL, 60302-2510
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.pccwellness.org
 📞 (708) 386-1301
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 
 189. WEST SUBURBAN MEDICAL CENTER
 3 Erie Ct, Oak Park, IL, 60302-2519
-📝 HRSA Health Center Program — Last reviewed 07/2026
-🌐 http://westsuburbanmedicalcenter.reshealth.org/sub_wsmc/default.cfm
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 http://westsuburbanmedicalcenter.reshealth.org/Sub Wsmc/default.cfm
 📞 (708) 383-0113
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 
 190. PCC Walk-In Wellness Center
 3 Erie Ct STE 1300, Oak Park, IL, 60302-2519
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 📞 (708) 406-3929
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 🌐 https://www.pcccommunitywellness.org
 
 191. LCHC at MWRD
 3034 W Foster Ave  RM Community, Chicago, IL, 60625-4154
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://lawndale.org
 📞 (872) 588-3000
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 🗣 Languages: English
 
 192. LCHC at Phoenix House
 5300 S Pulaski Rd  RM Community, Chicago, IL, 60632-4224
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://lawndale.org
 📞 (872) 588-3000
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 🗣 Languages: English
 
 193. LCHC at Olive Branch Mission
 6310 S Claremont Ave  Chapel, Chicago, IL, 60636-2439
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 📞 (872) 588-3000
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 🌐 https://www.lawndale.org
 🗣 Languages: English
 
 194. UI Health Mile Square Health Center Dental - 55th and Pulaski
 5525 S. Pulaski Road  STE 150, Chicago, IL, 60629-4400
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://hospital.uillinois.edu/mile-square-health-center
 📞 (312) 490-0060
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 
 195. LCHC at Kovler Center
 1331 W Albion Ave  RM 205, Chicago, IL, 60626-4701
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://lawndale.org
 📞 (872) 588-3000
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 🗣 Languages: English
 
 196. LCHC at Lyte Collective
 549 E 76th St, Health Clinic, Chicago, IL, 60619-2430
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 📞 (872) 731-2257
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 🌐 https://www.lawndale.org
 🗣 Languages: English
 
 197. Midwest Refuah Health Center- Behavioral Health
 6374 N Lincoln Ave, Ste 305, Chicago, IL, 60659-1283
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.https://www.midwestrefuahhealthcenter.org
 📞 (872) 270-5999
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 
 198. UI Health Mile Square Health Center Primary and Immediate Care Center
 839 W 79th Street  FL 2, Chicago, IL, 60620-2501
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://hospital.uillinois.edu/patients-and-visitors/mile-square-federally-qualified-health-center
 📞 (312) 996-2000
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 
 199. LCHC at Good News Partners
 1600 W Jonquil Ter, Chicago, IL, 60626-1104
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 📞 773-764-4998 x108
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 🌐 https://www.lawndale.org
 🗣 Languages: English
 
 200. LCHC at Robert Johnson Inner Voice
 8040 S. Western Ave, Medication Room, Chicago, IL, 60620-5936
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 📞 (312) 994-4351
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 🌐 https://www.lawndale.org
 🗣 Languages: English
 
 201. TCA Chatham II
 8419 S Cottage Grove Ave, Chicago, IL, 60619-6113
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 📞 (773) 995-6300
 🌐 http://www.tcahealth.org
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 
 202. Erie Evanston/Skokie Health Center
 1285 Hartrey, Evanston, IL, 60202-1056
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.eriefamilyhealth.org
 📞 (312) 666-3494
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 🗣 Languages: They Speak, English
 ⏰ Hours: Monday: 8:00 AM - 5:30 PM
 
 203. Hamdard Health Skokie
 4159 Main St, Skokie, IL, 60076-2780
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.hamdardhealth.org
 📞 (773) 465-4600
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 🗣 Languages: Holds A Deep Appreciation For The Ethnic, Cultural Traditions That Info, Urdu
 ⏰ Hours: Monday-Friday: 7:00am - 5:00pm
 
 204. ACCESS Des Plaines Valley Health Center
 7450 W   63rd St, Summit Argo, IL, 60501-1816
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.accesscommunityhealth.net
 📞 (708) 458-0757
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 
 205. Pillars Community Health BEDS Plus Summit
 7666 W 63rd Street, Summit, IL, 60501-1812
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 📞 (708) 745-5277
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 🌐 http://www.pillarscommunityhealth.org
 🗣 Languages: English
 
 206. Pillars Community Health La Grange Park
 321 N La Grange Rd, La Grange Park, IL, 60526-5622
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.pillarscommunityhealth.org
 📞 (708) 745-5277
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 🗣 Languages: English
 
 207. LCHC at Roseland Christian Ministries
 10858 S Michigan Ave, Hall of Passages, Chicago, IL, 60628-3512
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 📞 (773) 264-5665
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 🌐 https://www.lawndale.org
 🗣 Languages: English
 
-208. Greater Family Health – 10225 Grand Ave
+208. Greater Family Health  -  10225 Grand Ave
 10225 Grand Ave, Franklin Park, IL, 60131-3138
-📝 Ryan White HIV/AIDS Program (HRSA HAB) provider — Last reviewed 07/2026; HRSA Health Center Program — Last reviewed 07/2026
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://greaterfamilyhealth.org
 📞 (844) 599-3700
-🏥 Services: Ryan White HIV/AIDS Program; HRSA-supported health center (primary and preventive care)
+🏥 Services: Ryan White HIV/AIDS Program, Primary Care
 🗣 Languages: English Espa, English
 
 209. Southeast Side Community Health Center
 3528 E  118th St, Chicago, IL, 60617-7314
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.auntmarthas.org
 📞 (877) 692-8686
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 
 210. TCA Health, Inc.
 1029 E  130th St, Chicago, IL, 60628-6908
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://none
 📞 (773) 995-6300
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 
 211. Mobile Student Health Clinic, Parking Lot B
 1029 East 130th St.,  Pkg Lot B, Chicago, IL, 60628-6062
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.tcahealth.org
 📞 (773) 995-6300
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 
 212. CARVER MILITARY ACADEMY/TCA HLTH,INC
 13100 S Doty Ave, Chicago, IL, 60827-1597
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://none
 📞 (773) 535-5357
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 
-213. TCA Health – Hegewisch
+213. TCA Health  -  Hegewisch
 13336 S Baltimore, 1st Floor, Chicago, IL, 60633
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.tcahealth.org
 📞 773-995-6300 x213
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 
-214. Greater Family Health – 1515 Lee St
+214. Greater Family Health  -  1515 Lee St
 1515 Lee St, Des Plaines, IL, 60018-1518
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 📞 (844) 599-3700
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 🌐 http://www.greaterfamilyhealth.org
 🗣 Languages: English Espa, English
 
 215. VNA Health Center - Bensenville
 213 W Main St, Bensenville, IL, 60106-2134
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 📞 (630) 892-4355
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 🌐 http://www.vnahealth.com
 
 216. VNA Health Care - Villa Park
 101 East St. Charles Road,  2nd Floor, Villa Park, IL, 60181-2476
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 📞 (630) 892-4355
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 🌐 http://www.vnahealth.com
 
 217. Hamdard Health Addison
 228 E Lake St, Addison, IL, 60101-2889
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.hamdardhealth.org/
 📞 630-835-1430 x258
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 🗣 Languages: Holds A Deep Appreciation For The Ethnic, Cultural Traditions That Info, Urdu
 ⏰ Hours: Monday-Friday: 7:00am - 5:00pm
 
 218. ACCESS Genesis Center for Health and Empowerment
 1 N Broadway St, Des Plaines, IL, 60016-2335
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.accesscommunityhealth.net
 📞 (847) 298-3150
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 
 219. South Suburban Homeless Outreach Center
 15420 Dixie Hwy Unit G, Harvey, IL, 60426-3479
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.auntmarthas.org
 📞 (877) 692-8686
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 
 220. South Holland Community Health Center
 52 W  162nd St, South Holland, IL, 60473-2061
-📝 Ryan White HIV/AIDS Program (HRSA HAB) provider — Last reviewed 07/2026; HRSA Health Center Program — Last reviewed 07/2026
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.auntmarthas.org
 📞 (877) 692-8686
-🏥 Services: Ryan White HIV/AIDS Program; HRSA-supported health center (primary and preventive care)
+🏥 Services: Ryan White HIV/AIDS Program, Primary Care
 
 221. Legacy Medical Care - Addison
 2055 W Army Trail Rd Ste 104, Addison, IL, 60101-1478
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.legacymedicalcare.org
 📞 (630) 599-5400
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 
 222. Hazel Crest Women's Health Center
 17850 Kedzie Ave STE 3200, Hazel Crest, IL, 60429-2086
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.auntmarthas.org
 📞 (877) 692-8686
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 
-223. Greater Family Health – 300 MCHENRY RD
+223. Greater Family Health  -  300 MCHENRY RD
 300 MCHENRY RD, WHEELING, IL, 60090-2696
-📝 Ryan White HIV/AIDS Program (HRSA HAB) provider — Last reviewed 07/2026; HRSA Health Center Program — Last reviewed 07/2026
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.greaterfamilyhealth.org
 📞 (844) 599-3700
-🏥 Services: Ryan White HIV/AIDS Program; HRSA-supported health center (primary and preventive care)
+🏥 Services: Ryan White HIV/AIDS Program, Primary Care
 🗣 Languages: English Espa, English
 
 224. VNA Health Center - Carol Stream
 350 S Schmale Rd Ste 150, Carol Stream, IL, 60188-2778
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.vnahealth.com
 📞 (630) 892-4355
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 
 225. Legacy Medical Care - Arlington Heights
 3030 W Salt Creek Ln, Ste 200, Arlington Heights, IL, 60005-5002
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.legacymedicalcare.org
 📞 (847) 259-8379
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 
 226. Aunt Martha's Chicago Heights Pediatric Health and Wellness Center
 500 Dixie Hwy, Chicago Heights, IL, 60411-1741
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.auntmarthas.org
 📞 (877) 692-8686
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 🗣 Languages: Spanish, English
 
 227. AUNT MARTHA'S WOMEN'S HLTH CTR
 233 W JOE ORR ROAD BLDG S, CHICAGO HEIGHTS, IL, 60411-1744
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.auntmarthas.org
 📞 (877) 692-8686
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 🗣 Languages: Spanish, English
 
 228. Community Health Fairs
 233 W Joe Orr Rd Bldg North, Chicago Heights, IL, 60411-1744
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.auntmarthas.org
 📞 (877) 692-8686
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 
 229. ACCESS Family Health Society
 152 W. LINCOLN HWY, CHICAGO HEIGHTS, IL, 60411-2619
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.accesscommunityhealth.net
 📞 (708) 754-9687
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 
 230. GPS-Maurice Fitts Page Whole Health and Wellness Health Center
 450 West 14th Street, Chicago Heights, IL, 60411
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.gpsbh.org
 📞 (708) 985-3040
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 ⏰ Hours: Fri. 9:00
 
 231. VNA Health Center- DuPage County Health Department
 111 N County Farm Rd  FL 1 Clinic, Wheaton, IL, 60187-3977
-📝 Ryan White HIV/AIDS Program (HRSA HAB) provider — Last reviewed 07/2026; HRSA Health Center Program — Last reviewed 07/2026
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.vnahealth.com
 📞 (630) 892-4355
-🏥 Services: Ryan White HIV/AIDS Program; HRSA-supported health center (primary and preventive care)
+🏥 Services: Ryan White HIV/AIDS Program, Primary Care
 
 232. Will County Community Health Center Brooks Middle School
 350 Blair Ln, Bolingbrook, IL, 60440-1801
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 📞 (630) 759-6340
 🌐 http://willcountyhealth.org
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 
 233. VNA Health Center - Bolingbrook
 396 Remington Blvd Ste 230, Bolingbrook, IL, 60440-4304
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.vnahealth.com
 📞 (630) 892-4355
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 
-234. Greater Family Health – 345 W Northwest Hwy
+234. Greater Family Health  -  345 W Northwest Hwy
 345 W Northwest Hwy, Palatine, IL, 60067-2414
-📝 Ryan White HIV/AIDS Program (HRSA HAB) provider — Last reviewed 07/2026; HRSA Health Center Program — Last reviewed 07/2026
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026; HRSA Health Center Program  -  Last reviewed 07/2026
 📞 (855) 599-3700
-🏥 Services: Ryan White HIV/AIDS Program; HRSA-supported health center (primary and preventive care)
+🏥 Services: Ryan White HIV/AIDS Program, Primary Care
 🌐 http://greaterfamilyhealth.org
 🗣 Languages: English Espa, English
 
-235. Greater Family Health – 1515 E Lake St Ste 202
+235. Greater Family Health  -  1515 E Lake St Ste 202
 1515 E Lake St Ste 202, Hanover Park, IL, 60133-7152
-📝 Ryan White HIV/AIDS Program (HRSA HAB) provider — Last reviewed 07/2026; HRSA Health Center Program — Last reviewed 07/2026
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.greaterfamilyhealth.org
 📞 (844) 599-3700
-🏥 Services: Ryan White HIV/AIDS Program; HRSA-supported health center (primary and preventive care)
+🏥 Services: Ryan White HIV/AIDS Program, Primary Care
 🗣 Languages: English Espa, English
 
 236. Legacy Medical Care - Hanover Park
 6620 Barrington Rd, Hanover Park, IL, 60133-3935
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 📞 (630) 830-5926
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 🌐 http://www.legacymedicalcare.org
 
 237. VNA Health Care Romeoville
 160 N Independence Blvd, Romeoville, IL, 60446-1803
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 📞 (630) 892-4355
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 🌐 http://www.vnahealth.com
 
-238. Greater Family Health – 135 Irving Park Road
+238. Greater Family Health  -  135 Irving Park Road
 135 Irving Park Road, Streamwood, IL, 60107
-📝 Ryan White HIV/AIDS Program (HRSA HAB) provider — Last reviewed 07/2026; HRSA Health Center Program — Last reviewed 07/2026
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.greaterfamilyhealth.org
 📞 (844) 599-3700
-🏥 Services: Ryan White HIV/AIDS Program; HRSA-supported health center (primary and preventive care)
+🏥 Services: Ryan White HIV/AIDS Program, Primary Care
 🗣 Languages: English Espa, English
 
 239. VNA Health Center - Elgin Villa
 801 Villa St, Elgin, IL, 60120
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.vnahealth.com
 📞 (847) 717-6455
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 
 240. VNA Health Center - Aurora Indian
 1400 Indian Ave, Aurora, IL, 60505-3137
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.vnahealth.com
 📞 (630) 892-4355
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 
 241. Belvidere Medical Building
 2400 Belvidere Rd, Waukegan, IL, 60085-6165
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.lakecountyil.gov/health
 📞 (847) 377-8400
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 
 242. Will County Community Health Center at Will County Health Department
 501 Ella Ave, Joliet, IL, 60433-2799
-📝 Ryan White HIV/AIDS Program (HRSA HAB) provider — Last reviewed 07/2026; HRSA Health Center Program — Last reviewed 07/2026
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026; HRSA Health Center Program  -  Last reviewed 07/2026
 📞 (815) 727-8670
 🌐 http://www.willcountyhealth.org
-🏥 Services: Ryan White HIV/AIDS Program; HRSA-supported health center (primary and preventive care)
+🏥 Services: Ryan White HIV/AIDS Program, Primary Care
 
 243. Libertyville Behavioral Health Home
 18698 W Peterson Rd, Libertyville, IL, 60048-1052
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 📞 (847) 377-8180
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 
-244. Greater Family Health – 373 Summit St
+244. Greater Family Health  -  373 Summit St
 373 Summit St, Elgin, IL, 60120-3733
-📝 Ryan White HIV/AIDS Program (HRSA HAB) provider — Last reviewed 07/2026; HRSA Health Center Program — Last reviewed 07/2026
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.greaterfamilyhealth.org
 📞 (844) 599-3700
-🏥 Services: Ryan White HIV/AIDS Program; HRSA-supported health center (primary and preventive care)
+🏥 Services: Ryan White HIV/AIDS Program, Primary Care
 🗣 Languages: English Espa, English
 
-245. Greater Family Health – 450 Dundee Ave
+245. Greater Family Health  -  450 Dundee Ave
 450 Dundee Ave, Elgin, IL, 60120-4205
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.greaterfamilyhealth.org
 📞 (844) 599-3700
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 🗣 Languages: English Espa, English
 
 246. CARPENTERSVILLE COMMUNITY HEALTH CENTER
 3003 WAKEFIELD BLVD., CARPENTERSVILLE, IL, 60110-2422
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.auntmarthas.org
 📞 (877) 692-8686
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 
 247. VNA Health Care- Joliet
 1501 W Jefferson St, Joliet, IL, 60435-6703
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.vnahealth.com
 📞 (630) 978-2532
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 
 248. Legacy Medical Center- East Dundee
 151 Dundee Ave BLDG, East Dundee, IL, 60118-1648
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 📞 (847) 749-2248
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 🌐 http://www.legacymedicalcare.org
 
 249. Erie Waukegan Health Center
 2323 Grand Ave, Waukegan, IL, 60085-3312
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 📞 (312) 666-3494
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 🌐 https://www.eriefamilyhealth.org
 🗣 Languages: They Speak, English
 ⏰ Hours: Monday: 8:00 AM - 5:30 PM
 
 250. Association for Individual Development - Bowes Road
 1135 Bowes Road, Elgin, IL, 60123
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.vnahealth.com
 📞 (847) 717-6455
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 
 251. Aunt Martha's Health Center West Joliet
 333 N Madison STE 150, Joliet, IL, 60435
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.auntmarthas.org
 📞 (877) 692-8686
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 🗣 Languages: Spanish, English
 
 252. WAYSIDE CROSS MINISTRIES
 215 E. New York Street, AURORA, IL, 60505-3491
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.auntmarthas.org
 📞 (877) 692-8686
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 
 253. Outpatient Substance Abuse Program
 3004 Grand Ave, Waukegan, IL, 60085-2321
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 📞 (847) 377-8120
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 
 254. The Health Outreach Center
 76 S Lasalle St, Aurora, IL, 60505-3375
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.auntmarthas.org
 📞 (877) 692-8686
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 
 255. Gateway Foundation
 400 Mercy Ln, Aurora, IL, 60506-2447
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.auntmarthas.org
 📞 (877) 692-8686
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 
 256. VNA Health Care - Weston Avenue, Aurora
 323 Weston Avenue  STE 100, 200, Aurora, IL, 60505-4799
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 📞 (630) 892-4355
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 🌐 http://www.vnahealth.com
 
-257. Greater Family Health – 1435 N Randall Rd Ste 408
+257. Greater Family Health  -  1435 N Randall Rd Ste 408
 1435 N Randall Rd Ste 408, Elgin, IL, 60123-2305
-📝 Ryan White HIV/AIDS Program (HRSA HAB) provider — Last reviewed 07/2026; HRSA Health Center Program — Last reviewed 07/2026
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.greaterfamilyhealth.org
 📞 (844) 599-3700
-🏥 Services: Ryan White HIV/AIDS Program; HRSA-supported health center (primary and preventive care)
+🏥 Services: Ryan White HIV/AIDS Program, Primary Care
 🗣 Languages: English Espa, English
 
 258. Zion Health Center
 1911 27th St, Zion, IL, 60099-2542
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 📞 (847) 984-5400
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 
 259. MID LAKES MEDICAL AND DENTAL BUILDING
 224 W Clarendon Dr, Round Lake Beach, IL, 60073-1896
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.lakecountyil.gov/health
 📞 (847) 984-5100
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 
-260. Greater Family Health – 3901 Mercy Dr
+260. Greater Family Health  -  3901 Mercy Dr
 3901 Mercy Dr, Mchenry, IL, 60050-3151
-📝 Ryan White HIV/AIDS Program (HRSA HAB) provider — Last reviewed 07/2026; HRSA Health Center Program — Last reviewed 07/2026
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.greaterfamilyhealth.org
 📞 (844) 599-3700
-🏥 Services: Ryan White HIV/AIDS Program; HRSA-supported health center (primary and preventive care)
+🏥 Services: Ryan White HIV/AIDS Program, Primary Care
 🗣 Languages: English Espa, English
 
 261. Kankakee Community Health Center
 1777 E. Court Street, Kankakee, IL, 60901-2670
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.auntmarthas.org
 📞 (877) 692-8686
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 
 262. Mobile Medical and Dental Van 02
 202 N Schuyler Ave, Kankakee, IL, 60901-3865
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.chpofil.org
 📞 (815) 932-6045
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 
-263. Greater Family Health – 165 E Plank Rd
+263. Greater Family Health  -  165 E Plank Rd
 165 E Plank Rd, Sycamore, IL, 60178-8757
-📝 Ryan White HIV/AIDS Program (HRSA HAB) provider — Last reviewed 07/2026; HRSA Health Center Program — Last reviewed 07/2026
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.greaterfamilyhealth.org
 📞 (844) 599-3700
-🏥 Services: Ryan White HIV/AIDS Program; HRSA-supported health center (primary and preventive care)
+🏥 Services: Ryan White HIV/AIDS Program, Primary Care
 🗣 Languages: English Espa, English
 
-264. Greater Family Health – 2550 N Annie Glidden Rd
+264. Greater Family Health  -  2550 N Annie Glidden Rd
 2550 N Annie Glidden Rd, Dekalb, IL, 60115-1389
-📝 Ryan White HIV/AIDS Program (HRSA HAB) provider — Last reviewed 07/2026; HRSA Health Center Program — Last reviewed 07/2026
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026; HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.greaterfamilyhealth.org
 📞 (844) 599-3700
-🏥 Services: Ryan White HIV/AIDS Program; HRSA-supported health center (primary and preventive care)
+🏥 Services: Ryan White HIV/AIDS Program, Primary Care
 🗣 Languages: English Espa, English
 
 265. Susana P. Castro Health Center - Dental Clinic
 62 N Ayer Street, Suites C & D, Harvard, IL, 60033-2871
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.chpofil.org
 📞 (815) 943-4339
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 
 266. Crusader Clinic - Belvidere
 1050 Logan Ave, Belvidere, IL, 61008-3966
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.crusaderhealth.org
 📞 (815) 490-1600
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 🗣 Languages: Audio, Accessible Electronic Formats, Other Formats, English, ASL
 
 267. Crusader Community Health on Linden
 4592 Linden Rd, Rockford, IL, 61109
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.crusaderhealth.org
 📞 (815) 490-1600
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 🗣 Languages: Audio, Accessible Electronic Formats, Other Formats, English, ASL
 
 268. Crusader Clinic on Broadway
 1100 Broadway, Rockford, IL, 61104-1429
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.crusaderhealth.org
 📞 (815) 490-1600
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 🗣 Languages: Audio, Accessible Electronic Formats, Other Formats, English, ASL
 
 269. UI Health Mile Square Health Center L.P. Johnson Rockford
 1221 E State St, Rockford, IL, 61104-2231
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 📞 (815) 972-1000
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 🌐 http://hospital.uillinois.edu/patients-and-visitors/mile-square-federally-qualified-health-center
 
 270. Crusader Community Health Loves Park
 6115 N    2nd St, Loves Park, IL, 61111-4155
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.crusaderhealth.org
 📞 (815) 490-1600
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 🗣 Languages: Audio, Accessible Electronic Formats, Other Formats, English, ASL
 
 271. Rosecrance Ware Center
 2704 N. Main Street, Rockford, IL, 61103
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.crusaderhealth.org
 📞 (815) 490-1600
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 🗣 Languages: Audio, Accessible Electronic Formats, Other Formats, English, ASL
 
 272. Crusader Clinic on West State Street
 1200 W State St, Rockford, IL, 61102-2112
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.crusaderhealth.org
 📞 (815) 490-1600
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 🗣 Languages: Audio, Accessible Electronic Formats, Other Formats, English, ASL
 
 273. Crusader Community Health-South Beloit High School
 245 Prairie Hill Rd, South Beloit, IL, 61080-2579
-📝 HRSA Health Center Program — Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.crusaderhealth.org
 📞 (815) 490-1600
-🏥 Services: HRSA-supported health center (primary and preventive care)
+🏥 Services: Primary Care
 🗣 Languages: Audio, Accessible Electronic Formats, Other Formats, English, ASL
 
 274. AIDS FOUNDATION OF CHICAGO
 200 W Monroe St STE 1150, Chicago, IL, 60606-5036
-📝 Ryan White HIV/AIDS Program (HRSA HAB) provider — Last reviewed 07/2026
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026
 📞 (312) 922-2322
-🏥 Services: Ryan White HIV/AIDS Program care and support services (HIV medical care, case management, and related HAB-funded supports)
+🏥 Services: Ryan White HIV/AIDS Program care and support services (HIV medical care, Case Management, and related HAB-funded supports)
 
 275. ANN & ROBERT H. LURIE CHILDREN'S HOSPITAL OF CHICAGO
 225 E Chicago Ave, Chicago, IL, 60611-2991
-📝 Ryan White HIV/AIDS Program (HRSA HAB) provider — Last reviewed 07/2026
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026
 📞 (312) 227-6280
-🏥 Services: Ryan White HIV/AIDS Program care and support services (HIV medical care, case management, and related HAB-funded supports)
+🏥 Services: Ryan White HIV/AIDS Program care and support services (HIV medical care, Case Management, and related HAB-funded supports)
 
 276. UNIVERSITY OF ILLINOIS AT CHICAGO
 1801 W Taylor St, Chicago, IL, 60612-4795
-📝 Ryan White HIV/AIDS Program (HRSA HAB) provider — Last reviewed 07/2026
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026
 📞 (312) 355-3785
-🏥 Services: Ryan White HIV/AIDS Program care and support services (HIV medical care, case management, and related HAB-funded supports)
+🏥 Services: Ryan White HIV/AIDS Program care and support services (HIV medical care, Case Management, and related HAB-funded supports)
 🌐 http://n/a
 
 277. CORE CENTER
 2020 W Harrison St, Chicago, IL, 60612-3741
-📝 Ryan White HIV/AIDS Program (HRSA HAB) provider — Last reviewed 07/2026
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026
 📞 (312) 572-4500
-🏥 Services: Ryan White HIV/AIDS Program care and support services (HIV medical care, case management, and related HAB-funded supports)
+🏥 Services: Ryan White HIV/AIDS Program care and support services (HIV medical care, Case Management, and related HAB-funded supports)
 
 278. AHF CHICAGO
 2600 S Michigan Ave, Chicago, IL, 60616-2857
-📝 Ryan White HIV/AIDS Program (HRSA HAB) provider — Last reviewed 07/2026
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026
 📞 (312) 881-3050
-🏥 Services: Ryan White HIV/AIDS Program care and support services (HIV medical care, case management, and related HAB-funded supports)
+🏥 Services: Ryan White HIV/AIDS Program care and support services (HIV medical care, Case Management, and related HAB-funded supports)
 
 279. MOUNT SINAI HOSPITAL
 1501 S California Ave, Chicago, IL, 60608-1732
-📝 Ryan White HIV/AIDS Program (HRSA HAB) provider — Last reviewed 07/2026
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026
 📞 (773) 257-5329
-🏥 Services: Ryan White HIV/AIDS Program care and support services (HIV medical care, case management, and related HAB-funded supports)
+🏥 Services: Ryan White HIV/AIDS Program care and support services (HIV medical care, Case Management, and related HAB-funded supports)
 
 280. RAZEM HEALTH CENTER
 2844 N Milwaukee Ave, Chicago, IL, 60618-7401
-📝 Ryan White HIV/AIDS Program (HRSA HAB) provider — Last reviewed 07/2026
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026
 📞 (312) 337-1073
-🏥 Services: Ryan White HIV/AIDS Program care and support services (HIV medical care, case management, and related HAB-funded supports)
+🏥 Services: Ryan White HIV/AIDS Program care and support services (HIV medical care, Case Management, and related HAB-funded supports)
 
 281. PROVIDENT HOSPITAL
 500 E 51st St, Chicago, IL, 60615-2400
-📝 Ryan White HIV/AIDS Program (HRSA HAB) provider — Last reviewed 07/2026
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026
 📞 (312) 572-2000
-🏥 Services: Ryan White HIV/AIDS Program care and support services (HIV medical care, case management, and related HAB-funded supports)
+🏥 Services: Ryan White HIV/AIDS Program care and support services (HIV medical care, Case Management, and related HAB-funded supports)
 
 282. AHF HYDE PARK
 1515 E 52nd Pl, Chicago, IL, 60615-4390
-📝 Ryan White HIV/AIDS Program (HRSA HAB) provider — Last reviewed 07/2026
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026
 📞 (312) 881-3050
-🏥 Services: Ryan White HIV/AIDS Program care and support services (HIV medical care, case management, and related HAB-funded supports)
+🏥 Services: Ryan White HIV/AIDS Program care and support services (HIV medical care, Case Management, and related HAB-funded supports)
 
 283. UNIVERSITY OF CHICAGO ADULT HIV CLINIC AT THE DUCHOSSOIS CENTER
 5758 S Maryland Ave, Chicago, IL, 60637-1426
-📝 Ryan White HIV/AIDS Program (HRSA HAB) provider — Last reviewed 07/2026
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026
 📞 (888) 824-0200
-🏥 Services: Ryan White HIV/AIDS Program care and support services (HIV medical care, case management, and related HAB-funded supports)
+🏥 Services: Ryan White HIV/AIDS Program care and support services (HIV medical care, Case Management, and related HAB-funded supports)
 🌐 http://n/a
 
 284. UNIVERSITY OF CHICAGO PEDIATRIC & ADOLESCENT HIV PROGRAM
 5841 S Maryland Ave # MC605, Chicago, IL, 60637-1443
-📝 Ryan White HIV/AIDS Program (HRSA HAB) provider — Last reviewed 07/2026
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026
 📞 (773) 702-5872
-🏥 Services: Ryan White HIV/AIDS Program care and support services (HIV medical care, case management, and related HAB-funded supports)
+🏥 Services: Ryan White HIV/AIDS Program care and support services (HIV medical care, Case Management, and related HAB-funded supports)
 🌐 http://n/a
 
 285. CARE2PREVENT CLINIC AT FRIEND HEALTH
 6250 S Cottage Grove Ave, Chicago, IL, 60637-2530
-📝 Ryan White HIV/AIDS Program (HRSA HAB) provider — Last reviewed 07/2026
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026
 📞 (312) 682-6110
-🏥 Services: Ryan White HIV/AIDS Program care and support services (HIV medical care, case management, and related HAB-funded supports)
+🏥 Services: Ryan White HIV/AIDS Program care and support services (HIV medical care, Case Management, and related HAB-funded supports)
 
 286. WELLNESS CENTER @ SOUTH SHORE HOSPITAL
 8012 S Crandon Ave, Chicago, IL, 60617-1124
-📝 Ryan White HIV/AIDS Program (HRSA HAB) provider — Last reviewed 07/2026
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026
 📞 (773) 221-4831
-🏥 Services: Ryan White HIV/AIDS Program care and support services (HIV medical care, case management, and related HAB-funded supports)
+🏥 Services: Ryan White HIV/AIDS Program care and support services (HIV medical care, Case Management, and related HAB-funded supports)
 
 287. GREATER FAMILY HEALTH
 10225 Grand Ave, Franklin Park, IL, 60131-3138
-📝 Ryan White HIV/AIDS Program (HRSA HAB) provider — Last reviewed 07/2026
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026
 📞 (844) 599-3700
-🏥 Services: Ryan White HIV/AIDS Program care and support services (HIV medical care, case management, and related HAB-funded supports)
+🏥 Services: Ryan White HIV/AIDS Program care and support services (HIV medical care, Case Management, and related HAB-funded supports)
 🌐 http://greaterfamilyhealth.org
 🗣 Languages: English Espa, English
 
 288. BLUE ISLAND HEALTH CENTER
 12757 Western Ave, Blue Island, IL, 60406-2155
-📝 Ryan White HIV/AIDS Program (HRSA HAB) provider — Last reviewed 07/2026
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026
 📞 (708) 753-5835
 🌐 http://www.accesscommunityhealth.net
-🏥 Services: Ryan White HIV/AIDS Program care and support services (HIV medical care, case management, and related HAB-funded supports)
+🏥 Services: Ryan White HIV/AIDS Program care and support services (HIV medical care, Case Management, and related HAB-funded supports)
 
 289. ROBBINS HEALTH CENTER
 13450 S Kedzie Ave, Robbins, IL, 60472-1639
-📝 Ryan White HIV/AIDS Program (HRSA HAB) provider — Last reviewed 07/2026
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026
 📞 (708) 753-5835
-🏥 Services: Ryan White HIV/AIDS Program care and support services (HIV medical care, case management, and related HAB-funded supports)
+🏥 Services: Ryan White HIV/AIDS Program care and support services (HIV medical care, Case Management, and related HAB-funded supports)
 
 290. OPEN DOOR CLINIC OF GREATER ELGIN
 1665 Larkin Ave, Elgin, IL, 60123-5977
-📝 Ryan White HIV/AIDS Program (HRSA HAB) provider — Last reviewed 07/2026
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026
 📞 (630) 846-0883
-🏥 Services: Ryan White HIV/AIDS Program care and support services (HIV medical care, case management, and related HAB-funded supports)
+🏥 Services: Ryan White HIV/AIDS Program care and support services (HIV medical care, Case Management, and related HAB-funded supports)
 
 291. CRUSADERS CENTRAL CLINIC ASSOCIATION
 1200 W State St, Rockford, IL, 61102-2112
-📝 Ryan White HIV/AIDS Program (HRSA HAB) provider — Last reviewed 07/2026
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026
 📞 (815) 490-1603
-🏥 Services: Ryan White HIV/AIDS Program care and support services (HIV medical care, case management, and related HAB-funded supports)
+🏥 Services: Ryan White HIV/AIDS Program care and support services (HIV medical care, Case Management, and related HAB-funded supports)
 
 292. Sterling High School
 1608 4th Ave, Sterling, IL, 61081-1378
@@ -2468,7 +2468,7 @@ New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 📞 217-403-5401
 🌐 https://www.promisehealth.org
 
-304. SIHF Healthcare – Danville School
+304. SIHF Healthcare  -  Danville School
 202 E Fairchild St, Danville, IL, 61832-3114
 🏥 Services: Primary Care
 📞 217-920-0168
@@ -2660,7 +2660,7 @@ New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 🏥 Services: Primary Care
 📞 217-839-2464
 
-337. SIHF Healthcare – Charleston
+337. SIHF Healthcare  -  Charleston
 626 W Lincoln Ave, Charleston, IL, 61920-2444
 🏥 Services: Primary Care
 📞 217-345-7702
@@ -2676,7 +2676,7 @@ New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 🏥 Services: Primary Care
 📞 618-372-3813
 
-340. SIHF Healthcare – Bunker Hill
+340. SIHF Healthcare  -  Bunker Hill
 144 North Washington Street, Bunker Hill, IL, 62014-1316
 🏥 Services: Primary Care
 📞 618-585-6290
@@ -2692,19 +2692,19 @@ New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 🏥 Services: Primary Care
 📞 618-635-2962
 
-343. SIHF Healthcare – Effingham
+343. SIHF Healthcare  -  Effingham
 900 W Temple Ave - Suite 208, Effingham, IL, 62401-2187
 🏥 Services: Primary Care
 📞 217-342-0211
 🌐 https://N/A
 
-344. SIHF Healthcare – Vandalia
+344. SIHF Healthcare  -  Vandalia
 1510 Sunset Dr, Vandalia, IL, 62471-3228
 🏥 Services: Primary Care
 📞 618-283-3144
 🌐 https://N/A
 
-345. SIHF Healthcare – Greenup
+345. SIHF Healthcare  -  Greenup
 302 N Mill St, Greenup, IL, 62428-1062
 🌐 https://www.sihf.org
 🏥 Services: Primary Care
@@ -2716,19 +2716,19 @@ New Beginnings Church – 6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 📞 618-332-0694
 🌐 https://www.sihf.org
 
-347. SIHF Healthcare – Bethalto
+347. SIHF Healthcare  -  Bethalto
 2 Terminal Dr Ste 8, East Alton, IL, 62024-2294
 🌐 https://www.sihf.org
 🏥 Services: Primary Care
 📞 618-258-0485
 
-348. SIHF Healthcare – Glen Carbon
+348. SIHF Healthcare  -  Glen Carbon
 4230 IL-159, Glen Carbon, IL, 62034-3201
 🏥 Services: Primary Care
 📞 618-332-0694
 🌐 https://www.sihf.org
 
-349. SIHF Healthcare – Salem
+349. SIHF Healthcare  -  Salem
 1275 Hawthorn Rd, Salem, IL, 62881-1028
 🌐 https://www.sihf.org
 🏥 Services: Primary Care

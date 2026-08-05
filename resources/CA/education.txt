@@ -1,4 +1,4 @@
-# CA — education.txt
+# CA  -  education.txt
 # Populated by Aidr HRSA import / clinic-ops (hub cities, 250-mile catchment).
 # Format: numbered blocks matching IL listings (name, address, 📞, 🌐, 🏥, 🗣, ⏰, 📝).
 
@@ -6,13 +6,13 @@
 6505 Wilshire Blvd, Los Angeles, CA 90048
 📞 (323) 761-8888
 🌐 https://www.jvs-socal.org
-🏥 Services: ESL, workforce, job readiness, refugee employment
+🏥 Services: ESL, Workforce, Job Readiness, Refugee Employment
 🗣 Languages: Vietnamese
 
 2. International Institute of the Bay Area
 1111 Market St, San Francisco, CA 94103
 📞 (415) 538-8100
 🌐 https://iibayarea.org
-🏥 Services: ESL, citizenship, immigrant education, legal referrals
+🏥 Services: ESL, Citizenship, Immigrant Education, Legal Referrals
 
 🗣 Languages: English

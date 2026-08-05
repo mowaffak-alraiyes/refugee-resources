@@ -1,4 +1,4 @@
-# IN — education.txt
+# IN  -  education.txt
 # Populated by Aidr HRSA Find-a-HC import (Indianapolis + surrounding, 250-mile catchment).
 # Format: numbered blocks matching IL listings (name, address, 📞, 🌐, 🏥, 🗣, ⏰, 📝).
 
@@ -6,14 +6,14 @@
 901 Shelby St, Indianapolis, IN 46203
 📞 (317) 808-2326
 🌐 https://www.immigrantwelcomecenter.org
-🏥 Services: ESL, citizenship, workforce, immigrant navigation
+🏥 Services: ESL, Citizenship, Workforce, Immigrant Navigation
 🗣 Languages: English
 ⏰ Hours: Monday: 9
 
-2. Exodus Refugee Immigration — Education Supports
+2. Exodus Refugee Immigration  -  Education Supports
 2457 E Washington St, Indianapolis, IN 46201
 📞 (317) 921-0836
 🌐 https://www.exodusrefugee.org
-🏥 Services: ESL, orientation, employment, refugee education
+🏥 Services: ESL, Orientation, Employment, Refugee Education
 
 🗣 Languages: Faiths, Political Opinions, English

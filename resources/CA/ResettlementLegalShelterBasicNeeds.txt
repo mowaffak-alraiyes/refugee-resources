@@ -1,18 +1,18 @@
-# CA — ResettlementLegalShelterBasicNeeds.txt
+# CA  -  ResettlementLegalShelterBasicNeeds.txt
 # Populated by Aidr HRSA import / clinic-ops (hub cities, 250-mile catchment).
 # Format: numbered blocks matching IL listings (name, address, 📞, 🌐, 🏥, 🗣, ⏰, 📝).
 
-1. International Rescue Committee — Sacramento
+1. International Rescue Committee  -  Sacramento
 Sacramento, CA 95814
 📞 (916) 482-0120
 🌐 https://www.rescue.org/united-states/sacramento-ca
-🏥 Services: refugee resettlement, employment, education
+🏥 Services: Refugee Resettlement, Employment, Education
 🗣 Languages: Support, Programs For Youth Development, English
 
-2. Jewish Family and Children's Services — San Francisco
+2. Jewish Family and Children's Services  -  San Francisco
 2150 Post St, San Francisco, CA 94115
 📞 (415) 449-3700
 🌐 https://www.jfcs.org
-🏥 Services: refugee resettlement, immigration, family support
+🏥 Services: Refugee Resettlement, Immigration, Family Support
 
 🗣 Languages: Ukrainian
