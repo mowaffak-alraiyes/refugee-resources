@@ -5,30 +5,30 @@
 1. Forum Apartments
 250 W. 14TH AVE, DENVER, CO, 80204-2733
 🌐 https://www.coloradocoalition.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-573-3707
 🗣 Languages: ASL
 
 2. Rose Andom Health Center
 1330 Fox St, Denver, CO, 80204-2602
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 720-337-4419
 
 3. Renaissance at Civic Center Apartments
 CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 🌐 https://www.coloradocoalition.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-764-2100
 
 4. West Campus
 951 ELATI ST, DENVER, CO, 80204-3939
 🌐 https://www.denverhealth.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 720-423-5456
 
 5. Mobile Health Center 3
 777 BANNOCK ST, DENVER, CO, 80204-4507
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-602-4954
 🌐 https://www.saludclinic.org
 🗣 Languages: Assistance Non
@@ -37,24 +37,24 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 6. Pediatric Emergency Department and Urgent Care
 777 Bannock St Ste 1364, Denver, CO, 80204-4507
 🌐 https://www.denverhealth.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-602-2273
 
 7. Obstetrics and Gynecology Clinic
 777 Bannock St Ste 1179, Denver, CO, 80204-4507
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-436-4949
 
 8. Renaissance Downtown Lofts
 2075 N Broadway, Denver, CO, 80205-2853
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-293-2217
 🌐 https://www.coloradocoalition.org
 🗣 Languages: ASL
 
 9. Outreach & Engagement Services
 2100 Stout St, Denver, CO, 80205-2827
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-312-2217
 🌐 https://www.coloradocoalition.org
 🗣 Languages: ASL
@@ -62,22 +62,22 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 10. The Colorado Coalition For The Homeless – 2100 BROADWAY
 2100 BROADWAY, DENVER, CO, 80205-2526
 🌐 https://www.coloradocoalition.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-297-4091
 
 11. Stout Street Recuperative Care Center & Legacy Lofts
 2175 California St, Denver, CO, 80205-2821
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-312-9559
 
 12. Dermatology Clinic and Endocrinology Clinic
 660 N. Bannock St  STE 5135, Denver, CO, 80204-4506
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-436-4949
 
 13. Adult Urgent Care Clinic
 660 N. Bannock St  STE 1057, Denver, CO, 80204-4506
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-436-4949
 🌐 https://www.denverhealth.org
 🗣 Languages: Spanish, Arabic, Polish, Urdu, Hindi, French, Ukrainian, Swahili, Korean, Vietnamese
@@ -85,110 +85,110 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 14. Denver Health Primary Care Center
 660 N. Bannock St  STE 7144, Denver, CO, 80204-4506
 🌐 https://www.denverhealth.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-436-4949
 🗣 Languages: Spanish, Arabic, Polish, Urdu, Hindi, French, Ukrainian, Swahili, Korean, Vietnamese
 
 15. Adult Dental and OMFS Clinic
 660 N. Bannock St  STE 7770, Denver, CO, 80204-4506
 🌐 https://www.denverhealth.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-436-4949
 🗣 Languages: Spanish, Arabic, Polish, Urdu, Hindi, French, Ukrainian, Swahili, Korean, Vietnamese
 
 16. Health Outreach Program
 2111 Champa St, Denver, CO, 80205-2529
 🌐 https://www.coloradocoalition.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-293-2220
 
 17. CCH Administration & Champa Dental Clinic
 2111 Champa St, Denver, CO, 80205-2529
 🌐 https://www.coloradocoalition.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-293-2217
 🗣 Languages: ASL
 
 18. Wellington E. Webb Center for Primary Care
 301 W 6th Ave, Denver, CO, 80204-5182
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-436-4949
 
 19. Uptown Community Health Center, Inc. Seton Women's Center
 1960 N Ogden St, Ste 340, Denver, CO, 80218-3669
 🌐 https://www.uptowncommunityhealth.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-318-3830
 
 20. Eastside Family Health Center
 501 28th St, Denver, CO, 80205-3003
 🌐 https://www.denverhealth.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-602-6333
 🗣 Languages: Spanish, Arabic, Polish, Urdu, Hindi, French, Ukrainian, Swahili, Korean, Vietnamese
 
 21. Manual Campus
 1700 E   28th Ave, Denver, CO, 80205-4502
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 720-423-6435
 
 22. East High School-Based Health Center
 1600 City Park Esplanade, Denver, CO, 80206-1429
 🌐 https://denverhealth.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 720-423-8378
 🗣 Languages: Spanish, Arabic, Polish, Urdu, Hindi, French, Ukrainian, Swahili, Korean, Vietnamese
 
 23. Safe Center
 405 S Platte River Dr, Denver, CO, 80223-2069
 🌐 https://www.denverhealth.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 720-944-3700
 
 24. Florence Crittenton Campus
 55 S Zuni St, Denver, CO, 80223-1208
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 720-423-8950
 
 25. North Campus
 2960 N. SPEER BLVD, DENVER, CO, 80211-3795
 🌐 https://www.denverhealth.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 720-423-2718
 
 26. Lake Campus
 1820 LOWELL BLVD, DENVER, CO, 80204-1549
 🌐 https://www.denverhealth.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 720-424-0281
 
 27. Beacon Place
 3636 W. COLFAX AVE, DENVER, CO, 80204-1513
 🌐 https://www.coloradocoalition.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-629-1667
 🗣 Languages: ASL
 
 28. Sloan's Lake Primary Care Center
 4007 W Colfax Ave, Denver, CO, 80204-1404
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-602-5900
 
 29. Inner City Health Center
 3800 York St.Denver, CO 80205-3540, Denver, CO, 80205-3540
 🌐 https://www.innercityhealth.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-296-1767
 
 30. La Casa Quigg Newton Family Health Center
 4545 NAVAJO ST, DENVER, CO, 80211-2440
 🌐 https://www.denverhealth.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-602-6700
 
 31. Primary Care Clinic at WellPower
 4455 E 12TH AVE, DENVER, CO, 80220-2415
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-504-7700
 🌐 https://www.primehealthplus.org
 🗣 Languages: You Speak, Or Your Health Status, Spanish, English
@@ -196,155 +196,155 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 32. Bruce Randolph Campus
 3955 Steele St, Denver, CO, 80205-3613
 🌐 https://www.denverhealth.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 720-424-1232
 🗣 Languages: Spanish, Arabic, Polish, Urdu, Hindi, French, Ukrainian, Swahili, Korean, Vietnamese
 
 33. Renewal Village
 200 W Warner Pl, Denver, CO, 80216
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-293-2217
 
 34. Kepner Campus
 911 S Hazel Ct, Denver, CO, 80219-3418
 🌐 https://www.denverhealth.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 720-424-0126
 
 35. Clinica Tepeyac - Clinic
 5075 LINCOLN ST, DENVER, CO, 80216-2015
 🌐 https://www.clinicatepeyac.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-458-5302
 
 36. South High School
 1700 E. LOUISANA STREET, DENVER, CO, 80210-1810
 🌐 https://www.denverhealth.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 720-423-6260
 
 37. Sheridan Health Services-Urban Peak
 1630 S Acoma St  FL 1st, Denver, CO, 80223-3602
 🌐 https://nursing.cuanschutz.edu/patient-care/sheridan-health-services
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-315-6199
 
 38. Park Hill Family Health Center
 4995 E 33rd Ave, Denver, CO, 80207-1902
 🌐 https://www.denverhealth.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-602-3720
 
 39. Federico F. Pena Family Health Center
 1339 S Federal Blvd, Denver, CO, 80219-4235
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-602-0000
 
 40. Renaissance Children's Center
 1797 KENDALL ST, LAKEWOOD, CO, 80214-1454
 🌐 https://www.coloradocoalition.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-237-6132
 
 41. 48th Avenue East Shelter Health Center
 4600 E 48th Ave, Denver, CO, 80216-3212
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-312-9559
 
 42. Wheat Ridge Family Health Clinic
 6301 W 38th Ave Bldg, Wheat Ridge, CO, 80033-5057
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-940-9118
 
 43. George Washington Campus School-Based Health Center
 655 S Monaco Pkwy Ste 108, Denver, CO, 80224-1228
 🌐 https://denverhealth.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 720-423-8600
 🗣 Languages: Spanish, Arabic, Polish, Urdu, Hindi, French, Ukrainian, Swahili, Korean, Vietnamese
 
 44. Abraham Lincoln Campus
 2285 S FEDERAL BLVD, DENVER, CO, 80219-5433
 🌐 https://www.denverhealth.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 720-423-5020
 🗣 Languages: Spanish, Arabic, Polish, Urdu, Hindi, French, Ukrainian, Swahili, Korean, Vietnamese
 
 45. STRIDE CHC - Mobile Health Unit #2
 7495 W 29th Ave, Wheat Ridge, CO, 80033-8002
 🌐 https://stridechc.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-778-7433
 
 46. STRIDE CHC – Wheat Ridge
 7495 W   29th Ave, Wheat Ridge, CO, 80033-8002
 🌐 https://www.mcpn.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-761-1100
 
 47. Kunsmiller Creative Arts Academy
 2250 S. Quitman Way, Denver, CO, 80219-5139
 🌐 https://www.denverhealth.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 720-424-0156
 
 48. Renaissance Xenia Village
 1420 XENIA, DENVER, CO, 80220-3548
 🌐 https://www.coloradocoalition.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-355-9196
 
 49. Place Bridge Academy
 7125 Cherry Creek Drive North, Denver, CO, 80224-2044
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 720-424-2050
 🌐 https://www.coloradocoalition.org
 🗣 Languages: ASL
 
 50. Southeast Medical Center
 6360 E Evans Ave, Denver, CO, 80222-5808
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-436-4949
 
 51. STRIDE CHC – Englewood
 3515 S Delaware St, Englewood, CO, 80110-3529
 🌐 https://www.mcpn.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-788-0782
 
 52. Renaissance at Lowry Boulevard
 550 ALTON WAY/7309 E. 7TH AVE, DENVER, CO, 80230-6144
 🌐 https://www.coloradocoalition.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-340-3940
 
 53. STRIDE CHC – Oneida
 2255 S. Oneida St., Denver, CO, 80224-2522
 🌐 https://www.stridechc.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-761-1977
 
 54. Clinica Family Health - Pecos
 1701 W. 72ND AVE, DENVER, CO, 80221-2721
 🌐 https://WWW.CLINICA.ORG
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-650-4460
 🗣 Languages: English
 
 55. Geneva Health Center
 10260 East Colfax, Aurora, CO, 80010
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-778-7433
 
 56. John F. Kennedy High School
 2855 S. LAMAR ST, DENVER, CO, 80227-3809
 🌐 https://www.denverhealth.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 720-423-4355
 
 57. Salud Commerce City
 6255 North Quebec Street, Commerce City, CO, 80022
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-697-2583
 🌐 https://www.saludclinic.org
 🗣 Languages: Assistance Non
@@ -353,19 +353,19 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 58. Forest Manor Apartments
 1410 Moline St APT 108, Aurora, CO, 80010-3625
 🌐 https://www.coloradocoalition.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-363-8391
 🗣 Languages: ASL
 
 59. Thomas Jefferson High School
 3950 S Holly St, Denver, CO, 80237-1117
 🌐 https://www.denverhealth.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 720-423-7190
 
 60. Salud Adams City High School
 7200 Quebec Pkwy, Commerce City, CO, 80022-4824
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-697-2583
 🌐 https://www.saludclinic.org
 🗣 Languages: Assistance Non
@@ -374,449 +374,449 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 61. STRIDE CHC – Peoria
 3292 Peoria St, Aurora, CO, 80010
 🌐 https://www.stridechc.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-343-6130
 
 62. STRIDE CHC -Alameda
 7944 West Arizona Ave, Lakewood, CO, 80232
 🌐 https://stridechc.org/
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-761-1977
 
 63. Montbello Family Health Center
 12600 Albrook Dr, Denver, CO, 80239-4604
 🌐 https://www.denverhealth.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-602-4000
 
 64. STRIDE CHC - Overland High School
 12400 E Jewell Ave Unit A, Aurora, CO, 80012-5324
 🌐 https://stridechc.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-778-7433
 
 65. Salud Aurora
 562 Sable Blvd Ste 100, Aurora, CO, 80011-0809
 🌐 https://www.saludclinic.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-697-2583
 
 66. Montbello Campus
 5000 CROWN BLVD, DENVER, CO, 80239-4329
 🌐 https://www.denverhealth.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 720-423-5808
 
 67. Rachel B. Noel Campus
 5290 Kittredge St, Denver, CO, 80239-5628
 🌐 https://www.denverhealth.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 720-424-0909
 
 68. STRIDE CHC – Hampden and Chambers
 15132 E Hampden Ave STE G, Aurora, CO, 80014-5038
 🌐 https://stridechc.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-752-8070
 
 69. Evie Garrett Dennis Campus
 4800 Telluride St, Denver, CO, 80249-6803
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 720-423-7610
 
 70. Martin Luther King Junior Early College Campus
 19535 E. 46TH AVE, DENVER, CO, 80249-6637
 🌐 https://www.denverhealth.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 720-424-0476
 
 71. Smoky Hill High School Community Health Clinic
 16100 E Smoky Hill Rd, Aurora, CO, 80015-1751
 🌐 https://stridechc.org/
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-761-1977
 
 72. STRIDE CHC - Horizon Community Middle School
 3981 S Reservoir Rd Unit A, Aurora, CO, 80013-3804
 🌐 https://stridechc.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-778-7433
 
 73. Emerald Elementary School
 275 Emerald St, Broomfield, CO, 80020-2373
 🌐 https://clinica.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-650-4460
 🗣 Languages: English
 
 74. Alicia Sanchez Elementary School
 655 Sir Galahad Dr, Lafayette, CO, 80026-1979
 🌐 https://clinica.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-650-4460
 🗣 Languages: English
 
 75. Escuela Bilingue Pioneer
 101 E Baseline Rd, Lafayette, CO, 80026-2402
 🌐 https://www.clinica.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-650-4460
 🗣 Languages: English
 
 76. Salud Brighton High School
 270 S 8th Ave, Brighton, CO, 80601-2132
 🌐 https://saludclinic.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-697-2583
 
 77. Salud Brighton's Women Center
 30 S 20TH AVE, BRIGHTON, CO, 80601-3705
 🌐 https://www.saludclinic.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-697-2583
 
 78. University Hill Elementary School
 956 16th St, Boulder, CO, 80302-7316
 🌐 https://www.clinica.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-650-4460
 
 79. Columbine Elementary School
 3130 Repplier St, Boulder, CO, 80304-2745
 🌐 https://clinica.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-650-4460
 🗣 Languages: English
 
 80. Salud Mobile Unit
 203 S Rollie Ave, Fort Lupton, CO, 80621-1508
 🌐 https://www.saludclinic.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-892-6401
 
 81. Salud Fort Lupton
 1115 2nd St, Fort Lupton, CO, 80621-1745
 🌐 https://www.saludclinic.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-697-2583
 
 82. Salud Frederick
 5995 IRIS PARKWAY, FREDERICK, CO, 80530
 🌐 https://www.saludclinic.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-697-2583
 
 83. Boulder Shelter For The Homeless
 4869 Broadway, Boulder, CO, 80304-0523
 🌐 https://www.clinica.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-442-4646
 🗣 Languages: English
 
 84. Salud Longmont
 220 E Rogers Rd, Longmont, CO, 80501-6027
 🌐 https://www.saludclinic.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-697-2583
 
 85. Health Center at Strasburg
 55981 E COLFAX AVE, STRASBURG, CO, 80136-8014
 🌐 https://www.peakvista.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-622-9237
 
 86. South Loveland Community Health Center
 302 3RD ST SE, LOVELAND, CO, 80537-6419
 🌐 https://sunrisecommunityhealth.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 970-669-4855
 
 87. SUNRISE SUMMITSTONE CLINIC
 1250 N Wilson Ave, Loveland, CO, 80537-4461
 🌐 https://sunrisecommunityhealth.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 970-353-9403
 
 88. Sunrise Centennial Children's Clinic
 1400 37th St, Evans, CO, 80620-1906
 🌐 https://sunrisecommunityhealth.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 970-348-1138
 
 89. Sunrise Thompson Health Clinic
 2880 N Monroe Ave, Loveland, CO, 80538-3274
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 970-613-6800
 🌐 https://sunrisecommunityhealth.org
 
 90. MONFORT FAMILY CLINIC
 2930 11th Ave, Evans, CO, 80620-1011
 🌐 https://sunrisecommunityhealth.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 970-353-9403
 
 91. Sunrise Community Health Mobile Services
 2930 11th Ave, Evans, CO, 80620-1011
 🌐 https://sunrisecommunityhealth.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 970-395-1102
 
 92. MONFORT CHILDREN'S CLINIC
 100 N   11th Ave, Greeley, CO, 80631-2011
 🌐 https://sunrisecommunityhealth.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 970-352-8898
 
 93. SUNRISE ADELANTE CLINIC
 1010 A ST, GREELEY, CO, 80631-2021
 🌐 https://sunrisecommunityhealth.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 970-313-0400
 
 94. SUNRISE FAMILY DENTAL CLINIC
 1006 A St, Greeley, CO, 80631-2021
 🌐 https://sunrisecommunityhealth.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 970-352-0048
 
 95. Sunrise Windsor Clinic
 1039 Main St UNIT G, Windsor, CO, 80550-4847
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 970-353-9403
 🌐 https://sunrisecommunityhealth.org
 
 96. SUNRISE NORTH RANGE CLINIC
 1300 N   17th Ave, Greeley, CO, 80631-9584
 🌐 https://sunrisecommunityhealth.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 970-353-9403
 
 97. Salud Estes Park
 1950 Redtail Hawk Dr, Estes Park, CO, 80517-9780
 🌐 https://www.saludclinic.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-697-2583
 
 98. Summit Cove Elementary
 727 Cove Blvd, Dillon, CO, 80435-8802
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 970-668-4040
 🌐 https://www.summitclinic.org
 
 99. Health Center at Divide
 34 Hybrook Rd S, Divide, CO, 80814
 🌐 https://www.peakvista.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 719-687-4460
 
 100. Dillon Valley Elementary
 0108 Deerpath Road, Dillon, CO, 80435
 🌐 https://www.summitclinic.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 970-368-1400
 
 101. Silverthorne Elementary
 101 Hamilton Creek Rd, Silverthorne, CO, 80498-9505
 🌐 https://www.summitclinic.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 970-710-5049
 
 102. Upper Blue Elementary
 1200 Airport Rd, Breckenridge, CO, 80424
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 970-710-5049
 
 103. Breckenridge Elementary
 312 S Harris St, Breckenridge, CO, 80424
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 970-710-5049
 
 104. Elevated Community Health Pediatric Dental
 360 Peak One Dr, Suite 380, Frisco, CO, 80443-5870
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 970-668-8668
 
 105. Summit Community Care Clinic, Inc.
 360 Peak One Drive STE 100, Frisco, CO, 80443
 🌐 https://www.summitclinic.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 970-668-4040
 
 106. Medical Office Building - Suite 320
 360 Peak One Dr Ste 320, Frisco, CO, 80443-5948
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 970-668-4040
 
 107. Summit Middle School
 158 School Road, Frisco, CO, 80443
 🌐 https://www.summitclinic.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 970-368-4040
 
 108. Frisco Elementary
 800 8th Ave, Frisco, CO, 80443
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 970-668-4040
 
 109. Salud Fort Collins Blue Spruce
 1635 Blue Spruce Dr, Fort Collins, CO, 80524-5427
 🌐 https://www.saludclinic.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-697-2583
 
 110. Health Center at Academy, Suite 3300
 3207 N. Academy Boulevard STE 3300, Colorado Springs, CO, 80917-5100
 🌐 https://www.peakvista.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 719-632-5700
 
 111. Developmental Disabilities Health Center
 3205 N. Academy Blvd.  STE 120, Colorado Springs, CO, 80917
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 719-632-5700
 
 112. Convenient Care Center
 3205 N. Academy STE 100, Colorado Springs, CO, 80917-5100
 🌐 https://www.peakvista.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 719-632-5700
 
 113. Family Health Center at Mitchell High School
 4041 E San Miguel St, Colorado Springs, CO, 80909
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 719-328-6600
 
 114. Behavioral Health at Inside Out Youth Services
 516 W Colorado Ave, Colorado Springs, CO, 80905-1511
 🌐 https://www.peakvista.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 719-632-5700
 
 115. Health Center at Union, Women's Health Center
 225 S Union Blvd, Colorado Springs, CO, 80910-3184
 🌐 https://www.peakvista.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 719-344-6948
 
 116. Health Center at Wahsatch, Behavioral Health Center
 722 S Wahsatch Ave, Colorado Springs, CO, 80903-4035
 🌐 https://www.peakvista.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 719-632-5700
 
 117. Enrollment Services
 2828 International Cir Ste 120, Colorado Spgs, CO, 80910-3127
 🌐 https://www.peakvista.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 719-632-5700
 
 118. Health Center at Printers Parkway, 340
 340 Printers Parkway, Colorado Springs, CO, 80910-3195
 🌐 https://www.peakvista.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 719-632-5700
 
 119. Pediatric Health Center at International Circle
 2828 International Circle STE 140, Colorado Springs, CO, 80910-3190
 🌐 https://www.peakvista.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 719-632-5700
 
 120. Downtown Health Center
 111 E Las Vegas St, Colorado Springs, CO, 80903-4215
 🌐 https://www.peakvista.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 719-632-5700
 
 121. Copper Mountain WBHC
 50 Beeler Pl  RM 114, Frisco, CO, 80443-5186
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 970-668-4040
 
 122. Park County RE-2 SBHC
 640 Hathaway St, Fairplay, CO, 80440
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 970-423-8831
 
 123. Care Clinic Park County
 548 Front St, Fairplay, CO, 80440-5001
 🌐 https://summitclinic.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 970-668-4055
 
 124. Health Center at Jet Wing
 1815 Jet Wing Dr, Colorado Springs, CO, 80916-2300
 🌐 https://www.peakvista.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 719-632-5700
 
 125. Health Center at Myron Stratton
 410 Gold Pass Hts, Colorado Springs, CO, 80906-3882
 🌐 https://www.peakvista.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 719-632-5700
 
 126. Salud Fort Morgan Middle School
 605 Education Ave, Fort Morgan, CO, 80701-8806
 🌐 https://www.saludclinic.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-697-2583
 
 127. Salud Baker Central School
 300 Lake St, Fort Morgan, CO, 80701-3118
 🌐 https://saludclinic.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-697-2583
 
 128. Salud Sherman Early Childhood Center
 300 Sherman St, Fort Morgan, CO, 80701-3624
 🌐 https://www.saludclinic.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-697-2583
 
 129. Salud Green Acres Elementary School
 930 Sherman St, Fort Morgan, CO, 80701-3544
 🌐 https://saludclinic.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-697-2583
 
 130. Health Center at Fountain
 350 Lyckman Dr, Fountain, CO, 80817-2861
 🌐 https://www.peakvista.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 719-632-5700
 
 131. Health Center  at Limon
 820 1st St, Limon, CO, 80828-5008
 🌐 https://www.peakvista.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 719-771-7556
 
 132. Lake County Elementary
 130 W 12th St, Leadville, CO, 80461-3415
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 720-710-5049
 
 133. Lake County High School
 1000 W 4th St, Leadville, CO, 80461-3800
 🌐 https://www.lakecountyschools.net
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 719-486-6830
 
 134. MOUNTAIN FAMILY HEALTH CENTERS Avon
 230 Chapel Square  UNIT D-102, Avon, CO, 81620-6497
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 970-945-2840
 🌐 https://www.mountainfamily.org
 
 135. Valley-Wide Buena Vista
 707 US Highway 24 N, Buena Vista, CO, 81211-9863
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 719-589-3658
 
 136. The Pulse School-Based Health Center
 1215 Main St Ste B, Canon City, CO, 81212-3505
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 719-275-2301
 🌐 https://www.coloradocoalition.org
 🗣 Languages: ASL
@@ -824,253 +824,253 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 137. Valley-Wide Canon City
 121 N 6th St, Canon City, CO, 81212-3329
 🌐 https://vwhs.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 719-275-2301
 
 138. GRAND AVENUE HOMELESS CLINIC
 1008 N Grand Ave, Pueblo, CO, 81003-2916
 🌐 http://www.pueblochc.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 719-584-3964
 🗣 Languages: Assistance Ftca Seal
 
 139. East Side Clinic
 1301 E 7th St, Pueblo, CO, 81001-3508
 🌐 https://www.pueblochc.org/locations/
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 719-543-8711
 🗣 Languages: Assistance Ftca Seal
 
 140. Pueblo Community College Student Health Clinic
 900 W Orman Ave MT Building, Room 118, Pueblo, CO, 81004
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 719-549-3315
 
 141. COLORADO AVENUE CLINIC
 300 Colorado Ave, Pueblo, CO, 81004-2006
 🌐 http://www.PuebloCHC.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 719-543-8711
 🗣 Languages: Assistance Ftca Seal
 
 142. Central High School SBWC
 216 E Orman Ave, Pueblo, CO, 81004-2144
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 719-543-8711
 
 143. South Routt Elementary School
 448 Main St, Yampa, CO, 80483-5075
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 970-879-1632
 
 144. O'ROURKE DENTAL CLINIC
 2030 Lake Ave, Pueblo, CO, 81004-3536
 🌐 http://www.pueblochc.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 719-564-4823
 
 145. Northwest Colorado Health Community Health Center – Routt County
 940 Central Park Dr Ste 101, Steamboat Springs, CO, 80487-8853
 🌐 https://www.northwestcoloradohealth.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 970-879-1632
 
 146. AVONDALE CLINIC
 328 Avondale Blvd, Avondale, CO, 81022
 🌐 http://www.pueblochc.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 719-947-3344
 🗣 Languages: Assistance Ftca Seal
 
 147. Soda Creek Elementary School
 220 Park Ave, Steamboat Springs, CO, 80487-5058
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 970-879-1632
 
 148. SOROCO Middle/High School
 305 S Grant Ave, Oak Creek, CO, 80467
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 970-879-1632
 
 149. Salud Sterling
 1410 S    7th Ave, Sterling, CO, 80751-4557
 🌐 https://www.saludclinic.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-697-2583
 
 150. Valley-Wide Ordway
 319 Main St, Ordway, CO, 81063-1302
 🌐 https://vwhs.org/
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 719-267-3503
 
 151. Moffat Family Health Center
 545 MOFFAT WAY, MOFFAT, CO, 81143-0000
 🌐 https://www.vwhs.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 719-256-4025
 
 152. Hayden Schools
 300 Breeze Basin Blvd, Hayden, CO, 81639-5072
 🌐 https://www.northwestcoloradohealth.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 970-824-8000
 🗣 Languages: English
 ⏰ Hours: Monday: 7:00 AM–5:00 PM
 
 153. Axis Health System - Gunnison
 710 N Taylor St, Gunnison, CO, 81230-2244
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 970-252-3200
 
 154. Valley-Wide Counseling & Support Center - Rocky Ford
 404 N Main St, Rocky Ford, CO, 81067-1256
 🌐 https://valley-widehealth.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 719-254-7623
 
 155. Rocky Ford Clinic
 903 S   12th St, Rocky Ford, CO, 81067-2127
 🌐 https://WWW.VWHS.ORG
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 719-254-7623
 
 156. Valley-Wide Integrated Care Clinic - La Junta
 711 Barnes Ave, La Junta, CO, 81050-2138
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 833-350-1113
 
 157. Valley-Wide Regional Assessment Center- La Junta
 721 Barnes Ave, La Junta, CO, 81050-2138
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 800-511-5446
 
 158. La Junta Perinatal Clinic
 1100 Carson Ave, STE Specialty Clinic, La Junta, CO, 81050-2751
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 719-543-8711
 
 159. Northwest Colorado Health Dental Clinic – Craig
 485 Yampa Ave, Craig, CO, 81625-2609
 🌐 https://www.northwestcoloradohealth.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 970-824-8000
 
 160. Walsenburg OB Clinic
 23450 US Highway 160, Walsenburg, CO, 81089-9524
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 719-543-8711
 
 161. Las Animas Clinic and Las Animas Dental Clinic
 245 Vine Ave, Las Animas, CO, 81054-1039
 🌐 https://www.vwhs.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 719-456-2653
 
 162. Center Community Clinic
 186 Hurt St, Center, CO, 81125-9002
 🌐 https://www.vwhs.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 719-754-2778
 
 163. Fort Lyon Health Center
 30999 County Road 15 Bldg 5, Fort Lyon, CO, 81054-9499
 🌐 https://www.coloradocoalition.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 719-662-1142
 
 164. Edward M. Kennedy Health Clinic
 925 2nd Ave, Monte Vista, CO, 81144-1432
 🌐 https://www.vwhs.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 719-852-2512
 
 165. Valley-Wide MERV Mobile Unit
 925 2nd Ave, Monte Vista, CO, 81144-1432
 🌐 https://www.valley-widehealth.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 719-589-5161
 
 166. Valley-Wide Health and Wellness Campus
 702 4th St, Alamosa, CO, 81101-2582
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 719-589-3658
 
 167. Alamosa Family Medical Center, Valley-Wide Pharmacy, or Anti-Coagulation Clinic
 1710 1st St, Alamosa, CO, 81101-2302
 🌐 https://www.vwhs.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 719-589-3658
 
 168. Mini MERV
 602 Hunt Ave, Alamosa, CO, 81101-2680
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 719-589-5161
 
 169. Convenient Care Community Clinic
 1131 Main St, Alamosa, CO, 81101-2446
 🌐 https://www.vwhs.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 719-589-2562
 
 170. High Plains Adult Community Health Center
 2221 Wellness Way, Lamar, CO, 81052-3867
 🌐 https://www.highplainschc.net
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 719-336-0261
 
 171. Valley-Wide Support Services- Lamar
 3500 1st St S, Lamar, CO, 81052-4327
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 800-511-5446
 
 172. Centennial School District
 14644 HWY 159, San Luis, CO, 81152-5046
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 719-672-3322
 
 173. Axis Health System Montrose
 605 Miami Rd, Montrose, CO, 81401-4108
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 970-252-3200
 
 174. San Luis Health Center, Ernesto Pacheco Dental Clinic, or San Luis Physical Therapy and Rehabilitation
 233 Main Street STE B, San Luis, CO, 81152-0000
 🌐 https://www.vwhs.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 719-672-3352
 
 175. River Valley Family Health Center of Delta
 1250 Valley View Dr, Delta, CO, 81416-3138
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 970-874-8981
 
 176. PrimeHealth+ Montrose Clinic
 87 Merchant Dr, Montrose, CO, 81401-3015
 🌐 https://www.primehealthplus.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 970-252-8896
 
 177. La Jara Dental Clinic
 421 WALNUT ST, LA JARA, CO, 81140-0000
 🌐 https://www.vwhs.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 719-274-8948
 
 178. Olathe Community Clinic, Inc.
 308 Main St, Olathe, CO, 81425-5066
 🌐 https:///www.rivervalleyfhc.com/
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 970-323-6141
 
 179. Sanford School District
 755 Second St, Sanford, CO, 81151
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 719-274-5167
 
 180. Salud Trinidad Dental Clinic
 928 Smith Ave, Trinidad, CO, 81082-2841
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 303-697-2583
 🌐 https://www.saludclinic.org
 🗣 Languages: Assistance Non
@@ -1079,73 +1079,73 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 181. PrimeHealth+ Warrior Wellness Center
 550 Warrior Way  STE WC, Grand Junction, CO, 81504-6401
 🌐 https://www.primehealthplus.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 970-200-1603
 
 182. Guadalupe Health Center
 10TH STREET AND DAHLIA, ANTONITO, CO, 81120-0000
 🌐 https://www.vwhs.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 719-376-5426
 
 183. South Conejos School District
 13099 County Road G, Antonito, CO, 81120
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 719-376-7000
 
 184. High Plains Holly Clinic
 410 W. Colorado, Holly, CO, 81047
 🌐 https://www.highplainschc.net
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 719-336-0261
 
 185. PrimeHealth+ Primary Care Partners
 3150 N 12TH ST, GRAND JUNCTION, CO, 81506-2863
 🌐 https://www.primehealthplus.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 970-245-1220
 
 186. PrimeHealth+12th Street Clinic
 2139 N 12th St STE 2, Grand Junction, CO, 81501-2910
 🌐 https://www.primehealthplus.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 970-200-1600
 
 187. PrimeHealth+ GJHS Health Center
 1400 N. 5th Street  RM A116, Grand Junction, CO, 81501-7527
 🌐 https://www.primehealthplus.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 970-609-1113
 
 188. PrimeHealth+ Outreach Day Center
 302 PITKIN AVE, GRAND JUNCTION, CO, 81501-2415
 🌐 https://primehealthplus.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 970-200-1600
 
 189. Pagosa Springs Comprehensive Primary Care
 27 Talisman Dr, #B, Pagosa Springs, CO, 81147-9377
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 970-335-2422
 
 190. Pagosa Springs Integrated Healthcare
 52 Village Dr., Pagosa Springs, CO, 81147
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 970-246-2104
 
 191. Axis Health System - Norwood
 1605 Grand Ave, Norwood, CO, 81423-5074
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 970-252-3200
 
 192. UNCOMPAHGRE COMBINED CLINICS
 1350 SOUTH ASPEN STREET, NORWOOD, CO, 81423-0280
 🌐 https://umclinic.org
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 970-327-4233
 
 193. Durango Integrated Healthcare
 150 Mercury Village Dr, Durango, CO, 81301-8955
-🏥 Services: primary_care
+🏥 Services: Primary Care
 📞 970-335-2288
 
