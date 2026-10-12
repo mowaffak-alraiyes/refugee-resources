@@ -1,0 +1,431 @@
+# placeholder
+
+1. Riverstone Counseling
+84 Pine St, Burlington, VT, 05401-4441
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 802-864-7423
+🗺 https://maps.google.com/?q=44.47753,-73.21543
+
+2. Community Health Centers - Pearl Street
+179 PEARL ST, BURLINGTON, VT, 05401-3704
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.chcb.org
+🏥 Services: Primary Care
+📞 802-652-1080
+🗺 https://maps.google.com/?q=44.48033,-73.21189
+
+3. School-Based Dental Center at the Integrated Arts Academy (IAA)
+6 Archibald St, Burlington, VT, 05401-4220
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.chcb.org
+🏥 Services: Primary Care
+📞 802-658-4869
+🗺 https://maps.google.com/?q=44.48800,-73.21390
+
+4. LUND Family Center
+76 Glen Rd, Burlington, VT, 05401-4131
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 802-864-7467
+🗺 https://maps.google.com/?q=44.45562,-73.20652
+
+5. Community Health Centers - Winooski
+32B Malletts Bay Ave, Winooski, VT, 05404-1959
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 802-655-4422
+🗺 https://maps.google.com/?q=44.49232,-73.19112
+
+6. Community Health Centers - Champlain Islands
+52 Community Ln, South Hero, VT, 05486-4418
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 802-372-4687
+🗺 https://maps.google.com/?q=44.64662,-73.29705
+
+7. Georgia Health Center
+4178 Highbridge Rd, Fairfax, VT, 05454-5446
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 802-255-5560
+🗺 https://maps.google.com/?q=44.69180,-73.10177
+
+8. Lamoille Health Family Medicine - Cambridge
+272 N Main Street, Unit 101, Cambridge, VT, 05444-9810
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 802-644-5114
+🗺 https://maps.google.com/?q=44.64535,-72.88050
+
+9. St Albans Health Center
+3 Crest Rd, Saint Albans, VT, 05478-9753
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 802-524-4554
+🗺 https://maps.google.com/?q=44.80696,-73.07053
+
+10. NOTCH Primary Care
+12 Crest Rd, Saint Albans, VT, 05478-9701
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 802-255-5560
+🗺 https://maps.google.com/?q=44.80729,-73.07003
+
+11. MCH  Mobile Health Unit
+61 Pine St Bldg 4, Bristol, VT, 05443-1043
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 802-453-3911
+🗺 https://maps.google.com/?q=44.13823,-73.08493
+
+12. Swanton Health Center
+26 Canada St, Swanton, VT, 05488-1335
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 802-868-2454
+🗺 https://maps.google.com/?q=44.91974,-73.12295
+
+13. Lamoille Health Family Dentistry
+66 Morrisville Plz, Morrisville, VT, 05661-4482
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 802-888-7585
+🗺 https://maps.google.com/?q=44.57359,-72.59220
+
+14. Alburg Health Center
+64 Industrial Park Rd, Alburgh, VT, 05440
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.notchvt.org
+🏥 Services: Primary Care
+📞 802-796-4414
+🗺 https://maps.google.com/?q=44.97642,-73.29901
+
+15. Gifford Health Center at Berlin
+2418 Airport Rd Ste 1, Barre, VT, 05641-8702
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://giffordhealthcare.org/
+🏥 Services: Primary Care
+📞 802-224-3200
+🗺 https://maps.google.com/?q=44.20600,-72.56089
+
+16. East Montpelier Elementary School
+665 Vincent Flats Rd, E Montpelier, VT, 05651-4405
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://thcplainfield.org
+🏥 Services: Primary Care
+📞 802-223-7936
+🗺 https://maps.google.com/?q=44.28658,-72.49462
+
+17. CHCRR Shoreham Family Health Center
+2987 Rte 22A, Shoreham, VT, 05770
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.chcrr.org
+🏥 Services: Primary Care
+📞 802-671-2101
+🗺 https://maps.google.com/?q=43.89828,-73.30785
+
+18. Maplehill School
+East Hill Road, Plainfield, VT, 05667-9525
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://thcplainfield.org
+🏥 Services: Primary Care
+📞 802-454-7747
+🗺 https://maps.google.com/?q=44.35486,-72.41362
+
+19. Barre Dental Clinic
+248 South Main St, Barre, VT, 05641
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 802-476-6785
+🗺 https://maps.google.com/?q=44.18283,-72.49961
+
+20. Vermont Dental Care Mobile
+157 Towne AvePO Box 320, Plainfield, VT, 05667
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://thcplainfield.org
+🏥 Services: Primary Care
+📞 802-454-8336
+🗺 https://maps.google.com/?q=44.27754,-72.43305
+
+21. NORTHERN COUNTIES DENTAL CENTER
+151 NORTH MAIN STREET, HARDWICK, VT, 05843-0537
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 http://www.nchcvt.org/
+🏥 Services: Primary Care
+📞 802-472-2260
+🗺 https://maps.google.com/?q=44.50644,-72.36481
+
+22. Hardwick Area Health Center
+4 Slapp Hl, Hardwick, VT, 05843-9300
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.nchcvt.org
+🏥 Services: Primary Care
+📞 802-472-3300
+🗺 https://maps.google.com/?q=44.50480,-72.35900
+
+23. Braintree Elementary School
+66 Bent Hill Rd Rm 118, Braintree, VT, 05060-8810
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 802-728-9373
+🗺 https://maps.google.com/?q=43.95564,-72.72327
+
+24. Brookfield Elementary School
+1728 Ridge Rd Rm 12, Brookfield, VT, 05036-9778
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 802-276-3153
+🗺 https://maps.google.com/?q=44.01604,-72.60645
+
+25. Richford Health Center
+44 Main ST, Richford, VT, 05476-1153
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.notchvt.org
+🏥 Services: Primary Care
+📞 802-255-5500
+🗺 https://maps.google.com/?q=44.99635,-72.67310
+
+26. Richford Dental Clinic
+44 Main St STE 400, Richford, VT, 05476-1141
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.notchvt.org
+🏥 Services: Primary Care
+📞 802-255-5520
+🗺 https://maps.google.com/?q=44.99611,-72.67236
+
+27. CABOT HEALTH SERVICES SBHC
+25 Common Rd, Cabot, VT, 05647-9731
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://thcplainfield.org
+🏥 Services: Primary Care
+📞 802-454-8336
+🗺 https://maps.google.com/?q=44.40346,-72.30953
+
+28. Randolph Union Middle/High School
+15 Forest St Rm 116, Randolph, VT, 05060-1006
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 http://orangesouthwest.org/RUHS
+🏥 Services: Primary Care
+📞 802-728-3397
+🗺 https://maps.google.com/?q=43.93133,-72.66088
+
+29. Brandon Medical Center
+420 Grove St, Brandon, VT, 05733-9062
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 802-247-6305
+🗺 https://maps.google.com/?q=43.80505,-73.09926
+
+30. Gifford Pediatric and Adolescent Medicine
+40 S Main St, Randolph, VT, 05060-1377
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.giffordhealthcare.org
+🏥 Services: Primary Care
+📞 802-728-2420
+🗺 https://maps.google.com/?q=43.91767,-72.66625
+
+31. Chelsea Health Center
+356 Vt Rte 110, Chelsea, VT, 05038-8993
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.giffordhealthcare.org
+🏥 Services: Primary Care
+📞 802-685-4400
+🗺 https://maps.google.com/?q=43.99494,-72.44626
+
+32. DANVILLE HEALTH CENTER
+26 Cedar Ln, Danville, VT, 05828
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 http://www.nchcvt.org/
+🏥 Services: Primary Care
+📞 802-684-2275
+🗺 https://maps.google.com/?q=44.40719,-72.14079
+
+33. EAST CORINTH
+720 Village Rd, East Corinth, VT, 05040
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.littlerivers.org
+🏥 Services: Primary Care
+📞 802-439-5321
+🗺 https://maps.google.com/?q=44.06442,-72.22172
+
+34. Northern Express Care - St. Johnsbury
+457 Railroad Street  STE 2, St Johnsbury, VT, 05819
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.nchcvt.org/locations-providers/northern-express-care-st-johnsbury/
+🏥 Services: Primary Care
+📞 802-633-6351
+🗺 https://maps.google.com/?q=44.41919,-72.01556
+
+35. St. Johnsbury Community Health Center
+185 Sherman Dr, Saint Johnsbury, VT, 05819-9811
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 http://www.nchcvt.org/
+🏥 Services: Primary Care
+📞 802-748-5041
+🗺 https://maps.google.com/?q=44.44822,-72.01276
+
+36. Community Health North Main Street
+231 N Main St, Rutland, VT, 05701-2412
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.chcrr.org
+🏥 Services: Primary Care
+📞 802-779-9036
+🗺 https://maps.google.com/?q=43.62539,-72.97588
+
+37. Blue Mountain Union School
+2420 Route 302, Wells River, VT, 05081-9750
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://bmuschool.org
+🏥 Services: Primary Care
+📞 802-757-2711
+🗺 https://maps.google.com/?q=44.15543,-72.08324
+
+38. Westshire Elementary School,
+744 State Rte-113, West Fairlee, VT, 05083-4404
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://wes.rivendellschool.org/
+🏥 Services: Primary Care
+📞 802-333-4668
+🗺 https://maps.google.com/?q=43.90764,-72.26268
+
+39. CHCRR Pediatrics
+1 General Wing Rd, Rutland, VT, 05701-4681
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 802-773-9131
+🗺 https://maps.google.com/?q=43.60268,-72.95640
+
+40. Rutland Community Health Center
+215 Stratton Rd, Rutland, VT, 05701-4621
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 802-747-3295
+🗺 https://maps.google.com/?q=43.60186,-72.95700
+
+41. Wells River
+65 Main St N, Wells River, VT, 05081
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.littlerivers.org
+🏥 Services: Primary Care
+📞 802-757-2325
+🗺 https://maps.google.com/?q=44.15161,-72.04575
+
+42. Community Dental
+69 Allen St STE 10, Rutland, VT, 05701-4564
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 802-774-5050
+🗺 https://maps.google.com/?q=43.59797,-72.96375
+
+43. Bradford Elementary School
+143 Fairground Rd, Bradford, VT, 05033
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.beschool.org
+🏥 Services: Primary Care
+📞 802-222-4077
+🗺 https://maps.google.com/?q=44.00279,-72.12219
+
+44. Newbury Elementary School
+214 Pulaski St, Newbury, VT, 05051
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.nesvt.org
+🏥 Services: Primary Care
+📞 802-866-5621 x110
+🗺 https://maps.google.com/?q=44.07909,-72.06007
+
+45. Oxbow High School
+36 Oxbow Drive, Bradford, VT, 05033
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 http://oxbowhighschool.org
+🏥 Services: Primary Care
+📞 802-222-5214
+🗺 https://maps.google.com/?q=44.00792,-72.11380
+
+46. LRHC Newbury
+4628 Main St S, Newbury, VT, 05051-9712
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 802-866-3000
+🗺 https://maps.google.com/?q=44.08299,-72.05270
+
+47. CONCORD HEALTH CENTER
+201 EAST MAIN STREET, CONCORD, VT, 05824-9730
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 http://www.nchcvt.org/
+🏥 Services: Primary Care
+📞 802-695-2512
+🗺 https://maps.google.com/?q=44.42937,-71.89147
+
+48. Thetford Elementary School
+2689 VT-113, Thetford, VT, 05074-0152
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 802-785-2426
+🗺 https://maps.google.com/?q=43.81953,-72.23157
+
+49. ISLAND POND HEALTH CENTER
+82 MAPLE STREET, ISLAND POND, VT, 05846-0425
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 http://www.nchcvt.org/
+🏥 Services: Primary Care
+📞 802-723-4300
+🗺 https://maps.google.com/?q=44.81725,-71.88407
+
+50. Ludlow Health Center
+1 Elm St., Ludlow, VT, 05149-1301
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 802-228-8867
+🗺 https://maps.google.com/?q=43.39563,-72.69647
+
+51. Mountain Valley Health Center
+38 Vt Route 11, Londonderry, VT, 05148-9555
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 802-824-6901
+🗺 https://maps.google.com/?q=43.23609,-72.84935
+
+52. Riverside Middle School Health Center
+13 Fairground Road, Springfield, VT, 05156
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 802-885-8490
+🗺 https://maps.google.com/?q=43.30373,-72.49685
+
+53. Dr. Delores Barbeau Mobile Unit
+100 River St, Springfield, VT, 05156-2930
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 802-886-8998
+🗺 https://maps.google.com/?q=43.30169,-72.48584
+
+54. Chester Dental Center
+55 Main St. Route 11, Chester, VT, 05143
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 802-875-5399
+🗺 https://maps.google.com/?q=43.25890,-72.58893
+
+55. Edgar May Health and Recreation Center
+140 Clinton St, Springfield, VT, 05156-3304
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 802-886-8900
+🗺 https://maps.google.com/?q=43.29159,-72.47355
+
+56. Burr and Burton Academy
+57 Seminary Ave, Manchester, VT, 05254-4189
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 802-362-1775
+🗺 https://maps.google.com/?q=43.16375,-73.07743
+
+57. Battenkill Valley Health Center, Inc.
+18 Church St, Arlington, VT, 05250-4457
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.battenkillvalleyhealthcenter.org
+🏥 Services: Primary Care
+📞 802-375-6566
+🗺 https://maps.google.com/?q=43.07329,-73.15499
+
