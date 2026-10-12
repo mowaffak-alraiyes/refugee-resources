@@ -725,3 +725,10 @@ GRANGE HALL ROAD, QUEENSTOWN, MD, 21658
 📞 215-926-3535
 🗺 https://maps.google.com/?q=39.98986,-75.10594
 
+96. Johns Hopkins ViSION (Vision Screening in Our Neighborhoods)
+Wilmer Eye Institute, 600 N. Wolfe St, Baltimore, MD 21287
+🌐 https://vision.jhmi.edu/
+🏥 Services: Free community vision screening, with a focus on glaucoma. Follow-up at Wilmer is offered regardless of insurance. Charity funds can cover surgery when an ophthalmologist says it is needed.
+⏰ Hours: Community screenings are typically once a month from September through May.
+📧 hopkinsvision@jhmi.edu
+
