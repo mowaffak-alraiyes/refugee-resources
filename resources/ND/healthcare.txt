@@ -1,0 +1,144 @@
+# placeholder
+
+1. Family HealthCare Mobile Clinic #1
+301 Np Ave N, Fargo, ND, 58102-4835
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 701-271-3344
+🗺 https://maps.google.com/?q=46.87623,-96.78343
+
+2. Family HealthCare Valley City
+415 2nd Ave NE Ste 101, Valley City, ND, 58072-3060
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 701-271-3344
+🗺 https://maps.google.com/?q=46.92652,-98.00200
+
+3. Spectra Health Dental Clinic
+212 S    4th St STE 101, Grand Forks, ND, 58201-4776
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.spectrahealth.org
+🏥 Services: Primary Care
+📞 701-757-2100
+🗺 https://maps.google.com/?q=47.92247,-97.02805
+
+4. Spectra Health Grand Forks Medical
+212 S    4th St STE 301, Grand Forks, ND, 58201-4776
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.spectrahealth.org
+🏥 Services: Primary Care
+📞 701-757-2100
+🗺 https://maps.google.com/?q=47.92255,-97.02817
+
+5. Family HealthCare LaMoure, North Dakota
+100 1st Ave SW, Lamoure, ND, 58458-7415
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 701-271-3344
+🗺 https://maps.google.com/?q=46.35744,-98.29520
+
+6. Spectra Health Larimore
+607 Towner Ave, Larimore, ND, 58251
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.spectrahealth.org
+🏥 Services: Primary Care
+📞 701-343-6418
+🗺 https://maps.google.com/?q=47.90897,-97.62304
+
+7. Community Health Service Inc. - Grafton
+1113 W 11th St, Grafton, ND, 58237-2139
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 701-352-4048
+🗺 https://maps.google.com/?q=48.41451,-97.42852
+
+8. McClusky Clinic
+122 2nd St NE, Mcclusky, ND, 58463-9743
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.northlandchc.org
+🏥 Services: Primary Care
+📞 701-363-2296
+🗺 https://maps.google.com/?q=47.44352,-100.52116
+
+9. Rolette Clinic
+401 2nd Ave, Rolette, ND, 58366-7029
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.northlandchc.org
+🏥 Services: Primary Care
+📞 701-246-3391
+🗺 https://maps.google.com/?q=48.66216,-99.84604
+
+10. Bismarck Clinic
+914 S 12th St Ste 101, Bismarck, ND, 58504-5941
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 701-255-4242
+🗺 https://maps.google.com/?q=46.79645,-100.77465
+
+11. Bismarck North Health Center
+4401 Coleman Street  UNIT 107, Bismarck, ND, 58503
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 701-448-2054
+🗺 https://maps.google.com/?q=46.85328,-100.78025
+
+12. St. John Health Center
+128 Foussard Ave NW, Saint John, ND, 58369-6029
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 701-448-2054
+🗺 https://maps.google.com/?q=48.93573,-99.70125
+
+13. Northland Health Centers
+55 1st Ave E, Turtle Lake, ND, 58575
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.northlandchc.org
+🏥 Services: Primary Care
+📞 701-448-2054
+🗺 https://maps.google.com/?q=47.52214,-100.88945
+
+14. Coal Country Community Health Center - Center-Stanton Public School Clinic
+315 Lincoln Ave, Center, ND, 58530
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 701-873-4445
+🗺 https://maps.google.com/?q=47.11893,-101.29814
+
+15. CCCHC Hazen Clinic
+510 8th Ave NE, Hazen, ND, 58545-4637
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 701-748-2256
+🗺 https://maps.google.com/?q=47.29799,-101.61029
+
+16. Minot Dental
+15 2nd Ave SW Ste 110, Minot, ND, 58701-3874
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://WWW.NORTHLANDCHC.ORG
+🏥 Services: Primary Care
+📞 701-838-3051
+🗺 https://maps.google.com/?q=48.23438,-101.29347
+
+17. Minot Clinic
+1600 2nd Ave SW Ste 19, Minot, ND, 58701-3459
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 http://www.northlandchc.org/
+🏥 Services: Primary Care
+📞 701-448-2054
+🗺 https://maps.google.com/?q=48.23409,-101.31891
+
+18. CCCHC Killdeer Clinic
+220 4th Ave SW, Killdeer, ND, 58640-8500
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 701-764-5822
+🗺 https://maps.google.com/?q=47.36596,-102.75451
+
+19. Ray Clinic
+24 Railroad Ave, Ray, ND, 58849
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.northlandchc.org
+🏥 Services: Primary Care
+📞 701-568-5600
+🗺 https://maps.google.com/?q=48.34300,-103.16661
+
