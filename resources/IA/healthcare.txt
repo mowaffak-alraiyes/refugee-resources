@@ -1,0 +1,409 @@
+# placeholder
+
+1. Mobile Clinic Van 2
+1221 Center St Ste 16, Des Moines, IA, 50309-1014
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 515-271-5306
+🗺 https://maps.google.com/?q=41.59200,-93.63342
+
+2. Primary Health Care at Mercy
+250 Laurel St, Des Moines, IA, 50314-3024
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.phciowa.org
+🏥 Services: Primary Care
+📞 515-643-4610
+🗺 https://maps.google.com/?q=41.59718,-93.62136
+
+3. Primary Health Care - Bery Engebretsen Clinic
+2353 SE   14th St, Des Moines, IA, 50320-1109
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.phcinc.net
+🏥 Services: Primary Care
+📞 515-248-1400
+🗺 https://maps.google.com/?q=41.56440,-93.59622
+
+4. Primary Health Care - East Side Clinic
+3509 E 29TH ST, DES MOINES, IA, 50317-4253
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.phcinc.net
+🏥 Services: Primary Care
+📞 515-248-1600
+🗺 https://maps.google.com/?q=41.62687,-93.56059
+
+5. Primary Health Care - Story County
+3510 LINCOLN WAY, AMES, IA, 50014-7533
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 515-232-0628
+🗺 https://maps.google.com/?q=42.02251,-93.66659
+
+6. Osceola Dental
+131 W Washington St, Osceola, IA, 50213-1248
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 641-342-1488
+🗺 https://maps.google.com/?q=41.03503,-93.76694
+
+7. Osceola Office
+219 W Washington, Osceola, IA, 50213-1249
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.chcsi.org
+🏥 Services: Primary Care
+📞 641-342-9000
+🗺 https://maps.google.com/?q=41.03509,-93.76868
+
+8. Infinity Health - Chariton Office
+1711 Osceola Ave, Chariton, IA, 50049-1516
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.chcsi.org
+🏥 Services: Primary Care
+📞 641-774-8484
+🗺 https://maps.google.com/?q=41.02165,-93.31901
+
+9. Primary Health Care - Marshalltown Clinic
+101 Iowa Ave W  STE 102, Marshalltown, IA, 50158-4768
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 641-753-4021
+🗺 https://maps.google.com/?q=42.00751,-92.91587
+
+10. COMMUNITY HEALTH CENTER OF DAYTON
+24 S Main St, Dayton, IA, 50530-7698
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 515-547-2974
+🗺 https://maps.google.com/?q=42.26127,-94.06818
+
+11. RHCHC Oskaloosa Elementary School
+1801 Orchard Ave, Oskaloosa, IA, 52577-9521
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 641-673-8092
+🗺 https://maps.google.com/?q=41.30532,-92.66518
+
+12. CENTRAL DECATUR - North Elementary/Jr-Sr High
+1201 NE Poplar St, Leon, IA, 50144-1246
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 http://chcsi.org/
+🏥 Services: Primary Care
+📞 641-446-2383
+🗺 https://maps.google.com/?q=40.74783,-93.74052
+
+13. MT. AYR COMM JUNIOR/SENIOR SBHC
+1001 E Columbus St, Mount Ayr, IA, 50854-2220
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 http://chcsi.org/
+🏥 Services: Primary Care
+📞 641-446-2383
+🗺 https://maps.google.com/?q=40.71743,-94.22723
+
+14. MT. AYR ELEMENTARY SCHOOL
+607 E Jefferson St, Mount Ayr, IA, 50854-1520
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 http://chcsi.org/
+🏥 Services: Primary Care
+📞 641-446-2383
+🗺 https://maps.google.com/?q=40.71658,-94.23121
+
+15. Mount Ayr Office
+1201 E South St, Mount Ayr, IA, 50854-2177
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 641-321-3020
+🗺 https://maps.google.com/?q=40.71038,-94.22435
+
+16. Lamoni Community School District
+202 N Walnut St, Lamoni, IA, 50140-1111
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 http://chcsi.org/
+🏥 Services: Primary Care
+📞 641-446-2383
+🗺 https://maps.google.com/?q=40.62476,-93.93592
+
+17. Proteus, Inc. - Fort Dodge Site
+107 North 7th Street, Fort Dodge, IA, 50501
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 515-557-8225
+🗺 https://maps.google.com/?q=42.50618,-94.18888
+
+18. RHCHC Centerville Alternative School
+634 N Main St, Centerville, IA, 52544-1414
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 641-856-0813
+🗺 https://maps.google.com/?q=40.73836,-92.87428
+
+19. RHCHC Howar Middle School
+850 S Park Ave, Centerville, IA, 52544-2130
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.centervilleschools.org
+🏥 Services: Primary Care
+📞 641-856-0760
+🗺 https://maps.google.com/?q=40.72522,-92.87690
+
+20. RHCHC Lakeview Elementary
+1800 S 11th St, Centerville, IA, 52544-2842
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www. centervilleschools.org
+🏥 Services: Primary Care
+📞 641-856-0637
+🗺 https://maps.google.com/?q=40.71764,-92.87658
+
+21. RHCHC Gateway Center High School
+907 Gateway Dr, Ottumwa, IA, 52501-2209
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 641-684-6979
+🗺 https://maps.google.com/?q=41.02406,-92.42405
+
+22. RHCHC Pickwick Early Education Center
+1306 W Williams St, Ottumwa, IA, 52501-4947
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 641-684-7179
+🗺 https://maps.google.com/?q=40.99849,-92.44216
+
+23. RIVER HILLS COMMUNITY HEALTH CENTER
+201 S Market St, Ottumwa, IA, 52501-2924
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.riverhillshealth.org
+🏥 Services: Primary Care
+📞 641-683-5773
+🗺 https://maps.google.com/?q=41.01697,-92.41217
+
+24. RHCHC-Wapello County Behavioral Health Clinic
+216 S MARKET ST, Ottumwa, IA, 52501
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 http://www.riverhillshealth.org/
+🏥 Services: Primary Care
+📞 641-954-9971
+🗺 https://maps.google.com/?q=41.01646,-92.41199
+
+25. RHCHC Pennsylvania Ave
+921 Pennsylvania Ave, Ottumwa, IA, 52501-2138
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 641-954-9971
+🗺 https://maps.google.com/?q=41.02803,-92.39210
+
+26. RHCHC Sigourney Elementary School
+509 S Jefferson St, Sigourney, IA, 52591-1521
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 641-622-2350
+🗺 https://maps.google.com/?q=41.32956,-92.20321
+
+27. RHCHC Cardinal Community School
+4045 Ashland Rd, Eldon, IA, 52554-8037
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 641-652-7531
+🗺 https://maps.google.com/?q=40.96116,-92.23757
+
+28. Bedford Clinic
+507 Central Ave.  STE 100, Bedford, IA, 50833-1406
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 641-446-2383
+🗺 https://maps.google.com/?q=40.66647,-94.71874
+
+29. RHCHC Davis County Elementary/Middle
+500 E North St, Bloomfield, IA, 52537-1219
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 641-664-2200
+🗺 https://maps.google.com/?q=40.75469,-92.40822
+
+30. RHCHC Davis County High School
+503 E Locust St, Bloomfield, IA, 52537-1707
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 641-664-2200 x5
+🗺 https://maps.google.com/?q=40.75274,-92.40750
+
+31. Eastern Iowa Womens Health Center
+502 N    9th Ave, Vinton, IA, 52349-2254
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 319-730-7300
+🗺 https://maps.google.com/?q=42.17360,-92.01248
+
+32. RHCHC Fairfield High School
+605 E Broadway Ave, Fairfield, IA, 52556-2900
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 641-472-2059
+🗺 https://maps.google.com/?q=41.00835,-91.95537
+
+33. RHCHC Washington Elementary
+406 E Madison Ave, Fairfield, IA, 52556-3645
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 563-723-6150
+🗺 https://maps.google.com/?q=41.00241,-91.95740
+
+34. Eastern Iowa Rhys Jones Dental Center
+855 A Ave NE, Suite LL1, Cedar Rapids, IA, 52402-5064
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://easterniowahealthcenter.com
+🏥 Services: Primary Care
+📞 319-730-7300
+🗺 https://maps.google.com/?q=41.98418,-91.66094
+
+35. Proteus, Inc. - Iowa City Site
+1548 S Gilbert St, Iowa City, IA, 52240-4304
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 563-264-0880
+🗺 https://maps.google.com/?q=41.64361,-91.53298
+
+36. Abraham Lincoln High School
+1205 Bonham St, Council Bluffs, IA, 51503-5098
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 712-328-6481
+🗺 https://maps.google.com/?q=41.25700,-95.81888
+
+37. All Care Health Center Mobile Medical Clinic
+902 S 6TH ST, COUNCIL BLUFFS, IA, 51501-6441
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 712-325-1990
+🗺 https://maps.google.com/?q=41.25283,-95.85354
+
+38. New Visions Homeless Services
+1435 N 15th St, Council Bluffs, IA, 51501-1133
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.allcarehealthcenter.org
+🏥 Services: Primary Care
+📞 712-325-1990
+🗺 https://maps.google.com/?q=41.27452,-95.86537
+
+39. Florence M. Lakin Health Center
+1415 Avenue J Ste 2, Council Bluffs, IA, 51501-1168
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 712-388-4660
+🗺 https://maps.google.com/?q=41.27020,-95.86548
+
+40. Woodrow Wilson Middle School
+715 N 21st St, Council Bluffs, IA, 51501-0902
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 712-328-6476
+🗺 https://maps.google.com/?q=41.26936,-95.87394
+
+41. CHC/SEIA Louisa County Clinic
+2409 Spring Street, Columbus City, IA, 52737
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 http://www.chcseia.com
+🏥 Services: Primary Care
+📞 319-728-7400
+🗺 https://maps.google.com/?q=41.25943,-91.37013
+
+42. Thomas Jefferson High School
+2501 W Broadway, Council Bluffs, IA, 51501-3522
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.allcarehealthcenter.org/
+🏥 Services: Primary Care
+📞 712-325-1990
+🗺 https://maps.google.com/?q=41.26124,-95.88325
+
+43. Community Health Care, Inc. MCSA Muscatine
+312 Iowa Ave, Muscatine, IA, 52761-3836
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 563-336-3000
+🗺 https://maps.google.com/?q=41.42261,-91.04722
+
+44. CHC/SEIA Keokuk Clinic
+1618 Main St, Keokuk, IA, 52632-3928
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 319-524-5734
+🗺 https://maps.google.com/?q=40.40456,-91.39371
+
+45. SIOUXLAND COMMUNITY HEALTH CENTER
+1021 Nebraska St, Sioux City, IA, 51105-1436
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.slandchc.com
+🏥 Services: Primary Care
+📞 712-252-2477
+🗺 https://maps.google.com/?q=42.50124,-96.40432
+
+46. Smart Junior High
+1934 W 5th St, Davenport, IA, 52802-1005
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.chcqca.org/schoolhealth
+🏥 Services: Primary Care
+📞 563-336-3000
+🗺 https://maps.google.com/?q=41.52504,-90.60660
+
+47. Community Health Care Inc. Outreach Clinic
+902 W 4th St, Davenport, IA, 52802-3507
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://chcqca.org
+🏥 Services: Primary Care
+📞 563-336-3000
+🗺 https://maps.google.com/?q=41.52387,-90.58611
+
+48. Mobile Trailer #1
+500 W River Dr, Davenport, IA, 52801-1014
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 563-336-3000
+🗺 https://maps.google.com/?q=41.52105,-90.58052
+
+49. Crescent Community Health Center Ophthalmology Clinic
+1500 Associates Drive  STE 3600W, Dubuque, IA, 52001-2201
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 563-690-2850
+🗺 https://maps.google.com/?q=42.49598,-90.73688
+
+50. Hills & Dales Clinic
+1011 Davis St, Dubuque, IA, 52001-1306
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 563-690-2850
+🗺 https://maps.google.com/?q=42.52992,-90.66493
+
+51. Promise CHC Kinsey Elementary
+397 10th St SE  RM 1113, Sioux Center, IA, 51250-1217
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://promisechc.org
+🏥 Services: Primary Care
+📞 712-722-1541
+🗺 https://maps.google.com/?q=43.06903,-96.16971
+
+52. Promise CHC Sioux Center Christian School
+630 1st Ave SE  RM 140, Sioux Center, IA, 51250-1312
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 712-722-0777
+🗺 https://maps.google.com/?q=43.07191,-96.17390
+
+53. Greater Sioux Community Health Center, Inc.
+33 4th St NW, Sioux Center, IA, 51250-1870
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.promisechc.org
+🏥 Services: Primary Care
+📞 712-722-1700
+🗺 https://maps.google.com/?q=43.08078,-96.17672
+
+54. Promise CHC Rock Valley Schools
+1712 20th Avenue  RM 501D, Rock Valley, IA, 51247
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 712-722-1700
+🗺 https://maps.google.com/?q=43.20806,-96.28813
+
+55. Hope Family Care Center Llc – 318 North Mather
+318 North Mather, Clarksville, IA, 50619
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 816-861-6500
+🗺 https://maps.google.com/?q=39.07067,-94.55246
+
