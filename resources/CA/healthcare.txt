@@ -6744,3 +6744,9 @@ Anonymous, Santa Maria, CA, 93454-0000
 🌐 https://med.stanford.edu/cfc/about.html
 🏥 Services: Stanford's Arbor Free Clinic closed February 22, 2026 and the student clinic moved its support to Samaritan House. Specialty care listed by Stanford includes ophthalmology.
 
+1195. Stanford Pacific Free Clinic
+Overfelt School Clinic, 1835 Cunningham Ave, San Jose, CA
+🌐 https://med.stanford.edu/pacific/Services_PFC.html
+🏥 Services: Free care for uninsured adults. Ophthalmology is a specialty clinic after one general visit. Interpretation in Spanish, Vietnamese, and Mandarin. Does not prescribe eyeglasses.
+⏰ Hours: Saturdays 8:00 AM - 12:45 PM
+
