@@ -1,0 +1,446 @@
+# placeholder
+
+1. RiverStone Health Clinic
+123 S   27th St, Billings, MT, 59101-4200
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.riverstonehealth.org
+🏥 Services: Primary Care
+📞 406-247-3350
+🗺 https://maps.google.com/?q=45.77992,-108.50123
+
+2. Health Care for the Homeless - MRM
+21 S 29th St, Billings, MT, 59101-4024
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://riverstonehealth.org/
+🏥 Services: Primary Care
+📞 406-247-3200
+🗺 https://maps.google.com/?q=45.77927,-108.50452
+
+3. "transport" vehicle
+3318 3rd Ave N Ste 200, Billings, MT, 59101-1900
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.agworker.org
+🏥 Services: Primary Care
+📞 800-813-4492
+🗺 https://maps.google.com/?q=45.78036,-108.51430
+
+4. Ag Worker Health & Services
+3318 3rd Avenue North, Suite 200, Billings, MT, 59101-1900
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.agworker.org
+🏥 Services: Primary Care
+📞 406-248-3149
+🗺 https://maps.google.com/?q=45.78036,-108.51430
+
+5. Billings Senior High School - School Based Health Center
+425 Grand Ave, Billings, MT, 59101-5924
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 406-247-3200
+🗺 https://maps.google.com/?q=45.78449,-108.52680
+
+6. Mobile Dental Unit
+3450 Duck Creek Rd, Billings, MT, 59101-6170
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.agworker.org
+🏥 Services: Primary Care
+📞 800-813-4492
+🗺 https://maps.google.com/?q=45.70652,-108.63797
+
+7. One Health - Hardin High School
+721 N Miles Ave, Hardin, MT, 59034-1621
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.onechc.org
+🏥 Services: Primary Care
+📞 406-665-9300
+🗺 https://maps.google.com/?q=45.73561,-107.61707
+
+8. One Health - Campus
+1223 N Center Ave, Hardin, MT, 59034-1100
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 406-665-4103
+🗺 https://maps.google.com/?q=45.74162,-107.60575
+
+9. One Health - Bighorn
+10 West 4th Street STE B, Hardin, MT, 59034-804
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.bighornvalley.org
+🏥 Services: Primary Care
+📞 406-665-4103
+🗺 https://maps.google.com/?q=45.73225,-107.60635
+
+10. One Health - Crow Public School
+101 Makata St Fl 1, Crow Agency, MT, 59022-7066
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 406-665-4103
+🗺 https://maps.google.com/?q=45.60600,-107.45991
+
+11. One Health - Lewistown
+311 W Main St, Lewistown, MT, 59457-2770
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.onechc.org
+🏥 Services: Primary Care
+📞 406-535-6545
+🗺 https://maps.google.com/?q=47.06505,-109.42643
+
+12. One Health - Community Health Partners
+112 West Lewis Street, Livingston, MT, 59047-3066
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 406-222-1111
+🗺 https://maps.google.com/?q=45.66032,-110.55956
+
+13. One Health - St. Labre
+1000 Tongue River Rd, Ashland, MT, 59003-9438
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 406-784-6721
+🗺 https://maps.google.com/?q=45.60520,-106.28088
+
+14. One Health - Ashland
+501 Main St, Ashland, MT, 59003-7701
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 406-748-3622
+🗺 https://maps.google.com/?q=45.59163,-106.26740
+
+15. CHP - Bozeman High School
+205 North 11th Ave, RM N113A N211, Bozeman, MT, 59715-3287
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 406-522-6200
+🗺 https://maps.google.com/?q=45.68029,-111.05345
+
+16. CHP - Gallatin High School
+4455 Annie St  RM A301 A218, Bozeman, MT, 59718-5705
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 406-522-6200
+🗺 https://maps.google.com/?q=45.69166,-111.10090
+
+17. One Health - Panther Clinic
+410 Triple Crown St  RM A108, Belgrade, MT, 59714-3402
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 406-388-3311
+🗺 https://maps.google.com/?q=45.78417,-111.18369
+
+18. One Health - Miles City Public Health
+2811 Comstock St, Miles City, MT, 59301-5754
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.bighornvalley.org
+🏥 Services: Primary Care
+📞 406-874-8730
+🗺 https://maps.google.com/?q=46.40101,-105.82454
+
+19. One Health - West Yellowstone
+440 Yellowstone Ave  STE A, West Yellowstone, MT, 59758-9507
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 406-282-0450
+🗺 https://maps.google.com/?q=44.65851,-111.10796
+
+20. Community Health Care Center - Centerville School
+693 Stockett Road  STE A, Sand Coulee, MT, 59472
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.alluvionhealth.org
+🏥 Services: Primary Care
+📞 406-454-6973
+🗺 https://maps.google.com/?q=47.38778,-111.14199
+
+21. Community Health Care Center - SBHC Mountain View Elementary
+3420 15th Ave S, Great Falls, MT, 59405-5514
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.alluvionhealth.org
+🏥 Services: Primary Care
+📞 406-454-6973
+🗺 https://maps.google.com/?q=47.48722,-111.24495
+
+22. Community Health Care Center, MSDB, School for Deaf and Blind
+3911 Central Ave Rm Risingsun, Great Falls, MT, 59405-1637
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 406-454-6973
+🗺 https://maps.google.com/?q=47.50548,-111.23934
+
+23. PureView Health Center
+1930 9th Ave, Helena, MT, 59601-4759
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 http://pureviewhealthcenter.org/
+🏥 Services: Primary Care
+📞 406-443-2584
+🗺 https://maps.google.com/?q=46.58940,-112.00588
+
+24. Community Health Care Center SBHC Giant Springs
+520 32nd St N, Great Falls, MT, 59401-2127
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.chccgf.org
+🏥 Services: Primary Care
+📞 406-454-6973
+🗺 https://maps.google.com/?q=47.51115,-111.25286
+
+25. Healthcare for the Homeless
+533 N Last Chance Gulch, Helena, MT, 59601-3346
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 http://pureviewhealthcenter.org/
+🏥 Services: Primary Care
+📞 406-449-5682
+🗺 https://maps.google.com/?q=46.59226,-112.03625
+
+26. PureView Project for Alternative Learning Clinic
+815 Front Street, Helena, MT, 59601-3310
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 http://pureviewhealthcenter.org/
+🏥 Services: Primary Care
+📞 406-457-0000
+🗺 https://maps.google.com/?q=46.59522,-112.03568
+
+27. PureView YWCA Helena
+501 North Park Avenue, Helena, MT, 59601-2703
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 406-422-8774
+🗺 https://maps.google.com/?q=46.59220,-112.03976
+
+28. Community Health Care Center - Renaissance Square
+202 2nd Ave S Ste 203, Great Falls, MT, 59405-1831
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.chccgf.org
+🏥 Services: Primary Care
+📞 406-454-6973
+🗺 https://maps.google.com/?q=47.50256,-111.30395
+
+29. Four Georgians Elementary School
+555 West Custer Avenue, Helena, MT, 59602
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 406-324-1300
+🗺 https://maps.google.com/?q=46.61574,-112.03534
+
+30. PureView Capital High School Clinic
+100 Valley Drive, Helena, MT, 59601-0199
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 http://pureviewhealthcenter.org/
+🏥 Services: Primary Care
+📞 406-457-0000
+🗺 https://maps.google.com/?q=46.61447,-112.04813
+
+31. Community Health Care Center SBHC North Middle School
+2601 8th St NE, Great Falls, MT, 59404-1604
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 406-454-6973
+🗺 https://maps.google.com/?q=47.52996,-111.29313
+
+32. One Health - Harlem
+530 Central Avenue West, Harlem, MT, 59526-9444
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.onechc.org
+🏥 Services: Primary Care
+📞 406-357-2294
+🗺 https://maps.google.com/?q=48.53537,-108.79219
+
+33. East Middle School
+2600 Grand Ave, Butte, MT, 59701-5025
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 406-533-2600
+🗺 https://maps.google.com/?q=45.99939,-112.49679
+
+34. BUTTE RESCUE MISSION
+610 E Platinum St, Butte, MT, 59701-1930
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 406-782-0925
+🗺 https://maps.google.com/?q=46.00923,-112.52833
+
+35. Butte Silver Bow Health Department Mobile Clinic
+25 W Front St, Butte, MT, 59701-2801
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 406-723-4075
+🗺 https://maps.google.com/?q=45.99869,-112.53616
+
+36. Kennedy Elementary Room #206
+1101 N Emmett Ave, Butte, MT, 59701-8514
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 406-533-2450
+🗺 https://maps.google.com/?q=46.02038,-112.55349
+
+37. Bullhook Community Health Center
+521 4th St, Havre, MT, 59501-3649
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.bullhook.com
+🏥 Services: Primary Care
+📞 406-395-4305
+🗺 https://maps.google.com/?q=48.55031,-109.67481
+
+38. One Health - Glendive
+1515 W Bell ST  UNIT 15, Glendive, MT, 59330-3240
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://onechc.org
+🏥 Services: Primary Care
+📞 406-815-5831
+🗺 https://maps.google.com/?q=47.10533,-104.73657
+
+39. Blacktail Pharmacy - Dillon
+125 E Glendale St, Dillon, MT, 59725-2505
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.blacktailpharmacy.com
+🏥 Services: Primary Care
+📞 406-842-7434
+🗺 https://maps.google.com/?q=45.21612,-112.63672
+
+40. Blacktail Health - Anaconda Clinic
+110 Oak St, Anaconda, MT, 59711-2335
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.blacktailhealth.org
+🏥 Services: Primary Care
+📞 406-723-4075
+🗺 https://maps.google.com/?q=46.12968,-112.95158
+
+41. Parker Medical Center
+2363 W Mt Highway 200, Lincoln, MT, 59639-9561
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://pureviewhealthcenter.org/
+🏥 Services: Primary Care
+📞 406-362-4603
+🗺 https://maps.google.com/?q=46.95460,-112.69671
+
+42. Community Health Care Center - Mobile Unit
+19 1st Street Northeast, Choteau, MT, 59422-9275
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 406-454-6973
+🗺 https://maps.google.com/?q=47.81263,-112.18316
+
+43. Marias Healthcare Services - Conrad
+1 4th Ave SE, Conrad, MT, 59425-2323
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://mariashealth.org/
+🏥 Services: Primary Care
+📞 406-271-2007
+🗺 https://maps.google.com/?q=48.16896,-111.94666
+
+44. Marias Healthcare SHS SBSE
+901 Valley St, Shelby, MT, 59474-1542
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://mariashealth.org/
+🏥 Services: Primary Care
+📞 406-434-3100
+🗺 https://maps.google.com/?q=48.51491,-111.86182
+
+45. PHC - Parks and Recreation Base Camp - Behavioral Health
+301 E Main St, Missoula, MT, 59802-4735
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 406-836-9163
+🗺 https://maps.google.com/?q=46.86988,-113.99095
+
+46. PHC - Alder
+323 W Alder St, Missoula, MT, 59802-4123
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://partnershiphealthcenter.org/
+🏥 Services: Primary Care
+📞 406-258-4789
+🗺 https://maps.google.com/?q=46.87587,-113.99597
+
+47. PHC - Creamery
+401 Railroad St W, Missoula, MT, 59802-4109
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://partnershiphealthcenter.org/
+🏥 Services: Primary Care
+📞 406-258-4789
+🗺 https://maps.google.com/?q=46.87716,-113.99636
+
+48. PHC - Poverello Center
+1110 W Broadway St, Missoula, MT, 59802-3918
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 406-258-4789
+🗺 https://maps.google.com/?q=46.87684,-114.00900
+
+49. PHC - Lowell Elementary - Behavioral Health
+1215 Phillips St, Missoula, MT, 59802-2379
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 406-214-9732
+🗺 https://maps.google.com/?q=46.88056,-114.00884
+
+50. PHC - Missoula Food Bank and Community Center
+1720 Wyoming Street  STE 201, Missoula, MT, 59801-1526
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 406-258-4789
+🗺 https://maps.google.com/?q=46.87195,-114.02337
+
+51. PHC - Watershed
+2200 Mullan Rd  STE A, Missoula, MT, 59808-2059
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 406-258-4949
+🗺 https://maps.google.com/?q=46.88129,-114.02576
+
+52. PHC - Big Sky High School - Behavioral Health
+3100 South Avenue West, Missoula, MT, 59804-5199
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 406-880-7264
+🗺 https://maps.google.com/?q=46.85046,-114.05714
+
+53. PHC - Meadow Hill - Behavioral Health
+4210 S Reserve St, Missoula, MT, 59803-1098
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 406-210-0402
+🗺 https://maps.google.com/?q=46.83219,-114.03986
+
+54. PHC - Seeley Lake
+3050 Hwy 83 N, Seeley Lake, MT, 59868
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 406-258-4191
+🗺 https://maps.google.com/?q=47.16462,-113.47466
+
+55. Victor School District
+425 Forth Ave,  Room 101, Victor, MT, 59875-9468
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 406-642-3446
+🗺 https://maps.google.com/?q=46.41546,-114.15096
+
+56. Mobile Medical Unit
+316 N 3rd St, Hamilton, MT, 59840-2480
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://sapphirechc.org
+🏥 Services: Primary Care
+📞 406-541-0032
+🗺 https://maps.google.com/?q=46.24990,-114.15875
+
+57. Greater Valley Health Center - Main
+1935 3rd Avenue East, Kalispell, MT, 59901-5898
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.greatervalleyhealth.org
+🏥 Services: Primary Care
+📞 406-607-4900
+🗺 https://maps.google.com/?q=48.18093,-114.30143
+
+58. Northwest Community Health Center
+320 E    2nd St, Libby, MT, 59923-2010
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://na
+🏥 Services: Primary Care
+📞 406-293-3755
+🗺 https://maps.google.com/?q=48.39306,-115.54650
+
+59. Glacier Dental Clinic
+505 E Main St, Cut Bank, MT, 59427-3015
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.glacierchc.org
+🏥 Services: Primary Care
+📞 406-873-5222
+🗺 https://maps.google.com/?q=48.63280,-112.32609
+
