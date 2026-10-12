@@ -1,0 +1,288 @@
+# placeholder
+
+1. Magnolia Apartments
+165 South 300 East  FL 1, Salt Lake City, UT, 84111-2556
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 385-252-3160
+🗺 https://maps.google.com/?q=40.76572,-111.88240
+
+2. WASATCH HOMELESS HEALTH CARE, INC d.b.a Fourth Street Clinic
+409 W 400 S, SALT LAKE CITY, UT, 84101-1135
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.fourthstreetclinic.org
+🏥 Services: Primary Care
+📞 801-364-0058
+🗺 https://maps.google.com/?q=40.76042,-111.90303
+
+3. Admin Only
+242 W Paramount Ave, Salt Lake City, UT, 84115-5216
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 801-364-0058
+🗺 https://maps.google.com/?q=40.73703,-111.89794
+
+4. Neighborhood Clinic at Mountainview School
+1388 S Navajo St Ste C, Salt Lake City, UT, 84104-3494
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 http://www.chc-ut.org
+🏥 Services: Primary Care
+📞 801-955-2360
+🗺 https://maps.google.com/?q=40.73883,-111.92952
+
+5. Midtown Community Health Center South Salt Lake
+60 E 3750 S, Salt Lake City, UT, 84115-4428
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 801-486-0911
+🗺 https://maps.google.com/?q=40.68897,-111.88950
+
+6. OQUIRRH VIEW COMMUNITY HEALTH CENTER
+4745 S 3200 W, Salt Lake City, UT, 84129-2822
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.chc-ut.org
+🏥 Services: Primary Care
+📞 801-964-6214
+🗺 https://maps.google.com/?q=40.66664,-111.96718
+
+7. Community Health Center, Inc. Ellis R. Shipp
+4535 S 5600 W, West Valley City, UT, 84120-4639
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.chc-ut.org
+🏥 Services: Primary Care
+📞 801-676-4405
+🗺 https://maps.google.com/?q=40.67167,-112.02380
+
+8. Community Health Centers, Inc. 72nd Street Clinic
+220 W 7200 S, Midvale, UT, 84047-1043
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.chc-ut.org
+🏥 Services: Primary Care
+📞 801-566-5494
+🗺 https://maps.google.com/?q=40.62120,-111.89810
+
+9. Utah Partners for Health Dental Clinic
+7651 S Main St, Midvale, UT, 84047-7101
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 801-417-0131
+🗺 https://maps.google.com/?q=40.61231,-111.90991
+
+10. MVP
+8955 S 255 W, Sandy, UT, 84070
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 385-253-7406
+🗺 https://maps.google.com/?q=40.59033,-111.90014
+
+11. Midtown Community Health Center Davis County
+22 S State St, Clearfield, UT, 84015-1043
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 801-393-5355
+🗺 https://maps.google.com/?q=41.11339,-112.02646
+
+12. Midtown Community Health Center Children's Clinic
+5285 S 400 E Ste A, Washington Terrace, UT, 84405-7194
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 801-475-7007
+🗺 https://maps.google.com/?q=41.16798,-111.97028
+
+13. Midtown Community Health Center at James Madison Elementary
+2563 Monroe, Ogden, UT, 84401-2513
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 801-334-2213
+🗺 https://maps.google.com/?q=41.21993,-111.96000
+
+14. Mountainlands Community Health Center Main Site Clinic
+589 S. State Street, Provo, UT, 84606-5056
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.mountainlands.org
+🏥 Services: Primary Care
+📞 801-374-9660
+🗺 https://maps.google.com/?q=40.22652,-111.64327
+
+15. East Bay Health Center
+299 E 900 S Ste 101, Provo, UT, 84606-6107
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.mountainlands.org
+🏥 Services: Primary Care
+📞 801-429-2000
+🗺 https://maps.google.com/?q=40.22289,-111.65333
+
+16. Community Health Centers, Inc. - Brigham City
+980 Medical Dr Ste 1, Brigham City, UT, 84302-3094
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://chc-ut.org
+🏥 Services: Primary Care
+📞 435-726-8276
+🗺 https://maps.google.com/?q=41.49091,-112.02720
+
+17. HEALTH WEST - PROVIDENCE CHC
+517 W 100 N STE 110, Providence, UT, 84332-9826
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.healthwestinc.org
+🏥 Services: Primary Care
+📞 435-755-6075
+🗺 https://maps.google.com/?q=41.71016,-111.83056
+
+18. Bear River Health Clinic
+440 W 600 N, TREMONTON, UT, 84337-2400
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 435-257-3318
+🗺 https://maps.google.com/?q=41.71964,-112.17255
+
+19. HEALTH WEST - NORTH LOGAN CHC
+1515 N 400 E STE 104, North Logan, UT, 84341-7595
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.healthwestinc.org
+🏥 Services: Primary Care
+📞 435-755-6061
+🗺 https://maps.google.com/?q=41.75946,-111.82449
+
+20. HEALTH WEST - GARDEN CITY CHC
+325 West Logan Highway, Garden City, UT, 84028
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.healthwestinc.org
+🏥 Services: Primary Care
+📞 435-946-3660
+🗺 https://maps.google.com/?q=41.94629,-111.39482
+
+21. CARBON MED SERV-HELPER CLINIC
+125 S Main St, Helper, UT, 84526-1535
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://carbonmedicalservice.com
+🏥 Services: Primary Care
+📞 435-472-7000
+🗺 https://maps.google.com/?q=39.68472,-110.85431
+
+22. Price Clinic
+92 N 400 E  STE 1, Price, UT, 84501-2509
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 435-637-6338
+🗺 https://maps.google.com/?q=39.60079,-110.80338
+
+23. Carbon Medical Service Association, Inc.
+331 Highway 123, Sunnyside, UT, 84539
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://carbonmedicalservice.com
+🏥 Services: Primary Care
+📞 435-888-4411
+🗺 https://maps.google.com/?q=39.55021,-110.39330
+
+24. Mountainlands Family Health Center Vernal Dental Clinic
+133 S 500 E, VERNAL, UT, 84078-2728
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 435-247-1177
+🗺 https://maps.google.com/?q=40.45401,-109.51695
+
+25. FourPoints Health - Kanosh Clinic
+157 North Reservation Drive, Kanosh, UT, 84637
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://fourpointshealth.org
+🏥 Services: Primary Care
+📞 435-759-2610
+🗺 https://maps.google.com/?q=38.82116,-112.40497
+
+26. Two Rivers Community Health - Green River
+585 WEST MAIN STREET, GREEN RIVER, UT, 84525-0417
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.grmedicalcenter.org/
+🏥 Services: Primary Care
+📞 435-564-3434
+🗺 https://maps.google.com/?q=38.99471,-110.16982
+
+27. WCHC Physical Therapy Building
+130 S 300 W, Bicknell, UT, 84715-7722
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 435-425-3744
+🗺 https://maps.google.com/?q=38.33912,-111.54976
+
+28. WAYNE COMMUNITY HEALTH HANKSVILLE
+30 S Highway 95, Hanksville, UT, 84734
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 435-542-3281
+🗺 https://maps.google.com/?q=38.37231,-110.70479
+
+29. Kazan Memorial Clinic
+570 E Moqui Ln, Escalante, UT, 84726-7753
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 435-826-4374
+🗺 https://maps.google.com/?q=37.76680,-111.59030
+
+30. ENTERPRISE VALLEY MED CLINIC, INC.
+223 SOUTH 200 EAST, ENTERPRISE, UT, 84725-0370
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://evmc.org
+🏥 Services: Primary Care
+📞 435-878-2281
+🗺 https://maps.google.com/?q=37.56989,-113.71628
+
+31. Family Healthcare Main Street Clinic
+189 N Main St, Saint George, UT, 84770-2823
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 435-986-2565
+🗺 https://maps.google.com/?q=37.11150,-113.58343
+
+32. Family Healthcare Riverside Drive Clinic
+2276 East Riverside Drive, St George, UT, 84790-5111
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 435-986-2565
+🗺 https://maps.google.com/?q=37.10190,-113.53348
+
+33. Family Healthcare Mobile Unit 1
+2276 E Riverside Dr, Saint George, UT, 84790
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.familyhc.org
+🏥 Services: Primary Care
+📞 801-986-2565
+🗺 https://maps.google.com/?q=37.10190,-113.53348
+
+34. Family Healthcare Zion Canyon Clinic
+120 Lion Blvd, Springdale, UT, 84767-7724
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 801-986-2565
+🗺 https://maps.google.com/?q=37.19538,-112.99765
+
+35. Monument Valley Health Center- Satellite
+30 W Medical Dr, Monument Valley, UT, 84536-7705
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.unhsinc.com
+🏥 Services: Primary Care
+📞 435-727-3000
+🗺 https://maps.google.com/?q=36.99885,-110.17805
+
+36. Blanding Family Practice Community Health Center
+910 S 300 W, Blanding, UT, 84511-3921
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.unhsinc.org
+🏥 Services: Primary Care
+📞 435-678-0700
+🗺 https://maps.google.com/?q=37.61237,-109.48423
+
+37. UNHS Mobile Dental Unit
+1478 East Highway 162, Montezuma Creek, UT, 84534-0130
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 435-678-0601
+🗺 https://maps.google.com/?q=37.25980,-109.30387
+
+38. Montezuma Creek Community Health Center
+1478 Highway 162, Montezuma Creek, UT, 84534
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.unhsinc.org
+🏥 Services: Primary Care
+📞 435-651-3700
+🗺 https://maps.google.com/?q=37.25980,-109.30387
+
