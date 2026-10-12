@@ -1,0 +1,682 @@
+# placeholder
+
+1. Greater Portland Health at Portland High School
+284 Cumberland Ave, Portland, ME, 04101-4927
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 207-874-8250
+🗺 https://maps.google.com/?q=43.65915,-70.25896
+
+2. St. Elizabeth's Child Development Center
+87 High Street, Portland, ME, 04101-3811
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 207-871-7444
+🗺 https://maps.google.com/?q=43.65301,-70.26113
+
+3. Greater Portland Health at 180 Park Avenue
+180 Park Ave, Portland, ME, 04102-2957
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.portlandcommunityhealthcenter.org
+🏥 Services: Primary Care
+📞 207-874-2141
+🗺 https://maps.google.com/?q=43.65598,-70.27427
+
+4. Mobile Van #1
+295 Park Ave, Portland, ME, 04102-2911
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 207-874-2141
+🗺 https://maps.google.com/?q=43.65616,-70.27965
+
+5. Nasson Health Care - Biddeford
+357 Elm St, Biddeford, ME, 04005-3022
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 207-490-6900
+🗺 https://maps.google.com/?q=43.48534,-70.46882
+
+6. CCS Second Street Health Center
+60 Second St, Auburn, ME, 04210-6853
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.communityclinicalservices.com
+🏥 Services: Primary Care
+📞 207-755-3456
+🗺 https://maps.google.com/?q=44.08707,-70.22120
+
+7. Lewiston High School-Based Health Center
+156 East Ave, Lewiston, ME, 04240-5626
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.communityclinicalservices.com
+🏥 Services: Primary Care
+📞 207-795-4144
+🗺 https://maps.google.com/?q=44.09318,-70.20192
+
+8. Nasson Health Care - Springvale
+15 Oak St, Springvale, ME, 04083-1926
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 207-324-0546
+🗺 https://maps.google.com/?q=43.46520,-70.79810
+
+9. CCS @ Recovery Connections of Maine
+103 Park St, Lewiston, ME, 04240
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 207-440-7922
+🗺 https://maps.google.com/?q=44.09603,-70.21599
+
+10. CCS Family Health Center
+100 Campus Ave, Lewiston, ME, 04240-6040
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.communityclinicalservices.com
+🏥 Services: Primary Care
+📞 207-755-3445
+🗺 https://maps.google.com/?q=44.10249,-70.19933
+
+11. Sacopee Valley Elementary School
+213 S Hiram Rd, Hiram, ME, 04041-3637
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 207-625-8126
+🗺 https://maps.google.com/?q=43.80963,-70.86255
+
+12. CCS Behavioral at CMCC
+1250 Turner St, Auburn, ME, 04210-6436
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 207-755-5100
+🗺 https://maps.google.com/?q=44.13225,-70.23090
+
+13. SACOPEE VALLEY HEALTH CENTER
+70 Main St, Porter, ME, 04068
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.svhc.org
+🏥 Services: Primary Care
+📞 207-625-8126
+🗺 https://maps.google.com/?q=43.81057,-70.88606
+
+14. RICHMOND AREA HEALTH CENTER
+24 Gardiner St, Richmond, ME, 04357-1336
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.healthreachchc.org
+🏥 Services: Primary Care
+📞 207-737-4359
+🗺 https://maps.google.com/?q=44.08613,-69.80575
+
+15. DFD RUSSELL MEDICAL CENTER - TURNER
+7 Main St, Turner, ME, 04282-4138
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.dfdrussell.org
+🏥 Services: Primary Care
+📞 207-524-3501
+🗺 https://maps.google.com/?q=44.24524,-70.26003
+
+16. Gardiner Area High School Health Center
+40 W Hill Rd, Gardiner, ME, 04345-1996
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 207-872-5610
+🗺 https://maps.google.com/?q=44.22765,-69.78890
+
+17. Mobile Medical -Unit #3
+79 Leighton Rd, Augusta, ME, 04330-7747
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.mainemigrant.org
+🏥 Services: Primary Care
+📞 207-622-9252
+🗺 https://maps.google.com/?q=44.32564,-69.81718
+
+18. SHEEPSCOT VALLEY HEALTH CENTER
+47 MAIN STREET, COOPERS MILLS, ME, 04341-0000
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.healthreachchc.org
+🏥 Services: Primary Care
+📞 207-549-7581
+🗺 https://maps.google.com/?q=44.25599,-69.54683
+
+19. BELGRADE REGIONAL HEALTH CENTER
+4 Clement Way, BELGRADE, ME, 04917-0000
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.healthreachchc.org
+🏥 Services: Primary Care
+📞 207-495-3323
+🗺 https://maps.google.com/?q=44.50410,-69.86624
+
+20. Mid-Coast Health Net/Knox Clinic Main Site
+22 White St, Rockland, ME, 04841
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.KnoxClinic.org
+🏥 Services: Primary Care
+📞 207-680-4545
+🗺 https://maps.google.com/?q=44.10547,-69.11295
+
+21. Lawrence High School Health Center
+9 School St, Fairfield, ME, 04937-1326
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 207-861-9666
+🗺 https://maps.google.com/?q=44.58920,-69.60522
+
+22. LOVEJOY HEALTH CENTER
+7 SCHOOL STREET STE 1, ALBION, ME, 04910-6501
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.healthreachchc.org
+🏥 Services: Primary Care
+📞 207-437-9388
+🗺 https://maps.google.com/?q=44.53027,-69.44154
+
+23. Islands Community Medical Center Annex
+25 Medical Center Loop, Vinalhaven, ME, 04863-4119
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 207-863-4109
+🗺 https://maps.google.com/?q=44.04619,-68.83107
+
+24. North Haven Medical Clinic
+135 Main St, North Haven, ME, 04853-3320
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 207-867-2021
+🗺 https://maps.google.com/?q=44.13017,-68.87543
+
+25. VINALHAVEN ELDERCARE SERVICES
+17 Beaver Dam Rd, Vinalhaven, ME, 04863
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 207-863-9980
+🗺 https://maps.google.com/?q=44.04997,-68.82533
+
+26. VINALHAVEN SCHOOL
+22 Arcola Ln, Vinalhaven, ME, 04863-4014
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 207-863-4800
+🗺 https://maps.google.com/?q=44.04861,-68.82175
+
+27. North Haven Community School
+93 Pulpit Harbor Rd, North Haven, ME, 04853-3100
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 207-867-4707
+🗺 https://maps.google.com/?q=44.15079,-68.87599
+
+28. North Haven PT at Southern Harbor
+12 Pulpit Harbor Rd, North Haven, ME, 04853-3104
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 207-863-4341
+🗺 https://maps.google.com/?q=44.14551,-68.87201
+
+29. STRONG AREA HEALTH CENTER
+177 N Main St, Strong, ME, 04983-3005
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.healthreachchc.org
+🏥 Services: Primary Care
+📞 207-684-4010
+🗺 https://maps.google.com/?q=44.81954,-70.21737
+
+30. MT. ABRAM REGIONAL HEALTH CENTER
+25 Depot St, Kingfield, ME, 04947-4208
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.healthreachchc.org
+🏥 Services: Primary Care
+📞 207-265-4555
+🗺 https://maps.google.com/?q=44.95805,-70.15716
+
+31. Boys and Girls Club of Souhegan Valley
+WORKMAN TERRACE, LINCOLN, ME, 04457-0000
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 603-821-7788
+🗺 https://maps.google.com/?q=42.83780,-71.65476
+
+32. RANGELEY FAMILY MEDICINE
+42 DALLAS HILL ROAD, RANGELEY, ME, 04970-0000
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.healthreachchc.org
+🏥 Services: Primary Care
+📞 207-864-3303
+🗺 https://maps.google.com/?q=44.95438,-70.63498
+
+33. Health Center, Wellness and Administration Center, Palmyra
+55 Fletcher Dr, Palmyra, ME, 04965-3262
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://hometownhealthcenter.org
+🏥 Services: Primary Care
+📞 207-368-4213
+🗺 https://maps.google.com/?q=44.83900,-69.29311
+
+34. Jewett School
+66 Bridge St, Bucksport, ME, 04416-4087
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 207-469-6644
+🗺 https://maps.google.com/?q=44.57598,-68.78694
+
+35. RSU19
+291 Williams Rd, Newport, ME, 04953-3945
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.hhcme.org
+🏥 Services: Primary Care
+📞 207-368-5189
+🗺 https://maps.google.com/?q=44.87689,-69.29466
+
+36. Bucksport High School
+102 Broadway, Bucksport, ME, 04416-4610
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 207-469-7371
+🗺 https://maps.google.com/?q=44.57668,-68.78219
+
+37. BUCKSPORT REGIONAL HEALTH CENTER
+110 Broadway, Bucksport, ME, 04416
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.brhc.info
+🏥 Services: Primary Care
+📞 207-469-7371
+🗺 https://maps.google.com/?q=44.57621,-68.78036
+
+38. Miles Lane School
+52 Miles Ln, Bucksport, ME, 04416-4667
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 207-469-6666
+🗺 https://maps.google.com/?q=44.57945,-68.78061
+
+39. BINGHAM AREA HEALTH CENTER
+237 Main St, Bingham, ME, 04920
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.healthreachchc.org
+🏥 Services: Primary Care
+📞 207-672-4187
+🗺 https://maps.google.com/?q=45.05289,-69.88169
+
+40. Sebasticook Family Doctors - Dexter
+29 Church St, Dexter, ME, 04930-1320
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.hhcme.org
+🏥 Services: Primary Care
+📞 207-924-5200
+🗺 https://maps.google.com/?q=45.02551,-69.28847
+
+41. Brewer Community School
+92 Pendleton St, Brewer, ME, 04412-1734
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 207-992-2393
+🗺 https://maps.google.com/?q=44.77686,-68.77017
+
+42. Hope House
+181 Corporate Dr, Bangor, ME, 04401-4314
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 207-992-2636
+🗺 https://maps.google.com/?q=44.80451,-68.80582
+
+43. Bangor School Dept. SBHC James F Doughty Middle School
+143 Fifth St, Bangor, ME, 04401
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 207-404-8000
+🗺 https://maps.google.com/?q=44.79752,-68.78396
+
+44. PENOBSCOT COMMUNITY HLTH CENTER
+1012 Union St, Bangor, ME, 04401-3060
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 207-945-5247
+🗺 https://maps.google.com/?q=44.81480,-68.80884
+
+45. Dental Center
+1048 Union St, Bangor, ME, 04401-8600
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 207-945-5247
+🗺 https://maps.google.com/?q=44.81593,-68.80986
+
+46. Penobscot Pediatrics
+6 Telcom Dr, Bangor, ME, 04401-3072
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 207-992-9200
+🗺 https://maps.google.com/?q=44.81754,-68.81234
+
+47. Community Care and Geriatrics
+992 Union St, Bangor, ME, 04401-3057
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 207-945-5247
+🗺 https://maps.google.com/?q=44.81485,-68.80750
+
+48. PCHC Main Lab
+992 Union St Ste J, Bangor, ME, 04401-3057
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 207-992-2336
+🗺 https://maps.google.com/?q=44.81485,-68.80750
+
+49. Adult Wellness Center
+1068 Union St, Bangor, ME, 04401-3016
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 207-947-0147
+🗺 https://maps.google.com/?q=44.81668,-68.81041
+
+50. SUNBURY VILLAGE RETIREMENT RESD.
+992 Ohio St, Bangor, ME, 04401
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 207-262-9600
+🗺 https://maps.google.com/?q=44.82174,-68.80570
+
+51. ALPHA Program - Brewer High School
+261 Center St, Brewer, ME, 04412-1900
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 207-992-2456
+🗺 https://maps.google.com/?q=44.79199,-68.75910
+
+52. Brewer Medical Center
+735 Wilson St, Brewer, ME, 04412-1000
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 http://www.pchcbangor.org/index.htm
+🏥 Services: Primary Care
+📞 207-945-5247
+🗺 https://maps.google.com/?q=44.77428,-68.73045
+
+53. Downeast School - PCHC Dental
+100 Moosehead Blvd, Bangor, ME, 04401-2367
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://pchc.com
+🏥 Services: Primary Care
+📞 207-941-6240
+🗺 https://maps.google.com/?q=44.83943,-68.82043
+
+54. PHILIPS-STRICKLAND HOUSE
+21 Boyd St, Bangor, ME, 04401-6560
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 207-941-2820
+🗺 https://maps.google.com/?q=44.80408,-68.76274
+
+55. Bangor School Department School-Based Health Center
+885 Broadway, Bangor, ME, 04401-2916
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.pchc.com
+🏥 Services: Primary Care
+📞 207-404-8000
+🗺 https://maps.google.com/?q=44.83128,-68.78174
+
+56. Ellsworth High School
+24 Lejok Street, Ellsworth, ME, 04605-4767
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 207-667-4722
+🗺 https://maps.google.com/?q=44.55594,-68.42837
+
+57. ELIZABETH LEVINSON CENTER
+159 Hogan Rd, Bangor, ME, 04401-5603
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 207-941-4400
+🗺 https://maps.google.com/?q=44.82008,-68.73746
+
+58. KVHC Piscataquis Community High School
+9 Campus Dr, Guilford, ME, 04443-6315
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 207-538-3770
+🗺 https://maps.google.com/?q=45.17265,-69.37896
+
+59. DIRIGO PINES RETIREMENT COMM.
+9 Alumni Dr, Orono, ME, 04473-3479
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 207-866-7011
+🗺 https://maps.google.com/?q=44.86923,-68.68972
+
+60. KVHC Foxcroft Academy
+975 West Main Street Second Floor, Dover Foxcroft, ME, 04426-1067
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.kvhc.org
+🏥 Services: Primary Care
+📞 207-538-3700
+🗺 https://maps.google.com/?q=45.18518,-69.24741
+
+61. KVHC SeDoMoCha Middle School
+63 Harrison Avenue, Suite A First Floor, Dover Foxcroft, ME, 04426-1193
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.kvhc.org
+🏥 Services: Primary Care
+📞 207-538-3700
+🗺 https://maps.google.com/?q=45.19380,-69.22699
+
+62. Old Town Elementary School RSU 34
+576 Stillwater Ave, Old Town, ME, 04468-2131
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.pchc.com
+🏥 Services: Primary Care
+📞 207-404-8000
+🗺 https://maps.google.com/?q=44.92466,-68.66536
+
+63. Katahdin Valley Health Center Dover Foxcroft
+188 Summer Street, Dover Foxcroft, ME, 04426-1323
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.kvhc.org
+🏥 Services: Primary Care
+📞 207-538-3700
+🗺 https://maps.google.com/?q=45.19489,-69.21686
+
+64. THE MEADOWS
+101 Perkins Ave, Old Town, ME, 04468
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 207-827-0547
+🗺 https://maps.google.com/?q=44.92868,-68.65169
+
+65. J.A. Leonard Middle School RSU 34
+156 Oak St, Old Town, ME, 04468-1681
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.pchc.com
+🏥 Services: Primary Care
+📞 207-404-8000
+🗺 https://maps.google.com/?q=44.93088,-68.65431
+
+66. KVHC Penquis Valley Schools
+48 Penquis Dr, Milo, ME, 04463-1033
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.kvhc.org
+🏥 Services: Primary Care
+📞 207-538-3700
+🗺 https://maps.google.com/?q=45.25183,-68.99593
+
+67. KVHC Milo Elementary
+18 Belmont St, Milo, ME, 04463
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.kvhc.org
+🏥 Services: Primary Care
+📞 207-538-3700
+🗺 https://maps.google.com/?q=45.25031,-68.97943
+
+68. KVHC Brownville
+180 Main Rd, Brownville, ME, 04414-3107
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.kvhc.org
+🏥 Services: Primary Care
+📞 207-538-3700
+🗺 https://maps.google.com/?q=45.30304,-69.03393
+
+69. Blueberry Harvest School
+39 Washington St, Milbridge, ME, 04658-3527
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://mainemobile.org
+🏥 Services: Primary Care
+📞 207-546-2210
+🗺 https://maps.google.com/?q=44.53648,-67.88703
+
+70. HAN Enfield
+47 BRIDGE STREET  ROUTE 155, WEST ENFIELD, ME, 04493-0000
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.hanfqhc.org
+🏥 Services: Primary Care
+📞 207-794-6700
+🗺 https://maps.google.com/?q=45.23733,-68.64700
+
+71. Jackman Community Health Center
+376 Main St, Jackman, ME, 04945-5214
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 http://www.pchcbangor.org
+🏥 Services: Primary Care
+📞 207-668-4300
+🗺 https://maps.google.com/?q=45.62109,-70.25007
+
+72. Health Access Network Lincoln
+175 W Broadway, Lincoln, ME, 04457-4000
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 207-794-6700
+🗺 https://maps.google.com/?q=45.36051,-68.52218
+
+73. Mattanawcook Academy School Based Health Center
+15 Reed Street, Lincoln, ME, 04457-1713
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.hanfqhc.org
+🏥 Services: Primary Care
+📞 207-794-6700
+🗺 https://maps.google.com/?q=45.37833,-68.49879
+
+74. Northern Pine Care Estates
+35 Ridge Rd, Lee, ME, 04455-4418
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 http://northernpinescare.com/
+🏥 Services: Primary Care
+📞 207-738-4663
+🗺 https://maps.google.com/?q=45.39136,-68.29865
+
+75. Katahdin Valley Health Center Millinocket
+50 Summer St, Millinocket, ME, 04462-1400
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.kvhc.org
+🏥 Services: Primary Care
+📞 207-538-3700
+🗺 https://maps.google.com/?q=45.65576,-68.70841
+
+76. EHC Machias
+160 Dublin St, Machias, ME, 04654-3409
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.eastporthealth.org/
+🏥 Services: Primary Care
+📞 207-255-8290
+🗺 https://maps.google.com/?q=44.70442,-67.46412
+
+77. EAST MACHIAS
+893 Main St, East Machias, ME, 04630-4051
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.rmcl.org
+🏥 Services: Primary Care
+📞 207-255-0102
+🗺 https://maps.google.com/?q=44.72307,-67.41460
+
+78. EAST GRAND HEALTH CENTER
+201 HOULTON RD, DANFORTH, ME, 04424
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://eghc.org
+🏥 Services: Primary Care
+📞 207-448-2347
+🗺 https://maps.google.com/?q=45.66670,-67.86191
+
+79. SCHOOL HEALTH CLINIC AT LUBEC
+44 South St, Lubec, ME, 04652-4002
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.rmcl.org
+🏥 Services: Primary Care
+📞 207-733-2432
+🗺 https://maps.google.com/?q=44.85496,-66.98869
+
+80. EASTPORT HEALTH CARE, INC.
+30 Boynton St, Eastport, ME, 04631-1306
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 http://www.eastporthealth.org
+🏥 Services: Primary Care
+📞 207-853-6001
+🗺 https://maps.google.com/?q=44.90493,-66.98768
+
+81. KVHC Southern Aroostook Community School
+922 Dyer Brook Rd, Dyer Brook, ME, 04747-5028
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.kvhc.org
+🏥 Services: Primary Care
+📞 207-538-3700
+🗺 https://maps.google.com/?q=46.08779,-68.18243
+
+82. Pines Kimball Community Health Center
+11 Harmony Ln, Fort Fairfield, ME, 04742-3354
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.pineshealthservices.org
+🏥 Services: Primary Care
+📞 207-472-0590
+🗺 https://maps.google.com/?q=46.76702,-67.84407
+
+83. PINES Caribou Health Center
+74 Access Hwy, Caribou, ME, 04736-3807
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.pineshealthservices.org
+🏥 Services: Primary Care
+📞 207-498-2356
+🗺 https://maps.google.com/?q=46.87401,-67.99254
+
+84. Pines WOMEN & CHILDREN'S CENTER
+163 Van Buren Rd STE 4, Caribou, ME, 04736-3567
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 207-498-1697
+🗺 https://maps.google.com/?q=46.87959,-68.00832
+
+85. North Woods Senior Living LLC
+3402 Aroostook Road, Eagle Lake, ME, 04739
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.frrh.org
+🏥 Services: Primary Care
+📞 207-444-5973
+🗺 https://maps.google.com/?q=47.03533,-68.59571
+
+86. EAGLE LAKE HEALTH CENTER
+10 CARTER STREET, EAGLE LAKE, ME, 04739-0309
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.frrh.org
+🏥 Services: Primary Care
+📞 207-444-5973 x1201
+🗺 https://maps.google.com/?q=47.03671,-68.59459
+
+87. Nutrition, Sports & Aquatics Center
+10 Carter Street  STE C, Eagle Lake, ME, 04739
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 207-444-5973
+🗺 https://maps.google.com/?q=47.03671,-68.59459
+
+88. Pines ST. JOHN VALLEY HEALTH CENTER
+4 Main St, Van Buren, ME, 04785-1009
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.pineshealthservices.org
+🏥 Services: Primary Care
+📞 207-868-2796
+🗺 https://maps.google.com/?q=47.15224,-67.92695
+
+89. School-Based Health Center-St. Agatha
+368 Main St, Saint Agatha, ME, 04772-6133
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.frrh.org
+🏥 Services: Primary Care
+📞 207-834-3971
+🗺 https://maps.google.com/?q=47.24217,-68.31504
+
+90. Fort Kent Health Education & Training Center
+3 Mountainview Dr, Fort Kent, ME, 04743-1614
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.frrh.org
+🏥 Services: Primary Care
+📞 207-316-6446
+🗺 https://maps.google.com/?q=47.26797,-68.59176
+
