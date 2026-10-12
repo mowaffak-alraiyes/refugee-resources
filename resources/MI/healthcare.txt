@@ -1306,3 +1306,11 @@ G5399 N Saginaw St, Flint, MI, 48505-1536
 📞 231-642-5291
 🗺 https://maps.google.com/?q=44.74197,-85.65207
 
+176. University of Michigan Student-Run Free Clinic
+103 E. Main St, Pinckney, MI 48169
+🌐 https://www.umstudentrunfreeclinic.org/
+🏥 Services: Free care for uninsured and underinsured adults. Does not see patients who are pregnant or under 18. No dental care at this clinic.
+⏰ Hours: Saturdays 8:00 AM - 1:00 PM and Wednesdays 2:00 PM - 7:00 PM, by appointment.
+📞 (734) 936-7804
+📧 medical-school-umsrfc@med.umich.edu
+
