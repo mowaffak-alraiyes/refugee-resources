@@ -1,0 +1,49 @@
+# placeholder
+
+1. Westside Family Healthcare - Northeast
+908 E   16th St STE B, Wilmington, DE, 19802-5145
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://WWW.WESTSIDEHEALTH.ORG
+🏥 Services: Primary Care
+📞 302-575-1414
+🗺 https://maps.google.com/?q=39.74582,-75.53431
+
+2. HENRIETTA JOHNSON MEDICAL CENTER
+601 New Castle Ave, Wilmington, DE, 19801-5821
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.hjmc.org
+🏥 Services: Primary Care
+📞 302-655-6187
+🗺 https://maps.google.com/?q=39.72750,-75.54377
+
+3. Westside Family Healthcare - Wilmington
+1802 W    4th St, Wilmington, DE, 19805-3420
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://WWW.WESTSIDEHEALTH.ORG
+🏥 Services: Primary Care
+📞 302-655-5822
+🗺 https://maps.google.com/?q=39.74823,-75.57104
+
+4. Westside Family Healthcare - Bear / New Castle
+404 Fox Hunt Dr, Bear, DE, 19701-2538
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.westsidehealth.org
+🏥 Services: Primary Care
+📞 302-836-2864
+🗺 https://maps.google.com/?q=39.60784,-75.70929
+
+5. Northern Sussex Community Health Center
+21 West Clarke Avenue  STE 1001, Milford, DE, 19963-1840
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.laredhealthcenter.org
+🏥 Services: Primary Care
+📞 302-855-1233
+🗺 https://maps.google.com/?q=38.90717,-75.43246
+
+6. La Red Health Center Main Campus
+21444 Carmean Way, Georgetown, DE, 19947-4572
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 302-855-1233
+🗺 https://maps.google.com/?q=38.69968,-75.40487
+
