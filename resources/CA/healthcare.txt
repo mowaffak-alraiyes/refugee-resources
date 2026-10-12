@@ -1867,6 +1867,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 331 N Sanborn Rd, Salinas, CA, 93905-2220
 🏥 Services: Primary Care
 📞 831-796-8800
+🌐 http://www.montereycountyclinicservices.org/
 
 336. GVHC-NEWMAN SITE
 637 Merced St, Newman, CA, 95360-1070
@@ -2590,6 +2591,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 1200 Plaza Del Sol E, Los Angeles, CA, 90033
 🏥 Services: Primary Care
 📞 323-987-1200
+🌐 https://wmchealthcenter.org/
 
 464. AltaMed Medical Group: William Mead
 268 BLOOM ST # 322, LOS ANGELES, CA, 90012-1973
@@ -2766,6 +2768,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 937 S Alvarado Street  STE 1-D, Los Angeles, CA, 90006-3067
 🏥 Services: Primary Care
 📞 213-484-8786
+🌐 http://www.caremedchc.org
 
 494. CLINCA MSR OSCAR A. ROMERO-NE
 2032 Marengo St, Los Angeles, CA, 90033-1319
@@ -2919,6 +2922,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 4211 Avalon Blvd Ste B, Los Angeles, CA, 90011-5622
 🏥 Services: Primary Care
 📞 323-234-0616
+🌐 https://www.kedrenmentalhealth.com
 
 521. Kwang He Won Health Center
 815 S Ardmore Ave FL 1, Los Angeles, CA, 90005-2597
@@ -3310,6 +3314,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 701 S Atlantic Blvd Ste 202, Monterey Park, CA, 91754-3866
 🏥 Services: Primary Care
 📞 626-300-9939
+🌐 https://garfieldhealthcenter.org
 
 590. Wesley Health Centers Bell Oasis
 5502 K St  BLDG C, Bell, CA, 90201
@@ -3495,6 +3500,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 7740 Garvey Ave  STE B100-B102, Rosemead, CA, 91770-3061
 🏥 Services: Primary Care
 📞 626-312-9554
+🌐 https://garfieldhealthcenter.org
 
 622. BeverlyCare Health Clinic
 520 W Beverly Blvd, Montebello, CA, 90640-3622
@@ -4032,6 +4038,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 5190 Atlantic Ave, Long Beach, CA, 90805-6510
 🏥 Services: Primary Care
 📞 818-654-3887
+🌐 https://www.tarzanatc.org
 
 715. Venice Family Clinic - Carole Keen Carson Wellness Center
 270 E 223rd St, Carson, CA, 90745-3804
@@ -4112,6 +4119,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 12362 Beach Blvd Ste 10, Stanton, CA, 90680-3944
 🏥 Services: Primary Care
 📞 714-248-9500
+🌐 https://www.livingstonecdc.com/
 
 729. NORWALK REGIONAL HEALTH CENTER
 12360 FIRESTONE BLVD, NORWALK, CA, 90650-4324
@@ -4157,6 +4165,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 14571 Magnolia St, Suite 204, Westminster, CA, 92683-5576
 🏥 Services: Primary Care
 📞 714-665-9890
+🌐 https://familiestogetheroc.org
 
 737. FTOC Magnolia Medical Clinic
 14571 Magnolia St, Suite 207, Westminster, CA, 92683
@@ -4519,6 +4528,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 6985 Linda Vista Road, San Diego, CA, 92111-6342
 🏥 Services: Primary Care
 📞 858-279-0925
+🌐 https://sdfamilycare.org
 
 801. San Diego Family Care
 7011 Linda Vista Rd, San Diego, CA, 92111-6307
@@ -4773,6 +4783,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 1675 N Perris Blvd Ste G1, Perris, CA, 92571-4748
 🏥 Services: Primary Care
 📞 760-736-6700
+🌐 https://www.nchs-health.org
 
 848. Bernardo Elementary School
 1122 Mountain Heights Dr  RM FOCR, Escondido, CA, 92029-5634
@@ -4993,6 +5004,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 27800 Medical Center Rd Ste 108, Mission Viejo, CA, 92691-6407
 🏥 Services: Primary Care
 📞 949-866-3600
+🌐 https://www.clchc.org/
 
 889. CLCHC- Kristina Sergeyeva Family Health Center
 27800 Medical Center Rd Ste 110, Mission Viejo, CA, 92691-6407
@@ -5081,6 +5093,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 15785 Laguna Canyon Road  STE 250, Irvine, CA, 92618
 🏥 Services: Primary Care
 📞 949-866-3600
+🌐 https://www.clchc.org/
 
 905. KCS Health Center - Booth
 4968 Booth Cir, Suite 110, Irvine, CA, 92604-3371
@@ -6095,6 +6108,7 @@ GINGHAM AVE, LANCASTER, CA, 93535
 5412 Carpinteria Ave, Carpinteria, CA, 93013-1423
 🏥 Services: Primary Care
 📞 805-696-1002
+🌐 https://WWW.AIHSCORP.ORG
 
 1081. NEVHC Santa Clarita Health Center
 18533 Soledad Canyon Rd, Canyon Country, CA, 91351-3722
@@ -6365,6 +6379,7 @@ GINGHAM AVE, LANCASTER, CA, 93535
 10641 San Fernando Rd  STE 201, Pacoima, CA, 91331-2626
 🏥 Services: Primary Care
 📞 818-504-4745
+🌐 https://www.elevatehealthcenter.org/
 
 1131. Domestic Violence Solutions
 Anonymous, Santa Maria, CA, 93454-0000
@@ -6634,4 +6649,93 @@ Anonymous, Santa Maria, CA, 93454-0000
 🌐 https://WWW.SBCPHD.ORG
 🏥 Services: Primary Care
 📞 805-737-6400
+
+1180. Wesley Health Centers- Midnight Mission
+7705 Seville Ave Suite B, Huntington Park, CA, 90255-6570
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 866-733-5924
+
+1181. Eisner Health at East Los Angeles
+3500 Whittier Blvd.  # 105, Los Angeles, CA, 90023
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.eisnerhealth.org
+🏥 Services: Primary Care
+📞 213-747-5542
+
+1182. Eisner Health at Maywood
+4528 E Slauson Ave, Maywood, CA, 90270-2934
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.eisnerhealth.org
+🏥 Services: Primary Care
+📞 213-747-5542
+
+1183. CSC Health - Pasadena
+223 W Cole Blvd, Calexico, CA, 92231-9722
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 213-808-1792
+
+1184. Wesley Health Centers-Downey 1
+9474 Firestone Boulevard, Downey, CA, 90241
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 866-733-5924
+
+1185. KCS Health Center - Stanton
+8081 Stanton Ave  STE 301, Buena Park, CA, 90620-3237
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.kcsinc.org
+🏥 Services: Primary Care
+📞 714-503-6550
+
+1186. San Ysidro Health Euclid
+1203 N Cherry St, Tulare, CA, 93274-2233
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 619-662-4100
+
+1187. Juniper Elementary School
+150 Harbour Way, RICHMOND, CA, 94801-2426
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 760-520-8300
+
+1188. Community Market
+16 Ritter St, San Rafael, CA, 94901-3323
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.rittercenter.org
+🏥 Services: Primary Care
+📞 415-457-8182
+
+1189. Indian Health Center of Santa Clara Valley - Forest Dental Clinic
+2000 Physicians Blvd, Bakersfield, CA, 93301-1277
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 408-445-3400
+
+1190. Valley Health Center - San Jose 1410
+1410 S Bascom Ave, San Jose, CA, 95128-4500
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 408-408-6000
+
+1191. School Clinic - Forestville USD
+6321 Hwy 116  RM 106, Forestville, CA, 95436-9614
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.wchealth.org
+🏥 Services: Primary Care
+📞 707-824-3391
+
+1192. Community Medical Centers, Manteca Suite 202
+200 Cottage Ave, Ste 202, Manteca, CA, 95336-4935
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 209-624-5800
+
+1193. Steve Schilling Mobile Unit
+300 La Fonda Ave, Santa Cruz, CA, 95062-1431
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 661-635-3050
 
