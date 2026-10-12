@@ -1,0 +1,842 @@
+# placeholder
+
+1. Valleywise Community Health Center - McDowell
+1101 N Central Ave Ste 204, Phoenix, AZ, 85004-1844
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://valleywisehealth.org/services/primary-care/
+🏥 Services: Primary Care
+📞 602-344-6550
+🗺 https://maps.google.com/?q=33.46030,-112.07353
+
+2. Lowell Elementary School
+1121 S 3rd Ave, Phoenix, AZ, 85003-2614
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 602-257-3835
+🗺 https://maps.google.com/?q=33.43647,-112.07723
+
+3. Circle the City Medical Respite Center, Downtown Campus
+210 S   12th Ave, Phoenix, AZ, 85007-3101
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.circlethecity.org
+🏥 Services: Primary Care
+📞 602-776-9000
+🗺 https://maps.google.com/?q=33.44572,-112.08833
+
+4. Valle del Sol_Red Mountain Service Center_1209
+1209 S    1st Ave, Phoenix, AZ, 85003-2605
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.valledelsol.com
+🏥 Services: Primary Care
+📞 602-258-6797
+🗺 https://maps.google.com/?q=33.43554,-112.07470
+
+5. Arizona School for the Arts
+1410 North 3rd Street, Phoenix, AZ, 85004
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 602-257-1444
+🗺 https://maps.google.com/?q=33.46448,-112.06977
+
+6. Wesley - Mobile Medical Unit
+1300 S 10th St, Phoenix, AZ, 85034-4516
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://wesleycenterphx.org/
+🏥 Services: Primary Care
+📞 602-257-4323
+🗺 https://maps.google.com/?q=33.43438,-112.06008
+
+7. Edison Elementary School
+804 N 18th St, Phoenix, AZ, 85006-3603
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 602-257-3848
+🗺 https://maps.google.com/?q=33.45755,-112.04333
+
+8. Valleywise Comprehensive Health Center - Phoenix
+2525 E Roosevelt St, STE 1A, 1B, 2B, 2D, 2E, Phoenix, AZ, 85008-4948
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://valleywisehealth.org/services/primary-care/
+🏥 Services: Primary Care
+📞 602-344-1015
+🗺 https://maps.google.com/?q=33.45764,-112.02825
+
+9. Central Valley Neighborhood Partnership (CVNP)
+3522 N 3RD AVE, PHOENIX, AZ, 85013-3903
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.circlethecity.org
+🏥 Services: Primary Care
+📞 602-776-7676
+🗺 https://maps.google.com/?q=33.48885,-112.07826
+
+10. Encanto Elementary
+1426 W Osborn Rd, Phoenix, AZ, 85013-3688
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 602-707-2000
+🗺 https://maps.google.com/?q=33.48779,-112.09029
+
+11. Valle del Sol_3807
+3807 N    7th St, Phoenix, AZ, 85014-5005
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.valledelsol.com
+🏥 Services: Primary Care
+📞 602-258-6797
+🗺 https://maps.google.com/?q=33.49200,-112.06439
+
+12. JB Sutton Elementary School
+1001 North 31st Avenue, Phoenix, AZ, 85009
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 602-442-3200
+🗺 https://maps.google.com/?q=33.45980,-112.12555
+
+13. NATIVE HEALTH Central
+4041 N CENTRAL AVE, PHOENIX, AZ, 85012-3330
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.nativehealthphoenix.org
+🏥 Services: Primary Care
+📞 602-279-5262
+🗺 https://maps.google.com/?q=33.49398,-112.07266
+
+14. Longview Elementary School
+1209 East Indian School Road, Phoenix, AZ, 85014
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 602-707-2000
+🗺 https://maps.google.com/?q=33.49381,-112.05578
+
+15. Adelante Healthcare Roosevelt
+3130 E Roosevelt St  BLDG C, Phoenix, AZ, 85008-5036
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 480-964-2273
+🗺 https://maps.google.com/?q=33.45883,-112.01392
+
+16. Isaac Middle School
+3402 W Mcdowell Rd, Phoenix, AZ, 85009-2317
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 602-455-6800
+🗺 https://maps.google.com/?q=33.46596,-112.13278
+
+17. Circle the City Family Health Center - UMOM Campus
+3333 E Van Buren St, Phoenix, AZ, 85008-6812
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.circlethecity.org
+🏥 Services: Primary Care
+📞 602-776-7676
+🗺 https://maps.google.com/?q=33.45094,-112.00948
+
+18. Morris K. Udall Escuela de Bellas Artes
+3715 West Roosevelt Street, Phoenix, AZ, 85009
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 602-442-2700
+🗺 https://maps.google.com/?q=33.45835,-112.13950
+
+19. Alta E Butler Elementary
+3843 West Roosevelt Street, Phoenix, AZ, 85009
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 602-442-2300
+🗺 https://maps.google.com/?q=33.45835,-112.14199
+
+20. Golden Gate Site
+1625 N 39TH AVE, PHOENIX, AZ, 85009-2149
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.wccphx.net
+🏥 Services: Primary Care
+📞 602-233-0017
+🗺 https://maps.google.com/?q=33.46688,-112.14248
+
+21. Midtown Health Center
+4131 N 24th St Ste B102, Phoenix, AZ, 85016-6231
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 480-882-4545
+🗺 https://maps.google.com/?q=33.49602,-112.03002
+
+22. Pueblo Del Sol Elementary School
+3449 North 39th Avenue, Phoenix, AZ, 85019
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 602-455-6900
+🗺 https://maps.google.com/?q=33.48932,-112.14208
+
+23. Mountain Park Health Center - Christown
+5517 N 17th Ave, Phoenix, AZ, 85015-2516
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.mountainparkhealth.org
+🏥 Services: Primary Care
+📞 602-243-7277
+🗺 https://maps.google.com/?q=33.51730,-112.09445
+
+24. Mountain Park Health Center - 325 E Baseline
+325 E Baseline Rd, Phoenix, AZ, 85042-6589
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.mountainparkhealth.org
+🏥 Services: Primary Care
+📞 602-243-7277
+🗺 https://maps.google.com/?q=33.37696,-112.06906
+
+25. Joseph Zito Elementary School
+4525 West Encanto Boulevard, Phoenix, AZ, 85035
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 602-442-2500
+🗺 https://maps.google.com/?q=33.47309,-112.15727
+
+26. Oak
+4451 East Oak Street, Phoenix, AZ, 85008
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://terroshealth.org
+🏥 Services: Primary Care
+📞 602-685-6000
+🗺 https://maps.google.com/?q=33.47223,-111.98547
+
+27. Valle del Sol_4344
+4344 West Indian School Road  STE 16, Phoenix, AZ, 85031
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.ValledelSol.Com
+🏥 Services: Primary Care
+📞 602-258-6797
+🗺 https://maps.google.com/?q=33.49678,-112.15356
+
+28. South Mountain
+3540 East Baseline Road  STE 150, Phoenix, AZ, 85042
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://terroshealth.org
+🏥 Services: Primary Care
+📞 602-685-6000
+🗺 https://maps.google.com/?q=33.37816,-112.00514
+
+29. 51st Avenue Health Center
+4616 North 51st Avenue  STE 108, Phoenix, AZ, 85031
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://terroshealth.org
+🏥 Services: Primary Care
+📞 602-685-6000
+🗺 https://maps.google.com/?q=33.50491,-112.16957
+
+30. Priest Drive Health Center
+1642 South Priest Drive, Building 6  STE 101, Tempe, AZ, 85281
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://terroshealth.org
+🏥 Services: Primary Care
+📞 602-685-6000
+🗺 https://maps.google.com/?q=33.41038,-111.96260
+
+31. NATIVE HEALTH West 8800
+8800 N 22nd Ave, Phoenix, AZ, 85021-4258
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 602-279-5262
+🗺 https://maps.google.com/?q=33.56481,-112.10657
+
+32. Desert Mission Health Center
+9015 N 3rd St, Phoenix, AZ, 85020-2444
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 602-882-4545
+🗺 https://maps.google.com/?q=33.56845,-112.06935
+
+33. FIRST PERSON CARE CLINIC
+2226 South Rural Road, Tempe, AZ, 85282
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.firstpersonclinic.org
+🏥 Services: Primary Care
+📞 702-380-8118
+🗺 https://maps.google.com/?q=33.40373,-111.92672
+
+34. Adelante Healthcare West Phoenix
+9610 N Metro Pkwy W, Phoenix, AZ, 85051-1402
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://adelantehealthcare.com/
+🏥 Services: Primary Care
+📞 480-964-2273
+🗺 https://maps.google.com/?q=33.57348,-112.12581
+
+35. Cholla Health Center
+8705 E Mcdowell Rd, Scottsdale, AZ, 85257-3909
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.noahhelps.org
+🏥 Services: Primary Care
+📞 480-882-4545
+🗺 https://maps.google.com/?q=33.46504,-111.89304
+
+36. Olive Heath Center
+6153 W OLIVE AVE, GLENDALE, AZ, 85302-4564
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.terroshealth.org
+🏥 Services: Primary Care
+📞 602-685-6000
+🗺 https://maps.google.com/?q=33.56643,-112.19255
+
+37. Copperwood II Health Center
+11851 N. 51st Avenue  STE F140, Glendale, AZ, 85304-2847
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 480-882-4545
+🗺 https://maps.google.com/?q=33.59335,-112.16762
+
+38. Palomino Health Center
+16251 N Cave Creek Rd, Phoenix, AZ, 85032-2976
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 480-882-4545
+🗺 https://maps.google.com/?q=33.63474,-112.03030
+
+39. North Valley Pediatrics
+702 East Bell Road, Phoenix, AZ, 85022
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 602-482-7311
+🗺 https://maps.google.com/?q=33.64102,-112.06431
+
+40. Valle del Sol_Mesa_334
+334 W 10th Pl Ste 101, Mesa, AZ, 85201-3499
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 602-258-6797
+🗺 https://maps.google.com/?q=33.43446,-111.83886
+
+41. Javelina Health Center
+222 E Javelina Avenue  STE 1C10, Mesa, AZ, 85210
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.terroshealth.org
+🏥 Services: Primary Care
+📞 602-685-6000
+🗺 https://maps.google.com/?q=33.38091,-111.82739
+
+42. Adelante Healthcare Peoria
+15525 N 83rd Ave Ste 104, Peoria, AZ, 85382-5820
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 480-964-2273
+🗺 https://maps.google.com/?q=33.62553,-112.23706
+
+43. Sun Life Health - Chandler Center for Women
+655 S Dobson Rd Ste 201, Chandler, AZ, 85224-5669
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 480-307-9477
+🗺 https://maps.google.com/?q=33.29468,-111.87615
+
+44. Adelante Healthcare Goodyear
+13471 W Cornerstone Blvd, Goodyear, AZ, 85395-2713
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.adelantehealthcare.com
+🏥 Services: Primary Care
+📞 480-964-2273
+🗺 https://maps.google.com/?q=33.46215,-112.34794
+
+45. Stapley Integrated Care
+1111 S. Stapley Drive, Mesa, AZ, 85204-5060
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://terroshealth.org
+🏥 Services: Primary Care
+📞 602-685-6000
+🗺 https://maps.google.com/?q=33.39500,-111.80426
+
+46. Mountain Park Health Center - Goodyear Suite 100
+140 N Litchfield Rd Ste 100, Goodyear, AZ, 85338-1269
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://mountainparkhealth.org
+🏥 Services: Primary Care
+📞 602-243-7277
+🗺 https://maps.google.com/?q=33.44800,-112.35871
+
+47. Wesley Health Center - Recker Road
+5845 E Still Cir Ste 104, Mesa, AZ, 85206-3635
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 602-257-4323
+🗺 https://maps.google.com/?q=33.38091,-111.70298
+
+48. Adelante Healthcare Surprise Care Today
+15317 W Bell Rd Ste 100, Surprise, AZ, 85374-3900
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 480-964-2273
+🗺 https://maps.google.com/?q=33.63828,-112.38987
+
+49. Sun Life Health - Mesa Family Practice
+10032 E Southern Ave, Mesa, AZ, 85209
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 480-351-2850
+🗺 https://maps.google.com/?q=33.39377,-111.61359
+
+50. Sousa Elementary School
+616 North Mountain Road, Mesa, AZ, 85207
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 480-472-8900
+🗺 https://maps.google.com/?q=33.42760,-111.59010
+
+51. Queen Creek
+22713 S Ellsworth Rd Bldg A, Queen Creek, AZ, 85142-7886
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 480-474-5670
+🗺 https://maps.google.com/?q=33.24213,-111.63281
+
+52. Adelante Healthcare Buckeye
+306 E. MONROE, BUCKEYE, AZ, 85326-2706
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.adelantehealthcare.com
+🏥 Services: Primary Care
+📞 480-964-2273
+🗺 https://maps.google.com/?q=33.37078,-112.58732
+
+53. Apache Junction
+625 N Plaza Dr, Apache Junction, AZ, 85120-5501
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.mhwaz.org
+🏥 Services: Primary Care
+📞 480-983-0065
+🗺 https://maps.google.com/?q=33.42079,-111.55002
+
+54. Desert Senita Community Health Center - Stanfield
+515 S Stanfield RD  BLDG O, Stanfield, AZ, 85172-9687
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.desertsenita.org
+🏥 Services: Primary Care
+📞 520-387-5651
+🗺 https://maps.google.com/?q=32.87617,-111.96255
+
+55. Black Canyon Community Health Center, Inc. - Black Canyon City
+19251 E Oasis Dr, Black Canyon City, AZ, 85324-0000
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.blackcanyonhealth.com
+🏥 Services: Primary Care
+📞 623-374-0200
+🗺 https://maps.google.com/?q=34.06004,-112.14787
+
+56. Casa Grande
+210 E Cottonwood Ln, Casa Grande, AZ, 85122-2514
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 520-836-1688
+🗺 https://maps.google.com/?q=32.89449,-111.75211
+
+57. Florence Clinic
+495 N. Pinal Parkway  STE 106, Florence, AZ, 85132-9292
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.hhwaz.org
+🏥 Services: Primary Care
+📞 833-431-4449
+🗺 https://maps.google.com/?q=33.03650,-111.37911
+
+58. Adelante Healthcare Gila Bend
+100 N. GILA AVENUE, GILA BEND, AZ, 85337-2658
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.adelantehealthcare.com
+🏥 Services: Primary Care
+📞 602-964-2273
+🗺 https://maps.google.com/?q=32.94320,-112.73544
+
+59. Adelante Healthcare Wickenburg
+811 N Tegner St Ste 113, Wickenburg, AZ, 85390-5410
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.adelantehealthcare.com
+🏥 Services: Primary Care
+📞 480-964-2273
+🗺 https://maps.google.com/?q=33.97612,-112.73520
+
+60. ELK RIDGE - PAYSON
+126 E Main St STE B, Payson, AZ, 85541-5488
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 928-468-8610
+🗺 https://maps.google.com/?q=34.23018,-111.32312
+
+61. Canyonlands Healthcare - Globe
+5860 S. Hospital Dr., Suite 102, Globe, AZ, 85501
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 928-402-0491
+🗺 https://maps.google.com/?q=33.40682,-110.82619
+
+62. PRESCOTT VALLEY
+3212 N Windsong Dr  STE 200, Prescott Valley, AZ, 86314-2254
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.yavapaihealth.com
+🏥 Services: Primary Care
+📞 928-583-1000
+🗺 https://maps.google.com/?q=34.59033,-112.32782
+
+63. MHC Counseling and Wellness Center
+13395 B N. Marana Main Street, Marana, AZ, 85653
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://maranahealthcenter.org
+🏥 Services: Primary Care
+📞 520-682-4111
+🗺 https://maps.google.com/?q=32.44946,-111.21498
+
+64. MHC Healthcare Ronald McDonald Mobile
+13395 North Marana Main Street, Marana, AZ, 85653-7008
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 520-682-4111
+🗺 https://maps.google.com/?q=32.44947,-111.21319
+
+65. Marana Health Center
+13395 N. Marana Main Street, Marana, AZ, 85653-7008
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 520-682-4111
+🗺 https://maps.google.com/?q=32.44947,-111.21319
+
+66. Desert Senita Dental Center
+410 N Malacate St BLDG B, Ajo, AZ, 85321
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.desertsenita.org
+🏥 Services: Primary Care
+📞 520-387-5651
+🗺 https://maps.google.com/?q=32.37557,-112.86367
+
+67. Cottonwood Mobile CHC
+51 S Brian Mickelsen Parkway, Cottonwood, AZ, 86326
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 928-583-1000
+🗺 https://maps.google.com/?q=34.73788,-112.02395
+
+68. Santa Catalina Health Center
+16701 N ORACLE RD, TUCSON, AZ, 85739-9102
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.maranahealthcenter.org
+🏥 Services: Primary Care
+📞 520-825-6763
+🗺 https://maps.google.com/?q=32.50911,-110.92654
+
+69. Oracle
+980 E Mt Lemmon Rd, Oracle, AZ, 85623
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 520-896-2035
+🗺 https://maps.google.com/?q=32.60962,-110.76339
+
+70. FLOWING WELLS FAMILY PRACTICE
+1323 W Prince Rd, Tucson, AZ, 85705-3114
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://maranahealthcenter.org
+🏥 Services: Primary Care
+📞 520-887-0800
+🗺 https://maps.google.com/?q=32.27164,-110.99380
+
+71. EL RIO NORTHWEST MEDICAL
+320 W Prince Rd, Tucson, AZ, 85705-3526
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.elrio.org
+🏥 Services: Primary Care
+📞 520-670-3707
+🗺 https://maps.google.com/?q=32.27227,-110.97659
+
+72. United Community Health Center at Three Points
+15921 W. AJO WAY, TUCSON, AZ, 85735
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.uchcaz.org
+🏥 Services: Primary Care
+📞 520-407-5700
+🗺 https://maps.google.com/?q=32.07827,-111.30743
+
+73. West Side Health Center
+1707 W Saint Marys Rd Ste 175 # 39S, Tucson, AZ, 85745-2620
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.mhchealthcare.org
+🏥 Services: Primary Care
+📞 520-682-4111
+🗺 https://maps.google.com/?q=32.22718,-111.00225
+
+74. EL RIO SANTA CRUZ NEIGHBORHOOD
+839 W Congress St, Tucson, AZ, 85745-2819
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.elrio.org
+🏥 Services: Primary Care
+📞 520-670-3707
+🗺 https://maps.google.com/?q=32.22063,-110.98585
+
+75. HealthOn University
+434 E University Blvd  STE 100, Tucson, AZ, 85705-7851
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 520-309-4250
+🗺 https://maps.google.com/?q=32.23146,-110.96464
+
+76. El Rio Health University Health Center
+434 E. University Blvd.  STE 200, Tucson, AZ, 85705-7851
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 520-670-3909
+🗺 https://maps.google.com/?q=32.23142,-110.96464
+
+77. El Rio Cherrybell Health Center
+1230 S Cherrybell Stra, Tucson, AZ, 85713-1907
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 520-670-3909
+🗺 https://maps.google.com/?q=32.20592,-110.94850
+
+78. EL RIO PASCUA YAQUI HEALTH CENTER
+7490 S CAMINO DE OESTE, TUCSON, AZ, 85746-9308
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.elrio.org
+🏥 Services: Primary Care
+📞 520-879-6006
+🗺 https://maps.google.com/?q=32.11489,-111.06375
+
+79. EL RIO OB/GYN ASSOCIATES
+225 W. IRVINGTON RD, TUCSON, AZ, 85714-3054
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.elrio.org
+🏥 Services: Primary Care
+📞 520-670-3707
+🗺 https://maps.google.com/?q=32.16268,-110.97189
+
+80. EL PUEBLO HEALTH CENTER
+101 W Irvington Rd, Tucson, AZ, 85714-3050
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.elrio.org
+🏥 Services: Primary Care
+📞 520-670-3707
+🗺 https://maps.google.com/?q=32.16271,-110.97000
+
+81. Wilmot Family Health Center
+899 N. Wilmot Road, Building B, Tucson, AZ, 85711
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.mhchealthcare.org
+🏥 Services: Primary Care
+📞 520-290-1100
+🗺 https://maps.google.com/?q=32.23207,-110.85910
+
+82. MHC Healthcare Dental Office
+899 North Wilmot Road  STE E, Tucson, AZ, 85711
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 520-290-1100
+🗺 https://maps.google.com/?q=32.23207,-110.85805
+
+83. EL RIO SOUTHWEST HEALTH CENTERS
+1500 W Commerce Ct, Tucson, AZ, 85746-6015
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.elrio.org
+🏥 Services: Primary Care
+📞 520-806-2650
+🗺 https://maps.google.com/?q=32.13335,-110.99676
+
+84. Elk Ridge -- Mobile Unit
+1120 W University Ave, Suite 101, Flagstaff, AZ, 86001-2851
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 928-699-2515
+🗺 https://maps.google.com/?q=35.18456,-111.66949
+
+85. ELK RIDGE - UNINCORPORATED FLAGSTAFF
+1120 W University Ave Ste 101, Flagstaff, AZ, 86001-2851
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 928-522-1300
+🗺 https://maps.google.com/?q=35.18456,-111.66949
+
+86. United Community Health Center at Sahuarita Heights
+2875 E. Sahuarita Rd., Sahuarita, AZ, 85629-9434
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.uchcaz.org
+🏥 Services: Primary Care
+📞 520-576-5770
+🗺 https://maps.google.com/?q=31.95841,-110.93028
+
+87. ELK RIDGE - WILLIAMS
+300 S 6th St, Williams, AZ, 86046-2399
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 928-635-4441
+🗺 https://maps.google.com/?q=35.24707,-112.19211
+
+88. United Community Health Center at Old Vail Middle School
+13299 E Colossal Cave Rd, Vail, AZ, 85641-9001
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.uchcaz.org
+🏥 Services: Primary Care
+📞 520-762-5200
+🗺 https://maps.google.com/?q=32.04960,-110.71130
+
+89. United Community Health Center at Freeport McMoRan Copper & Gold Building
+1260 S Campbell Ave BLDG 2, Green Valley, AZ, 85614-0503
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.uchcaz.org
+🏥 Services: Primary Care
+📞 520-407-5400
+🗺 https://maps.google.com/?q=31.85284,-110.97392
+
+90. Continental Family Medical Center
+1260 S Campbell Ave Bldg 1  STE 1, Green Valley, AZ, 85614-0503
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.uchcaz.org
+🏥 Services: Primary Care
+📞 520-407-5900
+🗺 https://maps.google.com/?q=31.85200,-110.97361
+
+91. UCHC Dental - Mobile RV 1
+1260 S Campbell Ave BLDG 1 STE 2, Green Valley, AZ, 85614
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.uchcaz.org
+🏥 Services: Primary Care
+📞 520-407-5617
+🗺 https://maps.google.com/?q=31.85200,-110.97361
+
+92. ELK RIDGE - SHOW LOW CLINIC
+2650 E Show Low Lake Rd, Show Low, AZ, 85901-7955
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 928-537-4300
+🗺 https://maps.google.com/?q=34.20246,-110.01348
+
+93. Sunset Community Health Center- Wellton
+10425 Williams St, Wellton, AZ, 85356
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://mysunsethealth.org/
+🏥 Services: Primary Care
+📞 928-785-3256
+🗺 https://maps.google.com/?q=32.67111,-114.14159
+
+94. ELK RIDGE - WINSLOW SITE
+620 WEST LEE STREET, Winslow, AZ, 86047-2435
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 928-289-2000
+🗺 https://maps.google.com/?q=35.03666,-110.70117
+
+95. Chiricahua Community Health Centers, Inc. Benson Family Health Center
+335 S Ocotillo Ave, Benson, AZ, 85602-6406
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.cchci.org
+🏥 Services: Primary Care
+📞 520-364-1429
+🗺 https://maps.google.com/?q=31.96642,-110.30630
+
+96. ELK RIDGE - HOLBROOK CLINIC
+2109 Navajo Blvd, Holbrook, AZ, 86025
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 928-524-2851
+🗺 https://maps.google.com/?q=34.92626,-110.14449
+
+97. MCHC - Rio Rico Clinical Site
+1103 Circulo Mercado, Rio Rico, AZ, 85648-6248
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.mariposachc.net
+🏥 Services: Primary Care
+📞 520-281-1550
+🗺 https://maps.google.com/?q=31.47027,-110.99863
+
+98. MCHC - Patagonia Family Health Center Site
+101 N Taylor Ln, Patagonia, AZ, 85624-9600
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.mariposachc.net
+🏥 Services: Primary Care
+📞 520-281-1550
+🗺 https://maps.google.com/?q=31.54111,-110.75211
+
+99. Yuma
+1185 S Redondo Center Dr  STE 3, Yuma, AZ, 85365-2036
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.hhwaz.org/
+🏥 Services: Primary Care
+📞 480-983-0065
+🗺 https://maps.google.com/?q=32.70646,-114.61199
+
+100. MCHC - Mesquite Building Site
+1835 N Mastick Way, Nogales, AZ, 85621-1064
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.mariposachc.net
+🏥 Services: Primary Care
+📞 520-281-1550
+🗺 https://maps.google.com/?q=31.36561,-110.93413
+
+101. Mariposa Community Health Center
+507 North Western Avenue, Nogales, AZ, 85621-2060
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 520-761-2128
+🗺 https://maps.google.com/?q=31.34216,-110.95149
+
+102. Sunset Mobile Medical Unit
+115 NORTH SOMERTON AVENUE, SOMERTON, AZ, 85350-0538
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://mysunsethealth.org/
+🏥 Services: Primary Care
+📞 928-819-8999
+🗺 https://maps.google.com/?q=32.59691,-114.70991
+
+103. ELK RIDGE - KINGMAN CLINIC
+1510 Stockton Hill Road, Kingman, AZ, 86401
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 928-753-1177
+🗺 https://maps.google.com/?q=35.20201,-114.03277
+
+104. ELK RIDGE - SPRINGERVILLE CLINIC
+488 S MOUNTAIN AVE, SPRINGERVILLE, AZ, 85938-5103
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 928-333-0127
+🗺 https://maps.google.com/?q=34.12578,-109.28956
+
+105. SUNSET CHC - SAN LUIS DENTAL
+801 N. 2ND AVE, SAN LUIS, AZ, 85349-2017
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://mysunsethealth.org/
+🏥 Services: Primary Care
+📞 928-627-8584
+🗺 https://maps.google.com/?q=32.49230,-114.77985
+
+106. ELK RIDGE - GRAND CANYON SITE
+1 Clinic Rd, Grand Canyon, AZ, 86023-0290
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 928-638-2551
+🗺 https://maps.google.com/?q=36.04772,-112.12861
+
+107. Chiricahua Community Health Centers, Inc. Cliff Whetten Clinic
+10566 N Highway 191, Elfrida, AZ, 85610-9021
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.cchci.org
+🏥 Services: Primary Care
+📞 520-642-2222
+🗺 https://maps.google.com/?q=31.69708,-109.68753
+
+108. Bisbee Administration and Community Health
+310 Arizona St, Bisbee, AZ, 85603-1502
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.cchci.org
+🏥 Services: Primary Care
+📞 520-364-1429
+🗺 https://maps.google.com/?q=31.41287,-109.87718
+
+109. Medical Mobile Clinic- 'Hank'
+815 E 15th St, Douglas, AZ, 85607-1631
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🏥 Services: Primary Care
+📞 429-429-1429 x41429
+🗺 https://maps.google.com/?q=31.34927,-109.54912
+
+110. CCHCI Mobile Dental Unit
+1100 F Ave, Douglas, AZ, 85607-1919
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.cchci.org
+🏥 Services: Primary Care
+📞 520-364-3285
+🗺 https://maps.google.com/?q=31.34573,-109.55327
+
+111. Chiricahua Community Health Centers, Inc. Douglas Acute Care, Laboratory, and Pharmacy
+1111 N F Ave, Douglas, AZ, 85607-1918
+📝 HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://cchci.org
+🏥 Services: Primary Care
+📞 520-364-1429
+🗺 https://maps.google.com/?q=31.34597,-109.55263
+
