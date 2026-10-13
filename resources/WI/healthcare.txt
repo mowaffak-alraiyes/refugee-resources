@@ -866,3 +866,647 @@ University Ave, Green Bay, WI 54302-5008
 📞 (414) 962-1200
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
 
+125. Kenosha Community Health Center - 14th Avenue Clinic
+6226 14th Ave, Kenosha, WI 53143-4413
+🌐 http://www.kenoshachc.org
+🏥 Services: Dental
+📞 (262) 771-3559
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+126. Brown County Oral Health Partnership -  New West Dental Clinic
+204 Siegler St, Green Bay, WI 54303-9202
+🌐 https://smilegb.org/
+🏥 Services: Dental
+📞 (920) 965-0831
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+127. Kenosha Community Health Center - Pillar Health
+4006 Washington Rd, Kenosha, WI 53144-4819
+🌐 http://www.pillarhealthcare.org
+🏥 Services: Dental, Mental Health
+📞 (262) 771-3559
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+128. Progressive CHC - Lisbon Avenue Health Center
+3522 W Lisbon Ave, Milwaukee, WI 53208-1953
+🌐 http://www.progressivechc.org
+🏥 Services: Dental
+📞 (414) 935-8000
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+129. Access Community Health Centers - Joyce & Marshall Erdman Clinic
+2202 S Park St, Madison, WI 53713-1916
+🌐 http://www.accesscommunityhealthcenters.org
+🏥 Services: Dental
+📞 (608) 443-5526
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+130. Brown County Oral Health Partnership - West Children's Dental Clinic
+2247 Fox Heights Ln, Green Bay, WI 54304-4747
+🌐 http://www.smilegb.org
+🏥 Services: Dental
+📞 (920) 965-0831
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+131. Oneida Nation - Behavioral Health Ka'nikuhli yo Family Center
+2640 W Point Rd, Green Bay, WI 54304-1344
+🌐 https://oneida-nsn.gov/resources/health/
+🏥 Services: Mental Health
+📞 (920) 490-3790
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+132. Gerald L. Ignace Indian Health Center
+930 W Historic Mitchell St, Milwaukee, WI 53204-3578
+🌐 http://www.gliihc.net
+🏥 Services: Mental Health
+📞 (414) 383-9526
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+133. Professional Services Group - Kenosha
+4623 75th St, Kenosha, WI 53142-3707
+🌐 http://www.psgcip.com
+🏥 Services: Mental Health
+📞 (262) 652-2406
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+134. Shorehaven Behavioral Health, Inc.
+3900 W Brown Deer Rd, Suite 200, Milwaukee, WI 53209-1220
+🌐 http://www.shorehavenbhi.com
+🏥 Services: Mental Health
+📞 (414) 540-2170
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+135. Sixteenth Street Community Health Centers - Mental Health Support Center
+1635 W National Ave, Milwaukee, WI 53204-1130
+🌐 http://www.sschc.org
+🏥 Services: Mental Health
+📞 (414) 897-5193
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+136. Sixteenth Street Community Health Centers - Layton Clinic
+450 S 2nd St, Milwaukee, WI 53204-1611
+🌐 http://www.sschc.org
+🏥 Services: Mental Health
+📞 (414) 897-5193
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+137. Tellurian Behavioral Health
+702 West Main Street, Madison, WI 53715
+🌐 https://
+🏥 Services: Mental Health
+📞 (608) 258-3446
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+138. Family Services of Northeast WI
+300 Crooks Street, Green Bay, WI 54301
+🌐 https://www.familyservicesnew.org/
+🏥 Services: Mental Health
+📞 (920) 436-6800
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+139. Jackie Nitschke Center Inc
+630 Cherry Street, Green Bay, WI 54301
+🌐 https://
+🏥 Services: Mental Health
+📞 (920) 435-2093
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+140. La Causa Inc
+5235 North Ironwood Road, Milwaukee, WI 53217
+🌐 https://www.lacausa.org
+🏥 Services: Mental Health
+📞 (414) 602-1622
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+141. Reach Inc - Comprehensive Menth Health Clinic
+4550 West Bradley Road, Milwaukee, WI 53223
+🌐 https://www.reachclinic.org
+🏥 Services: Mental Health
+📞 (414) 371-1600
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+142. Guest House Counseling Clinic
+1216 North 13th Street, Milwaukee, WI 53205
+🌐 https://www.guesthouseofmilwaukee.org
+🏥 Services: Mental Health
+📞 (414) 345-3240
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+143. Marriage and Family Solutions LLC
+6131 Nesbitt Road, Suite 200, Madison, WI 53719
+🌐 https://www.marriagesolutionsmadison.com
+🏥 Services: Mental Health
+📞 608-203-6267 x1
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+144. Green Bay Comprehensive Treatment Ctr - Quality Addiction Management Inc
+2357 West Mason Street, Green Bay, WI 54303
+🌐 https://www.ctcprograms.com/location/green-bay-comprehensive-treatment-center/
+🏥 Services: Mental Health
+📞 920-337-6740 x217
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+145. Foundations Health and Wholeness
+1061 West Mason Street, Green Bay, WI 54303
+🌐 https://www.wearefoundations.org
+🏥 Services: Mental Health
+📞 (920) 437-8256
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+146. Rogers Behavioral Health - Madison
+406 Science Drive, Suite 110, Madison, WI 53711
+🌐 https://rogersbh.org/
+🏥 Services: Mental Health
+📞 (608) 238-4411
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+147. Elite Cognition LLC
+3101 Latham Drive, Madison, WI 53713
+🌐 https://www.elitecognitionllc.com
+🏥 Services: Mental Health
+📞 (608) 286-1132
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+148. UnityPoint Health Meriter - Adult Inpatient Psychiatry
+202 South Park Street, Madison, WI 53713
+🌐 https://www.unitypoint.org
+🏥 Services: Mental Health
+📞 (608) 417-6000
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+149. ARC Community Services Inc - ARC Center for Women and Children
+1409 Emil Street, Suite 100, Madison, WI 53713
+🌐 https://www.arccommserv.com
+🏥 Services: Mental Health
+📞 (608) 283-6426
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+150. UnityPoint Health/Meriter Hospital - Child and Adol Psychiatry Program
+8102 Wellness Way, Madison, WI 53719
+🌐 https://www.unitypoint.org
+🏥 Services: Mental Health
+📞 (608) 417-8777
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+151. Alternatives in Psychological - Consultation SC
+6737 West Washington Street, Suite 1300, Milwaukee, WI 53214
+🌐 https://www.altlig.com
+🏥 Services: Mental Health
+📞 (414) 358-7144
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+152. Sagent Behavioral Health
+480 Pilgrim Way, Suite 1300-A, Green Bay, WI 54304
+🌐 https://www.sagentbh.com
+🏥 Services: Mental Health
+📞 (920) 640-5119
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+153. Emplify Health and Behavioral Health
+301 East St Josephs Street, Green Bay, WI 54301
+🌐 https://www.bellin.org
+🏥 Services: Mental Health
+📞 (920) 433-6073
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+154. Vivent Health
+445 South Adams Street, Green Bay, WI 54301
+🌐 https://www.viventhealth.org
+🏥 Services: Mental Health
+📞 (920) 437-7400
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+155. Rawhide Inc - Youth and Family Counseling
+143 East Lincoln Avenue, Milwaukee, WI 53207
+🌐 https://www.rawhide.org
+🏥 Services: Mental Health
+📞 (877) 300-9101
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+156. Rawhide Inc - Youth and Family Counseling
+5555 North Port Washington Road, Suite 207, Milwaukee, WI 53217
+🌐 https://www.rawhide.org
+🏥 Services: Mental Health
+📞 (877) 300-9101
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+157. Willow Creek Behavioral Health
+1351 Ontario Road, Green Bay, WI 54311
+🌐 https://www.willowcreekbh.com
+🏥 Services: Mental Health
+📞 (920) 328-1220
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+158. Clement J Zablocki VAMC - Green Bay Clinic
+2851 University Avenue, Green Bay, WI 54311
+🌐 https://
+🏥 Services: Mental Health
+📞 (414) 384-2000
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+159. Brown County Human Services Department
+3150 Gershwin Drive, Green Bay, WI 54311
+🌐 https://www.co.brown.wi.us
+🏥 Services: Mental Health
+📞 (920) 391-6940
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+160. Rogers Behavioral Health - Outpatient Center
+4555 West Schroeder Drive, Milwaukee, WI 53223
+🌐 https://rogersbh.org/
+🏥 Services: Mental Health
+📞 (414) 355-9000
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+161. Rogers Behavioral Health - Brown Deer
+4600 West Schroeder Drive, Milwaukee, WI 53223
+🌐 https://www.rogersbh.org
+🏥 Services: Mental Health
+📞 (414) 865-2500
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+162. Columbia Saint Marys Hospital - Behavioral Health
+2323 North Lake Drive, Milwaukee, WI 53211
+🌐 https://www.ascension.org
+🏥 Services: Mental Health
+📞 (414) 585-1620
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+163. STRONG Child and Adolescent Day - Day Treatment Program
+510 East Burleigh Street, Milwaukee, WI 53212
+🌐 https://christianfamilysolutions.org
+🏥 Services: Mental Health
+📞 (262) 293-9747
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+164. Benedict Center - Womens Harm Reduction Program
+1849 North Martin Luther King Drive, Suite 101, Milwaukee, WI 53212
+🌐 https://www.benedictcenter.org
+🏥 Services: Mental Health
+📞 414-347-1774 x202
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+165. Vivent Health
+1311 North 6th Street, Milwaukee, WI 53212
+🌐 https://www.viventhealth.org
+🏥 Services: Mental Health
+📞 (414) 273-1991
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+166. MLK Heritage Health Center - Behavioral Health Services Center
+2555 North Martin Luther King Drive, Milwaukee, WI 53212
+🌐 https://www.mhsi.org
+🏥 Services: Mental Health
+📞 (414) 372-8080
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+167. Libertas Treatment Center
+1701 Dousman Street, Green Bay, WI 54303
+🌐 https://www.hshs.org/libertas
+🏥 Services: Mental Health
+📞 (920) 498-8600
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+168. Family Services of Northeast WI - Day Treatment
+P.O. Box 22308, Green Bay, WI 54305
+🌐 https://www.familyservicesnew.org
+🏥 Services: Mental Health
+📞 (920) 433-3372
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+169. Jackie Nitschke Center Inc
+PO Box 1085, Green Bay, WI 54305
+🌐 https://www.jackienitschkecenter.org
+🏥 Services: Mental Health
+📞 (920) 435-2093
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+170. American Behavioral Clinics - Layton Clinic
+7330 West Layton Avenue, Milwaukee, WI 53220
+🌐 https://www.americanbehavioralclinics.com
+🏥 Services: Mental Health
+📞 (414) 877-4570
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+171. Sagent Behavioral Health
+4131 West Loomis Road, Suite 120, Milwaukee, WI 53221
+🌐 https://www.sagentbh.com
+🏥 Services: Mental Health
+📞 (414) 424-2445
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+172. Captain James A Lovell FHCC - Kenosha CBOC
+8207 22nd Avenue, Kenosha, WI 53140
+🌐 https://www.va.gov/lovell-federal-health-care-va/locations/kenosha-va-clinic/
+🏥 Services: Mental Health
+📞 (224) 610-5834
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+173. Rogers Behavioral Health - Kenosha
+9916 75th Street, Suite 205, Kenosha, WI 53142
+🌐 https://www.rogersbh.org
+🏥 Services: Mental Health
+📞 (262) 942-4000
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+174. Childrens Service Society of WI
+6809 122 Avenue, Kenosha, WI 53142
+🌐 https://www.chw.org
+🏥 Services: Mental Health
+📞 (262) 633-3591
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+175. Oakwood Clinical Associates Ltd
+4109 67th Street, Kenosha, WI 53142
+🌐 https://www.oakwoodclinical.com
+🏥 Services: Mental Health
+📞 (262) 652-9830
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+176. West Grove Clinic SC
+1400 75th Street, Suite 1, Kenosha, WI 53143
+🌐 https://www.westgroveclinic.com
+🏥 Services: Mental Health
+📞 (262) 909-6008
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+177. Journey Mental Health Center - Yahara House
+802 East Gorham Street, Madison, WI 53703
+🌐 https://www.journeymhc.org/service/community-based
+🏥 Services: Mental Health
+📞 (608) 280-2700
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+178. Community Services Associates - Pauquette Ctr for Psychological Servs
+2702 International Lane, Suite 102, Madison, WI 53704
+🌐 https://www.pauquette.com
+🏥 Services: Mental Health
+📞 (608) 742-5518
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+179. Childrens Service Society of WI - DBA Childrens Hosp of WI Comm Servs
+1716 Fordem Avenue, Madison, WI 53704
+🌐 https://www.childrenswi.org
+🏥 Services: Mental Health
+📞 (608) 221-3511
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+180. Empower Recovery
+313 Price Place, Suite 208, Madison, WI 53705
+🌐 https://empowermyrecovery.com
+🏥 Services: Mental Health
+📞 (608) 571-3866
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+181. Saint Marys Hospital Medical Center
+700 South Park Street, Madison, WI 53715
+🌐 https://www.ssmhealth.com
+🏥 Services: Mental Health
+📞 (608) 258-6697
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+182. 5 Door Recovery
+810 West Olin Avenue, Madison, WI 53715
+🌐 https://www.5doorrecovery.org/contact/
+🏥 Services: Mental Health
+📞 (608) 827-9181
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+183. Tellurian Behavioral Health
+300 Femrite Drive, Madison, WI 53716
+🌐 https://www.tellurian.org
+🏥 Services: Mental Health
+📞 (608) 222-7311
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+184. WellBrook Recovery - Madison
+708 Heartland Trail, Suite 3000, Madison, WI 53717
+🌐 https://www.wellbrookrecovery.com
+🏥 Services: Mental Health
+📞 (608) 736-9579
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+185. Sagent Behavioral Health
+1001 Fourier Drive, Suite 200, Madison, WI 53717
+🌐 https://www.sagentbh.com
+🏥 Services: Mental Health
+📞 (608) 740-2001
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+186. Be the Change Health and Wellness
+240 North Milwaukee Street, Suite 202, Milwaukee, WI 53202
+🌐 https://www.BetheChangeHealthWellness.com
+🏥 Services: Mental Health
+📞 (262) 646-8288
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+187. Jewish Family Services
+1300 North Jackson Street, Milwaukee, WI 53202
+🌐 https://jfsmilw.org
+🏥 Services: Mental Health
+📞 (414) 225-1300
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+188. Word of Hope Ministries - ATODA Program
+2677 North 40th Street, Milwaukee, WI 53210
+🌐 https://www.wohminc.org
+🏥 Services: Mental Health
+📞 414-447-1965 x222
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+189. Forward Choices LLC
+6040 West Lisbon Avenue, Suite 103, Milwaukee, WI 53210
+🌐 https://forwardchoices.com
+🏥 Services: Mental Health
+📞 (414) 442-1751
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+190. Granite Hills Hospital
+1706 South 68th Street, Milwaukee, WI 53214
+🌐 https://
+🏥 Services: Mental Health
+📞 (414) 667-4800
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+191. Childrens Hospital of Wisconsin - Community Services
+620 South 76th Street, Suite 240, Milwaukee, WI 53214
+🌐 https://childrenswi.org/
+🏥 Services: Mental Health
+📞 (414) 292-4242
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+192. MD Therapy
+6815 West Capitol Drive, Suite 208, Milwaukee, WI 53216
+🌐 https://mdtherapybh.com
+🏥 Services: Mental Health
+📞 (414) 466-3204
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+193. Vin Baker Recovery
+4757 North 76th Street, Milwaukee, WI 53218
+🌐 https://www.vinbakerrecovery.com
+🏥 Services: Mental Health
+📞 (414) 539-6999
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+194. Milwaukee Health Services Inc - Behavioral Health Services Center
+8200 West Silver Spring Drive, Milwaukee, WI 53218
+🌐 https://www.mhsi.org
+🏥 Services: Mental Health
+📞 (414) 760-3900
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+195. West Grove Clinic SC
+10012 West Capitol Drive, Suite 101, Milwaukee, WI 53222
+🌐 https://www.westgroveclinic.com
+🏥 Services: Mental Health
+📞 (414) 810-4844
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+196. Lutheran Counseling and Family Servs
+3800 North Mayfair Road, Milwaukee, WI 53222
+🌐 https://www.lcfswi.org
+🏥 Services: Mental Health
+📞 (414) 536-8333
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+197. American Behavioral Clinics - Bluemound Clinic
+10424 West Bluemound Road, Milwaukee, WI 53226
+🌐 https://www.americanbehavioralclinics.com
+🏥 Services: Mental Health
+📞 (414) 877-4570
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+198. Childrens Wisconsin - Psychiatry and Behavioral Medicine
+8915 West Connell Court, Clinics Bldg, 5th Floor, Suite B-510, Milwaukee, WI 53226
+🌐 https://www.childrenswi.org
+🏥 Services: Mental Health
+📞 (414) 266-2932
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+199. Rogers Behavioral Health - Lincoln Outpatient Center
+2448 South 102nd Street, Suite 200, Milwaukee, WI 53227
+🌐 https://www.rogersbh.org
+🏥 Services: Mental Health
+📞 (414) 539-3030
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+200. Rogers Behavioral Health - West Allis
+11101 West Lincoln Avenue, Milwaukee, WI 53227
+🌐 https://www.rogersbh.org
+🏥 Services: Mental Health
+📞 (414) 327-3000
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+201. Centers for Independence - Whole Health Clinical Group
+2020 West Wells Street, Milwaukee, WI 53233
+🌐 https://www.cfihope.org/programs-services/behavioral-healt
+🏥 Services: Mental Health
+📞 (414) 476-9675
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+202. Clement J Zablocki VAMC - Mental Health Division
+5000 West National Avenue, Milwaukee, WI 53295
+🌐 https://www.va.gov/milwaukee-health-care/locations/
+🏥 Services: Mental Health
+📞 414-384-2000 x41275
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+203. NeuroWave Clinical Education LLC
+2363 South 102nd Street, Suite 203, Milwaukee, WI 53227
+🌐 https://www.neurowavegroup.org
+🏥 Services: Mental Health
+📞 (262) 810-4968
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+204. Journey Mental Health Center - Outpatient Services Behavioral Health
+49 Kessel Court, Suite 105, Madison, WI 53711
+🌐 https://www.journeymhc.org/service/clinic-based
+🏥 Services: Mental Health
+📞 (608) 280-2700
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+205. Journey Mental Health Center - Forward Solutions CSP
+25 Kessel Court, Suite 201, Madison, WI 53711
+🌐 https://www.journeymhc.org/services/single-page-services/forward-solutions-csp
+🏥 Services: Mental Health
+📞 (608) 280-2510
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+206. Rainbow Project Inc - Branch Office
+2096 Red Arrow Trail, Madison, WI 53711
+🌐 https://www.therainbowproject.net
+🏥 Services: Mental Health
+📞 (608) 255-7356
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+207. Multi Cultural Counseling Services - DBA Renew Counseling Services
+2500 West Layton Avenue, Suite 110, Milwaukee, WI 53221
+🌐 https://
+🏥 Services: Mental Health
+📞 (414) 383-4455
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+208. NeuroWave Therapy Group LLC
+5910 39th Avenue, Kenosha, WI 53144
+🌐 https://www.neurowavegroup.org
+🏥 Services: Mental Health
+📞 (262) 833-5999
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+209. Rainbow Project Inc
+831 East Washington Avenue, Madison, WI 53703
+🌐 https://www.therainbowproject.net
+🏥 Services: Mental Health
+📞 (608) 255-7356
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+210. Common Threads Family Res Center
+1717 North Stoughton Road, Madison, WI 53704
+🌐 https://commonthreadsmadison.org
+🏥 Services: Mental Health
+📞 (608) 838-8999
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+211. Journey Mental Health Center - Gateway CSP
+208 East Olin Avenue, Suite 205, Madison, WI 53714
+🌐 https://www.journeymhc.org/services/single-page-services/gateway-csp
+🏥 Services: Mental Health
+📞 (608) 280-3150
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+212. Journey Mental Health Center - Community Treatment Alternatives CSP
+204 East Olin Avenue, Suite 201, Madison, WI 53714
+🌐 https://www.journeymhc.org/services/single-page-services/community-treatment-alternatives-cta-csp-2
+🏥 Services: Mental Health
+📞 (608) 280-2700
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+213. Shorewood Behavioral Health
+5401 Quarry Park Road, Madison, WI 53718
+🌐 https://www.shorewoodbehavioral.com/
+🏥 Services: Mental Health
+📞 (608) 910-8958
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+214. Wisconsin Community Services Inc - DBA Unlimited Potential
+3732 West Wisconsin Avenue, Suite 1300, Milwaukee, WI 53208
+🌐 https://www.wiscs.org/
+🏥 Services: Mental Health
+📞 (414) 290-0404
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+215. Access Recovery Mental Hlth Services
+2727 West Cleveland Avenue, Suite 204, Milwaukee, WI 53215
+🌐 https://www.armhswi.com
+🏥 Services: Mental Health
+📞 (414) 269-8356
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+216. Wellpoint Care Network
+8901 West Capitol Drive, Milwaukee, WI 53222
+🌐 https://www.wellpointcare.org
+🏥 Services: Mental Health
+📞 (414) 465-1376
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
