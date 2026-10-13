@@ -192,3 +192,8 @@ PO BOX 368, Woonsocket, SD, 57385-0368
 🏥 Services: Ryan White HIV/AIDS Program
 📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
 
+27. City Of Sioux Falls
+224 W 9th St, Sioux Falls, SD 57104-6407
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
