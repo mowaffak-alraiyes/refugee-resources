@@ -2974,3 +2974,9 @@ Mobile Dental Unit, Orlando, FL 32805
 📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🏥 Services: Dental
 📞 (407) 905-8827
+
+394. Hillsborough County Commissioners Board
+601 E Kennedy Blvd, Tampa, FL 33602-4156
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
