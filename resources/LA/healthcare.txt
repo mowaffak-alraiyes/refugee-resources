@@ -1925,7 +1925,7 @@ mobile, shreveport, LA, 71107
 257. Daughters of Charity Health Center - Carrollton  (Main)
 3201 S Carrollton Ave, New Orleans, LA 70118-4307
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
-🏥 Services: Ryan White HIV/AIDS Program; Migrant health center
+🏥 Services: Ryan White HIV/AIDS Program, Migrant health center, Dental, Mental Health
 📞 (504) 669-7350
 🌐 http://www.dcsno.org/
 
@@ -1976,7 +1976,7 @@ mobile, shreveport, LA, 71107
 265. St. Thomas Community Health Center, Inc. - Saint Andrew
 1020 Saint Andrew St, New Orleans, LA 70130-5022
 📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
-🏥 Services: Migrant health center; Primary care
+🏥 Services: Migrant health center, Primary Care, Mental Health
 📞 (504) 529-5558
 🌐 http://www.stthomaschc.org
 
@@ -2017,6 +2017,76 @@ mobile, shreveport, LA, 71107
 
 271. City Of New Orleans
 1300 Perdido St STE 8E18, New Orleans, LA 70112-2125
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+272. Louisiana State Doh & Hospitals
+1450 Poydras St STE 1652, New Orleans, LA 70112-1227
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+273. Administrators Of The Tulane Educational Fund, The
+6823 Saint Charles Ave, New Orleans, LA 70118-5665
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+274. Lsu Health System Health Care Services Division
+5429 Airline Hwy, Baton Rouge, LA 70805
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+275. Concerned Citizens For A Better Algiers D/B/A Home Again
+1417 Nunez St, New Orleans, LA 70114-5824
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+276. Project Lazarus
+2824 Dauphine St, New Orleans, LA 70117-7324
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+277. Volunteers Of America Region 2
+2124 Wooddale Blvd, Baton Rouge, LA 70806-1441
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+278. Administrators Of The Tulane Education
+1430 Tulane Ave, New Orleans, LA 70112-2632
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+279. Baton Rouge, City Of
+222 Saint Louis St Fl 7, Baton Rouge, LA 70802-5817
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+280. Women'S Hospital
+8850 Airline Hwy, Baton Rouge, LA 70815-4003
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+281. Jeff Murray'S Programming Shop
+1215 Prytania St Ste 235, New Orleans, LA 70130-4476
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+282. Frontline
+631 Saint Charles Ave, New Orleans, LA 70130-3411
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+283. Bach Therapeutic Counseling Services
+3926 Fairmont Dr, New Orleans, LA 70122-4820
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+284. Samantha Kemp
+8369 Greenmoss Dr, Baton Rouge, LA 70806-3128
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+285. Deveney Communication Consulting
+1733 Constantinople St, New Orleans, LA 70115-4709
 🏥 Services: Ryan White HIV/AIDS Program
 📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
 
