@@ -610,3 +610,240 @@ Overland Park, KS
 🏥 Services: Ryan White HIV/AIDS Program
 📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
 
+87. HealthCore Clinic
+20 E 21st St N, Wichita, KS 67214-1032
+🌐 http://www.healthcoreclinic.org
+🏥 Services: Dental
+📞 (316) 691-0249
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+88. GraceMed Helen Galloway Family Clinic
+1122 N Topeka St, Wichita, KS 67214-2810
+🌐 http://www.gracemed.org
+🏥 Services: Dental
+📞 (316) 866-2000
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+89. Hunter Health - Main Clinic
+2318 E Central Ave, Wichita, KS 67214-4482
+🌐 http://www.hunterhealth.org
+🏥 Services: Dental
+📞 (316) 260-9158
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+90. Andover Family Counseling - Wichita
+550 N 159th St E, Wichita, KS 67230-7517
+🌐 https://andoverfamilycounseling.com
+🏥 Services: Mental Health
+📞 (316) 247-3063
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+91. The Therapy Center
+6606 W Central Ave, Wichita, KS 67212-3397
+🏥 Services: Mental Health
+📞 (316) 221-2661
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+92. Collaborative Counseling Center, LLC
+800 E 1st St N, Wichita, KS 67202-2787
+🌐 https://www.c-counseling.com
+🏥 Services: Mental Health
+📞 (316) 854-1053
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+93. Florence Crittenton Services
+5423 SW 7th Street, Topeka, KS 66606
+🌐 https://www.flocritkansas.org
+🏥 Services: Mental Health
+📞 (785) 233-0516
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+94. Astra Mental Health and Recovery - Adult Campus
+330 SW Oakley Avenue, Topeka, KS 66606
+🌐 https://www.astraks.org
+🏥 Services: Mental Health
+📞 (785) 215-8888
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+95. Astra Mental Health and Recovery - Youth Campus
+327 SW Frazier Avenue, Topeka, KS 66606
+🌐 https://www.astraks.org
+🏥 Services: Mental Health
+📞 (785) 215-8888
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+96. Florence Crittenton Services of Topeka
+2649 SW Arrowhead Road, Topeka, KS 66614
+🌐 https://www.flocritkansas.org
+🏥 Services: Mental Health
+📞 (785) 233-0516
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+97. DCCCA Inc - Womens Recov Ctr of Central Kansas
+8901 East Orme Street, Wichita, KS 67207
+🌐 https://www.dccca.org
+🏥 Services: Mental Health
+📞 (316) 262-0505
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+98. University of Kansas Hospital - Strawberry Hill Campus
+901 North 5th Street, Kansas City, KS 66101
+🌐 https://www.kansashealthsystem.com/care/specialties/general-psychiatry
+🏥 Services: Mental Health
+📞 (913) 942-5100
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+99. Cottonwood Springs Changes
+15040 West 138th Street, Olathe, KS 66062
+🌐 https://changescottonwood.com
+🏥 Services: Mental Health
+📞 (913) 254-7265
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+100. Cottonwood Springs
+13351 South Arapaho Drive, Olathe, KS 66062
+🌐 https://cottonwoodsprings.com/
+🏥 Services: Mental Health
+📞 (913) 353-3000
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+101. Clinical Associates PA
+8629 Bluejacket Street, Suite 100, Overland Park, KS 66214
+🌐 https://www.clinical-assoc.com
+🏥 Services: Mental Health
+📞 (913) 677-3553
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+102. Nuhope Services
+11633 West 83rd Terrace, Overland Park, KS 66214
+🌐 https://nuhopeservice.com/
+🏥 Services: Mental Health
+📞 (913) 942-4039
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+103. AdventHealth Shawnee Mission
+9100 West 74th Street, Overland Park, KS 66204
+🌐 https://www.adventhealth.com
+🏥 Services: Mental Health
+📞 (913) 676-2000
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+104. Johnson County Mental Health Center - Outpatient Addiction Services
+1125 West Spruce Street, Olathe, KS 66061
+🌐 https://www.jocogov.org/dept/mental-health/home
+🏥 Services: Mental Health
+📞 (913) 826-4200
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+105. Cornerstones of Care - Kansas
+6420 West 95th Street, Suite 100, Overland Park, KS 66212
+🌐 https://www.cornerstonesofcare.org/
+🏥 Services: Mental Health
+📞 (913) 826-3150
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+106. University of Kansas Health System - Marillac Campus
+8000 127th Street, Overland Park, KS 66213
+🌐 https://www.kansashealthsystem.com/care/specialties/child-adolescent-psychiatry
+🏥 Services: Mental Health
+📞 (913) 574-3800
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+107. Topeka ER and Hospital
+6135 SW 17th Street, Topeka, KS 66615
+🌐 https://www.topekahospital.com
+🏥 Services: Mental Health
+📞 (785) 670-6760
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+108. VA Eastern Kansas Healthcare System - SUD C
+2200 South West Gage Boulevard, Unit 2-3C, Topeka, KS 66622
+🌐 https://www.va.gov/eastern-kansas-health-care/locations/
+🏥 Services: Mental Health
+📞 785-350-3111 x53167
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+109. Kansas Childrens Service League
+1365 North Custer Street, Wichita, KS 67203
+🌐 https://www.kcsl.org
+🏥 Services: Mental Health
+📞 (316) 686-6671
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+110. Prairie View Inc - Wichita
+7570 West 21st Street, Suite 1026-D, Wichita, KS 67205
+🌐 https://www.prairieview.org
+🏥 Services: Mental Health
+📞 (316) 729-6555
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+111. Caring Center of Wichita
+714 South Hillside Street, Wichita, KS 67211
+🌐 https://thecaringcenterofwichita.com
+🏥 Services: Mental Health
+📞 (316) 295-4800
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+112. Hunter Health
+527 North Grove Street, Wichita, KS 67214
+🌐 https://www.hunterhealth.org
+🏥 Services: Mental Health
+📞 (316) 262-2415
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+113. COMCARE of Sedgwick County - Adult Same Day Assessment
+4035 East Harry Street, Wichita, KS 67218
+🌐 https://www.sedgwickcounty.org/comcare
+🏥 Services: Mental Health
+📞 (316) 660-1100
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+114. Henry Ford Behav Health Medical Group
+1515 South Clifton Avenue, Suite 300, Wichita, KS 67218
+🌐 https://healthcare.ascension.org
+🏥 Services: Mental Health
+📞 (316) 858-0550
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+115. Mental Health America of South Central
+9415 East Harry Street, Suite 800, Wichita, KS 67207
+🌐 https://www.mhasck.org
+🏥 Services: Mental Health
+📞 (316) 652-2590
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+116. COMCARE of Sedgwick County - Childrens Services
+1938 North Woodlawn Boulevard, Suites 300, 301, 400 and 401, Wichita, KS 67208
+🌐 https://www.sedgwickcounty.org/comcare/youth-mental-health
+🏥 Services: Mental Health
+📞 (316) 660-9600
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+117. Futures First
+434 Minnesota Avenue, Kansas City, KS 66101
+🌐 https://www.futuresfirstkc.org
+🏥 Services: Mental Health
+📞 (913) 342-1110
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+118. Wyandot Behavioral Health Network
+1301 North 47th Street, Kansas City, KS 66102
+🌐 https://www.wyandotbhn.org/location/mental-health/
+🏥 Services: Mental Health
+📞 (913) 233-3300
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+119. Wyandot Center for Community - Behavioral Healthcare Inc
+7840 Washington Avenue, Kansas City, KS 66112
+🌐 https://www.wyandotbhn.org
+🏥 Services: Mental Health
+📞 (913) 563-6500
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+120. Awakenings KC
+5300 West 94th Terrace, Suite 200, Overland Park, KS 66207
+🌐 https://www.awakeningskc.com
+🏥 Services: Mental Health
+📞 (913) 381-8555
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
