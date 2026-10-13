@@ -197,7 +197,7 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 
 31. Primary Care Clinic at WellPower
 4455 E 12TH AVE, DENVER, CO, 80220-2415
-🏥 Services: Primary Care
+🏥 Services: Primary Care, Ryan White HIV/AIDS Program
 📞 303-504-7700
 🌐 https://www.primehealthplus.org
 🗣 Languages: You Speak, Or Your Health Status, Spanish, English
@@ -386,7 +386,7 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 61. STRIDE CHC  -  Peoria
 3292 Peoria St, Aurora, CO, 80010
 🌐 https://www.stridechc.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care, Dental
 📞 303-343-6130
 
 62. STRIDE CHC -Alameda
@@ -680,7 +680,7 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 110. Health Center at Academy, Suite 3300
 3207 N. Academy Boulevard STE 3300, Colorado Springs, CO, 80917-5100
 🌐 https://www.peakvista.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care, Ryan White HIV/AIDS Program
 📞 719-632-5700
 
 111. Developmental Disabilities Health Center
@@ -1246,7 +1246,7 @@ CU Anschutz Health and Wellness Center, 12348 E. Montview Blvd, Aurora, CO 80045
 206. Tepeyac Community Health Center
 2101 E 48th Ave, Denver, CO 80216-2253
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
-🏥 Services: Ryan White HIV/AIDS Program
+🏥 Services: Ryan White HIV/AIDS Program, Mental Health
 📞 (303) 458-5302
 
 207. Porch Light Health - Colorado Springs
@@ -1273,7 +1273,7 @@ CU Anschutz Health and Wellness Center, 12348 E. Montview Blvd, Aurora, CO 80045
 210. Colorado Coalition for the Homeless - Housing First Broadway
 2100 N Broadway, Denver, CO 80205-2526
 📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
-🏥 Services: Health Care for the Homeless; Primary care
+🏥 Services: Health Care for the Homeless, Primary Care, Mental Health
 📞 (303) 293-2220
 🌐 http://www.coloradocoalition.org
 
@@ -1301,7 +1301,7 @@ CU Anschutz Health and Wellness Center, 12348 E. Montview Blvd, Aurora, CO 80045
 214. Colorado Coalition for the Homeless - Stout Street Health Center
 2130 Stout St, Denver, CO 80205-2827
 📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
-🏥 Services: Health Care for the Homeless; Primary care
+🏥 Services: Health Care for the Homeless, Primary Care, Mental Health
 📞 (303) 293-2220
 🌐 http://www.coloradocoalition.org/
 
@@ -1445,6 +1445,51 @@ CU Anschutz Health and Wellness Center, 12348 E. Montview Blvd, Aurora, CO 80045
 
 235. Colorado Department Of Public Health & Environment
 4300 Cherry Creek South Dr, Denver, CO 80246-1523
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+236. The Regents Of The University Of Colorado
+13001 E 17th Pl, Aurora, CO 80045-2570
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+237. Arts Special Services
+2121 E 18th Ave, Denver, CO 80206-1127
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+238. Empowerment Program, Inc
+1600 York St STE 201, Denver, CO 80206-1422
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+239. Project Angel Heart
+4950 Washington St, Denver, CO 80216-2026
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+240. Servicios De La Raza Inc
+3131 W 14th Ave, Denver, CO 80204-2203
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+241. University Of Colorado Hospital HIV/Aids Primary Care Program
+1635 Aurora Ct STE B163, Aurora, CO 80045-2541
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+242. It Takes A Village
+1475 N Lima St, Aurora, CO 80010-3514
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+243. Mile High Behavioral Healthcare
+655 N Broadway, Denver, CO 80203-3420
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+244. Josh Billig
+1590 Little Raven St UNIT 1002, Denver, CO 80202-6184
 🏥 Services: Ryan White HIV/AIDS Program
 📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
 
