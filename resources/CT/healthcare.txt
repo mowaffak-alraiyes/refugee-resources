@@ -1756,13 +1756,13 @@ Yale Physicians Building, 800 Howard Ave, 1st Floor, New Haven, CT 06519
 239. Charter Oak Health Center
 21 Grand St, Hartford, CT 06106-1541
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
-🏥 Services: Ryan White HIV/AIDS Program
+🏥 Services: Ryan White HIV/AIDS Program, Mental Health
 📞 (860) 550-7500
 
 240. Fair Haven Community Health Clinic Inc
 374 Grand Ave, New Haven, CT 06513-3733
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
-🏥 Services: Ryan White HIV/AIDS Program
+🏥 Services: Ryan White HIV/AIDS Program, Mental Health
 📞 (203) 777-7411
 
 241. Fair Haven Community Health Clinic Inc
@@ -1792,7 +1792,7 @@ Yale Physicians Building, 800 Howard Ave, 1st Floor, New Haven, CT 06519
 245. Southwest Community Health Center
 46 Albion St, Bridgeport, CT 06605-2602
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
-🏥 Services: Ryan White HIV/AIDS Program
+🏥 Services: Ryan White HIV/AIDS Program, Dental, Mental Health
 📞 (203) 330-6000
 
 246. Stamford Hospital
@@ -1804,7 +1804,7 @@ Yale Physicians Building, 800 Howard Ave, 1st Floor, New Haven, CT 06519
 247. Staywell Health Care Inc.
 80 Phoenix Ave, Waterbury, CT 06702-1418
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
-🏥 Services: Ryan White HIV/AIDS Program
+🏥 Services: Ryan White HIV/AIDS Program, Mental Health
 📞 (203) 756-8021
 
 248. Charter Oak Health Center, Inc. - MD Fox Manor
@@ -1887,7 +1887,7 @@ DeWitt St, New Haven, CT 06519
 259. Cornell Scott-Hill Health Center - State Street Health & Counseling Services
 911 State St, New Haven, CT 06511-3926
 📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
-🏥 Services: Migrant health center; Primary care
+🏥 Services: Migrant health center, Primary Care, Mental Health
 📞 (203) 503-3530
 🌐 http://www.hillhealthcenter.com
 
@@ -1928,7 +1928,7 @@ DeWitt St, New Haven, CT 06519
 265. New Haven Schools - Barnard Env. Science & Technology School SBHC
 170 Derby Ave, New Haven, CT 06511-5177
 📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
-🏥 Services: School-based health care for children and adolescents
+🏥 Services: School-based health care for children and adolescents, Dental
 📞 (475) 220-1238
 🌐 https://sites.google.com/nhps.net/barnard/home
 
@@ -1956,7 +1956,7 @@ DeWitt St, New Haven, CT 06519
 269. New Haven Schools- Lincoln-Bassett SBHC
 130 Bassett Street, New Haven, CT 06511
 📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
-🏥 Services: School-based health care for children and adolescents
+🏥 Services: School-based health care for children and adolescents, Dental
 📞 (475) 220-8500
 🌐 http://www.lbcsnewhaven.com/
 
@@ -2008,6 +2008,81 @@ DeWitt St, New Haven, CT 06519
 
 277. Department Of Public Health Connecticut
 410 Capitol Ave, Hartford, CT 06106-1367
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+278. Optimus Health Care
+982 E Main St, Bridgeport, CT 06608-1913
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+279. Greater Bridgeport Area Prevention Program
+1470 Barnum Ave, Bridgeport, CT 06610-3237
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+280. Liberty Community Services, Inc.
+153 East St, Ste 100, New Haven, CT 06511-5947
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+281. Liberation Programs
+339 West Ave, Bridgeport, CT 06604-4608
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+282. Yale University Aids Program
+135 College St, New Haven, CT 06510-2483
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+283. Community Renewal Team
+330 Market St, Hartford, CT 06120-2901
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+284. Latino Community Services, Inc.
+28 Grand St FL 2, Hartford, CT 06106-1506
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+285. Mercy Housing And Shelter Corporation
+211 Wethersfield Ave, Hartford, CT 06114-1148
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+286. The Hartford Gay And Lesbian Health Collective
+1841 Broad St, Hartford, CT 06114-1780
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+287. Apnh: A Place To Nourish Your Health
+1302 Chapel St, New Haven, CT 06511-4515
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+288. Stamford Hospital
+29 Hospital Plz, Stamford, CT 06902-3602
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+289. Yale New Haven Hospital Inc
+267 Grant St, Bridgeport, CT 06610-2805
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+290. Hispanic Health Council
+175 Main St, Hartford, CT 06106-1818
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+291. Leeway Inc
+40 Albert St, New Haven, CT 06511-1542
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+292. Anchor Health Initiative Corp.
+30 Myano Ln, Ste 16, Stamford, CT 06902-4532
 🏥 Services: Ryan White HIV/AIDS Program
 📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
 
