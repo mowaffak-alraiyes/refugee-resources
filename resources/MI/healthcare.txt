@@ -1430,3 +1430,9 @@ G5399 N Saginaw St, Flint, MI, 48505-1536
 🏥 Services: School-based health care for children and adolescents
 📞 (313) 567-0534
 🌐 https://healthcare.ascension.org/locations/michigan/midet/warren-ascension-southeast-michigan-community-health
+
+195. City Of Detroit-Health Department
+100 Mack Ave, Detroit, MI 48201-2416
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
