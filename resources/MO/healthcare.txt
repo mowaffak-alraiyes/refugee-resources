@@ -2120,3 +2120,11 @@ PO BOX 790355, Saint Louis, MO 63179-0355
 🏥 Services: Ryan White HIV/AIDS Program
 📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
 
+301. Lutheran Family and Childrens Servs - Saint Louis Office
+9666 Olive Boulevard, Suite 400, Saint Louis, MO 63132
+🌐 https://www.lfcsmo.org
+🗣 Languages: Spanish
+🏥 Services: Mental Health
+📞 (314) 787-5100
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
+
