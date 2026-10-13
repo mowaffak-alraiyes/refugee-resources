@@ -1942,3 +1942,35 @@
 🏥 Services: Ryan White HIV/AIDS Program
 📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
 
+262. Childrens Home Society of WA
+4001 North Cook Street, Spokane, WA 99207
+🌐 https://akinfamily.org/
+🗣 Languages: Spanish
+🏥 Services: Mental Health
+📞 (509) 598-4131
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
+
+263. Catholic Charities of Eastern WA - Community Behavioral Health Services
+P.O. Box 2253, Spokane, WA 99210
+🌐 https://www.cceasternwa.org/
+🗣 Languages: Spanish
+🏥 Services: Mental Health
+📞 (509) 242-2308
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
+
+264. Life Transitions
+6201 Pacific Avenue, Suite C-3, Tacoma, WA 98408
+🌐 https://lifetransitions2020.com
+🗣 Languages: Sign language services for the deaf and hard of hearing; Spanish; Other languages (excluding Spanish); French; Russian
+🏥 Services: Mental Health
+📞 (253) 363-1453
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
+
+265. Sunshine Terrace
+1102 South Raymond Road, Spokane, WA 99206
+🌐 https://shfi.com
+🗣 Languages: Spanish
+🏥 Services: Mental Health
+📞 (509) 892-4342
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
+
