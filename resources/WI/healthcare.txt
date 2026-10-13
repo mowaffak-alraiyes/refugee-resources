@@ -850,3 +850,19 @@ University Ave, Green Bay, WI 54302-5008
 🏥 Services: Ryan White HIV/AIDS Program
 📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
 
+123. Open Door Center for Change - West Clinic
+6502 Grand Teton Plaza, Suite 102, Madison, WI 53719
+🌐 https://www.opendoorcfc.com
+🗣 Languages: Spanish
+🏥 Services: Mental Health
+📞 (608) 827-7220
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
+
+124. Meta House Inc - Outpatient Program
+2625 North Weil Street, Milwaukee, WI 53212
+🌐 https://www.metahouse.org
+🗣 Languages: Spanish
+🏥 Services: Mental Health
+📞 (414) 962-1200
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
+
