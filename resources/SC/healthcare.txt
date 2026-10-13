@@ -1082,7 +1082,7 @@
 141. Waverly Family Practice
 1228 Harden St STE C, Columbia, SC 29204-1800
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
-🏥 Services: Ryan White HIV/AIDS Program; Pediatrics
+🏥 Services: Ryan White HIV/AIDS Program, Pediatrics, Mental Health
 📞 (803) 748-1181
 🌐 https://www.ecchc.org
 
@@ -1154,3 +1154,52 @@
 🏥 Services: Mental health
 📞 (843) 852-4100
 🌐 https://fcfetter.com
+
+153. Prisma Health Pediatrics Associates Powdersville
+207 Three Bridges Rd, Greenville, SC 29611-7549
+🏥 Services: Rural health clinic, Primary Care
+📞 (864) 220-1110
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+154. P H Premier Women'S Care
+209 Three Bridges Rd, Greenville, SC 29611-7549
+🏥 Services: Rural health clinic, Primary Care
+📞 (864) 522-5500
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+155. Ph Family Medicine Powdersville
+15 Roe Rd, Greenville, SC 29611-7423
+🏥 Services: Rural health clinic, Primary Care
+📞 (864) 295-2308
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+156. South Carolina Department Of Health & Environmental Control
+2600 Bull St, Columbia, SC 29201-1708
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+157. Medical University Of South Carolina
+179 Ashley Ave, Charleston, SC 29425-8908
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+158. The Cooperative Ministry
+3821 W Beltline Blvd, Columbia, SC 29204-1567
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+159. Eau Claire Cooperative Health Center
+169 Laurelhurst Ave, Columbia, SC 29210-3825
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+160. University Of South Carolina
+1400 Wheat St, Columbia, SC 29208-4112
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+161. Roper St Francis Healthcare Inc
+125 Doughty St, Charleston, SC 29403-5736
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
