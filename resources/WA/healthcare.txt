@@ -90,7 +90,7 @@
 12. Seattle Roots at Step Clinic
 1621 S Jackson St STE 201  RM 1, SEATTLE, WA, 98144-2277
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+🏥 Services: Primary Care, Ryan White HIV/AIDS Program
 📞 206-732-0311
 🗺 https://maps.google.com/?q=47.59903,-122.31058
 
@@ -627,7 +627,7 @@
 83. Mobile Site - Stability Clinic
 1148 Broadway Ste 100, Tacoma, WA, 98402-3518
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+🏥 Services: Primary Care, Ryan White HIV/AIDS Program
 📞 253-722-2161
 🗺 https://maps.google.com/?q=47.25152,-122.44013
 
@@ -1820,7 +1820,7 @@
 240. Yakima Valley Farm Workers Clinic - Unify Community Health at Northeast Community Center
 4001 N Cook St, Spokane, WA 99207-5879
 📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
-🏥 Services: Migrant health center; Primary care
+🏥 Services: Migrant health center, Primary Care, Dental, Mental Health
 📞 (509) 326-4343
 🌐 http://www.yvfwc.org
 
@@ -1874,6 +1874,66 @@
 
 248. Seattle-King County Public Health Dept
 401 5th Ave STE 1300, Seattle, WA 98104-1823
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+249. Washington State Department Of Health
+101 Israel Rd SE, Olympia, WA 98501-5570
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+250. Babes Network Ywca
+1118 5th Ave, Seattle, WA 98101-3001
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+251. Lifelong
+210 S Lucile St, Seattle, WA 98108-2432
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+252. People Of Color Against Aids Network (Pocaan)
+1820 E Pine St STE A, Seattle, WA 98122-7500
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+253. Pierce County Aids Foundation
+3009 S 40th St, Tacoma, WA 98409-5632
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+254. Spokane Regional Health District
+1101 W College Ave, Spokane, WA 99201-2087
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+255. Center For Multicultural Health
+1120 E Terrace St, Seattle, WA 98122-7405
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+256. Downtown Emergency Service Center
+515 3rd Ave, Seattle, WA 98104-2304
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+257. S. Katrease Hale
+2615 1st Ave APT 403, Seattle, WA 98121-1336
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+258. University Of Washington - Department Of Medicine
+4333 Brooklyn Ave NE, Seattle, WA 98195-1016
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+259. Ymca Of Greater Seattle
+909 4th Ave, Seattle, WA 98104-1108
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+260. Peer Washington
+1520 Bellevue Ave, Ste 100, Seattle, WA 98122-7602
 🏥 Services: Ryan White HIV/AIDS Program
 📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
 
