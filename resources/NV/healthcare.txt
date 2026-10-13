@@ -491,3 +491,43 @@
 🏥 Services: Ryan White HIV/AIDS Program
 📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
 
+73. North Neighborhood Family Servs Center
+4538 West Craig Road, Suite 290, North Las Vegas, NV 89032
+🌐 https://www.dcfs.nv.gov
+🗣 Languages: Spanish
+🏥 Services: Mental Health
+📞 (702) 486-6100
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
+
+74. Apple Grove Treatment Center LLC
+3155 East Patrick Lane, Suite 1, Las Vegas, NV 89120
+🌐 https://www.applegrovefostercare.com
+🗣 Languages: Spanish
+🏥 Services: Mental Health
+📞 (702) 992-0576
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
+
+75. South Neighborhood Fam Services Center
+1485 West Warm Springs, Suite 109, Henderson, NV 89014
+🌐 https://www.dcfs.nv.gov
+🗣 Languages: Spanish
+🏥 Services: Mental Health
+📞 (702) 486-6100
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
+
+76. New Beginnings Counseling Centers Inc.
+3675 Pecos McLeod, Suite 200, Las Vegas, NV 89121
+🌐 https://www.newbeginningscounselingcenters.com
+🗣 Languages: Spanish; Sign language services for the deaf and hard of hearing; Other languages (excluding Spanish); Tagalog
+🏥 Services: Mental Health
+📞 (702) 538-7412
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
+
+77. West Neighborhood Family Servs Ctr
+1901 Jones Boulevard, Building 7, Las Vegas, NV 89146
+🌐 https://www.dcfs.nv.gov
+🗣 Languages: Spanish
+🏥 Services: Mental Health
+📞 (702) 486-6100
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
+
