@@ -2701,7 +2701,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 479. Angeles Community Health Center  -  7th Street  -  Fl 3
 1919 W 7th St Fl 3, Los Angeles, CA, 90057-4103
 🌐 https://www.angelescommunity.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care, Dental
 📞 323-413-2222
 
 480. CLINICA MSR O.A. ROMERO-ALVARDO
@@ -3051,7 +3051,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 4650 W. Sunset Blvd, MS #76, Los Angeles, CA, 90027-6062
 📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center; Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.altamed.org
-🏥 Services: Primary Care; Pediatrics; Migrant health center
+🏥 Services: Primary Care, Pediatrics, Migrant health center, Ryan White HIV/AIDS Program
 📞 888-499-9303
 
 538. AltaMed Behavioral Health at Animo Ellen Ochoa Charter Middle School
@@ -3318,7 +3318,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 
 582. Anita May Rosenstein Campus (AMRC) - McCadden Place
 1118 N McCadden Pl, Los Angeles, CA, 90038-1213
-🏥 Services: Primary Care
+🏥 Services: Primary Care, Ryan White HIV/AIDS Program
 📞 323-993-7400
 
 583. The Village
@@ -3655,7 +3655,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 639. Wesley Health Centers - MLK Recuperative Care Center
 1670 E. 120th Street, West Support BLDG #14  FL 1, Los Angeles, CA, 90059-3026
 🌐 https://www.jwchinstitute.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care, Ryan White HIV/AIDS Program
 📞 424-338-2111
 
 640. ROADS Community Clinic - Lynwood
@@ -4504,7 +4504,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 785. Mobile Counseling Center II
 823 Gateway Center Way, San Diego, CA, 92102-4541
 📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
-🏥 Services: Primary Care; Migrant health center
+🏥 Services: Primary Care, Migrant health center, Ryan White HIV/AIDS Program
 📞 619-515-2300
 
 🌐 http://www.fhcsd.org
@@ -6887,7 +6887,7 @@ Admin office: UCSD Family Medicine, 9500 Gilman Drive #0696, La Jolla, CA 92093
 1204. Cares Community Health Dba One Community Health
 1500 21st St, Sacramento, CA 95811-5216
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
-🏥 Services: Ryan White HIV/AIDS Program
+🏥 Services: Ryan White HIV/AIDS Program, Mental Health
 📞 (916) 443-3299
 
 1205. Charles R Drew University Of Medicine And Science
@@ -7066,7 +7066,7 @@ S San Pedro St, Los Angeles, CA 90014-2417
 1232. LA Christian Health Centers-Pico Aliso Clinic
 1625 E 4th St, Los Angeles, CA 90033-4299
 📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
-🏥 Services: Migrant health center; Primary care
+🏥 Services: Migrant health center, Primary Care, Dental
 📞 (323) 268-8391
 🌐 http://www.lachc.com
 
@@ -7135,7 +7135,7 @@ S San Pedro St, Los Angeles, CA 90014-2417
 1242. South Central Family Health Center - Main Site
 4425 S Central Ave, Los Angeles, CA 90011-3629
 📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
-🏥 Services: Migrant health center; Primary care
+🏥 Services: Migrant health center, Primary Care, Dental
 📞 (323) 908-4247
 🌐 http://www.scfhc.org
 
@@ -7233,7 +7233,7 @@ S San Pedro St, Los Angeles, CA 90014-2417
 1256. LA Christian Health Centers-Volunteers of America Ctr.
 628 San Julian St, Los Angeles, CA 90014-2412
 📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
-🏥 Services: Migrant health center; Primary care
+🏥 Services: Migrant health center, Primary Care, Mental Health
 📞 (213) 305-9658
 🌐 http://www.lachc.com
 
@@ -7254,7 +7254,7 @@ S San Pedro St, Los Angeles, CA 90014-2417
 1259. WellSpace Health - Oak Park Health Center
 3415 Martin Luther King Jr Blvd, Sacramento, CA 95817-3648
 📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
-🏥 Services: Migrant health center; Primary care
+🏥 Services: Migrant health center, Primary Care, Dental
 📞 (916) 737-5555
 🌐 http://www.wellspacehealth.org/
 
@@ -7377,7 +7377,7 @@ S Main St, Los Angeles, CA 90013-1319
 1277. La Maestra Mobile Medical and Dental Van
 4060 Fairmount Ave, San Diego, CA 92105-1608
 📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
-🏥 Services: Dental
+🏥 Services: Dental, Mental Health
 📞 (619) 280-4213
 🌐 https://www.lamaestra.org
 
@@ -7408,6 +7408,191 @@ S Main St, Los Angeles, CA 90013-1319
 
 1282. Public Health, California Department Of
 1615 Capitol Ave, Sacramento, CA 95814-5015
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+1283. Aids Case Management, County Of San Diego
+3851 Rosecrans St, San Diego, CA 92110-3115
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+1284. Bienestar Human Services, Inc.
+5326 E Beverly Blvd, Los Angeles, CA 90022-2104
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+1285. Lac+Usc Medical Center - Rand Schrader Clinic
+1300 N Mission Rd, Los Angeles, CA 90033-1021
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+1286. Long Beach Comprehensive Health Center
+1333 Chestnut Ave, Long Beach, CA 90813-2944
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+1287. Minority Aids Project
+5149 W Jefferson Blvd, Los Angeles, CA 90016-3836
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+1288. Project Angel Food
+922 Vine St, Los Angeles, CA 90038-2702
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+1289. Salvation Army - Bethesda House- Alegria
+2737 W Sunset Blvd, Los Angeles, CA 90026-2181
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+1290. Special Services For Groups/Apait
+1730 W Olympic Blvd STE 300, Los Angeles, CA 90015-1007
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+1291. St. Mary Medical Center
+1050 Linden Ave, Long Beach, CA 90813-3321
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+1292. Usc School Of Dentistry
+925 W 34th St, Los Angeles, CA 90089-0058
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+1293. Unitedhealthcare
+3131 Camino Del Rio N STE 700, San Diego, CA 92108-5708
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+1294. Mama'S Kitchen, Inc.
+3960 Home Ave, San Diego, CA 92105-5925
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+1295. Nami San Diego
+5095 Murphy Canyon Rd STE 320, San Diego, CA 92123-4348
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+1296. Neighborhood House Association
+5660 Copley Dr, San Diego, CA 92111-7902
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+1297. San Diego Volunteer Lawyer Program
+707 Broadway STE 1400, San Diego, CA 92101-5322
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+1298. Stepping Stone Of San Diego, Inc.
+3767 Central Ave, San Diego, CA 92105-2506
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+1299. Sunburst Projects
+2143 Hurley Way STE 240, Sacramento, CA 95825-3299
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+1300. Harm Reduction Services Incorporated
+2800 Stockton Blvd, Sacramento, CA 95817-2301
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+1301. Christie'S Place
+2440 3rd Ave, San Diego, CA 92101-1516
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+1302. Watts Healthcare Corp
+10300 Compton Ave, Los Angeles, CA 90002-3628
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+1303. University Of Southern California
+3720 S Flower St FL 3, Los Angeles, CA 90089-4304
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+1304. Center For Health Justice
+900 Avila St STE 301, Los Angeles, CA 90012-3871
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+1305. Aids Healthcare Foundation - Los Angeles County, Ca
+6255 W Sunset Blvd, Floor 21, Los Angeles, CA 90028-7422
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+1306. Alliance For Housing And Healing
+825 Colorado Blvd STE 100, Los Angeles, CA 90041-1741
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+1307. University Of California, Los Angeles
+10920 Wilshire Blvd STE 500, Los Angeles, CA 90024-6541
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+1308. Ucla School Of Dentistry
+10833 Le Conte Ave, Los Angeles, CA 90095-3075
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+1309. Lac Hubert H. Humphry
+5850 S Main St, Los Angeles, CA 90003-1215
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+1310. Los Angeles County Public Health
+600 S Commonwealth Ave, Los Angeles, CA 90005-4001
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+1311. Borrego Community Health Foundation
+955 Harbor Island Dr, Ste 110, San Diego, CA 92101-1082
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+1312. The Regents Of The University Of California, Los Angeles
+10889 Wilshire Blvd, Los Angeles, CA 90024-4201
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+1313. Los Angeles County Dhs - Housing For Health
+313 N Figueroa St, Los Angeles, CA 90012-2602
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+1314. Volunteers Of America
+3434 Marconi Ave, Sacramento, CA 95821-6242
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+1315. Golden Rule Services
+4433 Florin Rd STE 860, Sacramento, CA 95823-2544
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+1316. Inner City Law Center
+1309 E 7th St, Los Angeles, CA 90021-1101
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+1317. San Diego State University Research Foundation
+6505 Alvarado Rd STE 116, San Diego, CA 92120-5010
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+1318. Rescue Agency
+2437 Morena Blvd, San Diego, CA 92110-4152
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+1319. Lac+Usc Medical Center Foundation
+1200 N State St, Los Angeles, CA 90033
 🏥 Services: Ryan White HIV/AIDS Program
 📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
 
