@@ -1726,3 +1726,598 @@
 🏥 Services: Ryan White HIV/AIDS Program
 📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
 
+280. Eskenazi Health Center - West 38th Street
+55 W 38th St, Indianapolis, IN 46208-4349
+🌐 http://www.eskenazihealth.edu
+🏥 Services: Dental, Mental Health
+📞 (317) 880-3838
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+281. Neighborhood Health Clinics Inc. - Oxford
+3501 Warsaw St, Fort Wayne, IN 46806-4196
+🌐 https://www.mynhfw.org/
+🏥 Services: Dental
+📞 (260) 458-2641
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+282. Alliance Health Centers - The Bridge of Grace
+909 Elmrow Dr, Fort Wayne, IN 46806-3173
+🌐 https://www.myalliancehealth.org/alliance-health-centers/about
+🏥 Services: Mental Health
+📞 (260) 266-0780
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+283. Sandra Eskenazi Mental Health Center - Mood
+5610 Crawfordsville Rd, Indianapolis, IN 46224-3727
+🌐 https://www.eskenazihealth.edu/mental-health
+🏥 Services: Mental Health
+📞 (317) 880-8491
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+284. Indiana Health Centers, Inc - South Bend
+1901 W Western Ave, Suite B, South Bend, IN 46619-3570
+🌐 http://www.indianahealthonline.org
+🏥 Services: Mental Health
+📞 (317) 576-1335
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+285. Meridian Health Services - Indianapolis
+4755 Kingsway Dr, Indianapolis, IN 46205-1549
+🌐 http://www.meridianhs.org
+🏥 Services: Ryan White HIV/AIDS Program,  Mental Health
+📞 (317) 803-2270
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+286. Jane Pauley Community Health Center at Shadeland
+2040 N Shadeland Ave, Indianapolis, IN 46219-1711
+🌐 http://www.janepauleychc.org
+🏥 Services: Mental Health
+📞 (317) 934-0750
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+287. Bowen Health - Rudisill
+201 E Rudisill Blvd, Fort Wayne, IN 46806-1738
+🌐 http://www.bowencenter.org
+🏥 Services: Mental Health
+📞 (800) 342-5653
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+288. Eskenazi Health Center - Grande
+6002 E 38th St, Indianapolis, IN 46226-5614
+🌐 https://www.eskenazihealth.edu/locations/eskenazi-health-center-grande
+🏥 Services: Mental Health
+📞 (317) 880-6002
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+289. Sandra Eskenazi Mental Health Center - Adult Outpatient Programs
+1700 N Illinois St, Indianapolis, IN 46202-1316
+🌐 https://www.eskenazihealth.edu/mental-health
+🏥 Services: Mental Health
+📞 (317) 880-8491
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+290. Alliance Health Centers, Inc. - Rescue Mission
+404 E Washington Blvd, Fort Wayne, IN 46802-3210
+🌐 https://www.myalliancehealth.org/alliance-health-centers/about
+🏥 Services: Mental Health
+📞 (260) 266-0780
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+291. Meridian Health Services - Indianapolis, E Stop 11
+5230 E Stop 11 Rd, Indianapolis, IN 46237-6398
+🌐 http://www.meridianhs.org
+🏥 Services: Mental Health
+📞 (317) 961-5173
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+292. Community Fairbanks  Behavioral Health - Hillsdale
+6950 Hillsdale Ct, Indianapolis, IN 46250-2040
+🌐 https://www.ecommunity.com/services/mental-behavioral-health
+🏥 Services: Mental Health
+📞 (317) 621-7740
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+293. Hillcrest Washington Youth Home Inc
+2700 West Indiana Street, Evansville, IN 47712
+🌐 https://
+🏥 Services: Mental Health
+📞 (812) 429-9654
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+294. Ascension St Vincent Indianapolis - Stress Center
+8401 Harcourt Road, Indianapolis, IN 46260
+🌐 https://ascension.org
+🏥 Services: Mental Health
+📞 (317) 338-4600
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+295. Roudebush VA Medical Center - Substance Use Disorders Recovery Prog
+1481 West 10th Street, Indianapolis, IN 46202
+🌐 https://www.va.gov/indiana-health-care
+🏥 Services: Mental Health
+📞 (317) 988-2770
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+296. Crossroads Counseling
+2319 Edison Road, South Bend, IN 46615
+🌐 https://
+🏥 Services: Mental Health
+📞 (574) 233-4183
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+297. Oaklawn Psychiatric Center Inc
+415 East Madison Street, South Bend, IN 46617
+🌐 https://www.oaklawn.org
+🏥 Services: Mental Health
+📞 574-283-1234 x2456
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+298. NOW Counseling Services LLC - Evansville Outpatient Facility
+629 Ingle Street, Evansville, IN 47708
+🌐 https://www.nowcounseling.us
+🏥 Services: Mental Health
+📞 (812) 602-4022
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+299. Southwestern Behavioral Healthcare Inc - Moulton Center
+1 North Barker Avenue, Evansville, IN 47712
+🌐 https://www.southwestern.org
+🏥 Services: Mental Health
+📞 (812) 423-4418
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+300. NOW Counseling Services LLC - Partial Hospitalization Program
+124 East Powell Street, Evansville, IN 47713
+🌐 https://nowcounseling.us
+🏥 Services: Mental Health
+📞 (812) 602-4022
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+301. New Opportunities - Safe Now Recovery Center
+928 SE 8th Street, Evansville, IN 47713
+🌐 https://www.nowcounseling.us
+🏥 Services: Mental Health
+📞 (812) 483-8223
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+302. Southwestern Behav Healthcare Inc - Community Support Services
+410 Mulberry Street, Evansville, IN 47713
+🌐 https://www.southwestern.org
+🏥 Services: Mental Health
+📞 (812) 436-4243
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+303. Southwestern Behavioral Healthcare Inc
+415 Mulberry Street, Evansville, IN 47713
+🌐 https://www.southwestern.org
+🏥 Services: Mental Health
+📞 (812) 423-7791
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+304. NOW Counseling Services LLC
+1010 South Weinbach Avenue, Evansville, IN 47714
+🌐 https://www.nowcounseling.us
+🏥 Services: Mental Health
+📞 (812) 483-8223
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+305. Counseling for Change Inc
+1133 Lincoln Avenue, Evansville, IN 47714
+🌐 https://www.counselingforchangeinc.com/
+🏥 Services: Mental Health
+📞 (812) 491-2615
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+306. Ascension St Vincent Evansville - Adult Mental Health Unit
+3700 Washington Avenue, Evansville, IN 47714
+🌐 https://healthcare.ascension.org/
+🏥 Services: Mental Health
+📞 (812) 485-1473
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+307. Deaconess Behavioral Health East - Outpatient
+445 Cross Pointe Boulevard, Suite 320, Evansville, IN 47715
+🌐 https://www.deaconess.com/
+🏥 Services: Mental Health
+📞 (812) 471-4611
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+308. Evansville Psychiatric Childrens Ctr - (EPCC)
+3300 East Morgan Avenue, Evansville, IN 47715
+🌐 https://www.in.gov/fssa/dmha/state-psychiatric-hospitals/evansville-psychiatric-childrens-center/
+🏥 Services: Mental Health
+📞 812-477-6436 x233
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+309. Deaconess Cross Pointe - Inpatient
+7200 East Indiana Street, Evansville, IN 47715
+🌐 https://www.deaconess.com
+🏥 Services: Mental Health
+📞 (812) 476-7200
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+310. Indiana Center for Recovery - Alcohol and Drug Rehab Fort Wayne
+7900 West Jefferson Boulevard, Fort Wayne, IN 46804
+🌐 https://www.treatmentindiana.com/locations/fort-wayne/
+🏥 Services: Mental Health
+📞 (833) 616-1093
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+311. Strive Recovery
+3320 East State Boulevard, Fort Wayne, IN 46805
+🌐 https://www.striverehabwaterloo.com/?utm_source=gmb&utm_medium=waterloo&utm_campaign=profileweb
+🏥 Services: Mental Health
+📞 (260) 289-3344
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+312. Clarvida - Dockside Services
+3030 Lake Avenue, Suites 7-9, Fort Wayne, IN 46805
+🌐 https://www.clarvida.com/indiana/
+🏥 Services: Mental Health
+📞 (260) 203-9185
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+313. Park Center Inc - Park Center Carew
+1909 Carew Street, Fort Wayne, IN 46805
+🌐 https://www.parkview.com/locations/details/2215/parkview-behavioral-health-institute-park-center
+🏥 Services: Mental Health
+📞 (260) 373-6676
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+314. Park Center Inc - Park Center Lake Avenue
+2710 Lake Avenue, Fort Wayne, IN 46805
+🌐 https://www.parkview.com/medical-services/behavioral-health
+🏥 Services: Mental Health
+📞 (260) 481-2700
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+315. Parkview Behavioral Health
+1720 Beacon Street, Fort Wayne, IN 46805
+🌐 https://www.parkview.com
+🏥 Services: Mental Health
+📞 (260) 373-7670
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+316. VA Northern Indiana Healthcare System
+2500 East State Boulevard, Fort Wayne, IN 46805
+🌐 https://www.va.gov/northern-indiana-health-care/locations/fort-wayne-va-clinic/
+🏥 Services: Mental Health
+📞 (260) 426-5431
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+317. Park Center Inc
+909 East State Boulevard, Buildings Admin, Greenlee, FEC, Haven, Fort Wayne, IN 46805
+🌐 https://www.parkview.com/medical-services/behavioral-health
+🏥 Services: Mental Health
+📞 (260) 373-5739
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+318. Crossroad Child and Family Services
+1825 Beacon Street, Fort Wayne, IN 46805
+🌐 https://www.crossroadcares.org
+🏥 Services: Mental Health
+📞 (260) 484-4153
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+319. Maple Heights Behavioral Health Hosp
+3955 West Washington Center Road, Fort Wayne, IN 46818
+🌐 https://www.ctcprograms.com
+🏥 Services: Mental Health
+📞 (260) 800-3601
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+320. Allendale Behavioral Health
+454 East Dupont Road, Fort Wayne, IN 46825
+🌐 https://www.allendalebehavioral.com
+🏥 Services: Mental Health
+📞 (260) 498-2237
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+321. Fort Wayne Recovery
+310 East Dupont Road, Fort Wayne, IN 46825
+🌐 https://www.fortwaynerecovery.com
+🏥 Services: Mental Health
+📞 (833) 762-3739
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+322. Indiana Center for - Cognitive Behavior Therapy
+423 Airport North Office Park, Fort Wayne, IN 46825
+🌐 https://www.iccbt.org
+🏥 Services: Mental Health
+📞 (260) 969-5583
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+323. Community Hospitals of Indiana Inc - Gallahue Mental Health Center
+7165 Clearvista Way, Indianapolis, IN 46256
+🌐 https://www.ecommunity.com/services/mental-behavioral-health
+🏥 Services: Mental Health
+📞 (317) 621-5700
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+324. NOW Counseling Services LLC
+819 West Franklin Street, Evansville, IN 47710
+🌐 https://www.nowcounseling.us
+🏥 Services: Mental Health
+📞 (812) 483-8223
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+325. Evansville Comprehensive Treatment - Center
+1510 West Franklin Street, Evansville, IN 47710
+🌐 https://www.ctcprograms.com/location/evansville-comprehensive-treatment-center/
+🏥 Services: Mental Health
+📞 812-424-0223 x202
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+326. ADAPT Psychology Inc - ADAPT Counseling Services
+125 North Weinbach Avenue, Suite 410, Evansville, IN 47711
+🌐 https://www.adaptcounselingservices.org/
+🏥 Services: Mental Health
+📞 (812) 421-9900
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+327. Bowen Health
+201 East Rudisill Boulevard, Suite 106, Fort Wayne, IN 46806
+🌐 https://www.bowenhealth.org
+🏥 Services: Mental Health
+📞 (574) 385-3139
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+328. Cummins Behavioral Health Systems Inc - Marion
+5638 Professional Circle, Suites 205 and 206, Indianapolis, IN 46241
+🌐 https://www.cumminsbhs.org
+🏥 Services: Mental Health
+📞 888-714-1927 x1500
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+329. Indy Teen Treatment Center LLC
+6620 Parkdale Place, Suite N, Indianapolis, IN 46254
+🌐 https://indyteentreatmentcenter.com
+🏥 Services: Mental Health
+📞 845-372-6480 x500
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+330. Shalom Healthcare Center - 56th Street PCC
+5750 West 56th Street, Indianapolis, IN 46254
+🌐 https://www.shalomhealthcenter.org
+🏥 Services: Mental Health
+📞 (317) 291-7422
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+331. Journey Road Treatment Center - South
+8106 Madison Avenue, Indianapolis, IN 46227
+🌐 https://recoveratjourneyroad.com
+🏥 Services: Mental Health
+📞 (317) 405-8833
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+332. Vision Wealth Group LLC
+3125 East 10th Street, Suite J, Indianapolis, IN 46201
+🌐 https://www.visionwealthgroupllc.org
+🏥 Services: Mental Health
+📞 (317) 516-8585
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+333. Bright Path Support Services
+1402 Commerce Avenue, Suite K, Indianapolis, IN 46201
+🌐 https://www.brightpathss.com
+🏥 Services: Mental Health
+📞 (219) 796-0518
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+334. Mental Health America of Indiana - Life Recovery Center
+1440 North Hudson Street, Indianapolis, IN 46202
+🌐 https://liferecovery.mhai.net
+🏥 Services: Mental Health
+📞 (317) 536-7100
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+335. IU Health Riley Hospital - Child Psych Unit RI 4N
+705 Riley Hospital Drive, Indianapolis, IN 46202
+🌐 https://www.iuhealth.org
+🏥 Services: Mental Health
+📞 (317) 962-5500
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+336. IU Health Methodist Hospital
+1701 North Senate Boulevard, Building C, Indianapolis, IN 46202
+🌐 https://iuhealth.org/
+🏥 Services: Mental Health
+📞 (317) 962-1259
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+337. Hamilton Center Inc
+2160 North Illinois Street, Indianapolis, IN 46202
+🌐 https://www.hamiltoncenter.org
+🏥 Services: Mental Health
+📞 (317) 937-3700
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+338. Comm Outreach Network Servs Inc
+2105 North Meridian Street, Suite 102, Indianapolis, IN 46202
+🌐 https://www.consindy.com
+🏥 Services: Mental Health
+📞 (317) 926-5463
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+339. Resource Treatment Center
+1404 South State Avenue, Indianapolis, IN 46203
+🌐 https://www.resourcetreatmentcenter.com
+🏥 Services: Mental Health
+📞 (317) 783-4003
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+340. Adult and Child Health - East Washington Office
+603 East Washington Street, 9th Floor, Indianapolis, IN 46204
+🌐 https://www.adultandchild.org
+🏥 Services: Mental Health
+📞 (317) 882-5122
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+341. Reach for Youth Inc
+3505 Washington Boulevard, Indianapolis, IN 46205
+🌐 https://www.reachforyouth.org
+🏥 Services: Mental Health
+📞 (317) 920-5900
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+342. Dove Recovery House for Women
+3351 North Meridian Street, Suite 110, Indianapolis, IN 46208
+🌐 https://www.doverecoveryhouse.org
+🏥 Services: Mental Health
+📞 (317) 964-0450
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+343. Community Fairbanks Behavioral Health - Community Support Services
+5470 East 16th Street, Indianapolis, IN 46218
+🌐 https://www.ecommunity.com
+🏥 Services: Mental Health
+📞 (317) 355-5394
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+344. Adult and Child Health - Irvington
+5839 East Washington Street, Indianapolis, IN 46219
+🌐 https://www.adultandchild.org
+🏥 Services: Mental Health
+📞 (317) 882-5122
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+345. CHOICE Program - Treatment in Pregnancy
+1400 North Ritter Avenue, Suite 431, Indianapolis, IN 46219
+🌐 https://www.ecommunity.com/CHOICE
+🏥 Services: Mental Health
+📞 (317) 355-1482
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+346. Journey Road Treatment Center - East
+1201 North Post Road, Suite 4, Indianapolis, IN 46219
+🌐 https://recoveratjourneyroad.com
+🏥 Services: Mental Health
+📞 (317) 405-8833
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+347. Community Health Network - Community Fairbanks Behavioral Health
+2040 Shadeland Avenue, Suites 200 and 250, Indianapolis, IN 46219
+🌐 https://www.ecommunity.com
+🏥 Services: Mental Health
+📞 (317) 355-5009
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+348. Experience Strength and Hope LLC
+4954 East 56th Street, Suite 9, Indianapolis, IN 46220
+🌐 https://theeshllc.com
+🏥 Services: Mental Health
+📞 (317) 683-0051
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+349. Adult and Child Health - Garfield Park
+234 East Southern Avenue, Indianapolis, IN 46225
+🌐 https://www.adultandchild.org
+🏥 Services: Mental Health
+📞 (317) 882-5122
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+350. NewDay Center
+9240 North Meridian Street, Suite 340, Indianapolis, IN 46260
+🌐 https://thenewdaycenter.com
+🏥 Services: Mental Health
+📞 (317) 291-1967
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+351. Recovery Centers of America - Indianapolis
+8530 Township Line Road, Indianapolis, IN 46260
+🌐 https://recoverycentersofamerica.com
+🏥 Services: Mental Health
+📞 (844) 242-7956
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+352. Take Back Control LLC
+6201 La Pas Trail, Suite 170, Indianapolis, IN 46268
+🌐 https://
+🏥 Services: Mental Health
+📞 (317) 672-2282
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+353. Evolve Indy LLC
+8770 Guion Road, Suite B, Indianapolis, IN 46268
+🌐 https://evolveindy.com
+🏥 Services: Mental Health
+📞 (317) 509-5108
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+354. Addiction Rehab Centers
+7322 Noel Road, Indianapolis, IN 46278
+🌐 https://www.addictionrehabcenters.com
+🏥 Services: Mental Health
+📞 (317) 406-6569
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+355. Clarvida - Dockside Services
+2420 Viridian Drive, Suite E, South Bend, IN 46628
+🌐 https://www.clarvida.com/indiana/
+🏥 Services: Mental Health
+📞 (574) 299-8595
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+356. Center for Positive Change Inc
+611 Lincolnway East, Suite 200, South Bend, IN 46601
+🌐 https://www.centerforpositivechange.org/
+🏥 Services: Mental Health
+📞 (574) 360-4066
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+357. Memorial Epworth Center of South Bend
+420 North Niles Avenue, South Bend, IN 46617
+🌐 https://www.beaconhealthsystem.org
+🏥 Services: Mental Health
+📞 574-647-8400 x5025
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+358. Kaleidoscope Center - Choices Coordinated Care Solutions Inc
+7941 Castleway Drive, Indianapolis, IN 46250
+🌐 https://choicesccs.org
+🏥 Services: Mental Health
+📞 (317) 318-3076
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+359. Southwestern Behav Healthcare Inc - Neurodevelopmental Center
+19 East Chandler Avenue, Evansville, IN 47713
+🌐 https://www.southwestern.org
+🏥 Services: Mental Health
+📞 (812) 425-8190
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+360. Southwestern Behav Healthcare Inc - Moran Center
+60 South Stockwell Road, Evansville, IN 47714
+🌐 https://www.southwestern.org
+🏥 Services: Mental Health
+📞 (812) 476-5437
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+361. Sandra Eskenazi Mental Health Center - James Wright Building
+1700 North Illinois Street, Indianapolis, IN 46202
+🌐 https://www.eskenazihealth.edu/
+🏥 Services: Mental Health
+📞 (317) 554-5700
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+362. Firefly Children and Family Alliance
+2240 North Meridian Street, Indianapolis, IN 46208
+🌐 https://www.fireflyin.org
+🏥 Services: Mental Health
+📞 (317) 634-6341
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+363. Sandra Eskenazi MH Center - Adult Addictions
+3171 North Meridian Street, Indianapolis, IN 46208
+🌐 https://www.eskenazihealth.edu
+🏥 Services: Mental Health
+📞 (317) 880-8491
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+364. Indiana Ctr for Recovery/Alcohol and - Drug Rehab Center Indianapolis
+5510 South Emerson Avenue, Indianapolis, IN 46237
+🌐 https://www.treatmentindiana.com/locations/indianapolis/
+🏥 Services: Mental Health
+📞 (833) 616-1093
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
