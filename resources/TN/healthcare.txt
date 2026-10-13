@@ -1099,3 +1099,11 @@
 🏥 Services: Ryan White HIV/AIDS Program
 📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
 
+156. Shelby County Schools - Mental Health Center
+2930 Airways Boulevard, Bond Building, Memphis, TN 38116
+🌐 https://www.scsk12.org/mentalhealth
+🗣 Languages: Spanish
+🏥 Services: Mental Health
+📞 (901) 281-9199
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
+
