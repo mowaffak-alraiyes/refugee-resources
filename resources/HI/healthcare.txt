@@ -583,3 +583,52 @@
 🏥 Services: Ryan White HIV/AIDS Program
 📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
 
+80. Lokahi Treatment Centers - Waiakea Villas
+400 Hualani Street, Building 10, Suite 195-B, Hilo, HI 96720
+🌐 https://www.lokahitreatmentcenters.net
+🏥 Services: Mental Health
+📞 (808) 969-9292
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+81. Salvation Army Fam Treatment Services - Womens Way
+845 22nd Avenue, Honolulu, HI 96816
+🌐 https://www.hawaii.salvationarmy.org
+🏥 Services: Mental Health
+📞 (808) 732-2802
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+82. Dynamic Healing Center - Main
+200 North Vineyard Boulevard, Suite B-130, Honolulu, HI 96817
+🌐 https://www.dynamichealingcenter.org
+🏥 Services: Mental Health
+📞 (808) 425-4245
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+83. Queens Medical Center - Kaheiheimalie Building/Outpt Behav
+1374 Nuuanu Avenue, Kaheiheimalie Building, Honolulu, HI 96817
+🌐 https://www.queens.org
+🏥 Services: Mental Health
+📞 (808) 691-4352
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+84. Bobby Benson Center Continuum of Care - Outpatient
+2045 Kamehameha IV Road, Honolulu, HI 96819
+🌐 https://www.bobbybenson.org
+🏥 Services: Mental Health
+📞 (808) 376-3008
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+85. Department of Veterans Affairs - Substance Treatment and Recov (STAR)
+459 Patterson Road, Honolulu, HI 96819
+🌐 https://www.va.gov/pacific-islands-health-care/locations/
+🏥 Services: Mental Health
+📞 (808) 433-0660
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+86. Catholic Charities - Hawaii
+1822 Keeaumoku Street, Honolulu, HI 96822
+🌐 https://www.catholiccharitieshawaii.org/
+🏥 Services: Mental Health
+📞 (808) 527-4474
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
