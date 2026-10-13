@@ -1335,3 +1335,8 @@ CONFIDENTIAL, Boston, MA 02112
 📞 (413) 539-2467
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
 
+181. University Of Massachusetts Medical School
+55 Lake Avenue N, Worcester, MA 01655
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
