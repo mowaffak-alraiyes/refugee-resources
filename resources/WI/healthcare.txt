@@ -735,7 +735,7 @@ N6571 Lumberjack Guy Rd, Black River Falls, WI, 54615
 101. Sixteenth Street Community Health Center
 1032 S Cesar E Chavez Dr, Milwaukee, WI 53204-2203
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
-🏥 Services: Ryan White HIV/AIDS Program
+🏥 Services: Ryan White HIV/AIDS Program, Mental Health
 📞 (414) 897-5169
 
 102. Professional Services Group - Kenosha Uptown
@@ -764,3 +764,84 @@ University Ave, Green Bay, WI 54302-5008
 📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🏥 Services: Dental
 📞 (608) 825-7500
+
+106. Wisconsin Department Of Health
+1 W Wilson St, Madison, WI 53703-3445
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+107. University Of Wisconsin System
+21 N Park St, Madison, WI 53715-1218
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+108. Vivent Health Inc
+648 N Plankinton Ave STE 200, Milwaukee, WI 53203-2928
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+109. The Medical College Of Wisconsin, Inc.
+8701 Watertown Plank Rd, Milwaukee, WI 53226-3548
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+110. Children'S Hospital Of Wisconsin
+9000 W Wisconsin Ave, Milwaukee, WI 53226-4874
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+111. The Legal Aid Society Of Milwaukee, Inc.
+728 N James Lovell St, Milwaukee, WI 53233-2408
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+112. Umos Inc. Special Projects
+802 W Historic Mitchell St, Milwaukee, WI 53204-3530
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+113. Brown County Health Dept
+610 S Broadway, Green Bay, WI 54303-1533
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+114. Kenosha County Health Dept
+8600 Sheridan Rd, Ste 600, Kenosha, WI 53143-6515
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+115. Milwaukee City Health Dept
+200 E Wells St RM 401, Milwaukee, WI 53202-3515
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+116. Public Health Madison And Dane County
+3113 E Washington Ave, Madison, WI 53704-4330
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+117. Diverse And Resilient, Inc.
+2439 N Holton St, Milwaukee, WI 53212-2934
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+118. The Groupware Technology, Inc. (Provide Enterprise)
+10437 W Innovation Dr STE 306, Milwaukee, WI 53226-4815
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+119. Gthankyou, Llc
+921 Waban Hl, Madison, WI 53711-3047
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+120. Brady East STD Clinic Inc.
+1240 E Brady St, Milwaukee, WI 53202-1603
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+121. Holton Street Clinic
+3251 N Holton St, Milwaukee, WI 53212-2126
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
