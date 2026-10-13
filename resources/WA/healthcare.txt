@@ -1871,3 +1871,9 @@
 🏥 Services: Dental
 📞 (206) 299-1600
 🌐 http://www.cdchc.org/
+
+248. Seattle-King County Public Health Dept
+401 5th Ave STE 1300, Seattle, WA 98104-1823
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
