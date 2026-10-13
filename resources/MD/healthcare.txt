@@ -4,7 +4,7 @@
 421 Fallsway, Baltimore, MD, 21202-4800
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 https://www.hchmd.org
-🏥 Services: Primary Care; Health Care for the Homeless
+🏥 Services: Primary Care, Health Care for the Homeless, Ryan White HIV/AIDS Program
 📞 410-837-5533
 🗺 https://maps.google.com/?q=39.29373,-76.60950
 
@@ -764,7 +764,7 @@ Wilmer Eye Institute, 600 N. Wolfe St, Baltimore, MD 21287
 101. Chase Brexton Health Services, Inc.
 1111 N Charles St, Baltimore, MD 21201-5505
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
-🏥 Services: Ryan White HIV/AIDS Program
+🏥 Services: Ryan White HIV/AIDS Program, Mental Health
 📞 (410) 837-2050
 
 102. Debbie Blunt
@@ -1030,3 +1030,139 @@ Wilmer Eye Institute, 600 N. Wolfe St, Baltimore, MD 21287
 🏥 Services: Dental
 📞 (240) 720-0510
 🌐 http://www.cciweb.org/
+
+141. Baltimore City Health Department - HIV & STD Prevention
+1001 E Fayette St, Baltimore, MD 21202-4715
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+142. Maryland State Department Of Health & Mental Hygiene
+500 N Calvert St, Baltimore, MD 21202-3651
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+143. Total Health Care Inc
+2401 Liberty Heights Ave STE 111-113, Baltimore, MD 21215-8019
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+144. Aids Interfaith Residential Services, Inc.
+1800 N Charles St, Baltimore, MD 21201-5920
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+145. Anne Arundel County Health Department
+1 Harry S Truman Pkwy STE 200, Annapolis, MD 21401-7190
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+146. Baltimore County Department Of Health
+6401 York Rd STE 3, Baltimore, MD 21212-2130
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+147. Light Health & Wellness Comprehensive Services
+112 E 25th St, Baltimore, MD 21218-5214
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+148. Johns Hopkins University School Of Medicine Adult Infectious Disease
+1830 E Monument St, Baltimore, MD 21287-0003
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+149. Joseph Richey Hospice, Inc.
+828 N Eutaw St, Baltimore, MD 21201-4624
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+150. Sisters Together & Reaching, Inc. (Star)
+901 N Milton Ave, Baltimore, MD 21205-1316
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+151. Project Plase, Inc. (People Lacking Ample Shelter And Employment)
+3549 Old Frederick Rd, Baltimore, MD 21229-3828
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+152. University Of Maryland Institute Of Human Virology / Jacques Initiative
+22 S Greene St, Baltimore, MD 21201-1544
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+153. University Of Maryland Dental School Plus Program
+650 W Baltimore St, Baltimore, MD 21201-1510
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+154. Umb Community Pediatrics
+737 W Lombard St, Baltimore, MD 21201-1009
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+155. Sinai-Greenspring Pediatric Association
+2435 W Belvedere Ave, Baltimore, MD 21215-5201
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+156. Maryland Department Of Health And Mental Hygiene
+1223 W Pratt St, Baltimore, MD 21223-2600
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+157. New Vision House Of Hope
+3931 Ridgewood Ave, Baltimore, MD 21215-5634
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+158. Legal Aid Bureau
+500 E Lexington St, Baltimore, MD 21202-3559
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+159. Johns Hopkins University, The
+1223 Northview Rd, Baltimore, MD 21218-1444
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+160. Johns Hopkins University Share The Cure
+733 N Broadway, Baltimore, MD 21205-1832
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+161. Johns Hopkins Bloomberg School Of Public Health
+624 N Broadway, Baltimore, MD 21205-1900
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+162. Behavioral Health Leadership Institute
+2200 Arden Rd, Baltimore, MD 21209-4205
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+163. Johns Hopkins University Clinical Guidelines Program
+2700 Lighthouse Pt E STE 260, Baltimore, MD 21224-4791
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+164. The Reach Initiative Of The John Hopkins University School Of Nursing
+525 N Wolfe St, Baltimore, MD 21205-2110
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+165. Baltimore City Health Department - Syringe Support Program
+3000 Druid Park Dr, Baltimore, MD 21215-7848
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+166. Aids Healthcare Foundation- Baltimore
+11 E Lexington St STE 100, Baltimore, MD 21202-1732
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+167. The Mayor And City Council Of Baltimore, Acting By And Through Its Mayor’S Office Of Homeless Services
+7 E Redwood St, Baltimore, MD 21202-1103
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
