@@ -1280,3 +1280,192 @@ RT 3 & 19 2157 RITTER DR, DANIELS, WV, 25832-9371
 🏥 Services: Ryan White HIV/AIDS Program
 📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
 
+175. Valley Health Systems, Inc. - Westmoreland Clinic
+2908 Auburn Rd, Huntington, WV 25704-2715
+🌐 http://www.valleyhealth.org
+🏥 Services: Dental
+📞 (304) 781-5800
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+176. Cabin Creek Health System - Kanawha City Health Center
+4602 Maccorkle Ave SE, Charleston, WV 25304-1848
+🌐 http://www.cabincreekhealth.com
+🏥 Services: Mental Health
+📞 (304) 205-7535
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+177. Counseling and Wellness Center with Family Medicine on Market
+936 Market St, Parkersburg, WV 26101-4737
+🌐 http://www.counselingandwellnesscenter.com
+🏥 Services: Mental Health
+📞 (304) 422-7300
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+178. Coplin Health Systems Parkersburg Health and Wellness Center
+2101 Dudley Ave, Parkersburg, WV 26101-3492
+🌐 http://coplinhealth.com
+🏥 Services: Mental Health
+📞 (304) 861-4150
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+179. Cabin Creek Health Systems-Westside Health Center
+303 Ohio Ave, Charleston, WV 25302-9998
+🌐 http://cabincreekhealth.com
+🏥 Services: Mental Health
+📞 (304) 734-2040
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+180. Valley Health Systems, Inc. -  Integrated Services
+3377 US Highway 60, Huntington, WV 25705-2837
+🌐 http://www.valleyhealth.org
+🏥 Services: Mental Health
+📞 (304) 525-3334
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+181. Huntington Hospitalist Group
+2333 U.S. Route 60, Huntington, WV 25705
+🌐 https://hhghealth.org
+🏥 Services: Mental Health
+📞 304-525-7111 x2
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+182. Prestera Health Services - Margarette R Leach Center for Youth
+1 Prestera Way, Huntington, WV 25705
+🌐 https://www.prestera.org
+🏥 Services: Mental Health
+📞 (304) 525-7851
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+183. Union Mission Recovery
+700 South Park Road, Charleston, WV 25304
+🌐 https://unionmission.com/
+🏥 Services: Mental Health
+📞 (304) 925-0366
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+184. Prestera Health Services
+55 Donohoe Drive, Huntington, WV 25705
+🌐 https://www.prestera.org
+🏥 Services: Mental Health
+📞 (304) 525-7851
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+185. Healthy Minds/Chestnut Ridge - WVU Hospitals Inc
+930 Chestnut Ridge Road, Morgantown, WV 26505
+🌐 https://www.wvumedicine.org
+🏥 Services: Mental Health
+📞 (304) 598-4214
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+186. Counseling Connection
+1021 Quarrier Street, Suite 414, Charleston, WV 25301
+🌐 https://www.tccwv.org
+🏥 Services: Mental Health
+📞 (304) 340-3676
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+187. Vandalia Hlth Charleston Area Medical - General Hospital
+501 Morris Street, 6 East, Charleston, WV 25301
+🌐 https://www.camc.org
+🏥 Services: Mental Health
+📞 (304) 388-3459
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+188. Holistic Inc - Holistic Medical Servs and Counseling
+4815 Maccorkle Avenue SE, Charleston, WV 25304
+🌐 https://www.Holistic-Inc.com
+🏥 Services: Mental Health
+📞 (304) 721-9300
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+189. Chesapeake Healthcare Center
+11950 MacCorkle Avenue SE, Charleston, WV 25315
+🌐 https://www.chesapeakehealthcarecenter.com
+🏥 Services: Mental Health
+📞 (304) 220-2111
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+190. Prestera Health Services - Michael Avenue Outpatient
+911 Michael Avenue, Charleston, WV 25387
+🌐 https://www.prestera.org
+🏥 Services: Mental Health
+📞 (304) 525-7851
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+191. Wise Path Recovery Centers
+2195 Cheat Road, Suite 100, Morgantown, WV 26508
+🌐 https://wisepathrecoverycenters.com
+🏥 Services: Mental Health
+📞 (866) 860-9772
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+192. Wellspring Family Services - Crittenton Services
+20 Scott Avenue, Suite 401, Morgantown, WV 26508
+🌐 https://www.crittentonwv.org
+🏥 Services: Mental Health
+📞 (304) 292-1716
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+193. Valley HealthCare System
+301 Scott Avenue, Morgantown, WV 26508
+🌐 https://www.valleyhealthcare.org
+🏥 Services: Mental Health
+📞 304-296-1731 x4916
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+194. Project Hope for Women and Children
+1012 7th Avenue, Huntington, WV 25701
+🌐 https://www.marshallhealth.org/services/addiction-medicine/project-hope-for-women-children/
+🏥 Services: Mental Health
+📞 (304) 696-4673
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+195. Prestera Health Services - 6th Avenue
+919 6th Avenue, Huntington, WV 25701
+🌐 https://www.prestera.org
+🏥 Services: Mental Health
+📞 (304) 525-7851
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+196. Marshall Health PROACT
+800 20th Street, Huntington, WV 25703
+🌐 https://www.proactwv.org
+🏥 Services: Mental Health
+📞 (304) 696-8700
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+197. Hershel Woody Williams VAMC - Outpatient Treatment Program
+1540 Spring Valley Drive, Huntington, WV 25704
+🌐 https://www.va.gov/huntington-health-care/locations/hershel-woody-williams-va-medical-center/
+🏥 Services: Mental Health
+📞 304-429-6741 x3136
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+198. Wise Path Recovery Centers
+900 Fairmont Road, Morgantown, WV 26501
+🌐 https://wisepathrecoverycenters.com
+🏥 Services: Mental Health
+📞 (866) 860-9772
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+199. Camden Clark Medical Center - Behaviorial Health Unit
+800 Garfield Avenue, Parkersburg, WV 26101
+🌐 https://www.camdenclark.org/
+🏥 Services: Mental Health
+📞 (304) 424-2359
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+200. Westbrook Health Services - New Day Crisis Stabilization Unit
+2121 1/2 7th Street, Parkersburg, WV 26101
+🌐 https://www.westbrookhealth.org
+🏥 Services: Mental Health
+📞 304-485-1721 x158
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+201. Westbrook Health Services - Wood County Office
+2121 7th Street, Parkersburg, WV 26101
+🌐 https://www.westbrookhealth.com
+🏥 Services: Mental Health
+📞 (304) 485-1721
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
