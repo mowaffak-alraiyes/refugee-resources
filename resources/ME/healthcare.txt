@@ -743,3 +743,185 @@ WORKMAN TERRACE, LINCOLN, ME, 04457-0000
 📞 (207) 991-3310
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
 
+101. Greater Portland Health - Reiche Community School SBHC
+166 Brackett St, Portland, ME 04102-3856
+🌐 https://www.greaterportlandhealth.org/
+🏥 Services: Dental
+📞 (207) 874-2141
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+102. Greater Portland Health - 654 Riverside Street
+654 Riverside St, Portland, ME 04103-1086
+🌐 https://www.greaterportlandhealth.org/services/healthcare-for-the-homeless-program
+🏥 Services: Dental, Mental Health
+📞 (207) 874-2141
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+103. Mainely Teeth (Mobile Unit)
+117 Auburn St, Portland, ME 04103-6003
+🌐 https://www.mainelyteeth.org/
+🏥 Services: Dental
+📞 (207) 808-9498
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+104. Catholic Charities Maine - Southern Region Behav Health Network
+420 Cumberland Avenue, Portland, ME 04101
+🌐 https://www.ccmaine.org
+🏥 Services: Mental Health
+📞 (207) 871-7431
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+105. Anglez Behavioral Health
+841 Riverside Drive, Augusta, ME 04330
+🌐 https://anglezbhs.com/
+🏥 Services: Mental Health
+📞 844-294-5306 x300
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+106. Bangor Comprehensive Treatment Center - Discovery House BR Inc
+689 Odlin Road, Bangor, ME 04401
+🌐 https://www.ctcprograms.com/location/bangor-comprehensive-treatment-center/
+🏥 Services: Mental Health
+📞 (207) 947-6800
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+107. SaVida Health - Bangor
+104 Center Street, Bangor, ME 04401
+🌐 https://www.savidahealth.com
+🏥 Services: Mental Health
+📞 (207) 307-2287
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+108. Brighter Heights Maine - Bangor
+700 Mount Hope Avenue, Suite 480, Evergreen Woods, Bangor, ME 04401
+🌐 https://www.bh-maine.com
+🏥 Services: Mental Health
+📞 (207) 989-2946
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+109. Bangor Counseling Center - DBA of New Life Mission
+202 Exchange Street, Bangor, ME 04401
+🌐 https://www.bangorcounselingcenter.com/
+🏥 Services: Mental Health
+📞 (207) 941-6434
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+110. Acadia Hospital
+268 Stillwater Avenue, P.O. Box 422, Bangor, ME 04401
+🌐 https://northernlighthealth.org/Acadia-Hospital
+🏥 Services: Mental Health
+📞 (207) 973-6100
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+111. Community Health and Counseling Servs
+42 Cedar Street, Bangor, ME 04401
+🌐 https://www.chcs-me.org
+🏥 Services: Mental Health
+📞 800-924-0366 x6490
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+112. Clarvida - Pathways of Maine Eastern ME District
+21 Main Street, Suite 301, Bangor, ME 04401
+🌐 https://www.clarvida.com/maine
+🏥 Services: Mental Health
+📞 (207) 631-2201
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+113. OHI
+203 Maine Avenue, Bangor, ME 04401
+🌐 https://www.ohimaine.org
+🏥 Services: Mental Health
+📞 (207) 848-5804
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+114. Cornerstone Behavioral Healthcare LLC
+157 Park Street, Suite 5, Bangor, ME 04401
+🌐 https://www.cornerstonebhc.com
+🏥 Services: Mental Health
+📞 (207) 992-0410
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+115. Community Care
+40 Summer Street, Bangor, ME 04401
+🌐 https://www.comcareme.org
+🏥 Services: Mental Health
+📞 (207) 945-4240
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+116. Northeast Occupational Exchange Inc
+P.O. Box 1189, Bangor, ME 04402
+🌐 https://www.noemaine.org
+🏥 Services: Mental Health
+📞 (207) 942-3816
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+117. Avalon Counseling Services
+37 Park Street, Suite 302, Lewiston, ME 04240
+🌐 https://www.avaloncounseling.net
+🏥 Services: Mental Health
+📞 (207) 333-1080
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+118. Saint Marys Regional Medical Center
+93 Campus Avenue, Psychiatric Units, Lewiston, ME 04240
+🌐 https://www.stmarysmaine.com
+🏥 Services: Mental Health
+📞 (207) 777-8100
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+119. Central Maine Family Counseling PA - Blue Willow Counseling Center
+101 East Avenue, Lewiston, ME 04240
+🌐 https://www.bluewillowcounseling.com
+🏥 Services: Mental Health
+📞 (207) 777-3399
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+120. Liberty Bay Recovery Center
+343 Forest Avenue, Portland, ME 04101
+🌐 https://www.libertybayrecovery.com
+🏥 Services: Mental Health
+📞 (207) 772-9800
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+121. Zysk Recovery Partners LLC
+1 Pleasant Street, Suite 2-E, Portland, ME 04101
+🌐 https://www.zyskrp.net
+🏥 Services: Mental Health
+📞 (207) 536-4486
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+122. Foundation House - Tradecraft 12
+160 Preble Street, Portland, ME 04101
+🌐 https://www.foundationhouse.com
+🏥 Services: Mental Health
+📞 (207) 791-2000
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+123. Cortex Behavioral Health
+1 City Center, Suite 8130, Portland, ME 04101
+🌐 https://www.cortexbehavioral.com
+🏥 Services: Mental Health
+📞 (207) 221-0635
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+124. Portland Community Health Center - DBA Greater Portland Health
+934 Congress Street, Portland, ME 04102
+🌐 https://www.greaterportlandhealth.org
+🏥 Services: Mental Health
+📞 (207) 874-2141
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+125. Portland Community Health Center - DBA Greater Portland Health
+63 Preble Street, Portland, ME 04102
+🌐 https://www.greaterportlandhealth.org
+🏥 Services: Mental Health
+📞 (207) 874-2141
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+126. Portland Community Health Center - DBA Greater Portland Health
+59 Riverton Drive, Portland, ME 04103
+🌐 https://www.greaterportlandhealth.org
+🏥 Services: Mental Health
+📞 (207) 874-2141
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
