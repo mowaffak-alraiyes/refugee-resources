@@ -2115,3 +2115,8 @@ PO BOX 790355, Saint Louis, MO 63179-0355
 🏥 Services: Ryan White HIV/AIDS Program
 📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
 
+300. Missouri Department Of Health & Senior Services
+920 Wildwood Dr, Jefferson City, MO 65109-5796
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
