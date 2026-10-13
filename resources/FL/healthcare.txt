@@ -2803,7 +2803,7 @@
 366. Bond Community Health Assoc., Inc.
 1720 S Gadsden St, Tallahassee, FL 32301-5506
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
-🏥 Services: Ryan White HIV/AIDS Program
+🏥 Services: Ryan White HIV/AIDS Program, Dental
 📞 (850) 576-4073
 
 367. Can Community Health
@@ -2917,7 +2917,7 @@
 385. Health Care Center for the Homeless - Community Food and Outreach Center
 150 W Michigan St, Orlando, FL 32806-4463
 📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
-🏥 Services: Health Care for the Homeless; Primary care
+🏥 Services: Health Care for the Homeless, Primary Care, Ryan White HIV/AIDS Program
 📞 (407) 428-5751
 🌐 http://www.hcch.org
 
@@ -2987,6 +2987,256 @@ Mobile Dental Unit, Orlando, FL 32805
 
 396. City Of Jacksonville
 1809 Art Museum Dr, Jacksonville, FL 32207-2507
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+397. Florida Department Of Health
+4052 Bald Cypress Way, #BIN, Tallahassee, FL 32399-7017
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+398. University Of South Florida
+4202 E Fowler Ave, Tampa, FL 33620-9998
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+399. Orlando Health, Inc.
+1414 Kuhl Ave, Orlando, FL 32806-2008
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+400. Metro Inclusive Health
+701 94th Ave N, Saint Petersburg, FL 33702-2448
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+401. Florida Department Of Health, Pinellas County Health Department
+205 Dr Martin Luther King Jr St N, Saint Petersburg, FL 33701-3109
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+402. The Health Councils, Inc. (Support)
+9500 Koger Blvd N STE 102, Saint Petersburg, FL 33702-2433
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+403. Usf Pediatric Infectious Diseases
+2 Tampa General Cir, #5, Tampa, FL 33606-3571
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+404. Aspire Health Partners
+106 Columbia St, Orlando, FL 32806-1006
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+405. Community Rehabilitation Center, Inc.
+623 Beechwood St, Jacksonville, FL 32206-6236
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+406. Duval County Health Department
+921 N Davis St, Jacksonville, FL 32209-6804
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+407. Jacksonville Area Legal Aid, Inc.
+126 W Adams St, Jacksonville, FL 32202-3849
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+408. Northeast Florida Aids Network
+2715 Oak St, Jacksonville, FL 32205-8204
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+409. River Region Human Services
+2055 Reyko Rd STE 101, Jacksonville, FL 32207-2822
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+410. Health Planning Council Of Northeast Florida, Inc.
+100 N Laura St STE 801, Jacksonville, FL 32202-3668
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+411. The Gateway Community Services
+555 Stockton St, Jacksonville, FL 32204-2534
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+412. Heart Of Florida United Way
+1940 Cannery Way, Orlando, FL 32804-4718
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+413. Ahf Pharmacy
+3135 FL-580, Tampa, FL 33618
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+414. America'S Second Harvest
+4016 NW Passage, Tallahassee, FL 32303-7817
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+415. Atkin, Anne
+2044 Delta Blvd, Tallahassee, FL 32303-4853
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+416. Balan, Manocha & Mcsoley
+1838 Miccosukee Rd, Tallahassee, FL 32308-5250
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+417. Big Bend Transit
+2201 Eisenhower St, Tallahassee, FL 32310-5905
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+418. Florida Blue
+3501 E Frontage Rd, Tampa, FL 33607-1704
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+419. Capital Transportation
+3941 W Pensacola St, Tallahassee, FL 32304-2837
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+420. Chichetti, Torgerson & Hartley
+1305 Thomaswood Dr, Tallahassee, FL 32308-7915
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+421. Chp
+2140 Centerville Rd, Tallahassee, FL 32308-4314
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+422. Coast Dental
+1329 E Tennessee St, Tallahassee, FL 32308-5107
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+423. Division Of State Group Insurance
+4050 Esplanade Way STE 215, Tallahassee, FL 32399-0001
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+424. Eastwood Pharmacy
+1605 E Plaza Dr, Tallahassee, FL 32308-5362
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+425. Lynx
+455 N Garland Ave, Orlando, FL 32801-1518
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+426. Mcquary, Mark Dds
+2880 Capital Medical Blvd, Tallahassee, FL 32308-4671
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+427. Pijut, Dr. Lawrence
+2560 Capital Medical Blvd, Tallahassee, FL 32308-4424
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+428. Quest Diagnostics
+4225 E Fowler Ave, Tampa, FL 33617-2026
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+429. Se Center For Infectious Diseases
+2009 Miccosukee Rd, Tallahassee, FL 32308-5359
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+430. St. Hillier, Donna
+219 E 5th Ave, Tallahassee, FL 32303-6205
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+431. Star Metro
+555 Appleyard Dr, Tallahassee, FL 32304-3801
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+432. Swerdzewski, Dr. Frank
+2063 Centre Pointe Blvd, Tallahassee, FL 32308-4893
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+433. Tallahassee Primary Care
+1803 Miccosukee Commons Dr, Tallahassee, FL 32308-7403
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+434. Tmh Family Residence Program
+1301 Hodges Dr, Tallahassee, FL 32308-4614
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+435. Oral & Facial Surgery Center Of Tallahassee
+1702 Riggins Rd, Tallahassee, FL 32308-5371
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+436. The Lgbt Community Center Of Central Florida (The Center)
+946 N Mills Ave, Orlando, FL 32803-3230
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+437. Sam'S Club
+3122 Dick Wilson Blvd, Tallahassee, FL 32301-5137
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+438. Tampa Family Pharmacy
+2919 W Swann Ave STE 101, Tampa, FL 33609-4049
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+439. Jnr Dental Pllc (Good Smiles)
+2808 Remington Green Cir Ste 100, Tallahassee, FL 32308-3724
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+440. Periodontal Associates
+2160 Capital Cir NE STE 100, Tallahassee, FL 32308-4391
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+441. Crew Community Health, Inc.
+8601 Commodity Cir, Orlando, FL 32819-9003
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+442. 26 Health, Inc.
+801 N Magnolia Ave STE 402, Orlando, FL 32803-3844
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+443. Harbour Benefit Holdings, Inc.
+302 Knights Run Ave, Ste 1100, Tampa, FL 33602-5987
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+444. Food With Care, Inc.
+6995 Venture Cir, Orlando, FL 32807-5356
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+445. Specialized Treatment Education & Prevention Services Inc.
+1033 N Pine Hills Rd, Orlando, FL 32808-7152
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+446. Nutritious Lifestyles, Llc
+918 Lucerne Ter, Orlando, FL 32806-1013
 🏥 Services: Ryan White HIV/AIDS Program
 📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
 
