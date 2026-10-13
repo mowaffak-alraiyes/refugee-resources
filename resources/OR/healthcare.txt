@@ -657,7 +657,7 @@
 151 W    7th Ave STE 100, Eugene, OR, 97401-2676
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.lanecounty.org/Departments/HHS/CHC/Pages/default.aspx
-🏥 Services: Primary Care
+🏥 Services: Primary Care, Ryan White HIV/AIDS Program
 📞 541-682-3550
 🗺 https://maps.google.com/?q=44.05232,-123.09537
 
@@ -1105,7 +1105,7 @@
 146. Multnomah County Health Department
 619 NW 6th Ave, Portland, OR 97209-3964
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
-🏥 Services: Ryan White HIV/AIDS Program
+🏥 Services: Ryan White HIV/AIDS Program, Dental, Mental Health
 📞 (503) 988-5020
 
 147. Ohsu Internal Medicine Clinic
@@ -1210,3 +1210,79 @@
 🏥 Services: Dental
 📞 (503) 848-5861
 🌐 https://www.nhcoregon.org
+
+162. Oregon Health Authority
+500 Summer St NE, Salem, OR 97301-1064
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+163. Multnomah County
+501 SE Hawthorne Blvd STE 531, Portland, OR 97214-3587
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+164. Cascade Aids Project
+520 NW Davis St STE 215, Portland, OR 97209-3620
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+165. Ecumenical Ministries Of Oregon
+2941 NE Ainsworth St, Portland, OR 97211-6749
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+166. Ohsu Internal Medicine Outpatient Medical Care
+3181 SW Sam Jackson Park Rd, Portland, OR 97239-3011
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+167. Oregon Health & Sciences University Partnership Project
+5525 SE Milwaukie Ave, Portland, OR 97202-4915
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+168. Oregon Health And Sciences University Russell Street Dental
+214 N Russell St, Portland, OR 97227-1620
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+169. Project Quest
+3231 SE 50th Ave, Portland, OR 97206-2248
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+170. Marion County Health Department
+3160 Center St NE, Salem, OR 97301-4530
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+171. HIV Alliance
+1195A City View St, Eugene, OR 97402-3325
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+172. Washington County Health And Human Services
+266 W Main St, Hillsboro, OR 97123-3961
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+173. Multnomah County Health Department Mental Health And Addictions Services Division
+421 SW Oak St STE 520, Portland, OR 97204-1810
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+174. Urban League Of Portland
+10 N Russell St, Portland, OR 97227-1619
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+175. Lutheran Community Services Northwest
+605 SE Cesar E Chavez Blvd, Portland, OR 97214-3216
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+176. Cascadia Behavioral Health Care
+847 NE 19th Ave STE 100, Portland, OR 97232-2684
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
