@@ -454,3 +454,80 @@ East Hill Road, Plainfield, VT, 05667-9525
 🏥 Services: Ryan White HIV/AIDS Program
 📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
 
+62. Community Health Center of Burlington
+617 Riverside Ave, Burlington, VT 05401-1601
+🌐 http://www.chcb.org
+🏥 Services: Dental, Mental Health
+📞 (802) 864-6309
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+63. Vermont Psychiatric Care Hospital - Department of Mental Health
+350 Fisher Road, Montpelier, VT 05602
+🌐 https://mentalhealth.vermont.gov
+🏥 Services: Mental Health
+📞 (802) 828-3300
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+64. Sunrise Wellness Center
+34 Barre Street, Montpelier, VT 05602
+🌐 https://
+🏥 Services: Mental Health
+📞 (802) 223-7544
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+65. Washington County Mental Health Servs - Community Support Program
+9 Heaton Street, Montpelier, VT 05602
+🌐 https://www.wcmhs.org
+🏥 Services: Mental Health
+📞 (802) 229-1399
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+66. Vermont Center for Child Youth - Vermont Center for Children Youths and
+1 South Prospect Street, Arnold Level 3, Burlington, VT 05401
+🌐 https://www.uvmhealth.org/
+🏥 Services: Mental Health
+📞 (802) 847-6773
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+67. Howard Center - Adult Crisis Stabilzation Program
+851 Pine Street, Burlington, VT 05401
+🌐 https://www.howardcenter.org
+🏥 Services: Mental Health
+📞 (802) 488-6412
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+68. Howard Center - Pine Street Counseling Services
+855 Pine Street, Burlington, VT 05401
+🌐 https://www.howardcenter.org
+🏥 Services: Mental Health
+📞 (802) 488-6100
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+69. Burlington Lakeside CBOC - VA Mental Health Services
+128 Lakeside Avenue, Suite 260, Burlington, VT 05401
+🌐 https://www.va.gov/white-river-junction-health-care/locations/burlington-lakeside-va-clinic/
+🏥 Services: Mental Health
+📞 (802) 657-7090
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+70. Washington County Mental Health Servs - Roadhouse
+P.O. Box 647, Montpelier, VT 05601
+🌐 https://www.WCMHS.org
+🏥 Services: Mental Health
+📞 (802) 479-0534
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+71. Savida Health - South Burlington
+366 Dorsey Street, Suite 20, South Burlington, VT 05403
+🌐 https://www.savidahealth.com
+🏥 Services: Mental Health
+📞 (802) 448-5072
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+72. Lund Family Center - South Burlington
+50 Joy Drive, South Burlington, VT 05403
+🌐 https://www.lundvt.org
+🏥 Services: Mental Health
+📞 (802) 864-7467
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
