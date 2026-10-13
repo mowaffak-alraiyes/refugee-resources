@@ -1291,3 +1291,43 @@
 🏥 Services: Ryan White HIV/AIDS Program
 📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
 
+178. Pacific Psychology Clinic
+1411 SW Morrison Street, Suite 310, Portland, OR 97205
+🌐 https://www.pchpacificu.org
+🗣 Languages: Spanish
+🏥 Services: Mental Health
+📞 (503) 352-2400
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
+
+179. Sequoia Mental Health - Hillsboro Office
+395 West Main Street, Hillsboro, OR 97123
+🌐 https://www.sequoiamhs.org
+🗣 Languages: Spanish
+🏥 Services: Mental Health
+📞 (503) 591-9280
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
+
+180. New Narrative - Mill Park Center
+1952 SE 122nd Avenue, Portland, OR 97233
+🌐 https://www.newnarrativepdx.org/
+🗣 Languages: Spanish
+🏥 Services: Mental Health
+📞 (503) 501-5290
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
+
+181. Pacific Psychology and - Comprehensive Health Clinic
+222 SE 8th Avenue, Suite 212, Hillsboro, OR 97123
+🌐 https://www.pchpacificu.org
+🗣 Languages: Spanish
+🏥 Services: Mental Health
+📞 (503) 352-2404
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
+
+182. Youth Contact
+447 SE Baseline Street, Hillsboro, OR 97123
+🌐 https://www.youthcontact.org
+🗣 Languages: Spanish
+🏥 Services: Mental Health
+📞 (503) 640-4222
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
+
