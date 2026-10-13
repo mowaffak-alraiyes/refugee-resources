@@ -2100,3 +2100,233 @@ mobile, shreveport, LA, 71107
 🏥 Services: Ryan White HIV/AIDS Program
 📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
 
+288. Daughters of Charity Health Center - Gentilly
+100 Warrington Dr, New Orleans, LA 70122-3000
+🏥 Services: Dental, Mental Health
+📞 (504) 212-9510
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+289. Open Health Care Clinic (HAART) - Baton Rouge
+3801 North Blvd, Baton Rouge, LA 70806-3825
+🌐 https://www.ohcc.org/
+🏥 Services: Dental, Mental Health
+📞 (225) 424-1814
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+290. AAHSD - Dr. Joseph Henry Tyler, Jr. Mental Health Center
+302 Dulles Dr, Lafayette, LA 70506-3099
+🌐 http://www.aahsd.org
+🏥 Services: Mental Health
+📞 (337) 262-4100
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+291. Capital Area Human Services District - Baton Rouge Behavioral Health
+2751 Wooddale Blvd, Baton Rouge, LA 70805-7567
+🌐 https://www.cahsd.org/
+🏥 Services: Mental Health
+📞 (225) 925-1906
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+292. EXCELth, Inc - Gentilly Family Health Center
+6600 Franklin Ave, Suite A 7, New Orleans, LA 70122-5719
+🌐 http://www.excelth.com
+🏥 Services: Mental Health
+📞 (504) 620-9868
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+293. Odyssey House Louisiana, Inc
+1125 N Tonti St, New Orleans, LA 70119-3598
+🌐 http://ohlcommunityclinic.org
+🏥 Services: Mental Health
+📞 (504) 913-6776
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+294. Integrity Behavioral Management
+5610 Read Boulevard, New Orleans, LA 70127
+🌐 https://
+🏥 Services: Mental Health
+📞 (504) 241-8188
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+295. Clear Minds Behavioral Health
+11861 Coursey Boulevard, Baton Rouge, LA 70816
+🌐 https://www.clearmindsbr.com
+🏥 Services: Mental Health
+📞 (225) 612-8656
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+296. Serenity Treatment Center of Louisiana
+216 South Foster Drive, Baton Rouge, LA 70806
+🌐 https://www.theserenitycenterla.com
+🏥 Services: Mental Health
+📞 225-389-3325 x1006
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+297. Metropolitan Human Services District - Algiers Behavioral Health Center
+3100 General DeGaulle Drive, Suites A and B, New Orleans, LA 70114
+🌐 https://www.mhsdla.org
+🏥 Services: Mental Health
+📞 (504) 568-3130
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+298. LHRC Life Care Center
+2121 Wooddale Boulevard, Suite B, Baton Rouge, LA 70806
+🌐 https://www.lahealthandrehab.org
+🏥 Services: Mental Health
+📞 (318) 545-7775
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+299. Capital Area Human Services - Childrens Behavioral Health
+422 Colonial Drive, Baton Rouge, LA 70806
+🌐 https://www.cahsd.org
+🏥 Services: Mental Health
+📞 (225) 922-0445
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+300. Holistic Behavioral Health Services - (HBHS) of Louisiana
+2156 Wooddale Boulevard, Suite 750, Baton Rouge, LA 70806
+🌐 https://www.holisticbh.org
+🏥 Services: Mental Health
+📞 (225) 930-8058
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+301. Seaside Health System
+4363 Convention Street, Baton Rouge, LA 70806
+🌐 https://www.seasidehc.com
+🏥 Services: Mental Health
+📞 (225) 367-6000
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+302. Grove of LA LLC
+5329 Dijon Avenue, Baton Rouge, LA 70808
+🌐 https://www.thegroverecoverycenter.com
+🏥 Services: Mental Health
+📞 (225) 300-4850
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+303. Southeast Louisiana VA HCS - Baton Rouge Clinic
+7850 Anselmo Lane, Baton Rouge, LA 70809
+🌐 https://www.va.gov/southeast-louisiana-health-care/locations/baton-rouge-south-va-clinic/
+🏥 Services: Mental Health
+📞 (225) 768-6419
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+304. STC Addiction Wellness Center - St Christophers
+235 Cora Drive, Baton Rouge, LA 70815
+🌐 https://www.addictionwellness.com
+🏥 Services: Mental Health
+📞 (225) 387-1611
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+305. STOA Behavioral Healthcare LLC
+11188 Florida Boulevard, Baton Rouge, LA 70815
+🌐 https://www.stoabehavioral.com
+🏥 Services: Mental Health
+📞 (337) 656-1922
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+306. Woodlake Addiction Recovery Center
+10473 Old Hammond Highway, Baton Rouge, LA 70816
+🌐 https://www.woodlakecenter.com
+🏥 Services: Mental Health
+📞 (225) 924-1910
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+307. Odyssey House Louisiana Inc - Residential 3 5 LOC
+2700 South Broad Avenue, New Orleans, LA 70125
+🌐 https://www.ohlinc.org
+🏥 Services: Mental Health
+📞 504-821-9211 x7618
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+308. Metropolitan Human Services District - Chartres Pontchartrain BH Center
+719 Elysian Fields Avenue, New Orleans, LA 70117
+🌐 https://www.mhsdla.org/
+🏥 Services: Mental Health
+📞 (504) 535-2953
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+309. Ochsner Addictive Behavior Unit
+1514 Jefferson Highway, Brent House, 4th Floor, New Orleans, LA 70121
+🌐 https://www.ochsner.org/abu
+🏥 Services: Mental Health
+📞 504-842-3999 x2
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+310. Acadiana Recovery Center
+401 West Vermilion Street, Lafayette, LA 70501
+🌐 https://
+🏥 Services: Mental Health
+📞 (337) 345-6121
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+311. Path Behavioral Healthcare
+1405 West Pinhook Road, Suite 107, Lafayette, LA 70503
+🌐 https://pathihc.com
+🏥 Services: Mental Health
+📞 (337) 901-2513
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+312. Kite Clinic
+1921 Dulles Drive, Lafayette, LA 70506
+🌐 https://www.thekiteclinic.com
+🏥 Services: Mental Health
+📞 (337) 579-5777
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+313. Resource Management Services
+2020 West Pinhook Road, Suite 204, Lafayette, LA 70508
+🌐 https://www.rmslouisiana.com
+🏥 Services: Mental Health
+📞 (337) 261-8781
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+314. Metropolitan Human Services District - Central City Behav Hlth Ctr
+2221 Philip Street, New Orleans, LA 70113
+🌐 https://www.mhsdla.org
+🏥 Services: Mental Health
+📞 (504) 568-3130
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+315. Imagine Recovery
+728 Nashville Avenue, New Orleans, LA 70115
+🌐 https://www.imaginerecovery.com
+🏥 Services: Mental Health
+📞 (504) 605-4095
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+316. Southeast Louisiana VA HCS - New Orleans VA Outpatient Clinic
+2400 Canal Street, New Orleans, LA 70119
+🌐 https://www.va.gov/southeast-louisiana-health-care/locations/new-orleans-va-medical-center/
+🏥 Services: Mental Health
+📞 800-935-8387 x66010
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+317. Center for Hope Children and Family
+5630 Crowder Boulevard, Suite 208, New Orleans, LA 70127
+🌐 https://www.centerforhopeservices.com
+🏥 Services: Mental Health
+📞 504-241-6006 x105
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+318. Metropolitan Human Services District - New Orleans East Behavioral Health Ctr
+5630 Read Boulevard, 2nd Floor, New Orleans, LA 70127
+🌐 https://www.mhsdla.org
+🏥 Services: Mental Health
+📞 (504) 568-3130
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+319. Manning Family Childrens - Behavioral Health
+210 State Street, Building 10, New Orleans, LA 70118
+🌐 https://www.manningchildrens.org
+🏥 Services: Mental Health
+📞 (504) 896-7200
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+320. CADA Prevention and Recovery Center
+2601 Tulane Avenue, Suite 945, New Orleans, LA 70119
+🌐 https://www.cadagno.org
+🏥 Services: Mental Health
+📞 (504) 821-2232
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
