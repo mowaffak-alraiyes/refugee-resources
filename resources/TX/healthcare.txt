@@ -257,9 +257,10 @@
 1905 Jacquelyn Dr Ste 101, Houston, TX, 77055-2502
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.sbchc.net
-🏥 Services: Primary Care
+🏥 Services: Primary Care, Mental Health
 📞 713-462-6565
 🗺 https://maps.google.com/?q=29.80520,-95.48136
+🗣 Languages: Spanish
 
 35. J.W. Oates Elementary School
 10044 Wallisville Rd, Houston, TX, 77013-4616
@@ -3545,4 +3546,36 @@ PO BOX 660299, Dallas, TX 75266-0299
 1100 W 49th St, Austin, TX 78756-3126
 🏥 Services: Ryan White HIV/AIDS Program
 📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+492. Deborah Judith Inc - DBA Elite Counseling
+700 South Zarzamora Street, Suites 208 and 209, San Antonio, TX 78207
+🌐 https://www.elitecounseling.com
+🗣 Languages: Spanish
+🏥 Services: Mental Health
+📞 (210) 822-9493
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
+
+493. Texas Clinic Westview
+1416 B Campbell Road, Suite 200, Houston, TX 77055
+🌐 https://www.texasclinicwestview.com
+🗣 Languages: Spanish
+🏥 Services: Mental Health
+📞 (713) 468-0536
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
+
+494. Heritage Behavioral Health
+1325 Campbell Road, Houston, TX 77055
+🌐 https://www.heritagebehavioral.com
+🗣 Languages: Spanish; Sign language services for the deaf and hard of hearing; Other languages (excluding Spanish)
+🏥 Services: Mental Health
+📞 (713) 365-9015
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
+
+495. TRIAD Mental Health - Youth Service Center
+6300 Chimney Rock Road, Houston, TX 77081
+🌐 https://resources.harriscountytx.gov
+🗣 Languages: Spanish
+🏥 Services: Mental Health
+📞 (713) 295-2500
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
 
