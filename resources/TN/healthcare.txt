@@ -293,7 +293,7 @@
 921 E    3rd St, Chattanooga, TN, 37403-2102
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.health.hamiltontn.gov
-🏥 Services: Primary Care
+🏥 Services: Primary Care, Ryan White HIV/AIDS Program
 📞 423-209-8100
 🗺 https://maps.google.com/?q=35.04885,-85.29259
 
@@ -1018,3 +1018,79 @@
 🏥 Services: Dental
 📞 901-842-3171 x08541
 🌐 https://www.christcommunityhealth.org
+
+140. Tennessee State Department Of Health
+710 James Robertson Pkwy, Nashville, TN 37219-1527
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+141. Shelby County Health Care Corp
+842 Jefferson Ave, Memphis, TN 38103-2808
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+142. Friends For All
+43 N Cleveland St, Memphis, TN 38104-2329
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+143. Nashville Cares
+633 Thompson Ln, Nashville, TN 37204-3616
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+144. Street Works
+520 Sylvan St, Nashville, TN 37206-4151
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+145. Hope House Day Care Center
+23 S Idlewild St, Memphis, TN 38104-3926
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+146. Nashville & Davidson County, Metropolitan Government Of
+1 Public Sq, Nashville, TN 37201-5007
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+147. Shelby County Government
+160 N Main St, Memphis, TN 38103-1866
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+148. Cocaine Alcohol Awareness Program
+4041 Knight Arnold Rd, Memphis, TN 38118-2128
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+149. The Mobile Ministry Of Dentistry
+525 N Main St STE 1A, Memphis, TN 38105-1635
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+150. Outmemphis
+892 S Cooper St, Memphis, TN 38104-5603
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+151. Cherokee Health Systems
+3960 Knight Arnold Rd STE 206, Memphis, TN 38118-3008
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+152. Serenity Recovery Centers Of Memphis
+1094 Poplar Ave, Memphis, TN 38105-4710
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+153. Mental And Emotional Resource Center, Inc (Merci)
+1565 Overton Park Ave, Memphis, TN 38112-5136
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+154. Ae Insurance, D/B/A American Exchange
+605 Chestnut St, Chattanooga, TN 37402
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
