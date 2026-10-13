@@ -1590,3 +1590,11 @@
 🏥 Services: Ryan White HIV/AIDS Program
 📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
 
+215. Atlanta Treatment Center (ATC)
+1995 North Park Place, Suite 505, Atlanta, GA 30339
+🌐 https://www.atlantatreatmentcenter.org
+🗣 Languages: Spanish; Sign language services for the deaf and hard of hearing; Other languages (excluding Spanish); French
+🏥 Services: Mental Health
+📞 (404) 333-8301
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
+
