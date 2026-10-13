@@ -1108,7 +1108,7 @@ CR324 Hwy 84 N #14, Tierra Amarilla, NM, 87575-0250
 145. Southwest Care Center
 649 Harkle Rd STE E, Santa Fe, NM 87505-4765
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
-🏥 Services: Ryan White HIV/AIDS Program
+🏥 Services: Ryan White HIV/AIDS Program, Mental Health
 📞 (505) 216-1380
 
 146. Turning Point Recovery Center Main Office
@@ -1159,3 +1159,14 @@ CR324 Hwy 84 N #14, Tierra Amarilla, NM, 87575-0250
 🏥 Services: Dental
 📞 (505) 982-4425
 🌐 https://www.lafamiliasf.org
+
+153. Health, New Mexico Department Of
+1190 S Saint Francis Dr # N4100, Santa Fe, NM 87505-4173
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+154. University Of New Mexico
+1650 University Blvd NE, Albuquerque, NM 87102-1726
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
