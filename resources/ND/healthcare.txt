@@ -171,7 +171,7 @@
 24. Grand Forks Public Health Dept
 151 S 4th St STE N301, Grand Forks, ND 58201-4715
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
-🏥 Services: Ryan White HIV/AIDS Program
+🏥 Services: Ryan White HIV/AIDS Program, Mental Health
 📞 (701) 787-8100
 
 25. Heartview Foundation - Bismarck
@@ -187,3 +187,14 @@
 🏥 Services: Health Care for the Homeless; Primary care
 📞 (701) 551-2499
 🌐 http://www.famhealthcare.org/
+
+27. North Dakota Department Of Health And Human Services
+600 E Boulevard Ave DEPT 301, Bismarck, ND 58505-0602
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+28. Southeastern North Dakota Community Action
+3233 University Dr S, Fargo, ND 58104-6221
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
