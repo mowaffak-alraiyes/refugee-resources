@@ -919,3 +919,45 @@
 📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🏥 Services: Women's health
 📞 (405) 632-6688
+
+126. Xpress Wellness Urgent Care
+7127 S Olympia Ave, Tulsa, OK 74132-1856
+🏥 Services: Rural health clinic, Primary Care
+📞 (918) 665-9500
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+127. Oklahoma State Department Of Health
+123 Robert S Kerr Ave STE 1702, Oklahoma City, OK 73102-6406
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+128. University Of Oklahoma
+865 Research Pkwy, Oklahoma City, OK 73104-3609
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+129. Regional Aids Intercommunity Network (Rain)
+3800 N Classen Blvd, Ste 200, Oklahoma City, OK 73118-2862
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+130. Tulsa C.A.R.E.S.
+3712 E 11th St, Tulsa, OK 74112-3952
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+131. Cox Media Llc
+715 SW 112th St, Oklahoma City, OK 73170-5809
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+132. Oklahoma Department Of Human Services
+940 NE 13th St, Oklahoma City, OK 73104-5008
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+133. Sendaride, Inc.
+13919 N May Ave, Oklahoma City, OK 73134-5004
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
