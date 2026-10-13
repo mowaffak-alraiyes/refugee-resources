@@ -1171,3 +1171,19 @@ Wilmer Eye Institute, 600 N. Wolfe St, Baltimore, MD 21287
 🏥 Services: Ryan White HIV/AIDS Program
 📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
 
+169. Prestige Healthcare Resources Inc
+400 West Franklin Street, Suite 300, Baltimore, MD 21201
+🌐 https://myprestigehealth.com
+🗣 Languages: Spanish
+🏥 Services: Mental Health
+📞 (443) 903-3686
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
+
+170. Stepping Stone Treatment Prog Center
+12 East Diamond Avenue, Suite A, Gaithersburg, MD 20877
+🌐 https://steppingstonedmv.com
+🗣 Languages: Spanish
+🏥 Services: Mental Health
+📞 (301) 366-0226
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
+
