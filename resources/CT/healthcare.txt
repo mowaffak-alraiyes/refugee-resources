@@ -2086,3 +2086,27 @@ DeWitt St, New Haven, CT 06519
 🏥 Services: Ryan White HIV/AIDS Program
 📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
 
+293. Schoke Jewish Family Service
+196 Greyrock Place, Stamford, CT 06901
+🌐 https://www.ctjfs.org
+🗣 Languages: Sign language services for the deaf and hard of hearing; Other languages (excluding Spanish)
+🏥 Services: Mental Health
+📞 (203) 921-4161
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
+
+294. Laurel House Inc
+1616 Washington Boulevard, Stamford, CT 06902
+🌐 https://www.laurelhouse.net
+🗣 Languages: Spanish
+🏥 Services: Mental Health
+📞 (203) 324-1816
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
+
+295. Hartford Dispensary - Root Center for Advanced Recovery
+35 Lafayette Street, Hartford, CT 06106
+🌐 https://www.rootcenter.org
+🗣 Languages: Spanish
+🏥 Services: Mental Health
+📞 (860) 525-2181
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
+
