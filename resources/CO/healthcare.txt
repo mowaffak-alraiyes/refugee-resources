@@ -1437,3 +1437,9 @@ CU Anschutz Health and Wellness Center, 12348 E. Montview Blvd, Aurora, CO 80045
 🏥 Services: Dental
 📞 (303) 436-4949
 🌐 https://www.denverhealth.org
+
+234. Denver Dept. Of Public Health And Enviro
+101 W Colfax Ave, Denver, CO 80202-5167
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
