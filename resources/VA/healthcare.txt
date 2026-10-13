@@ -992,7 +992,7 @@
 131. Daily Planet Inc. - Daily Planet Health Services
 511 W Grace St, Richmond, VA 23220-4911
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
-🏥 Services: Ryan White HIV/AIDS Program; Health Care for the Homeless
+🏥 Services: Ryan White HIV/AIDS Program, Health Care for the Homeless, Mental Health
 📞 (804) 783-2505
 🌐 http://dailyplanetva.org
 
@@ -1017,7 +1017,7 @@
 135. Daily Planet, Inc - East Cary Health Center
 24 E Cary St, Richmond, VA 23219-3796
 📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
-🏥 Services: Health Care for the Homeless; Primary care
+🏥 Services: Health Care for the Homeless, Primary Care, Dental
 📞 (804) 783-2505
 🌐 http://www.dailyplanetva.org
 
@@ -1036,6 +1036,71 @@
 
 138. City Of Norfolk
 741 Monticello Ave, Norfolk, VA 23510-2524
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+139. Virginia State Department Of Health
+109 Governor St, Richmond, VA 23219-3623
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+140. Virginia Commonwealth University
+800 E Leigh St, Richmond, VA 23219-1551
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+141. Lgbt Life Center
+222 W 21st St STE F-308, Norfolk, VA 23517-2200
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+142. Urban League
+7300 Newport Ave, Ste 500, Norfolk, VA 23505-3357
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+143. Virginia Beach Department Of Health
+4452 Corporation Ln, Virginia Beach, VA 23462-3173
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+144. Richmond City Health Department
+400 E Cary St, Richmond, VA 23219-3816
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+145. Minority Aids Support Services, Inc.
+247 28th St STE 100, Newport News, VA 23607-3907
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+146. Eastern Virginia Medical School
+735 Fairfax Ave Ste 909C, Norfolk, VA 23507-2007
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+147. Health Brigade
+1010 N Thompson St, Richmond, VA 23230-4924
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+148. Uzurv Holding Inc.
+413 Stuart Cir STE 100, Richmond, VA 23220-3741
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+149. Minority Health Consortium
+208 E Clay St, Ste B, Richmond, VA 23219-1353
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+150. Chesapeake Health Department
+748 Battlefield Blvd N, Chesapeake, VA 23320-4941
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+151. Norfolk Health District
+830 Southampton Ave, Norfolk, VA 23510-1001
 🏥 Services: Ryan White HIV/AIDS Program
 📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
 
