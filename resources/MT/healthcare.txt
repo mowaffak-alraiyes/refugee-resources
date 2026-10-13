@@ -4,7 +4,7 @@
 123 S   27th St, Billings, MT, 59101-4200
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.riverstonehealth.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care, Ryan White HIV/AIDS Program
 📞 406-247-3350
 🗺 https://maps.google.com/?q=45.77992,-108.50123
 
@@ -528,7 +528,7 @@ S Billings Blvd, Billings, MT 59101-9782
 72. AWARE - Great Falls Giant Springs Elementary CSCT
 2501 2nd Ave N, Great Falls, MT 59401-3332
 📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
-🏥 Services: School-based health care for children and adolescents
+🏥 Services: School-based health care for children and adolescents, Mental Health
 📞 (406) 552-5762
 🌐 http://www.aware-inc.org
 
@@ -563,7 +563,7 @@ S Billings Blvd, Billings, MT 59101-9782
 77. AWARE - C.R. Anderson Middle School CSCT
 1200 Knight St, Helena, MT 59601-2176
 📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
-🏥 Services: School-based health care for children and adolescents
+🏥 Services: School-based health care for children and adolescents, Mental Health
 📞 (406) 324-2800
 🌐 http://www.aware-inc.org
 
@@ -689,7 +689,7 @@ S Billings Blvd, Billings, MT 59101-9782
 95. AWARE- Sacajawea Elementary School CSCT
 630 Sacajawea Dr, Great Falls, MT 59404-1222
 📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
-🏥 Services: School-based health care for children and adolescents
+🏥 Services: School-based health care for children and adolescents, Mental Health
 📞 (406) 268-6000
 🌐 https://gfps.k12.mt.us/departments/elementary-education/overview
 
@@ -734,3 +734,9 @@ S Billings Blvd, Billings, MT 59101-9782
 🏥 Services: School-based health care for children and adolescents
 📞 (406) 655-2100
 🌐 https://www.ybgr.org
+
+102. Montana State Department Of Phhs
+1400 E Broadway St, Helena, MT 59601-5231
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
