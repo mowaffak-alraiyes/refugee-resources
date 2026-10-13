@@ -2379,3 +2379,9 @@
 📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🏥 Services: Dental
 📞 (216) 231-7700
+
+324. Cuyahoga County
+5550 Venture Dr, Cleveland, OH 44130-9315
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
