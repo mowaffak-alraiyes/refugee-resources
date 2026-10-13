@@ -546,19 +546,40 @@
 73. East Hawaii Health Clinic at 1285 Waianuenue
 1285 Waianuenue Ave, Hilo, HI 96720-1209
 📝 HRSA CMS Certified Rural Health Clinic (RHC), Provider-based. Source: data.hrsa.gov.
-🏥 Services: Rural health clinic; Primary care
+🏥 Services: Rural health clinic, Primary Care, Mental Health
 📞 (808) 932-3940
 🌐 http://www.easthawaiihealth.com
 
 74. Kalihi-Palama Health Center - Parent Site
 915 N King St, Honolulu, HI 96817-4544
 📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
-🏥 Services: Migrant health center; Primary care
+🏥 Services: Migrant health center, Primary Care, Dental
 📞 (808) 848-1438
 🌐 http://www.kphc.org
 
 75. State Of Hawaii Department Of Health
 1250 Punchbowl St, Honolulu, HI 96813-2416
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+76. East Hawaii Health Clinic At Pu'Uhonu Way
+75 Puuhonu Pl, Suite 100, Hilo, HI 96720-2000
+🏥 Services: Rural health clinic, Primary Care
+📞 (808) 932-3940
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+77. Gregory House Programs
+200 N Vineyard Blvd STE A, Honolulu, HI 96817-3950
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+78. The Hawaii Health And Harm Reduction Center
+677 Ala Moana Blvd STE 1024, Honolulu, HI 96813-5415
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+79. Kumukahi Health And Wellness
+101 Aupuni St, Ste 1014C, Hilo, HI 96720-4259
 🏥 Services: Ryan White HIV/AIDS Program
 📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
 
