@@ -812,7 +812,7 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 1717 Biddle St, Saint Louis, MO, 63106-3454
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.affiniahealthcare.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care, Ryan White HIV/AIDS Program
 📞 314-814-8585
 🗺 https://maps.google.com/?q=38.63936,-90.20172
 
@@ -842,7 +842,7 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 114. Places for People
 1001 Lynch St, Saint Louis, MO, 63118-1818
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+🏥 Services: Primary Care, Ryan White HIV/AIDS Program
 📞 314-535-5600
 🗺 https://maps.google.com/?q=38.60000,-90.21116
 
@@ -1243,7 +1243,7 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 167. Aids Project Of The Ozarks
 1636 S Glenstone Ave STE 1, Springfield, MO 65804-1506
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
-🏥 Services: Ryan White HIV/AIDS Program
+🏥 Services: Ryan White HIV/AIDS Program, Mental Health
 📞 (417) 881-1900
 
 168. Kansas City Health Department
@@ -1273,7 +1273,7 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 172. Kc Care Health Center-Research
 2340 E Meyer Blvd APT 1, Kansas City, MO 64132-1105
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
-🏥 Services: Ryan White HIV/AIDS Program
+🏥 Services: Ryan White HIV/AIDS Program, Dental
 📞 (816) 753-5144
 
 173. Lackland Acquisition Ii Llc, Dba Healthcare Strategic Initiative
@@ -1351,21 +1351,21 @@ S Ingram Mill Rd, Springfield, MO 65804
 184. Compass Health Network - Jefferson City High School SBHC
 609 Union St, Jefferson City, MO 65101-2898
 📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
-🏥 Services: School-based health care for children and adolescents
+🏥 Services: School-based health care for children and adolescents, Mental Health
 📞 (844) 853-8937
 🌐 http://compasshealthnetwork.org
 
 185. Compass Health Network - Jefferson City Cedar Hill Elementary SBHC
 1510 Vieth Dr, Jefferson City, MO 65109-1986
 📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
-🏥 Services: School-based health care for children and adolescents
+🏥 Services: School-based health care for children and adolescents, Mental Health
 📞 (844) 853-8937
 🌐 http://compasshealthnetwork.org
 
 186. Compass Health Network - Jefferson City Capital City High School SBHC
 1650 Cavalier Dr, Jefferson City, MO 65109-2537
 📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
-🏥 Services: School-based health care for children and adolescents
+🏥 Services: School-based health care for children and adolescents, Mental Health
 📞 (844) 853-8937
 🌐 http://compasshealthnetwork.org
 
@@ -1470,7 +1470,7 @@ Fairgrounds Rd, Jefferson City, MO 65109-0421
 201. Compass Health Network - Jefferson City Lawson Elementary SBHC
 1105 Fairgrounds Rd, Jefferson City, MO 65109-6452
 📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
-🏥 Services: School-based health care for children and adolescents
+🏥 Services: School-based health care for children and adolescents, Mental Health
 📞 (844) 853-8937
 🌐 http://compasshealthnetwork.org
 
@@ -1673,7 +1673,7 @@ Falcon Ln, Jefferson City, MO 65101
 230. Compass Health Network - Jefferson City South Elementary School SBHC
 707 Linden Dr, Jefferson City, MO 65109-2742
 📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
-🏥 Services: School-based health care for children and adolescents
+🏥 Services: School-based health care for children and adolescents, Mental Health
 📞 (844) 853-8937
 🌐 http://compasshealthnetwork.org
 
@@ -1792,7 +1792,7 @@ W Meadowmere St, Springfield, MO 65807
 247. Burrell Behavioral Health - Springfield - Bradford - Building A
 1300 E Bradford Pkwy, Springfield, MO 65804-4294
 📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
-🏥 Services: Mental health
+🏥 Services: Mental Health, Ryan White HIV/AIDS Program
 📞 (417) 516-4862
 🌐 http://burrellcenter.com
 
@@ -2012,6 +2012,106 @@ Dr Martin Luther King Junior Blvd, Kansas City, MO 64129-1993
 
 279. City Of St. Louis
 1520 Market St, Saint Louis, MO 63103-2620
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+280. Missouri Department Of Health & Senior Services
+920 Wildwood Dr, Jefferson City, MO 65109-5796
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+281. Washington University, The
+1 Brookings Dr, Saint Louis, MO 63130-4862
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+282. Interfaith Residence Dba Doorways
+1101 N Jefferson Ave, Saint Louis, MO 63106-2222
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+283. Food Outreach
+3117 Olive St, Saint Louis, MO 63103-1212
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+284. Legal Services Of Eastern Missouri
+701 Market St, Ste 1100, Saint Louis, MO 63101-1867
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+285. Vivent Health - St. Louis
+2653 Locust St, Saint Louis, MO 63103-1411
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+286. Saint Louis University
+1008 S Spring Ave RM 2609, Saint Louis, MO 63110-2520
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+287. Williams And Associates, Inc.
+3737 N Kingshighway Blvd, Saint Louis, MO 63115-1736
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+288. Restart, Inc.
+918 E 9th St, Kansas City, MO 64106-3009
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+289. Phoenix Programs Inc
+203 N Providence Rd, Ste 201, Columbia, MO 65203-4192
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+290. Medicare Premium Collection Center
+PO BOX 790355, Saint Louis, MO 63179-0355
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+291. Novus Health
+3960 Lindell Blvd, Saint Louis, MO 63108-3204
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+292. Southampton Healthcare, Inc.
+2340 Hampton Ave, Saint Louis, MO 63139-2935
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+293. Labone, Llc - Quest Diagnostics
+11636 Administration Dr, Saint Louis, MO 63146-3534
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+294. Vivent Health - Kansas City
+4309 E 50th Ter, Kansas City, MO 64130-2853
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+295. The Community Wellness Project
+906 Olive St, Ste 200, Saint Louis, MO 63101-1425
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+296. City Of Columbia
+1005 W Worley St, Columbia, MO 65203-2037
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+297. Ssm Health Care St Louis
+12312 Olive Blvd, Ste 600, Saint Louis, MO 63141-5450
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+298. St Louis Area Diaper Bank
+6141 Etzel Ave, Saint Louis, MO 63133-2007
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+299. Ssm St. Mary'S
+6420 Clayton Rd, Saint Louis, MO 63117-1811
 🏥 Services: Ryan White HIV/AIDS Program
 📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
 
