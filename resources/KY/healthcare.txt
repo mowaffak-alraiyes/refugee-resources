@@ -84,7 +84,7 @@
 12. Park DuValle Mobile Dentistry Van
 3015 Wilson Ave, Louisville, KY, 40211-1969
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+🏥 Services: Primary Care, Ryan White HIV/AIDS Program
 📞 502-916-7091
 🗺 https://maps.google.com/?q=38.22721,-85.80711
 
@@ -1542,7 +1542,7 @@ Maurice Bowling Middle School2380 Hwy. 22E,, Owenton, KY, 40359
 213. Women's Care of the Bluegrass
 279 Kings Daughters Dr, Frankfort, KY 40601-6561
 📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
-🏥 Services: Women's health
+🏥 Services: Women's Health, Mental Health
 📞 (502) 875-9122
 
 214. HealthFirst Bluegrass Newtown- Dental
@@ -1551,3 +1551,30 @@ Maurice Bowling Middle School2380 Hwy. 22E,, Owenton, KY, 40359
 🏥 Services: Dental
 📞 (859) 288-2425
 🌐 https://www.healthfirstlex.com
+
+215. Fast Pace Health Frankfort
+301 Versailles Rd, Frankfort, KY 40601-3633
+🏥 Services: Rural health clinic, Primary Care
+📞 (502) 352-2310
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+216. Health Services Kentucky Cabinet For
+275 E Main St, Frankfort, KY 40601-2321
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+217. University Of Kentucky Research Foundation, The
+500 S Limestone 109 Kinkead Hall, Lexington, KY 40526-0001
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+218. University Of Louisville
+2301 S 3rd St, Louisville, KY 40208-1838
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+219. U Of L Dental
+300 E Market St, Ste 300, Louisville, KY 40202-1961
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
