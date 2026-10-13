@@ -359,3 +359,11 @@
 🏥 Services: Ryan White HIV/AIDS Program
 📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
 
+52. MAT Care Clinics
+155 Main Dunstable Road, Suite 200, Nashua, NH 03060
+🌐 https://www.ihcnh.com
+🗣 Languages: Spanish
+🏥 Services: Mental Health
+📞 (833) 622-0628
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
+
