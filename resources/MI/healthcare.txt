@@ -1324,7 +1324,7 @@ G5399 N Saginaw St, Flint, MI, 48505-1536
 178. Detroit Community Health Connection - Woodward Corridor Family Medical Center
 611 Martin Luther King Jr Blvd, Detroit, MI 48201-2273
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
-🏥 Services: Ryan White HIV/AIDS Program; Migrant health center
+🏥 Services: Ryan White HIV/AIDS Program, Migrant health center, Mental Health
 📞 (313) 832-6300
 🌐 http://dchcquality.org
 
@@ -1433,6 +1433,71 @@ G5399 N Saginaw St, Flint, MI, 48505-1536
 
 195. City Of Detroit-Health Department
 100 Mack Ave, Detroit, MI 48201-2416
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+196. Michigan Health And Human Services
+235 S Grand Ave, Lansing, MI 48933-1805
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+197. Wayne State University
+5700 Cass Ave APT 4900, Detroit, MI 48202-3692
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+198. Detroit Community Health Connection
+13901 E Jefferson Ave, Detroit, MI 48215-2720
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+199. Community Health Awareness Group
+1300 W Fort St, Detroit, MI 48226-3007
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+200. Wayne County Neighborhood Legal Services
+7310 Woodward Ave, Ste 301, Detroit, MI 48202-3185
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+201. Lansing Area Aids Network
+913 W Holmes Rd STE 115, Lansing, MI 48910-0437
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+202. Michigan Dental Program
+109 W Michigan Ave, Lansing, MI 48933-1557
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+203. Southeastern Michigan Health Association
+3011 W Grand Blvd, Detroit, MI 48202-3096
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+204. County Of Ingham
+5303 S Cedar St, Lansing, MI 48911-3800
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+205. The Grand Rapids Red Project
+401 Hall St SE, Grand Rapids, MI 49507-1845
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+206. Jewel Jones
+17507 Robeson Way, Detroit, MI 48235-1498
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+207. Westminster Presbyterian Church
+47 Jefferson Ave SE, Grand Rapids, MI 49503-4305
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+208. Kent County Health Department
+700 Fuller Ave NE, Grand Rapids, MI 49503-1918
 🏥 Services: Ryan White HIV/AIDS Program
 📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
 
