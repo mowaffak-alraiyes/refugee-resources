@@ -3272,3 +3272,565 @@ Mobile Dental Unit, Orlando, FL 32805
 📞 (407) 896-2323
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
 
+451. TFHC #11 – N. Dale Mabry
+814 N Dale Mabry Hwy, Tampa, FL 33609
+🌐 http://www.tfhc.org
+🏥 Services: Dental
+📞 (954) 856-1338
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+452. Community Health Centers, Inc. - Pine Hills
+840 Mercy Dr, Orlando, FL 32808-7820
+🌐 http://www.chcfl.org
+🏥 Services: Dental
+📞 (407) 905-8827
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+453. Evara Health - Lealman
+4950 34th St N, Saint Petersburg, FL 33714-3031
+🌐 https://evarahealth.org/
+🏥 Services: Dental
+📞 (727) 824-8181
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+454. Suncoast Community Health Center - Palm River Community Health Center
+7728 Palm River Rd, Tampa, FL 33619-4215
+🌐 http://suncoast-chc.org/
+🏥 Services: Dental
+📞 (813) 630-3600
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+455. TFHC #29 – S. Sheldon Rd.
+5611 Sheldon Rd, Tampa, FL 33615-3532
+🌐 http://www.tampachc.com
+🏥 Services: Dental
+📞 (813) 397-5320
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+456. Agape Community Health Center, Inc. - West Jacksonville
+120 King St, Jacksonville, FL 32204-2410
+🌐 http://agapefamilyhealth.org/
+🏥 Services: Mental Health
+📞 (904) 760-4912
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+457. Just Be Rooted
+111 2nd Ave NE, Saint Petersburg, FL 33701-3434
+🌐 http://www.justberooted.org
+🏥 Services: Mental Health
+📞 (727) 346-8306
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+458. Apalachee Center, Inc. - Leon County Clinic
+2634 Capital Cir NE, Tallahassee, FL 32308-4297
+🌐 http://www.apalacheecenter.org
+🏥 Services: Mental Health
+📞 (850) 523-3333
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+459. Ibis Healthcare
+5707 N 22nd St, Tampa, FL 33610-4399
+🌐 http://www.gracepointwellness.live
+🏥 Services: Mental Health
+📞 (813) 272-2244
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+460. Northside Behavioral Health Center
+12512 Bruce B Downs Blvd, Tampa, FL 33612-9209
+🌐 http://www.baycare.org
+🏥 Services: Mental Health
+📞 (813) 977-8700
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+461. Child Guidance Center
+5776 Saint Augustine Road, Jacksonville, FL 32207
+🌐 https://www.cgcjax.org
+🏥 Services: Mental Health
+📞 904-448-4700 x1000
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+462. West Coast Behavioral Healthcare
+1751 1st Avenue North, Saint Petersburg, FL 33713
+🌐 https://westcoastbehavioral.com
+🏥 Services: Mental Health
+📞 (727) 471-8087
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+463. Learning to Achieve Wellness - St Petersburg
+2191 9th Avenue North, Suite 235, Saint Petersburg, FL 33713
+🌐 https://learningtoachievewellness.com/
+🏥 Services: Mental Health
+📞 (813) 999-1516
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+464. Phoenix House Florida
+2103 North Rome Avenue, Tampa, FL 33607
+🌐 https://www.phoenixfl.org
+🏥 Services: Mental Health
+📞 (813) 825-2103
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+465. Neuropsychiatric Institute
+4107 West Spruce Street, Suite 100, Tampa, FL 33607
+🌐 https://www.neuropsychiatric.net
+🏥 Services: Mental Health
+📞 (813) 636-8811
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+466. BayCare Behavioral Health - Life Management Services
+2727 West Dr MLK Jr Boulevard, Suite 640, Tampa, FL 33607
+🌐 https://baycare.org/
+🏥 Services: Mental Health
+📞 (727) 841-4200
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+467. Suncoast Center Inc - Community Family Programs
+1001 16th Street South, Saint Petersburg, FL 33705
+🌐 https://suncoastcenter.org
+🏥 Services: Mental Health
+📞 (727) 388-1220
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+468. Tallahassee Outpatient Annex - North Florida South Georgia VA Health
+2181 East Orange Avenue, Tallahassee, FL 32301
+🌐 https://www.va.gov
+🏥 Services: Mental Health
+📞 850-513-7058 x1200
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+469. Families First of Florida
+1000 West Tharpe Street, Suite 9, Tallahassee, FL 32303
+🌐 https://www.familiesfirstfl.com
+🗣 Languages: Spanish
+🏥 Services: Mental Health
+📞 (813) 290-8560
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+470. WhiteSands Alcohol and Drug Rehab - Hyde Park
+215 West Verne Street, Suites A and B, Tampa, FL 33606
+🌐 https://whitesandstreatment.com
+🏥 Services: Mental Health
+📞 (877) 640-7820
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+471. Steven A Cohen Military Family Clinic - Aspire Health Partners
+4520 Oak Fair Boulevard, Suite 100, Tampa, FL 33610
+🌐 https://www.aspirehealthpartners.com/cohenclinic-what-we-d
+🏥 Services: Mental Health
+📞 (813) 542-5500
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+472. Ibis Healthcare Adult Outpatient - Assessment Center
+5707 North 22nd Street, Tampa, FL 33610
+🌐 https://ibishealthcare.org
+🏥 Services: Mental Health
+📞 (813) 272-2244
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+473. Ibis Healthcare - CSU East CSU West
+2212 East Henry Avenue, Suites A and B, Tampa, FL 33610
+🌐 https://ibishealthcare.org
+🏥 Services: Mental Health
+📞 (813) 272-2958
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+474. Ibis Healthcare - Childrens Crisis Services
+2208 East Henry Avenue, Tampa, FL 33610
+🌐 https://ibishealthcare.org
+🏥 Services: Mental Health
+📞 (813) 272-2882
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+475. Allpure Behavioral Health - Tampa
+19046 Bruce B Downs Boulevard, Suite B-6, Number 867, Tampa, FL 33647
+🌐 https://allpurebh.com
+🏥 Services: Mental Health
+📞 (813) 355-9189
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+476. Sulzbacher Village
+5455 Springfield Boulevard, Jacksonville, FL 32208
+🌐 https://sulzbacherjax.org
+🏥 Services: Mental Health
+📞 (904) 394-4950
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+477. University Behavioral Center
+2500 Discovery Drive, Orlando, FL 32826
+🌐 https://www.universitybehavioral.com
+🏥 Services: Mental Health
+📞 (407) 281-7000
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+478. Orlando Recovery Center - Drug and Alcohol Rehab
+6000 Lake Ellenor Drive, Orlando, FL 32809
+🌐 https://www.orlandorecovery.com
+🏥 Services: Mental Health
+📞 407-613-5555 x1449
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+479. Eleanor Health - Florida
+4014 Gunn Highway, Suite 160, Tampa, FL 33618
+🌐 https://www.eleanorhealth.com
+🏥 Services: Mental Health
+📞 (866) 465-0590
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+480. Mindplus Mental Health Services
+1530 Metropolitan Boulevard, Suit 203, Tallahassee, FL 32308
+🌐 https://
+🏥 Services: Mental Health
+📞 (850) 343-4446
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+481. Apalachee Center Inc - Transition Home
+2634-E Capital Circle NE, Tallahassee, FL 32308
+🌐 https://www.apalacheecenter.org
+🏥 Services: Mental Health
+📞 (850) 523-3333
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+482. Apalachee Center Inc - Residential G
+2634-J Capital Circle NE, Tallahassee, FL 32308
+🌐 https://www.apalacheecenter.org
+🏥 Services: Mental Health
+📞 850-523-3333 x5350
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+483. 7 Summit Pathways
+1910 Orient Road, Tampa, FL 33619
+🌐 https://www.7summitpathways.com
+🏥 Services: Mental Health
+📞 (813) 630-4673
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+484. Fresh Ministries
+616 A Philip Randolph Boulevard, Jacksonville, FL 32202
+🌐 https://www.freshministries.org
+🏥 Services: Mental Health
+📞 (904) 854-6770
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+485. IM Sulzbacher Center for Homeless
+611 East Adams Street, Jacksonville, FL 32202
+🌐 https://sulzbacherjax.org
+🏥 Services: Mental Health
+📞 (904) 359-0457
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+486. Care Clinic
+1200 Riverplace Boulevard, Suite 105, Jacksonville, FL 32207
+🌐 https://www.careclinicmd.com
+🏥 Services: Mental Health
+📞 (844) 782-6963
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+487. Child Guidance Center
+1110 Edgewood Avenue West, Jacksonville, FL 32208
+🌐 https://www.cgcjax.org
+🏥 Services: Mental Health
+📞 904-448-4700 x6000
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+488. UF Health Jacksonville
+655 West 8th Street, Jacksonville, FL 32209
+🌐 https://ufhealth.org/
+🏥 Services: Mental Health
+📞 (904) 244-1470
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+489. Agency for Community Empowerment (ACE)
+5730 Bowden Road, Suite 206, Jacksonville, FL 32216
+🌐 https://
+🏥 Services: Mental Health
+📞 (904) 551-0760
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+490. Florida Counseling and Eval Services - Southside
+6950 Philips Highway, Suite 11, Jacksonville, FL 32216
+🌐 https://www.floridacounseling.net
+🏥 Services: Mental Health
+📞 (904) 239-3677
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+491. Wekiva Springs Center
+3947 Salisbury Road, Jacksonville, FL 32216
+🌐 https://www.wekivacenter.com
+🏥 Services: Mental Health
+📞 (904) 296-3533
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+492. Northwest Behavioral Health Services
+2400 Edgewood Avenue North, Jacksonville, FL 32254
+🌐 https://www.nwbh.org
+🏥 Services: Mental Health
+📞 904-781-0600 x8403
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+493. Northwest Behavioral Health Services
+2392 Edgewood Avenue North, Jacksonville, FL 32254
+🌐 https://www.nwbh.org
+🏥 Services: Mental Health
+📞 904-781-7797 x0
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+494. Tranquil Shores
+4300 Duhme Road, Saint Petersburg, FL 33708
+🌐 https://www.tranquilshores.org
+🏥 Services: Mental Health
+📞 (727) 391-7001
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+495. Care Clinic
+255 South Orange Avenue, Suite 104, Orlando, FL 32801
+🌐 https://www.careclinicmd.com
+🏥 Services: Mental Health
+📞 (844) 782-6963
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+496. Lake Baldwin VA Clinic - Mental Health
+5201 Raymond Street, Orlando, FL 32803
+🌐 https://www.va.gov/orlando-health-care/locations/lake-baldwin-va-clinic
+🏥 Services: Mental Health
+📞 (407) 646-5500
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+497. Aspire Health Partners - College Place
+4524 Thisledown Drive, Orlando, FL 32804
+🌐 https://www.aspirehealthpartners.com
+🏥 Services: Mental Health
+📞 (407) 875-3700
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+498. Aspire Health Partners - Princeton Plaza
+1800 Mercy Drive, Orlando, FL 32808
+🌐 https://www.aspirehealthpartners.com
+🏥 Services: Mental Health
+📞 407-875-3700 x6241
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+499. Central Florida Recovery Centers
+6900 Turkey Lake Road, Suites 1-2, Orlando, FL 32819
+🌐 https://www.centralflrecovery.com
+🏥 Services: Mental Health
+📞 (321) 251-2255
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+500. True Health - Hoffner
+5449 South Semoran Boulevard, Suites 13 and 14, Orlando, FL 32822
+🌐 https://www.mytruehealth.org
+🏥 Services: Mental Health
+📞 (407) 322-8645
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+501. Orlando VA Medical Center - Mental Health 116A
+13800 Veterans Way, Orlando, FL 32827
+🌐 https://www.va.gov/orlando-health-care/#content
+🏥 Services: Mental Health
+📞 (407) 631-1000
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+502. Windmoor Healthcare - Outpatient Clinic Tampa
+3508 North Armenia Avenue, Tampa, FL 33607
+🌐 https://www.windmoor.com
+🏥 Services: Mental Health
+📞 (727) 541-2646
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+503. BayCare Health Systems - Saint Anthonys Hospital
+1200 7th Avenue, Saint Petersburg, FL 33705
+🌐 https://baycare.org/
+🏥 Services: Mental Health
+📞 (727) 825-1100
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+504. WhiteSands Alcohol and Drug Rehab - St Petersburg
+3959 58th Street North, Saint Petersburg, FL 33710
+🌐 https://www.whitesandstreatment.com
+🏥 Services: Mental Health
+📞 (877) 640-7820
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+505. Carillon - BayCare Behavioral Health
+900 Carillon Parkway, Suite 200, Saint Petersburg, FL 33716
+🌐 https://www.baycare.org
+🏥 Services: Mental Health
+📞 (727) 841-4200
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+506. Apalachee Center Inc - Bethel Outpatient
+471 West Tennessee Street, Tallahassee, FL 32301
+🌐 https://www.apalacheecenter.org
+🏥 Services: Mental Health
+📞 (850) 523-3333
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+507. Care Clinic
+610 East Zack Street, Suite 110, Tampa, FL 33602
+🌐 https://www.careclinicmd.com
+🏥 Services: Mental Health
+📞 (844) 782-6963
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+508. Mindful Care
+1600 East 8th Avenue, Suite A-200, Tampa, FL 33605
+🌐 https://www.mindful.care
+🏥 Services: Mental Health
+📞 (516) 505-7200
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+509. Ibis Healthcare - Medication Assisted Trt Prog
+4422 East Columbus Drive, Tampa, FL 33605
+🌐 https://www.ibishealthcare.org
+🏥 Services: Mental Health
+📞 (813) 384-4000
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+510. Center for Discovery - Tampa
+2111 West Swann Avenue, Suite 202, Tampa, FL 33606
+🌐 https://centerfordiscovery.com/locations/tampa-outpatient/
+🏥 Services: Mental Health
+📞 (855) 818-2029
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+511. Sophros Recovery Tampa - DBA Sophros Recovery
+10500 University Center Drive, Suite 215, Tampa, FL 33612
+🌐 https://www.sophrosrecoverytampa.com
+🏥 Services: Mental Health
+📞 (813) 733-7319
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+512. Clean Recovery Centers
+508 West Fletcher Avenue, Tampa, FL 33612
+🌐 https://www.cleanrecoverycenters.com
+🏥 Services: Mental Health
+📞 (813) 669-7010
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+513. BayCare Behavioral Health - Northside Behavioral Health Center
+12512 Bruce B Downs Boulevard, Tampa, FL 33612
+🌐 https://www.baycare.org
+🏥 Services: Mental Health
+📞 (813) 977-8700
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+514. St Josephs Behav Health Ctr
+4918 North Habana Avenue, Tampa, FL 33614
+🌐 https://www.baycare.org/
+🏥 Services: Mental Health
+📞 (813) 898-0546
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+515. Sophros Recovery
+2511 Saint Johns Bluff Road South, Suite 106, Jacksonville, FL 32246
+🌐 https://www.sophrosrecovery.com
+🏥 Services: Mental Health
+📞 (904) 440-1479
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+516. Allpure Behavioral Health - Orlando
+2212 South Chickasaw Trail, Suite 2006, Orlando, FL 32825
+🌐 https://allpurebh.com
+🏥 Services: Mental Health
+📞 (407) 205-8664
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+517. Good Friend Counseling Services
+6925 Lake Ellenor Drive, Suite 117, Orlando, FL 32809
+🌐 https://www.gfcounselingservices.com
+🏥 Services: Mental Health
+📞 (407) 250-2020
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+518. Learning to Achieve Wellness - Tampa
+12954 North Dale Mabry Highway, Suite 235, Tampa, FL 33618
+🌐 https://learningtoachievewellness.com
+🏥 Services: Mental Health
+📞 (813) 999-1516
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+519. Suncoast Center Inc - Outpatient Services 4010
+4010 Central Avenue, Saint Petersburg, FL 33711
+🌐 https://suncoastcenter.org
+🏥 Services: Mental Health
+📞 (727) 388-1220
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+520. Suncoast Center Inc - Outpatient Services 4024
+4024 Central Avenue, Saint Petersburg, FL 33711
+🌐 https://suncoastcenter.org
+🏥 Services: Mental Health
+📞 (727) 388-1220
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+521. Child Guidance Center
+4595 Lexington Avenue, Jacksonville, FL 32210
+🌐 https://www.cgcjax.org
+🏥 Services: Mental Health
+📞 904-448-4700 x5000
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+522. Caremax Clinic 711 LLC - ValueCare Clinic
+2732 Trollie Lane, Jacksonville, FL 32211
+🌐 https://www.valuecareclinic.com
+🏥 Services: Mental Health
+📞 (904) 289-1254
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+523. Allpure Behavioral Health - Jacksonville
+10175 Fortune Parkway, Suite 1103-166, Jacksonville, FL 32256
+🌐 https://allpurebh.com
+🏥 Services: Mental Health
+📞 (904) 274-6189
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+524. Families First of Florida
+7984 Forest City Road, Suite 103, Orlando, FL 32810
+🌐 https://www.familiesfirstfl.com
+🗣 Languages: Spanish; Sign language services for the deaf and hard of hearing; Other languages (excluding Spanish); Creole
+🏥 Services: Mental Health
+📞 (813) 290-8560
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+525. WhiteSands Alcohol and Drug Rehab - Orlando
+56 East Pine Street, Orlando, FL 32801
+🌐 https://www.whitesandstreatment.com
+🏥 Services: Mental Health
+📞 (407) 255-2351
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+526. Outlook Clinic
+901 West Church Street, Orlando, FL 32805
+🌐 https://www.mhacf.org
+🏥 Services: Mental Health
+📞 407-836-2542 x101
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+527. Orlando Health - The Healing Tree
+601 West Michigan Street, Orlando, FL 32805
+🌐 https://www.caccentral.com
+🏥 Services: Mental Health
+📞 (407) 317-7430
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+528. Aspire Health Partners
+100 West Columbia Street, Orlando, FL 32806
+🌐 https://aspirehealthpartners.com
+🏥 Services: Mental Health
+📞 407-875-3700 x1195
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+529. Pine Hills Intensive Outpatient - Specialized Treatment Educ/Prev Servs
+1033 North Pine Hills Road, Suite 300, Orlando, FL 32808
+🌐 https://www.flsteps.org
+🏥 Services: Mental Health
+📞 (407) 522-2144
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+530. Total Health Guidance LLC
+5401 South Kirkman Road, Suite 730, Orlando, FL 32819
+🌐 https://www.totalhealthguidance.com
+🏥 Services: Mental Health
+📞 (321) 332-6984
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
