@@ -684,3 +684,241 @@ PO BOX 596, Newark, NJ 07101-0596
 🏥 Services: Ryan White HIV/AIDS Program
 📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
 
+102. Paterson Community Health Center, Inc - Administrative  and Service Delivery Site
+32 Clinton St, Paterson, NJ 07522-1799
+🌐 http://www.patersonchc.org/
+🏥 Services: Dental
+📞 (973) 790-6594
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+103. Iron Recovery and Wellness Center
+132 Perry Street, Trenton, NJ 08618
+🌐 https://www.ironwellness.org
+🏥 Services: Mental Health
+📞 (609) 394-8988
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+104. Iron Recovery and Wellness Center
+144 Perry Street, Trenton, NJ 08618
+🌐 https://www.ironwellness.org
+🏥 Services: Mental Health
+📞 (609) 394-8988
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+105. Reprieve Recovery Center LLC
+20 Scotch Road, 2nd Floor, Trenton, NJ 08628
+🌐 https://www.reprievetreatmentnj.com/
+🏥 Services: Mental Health
+📞 (609) 657-9118
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+106. Prime Healthcare Services - Saint Michaels LLC
+111 Central Avenue, Suite 8-C, Newark, NJ 07102
+🌐 https://www.smmcnj.com
+🏥 Services: Mental Health
+📞 (973) 877-4357
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+107. Intervention Specialists
+333 North Broad Street, Suite 2-B, Elizabeth, NJ 07208
+🌐 https://www.interventionspc.com/
+🏥 Services: Mental Health
+📞 (908) 289-0700
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+108. Twin Rivers Recovery
+78 Martin Luther King Jr Drive, Jersey City, NJ 07305
+🌐 https://www.clineoutreach.org
+🏥 Services: Mental Health
+📞 (201) 200-1965
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+109. Twin Rivers Recovery
+110 Martin Luther King Drive, Jersey City, NJ 07305
+🌐 https://www.clineoutreach.org
+🏥 Services: Mental Health
+📞 (201) 200-1965
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+110. Catholic Charities/Dio - Mercer PACT Team 1
+47 North Clinton Avenue, Suites 908 and 909, Trenton, NJ 08609
+🌐 https://catholiccharitiestrenton.org
+🏥 Services: Mental Health
+📞 609-882-4772 x4300
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+111. Footprints to Recovery
+3535 Quakerbridge Road, Suite 300, Trenton, NJ 08619
+🌐 https://www.footprintstorecovery.com/
+🏥 Services: Mental Health
+📞 (609) 249-4645
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+112. Penn Medicine Princeton House - Behavioral Health/Hamilton
+300 Clocktower Drive, Suite 101, Trenton, NJ 08690
+🌐 https://www.princetonhcs.org
+🏥 Services: Mental Health
+📞 (609) 688-2788
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+113. Khaleidoscope Health Care Inc
+75 Harrison Avenue, Jersey City, NJ 07304
+🌐 https://www.khcpmc.org
+🏥 Services: Mental Health
+📞 (201) 451-5425
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+114. Integrity House
+1091 Broad Street, Newark, NJ 07114
+🌐 https://www.integrityhouse.org
+🏥 Services: Mental Health
+📞 (973) 623-0600
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+115. Straight and Amp Narrow Inc - Straight and Narrow Alpha House III
+396 Straight Street, Paterson, NJ 07501
+🌐 https://www.ccpaterson.org/sn
+🏥 Services: Mental Health
+📞 (973) 345-6000
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+116. Evas Village - Mens Halfway House
+393 Main Street, 2nd Floor, Paterson, NJ 07501
+🌐 https://www.evasvillage.org
+🏥 Services: Mental Health
+📞 973-523-6220 x304
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+117. Evas Village - Halfway House for Women
+16 Spring Street, 2nd Floor, Paterson, NJ 07501
+🌐 https://www.evasvillage.org
+🏥 Services: Mental Health
+📞 (973) 523-6220
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+118. Evas Village - Mommy and Me Halfway House
+25 Jackson Street, 2nd FL, Paterson, NJ 07501
+🌐 https://www.evasvillage.org
+🏥 Services: Mental Health
+📞 (973) 523-6220
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+119. Saint Josephs Hospital and Medical Ctr - ACCESS Deaf Mental Health
+621 Main Street, Paterson, NJ 07503
+🌐 https://www.stjosephshealth.org/
+🏥 Services: Mental Health
+📞 (973) 754-5595
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+120. Twin Rivers Recovery
+111 Washington Street, Suites B1 and B2, Paterson, NJ 07505
+🌐 https://www.clineoutreach.org
+🏥 Services: Mental Health
+📞 (201) 200-1965
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+121. Turning Point Inc - Barnett Medical Arts Complex
+680 Broadway, Suite 104, Paterson, NJ 07514
+🌐 https://www.turningpointnj.org
+🏥 Services: Mental Health
+📞 (973) 239-9400
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+122. Oaks Integrated Care
+314 East State Street, Trenton, NJ 08608
+🌐 https://www.oaksintcare.org
+🏥 Services: Mental Health
+📞 (609) 369-9762
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+123. New Directions Behavioral Health Ctr
+9 Lincoln Park, Newark, NJ 07102
+🌐 https://sharpe600.wixsite.com/newdirectionsbhc
+🏥 Services: Mental Health
+📞 (973) 242-6599
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+124. Greater Essex Counseling Services - Drug and Alcohol OP and IOP Treatment
+23 Branford Place, 2nd Floor, Newark, NJ 07102
+🌐 https://www.greateressexnj.com
+🏥 Services: Mental Health
+📞 (973) 623-7878
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+125. Family and Childrens Services
+40 North Avenue, Elizabeth, NJ 07208
+🌐 https://www.facsnj.org
+🏥 Services: Mental Health
+📞 (908) 352-7474
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+126. Jewish Family Service of Central NJ
+655 Westfield Avenue, Elizabeth, NJ 07208
+🌐 https://www.jfscentralnj.org
+🏥 Services: Mental Health
+📞 (908) 352-8375
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+127. AZZ Medical Associates PC
+1440 Pennington Road, Suite 1, Trenton, NJ 08618
+🌐 https://azzmedical.com/
+🏥 Services: Mental Health
+📞 (609) 890-1050
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+128. Catholic Charities/Diocese of Trenton - Guidance Clinic
+39 North Clinton Avenue, Trenton, NJ 08609
+🌐 https://www.catholiccharitiestrenton.org
+🏥 Services: Mental Health
+📞 (609) 394-9398
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+129. Early Intervention Support Services - Catholic Charities Diocese of Trenton
+1225-1255 Whitehorse-Mercerville Road, Building B, Suites 504-505, Trenton, NJ 08619
+🌐 https://www.catholiccharitiestrenton.org
+🏥 Services: Mental Health
+📞 (609) 256-4200
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+130. Family Service Bureau of Newark
+274 South Orange Avenue, 2nd Floor, Newark, NJ 07103
+🌐 https://www.newcommunity.org
+🏥 Services: Mental Health
+📞 (973) 412-2056
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+131. Rutgers UBHC Newark - Outpatient Services/Newark
+183 South Orange Avenue, Level E, Newark, NJ 07103
+🌐 https://www.ubhc.rutgers.edu/clinical/overview.xml
+🏥 Services: Mental Health
+📞 (732) 235-7946
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+132. American Habitare and Counseling Inc
+687 Frelinghuysen Avenue, Newark, NJ 07114
+🌐 https://www.AmericanHabitare.com
+🏥 Services: Mental Health
+📞 (973) 799-0508
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+133. Saint Josephs University Medical Ctr - Harbor House
+645 Main Street, Paterson, NJ 07503
+🌐 https://www.stjosephshealth.org
+🏥 Services: Mental Health
+📞 (973) 754-2800
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+134. Medallion Behavioral Health
+207 19th Avenue, Paterson, NJ 07504
+🌐 https://www.medallionbh.com
+🏥 Services: Mental Health
+📞 (973) 473-2343
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+135. Center for Family Services
+655 Broadway, Paterson, NJ 07514
+🌐 https://www.centerffs.org
+🏥 Services: Mental Health
+📞 (877) 922-2377
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
