@@ -203,3 +203,248 @@
 🏥 Services: Ryan White HIV/AIDS Program
 📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
 
+30. North Dakota Department of Human Services - West Central Behavioral Health Clinic
+1237 W Divide Ave, Bismarck, ND 58501-1220
+🌐 http://www.nd.gov/dhs/locations/regionalhsc/westcentral/index.html
+🏥 Services: Mental Health
+📞 (701) 328-8888
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+31. North Dakota Department of Human Services - North Central Behavioral Health Clinic
+1015 S Broadway, Minot, ND 58701-4667
+🌐 http://www.nd.gov/dhs/locations/regionalhsc/
+🏥 Services: Mental Health
+📞 (701) 857-8500
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+32. North Dakota Department of Human Services - Southeast Behavioral Health Clinic
+2624 9th Ave S, Fargo, ND 58103-2350
+🌐 http://www.nd.gov/dhs/locations/regionalhsc/
+🏥 Services: Mental Health
+📞 (701) 298-4500
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+33. Family HealthCare - South Fargo
+4025 9th Ave S, Fargo, ND 58103-2101
+🌐 http://www.famhealthcare.org/
+🏥 Services: Mental Health
+📞 (701) 271-3344
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+34. Agassiz Associates PLLC
+2424 32nd Avenue, Suite 202, Grand Forks, ND 58201
+🌐 https://www.agassizassociates.com
+🏥 Services: Mental Health
+📞 (701) 746-6336
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+35. Fargo VA Healthcare System - Substance Use Disorder Treatment Prog
+2101 North Elm Street, Unit 116-A, Fargo, ND 58102
+🌐 https://
+🏥 Services: Mental Health
+📞 701-451-7887 x3150
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+36. Sanford Health - Behavioral Health Services
+1720 South University Drive, Fargo, ND 58102
+🌐 https://www.sanfordhealth.org
+🏥 Services: Mental Health
+📞 (701) 417-5346
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+37. Centre - Fargo Male
+123 15th Street North, Fargo, ND 58102
+🌐 https://www.centreinc.org
+🏥 Services: Mental Health
+📞 (701) 237-9340
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+38. ShareHouse Inc - Fargo Residential West
+4227 9th Avenue South, Fargo, ND 58103
+🌐 https://www.sharehouse.org
+🏥 Services: Mental Health
+📞 701-282-6561 x354
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+39. ShareHouse Inc - Fargo Outpatient
+505 40th Street South, Suite B, Fargo, ND 58103
+🌐 https://www.sharehouse.org
+🏥 Services: Mental Health
+📞 (701) 282-6561
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+40. Solutions Behav Hlthcare Professionals
+1635 43rd Street South, Suite 105, Fargo, ND 58103
+🌐 https://www.solutionsinpractice.org/
+🏥 Services: Mental Health
+📞 (701) 412-2973
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+41. First Step Recovery - The Village Family
+2701 12th Avenue South, Fargo, ND 58103
+🌐 https://www.thevillagefamily.org/content/fargo
+🏥 Services: Mental Health
+📞 (701) 451-4900
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+42. Sanford Medical Center - Outpatient BH/Child and Adolescent
+2400 32nd Avenue South, 5th Floor, Fargo, ND 58103
+🌐 https://www.sanfordhealth.org
+🏥 Services: Mental Health
+📞 (701) 234-4141
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+43. Nexus Path Luther Hall
+1505 5th Avenue South, Fargo, ND 58103
+🌐 https://www.nexusfamilyhealing.org
+🏥 Services: Mental Health
+📞 (701) 232-8905
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+44. Centre - Fargo Female
+3501 Westrac Drive, Fargo, ND 58103
+🌐 https://www.centreinc.org
+🏥 Services: Mental Health
+📞 (701) 365-4199
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+45. Solutions Behav Hlthcare Professional
+1110 College Drive, Suite 106, Bismarck, ND 58501
+🌐 https://www.solutionsinpractice.org
+🏥 Services: Mental Health
+📞 (701) 204-9210
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+46. Chambers and Blohm Psychological Servs
+309 North Mandan Street, Bismarck, ND 58501
+🌐 https://www.chambersandblohm.com
+🏥 Services: Mental Health
+📞 (701) 323-0924
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+47. North Dakota National Guard - SUD
+4200 Miriam Avenue, Bismarck, ND 58501
+🌐 https://www.ndguard.nd.gov
+🏥 Services: Mental Health
+📞 (701) 333-3804
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+48. CHI Saint Alexius Medical - Partial Hospitalization Program
+1120 East Main Avenue, Bismarck, ND 58501
+🌐 https://www.chistalexiushealth.org/
+🏥 Services: Mental Health
+📞 (701) 530-7255
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+49. Dakota Boys and Girls Ranch - Western Plains
+1227 North 35th Street, Bismarck, ND 58501
+🌐 https://www.dakotaranch.org
+🏥 Services: Mental Health
+📞 (701) 224-1789
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+50. CHI Saint Alexius Health - Archway Mental Health Services
+900 East Broadway Avenue, Bismarck, ND 58501
+🌐 https://www.chistalexiushealth.org/locations/bismarck
+🏥 Services: Mental Health
+📞 (701) 530-7300
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+51. West Central Behavioral Health Clinic
+1237 West Divide Avenue, Suite 5, Bismarck, ND 58501
+🌐 https://www.hhs.nd.gov/service-locations/behavioral-health-clinics/west-central-bismarck
+🏥 Services: Mental Health
+📞 (701) 328-8888
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+52. ADAPT Addiction and Behavioral Health - Bismarck
+1135 South 12th Street, Suite 203, Bismarck, ND 58503
+🌐 https://www.adaptaddictionandbehavioralhealthinc.net
+🏥 Services: Mental Health
+📞 (701) 954-0479
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+53. Dacotah Foundation - Alternative Care Services
+4624 38th Avenue South, Fargo, ND 58104
+🌐 https://www.dacotahfoundation.org
+🏥 Services: Mental Health
+📞 (701) 298-7877
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+54. Dakota Boys and Girls Ranch - Fargo
+7151 15th Street South, Fargo, ND 58104
+🌐 https://www.dakotaranch.org
+🏥 Services: Mental Health
+📞 (701) 551-6830
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+55. Sanford Medical Center Behavioral - Health Outpatient Adult Services
+4840 23rd Avenue South, Fargo, ND 58104
+🌐 https://www.sanfordhealth.org
+🏥 Services: Mental Health
+📞 (701) 417-6999
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+56. Community Violence Intervention Center
+211 South 4th Street, Grand Forks, ND 58201
+🌐 https://www.cviconline.org
+🏥 Services: Mental Health
+📞 (701) 746-0405
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+57. Spectra Health
+212 South 4th Street, Suite 301, Grand Forks, ND 58201
+🌐 https://www.spectrahealth.org
+🏥 Services: Mental Health
+📞 (701) 757-2100
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+58. Northeast Human Service Center
+151 South 4th Street, Suite 401, Grand Forks, ND 58201
+🌐 https://www.hhs.nd.gov/HSC/region-4
+🏥 Services: Mental Health
+📞 (701) 795-3000
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+59. Sharehouse Inc - Grand Forks Residential
+1122 North 43rd Street, Grand Forks, ND 58203
+🌐 https://www.sharehouse.org
+🏥 Services: Mental Health
+📞 (701) 670-1122
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+60. Northern Plains - Childrens Advocacy
+20 1st Street SW, Suite 202, Minot, ND 58701
+🌐 https://www.northernplainscac.org
+🏥 Services: Mental Health
+📞 (701) 852-0836
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+61. North Central Human Service Center
+1015 South Broadway, Suite 18, Minot, ND 58701
+🌐 https://www.hhs.nd.gov/
+🏥 Services: Mental Health
+📞 (701) 857-8500
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+62. Trinity Health - Inpatient Psychiatric Services
+2305 37th Avenue SW, Minot, ND 58701
+🌐 https://www.trinityhealth.org
+🏥 Services: Mental Health
+📞 (701) 857-2360
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+63. Sagent Behavioral Health - formerly Nys
+5354 42nd Street South, Suite B, Fargo, ND 58104
+🌐 https://www.sagentbh.com
+🏥 Services: Mental Health
+📞 (701) 941-4503
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+64. Dakota Boys and Girls Ranch - Minot
+P.O. Box 5007, Minot, ND 58702
+🌐 https://www.dakotaranch.org
+🏥 Services: Mental Health
+📞 (701) 852-3628
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
