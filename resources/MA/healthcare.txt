@@ -139,7 +139,7 @@
 18. Mobile Van #1
 780 Albany St, Boston, MA, 02118-2755
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
-🏥 Services: Primary Care; Health Care for the Homeless
+🏥 Services: Primary Care, Health Care for the Homeless, Ryan White HIV/AIDS Program
 📞 857-654-1300
 🌐 https://www.uphams.org
 🌐 https://www.uphams.org
@@ -1177,7 +1177,7 @@
 155. Fenway: Ansin Building
 1340 Boylston Street, Boston, MA 02215-4302
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
-🏥 Services: Ryan White HIV/AIDS Program
+🏥 Services: Ryan White HIV/AIDS Program, Dental
 📞 (617) 267-0900
 
 156. Fenway: South End
@@ -1255,3 +1255,54 @@ CONFIDENTIAL, Boston, MA 02112
 🏥 Services: Mental health
 📞 (774) 670-4813
 🌐 https://www.spectrumhealthsystems.org
+
+167. Boston Public Health Commission - Training
+1010 Massachusetts Ave FL 2, Boston, MA 02118-2853
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+168. Public Health, Massachusetts Department Of
+250 Washington Street, Boston, MA 02108-4619
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+169. University Of Massachusetts Medical School
+55 Lake Avenue N, Worcester, MA 01655
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+170. Aids Project Worcester
+165 Southbridge Street, Worcester, MA 01608
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+171. Commonwealth Land Trust
+423 Massachusetts Avenue, Boston, MA 02118-3508
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+172. Massachusetts Alliance For Portuguese Speakers (Maps)
+1046 Cambridge Street, Cambridge, MA 02139
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+173. Victory Programs, Inc.
+965 Massachusetts Avenue, Boston, MA 02118-2613
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+174. Jsi Research And Training Institute
+44 Farnsworth Street, Boston, MA 02210
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+175. Boston Medical Center Corporation (Project Trust)
+1 Boston Medical Ctr Pl, Boston, MA 02118-2908
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+176. Mgh (Mass General) - Boston
+55 Fruit Street, Boston, MA 02114-2696
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
