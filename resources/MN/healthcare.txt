@@ -43,7 +43,7 @@
 1213 E. FRANKLIN AVE, MINNEAPOLIS, MN, 55404-2923
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.nacc-healthcare.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care, Ryan White HIV/AIDS Program
 📞 612-872-8086
 🗺 https://maps.google.com/?q=44.96213,-93.25667
 
@@ -458,7 +458,7 @@
 61. Hennepin County - Healthcare for the Homeless
 525 Portland Ave, Minneapolis, MN 55415-1569
 📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
-🏥 Services: Health Care for the Homeless; Primary care
+🏥 Services: Health Care for the Homeless, Primary Care, Ryan White HIV/AIDS Program
 📞 (612) 559-6631
 🌐 http://www.hennepin.us/residents/health-medical/cl
 
@@ -756,6 +756,91 @@ L Orient St, Saint Paul, MN 55117
 
 104. Hennepin County
 300 S 6th St, Minneapolis, MN 55487-0999
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+105. State Of Mn Department Of Human Services
+540 Cedar St, Saint Paul, MN 55155-2208
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+106. African American Aids Task Force (Aaatf)
+122 W Franklin Ave STE 518, Minneapolis, MN 55404-2492
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+107. Allina - Abbott Northwestern Hospital Infectious Disease Clinic
+800 E 28th St, Minneapolis, MN 55407-3723
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+108. Indigenous Peoples Task Force
+1335 E 23rd St, Minneapolis, MN 55404-3967
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+109. Rainbow Health
+701 4th Ave S, Minneapolis, MN 55415-1600
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+110. Open Arms Of Minnesota
+2500 Bloomington Ave, Minneapolis, MN 55404-3920
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+111. The Aliveness Project
+3808 Nicollet Ave, Minneapolis, MN 55409-1304
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+112. Mayo Clinic
+200 First Street Southwest, Rochester, MN 55905-0001
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+113. Sub-Saharan African Youth And Family Services In Minnesota
+2395 University Ave W, Saint Paul, MN 55114-1513
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+114. Youth And Aids Projects
+2829 4th Ave S, Minneapolis, MN 55408-2436
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+115. Childrens Health Care
+2525 Chicago Ave, Minneapolis, MN 55404-4597
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+116. Pinnacle Services, Inc
+724 Central Ave NE, Minneapolis, MN 55414-1121
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+117. Regents Of The University Of Minnesota
+200 Oak St SE, Minneapolis, MN 55455-2009
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+118. West African HIV Task Force
+7710 Brooklyn Blvd, Minneapolis, MN 55443-2979
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+119. Mckesson Medical-Surgical Inc
+8121 10th Ave N, Minneapolis, MN 55427-4401
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+120. Clare Housing
+929 Central Ave NE, Minneapolis, MN 55413-2404
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+121. Somali Community Resettlement Services
+4020 Minnehaha Ave, Minneapolis, MN 55406-4529
 🏥 Services: Ryan White HIV/AIDS Program
 📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
 
