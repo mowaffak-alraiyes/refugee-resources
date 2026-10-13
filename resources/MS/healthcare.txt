@@ -1121,3 +1121,8 @@ RR 2 BOX 35C, FAYETTE, MS, 39069
 🏥 Services: Ryan White HIV/AIDS Program
 📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
 
+154. Mississippi State Department Of Health
+570 E Woodrow Wilson Ave, Jackson, MS 39216-4538
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
