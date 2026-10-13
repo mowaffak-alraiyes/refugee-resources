@@ -678,3 +678,8 @@ PO BOX 596, Newark, NJ 07101-0596
 🏥 Services: Ryan White HIV/AIDS Program
 📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
 
+101. Health, New Jersey Department Of
+55 N Willow St, Trenton, NJ 08608-1203
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
