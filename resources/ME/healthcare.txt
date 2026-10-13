@@ -735,3 +735,11 @@ WORKMAN TERRACE, LINCOLN, ME, 04457-0000
 🏥 Services: Ryan White HIV/AIDS Program
 📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
 
+100. Invest in You Counseling LLC
+336 Mount Hope Avenue, Suite 14, Bangor, ME 04401
+🌐 https://investinyoucounseling.com
+🗣 Languages: Sign language services for the deaf and hard of hearing; Other languages (excluding Spanish); French
+🏥 Services: Mental Health
+📞 (207) 991-3310
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
+
