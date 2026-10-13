@@ -1109,3 +1109,19 @@
 🏥 Services: Ryan White HIV/AIDS Program
 📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
 
+153. Center for Child and Family Services
+739 Thimble Shoals Boulevard, Suite 400, Newport News, VA 23606
+🌐 https://www.kidsandfamilies.com
+🗣 Languages: Spanish
+🏥 Services: Mental Health
+📞 (757) 838-1960
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
+
+154. Merakey - Assertive Community Treatment (ACT)
+6379 Center Drive, Norfolk, VA 23502
+🌐 https://www.merakey.org/
+🗣 Languages: Spanish
+🏥 Services: Mental Health
+📞 (757) 231-6301
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
+
