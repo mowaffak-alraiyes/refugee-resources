@@ -1208,3 +1208,87 @@
 🏥 Services: Ryan White HIV/AIDS Program
 📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
 
+163. Columbia Area Mental Health Center - Adult Clinic Services
+2715 Colonial Dr, Columbia, SC 29203-6818
+🌐 https://scdmh.net/columbia-area-mental-health-center/
+🏥 Services: Mental Health
+📞 (803) 737-8835
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+164. JusticeWorks BehavioralCare
+2711 Middleburg Drive, Suite 212, Columbia, SC 29204
+🌐 https://www.justiceworksyouthcare.com/
+🏥 Services: Mental Health
+📞 (803) 234-6134
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+165. William S Hall Psych Inst/Bryan Hosp - Child and Adolescent Acute Psych Servs
+220 Faison Drive, Columbia, SC 29203
+🌐 https://bhdd.sc.gov/
+🏥 Services: Mental Health
+📞 (803) 898-1662
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+166. G Werber Bryan Psychiatric Hospital - Forensic Services
+7901 Farrow Road, Columbia, SC 29203
+🌐 https://bhdd.sc.gov/
+🏥 Services: Mental Health
+📞 (803) 935-5185
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+167. Columbia Area Mental Health Center - Lower Richland Clinic
+1850 Pineview Road, Columbia, SC 29209
+🌐 https://
+🏥 Services: Mental Health
+📞 (803) 737-8835
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+168. Columbia Area Mental Health Center - Insights Young Adult Program
+1848 Pineview Road, Columbia, SC 29209
+🌐 https://
+🏥 Services: Mental Health
+📞 (803) 898-0210
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+169. Charlie Health
+1565 Sam Rittenburg Boulevard, Suite 104, Charleston, SC 29407
+🌐 https://www.charliehealth.com
+🏥 Services: Mental Health
+📞 (866) 434-1632
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+170. University of South Carolina - Psychology Services Center
+1331 Elmwood Avenue, Suite 140, Columbia, SC 29201
+🌐 https://www.psych.sc.edu/psc
+🏥 Services: Mental Health
+📞 (803) 777-7302
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+171. Prisma Health - Behavioral Health Day Treatment
+720 Gracern Road, Suite 120, Columbia, SC 29210
+🌐 https://prismahealth.org/services/behavioral-health-and-psychiatry/
+🏥 Services: Mental Health
+📞 (803) 296-8765
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+172. Marshall I Pickens Hospital - Greenville Memorial Medical Campus
+701 Grove Road, Greenville, SC 29605
+🌐 https://www.prismahealth.org
+🏥 Services: Mental Health
+📞 (864) 455-1285
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+173. Transcendence Treatment Center - Recovery Unplugged South Carolina
+3900 Leeds Avenue, Suite 101, North Charleston, SC 29405
+🌐 https://www.recoveryunplugged.com
+🏥 Services: Mental Health
+📞 (844) 671-0717
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+174. Greater Greenville Mental Health - Greenville Clinic
+124 Mallard Street, Greenville, SC 29601
+🌐 https://
+🏥 Services: Mental Health
+📞 (864) 241-1040
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
