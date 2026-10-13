@@ -701,7 +701,7 @@ WORKMAN TERRACE, LINCOLN, ME, 04457-0000
 94. Portland Community Health Center
 63 Preble St, Portland, ME 04101
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
-🏥 Services: Ryan White HIV/AIDS Program
+🏥 Services: Ryan White HIV/AIDS Program, Dental, Mental Health
 📞 (207) 874-2141
 
 95. Penobscot Community Health Care - Capehart Community Health Center
@@ -724,3 +724,14 @@ WORKMAN TERRACE, LINCOLN, ME, 04457-0000
 🏥 Services: Pediatrics
 📞 207-755-3160 x20751
 🌐 https://www.communityclinicalservices.com
+
+98. Frannie Peabody Center
+30 Danforth St STE 309, Portland, ME 04101-4574
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+99. Maine General Medical Center
+35 Medical Center Pkwy, Augusta, ME 04330
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
