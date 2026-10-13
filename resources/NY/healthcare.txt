@@ -39,16 +39,16 @@
 
 7. LFHC Community Medicine Program at Bowery Residents Committee
 317 Bowery Street, New York, NY, 10003-7105
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 https://www.lmcmc.com
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 212-533-5656
 
 8. BETANCES HEALTH CENTER
 280 Henry St, New York, NY, 10002-4816
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.betances.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Migrant health center
 📞 212-227-8408 x101
 
 9. CareVan
@@ -60,9 +60,11 @@
 
 10. MedVan 2
 8 E    3rd St, New York, NY, 10003-8908
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care; Health Care for the Homeless
 📞 212-533-8400
+
+🌐 http://www.projectrenewal.org/health-3
 
 11. Lower East Side Health Center
 255 E Houston St, New York, NY, 10002-1013
@@ -137,9 +139,9 @@
 
 22. CALLEN LORDE COMMUNITY HEALTH CENTER
 356 W   18th St, New York, NY, 10011-4401
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.lmcmc.com
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 212-271-7200
 
 23. ODA Quality Health Center
@@ -226,9 +228,9 @@
 
 36. Housing Works Health Services III at W 37 Street
 301 W 37th St Fl 4, New York, NY, 10018-4211
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 https://www.housingworks.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 718-277-0386
 
 37. Greenpoint Health Center
@@ -245,9 +247,9 @@
 
 39. Woodstock Hotel (Project Find)
 127 W   43rd St, New York, NY, 10036-6565
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 https://www.lmcmc.com
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 212-221-5748
 
 40. Williamsburg Community Health Center
@@ -271,9 +273,9 @@
 
 43. Ryan Chelsea-Clinton Community Health Center
 645 10th Ave, New York, NY, 10036-2904
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.ryancenter.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 212-265-4500
 
 44. P.S. 196
@@ -284,9 +286,11 @@
 
 45. Atlantic Armory Health Center
 1322 Bedford Avenue, Brooklyn, NY, 11216
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 718-636-3908
+
+🌐 https://nyulangone.org/locations/community-medicine-program-family-health-centers-at-nyu-langone
 
 46. Park West Educational Campus
 525 W 50th St, New York, NY, 10019-7002
@@ -315,9 +319,9 @@
 
 50. PETER JAY SHARP CENTER FOR OPPT
 89-111 PORTER AVE, BROOKLYN, NY, 11237-1417
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 https://www.doe.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 718-417-2535
 
 51. Brooklyn Plaza Medical Center
@@ -342,9 +346,11 @@
 
 54. St. John's Bread and Life
 795 Lexington Ave, Brooklyn, NY, 11221-2903
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 718-574-0058
+
+🌐 http://www.careforthehomeless.org
 
 55. QUEENSBRIDGE CLINIC
 1029 41st Ave, Long Island City, NY, 11101-7346
@@ -373,9 +379,9 @@
 
 59. CARIBBEAN HOUSE HEALTH CENTER
 1167 NOSTRAND AVE, BROOKLYN, NY, 11225-5417
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.chnnyc.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care; Migrant health center
 📞 718-778-0198
 
 60. SHERO Hour Children 1
@@ -460,8 +466,8 @@
 
 73. Ezra Mobile Dental Van #1
 1312 38th St, Brooklyn, NY, 11218-3612
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Dental
 📞 718-686-7600
 
 74. FAMILY SUPPORT CENTER
@@ -498,15 +504,19 @@
 
 79. Ralph Avenue Health Center
 599 Ralph Ave, Brooklyn, NY, 11233-5113
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program; Federally Qualified Health Center (FQHC), Public Housing Program. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Health Care for the Homeless; Public housing primary care
 📞 347-501-6306
+
+🌐 http://www.thefloatinghospital.org
 
 80. Kingsboro Men's MICA Shelter
 681 Clarkson Ave, Brooklyn, NY, 11203-2125
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 718-277-0386
+
+🌐 https://healthcare.housingworks.org/
 
 81. JHS 62 Ditmas
 700 Cortelyou Road, Brooklyn, NY, 11218
@@ -522,8 +532,8 @@
 
 83. LaSante Segulah Pediatric Clinic
 4809 14th Ave. 1st Floor, Brooklyn, NY, 11219-4843
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Pediatrics
 📞 718-246-5700
 
 84. P.S. 135 - Sheldon A. Brookner
@@ -559,8 +569,8 @@
 
 89. Magnolia House
 1424 Herkimer St, Brooklyn, NY, 11233-3337
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 718-437-5201
 
 90. AMSTERDAM FAMILY HEALTH CENTER
@@ -572,16 +582,16 @@
 
 91. Atlantic House Shelter
 2402 Atlantic Ave., Brooklyn, NY, 11233-3402
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 https://www.lmcmc.com
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 718-385-8335
 
 92. Ryan Health | West 97th Street
 110 W 97th St, NEW YORK, NY, 10025-6450
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.ryancenter.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 212-749-1820
 
 93. P.S.331 The Detective WenJian Liu School of Civics and Entrepreneurship
@@ -598,22 +608,24 @@
 
 95. BMS @ Bristol
 259 Bristol St, Brooklyn, NY, 11212-5540
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.bmsfhc.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Dental
 📞 718-345-5000
 
 96. Care Found Here: Junius St
 91 Junius St, Brooklyn, NY, 11212-8021
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 212-366-4459
+
+🌐 http://careforthehomeless.org
 
 97. Ryan Health | Women and Children's
 801 Amsterdam Ave, New York, NY, 10025-5704
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.ryanhealth.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Women's health
 📞 212-749-1820
 
 98. BP Dental Center for Kids
@@ -657,9 +669,9 @@
 
 104. Young Women's Leadership School
 140 W  102nd St, New York, NY, 10025-4498
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.ryancenter.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Women's health
 📞 212-289-7593
 
 105. HealthCare Choices NY, Inc. - Brooklyn
@@ -744,15 +756,15 @@ One Keener Building, Wards' Island, NY, 10035-6002
 
 117. LEGACY
 10875 Avenue D, Brooklyn, NY, 11236-1931
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Migrant health center
 📞 718-257-2978
 
 118. BROADWAY PRESBYTERIAN CHURCH
 601 W  114th St, New York, NY, 10025-7906
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 https://www.institute2000.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 212-864-6100
 
 119. PUBLIC SCHOOL#155-SBHC
@@ -782,28 +794,32 @@ One Keener Building, Wards' Island, NY, 10035-6002
 
 123. Mobile Health Services
 234 E  121st St, New York, NY, 10035-3017
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Dental
 📞 212-987-3707
+
+🌐 https://www.harlemunited.org/
 
 124. 121st Street Family Health Center
 219 E 121st St, New York, NY, 10035-3018
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 https://www.damianhealth.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 646-665-7022
 
 125. Medical Mobile Van (4)
 999 Blake Ave, Brooklyn, NY, 11208-3535
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 718-277-8303
 
 126. Boriken Neighborhood Health Center
 2265 3rd Ave, New York, NY, 10035-2231
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Migrant health center
 📞 212-289-6650 x21265
+
+🌐 http://www.boriken.org
 
 127. BMS@Ashford
 650 Ashford St, Brooklyn, NY, 11207-7315
@@ -899,9 +915,11 @@ One Keener Building, Wards' Island, NY, 10035-6002
 
 141. Jackson Avenue Family Residence
 691 E  138th St, Bronx, NY, 10454-3307
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 718-993-8900 x51
+
+🌐 http://www.careforthehomeless.org
 
 142. Plaza del Sol Health Center
 37-12 108th St., Corona, NY, 11368-2025
@@ -961,9 +979,9 @@ One Keener Building, Wards' Island, NY, 10035-6002
 
 151. Casa Rita (Women in Need)
 391 E  149th St, Bronx, NY, 10455-3907
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.lmcmc.com
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Women's health
 📞 718-402-0066
 
 152. Sun River Health The Hub
@@ -974,9 +992,9 @@ One Keener Building, Wards' Island, NY, 10035-6002
 
 153. Prevention Assessment Temporary Housing
 151 E  151st St, Bronx, NY, 10451-5248
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 https://www.thefloatinghospital.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 718-872-9490
 
 154. JHS 162 - Lola Rodriguez de Tio (x162 Campus)
@@ -994,9 +1012,9 @@ One Keener Building, Wards' Island, NY, 10035-6002
 
 156. In Homes Now Healthcare Services
 502 W 152nd St, New York, NY, 10031-2036
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 https://www.projectrenewal.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 212-620-0340
 
 157. Mott Haven Campus
@@ -1008,9 +1026,9 @@ One Keener Building, Wards' Island, NY, 10035-6002
 
 158. Ramon Velez Community Health Center
 754 E 151st St, Bronx, NY, 10455-3267
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.acacianetwork.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care; Mental health
 📞 718-960-7601
 
 159. PS 161 Ponce de Leon
@@ -1028,9 +1046,9 @@ One Keener Building, Wards' Island, NY, 10035-6002
 
 161. Via Verde Health Center
 730 Brook Ave, Bronx, NY, 10455-1333
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 http://www.montefiore.org/Via Verde
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 718-484-1247
 
 162. P.S. 194 - Raoul Wallenberg
@@ -1099,8 +1117,8 @@ One Keener Building, Wards' Island, NY, 10035-6002
 
 172. Bronx Health Collective @ 871 Prospect Ave
 871 Prospect Ave, Bronx, NY, 10459-3913
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 718-991-0605
 
 173. Abraham Lincoln High School
@@ -1125,8 +1143,8 @@ One Keener Building, Wards' Island, NY, 10035-6002
 
 176. BronxCare Ogden Family Medical and Dental Center
 1067 Ogden Avenue, Bronx, NY, 10452
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Dental
 📞 718-992-7669
 
 177. P.S. 48
@@ -1138,9 +1156,11 @@ One Keener Building, Wards' Island, NY, 10035-6002
 
 178. The Living Room
 800 Barretto St, Bronx, NY, 10474-5304
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 718-893-3606
+
+🌐 http://www.careforthehomeless.org
 
 179. SBHC CES 126
 175 W 166TH ST, BRONX, NY, 10452-4500
@@ -1158,9 +1178,11 @@ One Keener Building, Wards' Island, NY, 10035-6002
 
 181. Bronx Regional High School
 979 Rogers Pl, Bronx, NY, 10459-3053
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Primary Care; School-based health care for children and adolescents
 📞 718-589-5665
+
+🌐 https://www.montefiore.org/school-health-program
 
 182. M.S. 424
 730 Bryant Ave, Bronx, NY, 10474-6006
@@ -1171,16 +1193,18 @@ One Keener Building, Wards' Island, NY, 10035-6002
 
 183. Franklin Avenue Women's Shelter
 1122 Franklin Ave, Bronx, NY, 10456-5305
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program; Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.hud.gov/local/ny/homeless/womenshelters.cfm
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Women's health; Health Care for the Homeless
 📞 718-842-9797
 
 184. Fort Washington Dental And Primary Care Clinic
 651 W  168th St, New York, NY, 10032-3703
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program; Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Dental; Health Care for the Homeless
 📞 212-740-1780
+
+🌐 http://www.projectrenewal.org/health-3
 
 185. Bella Vista Community Health Center
 882-886 Hunts Point Avenue, Bronx, NY, 10474-5402
@@ -1236,9 +1260,11 @@ One Keener Building, Wards' Island, NY, 10035-6002
 
 193. PS 198
 1180 Tinton Ave, Bronx, NY, 10456-5436
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Primary Care; School-based health care for children and adolescents
 📞 718-860-8345
+
+🌐 http://www.montefiore.org/school-health-program
 
 194. PS 75
 984 Faile St, Bronx, NY, 10459-3703
@@ -1288,9 +1314,11 @@ One Keener Building, Wards' Island, NY, 10035-6002
 
 201. HELP MORRIS
 285 E  171st St, Bronx, NY, 10457-8939
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Migrant health center
 📞 718-872-9480
+
+🌐 http://www.thefloatinghospital.org
 
 202. Taft High School
 240 E  172nd St, Bronx, NY, 10457-8903
@@ -1314,9 +1342,9 @@ One Keener Building, Wards' Island, NY, 10035-6002
 
 205. Fannie Lou Hamer M.S./P.S. 66
 1001 Jennings St, Bronx, NY, 10460-6032
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
 🌐 https://www.urbanhealthplan.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; School-based health care for children and adolescents
 📞 718-589-2440
 
 206. BronxCare Ambulatory Care Network
@@ -1333,14 +1361,14 @@ One Keener Building, Wards' Island, NY, 10035-6002
 
 208. BronxCare Neurology
 1650 Selwyn Ave Apt 1B, Bronx, NY, 10457-7628
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 718-960-1334
 
 209. BronxCare Pediatric Specialty Center
 1685 Morris Ave, Bronx, NY, 10457-7717
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Pediatrics
 📞 718-579-7337
 
 210. James Kieran School Based Health Center
@@ -1351,15 +1379,17 @@ One Keener Building, Wards' Island, NY, 10035-6002
 
 211. BronxCare Center for Physical Rehabilitation
 1775 Grand Concourse Ste 6B, Bronx, NY, 10453-8202
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Dental
 📞 718-579-3940
 
 212. MS 174
 456 White Plains Road  FL 3, Bronx, NY, 10473-2436
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Primary Care; School-based health care for children and adolescents
 📞 718-860-8671
+
+🌐 http://www.montefiore.org/school-health-program
 
 213. CIS 303: Leadership & Community Service Academy/232
 1700 Macombs Rd, Bronx, NY, 10453-7048
@@ -1377,9 +1407,9 @@ One Keener Building, Wards' Island, NY, 10035-6002
 
 215. James Monroe Annex
 1551 E 172ND ST, BRONX, NY, 10472-2141
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
 🌐 https://www.urbanhealthplan.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; School-based health care for children and adolescents
 📞 718-589-4793
 
 216. HELP CROTONA
@@ -1403,9 +1433,9 @@ One Keener Building, Wards' Island, NY, 10035-6002
 
 219. West Farms Family Practice
 1825 Boston Rd, Bronx, NY, 10460
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.montefiore.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 718-842-8040
 
 220. VIP Satellite
@@ -1437,9 +1467,9 @@ One Keener Building, Wards' Island, NY, 10035-6002
 
 224. PS 396/ MS390
 1930 Andrews Ave, Bronx, NY, 10453-3004
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
 🌐 https://www.mhhc.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; School-based health care for children and adolescents
 📞 718-299-6280
 
 225. Park Tree Community Health Center
@@ -1470,9 +1500,9 @@ One Keener Building, Wards' Island, NY, 10035-6002
 
 229. MHHC at 85 W Burnside
 85 W Burnside Ave, Bronx, NY, 10453-4015
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.mhhc.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 718-716-4400
 
 230. Omega Health Urgent Care
@@ -1529,16 +1559,16 @@ One Keener Building, Wards' Island, NY, 10035-6002
 
 238. Castle Hill Family Practice
 2175 Westchester Ave, Bronx, NY, 10462-4734
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.montefiore.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 718-829-6770
 
 239. UNION Mobile Dental Unit
 260 E 188th St, Bronx, NY, 10458-5302
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.uchcbronx.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Dental
 📞 718-220-2020
 
 240. University Avenue Family Practice
@@ -1576,9 +1606,9 @@ One Keener Building, Wards' Island, NY, 10035-6002
 
 245. Comprehensive Family Care Center
 1621 Eastchester Rd, Bronx, NY, 10461-2604
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.montefiore.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 718-405-8040
 
 246. In-Tech Academy (MS/High School 368)
@@ -1608,9 +1638,9 @@ One Keener Building, Wards' Island, NY, 10035-6002
 
 250. Montefiore Med Group-Williamsbridge
 3011 Boston Rd, Bronx, NY, 10469-4002
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.montefiore.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 718-547-6111
 
 251. Springfield Community Health Center
@@ -1972,9 +2002,11 @@ One Keener Building, Wards' Island, NY, 10035-6002
 
 308. WYH Mobile Heatlh Unit -WOW
 900 Lark Dr, Albany, NY, 12207-1300
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Dental
 📞 518-591-4457
+
+🌐 https://www.wmyhealth.org
 
 309. PHILLP SCHUYLER ACHIEVEMENT
 676 CLINTON AVE, ALBANY, NY, 12206-2216
@@ -2304,9 +2336,9 @@ One Keener Building, Wards' Island, NY, 10035-6002
 
 358. CS-HHC Ansonia
 4380 Bronx Blvd, Bronx, NY, 10466-1318
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 https://www.cornellscott.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 203-503-3570
 
 359. Moriah Health Center
@@ -2338,9 +2370,9 @@ One Keener Building, Wards' Island, NY, 10035-6002
 
 363. SBHC - Dr. Weeks Elementary
 710 HAWLEY AVE, SYRACUSE, NY, 13203-2924
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
 🌐 https://www.schcny.com
-🏥 Services: Primary Care
+🏥 Services: Primary Care; School-based health care for children and adolescents
 📞 315-435-4030
 
 364. SBHC - Fowler High School
@@ -2352,9 +2384,9 @@ One Keener Building, Wards' Island, NY, 10035-6002
 
 365. SBHC - Delaware Elementary
 900 S Geddes St, Syracuse, NY, 13204-3826
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
 🌐 https://www.schcny.com
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Mental health; School-based health care for children and adolescents
 📞 315-435-4452
 
 366. SCH - Onondaga Community College
@@ -2902,3 +2934,1241 @@ Audubon Urgicare Center, 21 Audubon Avenue, New York, NY 10032
 📞 (347) 688-6766
 📧 ps-cosmo@cumc.columbia.edu
 
+449. Whitney M. Young, Jr. Community Health Center
+920 Lark Dr, Albany, NY 12207-1300
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program; Migrant health center
+📞 (518) 464-4771
+🌐 http://www.wmyhealth.org
+
+450. Women Infants Children Family Health Center at NYU Langone
+5610 2nd Ave, Brooklyn, NY 11220-3599
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program; Women's health
+📞 (718) 630-7942
+🌐 https://nyulangone.org/locations/sunset-park-family-health-center-at-nyu-langone-second-avenue
+
+451. Albany Medical College, Dept Of Medicine
+1 Clara Barton Dr, Albany, NY 12208-3401
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (518) 262-4043
+
+452. Apicha Community Health Center
+400 Broadway, New York, NY 10013-3698
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (212) 334-7940
+
+453. Brooklyn Plaza Medical Center, Inc.
+650 Fulton St, Brooklyn, NY 11217-1517
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (718) 596-9800
+
+454. Cabs Health Center
+98 Manhattan Ave, Brooklyn, NY 11206-2501
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (718) 388-0390
+
+455. Casa Maria Community Health Center
+324 E 149th St, Bronx, NY 10451-5602
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (718) 299-1100
+
+456. Community Healthcare Network
+60 Madison Ave FL 5, New York, NY 10010-1600
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (212) 545-2400
+
+457. Comprehensive Health Care Center
+305 E 161st St, Bronx, NY 10451-3499
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (718) 579-2500
+
+458. Comprehensive Health Clinic
+275 7th Ave, New York, NY 10001-6708
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (212) 604-1701
+
+459. Comprehensive Health Program
+180 Fort Washington Ave, New York, NY 10032-3722
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (212) 305-3174
+
+460. Family Physician Family Health Center At Nyu Langone
+5616 6th Ave, Brooklyn, NY 11220-3419
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (718) 439-5440
+
+461. Family Practice Center Of Harlem
+1824 Madison Ave, New York, NY 10035-3832
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (212) 423-4500
+
+462. Flatbush Family Health Center At Nyu Langone
+3414 Church Ave, Brooklyn, NY 11203-2714
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (718) 630-7942
+
+463. Jack Martin Clinic
+17 E 102nd St, New York, NY 10029-5204
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (212) 241-7968
+
+464. HHC Jacobi - Hospital Based - Outpatient Comprehensive Addiction Treatment Center (CATC)
+1400 Pelham Pkwy S, Bronx, NY 10461-1119
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program; Mental health
+📞 (718) 918-4333
+🌐 https://www.nychealthandhospitals.org/services/alcohol-substance-use-and-opioid-services/
+
+465. Joseph P. Addabbo Family Health Center
+120 Richards St, Brooklyn, NY 11231-1696
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (718) 945-7150
+
+466. Latino Commission On Aids, Inc
+24 W 25th St, New York, NY 10010-2704
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (212) 675-3288
+
+467. Lincoln Hospital
+234 E 149th St, Bronx, NY 10451-5504
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (718) 579-5926
+
+468. Marble Hill Family Practice
+5525 Broadway, Bronx, NY 10463-5202
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (718) 884-0279
+
+469. BCHN - (MMG) Bronx Community Health Network
+1 Fordham Plz, Bronx, NY 10458-5871
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program; Migrant health center
+📞 (718) 933-2400
+🌐 http://www.bchnhealth.org
+
+470. Montefiore Medical Center
+111 E 210th St, Bronx, NY 10467
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (718) 920-5224
+
+471. Morningside Clinic
+440 W 114th St, New York, NY 10025-1796
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (212) 523-6500
+
+472. New York City Health & Hospitals Corp.
+15 W 136th St, New York, NY 10037-2104
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (212) 939-8400
+
+473. New York City Health And Hospitals Corporation
+451 Clarkson Ave, Brooklyn, NY 11203-2097
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (718) 245-3131
+
+474. New York Harm Reduction Educators, Inc.
+106 E 126th St, New York, NY 10035-1623
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (718) 842-6050
+
+475. New York University School Of Medicine Lnyc
+550 1st Ave, New York, NY 10016-6497
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (212) 263-7000
+
+476. Nyc H+H/Woodhull - Paul Paroski Practice
+760 Broadway, Brooklyn, NY 11206-5383
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (718) 630-8031
+
+477. Park Ridge Family Health Center At Nyu Langone
+6317 4th Ave, Brooklyn, NY 11220-4922
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (718) 630-7942
+
+478. Park Slope Family Health Center At Nyu Langone
+220 13th St, Brooklyn, NY 11215-4802
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (718) 630-7942
+
+479. Promesa, Inc - Promesa CDOP & MTAA
+1776 Clay Ave, Bronx, NY 10457-7421
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program; Mental health
+📞 (718) 299-1100
+🌐 https://www.acacianetwork.org/
+
+480. Research Foundation Of Suny-Heat Program
+450 Clarkson Ave, Brooklyn, NY 11203-2012
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (718) 613-8543
+
+481. Ryan-Nena Community Health Center
+279 E 3rd St, New York, NY 10009-7813
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (212) 749-1820
+
+482. Samuels Clinic
+1000 10th Ave STE 2T, New York, NY 10019-1147
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (212) 523-6500
+
+483. Seventh Avenue Family Health Center At Nyu Langone
+5008 7th Ave, Brooklyn, NY 11220-2167
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (718) 210-1030
+
+484. Special Needs Clinic
+622 W 168th St, New York, NY 10032-3720
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (212) 305-0924
+
+485. St Johns Riverside Hospital
+2 Park Avenue Ter Apt 4, Yonkers, NY 10703-1500
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (914) 964-7551
+
+486. Star Health Center
+470 Clarkson Ave, Brooklyn, NY 11203-2012
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (718) 270-3745
+
+487. Sunset Park Family Health Center At Nyu Langone
+150 55th St, Brooklyn, NY 11220-2559
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (718) 630-7942
+
+488. Sunset Terrace Family Health Center At Nyu Langone
+514 49th St, Brooklyn, NY 11220-2010
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (718) 630-7924
+
+489. The Brooklyn Hospital Center
+121 Dekalb Ave, Brooklyn, NY 11201-5493
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (718) 250-6559
+
+490. University Avenue Family Practice
+105 Father Zeiser Pl, Bronx, NY 10468-5001
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (718) 563-0757
+
+491. START Treatment and Recovery Centers - Kaleidoscope Clinic (3rd & 4th Floors)
+121 W 12th St, New York, NY 10011
+📝 HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (718) 260-2937
+🌐 http://www.startny.org
+
+492. New York Presbyterian - Percy Sutton Educational Complex SBHC
+6 Edgecombe Ave, New York, NY 10030-2499
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (646) 317-0700
+🌐 https://www.nyp.org/acn/community-programs/school-based-health-centers
+
+493. Sunset Park - Grand Central Neighborhood Association
+120 E 32nd St, New York, NY 10016-5502
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (212) 883-0680
+🌐 http://www.grandcentralneighborhood.org/services/health/
+
+494. Brownell Center for Behavioral Health SBHC- Roberts School
+715 Glenwood Ave, Syracuse, NY 13207-1599
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (315) 472-4471
+
+495. Mount Sinai Beth Israel OTP, Clinic 2, 4th Floor
+1825 Park Ave, New York, NY 10035-1932
+📝 HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (212) 774-3260
+
+496. Brownell Center for Behavioral Health SBHC- Seymour Elementary
+108 Shonnard St, Syracuse, NY 13204-3287
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (315) 472-4471
+
+497. Liberty Resources - Institute of Technology at Syracuse Central
+258 E Adams St, Syracuse, NY 13202-3025
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (315) 425-1004
+🌐 http://liberty-resources.org
+
+498. TRI Center Inc. (Bronx)
+2488 Grand Concourse, Bronx, NY 10458-5203
+📝 HRSA Substance Use Disorder Facility, Office-based Opioid Treatment Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (718) 584-7204
+🌐 http://tricenter.com
+
+499. Montefiore School Health Program - PS 85
+2400 Marion Ave, Bronx, NY 10458-7499
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (718) 584-9615
+🌐 http://www.montefiore.org/school-health-program
+
+500. The Children's Aid Society - Charles Drew Campus Health Center
+3630 3rd Ave, Bronx, NY 10456-2175
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (718) 716-7550
+
+501. New York Presbyterian - Pediatric Psychiatry SBHC at PS 4 (Duke Ellington School)
+500 W 160th St, New York, NY 10032-6701
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; Pediatrics; School-based health care for children and adolescents
+📞 (212) 928-0739
+🌐 https://www.nyp.org/acn/specialty-care/pediatric-psychiatry
+
+502. Astor Services - MS 391
+2190 Folin St, Bronx, NY 10457-2302
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (718) 751-5407
+🌐 https://www.astorservices.org
+
+503. Liberty Resources - HW Smith School SBHC
+1130 Salt Springs Road, Syracuse, NY 13224
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (315) 472-4471
+
+504. William F. Ryan CHC - Satellite - West End Intergenerational Residence
+483 W End Ave, New York, NY 10024-4340
+📝 HRSA Federally Qualified Health Center (FQHC), Public Housing Program. Source: data.hrsa.gov.
+🏥 Services: Public housing primary care; Primary care
+📞 (212) 873-6300
+🌐 https://ryanhealth.org/
+
+505. Liberty Resources/ARISE - Dr. King Elementary School
+416 E Raynor Ave, Syracuse, NY 13202-3951
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (315) 435-4580
+🌐 http://www.ariseinc.org
+
+506. Liberty Resources/ARISE - Promising Futures Leadership Academy  (PFLA)
+573 E Genesee St, Syracuse, NY 13202-2133
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (315) 671-2952
+🌐 http://www.ariseinc.org
+
+507. Astor Services - Metropolitan High School SBHC
+1180 Rev James a Polite Ave, Bronx, NY 10459-2210
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (718) 751-5407
+🌐 https://www.astorservices.org
+
+508. Institute for Family Health: The Senate
+206 W 92nd St, New York, NY 10025-7439
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (212) 877-6305
+🌐 http://www.institute2000.org/
+
+509. Montefiore School Based Health Center -  New Settlement Community Campus SBHC
+1501 Jerome Ave, Bronx, NY 10452-3309
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (718) 294-8160
+🌐 http://www.montefiore.org/school-health-program
+
+510. SUNY Upstate Medical  - School-Based Mental Health Program, Dr. King Elementary
+41 E Raynor Ave, Syracuse, NY 13202
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (315) 435-4433
+🌐 https://www.upstate.edu/psychiatry/healthcare/outpatient/child-adolescent/school-based-mental-health-program.php
+
+511. Montefiore Medical Center - New York Children's Health Project - Main Site
+853 Longwood Ave, Bronx, NY 10459-4036
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (718) 558-4460
+🌐 http://www.cham.org/commpeds-new-york-childrens-health-project/
+
+512. Montefiore School Health Program - PS MS 95
+3961 Hillman Ave, Bronx, NY 10463-3099
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (718) 796-3440
+🌐 http://www.montefiore.org/school-health-program
+
+513. StartCare - Bushwick
+1149 Myrtle Ave, Brooklyn, NY 11206-6007
+📝 HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (718) 260-2940
+🌐 http://www.startny.org
+
+514. Astor Services at MS 118
+577 E 179th St, Bronx, NY 10457-3398
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (718) 751-5407
+🌐 https://www.astorservices.org
+
+515. Brownell Center for Behavioral Health SBHC- Salem-Hyde Elementary
+450 Durston Ave, Syracuse, NY 13203-1199
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (315) 472-4471
+
+516. SUNY Upstate Medical  - School-Based Mental Health Program,  McCarthy at Beard
+220 W Kennedy St, Syracuse, NY 13205-1057
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (315) 435-4433
+🌐 https://www.upstate.edu/psychiatry/healthcare/outpatient/child-adolescent/school-based-mental-health-program.php
+
+517. Institute for Family Health: Ali Forney Day Center
+321 W 125th St, New York, NY 10027-3637
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (212) 633-0800
+
+518. Brownell Center for Behavioral Health - Danforth Middle School SBHC
+309 W Brighton Ave, Syracuse, NY 13205-1699
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (315) 472-4471
+
+519. Care for the Homeless - 52nd Street Health Center
+427 W 52nd St, New York, NY 10019-5605
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (215) 359-2811
+🌐 http://www.careforthehomeless.org
+
+520. New York Presbyterian - SBHC @ Intermediate School 143
+515 W 182nd St, New York, NY 10033-5107
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (646) 317-0400
+🌐 http://nyp.org/services/acn-health-education.html
+
+521. StartCare, Inc - East New York Clinic
+494 Dumont Ave, Brooklyn, NY 11207-5025
+📝 HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (718) 260-2940
+🌐 http://www.startny.org
+
+522. Helio Health - Dual Recovery Program and Personalized Recovery Oriented Services (PROS)
+321 W Onondaga St, Syracuse, NY 13202-3262
+📝 HRSA Substance Use Disorder Facility, Office-based Opioid Treatment Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (315) 478-0610
+🌐 https://www.helio.health
+
+523. Community Health Initiatives, Inc.
+1419 Mermaid Ave, Brooklyn, NY 11224-2615
+📝 HRSA Federally Qualified Health Center (FQHC), Public Housing Program. Source: data.hrsa.gov.
+🏥 Services: Public housing primary care; Primary care
+📞 (718) 210-3110
+🌐 http://www.chihealthcenter.com
+
+524. Care For the Homeless - 30th Street Men's Shelter
+400 E 30th St, New York, NY 10016-8310
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (833) 423-4273
+🌐 http://careforthehomeless.org
+
+525. NY Presbyterian - George Washington Educational Campus SBHC
+549 Audubon Ave, New York, NY 10040-3498
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (646) 317-0500
+🌐 https://www.nyp.org/acn/community-programs/school-based-health-centers
+
+526. Montefiore Medical Center - Substance Abuse Treatment Program - Unit III
+2058 Jerome Ave, Bronx, NY 10453-1817
+📝 HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (917) 564-8776
+🌐 https://www.montefiore.org/body.cfm?id=7758&newcontentpreview
+
+527. New York Presbyterian - Intermediate School 52 SBHC
+650 Academy St, New York, NY 10034-5004
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (646) 317-0200
+🌐 https://www.nyp.org/acn/community-programs/school-based-health-centers
+
+528. Montefiore Medical Center - Substance Abuse Treatment Program - Unit I
+3550 Jerome Ave, Bronx, NY 10467-1005
+📝 HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (718) 920-4067
+🌐 https://www.montefiore.org/body.cfm?id=7757&newcontentpreview
+
+529. Montefiore School Health Program - PS MS 45
+2502 Lorillard Pl, Bronx, NY 10458-5997
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (718) 295-4628
+🌐 http://www.montefiore.org/school-health-program
+
+530. Liberty Resources - Syracuse Latin Elementary School
+345 Jamesville Ave, Syracuse, NY 13210-3299
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (315) 671-2964
+🌐 https://www.liberty-resources.org/schools/
+
+531. Liberty Resources/ARISE - Oasis Academy
+1728 South Ave, Syracuse, NY 13207-2003
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (315) 671-2964
+🌐 http://www.ariseinc.org
+
+532. Liberty Resources - Porter Elementary School
+512 Emerson Ave, Syracuse, NY 13204-1702
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (315) 671-2964
+🌐 https://www.liberty-resources.org
+
+533. Astor Services - PS 154
+333 E 135th St, Bronx, NY 10454-4399
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (718) 751-5407
+🌐 https://www.astorservices.org
+
+534. Astor Services - JHS 80
+149 E Mosholu Pkwy N, Bronx, NY 10467-2999
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (718) 751-5407
+🌐 https://www.astorservices.org
+
+535. Care for the Homeless - Part of the Solution
+2763 Webster Ave, Bronx, NY 10458-3708
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (212) 366-4459
+🌐 http://www.careforthehomeless.org
+
+536. Manhattan Center For Science & Mathematics
+280 Pleasant Ave, New York, NY 10029-1798
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (212) 731-7560
+🌐 http://www.teenhealthcare.org
+
+537. Astor Services - The Highbridge Green School SBHC
+200 W 17 St, Bronx, NY 10452
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (718) 751-5407
+🌐 http://www.astorservices.org
+
+538. Liberty Resources - Lyncourt Elementary School
+2707 Court St, Syracuse, NY 13208-3234
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (315) 455-7571
+🌐 https://www.liberty-resources.org/schools/
+
+539. Montefiore School Health Program - at PS 8
+3010 Briggs Ave, Bronx, NY 10458-1699
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (718) 563-5263
+🌐 https://www.ps8lions.com/
+
+540. Montefiore School Health Program - PS 18
+502 Morris Ave, Bronx, NY 10451-5583
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (718) 401-6030
+🌐 https://www.schools.nyc.gov/schools/x018
+
+541. StartCare - Third Horizon Clinic
+2191 3rd Ave, New York, NY 10035-3520
+📝 HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (718) 260-2937
+🌐 http://www.startny.org
+
+542. Damian Family Care Center (DFCC) - 53rd Street Health Center
+225 E 53rd St, New York, NY 10022-4809
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (212) 829-1200
+🌐 http://www.damian.org
+
+543. Liberty Resources - OCM BOCES Special Education Program
+110 Elwood Davis Rd, Syracuse, NY 13212-4331
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (315) 472-4471
+
+544. SUNY Upstate Medical - School-Based Mental Health Program - Grant Middle School
+2400 Grant Blvd, Syracuse, NY 13208-2200
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (315) 435-4433
+🌐 https://www.upstate.edu/psychiatry/healthcare/outpatient/child-adolescent/school-based-mental-health-program.php
+
+545. Montefiore School Based Health Center - PS 98 Herman Ridder School SBHC
+1619 Boston Rd, Bronx, NY 10460-4945
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (718) 696-4060
+🌐 https://www.schools.nyc.gov/schools/x098
+
+546. New York Presbyterian - Stitt Educational Campus SBHC
+401 W 164th St, New York, NY 10032-4396
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (646) 317-0600
+🌐 http://nyp.org/services/acn-health-education.html
+
+547. Care for the Homeless - Nelson Avenue Family Residence
+Nelson Ave, Bronx, NY 10453-7001
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (347) 269-4625
+🌐 http://www.careforthehomeless.org
+
+548. Liberty Resources - Huntington K-8 School
+400 Sunnycrest Rd, Syracuse, NY 13206-3398
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (315) 671-2952
+🌐 https://www.liberty-resources.org/schools/
+
+549. Mount Sinai Adolescent Health Center - A. Philip Randolph Campus High School SBHC
+443 W 135th St, New York, NY 10031-9106
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (212) 690-6850
+🌐 http://www.teenhealthcare.org
+
+550. Liberty Resources - McKinley-Brighton Elementary School
+141 W Newell St, Syracuse, NY 13205-1798
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (315) 472-4471
+
+551. Sunset Park - Barbara Kleinman Shelter
+300 Skillman Ave, Brooklyn, NY 11211-1607
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (718) 963-4425
+🌐 https://nyulangone.org/care-services/community-medicine-program-family-health-centers-at-nyu-langone
+
+552. Harlem United / Upper Room AIDS Ministry: Mobile Van Health Services
+227 E 125th St, New York, NY 10035-1739
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (212) 987-3707
+🌐 http://harlemunited.org
+
+553. Care for the Homeless - Willow Avenue Family Residence
+190 Willow Ave, Bronx, NY 10454-3518
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (347) 269-0461
+🌐 http://www.careforthehomeless.org
+
+554. Care for Homeless - Morris Avenue Health Center
+528 Morris Ave, Bronx, NY 10451-5509
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (833) 423-4273
+🌐 http://careforthehomeless.org
+
+555. Montefiore School Health Program - at J.H.S. 151 Lou Gehrig
+250 E 156th St, Bronx, NY 10451-4850
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (718) 401-6483
+🌐 https://www.schools.nyc.gov/schools/x151
+
+556. William F. Ryan CHC - Satellite - Convent Avenue Living Center
+22 Convent Ave, New York, NY 10027-2604
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (212) 666-4008
+🌐 https://ryanhealth.org/
+
+557. Astor Services - Satellite Clinic x092
+700 E 179th St, Bronx, NY 10457-5006
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (718) 732-7080
+🌐 http://www.astorservices.org
+
+558. HHC Metropolitan Hospital - Methadone Treatment Program
+2nd Ave, New York, NY 10029-6302
+📝 HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (212) 423-6262
+
+559. StartCare - Fort Greene Clinic
+937 Fulton St, Brooklyn, NY 11238-2399
+📝 HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (718) 260-2940
+🌐 http://www.startny.org
+
+560. Care for the Homeless - Jerome Avenue Men's Shelter
+3600 Jerome Ave, Bronx, NY 10467-1091
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (718) 307-2962
+🌐 http://www.careforthehomeless.org
+
+561. Ps/Ms 4
+1701 Fulton Ave, Bronx, NY 10457-7597
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (718) 696-4060
+🌐 https://www.schools.nyc.gov/schools/x004
+
+562. Institute for Family Health: All Angels Church Soup Kitchen
+251 W 80th St, New York, NY 10024-5798
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (212) 362-9300
+🌐 http://www.institute2000.org
+
+563. Montefiore School Health Program - Roosevelt High School Campus
+500 E Fordham Rd, Bronx, NY 10458-5055
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (718) 329-1276
+🌐 https://www.montefiore.org/school-health-program
+
+564. Brownell Center for Behavioral Health- Allen Road SBHC
+803 Allen Rd, Syracuse, NY 13212-1900
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (315) 472-4471
+🌐 http://www.liberty-resources.org
+
+565. New York Presbyterian - Pediatric Psychiatry SBHC at PS 48 (Michael J. Buczek School)
+4360 Broadway, New York, NY 10033-2409
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; Pediatrics; School-based health care for children and adolescents
+📞 (917) 521-3800
+🌐 https://www.nyp.org/acn/specialty-care/pediatric-psychiatry
+
+566. Children's Aid Society - Salome Urena Campus; Student Health Center
+4600 Broadway, New York, NY 10040-2102
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (646) 477-9360
+🌐 https://www.childrensaidnyc.org/programs/location/curtis-high-school
+
+567. Brownell Center for Behavioral Health - Lemoyne Elementary School SBHC
+1528 Lemoyne Ave, Syracuse, NY 13208-1341
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (315) 472-4471
+
+568. Liberty Resources - Frazer Pre-K-8 School
+741 Park Ave, Syracuse, NY 13204-2284
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (315) 671-2964
+🌐 https://www.liberty-resources.org/schools/
+
+569. Montefiore School Health Program - Lehman HS
+3000 E Tremont Ave, Bronx, NY 10461-5767
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (917) 962-5487
+🌐 http://www.montefiore.org/school-health-program
+
+570. Astor Services - Hollywood Avenue Campus
+650 Hollywood Ave, Bronx, NY 10465-2397
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (718) 751-5407
+🌐 https://www.astorservices.org
+
+571. Center for Comprehensive Health Practice (CCHP)
+35 E 110th St, New York, NY 10029-0354
+📝 HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (212) 360-7700
+🌐 http://www.cchphealthcare.org
+
+572. New York Presbyterian - Pediatric Psychiatry SBHC @ Eye Building
+635 W 165th St, New York, NY 10032-3724
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; Pediatrics; School-based health care for children and adolescents
+📞 (212) 305-3093
+🌐 https://www.nyp.org/acn/specialty-care/pediatric-psychiatry
+
+573. Astor Services - PS 83
+950 Rhinelander Ave, Bronx, NY 10462-3499
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (718) 751-5407
+🌐 https://www.astorservices.org
+
+574. Liberty Resources- Solvay Elementary School
+701 Woods Rd, Syracuse, NY 13209-2044
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (315) 425-1004
+🌐 http://www.liberty-resources.org
+
+575. Argus Community, Inc - ARU
+507 W 145th St, New York, NY 10031-5101
+📝 HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (718) 401-5700
+🌐 https://www.arguscommunity.org
+
+576. Settlement Health Plaza
+2070 1st Ave, New York, NY 10029-4323
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (212) 360-2600
+🌐 http://www.settlementhealth.org/
+
+577. Montefiore School Health Program - at Christopher Columbus Campus
+925 Astor Ave, Bronx, NY 10469-4999
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (718) 696-4060
+🌐 http://www.columbushs.org/
+
+578. Liberty Resources - Corcoran High School SBHC
+919 Glenwood Ave, Syracuse, NY 13207-1542
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (315) 425-1004
+🌐 http://www.liberty-resources.org
+
+579. Montefiore School Health Program - PS 105
+725 Brady Ave, Bronx, NY 10462-2799
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (718) 828-3235
+🌐 http://www.montefiore.org/school-health-program
+
+580. Brownell Center for Behavioral Health SBHC- Van Duyn Elementary
+401 Loomis Ave, Syracuse, NY 13207-2599
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (315) 472-4471
+
+581. Children's Aid Society - Mirabal Sisters Campus; Students Health Center
+21 Jumel Pl, New York, NY 10032-4316
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (212) 923-1495
+🌐 https://www.childrensaidnyc.org/programs/location/mirabal-sisters-campus
+
+582. Montefiore School Health Program - Evander Child Campus
+800 E Gun Hill Rd, Bronx, NY 10467-6193
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (718) 944-5601
+🌐 http://www.montefiore.org/school-health-program
+
+583. NY Presbyterian - Pediatric Psychiatry SBHC at PS 46 (Arthur Tappan School)
+Frederick Douglass Blvd, New York, NY 10039
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; Pediatrics; School-based health care for children and adolescents
+📞 (212) 690-5911
+🌐 https://www.nyp.org/acn/specialty-care/pediatric-psychiatry
+
+584. Astor Services - Eagle Academy for Young Men
+4143 3rd Ave, Bronx, NY 10457-6222
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (718) 751-5407
+🌐 https://www.astorservices.org
+
+585. StartCare, Inc- Highbridge Clinic
+2406 Amsterdam Ave, New York, NY 10033-7320
+📝 HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (718) 260-2937
+🌐 https://startny.org/
+
+586. Silver Lake Support Services
+201 Forest Ave, Staten Island, NY 10301-2792
+📝 HRSA Substance Use Disorder Facility, Office-based Opioid Treatment Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (718) 815-3155
+🌐 http://www.silverlakebehavioralhealth.com
+
+587. Sunset Park - Charles H. Gay Shelter Care-Center for Men
+63 Sunken Garden Loop, New York, NY 10035-1165
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (212) 369-7890
+
+588. Crouse Health - Health Addiction Treatment Services
+2775 Erie Blvd E, Syracuse, NY 13224-1203
+📝 HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (315) 470-8304
+🌐 http://crouse.org/addiction
+
+589. The Floating Hospital Inc. - Help I Family Center
+515 Blake Ave, Brooklyn, NY 11207-4502
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (718) 498-4002
+🌐 http://www.thefloatinghospital.org
+
+590. BLISS BronxCare - Psychiatric Adult Outpatient Practice 1
+1276 Fulton Ave, Bronx, NY 10456-3467
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program; Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Mental health; Health Care for the Homeless
+📞 (718) 579-7389
+🌐 http://www.bronxcare.org
+
+591. Montefiore School Health Program - MS 113
+3710 Barnes Ave, Bronx, NY 10467-5872
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (929) 237-7690
+🌐 https://www.montefiore.org/school-health-program
+
+592. New York Presbyterian - Pediatric Psychiatry SBHC at PS 128 (Audubon School)
+560 W 169th St, New York, NY 10032-3913
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; Pediatrics; School-based health care for children and adolescents
+📞 (212) 927-0607
+🌐 https://www.nyp.org/acn/specialty-care/pediatric-psychiatry
+
+593. Liberty Resources/ARISE - Franklin Elementary School
+428 S Alvord St, Syracuse, NY 13208-2795
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (315) 671-2964
+🌐 http://www.ariseinc.org
+
+594. Montefiore Medical Center - Montefiore PS 147 SBHC
+1600 Webster Ave, Bronx, NY 10457-8045
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (718) 696-4060
+🌐 https://cis313.org/#go
+
+595. Housing Works - East New York Community Health Center
+2640 Pitkin Ave, Brooklyn, NY 11208-2763
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (347) 675-7689
+🌐 https://healthcare.housingworks.org/
+
+596. Astor Services - Jill Chaifetz Transfer High School SBHC
+778 Forest Ave, Bronx, NY 10456-7803
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (718) 751-5407
+🌐 https://www.astorservices.org
+
+597. New York Presbyterian - Thurgood Marshall Academy SBHC
+21 W 135th St, New York, NY 10037-2501
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (646) 317-0800
+🌐 http://nyp.org/services/acn-health-education.html
+
+598. Astor Services - PS 42
+1537 Washington Ave, Bronx, NY 10457-8388
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (718) 751-5407
+🌐 https://www.astorservices.org
+
+599. Montefiore School Health Program - PS 199 - The Shakespeare School
+1449 Shakespeare Ave, Bronx, NY 10452-1800
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (718) 696-4060
+🌐 http://www.ps199.org/home_page
+
+600. Project Renewal - New Providence Primary Care Clinic
+225 E 45th St, New York, NY 10017-3301
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (212) 620-0340
+🌐 http://www.projectrenewal.org/health-3
+
+601. Museum School 25
+579 Warburton Ave, Yonkers, NY 10701-1699
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (929) 429-6537
+🌐 https://www.yonkerspublicschools.org/museum25
+
+602. Brownell Center for Behavioral Health - Lincoln Middle School SBHC
+1613 James St, Syracuse, NY 13203-2888
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (315) 472-4471
+
+603. Housing Works - Cylar House
+743 E 9th St, New York, NY 10009-5335
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (914) 261-6427
+🌐 https://healthcare.housingworks.org/
+
+604. New York Presbyterian - Pediatric Psychiatry SBHC at PS 173 (Hudson Cliffs School)
+306 Fort Washington Ave, New York, NY 10033-6802
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; Pediatrics; School-based health care for children and adolescents
+📞 (212) 927-7850
+🌐 https://www.nyp.org/acn/specialty-care/pediatric-psychiatry
+
+605. Montefiore School Health Program - PS 28
+1861 Anthony Ave, Bronx, NY 10457-5999
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (718) 901-2849
+🌐 http://www.montefiore.org/school-health-program
+
+606. The Children's Aid Society - Curtis High School
+105 Hamilton Ave, Staten Island, NY 10301-1610
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (646) 477-9360
+🌐 https://www.childrensaidnyc.org/programs/location/curtis-high-school
+
+607. Housing Works - SHERO Providence House 1
+396 Lincoln Rd, Brooklyn, NY 11225-4306
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (718) 778-1310
+🌐 https://healthcare.housingworks.org/
+
+608. Institute for Family Health: Mount Hope Family Practice
+130 W Tremont Ave, Bronx, NY 10453-5436
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (718) 583-9000
+🌐 http://www.institute2000.org/health-care/locations/bronx/
+
+609. Astor Services - PS 333
+888 Rev James a Polite Ave, Bronx, NY 10459-4196
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (718) 751-5407
+🌐 https://www.astorservices.org
+
+610. Mount Sinai Beth Israel OTP Clinic 1, 8th Floor
+103 E 125th St, New York, NY 10035-0776
+📝 HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (212) 774-3230
+🌐 https://www.mountsinai.org/
+
+611. New York Presbyterian - Pediatric Psychiatry SBHC at PS 152 (Dyckman Valley School)
+93 Nagle Ave, New York, NY 10040-1499
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; Pediatrics; School-based health care for children and adolescents
+📞 (212) 567-5456
+🌐 https://www.nyp.org/acn/specialty-care/pediatric-psychiatry
+
+612. New York Presbyterian - John F. Kennedy Educational Campus SBHC
+99TerraceViewAvenue, Bronx, NY 10463
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (646) 317-4201
+🌐 http://nyp.org/services/acn-health-education.html
+
+613. Helio Health - Meadows Integrated Outpatient Clinic and OTP
+329 N Salina St, Syracuse, NY 13203-1755
+📝 HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (315) 471-1564
+🌐 https://www.helio.health
+
+614. NY Presbyterian - Pediatric Psychiatry SBHC at PS 187 (Hudson Cliffs School)
+349 Cabrini Blvd, New York, NY 10040-3699
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; Pediatrics; School-based health care for children and adolescents
+📞 (212) 927-8218
+🌐 https://www.nyp.org/acn/specialty-care/pediatric-psychiatry
+
+615. Damian Family Care Center - Third Avenue Family Health
+2604 3rd Ave, Bronx, NY 10454-1199
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (718) 292-0100
+🌐 http://www.damian.org
+
+616. Westchester Community Health Center - Yonkers
+30 S Broadway, Yonkers, NY 10701-3712
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (914) 968-4898
+🌐 https://westchestercommunityhealthcenter.org/location/wchc-yonkers/
+
+617. New York Presbyterian - Pediatric Psychiatry SBHC at PS 132 (Juan Pablo Duarte School)
+185 Wadsworth Ave, New York, NY 10033-3895
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; Pediatrics; School-based health care for children and adolescents
+📞 (212) 927-7857
+🌐 https://www.nyp.org/acn/specialty-care/pediatric-psychiatry
+
+618. New York Presbyterian - Pediatric Psychiatry SBHC at PS 189
+2580 Amsterdam Ave, New York, NY 10040-3499
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; Pediatrics; School-based health care for children and adolescents
+📞 (212) 927-8218
+🌐 https://www.nyp.org/acn/specialty-care/pediatric-psychiatry
+
+619. Care for the Homeless - Susan's Place
+21 Jerome Ave, Bronx, NY 10468-7505
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (212) 366-4459
+🌐 http://www.careforthehomeless.org
+
+620. Covenant House - Under 21
+460 W 41st St, New York, NY 10036-6801
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (212) 613-0300
+
+621. Astor Services - East Bronx Academy for the Future
+1716 Southern Blvd, Bronx, NY 10460-5390
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (718) 751-5407
+🌐 https://www.astorservices.org
+
+622. The Floating Hospital Inc. - Auburn Assessment Center
+39 Auburn Pl, Brooklyn, NY 11205-1900
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (718) 834-6974
+🌐 http://www.thefloatinghospital.org
+
+623. Children's Aid Society - PS 5 Ellen Lurie School SBHC
+3703 10th Ave, New York, NY 10034-1860
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (212) 567-6066
+🌐 https://www.childrensaidnyc.org/programs/location/ps-5-ellen-lurie
+
+624. NYC HHC Bellevue - Mental Health (CD Bldg. 2nd Floor and Admin. Bldg. 225/453)
+462 1st Ave, New York, NY 10016-9196
+📝 HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (212) 562-3377
+🌐 https://www.nychealthandhospitals.org
+
+625. Montefiore School Health Program - Souza MS 142
+3750 Baychester Ave, Bronx, NY 10466-5036
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (718) 654-5509
+🌐 http://www.montefiore.org
+
+626. START Treatment and Recovery Centers - Starting Point Clinic (4th & 5th Floors)
+119 W 124th St, New York, NY 10027-4920
+📝 HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (718) 260-2940
+🌐 http://www.startny.org
+
+627. Brownell Center for Behavioral Health - Karl W. Saile Bear Road Elementary School SBHC
+5590 Bear Road, Syracuse, NY 13212
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (315) 425-1004
+🌐 http://www.liberty-resources.org
+
+628. Children's Aid Society - PS 8 Luis Belliard School SBHC
+465 W 167th St, New York, NY 10032-4351
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (212) 543-3943
+🌐 https://www.childrensaidnyc.org/programs/location/ps-8-luis-belliard
+
+629. Astor Services - Teller Avenue Educational Campus
+1000 Teller Ave, Bronx, NY 10456-6182
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (718) 751-5407
+🌐 https://www.astorservices.org
+
+630. BronxCare Medical and Dental at Poe
+2432 Grand Concourse, Bronx, NY 10458-5204
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Dental
+📞 (718) 817-7900
+
+631. BronxCare Third Avenue Medical and Dental Practice
+2745 3rd Ave, Bronx, NY 10451-5801
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Dental
+📞 (718) 838-1000
+
+632. Ezra Medical Women's and Family Health Center
+1260 60th St, Brooklyn, NY 11219-4976
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Women's health
+📞 (718) 741-7100
+
+633. BP Dental Center for Kids
+5309 18th Ave, Brooklyn, NY 11204-1523
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Dental
+📞 (718) 246-5700
+🌐 https://www.lasantehealth.org

@@ -2,10 +2,12 @@
 
 1. Mobile Clinic Van 2
 1221 Center St Ste 16, Des Moines, IA, 50309-1014
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Migrant health center
 📞 515-271-5306
 🗺 https://maps.google.com/?q=41.59200,-93.63342
+
+🌐 https://www.proteusinc.net/what-we-do/programs/agricultural-health-program/
 
 2. Primary Health Care at Mercy
 250 Laurel St, Des Moines, IA, 50314-3024
@@ -246,9 +248,9 @@
 
 34. Eastern Iowa Rhys Jones Dental Center
 855 A Ave NE, Suite LL1, Cedar Rapids, IA, 52402-5064
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://easterniowahealthcenter.com
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Dental
 📞 319-730-7300
 🗺 https://maps.google.com/?q=41.98418,-91.66094
 
@@ -343,9 +345,9 @@
 
 47. Community Health Care Inc. Outreach Clinic
 902 W 4th St, Davenport, IA, 52802-3507
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 https://chcqca.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 563-336-3000
 🗺 https://maps.google.com/?q=41.52387,-90.58611
 
@@ -407,3 +409,48 @@
 📞 816-861-6500
 🗺 https://maps.google.com/?q=39.07067,-94.55246
 
+56. Genesis Health System
+1227 E Rusholme St, Davenport, IA 52803-2459
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (563) 421-1000
+
+57. Primary Health Care, Inc. - University Clinic / The Outreach Project
+1200 University Ave STE 12, Des Moines, IA 50314-2343
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program; Health Care for the Homeless; Dental
+📞 (515) 248-1517
+🌐 http://www.phciowa.org/
+
+58. Siouxland Community Health Women's Clinic
+1122 Pierce St, Sioux City, IA 51105-1452
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Women's health
+📞 (712) 226-9021
+
+59. Community Health Care Inc. Dental Clinic
+125 Scott St, Davenport, IA 52801-1130
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Dental
+📞 (563) 336-3221
+🌐 https://www.davchc.com
+
+60. Edgerton Women's Health Center
+1510 E Rusholme St, Davenport, IA 52803-2463
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Women's health
+📞 (563) 336-3000
+
+61. Eastern Iowa Health Center - Dental
+1210 4th Ave SE, Cedar Rapids, IA 52403
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Dental
+📞 (319) 730-7300
+🌐 https://easterniowahealthcenter.com/
+
+62. Eastern Iowa Health Center - Pediatrics
+1225 3rd Ave SE, Cedar Rapids, IA 52403-4009
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Pediatrics
+📞 (319) 730-7300
+🌐 https://www.easterniowahealthcenter.com

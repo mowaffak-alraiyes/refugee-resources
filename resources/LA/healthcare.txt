@@ -2,17 +2,17 @@
 
 1. Access Health Louisiana Primary Care at the Pythian
 234 Loyola Ave Fl 3, New Orleans, LA, 70112-2026
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.accesshealthla.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 504-226-2976
 🗺 https://maps.google.com/?q=29.95355,-90.07499
 
 2. EXCELTH, INC., HEALTH CARE NETWORK
 1515 Poydras St, Ste 1070, New Orleans, LA, 70112-4520
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.excelth.com
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Migrant health center
 📞 504-524-1210
 🗺 https://maps.google.com/?q=29.95262,-90.07852
 
@@ -25,9 +25,9 @@
 
 4. Tulane Adolescent Drop-In Clinic
 611 N RAMPART ST, NEW ORLEANS, LA, 70112-3505
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 http://tulane.edu/som/dropin/clinic.cfm http://tulane.edu/som/dropin/
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 504-584-1112
 🗺 https://maps.google.com/?q=29.96024,-90.06916
 
@@ -41,9 +41,9 @@
 
 6. HEALTH CARE FOR THE HOMELESS
 2222 SIMON BOLIVAR, NEW ORLEANS, LA, 70113-1460
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 http://www.nola.gov/health/programs/homeless/
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 504-658-2785
 🗺 https://maps.google.com/?q=29.93834,-90.08550
 
@@ -71,8 +71,8 @@
 
 10. St Thomas CHC at 1936-1938 Magazine Street
 1936 Magazine St, New Orleans, LA, 70130-5016
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 504-529-5558
 🗺 https://maps.google.com/?q=29.93094,-90.07436
 
@@ -86,8 +86,8 @@
 
 12. EXCELth, Inc. Dental Clinic - Algiers
 1111 Newton St, New Orleans, LA, 70114-2500
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Dental
 📞 504-658-2550
 🗺 https://maps.google.com/?q=29.94496,-90.04491
 
@@ -108,9 +108,9 @@
 
 15. CrescentCare St. Roch
 1631 Elysian Fields Avenue, New Orleans, LA, 70117
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.crescentcare.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 504-821-2601
 🗺 https://maps.google.com/?q=29.97426,-90.05679
 
@@ -162,9 +162,9 @@
 
 22. Daughters of Charity Health Center - St. Cecilia
 1030 Lesseps St, New Orleans, LA, 70117-4736
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.depaulcommunityhealthcenters.org/
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Migrant health center
 📞 504-941-6041
 🗺 https://maps.google.com/?q=29.96426,-90.03304
 
@@ -850,8 +850,8 @@
 
 115. Mobile Dental Clinic
 9516 Airline Hwy, Baton Rouge, LA, 70815-5598
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Dental
 📞 225-655-6422
 🗺 https://maps.google.com/?q=30.43710,-91.08545
 
@@ -952,9 +952,9 @@
 
 129. OHHC Dental
 3905 Convention St, Baton Rouge, LA, 70806-3806
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.ohcc.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Dental
 📞 225-655-6422
 🗺 https://maps.google.com/?q=30.44975,-91.14999
 
@@ -967,9 +967,9 @@
 
 131. CareSouth Pediatric and WIC Services
 3324 Florida St, Baton Rouge, LA, 70806-3761
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program; Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.caresouth.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Pediatrics; Health Care for the Homeless
 📞 225-650-2000
 🗺 https://maps.google.com/?q=30.45013,-91.15577
 
@@ -1903,3 +1903,114 @@ mobile, shreveport, LA, 71107
 📞 318-231-5010
 🗺 https://maps.google.com/?q=32.80221,-91.17173
 
+254. Acadiana Cares
+809 Martin Luther King Jr Dr, Lafayette, LA 70501-1884
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (337) 233-2437
+
+255. Capitol City Family Health Center, Inc.
+3140 Florida St, Baton Rouge, LA 70806-3757
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program; Migrant health center; Dental
+📞 (225) 650-2000
+🌐 http://www.caresouth.org
+
+256. Crescentcare Health & Wellness Center
+3308 Tulane Ave, New Orleans, LA 70119-7100
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (504) 207-2273
+
+257. Daughters of Charity Health Center - Carrollton  (Main)
+3201 S Carrollton Ave, New Orleans, LA 70118-4307
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program; Migrant health center
+📞 (504) 669-7350
+🌐 http://www.dcsno.org/
+
+258. Family Services Of Greater Baton Rouge
+4727 Revere Ave, Baton Rouge, LA 70808-3168
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (225) 927-9810
+
+259. HIV/Aids Alliance For Region Two, Inc.
+4550 North Blvd STE 250, Baton Rouge, LA 70806-4013
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (225) 927-1269
+
+260. Our Lady Of The Lake Hospital, Inc.
+5000 Hennessy Blvd, Baton Rouge, LA 70808-4375
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (225) 768-5791
+
+261. Tulane Total Health
+711 N Broad St, New Orleans, LA 70119-4206
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (504) 988-3002
+
+262. University Medical Center Management Corporation
+2000 Canal St, New Orleans, LA 70112-3018
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (504) 702-4344
+
+263. Baton Rouge Primary Care Collaborative
+2013 Central Rd, Baton Rouge, LA 70807-3942
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (225) 774-1120
+🌐 http://www.brpcc.org
+
+264. (BPRCC) St. Martin de Porres Health Care for the Homeless Center
+153 N 17th St, Baton Rouge, LA 70802-3800
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (225) 343-9086
+🌐 http://www.brpcc.org
+
+265. St. Thomas Community Health Center, Inc. - Saint Andrew
+1020 Saint Andrew St, New Orleans, LA 70130-5022
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (504) 529-5558
+🌐 http://www.stthomaschc.org
+
+266. St. Thomas Community Wellness Center
+2010 Magazine St, New Orleans, LA 70130-5018
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (504) 237-8063
+🌐 http://www.stthomaschc.org
+
+267. St. Gabriel Health Clinic - Glen Oaks Middle School Primary Care Center
+5300 Monarch Ave, Baton Rouge, LA 70811-5628
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (225) 642-9676
+🌐 https://stgabrielchc.org
+
+268. Behavioral Health Group - New Orleans Downtown Treatment Center
+2235 Poydras St, New Orleans, LA 70119-7575
+📝 HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (504) 524-7205
+🌐 http://www.bhgrecovery.com
+
+269. EXCELth Mobile Dental Unit
+9900 Lake Forest Blvd, New Orleans, LA 70127-2609
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Dental
+📞 (504) 620-0500
+🌐 https://www.excelth.com
+
+270. CareSouth Behavioral Health - Baton Rouge
+3180 Convention St, Baton Rouge, LA 70806-3711
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (225) 650-2000
+🌐 https://www.caresouth.org

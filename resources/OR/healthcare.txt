@@ -17,10 +17,12 @@
 
 3. Old Town Recovery Center
 33 NW Broadway, Portland, OR, 97209-3514
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program; Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Health Care for the Homeless; Mental health; Dental
 📞 503-228-7134
 🗺 https://maps.google.com/?q=45.52343,-122.67780
+
+🌐 http://www.centralcityconcern.org
 
 4. Billi Odegaard Dental Clinic
 33 NW Broadway STE 380, Portland, OR, 97209-3580
@@ -40,17 +42,17 @@
 
 6. OLD - NARA Adult Mental Health and Housing Services
 1310 SW   17th Ave, Portland, OR, 97201-2522
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.naranorthwest.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Mental health
 📞 503-936-8241
 🗺 https://maps.google.com/?q=45.51745,-122.69127
 
 7. Oyate Behavioral Health
 1776 SW MADISON ST, PORTLAND, OR, 97205-1715
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.naranorthwest.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Mental health
 📞 503-224-1044 x249
 🗺 https://maps.google.com/?q=45.51841,-122.69196
 
@@ -172,9 +174,9 @@
 
 24. NHC Milwaukie Dental
 3300 SE Dwyer Dr Ste 302, Milwaukie, OR, 97222-6548
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.nhcoregon.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Dental
 📞 503-850-4479
 🗺 https://maps.google.com/?q=45.45033,-122.62790
 
@@ -255,8 +257,8 @@
 
 35. NARA Dental Clinic
 12750 SE Stark St, Portland, OR, 97233-1539
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Dental
 📞 971-347-3009
 🗺 https://maps.google.com/?q=45.51770,-122.53272
 
@@ -270,8 +272,8 @@
 
 37. NHC Mobile Medical
 7320 SW Hunziker Rd Ste 300, Portland, OR, 97223-2302
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Dental
 📞 503-941-3033
 🗺 https://maps.google.com/?q=45.42618,-122.75264
 
@@ -299,8 +301,8 @@
 
 41. Rosewood Dental Clinic
 18139 NE Couch St, Portland, OR, 97230-7281
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Dental
 📞 503-489-1760
 🗺 https://maps.google.com/?q=45.52285,-122.47578
 
@@ -421,9 +423,9 @@
 
 57. Lancaster Family Health Center at Beverly
 3896 Beverly Ave NE, Suite 22, Salem, OR, 97305-1374
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.yvfwc.com
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Migrant health center
 📞 503-588-0076
 🗺 https://maps.google.com/?q=44.96085,-122.98487
 
@@ -445,9 +447,9 @@
 
 60. WEST SALEM CLINIC
 1233 Edgewater Avenue NW, SALEM, OR, 97304-4049
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.northwesthumanservices.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Mental health; Dental
 📞 503-378-7526
 🗺 https://maps.google.com/?q=44.94023,-123.05987
 
@@ -637,9 +639,9 @@
 
 85. Lane County Mental Health
 2411 Martin Luther King Jr Blvd, Eugene, OR, 97401-5824
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.lane.co.or.us
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Mental health
 📞 541-682-3797
 🗺 https://maps.google.com/?q=44.06100,-123.07303
 
@@ -669,18 +671,20 @@
 
 89. Chrysalis Behavioral Health
 350 E   11th Ave, Eugene, OR, 97401-3246
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.whitebirdclinic.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Mental health
 📞 541-683-1641
 🗺 https://maps.google.com/?q=44.04752,-123.08756
 
 90. WHITE BIRD CLINIC
 341 E. 12TH, EUGENE, OR, 97401-3212
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 541-342-8255
 🗺 https://maps.google.com/?q=44.04681,-123.08757
+
+🌐 http://www.whitebirdclinic.org
 
 91. Lane County Treatment Center
 432 W 11th Ave Ste 101, Eugene, OR, 97401-3451
@@ -1098,3 +1102,111 @@
 📞 707-884-4005
 🗺 https://maps.google.com/?q=38.77404,-123.53791
 
+146. Multnomah County Health Department
+619 NW 6th Ave, Portland, OR 97209-3964
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (503) 988-5020
+
+147. Ohsu Internal Medicine Clinic
+3270 SW Pavilion Loop, Portland, OR 97239
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (503) 494-8562
+
+148. White Bird Clinic - Homeless Outreach, Counseling, Advocacy and Case Management
+323 E 12th Ave, Eugene, OR 97401-3212
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (541) 342-8255
+🌐 http://www.whitebirdclinic.org
+
+149. Brightways Counseling Group - Salem
+2555 Silverton Rd NE, Salem, OR 97301-0837
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (458) 287-5869
+🌐 http://www.brightwayscounseling.com
+
+150. Fora Health, Inc.
+10230 SE Cherry Blossom Dr, Portland, OR 97216-2821
+📝 HRSA Substance Use Disorder Facility, Office-based Opioid Treatment Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (503) 535-1151
+🌐 https://forahealth.org/
+
+151. Central City Concern - Recovery Center
+726 W Burnside St, Portland, OR 97209-3515
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (503) 944-4410
+
+152. CODA, Inc. - Portland OTP
+1027 E Burnside St, Portland, OR 97214-1328
+📝 HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (971) 202-7760
+🌐 https://codainc.org/
+
+153. Brightways Counseling Group - Portland
+2901 E Burnside St, Portland, OR 97214-1831
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (458) 287-5869
+🌐 https://www.brightwayscounseling.com
+
+154. White Bird Medical Clinic
+1400 Mill St, Eugene, OR 97401-4259
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (541) 484-4800
+🌐 http://www.whitebirdclinic.org
+
+155. Brightways Counseling Group - Eugene
+1580 Valley River Dr, Suite 290, Eugene, OR 97401-2179
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (541) 246-3757
+🌐 http://www.brightwayscounseling.com
+
+156. Outside In - East County Clinic
+16144 E Burnside St, Portland, OR 97233-3520
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (503) 535-3823
+🌐 http://outsidein.org
+
+157. White Bird Dental Clinic
+1415 Pearl St, Eugene, OR 97401-4009
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program; Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Dental; Health Care for the Homeless
+📞 (541) 484-4800
+🌐 http://whitebirdclinic.org
+
+158. Virgina Garcia Memorial Health Center- Hillsboro Dental
+730 SE Oak St, Hillsboro, OR 97123-4245
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Dental
+📞 (503) 352-2354
+🌐 http://www.virginiagarcia.org
+
+159. NARA Adult Mental Health and Housing Services
+1438 SE Division St, Portland, OR 97202-1140
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (503) 548-0346
+🌐 https://www.naranorthwest.org
+
+160. NHC Dental at Milwaukie High School Health and Wellness Center
+2301 SE Willard St, Portland, OR 97222-7764
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Dental
+📞 (503) 353-5847
+🌐 https://outsidein.org/health-services/milwaukie-high-school-health-and-wellness-center/
+
+161. NHC Tanasbourne Medical & Dental Clinic
+10690 NE Cornell Rd, Suite 220, Hillsboro, OR 97124-9222
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Dental
+📞 (503) 848-5861
+🌐 https://www.nhcoregon.org

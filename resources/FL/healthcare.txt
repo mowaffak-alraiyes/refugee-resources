@@ -1763,10 +1763,12 @@
 
 229. Ibis Healthcare - East Columbus
 4422 E Columbus Dr  FL 1, Tampa, FL, 33605-3233
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Mental health
 📞 813-272-2244
 🗺 https://maps.google.com/?q=27.96812,-82.40864
+
+🌐 http://www.ibishealth.org
 
 230. Evara Health - Bayfront
 701 Sixth Street South SPC 741, St Petersburg, FL, 33701
@@ -1786,9 +1788,9 @@
 
 232. Evara Health - Johnnie Ruth Clarke
 1344 22nd St S, Saint Petersburg, FL, 33712-2744
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.evarahealth.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Migrant health center
 📞 727-824-8181
 🗺 https://maps.google.com/?q=27.75688,-82.66258
 
@@ -1826,9 +1828,9 @@
 
 237. HEALTH CARE CENTER FOR THE HOMELESS
 232 N Orange Blossom Trl, Orlando, FL, 32805-1612
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 https://hcch.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Dental; Health Care for the Homeless
 📞 407-428-5751
 🗺 https://maps.google.com/?q=28.54538,-81.39770
 
@@ -1863,9 +1865,9 @@
 
 242. METRO Seminole Heights
 3918 N Highland Ave, Tampa, FL, 33603-4724
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.metrotampabay.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 727-321-3854
 🗺 https://maps.google.com/?q=27.98134,-82.46216
 
@@ -1923,16 +1925,16 @@
 
 250. TFHC #35 - MDV2
 302 W Fletcher Ave, Tampa, FL, 33612-3415
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Dental; Pediatrics; Mental health
 📞 813-866-0930
 🗺 https://maps.google.com/?q=28.06879,-82.46154
 
 251. METRO Fletcher
 3500 E Fletcher Ave, Ste 302, Tampa, FL, 33613-4797
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.metrotampabay.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 727-321-3854
 🗺 https://maps.google.com/?q=28.07018,-82.41906
 
@@ -2437,8 +2439,8 @@
 
 317. Agape Women's Health
 1680 Dunn Ave  STE 38B, JACKSONVILLE, FL, 32218-4744
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Women's health
 📞 904-760-4904
 🗺 https://maps.google.com/?q=30.43265,-81.67658
 
@@ -2497,9 +2499,9 @@
 
 325. Neighborhood Medical Center, Inc at the Milicent Holifield Health Academy
 3013 Jim Lee Rd, Tallahassee, FL, 32301-7057
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.neighborhoodmedicalcenter.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 850-414-5560
 🗺 https://maps.google.com/?q=30.40733,-84.26307
 
@@ -2750,3 +2752,225 @@
 📞 850-724-4064
 🗺 https://maps.google.com/?q=30.97139,-87.27470
 
+358. University Of Florida
+655 W 8th St, Jacksonville, FL 32209-6511
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (904) 244-2100
+
+359. University Of South Florida - Pediatric Infectious Disease Ybor
+1315 E 7th Ave, Tampa, FL 33605-3605
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (813) 396-9021
+
+360. University Of South Florida - Pediatric Infectious Diseases
+13101 Bruce B Downs Blvd, Tampa, FL 33612-3803
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (813) 259-8800
+
+361. University Of South Florida Pediatric Infectious Diseases
+601 5th St S, Saint Petersburg, FL 33701-4804
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (813) 259-8800
+
+362. Ahf - Jacksonville
+2 Shircliff Way, Jacksonville, FL 32204-4753
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (904) 381-9651
+
+363. Ahf - Orlando
+1701 N Mills Ave, Orlando, FL 32803-1851
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (407) 204-7000
+
+364. Ahf St. Petersburg Healthcare Center
+3404 26th Ave S, Saint Petersburg, FL 33711-3537
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (727) 318-6880
+
+365. Big Bend Cares Inc
+2201 S Monroe St, Tallahassee, FL 32301-6302
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (850) 656-2437
+
+366. Bond Community Health Assoc., Inc.
+1720 S Gadsden St, Tallahassee, FL 32301-5506
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (850) 576-4073
+
+367. Can Community Health
+1301 W Colonial Dr, Orlando, FL 32804-7133
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (407) 246-1946
+
+368. Can Community Health
+4615 Philips Hwy, Jacksonville, FL 32207-9506
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (904) 508-0710
+
+369. Comprehensive Care Center
+515 W 6th St, Jacksonville, FL 32206-4324
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (904) 253-1000
+
+370. Florida Department Of Health Orange
+832 W Central Blvd, Orlando, FL 32805-1809
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (407) 723-4115
+
+371. Hillsborough County Health Department
+1105 E Kennedy Blvd, Tampa, FL 33602-3511
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (813) 307-8064
+
+372. Metropolitan Charities, Inc.
+11201 Corporate Cir N, Saint Petersburg, FL 33716-3701
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (727) 321-3854
+
+373. Metropolitan Charities, Inc.
+2105 N Nebraska Ave, Tampa, FL 33602-2558
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (813) 232-3808
+
+374. Metropolitan Charities, Inc.
+2235 Central Ave, Saint Petersburg, FL 33713-8844
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (727) 321-3854
+
+375. Metropolitan Charities, Inc.
+3251 3rd Ave N, Saint Petersburg, FL 33713-8506
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (727) 321-3854
+
+376. Midway Specialty Care Center Orlando
+5979 Vineland Rd STE 208, Orlando, FL 32819-7855
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (407) 745-1171
+
+377. Neighborhood Medical Center - F. Richarson-Lewis Center
+872 Orange Ave W, Tallahassee, FL 32310-6123
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (850) 300-7262
+
+378. Neighborhood Medical Center - Lincoln Center
+438 W Brevard St, Tallahassee, FL 32301-1004
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (850) 224-2469
+
+379. Nemours
+1717 S Orange Ave, Orlando, FL 32806-2944
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (407) 650-7715
+
+380. Nemours
+6535 Nemours Pkwy, Orlando, FL 32827-7884
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (407) 650-7715
+
+381. Orange County Medical Clinic
+101 S Westmoreland Dr, Orlando, FL 32805-2258
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (407) 836-9225
+
+382. Pinellas Care Clinic
+3050 1st Ave S, Saint Petersburg, FL 33712-1010
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (727) 321-4846
+
+383. Positivelyu
+1420 W Waters Ave, Ste 104, Tampa, FL 33604-2830
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (813) 515-5508
+
+384. Tampa Care Clinic
+4600 N Habana Ave STE 15, Tampa, FL 33614-7123
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (813) 870-4460
+
+385. Health Care Center for the Homeless - Community Food and Outreach Center
+150 W Michigan St, Orlando, FL 32806-4463
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (407) 428-5751
+🌐 http://www.hcch.org
+
+386. Health Care Center for the Homeless - Dental Clinic
+234 N Orange Blossom Trl, Orlando, FL 32805-1612
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Dental; Health Care for the Homeless
+📞 (407) 428-5751
+🌐 http://www.hcch.org
+
+387. Aspire Health Partners - Columbia
+100 Columbia St, Orlando, FL 32806-1099
+📝 HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (407) 875-3700
+🌐 http://www.aspirehealthpartners.com
+
+388. Pinellas County Health Department - Gibbs High School Clinic
+850 34th St S, Saint Petersburg, FL 33711-2297
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (727) 893-5452
+🌐 http://pinellas.floridahealth.gov/programs-and-services/clinical-and-nutrition-services/school-clinics/index.html
+
+389. The I.M. Sulzbacher Center for the Homeless, Inc.
+11 E Adams St, Jacksonville, FL 32202
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (904) 394-8065
+🌐 https://sulzbacherjax.org/
+
+390. Mobile Dental Unit
+Mobile Dental Unit, Orlando, FL 32805
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Dental
+📞 (407) 428-5751
+🌐 https://hcch.org
+
+391. Community Health Center - Lake Ellenor Pediatric Dental & Adult Emergency Dental Care
+6101 Lake Ellenor Dr, Orlando, FL 32809-4616
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Dental; Pediatrics
+📞 (407) 905-8827
+🌐 https://WWW.CHCFL.ORG
+
+392. Community Health Centers, Inc. Forest City - Optometry and Behavioral Health
+7912 Forest City Rd, Orlando, FL 32810-2907
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (407) 905-8827
+
+393. Community Health Center - Forest City Family & Dental Care
+7900 Forest City Rd, Orlando, FL 32810-3002
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Dental
+📞 (407) 905-8827

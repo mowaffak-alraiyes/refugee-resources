@@ -25,10 +25,12 @@
 
 4. Wilson Street Integrated Health
 293 Wilson St Ste 102, Manchester, NH, 03103-5008
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 603-665-7450
 🗺 https://maps.google.com/?q=42.98108,-71.44782
+
+🌐 https://www.catholicmedicalcenter.org/care-and-treatment/community-health/health-care-for-the-homeless
 
 5. Amoskeag Health at 184 Tarrytown Road
 184 Tarrytown Rd, Manchester, NH, 03103-2713
@@ -280,3 +282,34 @@
 📞 603-752-3669
 🗺 https://maps.google.com/?q=44.39018,-71.18294
 
+38. Dartmouth Hitchcock Clinics Manchester
+100 Hitchcock Way, Manchester, NH 03104-4125
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (603) 629-1752
+
+39. Dartmouth Hitchcock Clinics Nashua
+2300 Southwood Dr, Nashua, NH 03063-1818
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (603) 629-1752
+
+40. Nh Dphs
+29 Hazen Dr, Concord, NH 03301-6503
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (603) 271-4502
+
+41. City of Manchester - Public Health Department - HCH Program - New Horizons Shelter
+199 Manchester St, Manchester, NH 03103-5262
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (603) 668-1877
+🌐 https://www.newhorizonsfornh.org/
+
+42. City of Manchester - Public Health Department - HCH Program - Administrative Site
+1528 Elm St, Manchester, NH 03101-1356
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (603) 663-8716
+🌐 https://www.catholicmedicalcenter.org/care-and-treatment/community-health/health-care-for-the-homeless

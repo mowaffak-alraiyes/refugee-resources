@@ -34,9 +34,9 @@
 
 5. MILWAUKEE HEALTH SERVICES, INC.
 2555 N Dr Martin Luther King Jr Dr, Milwaukee, WI, 53212-2709
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.mhsi.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 414-372-8080 x1100
 🗺 https://maps.google.com/?q=43.06546,-87.91441
 
@@ -430,8 +430,8 @@
 
 59. Children's Dental Center of Madison-West Madison
 7001 Old Sauk Road, Suite 200, Madison, WI, 53717
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Dental
 📞 608-833-6545
 🗺 https://maps.google.com/?q=43.07613,-89.50318
 
@@ -467,18 +467,20 @@
 
 64. WIC at South Monroe
 424 S Monroe Ave, Ste 100, Green Bay, WI, 54301-4054
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.newcommunityclinic.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Dental
 📞 920-437-7206
 🗺 https://maps.google.com/?q=44.50790,-88.01365
 
 65. Micah Center
 612 Stuart St, Green Bay, WI, 54301-4033
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 920-617-8700
 🗺 https://maps.google.com/?q=44.50980,-88.01184
+
+🌐 http://www.newcommunityclinic.org/
 
 66. NEWCC @ John Dewey Academy of Learning
 701 Cherry  RM 125, Green Bay, WI, 54301-4996
@@ -644,16 +646,16 @@ N6571 Lumberjack Guy Rd, Black River Falls, WI, 54615
 
 88. N.E.W. Dental Clinic at NWTC
 2740 W Mason St HS  RM 208, Green Bay, WI, 54303-4966
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Dental
 📞 920-272-9435
 🗺 https://maps.google.com/?q=44.52593,-88.10647
 
 89. HOUSE OF HOPE
 1660 Christiana St, Green Bay, WI, 54303-2665
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 https://www.newcommunityclinic.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 920-884-6740
 🗺 https://maps.google.com/?q=44.53081,-88.06382
 
@@ -675,9 +677,9 @@ N6571 Lumberjack Guy Rd, Black River Falls, WI, 54615
 
 92. FREEDOM HOUSE
 2997 Saint Anthony Dr, Green Bay, WI, 54311-5860
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 https://www.newcommunityclinic.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 920-406-2956
 🗺 https://maps.google.com/?q=44.52317,-87.93752
 
@@ -688,3 +690,77 @@ N6571 Lumberjack Guy Rd, Black River Falls, WI, 54615
 📞 715-848-4884
 🗺 https://maps.google.com/?q=44.89743,-89.59437
 
+94. Uw Infectious Disease Clinic
+600 Highland Ave, Madison, WI 53792-0001
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (608) 263-0946
+
+95. Aids Resource Center Of Wisconsin
+1212 57th St, Kenosha, WI 53140-4069
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (262) 657-6644
+
+96. Aids Resource Center Of Wisconsin
+1311 N 6th St, Milwaukee, WI 53212-4006
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (414) 273-1991
+
+97. Aids Resource Center Of Wisconsin
+445 S Adams St, Green Bay, WI 54301-4107
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (920) 437-7400
+
+98. Aids Resource Center Of Wisconsin
+600 Williamson St STE H, Madison, WI 53703-4531
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (608) 316-8612
+
+99. Froedtert - Sargeant Health Center
+840 N 87th St, Milwaukee, WI 53226-3586
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (414) 805-6444
+
+100. Froedtert Infectious Disease Clinic
+9200 W Wisconsin Ave, Milwaukee, WI 53226-3522
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (414) 805-6444
+
+101. Sixteenth Street Community Health Center
+1032 S Cesar E Chavez Dr, Milwaukee, WI 53204-2203
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (414) 897-5169
+
+102. Professional Services Group - Kenosha Uptown
+2108 63rd St, Kenosha, WI 53143-4454
+📝 HRSA Substance Use Disorder Facility, Office-based Opioid Treatment Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (262) 652-1004
+🌐 http://www.psgcip.com
+
+103. Brown County Oral Health Partnership - School-Based Program
+1245 Main St, Green Bay, WI 54302-1306
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Dental; School-based health care for children and adolescents
+📞 (920) 965-0831
+🌐 http://www.smilegb.org
+
+104. NEW Community Clinic - Golden House Family Violence Center - Homeless Shelter
+University Ave, Green Bay, WI 54302-5008
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (920) 435-1000
+🌐 https://www.goldenhousegb.org/
+
+105. Children's Dental Center of Madison-East Madison
+5116 American Family Dr, Madison, WI 53718-8331
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Dental
+📞 (608) 825-7500

@@ -9,9 +9,9 @@
 
 2. CATHEDRAL CLINIC
 1212 Prairie Street, HOUSTON, TX, 77002
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 https://www.homeless-healthcare.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 713-220-9730
 🗺 https://maps.google.com/?q=29.75923,-95.35981
 
@@ -25,9 +25,9 @@
 
 4. CAROLINE STREET CLINIC
 1934 Caroline St, Houston, TX, 77002-8210
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 https://www.homeless-healthcare.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 713-286-6124
 🗺 https://maps.google.com/?q=29.74824,-95.36840
 
@@ -49,16 +49,16 @@
 
 7. Legacy Wellness Bar
 120 Westheimer Rd  STE F, Houston, TX, 77006
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 832-548-5000
 🗺 https://maps.google.com/?q=29.74498,-95.38259
 
 8. Legacy Montrose Clinic
 1415 California St, Houston, TX, 77006-2602
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.legacycommunityhealth.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care; Migrant health center
 📞 713-830-3000
 🗺 https://maps.google.com/?q=29.74491,-95.39425
 
@@ -140,9 +140,9 @@
 
 19. Denver Harbor Ancillary Services
 424 Hahlo St, Houston, TX, 77020-3022
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.denverharborclinic.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Migrant health center
 📞 713-674-3326
 🗺 https://maps.google.com/?q=29.78064,-95.30986
 
@@ -164,9 +164,9 @@
 
 22. EL CENTRO DE CORAZON - MAGNOLIA
 7037 Capitol St, Houston, TX, 77011-4643
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.elcentrodecorazon,org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Migrant health center
 📞 713-660-1880
 🗺 https://maps.google.com/?q=29.73459,-95.30105
 
@@ -180,9 +180,9 @@
 
 24. El Centro de Corazon- John S. Dunn
 7635 Canal, Houston, TX, 77012-1143
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.elcentrodecorazon.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Migrant health center
 📞 713-660-1880
 🗺 https://maps.google.com/?q=29.73579,-95.28697
 
@@ -195,9 +195,9 @@
 
 26. Airline Women and Children's Health Center
 5808 Airline Dr, Houston, TX, 77076-4923
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center; Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.denverharborclinic.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Migrant health center; Women's health
 📞 713-695-4013
 🗺 https://maps.google.com/?q=29.85036,-95.38398
 
@@ -1125,8 +1125,8 @@
 
 149. CommUnityCare Springdale Pediatrics
 7112 Ed Bluestein Blvd Ste 100, Austin, TX, 78723-2913
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Women's health; Pediatrics
 📞 512-978-9015
 🗺 https://maps.google.com/?q=30.31256,-97.66380
 
@@ -1161,8 +1161,8 @@
 
 154. CommUnityCare Riverside Pediatrics
 2237 E Riverside Dr Ste 101C, Austin, TX, 78741-3051
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Pediatrics
 📞 512-978-9015
 🗺 https://maps.google.com/?q=30.23843,-97.72602
 
@@ -1182,16 +1182,16 @@
 
 157. CommUnityCare East Austin
 211 Comal St, Austin, TX, 78702-4326
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 http://www.communitycaretx.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Migrant health center
 📞 512-978-9200
 🗺 https://maps.google.com/?q=30.25956,-97.72779
 
 158. CommUnityCare North Lamar Pediatrics
 9411 N Lamar Blvd Ste 120, Austin, TX, 78753-4179
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Pediatrics
 📞 512-978-9015
 🗺 https://maps.google.com/?q=30.36378,-97.69653
 
@@ -1219,16 +1219,16 @@
 
 162. CommUnityCare - North Central
 1210 W Braker Lane, Austin, TX, 78758
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 http://www.communitycaretx.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care; Migrant health center
 📞 512-978-9000
 🗺 https://maps.google.com/?q=30.38572,-97.69411
 
 163. CommUnityCare South Brook Pediatrics
 6425 S Interstate 35 Ste 100, Austin, TX, 78744-4230
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Pediatrics
 📞 512-744-6000
 🗺 https://maps.google.com/?q=30.19038,-97.76798
 
@@ -1249,8 +1249,8 @@
 
 166. Care Connections Clinic
 3706 S 1st St, Austin, TX, 78704-7046
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 512-978-9015
 🗺 https://maps.google.com/?q=30.22872,-97.76884
 
@@ -1575,9 +1575,9 @@
 
 209. CENTROMED SARAH E DAVIDSON CLINIC
 1 Haven for Hope Way, Bldg 1 STE 300, San Antonio, TX, 78207
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Certified Community Behavioral Health Center; Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.centromedsa.com
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Mental health; Migrant health center
 📞 210-922-7000
 🗺 https://maps.google.com/?q=29.43293,-98.50609
 
@@ -1599,9 +1599,9 @@
 
 212. CENTROMED SOUTHSIDE MEDICAL CLINIC
 3750 Commercial Ave, San Antonio, TX, 78221-3117
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.centromedsa.com
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care; Migrant health center
 📞 210-922-7000
 🗺 https://maps.google.com/?q=29.33582,-98.51515
 
@@ -1636,9 +1636,9 @@
 
 217. CENTROMED SOUTH PARK DENTAL CLINIC
 910 Wagner Ave, San Antonio, TX, 78211-3213
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center; Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.centromedsa.com
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Dental; Migrant health center
 📞 210-922-7000
 🗺 https://maps.google.com/?q=29.36449,-98.53437
 
@@ -1667,8 +1667,8 @@
 
 221. CentroMed Women's Health Clinic
 7386 Barlite Blvd, San Antonio, TX, 78224-1306
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Women's health
 📞 210-922-7000
 🗺 https://maps.google.com/?q=29.35463,-98.54611
 
@@ -1704,9 +1704,9 @@
 
 226. CommuniCare Blvd Dental
 5138 Utsa Blvd Ste 116, San Antonio, TX, 78249-3537
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.communicaresa.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Dental
 📞 210-233-7000
 🗺 https://maps.google.com/?q=29.57932,-98.58662
 
@@ -1758,9 +1758,9 @@
 
 233. The Bridge
 1818 Corsicana, Dallas, TX, 75201-6102
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 http://www.parklandhospital.com/phhs/homeless-outreach.aspx
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 214-670-1145
 🗺 https://maps.google.com/?q=32.77595,-96.79174
 
@@ -1773,17 +1773,17 @@
 
 235. Prism Health North Texas East Dallas Dental Health Center
 3910 Gaston Ave, Ste 175, Dallas, TX, 75246-1501
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.phntx.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Dental
 📞 214-257-1082
 🗺 https://maps.google.com/?q=32.79244,-96.77809
 
 236. Martin Luther King, Jr. Family Clinic, Inc. d/b/a Foremost Family Health Centers
 2922B Martin Luther King Jr Blvd, Dallas, TX, 75215
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.foremostfhc.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Migrant health center
 📞 214-426-3645 x161
 🗺 https://maps.google.com/?q=32.76939,-96.76592
 
@@ -1812,9 +1812,9 @@
 
 240. Healing Hands MInistries Women's Health Center
 5750 Pineland Dr Ste 240, Dallas, TX, 75231-5300
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.hhmhealth.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Women's health; Pediatrics
 📞 469-637-2777
 🗺 https://maps.google.com/?q=32.87792,-96.75817
 
@@ -2914,3 +2914,454 @@ PEBBLE VILLAGE SHOPPING CENTER10780 PEBBLE HILLS BLVD STE G1, EL PASO, TX, 79935
 📞 956-548-7400
 🗺 https://maps.google.com/?q=25.90253,-97.47783
 
+387. Ahf - Houston Fannin
+7400 Fannin St, Houston, TX 77054-1920
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (713) 799-8994
+
+388. Ahf Dallas
+7777 Forest Ln, Apt B, Dallas, TX 75230-2571
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (972) 383-1060
+
+389. Ahf Dallas?Market Center
+2600 N Stemmons Fwy, Dallas, TX 75207-2113
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (972) 828-5959
+
+390. Ahf- Houston
+1200 Binz St, Houston, TX 77004-6900
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (713) 524-8700
+
+391. Aids Arms, Inc./Oak Cliff
+219 Sunset Ave STE 116A, Dallas, TX 75208-4531
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (972) 807-7370
+
+392. Aids Healthcare Foundation
+900 E 30th St, Austin, TX 78705-3326
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (512) 640-3100
+
+393. Aids Healthcare Foundation - Tarrant County, Tx
+400 N Beach St STE 104, Fort Worth, TX 76111-7070
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (817) 831-1814
+
+394. Aids Services Of Austin Dba Vivent Health
+104 E Highland Mall Blvd, Austin, TX 78752
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (512) 458-2437
+
+395. Alamo Area Resource Center
+303 N Frio St, San Antonio, TX 78207-3034
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (210) 625-7200
+
+396. Ap, Inc. Community Center
+1705 Martin Luther King Jr Blvd, Dallas, TX 75215-3222
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (214) 421-4800
+
+397. B.E.A.T. Aids, Inc.
+1017 N Main Ave, San Antonio, TX 78212-4723
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (210) 212-2266
+
+398. CommUnityCare - David Powell Health Center
+4614 N Interstate 35, Austin, TX 78751-3401
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program; Migrant health center
+📞 (512) 978-9100
+🌐 http://www.communitycaretx.org
+
+399. Dallas County Hospital District
+5200 Harry Hines Blvd, Dallas, TX 75235-7709
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (214) 590-5529
+
+400. H.O.P.E. Health Clinic
+1619 Martin Luther King Jr Blvd, Dallas, TX 75215-3228
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (214) 421-4800
+
+401. Harris Health System
+3601 N Macgregor Way, Houston, TX 77004-8004
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (713) 873-4000
+
+402. Houston Area Community Services, Inc. Dba Avenue 360 Health And
+2150 W 18th St, Houston, TX 77008-5200
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (713) 426-0027
+
+403. Janeen Graper
+1935 Medical District Dr, Dallas, TX 75235-7701
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (214) 456-6500
+
+404. Legacy Branard Center Clinic
+401 Branard St, Houston, TX 77006-5015
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (713) 366-7444
+
+405. Resource Center Of Dallas
+2701 Reagan St, Dallas, TX 75219-3403
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (214) 521-5124
+
+406. San Antonio Aids Foundation
+818 E Grayson St, San Antonio, TX 78208-1013
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (210) 225-4715
+
+407. St. Hope - Greenspoint Health Center
+255 Northpoint Dr STE 200, Houston, TX 77060-3269
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (713) 778-1300
+
+408. Tarrant County Hospital District Jps
+1350 S Main St STE 1600, Fort Worth, TX 76104-7663
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (817) 702-6819
+
+409. Tcph Preventive Medicine Clinic
+1101 S Main St, Fort Worth, TX 76104-4802
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (817) 321-4850
+
+410. Texas Children'S Hospital Allergy & Immunology Department
+1102 Bates Ave, Ste 630, Houston, TX 77030-2623
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (832) 822-1038
+
+411. The University Of Texas Health Science Center @ Houston
+7000 Fannin St, Ste UCT, Houston, TX 77030-3870
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (713) 500-6608
+
+412. University Health System Ffacts Clinic
+903 W Martin St, San Antonio, TX 78207-0903
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (210) 358-3710
+
+413. Dallas County Hospital District - Mobile Medical Unit # 7
+2311 Butler St, Dallas, TX 75235-7813
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (214) 590-0153
+🌐 http://www.parlandhealth.org
+
+414. El Centro de Corazon - Eastwood Health Center
+412 Telephone Rd, Houston, TX 77023-1840
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (713) 660-1880
+🌐 http://www.elcentrodecorazon.org
+
+415. CentroMed Santa Rosa Pavillon Clinic
+315 N San Saba, San Antonio, TX 78207-3154
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (210) 922-7000
+🌐 http://www.centromedsa.com
+
+416. CommUnityCare - Sandra Joy Anderson Community Health and Wellness Center
+1705 E 11th St, Austin, TX 78702-2709
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (512) 978-9015
+
+417. The Center for Health Care Services - Crisis Transitional Services program
+711 E Josephine St, San Antonio, TX 78208-1027
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (210) 261-2427
+🌐 http://chcsbc.org/
+
+418. CentroMed City Base Clinic
+3127 SE Military Dr, San Antonio, TX 78223-3989
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (210) 928-4970
+🌐 http://www.centromedsa.com
+
+419. The Harris Center for Mental Health and IDD - Adult/Children's Mental Health Services
+9401 Southwest Fwy, Houston, TX 77074-1407
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (713) 970-7000
+🌐 http://theharriscenter.org
+
+420. CommuniCare Health Centers - Barrio Family Health Center
+1102 Barclay St, San Antonio, TX 78207-7161
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (210) 233-7074
+🌐 http://www.communicaresa.org
+
+421. The Center for Health Care Services - Babcock Road
+2829 Babcock Rd, San Antonio, TX 78229-6028
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (210) 261-2427
+🌐 https://chcsbc.org/
+
+422. CommuniCare Health Centers - Potranco Pediatrics
+10002 Westover Blf, San Antonio, TX 78251-3353
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Pediatrics; Migrant health center
+📞 (210) 233-7070
+🌐 http://www.communicaretx.org
+
+423. Dallas County Hospital District - The Stewpot Medical and Dental Clinic
+1835 Young St, Dallas, TX 75201-5611
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Dental; Health Care for the Homeless
+📞 (214) 746-2785
+🌐 http://www.parlandhealth.org
+
+424. Dallas County Hospital District - Deflection Center - Parkland Hospital District
+5300 University Hills Blvd, Dallas, TX 75241-1219
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (214) 941-3500
+
+425. Harris Health System - Lord of the Streets (Outreach)
+3401 Fannin St, Houston, TX 77004-3806
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (713) 526-0411
+🌐 http://www.lordofthestreets.org/#!services-cots/c1jxp
+
+426. CommUnityCare - Oak Hill Health Center
+8656 W Highway 71, Austin, TX 78735-8391
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (512) 978-9820
+🌐 http://www.communitycaretx.org
+
+427. CommUnityCare - Hancock
+1000 E 41st St, Suite 925, Austin, TX 78751-4856
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (512) 978-9940
+🌐 https://communitycaretx.org
+
+428. Centromed South Park Medical Clinic
+6315 S Zarzamora St, San Antonio, TX 78211-3218
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (210) 334-3738
+🌐 http://www.centromedsa.com
+
+429. CommUnityCare - South Austin Health Center
+2529 S 1st St, Austin, TX 78704-5493
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (512) 978-9500
+🌐 http://www.communitycaretx.org
+
+430. CentroMed - Palo Alto Clinic
+9011 Poteet Jourdanton Fwy, San Antonio, TX 78224-2124
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (210) 334-3700
+🌐 http://www.centromedsa.com
+
+431. The Harris Center for Mental Health and IDD - Northwest Clinic
+3737 Dacoma St, Houston, TX 77092-8905
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (713) 970-8400
+🌐 http://www.theharriscenter.org
+
+432. The Harris Center for Mental Health and IDD -  Northeast Clinic
+7200 N Loop Fwy E, Houston, TX 77028
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (713) 970-7000
+🌐 http://theharriscenter.org
+
+433. The Harris Center for Mental Health and IDD - Southeast Clinic
+5901 Long Dr, Houston, TX 77087-1003
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (713) 970-7000
+🌐 http://theharriscenter.org
+
+434. Harmony House Respite Center
+602 Girard St, Houston, TX 77007-6218
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (713) 221-6219
+
+435. Integral Care - East 2nd Street Clinic
+1631 E 2nd St, Austin, TX 78702-4490
+📝 HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (512) 445-7764
+🌐 http://integralcare.org
+
+436. CommUnityCare - Austin Resource Center for the Homeless
+500 E 7th St, Austin, TX 78701-3319
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (512) 978-9920
+🌐 https://communitycaretx.org
+
+437. The Center for Health Care Services - Outpatient Programs - North Frio Building II
+601 N Frio St, San Antonio, TX 78207-3011
+📝 HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (210) 261-2427
+🌐 https://chcsbc.org/
+
+438. Homeward Bound Inc. - Lone Star
+2535 Lone Star Dr, Dallas, TX 75212-6313
+📝 HRSA Substance Use Disorder Facility, Office-based Opioid Treatment Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (214) 941-3500
+🌐 https://www.homewardboundinc.org/
+
+439. CommUnityCare - William Cannon Health Center
+6801 S Interstate 35, Austin, TX 78744-4824
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (512) 978-9042
+🌐 http://www.communitycaretx.org
+
+440. Integral Care - Outpatient SUD Programs - Airport Boulevard
+1165 Airport Blvd, Austin, TX 78702-3198
+📝 HRSA Substance Use Disorder Facility, Office-based Opioid Treatment Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (512) 445-7764
+🌐 http://www.integralcare.org
+
+441. CommUnityCare - Rundberg - B1
+825 E Rundberg Ln, Suite B 1, Austin, TX 78753-4860
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (512) 978-9044
+🌐 http://www.communitycaretx.org
+
+442. Lone Star Circle of Care - Stassney
+730 W Stassney Ln, Austin, TX 78745-2982
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (877) 800-5722
+🌐 http://lonestarcares.org
+
+443. CommuniCare Health Centers - Northwest
+8210 Callaghan Rd, San Antonio, TX 78230-4775
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (210) 233-7000
+🌐 http://www.communicaresa.org
+
+444. CommuniCare Health Centers - Dr. Frank Bryant Health Center
+3066 E Commerce St, San Antonio, TX 78220-1013
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (210) 233-7074
+🌐 http://www.communicaresa.org
+
+445. Mobile Dental #1
+5280 Tex Oak Ave, Dallas, TX 75235-7810
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Dental
+📞 (214) 590-0153
+🌐 https://www.parklandhospital.com/medical_services/outreach/homeless_outreach.html
+
+446. CentroMed SA Pediatrics
+123 Stone Oak Loop, San Antonio, TX 78258-3391
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Pediatrics
+📞 (210) 922-7000
+🌐 https://www.centromedsa.com
+
+447. CentroMed SA Pediatrics
+1314 Guadalupe St, San Antonio, TX 78207-5580
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Pediatrics
+📞 (210) 922-7000
+
+448. CentroMed SA Pediatrics
+94 Briggs St, Suite 400, San Antonio, TX 78224-1206
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Pediatrics
+📞 (210) 922-7000
+🌐 https://www.centromedsa.com
+
+449. CentroMed SA Pediatrics
+9793 Culebra Rd STE 105A, San Antonio, TX 78251-3750
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Pediatrics
+📞 (210) 223-3543
+🌐 https://www.CentroMedSA.com
+
+450. Centromed Women'S Shelter Clinic - La Paloma De Paz
+7404 W US Highway 90 BLDG 37, San Antonio, TX 78227-4024
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Women's health
+📞 (210) 922-7000
+🌐 https://www.centromedsa.com
+
+451. CentroMed SA Pediatrics
+3327 Research Plz, #307, San Antonio, TX 78235-5154
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Pediatrics
+📞 (210) 922-7000
+🌐 https://www.centromedsa.com
+
+452. Lone Star Circle of Care Pediatrics at MoPac North
+12201 Renfert Way, Suite 105, Austin, TX 78758-5362
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Pediatrics; Women's health
+📞 (877) 800-5722
+🌐 https://www.lonestarcares.org
+
+453. Lone Star Circle of Care Pediatrics at St. John
+6937 N Interstate 35, Austin, TX 78752-3295
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Pediatrics
+📞 (877) 800-5722
+
+454. Healing Hands Ministries Woodhill Pediatric Health Center
+8335 Walnut Hill Ln, Dallas, TX 75231-4216
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Pediatrics
+📞 (214) 221-0855
+
+455. Prism Health North Texas at Farmers Branch Dental Health Center
+13551 Dennis Ln, Dallas, TX 75234-4739
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Dental
+📞 (972) 241-2259
+🌐 https://www.phntx.org

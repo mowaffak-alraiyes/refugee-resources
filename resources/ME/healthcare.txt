@@ -16,16 +16,16 @@
 
 3. Greater Portland Health at 180 Park Avenue
 180 Park Ave, Portland, ME, 04102-2957
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.portlandcommunityhealthcenter.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 207-874-2141
 🗺 https://maps.google.com/?q=43.65598,-70.27427
 
 4. Mobile Van #1
 295 Park Ave, Portland, ME, 04102-2911
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 207-874-2141
 🗺 https://maps.google.com/?q=43.65616,-70.27965
 
@@ -121,9 +121,9 @@
 
 17. Mobile Medical -Unit #3
 79 Leighton Rd, Augusta, ME, 04330-7747
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.mainemigrant.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Mental health
 📞 207-622-9252
 🗺 https://maps.google.com/?q=44.32564,-69.81718
 
@@ -330,15 +330,15 @@ WORKMAN TERRACE, LINCOLN, ME, 04457-0000
 
 45. Dental Center
 1048 Union St, Bangor, ME, 04401-8600
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Dental
 📞 207-945-5247
 🗺 https://maps.google.com/?q=44.81593,-68.80986
 
 46. Penobscot Pediatrics
 6 Telcom Dr, Bangor, ME, 04401-3072
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Pediatrics
 📞 207-992-9200
 🗺 https://maps.google.com/?q=44.81754,-68.81234
 
@@ -387,9 +387,9 @@ WORKMAN TERRACE, LINCOLN, ME, 04457-0000
 
 53. Downeast School - PCHC Dental
 100 Moosehead Blvd, Bangor, ME, 04401-2367
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://pchc.com
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Dental
 📞 207-941-6240
 🗺 https://maps.google.com/?q=44.83943,-68.82043
 
@@ -680,3 +680,47 @@ WORKMAN TERRACE, LINCOLN, ME, 04457-0000
 📞 207-316-6446
 🗺 https://maps.google.com/?q=47.26797,-68.59176
 
+91. Down East Aids Network
+304 Hancock St STE 3B, Bangor, ME 04401-6573
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (207) 990-3626
+
+92. Horizon Program
+21 Enterprise Dr, Augusta, ME 04330-7894
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (207) 248-0460
+
+93. Portland Community Health Center
+211 Cumberland Ave, Portland, ME 04101-4935
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (207) 874-2141
+
+94. Portland Community Health Center
+63 Preble St, Portland, ME 04101
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (207) 874-2141
+
+95. Penobscot Community Health Care - Capehart Community Health Center
+86 Davis Rd, Bangor, ME 04401-2311
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (207) 992-2205
+🌐 http://www.pchc.com/
+
+96. Maine Mobile Health Program - Migrant Voucher Mobile Med Van - Central and Western
+9 Green St, Augusta, ME 04330-7451
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (207) 622-9252
+🌐 http://www.mainemigrant.org/
+
+97. CCS Pediatrics
+330 Sabattus St, Lewiston, ME 04240-5553
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Pediatrics
+📞 207-755-3160 x20751
+🌐 https://www.communityclinicalservices.com

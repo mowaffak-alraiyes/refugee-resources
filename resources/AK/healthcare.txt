@@ -2,10 +2,12 @@
 
 1. Covenant House Alaska Health Clinic
 755 A St, Anchorage, AK, 99501-3625
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 907-272-1255
 🗺 https://maps.google.com/?q=61.21488,-149.88155
+
+🌐 http://www.covenanthouseak.org/
 
 2. Georgetown Clinic
 #1 Clinic Road, Georgetown, AK, 99501
@@ -17,9 +19,9 @@
 
 3. Anchorage Neighborhood Health Center, Inc.
 4951 Business Park Blvd, Anchorage, AK, 99503-7174
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.anhc.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 907-743-7200
 🗺 https://maps.google.com/?q=61.17594,-149.88766
 
@@ -555,3 +557,15 @@ Sunrise Lodge, Edna Bay, AK, 99901
 📞 907-542-2222
 🗺 https://maps.google.com/?q=55.35505,-131.68790
 
+73. Alaska Native Tribal Health Consortium
+3900 Ambassador Dr STE 401, Anchorage, AK 99508-5922
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (907) 729-2907
+
+74. Alaska Behavioral Health - Laurel
+4120 Laurel St, Anchorage, AK 99508-5392
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (907) 563-1000
+🌐 http://www.akbh.org

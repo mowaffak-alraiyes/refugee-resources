@@ -2,9 +2,9 @@
 
 1. HCH Mobile Van
 421 Fallsway, Baltimore, MD, 21202-4800
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 https://www.hchmd.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 410-837-5533
 🗺 https://maps.google.com/?q=39.29373,-76.60950
 
@@ -57,9 +57,9 @@
 
 8. Division Health Center
 1501 Division St, Baltimore, MD, 21217-3121
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 http://www.totalhealthcare.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 410-383-8300
 🗺 https://maps.google.com/?q=39.30301,-76.63158
 
@@ -89,18 +89,20 @@
 
 12. Kirk Health Center
 2400 Kirk Ave, Baltimore, MD, 21218-5507
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 http://www.totalhealthcare.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 410-383-8300
 🗺 https://maps.google.com/?q=39.31777,-76.60336
 
 13. Health Care for the Homeless, West Baltimore
 2000 W Baltimore St Ste 3300, Baltimore, MD, 21223-1558
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 443-703-1400
 🗺 https://maps.google.com/?q=39.28823,-76.64888
+
+🌐 http://www.hchmd.org
 
 14. Westside Health Center
 2449 Frederick Ave, Baltimore, MD, 21223-2856
@@ -165,8 +167,8 @@
 
 22. PARK WEST MEDICAL CENTER - BELVEDERE
 3319 W Belvedere Ave, Baltimore, MD, 21215-5143
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care; Migrant health center
 📞 410-542-7800 x7305
 🗺 https://maps.google.com/?q=39.34794,-76.67708
 
@@ -727,8 +729,304 @@ GRANGE HALL ROAD, QUEENSTOWN, MD, 21658
 
 96. Johns Hopkins ViSION (Vision Screening in Our Neighborhoods)
 Wilmer Eye Institute, 600 N. Wolfe St, Baltimore, MD 21287
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://vision.jhmi.edu/
-🏥 Services: Free community vision screening, with a focus on glaucoma. Follow-up at Wilmer is offered regardless of insurance. Charity funds can cover surgery when an ophthalmologist says it is needed.
+🏥 Services: Ryan White HIV/AIDS Program; Free community vision screening, with a focus on glaucoma. Follow-up at Wilmer is offered regardless of insurance. Charity funds can cover surgery when an ophthalmologist says it is needed.
 ⏰ Hours: Community screenings are typically once a month from September through May.
 📧 hopkinsvision@jhmi.edu
 
+📞 (410) 614-4496
+
+97. University Of Maryland Thrive Program
+800 Linden Ave, Baltimore, MD 21201-4622
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (410) 225-8369
+
+98. Adolescent And Young Adult Center
+120 Penn St, Baltimore, MD 21201-1082
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (410) 328-8336
+
+99. Baltimore City Health Department - Druid Health District Sexual
+1515 W North Ave, Baltimore, MD 21217-1735
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (410) 396-0176
+
+100. Baltimore City Health Department - Eastern Health District Sexua
+1200 E Fayette St, Baltimore, MD 21202-4721
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (410) 396-9410
+
+101. Chase Brexton Health Services, Inc.
+1111 N Charles St, Baltimore, MD 21201-5505
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (410) 837-2050
+
+102. Debbie Blunt
+5200 Eastern Ave, Baltimore, MD 21224
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (410) 550-2999
+
+103. Frederick County Health Department
+350 Montevue Ln, Frederick, MD 21702-8214
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (410) 955-5000
+
+104. Jacques Initiative
+520 W Fayette St, Baltimore, MD 21201-1781
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (410) 706-6410
+
+105. Johns Hopkins University John G. Bartlett Specialty Practice
+1717 E Monument St, Baltimore, MD 21287-0027
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (410) 955-5000
+
+106. Johns Hopkins University Pediatric And Adolescent HIV/Aids Progr
+200 N Wolfe St, Baltimore, MD 21287-0011
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (410) 502-0982
+
+107. Park West Health System, Inc.
+4120 Patterson Ave, Baltimore, MD 21215-2254
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (410) 764-2266
+
+108. Park West Health System, Inc.
+4151 Park Heights Ave, Baltimore, MD 21215-6730
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (443) 874-5502
+
+109. Total Health Care, Inc.
+1501 W Saratoga St, Baltimore, MD 21223-1749
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (410) 383-8300
+
+110. University of Maryland, School Mental Health Program - Wildwood Elementary Middle SBHC
+621 Wildwood Pkwy, Baltimore, MD 21229-1800
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (443) 695-4342
+🌐 https://www.umms.org/ummc/health-services/psychiatry/services/child-adolescent/outpatient/school-mental-health
+
+111. University of Maryland, School Mental Health Program - Digital Harbor High School SBHC
+1100 Covington St, Baltimore, MD 21230-4196
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (443) 695-4342
+🌐 https://www.umms.org/ummc/health-services/psychiatry/services/child-adolescent/outpatient/school-mental-health
+
+112. Redeem Healthcare Medical Systems
+2127 W Pratt St, Baltimore, MD 21223-2244
+📝 HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (410) 878-0655
+🌐 http://www.redeemhealthcaremedical.com
+
+113. Hope Health Systems - ESMH Dr. Nathan A Pitts-Ashburn School #58 SBHC
+3935 Hilton Rd, Baltimore, MD 21215-7599
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (410) 265-8737
+🌐 http://hopehealthsystems.com
+
+114. University of Maryland, School Mental Health Program - Vivien T. Thomas SBHC
+100 N Calhoun St, Baltimore, MD 21223-1867
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (443) 695-4342
+🌐 https://www.schoolmentalhealth.org/our-work/practice--programs/
+
+115. Transformation Healthcare Inc - Main Office
+6212 York Rd, Baltimore, MD 21212-2612
+📝 HRSA Substance Use Disorder Facility, Office-based Opioid Treatment Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (410) 878-1085
+🌐 http://www.transformationhealthcare.com
+
+116. Hope Health Systems - Harford Heights Elementary School SBHC
+2050 N Wolfe St, Baltimore, MD 21213-1497
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (410) 929-6786
+🌐 https://sites.google.com/view/school-counseling-hub/home
+
+117. Focus Point Behavioral Health
+828 Guilford Ave, Baltimore, MD 21202-3707
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (667) 930-3105
+🌐 http://www.focuspointbh.com
+
+118. Divine Mercy, Inc.
+1721 Pennsylvania Ave, Baltimore, MD 21217-3119
+📝 HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (410) 685-2830
+🌐 http://www.beaconofhopemd.org
+
+119. Grace Medical Center - New Hope Treatment Center
+2401 W Baltimore St, Baltimore, MD 21223-2134
+📝 HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (410) 945-7706
+🌐 http://www.lifebridgehealth.org
+
+120. Hope Health Systems - ESMH Baltimore Leadership School for Young Women SBHC
+128 W Franklin St, Baltimore, MD 21201-4504
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Women's health; School-based health care for children and adolescents
+📞 (410) 265-8737
+🌐 http://hopehealthsystems.com
+
+121. Hope Health Systems - ESMH Green Street Academy #377 SBHC
+201 N Bend Rd, Baltimore, MD 21229-3100
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (410) 265-8737
+🌐 http://www.hopehealthsystems.com
+
+122. Tuerk House
+730 N Ashburton St, Baltimore, MD 21216-4703
+📝 HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (667) 212-3450
+🌐 https://www.tuerkhouse.org
+
+123. University of Maryland, School Mental Health Program - North Bend Elementary Middle School SBHC
+1 N Bend Rd, Baltimore, MD 21229-3203
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (443) 695-4342
+🌐 https://www.schoolmentalhealth.org/our-work/practice--programs/
+
+124. University of Maryland, School Mental Health Program - Augusta Fells Savage Institute of Visual Arts High SBHC
+1500 Harlem Ave, Baltimore, MD 21217-2103
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (443) 695-4342
+🌐 https://www.schoolmentalhealth.org/our-work/practice--programs/
+
+125. Temah Healthcare Services, LLC
+806 N Kenwood Ave, Baltimore, MD 21205-1716
+📝 HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (410) 521-8000
+🌐 http://www.temahhcs.com
+
+126. Hope Health Systems - Baltimore Design School #382 SBHC
+1500 Barclay St, Baltimore, MD 21202-3105
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (443) 642-2311
+🌐 http://www.baltimoredesignschool.com
+
+127. Baltimore City Schools - Dorothy I. Height School SBHC
+2011 Linden Ave, Baltimore, MD 21217-4490
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (410) 396-0837
+🌐 https://www.baltimorecityschools.org/schools/61
+
+128. Hope Health Systems - ESMH Pimlico Elementary/Middle School #223 SBHC
+4849 Pimlico Rd, Baltimore, MD 21215-6098
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (410) 929-6786
+🌐 https://sites.google.com/view/school-counseling-hub/home
+
+129. Hope Health Systems - ESMH Windsor Hills Elementary School #87 SBHC
+4001 Alto Rd, Baltimore, MD 21216-2099
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (410) 265-8737
+🌐 http://www.hopehealthsystems.com
+
+130. Penn North Recovery Center
+2410 Pennsylvania Ave, Baltimore, MD 21217-1722
+📝 HRSA Substance Use Disorder Facility, Office-based Opioid Treatment Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (410) 728-2080
+🌐 http://www.penn-north.org
+
+131. A&E Healthcare Services Inc.
+216 E Lexington St, Baltimore, MD 21202-3501
+📝 HRSA Substance Use Disorder Facility, Office-based Opioid Treatment Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (410) 801-9011
+🌐 https://aehealthcareservices.com/
+
+132. University of Maryland Medical Center - Alcohol and Drug Abuse Program
+1001 W Pratt St, Baltimore, MD 21223-2679
+📝 HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (443) 462-3400
+
+133. Catholic Charities @ Villa Maria Behavioral Health Clinic at Fallstaff / Fallsway
+725 Fallsway, Baltimore, MD 21202-4147
+📝 HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (667) 600-2855
+🌐 http://cc-md.org
+
+134. The Orenda Center
+7540 N Market St, Frederick, MD 21701-4307
+📝 HRSA Substance Use Disorder Facility, Office-based Opioid Treatment Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (240) 831-4873
+🌐 http://theorendacenter.com
+
+135. Hope Health Systems - ESMH Beechfield Elementary School #246 SBHC
+301 S Beechfield Ave, Baltimore, MD 21229-4099
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (410) 265-8737
+🌐 http://www.hopehealthsystems.com
+
+136. Mountain Manor Treatment Centers @ Baltimore
+3800 Frederick Ave, Baltimore, MD 21229-3618
+📝 HRSA Substance Use Disorder Facility, Office-based Opioid Treatment Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (410) 233-1400
+🌐 http://mountainmanor.org
+
+137. Turning Point Clinic
+2401 E North Ave, Baltimore, MD 21213-1517
+📝 HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (410) 675-2113
+🌐 https://turningpointclinic.org
+
+138. University of Maryland, School Mental Health Program - Katherine Johnson Global Academy SBHC
+1101 Braddish Ave, Baltimore, MD 21216-4451
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (443) 695-4342
+🌐 https://www.schoolmentalhealth.org/our-work/practice--programs/
+
+139. University of Maryland, School Mental Health Program - New Song Academy SBHC
+1530 Presstman St, Baltimore, MD 21217-2312
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (443) 695-4342
+🌐 https://www.schoolmentalhealth.org/our-work/practice--programs/
+
+140. CCI Gaithersburg Dental
+200 Girard St, Suite 206, Gaithersburg, MD 20877-3490
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Dental
+📞 (240) 720-0510
+🌐 http://www.cciweb.org/

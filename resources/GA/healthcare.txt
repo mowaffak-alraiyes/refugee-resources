@@ -2,17 +2,17 @@
 
 1. Mercy Care at Gateway Center
 275 Pryor St SW, Atlanta, GA, 30303-3638
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 https://www.mercyatlanta.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 404-880-3719
 🗺 https://maps.google.com/?q=33.74763,-84.39452
 
 2. Mercy Care Mobile
 424 Decatur St SE, Atlanta, GA, 30312-1848
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.mercyatlanta.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care; Health Care for the Homeless
 📞 678-843-8500
 🗺 https://maps.google.com/?q=33.75107,-84.37448
 
@@ -26,9 +26,9 @@
 
 4. The Family Health Center of GA dba Georgia Center for Women at Peachtree
 550 Peachtree Street NE  STE 1250, Atlanta, GA, 30308-2239
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://gacfw.com
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Women's health
 📞 404-581-0307
 🗺 https://maps.google.com/?q=33.76929,-84.38554
 
@@ -41,17 +41,17 @@
 
 6. SOUTHSIDE MEDICAL CENTER - Main Center / Corporate HQ
 1046 Ridge Ave SW, Atlanta, GA, 30315-1640
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.smcmed.com
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 404-688-1350
 🗺 https://maps.google.com/?q=33.72632,-84.39190
 
 7. Mobile Medical and Dental Unit
 868 york ave., Atlanta, GA, 30310-7092
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://fhcga.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Dental
 📞 404-752-1400
 🗺 https://maps.google.com/?q=33.73672,-84.41625
 
@@ -72,9 +72,9 @@
 
 10. Mercy Care at City of Refuge
 1300 Joseph E. Boone Blvd, Atlanta, GA, 30314
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 https://www.mercyatlanta.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 678-843-8500
 🗺 https://maps.google.com/?q=33.76205,-84.43067
 
@@ -109,9 +109,9 @@
 
 15. SOUTHSIDE MEDICAL CENTER - East Point Clinic
 1100 Cleveland Ave, Atlanta, GA, 30344-3602
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.smcmed.com
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care; Migrant health center
 📞 404-627-1385
 🗺 https://maps.google.com/?q=33.68110,-84.42486
 
@@ -815,9 +815,9 @@
 
 107. VHCS Mobile Dental Services
 1600 Fort Benning Rd, Columbus, GA, 31903-2837
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.valleyhealthcolumbus.com
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Dental
 📞 706-987-8330 x1011
 🗺 https://maps.google.com/?q=32.42417,-84.93727
 
@@ -1021,9 +1021,9 @@
 
 133. MAP Dental @ DPH
 2420 Windsor Spring Rd, Augusta, GA, 30906-4668
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://mapbt.com
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Dental
 📞 706-790-4440
 🗺 https://maps.google.com/?q=33.39814,-82.05098
 
@@ -1420,3 +1420,112 @@
 📞 229-430-1274
 🗺 https://maps.google.com/?q=31.54894,-84.11084
 
+185. Ahf - Atlanta Peachtree
+1438 W Peachtree St NW, Atlanta, GA 30309-2998
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (470) 283-7349
+
+186. Ahf -Atlanta Midtown
+735 Piedmont Ave NE, Atlanta, GA 30308-1416
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (404) 588-4680
+
+187. Atlanta Harm Reduction Coalition, Inc.
+1231 Joseph E Boone Blvd NW, Atlanta, GA 30314-2395
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (404) 817-9994
+
+188. Augusta University
+1014 Moore Ave, Augusta, GA 30904-5836
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (706) 721-9512
+
+189. Columbus Department Of Public Health
+5601 Veterans Pkwy, Columbus, GA 31904-9001
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (706) 321-6411
+
+190. County Houston
+180 Emery Hwy, Macon, GA 31217-3656
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (478) 464-0612
+
+191. Emory University
+201 Dowman Dr NE, Atlanta, GA 30322-1007
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (404) 686-8114
+
+192. Fulton County Board Of Health
+10 Park Pl NE, Atlanta, GA 30303-2511
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (770) 520-7561
+
+193. Grady Memorial Hospital Corporation D/B/A Grady Health System
+341 Ponce de Leon Ave NE, Atlanta, GA 30308-2012
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (404) 616-2441
+
+194. Naesm Men'S Health And Wellness Center, Inc.
+2140 Martin Luther King Jr Dr SW, Atlanta, GA 30310-1134
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (404) 609-3197
+
+195. Richmond County Health Department
+1916 N Leg Rd, Augusta, GA 30909-4402
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (706) 667-4340
+
+196. Richmond County Health Department
+950 Laney Walker Blvd, Augusta, GA 30901-2960
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (706) 667-4342
+
+197. Southside Medical Center-Decatur
+540 Fayetteville Rd SE, Atlanta, GA 30316-2306
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (404) 687-3351
+
+198. Southside Medical Center-Gresham
+2578 Gresham Rd SE, Atlanta, GA 30316-4138
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (404) 564-7033
+
+199. Mercy Care - St. Luke's Episcopal Church
+420 Courtland St NE, Atlanta, GA 30308-3405
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (404) 880-3687
+🌐 http://www.mercycareservices.org
+
+200. Mercy Care - Atlanta Women/Children Day Shltr
+655 Ethel St NW, Atlanta, GA 30318-5410
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Women's health; Health Care for the Homeless
+📞 (404) 876-2894
+🌐 http://www.mercyatlanta.org
+
+201. MedCura Whitefoord (Dental)
+35 Whitefoord Ave SE, Atlanta, GA 30317-1727
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Dental
+📞 (404) 298-8998
+
+202. Christ Community Health: Olde Town CHC Dental
+127 Telfair St, Augusta, GA 30901-2590
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Dental
+📞 (706) 922-0600

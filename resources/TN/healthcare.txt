@@ -2,17 +2,17 @@
 
 1. UNHS MIssion Clinic
 639 Lafayette St, Nashville, TN, 37203-4226
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 https://www.neighborhoodhealthtn.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 615-227-3000
 🗺 https://maps.google.com/?q=36.15377,-86.77752
 
 2. Downtown Clinic
 526 8th Avenue South, Nashville, TN, 37203
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 https://www.neighborhoodhealthtn.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 615-227-3000
 🗺 https://maps.google.com/?q=36.15240,-86.77899
 
@@ -97,9 +97,9 @@
 
 13. Priest Lake Family and Women's Health Center
 2637 Murfreesboro Pike, Nashville, TN, 37217-3505
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.connectus.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Women's health
 📞 615-292-9770
 🗺 https://maps.google.com/?q=36.07181,-86.63799
 
@@ -299,24 +299,24 @@
 
 40. Homeless Health Care Center
 730 E 11TH ST, CHATTANOOGA, TN, 37403-3103
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 https://www.health.hamiltontn.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 423-265-5708
 🗺 https://maps.google.com/?q=35.04003,-85.29985
 
 41. Behavioral Health Services
 1000 E 3rd St  STE 103, Chattanooga, TN, 37403-2153
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.cempa.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care; Mental health
 📞 423-265-2273
 🗺 https://maps.google.com/?q=35.04768,-85.29029
 
 42. Cempa Dental Clinic
 1042 E. Third Street  STE 100, Chattanooga, TN, 37403-2110
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Dental
 📞 423-203-1568
 🗺 https://maps.google.com/?q=35.04698,-85.28847
 
@@ -518,25 +518,25 @@
 
 70. MEMPHIS HEALTH CENTER, INC.
 360 E Eh Crump Blvd, Memphis, TN, 38126-5310
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://memphishealthcenter.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 901-261-2000
 🗺 https://maps.google.com/?q=35.12489,-90.05019
 
 71. BROAD AVENUE HEALTH CENTER
 2861 BROAD AVE, MEMPHIS, TN, 38112-2903
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.christcommunityhealth.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 901-842-3161
 🗺 https://maps.google.com/?q=35.14698,-89.96560
 
 72. Frayser Health Center
 969 Frayser Blvd, Memphis, TN, 38127
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.christcommunityhealth.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 901-842-3162
 🗺 https://maps.google.com/?q=35.21686,-90.03170
 
@@ -549,9 +549,9 @@
 
 74. THIRD STREET HEALTH CENTER
 3362 S    3rd St, Memphis, TN, 38109-2944
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.christcommunityhealth.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 901-842-3166
 🗺 https://maps.google.com/?q=35.05689,-90.05836
 
@@ -564,8 +564,8 @@
 
 76. Whitehaven Health Center
 4593 Elvis Presley Blvd Ste 101, Memphis, TN, 38116-1511
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 901-261-7338
 🗺 https://maps.google.com/?q=35.02307,-90.02524
 
@@ -578,9 +578,9 @@
 
 78. Raleigh Health Center
 3481 AUSTIN PEAY HWY, MEMPHIS, TN, 38128-3801
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.christcommunityhealth.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 901-842-3165
 🗺 https://maps.google.com/?q=35.22083,-89.91122
 
@@ -928,3 +928,93 @@
 📞 (615) 422-5262
 📧 shadetreeclinic@gmail.com
 
+125. Vanderbilt University Comprehensive Care Clinic
+719 Thompson Ln, Ste 37189, Nashville, TN 37204-4716
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (615) 875-5111
+
+126. Vanderbilt University Pediatric Infectious Diseases
+1161 21st Ave S # D-72, Nashville, TN 37232-0011
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (615) 343-2401
+
+127. Adult Special Care Clinic Regional Medical Center
+880 Madison Ave, Memphis, TN 38103-3409
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (901) 545-8949
+
+128. Catholic Health Initiative Infectious Disease Associates
+721 Glenwood Dr, Chattanooga, TN 37404-1106
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (423) 495-2650
+
+129. Ffl Headquarters
+1548 Poplar Ave, Memphis, TN 38104-2432
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (901) 272-0855
+
+130. Hickory Hill Health Center
+5366 Mendenhall Mall, Memphis, TN 38115-4505
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (901) 842-3163
+
+131. Knox County Health Department
+140 Dameron Ave, Knoxville, TN 37917-6413
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (865) 215-5080
+
+132. Lebonheur Community Health And Well-Being
+600 Jefferson Ave, Memphis, TN 38105-4934
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (901) 287-4764
+
+133. Meharry Medical College
+1005 Dr Db Todd Jr Blvd, Nashville, TN 37208-3501
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (615) 327-5788
+
+134. Metropolitan Interdenominational Church
+2128 11th Ave N, Nashville, TN 37208-1105
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (615) 321-9791
+
+135. Orange Mound Health Center
+2569 Douglass Ave, Memphis, TN 38114-2532
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (901) 842-3164
+
+136. Positively Living
+1501 E 5th Ave, Knoxville, TN 37917-7833
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (865) 525-1540
+
+137. St. Jude Medical Center
+262 Danny Thomas Pl, Memphis, TN 38105-3678
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (901) 595-2356
+
+138. CCHS Operation Outreach Homeless Health Center
+1325 Jefferson Ave, Memphis, TN 38104-2013
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (901) 842-2393
+
+139. Broad Avenue Dental Center
+2953 Broad Ave, Memphis, TN 38112-2957
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Dental
+📞 901-842-3171 x08541
+🌐 https://www.christcommunityhealth.org

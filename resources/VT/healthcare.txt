@@ -17,9 +17,9 @@
 
 3. School-Based Dental Center at the Integrated Arts Academy (IAA)
 6 Archibald St, Burlington, VT, 05401-4220
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.chcb.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Dental
 📞 802-658-4869
 🗺 https://maps.google.com/?q=44.48800,-73.21390
 
@@ -429,3 +429,22 @@ East Hill Road, Plainfield, VT, 05667-9525
 📞 802-375-6566
 🗺 https://maps.google.com/?q=43.07329,-73.15499
 
+58. University Of Vermont Medicial Center
+111 Colchester Ave, Burlington, VT 05401-1473
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (802) 847-4594
+
+59. Community Health Center of Burlington - Birchwood Terrace Health Care
+43 Starr Farm Rd, Burlington, VT 05408-1398
+📝 HRSA Federally Qualified Health Center (FQHC), Public Housing Program. Source: data.hrsa.gov.
+🏥 Services: Public housing primary care; Primary care
+📞 (802) 863-6384
+🌐 http://www.chcb.org
+
+60. Community Health Center of Burlington - Spectrum Youth Shelter
+177 Pearl St, Burlington, VT 05401-3704
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (802) 652-1080
+🌐 http://www.chcb.org

@@ -25,17 +25,17 @@
 
 4. CWWCHC Medical Mobile Unit
 3333 Wilkinson Blvd, Charlotte, NC, 28208-5631
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.cwwilliams.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care; Migrant health center; Dental
 📞 704-391-0819
 🗺 https://maps.google.com/?q=35.22417,-80.89610
 
 5. Dave Cathcart Pediatric Clinic
 769 N Wendover Rd, Charlotte, NC, 28211-1118
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://charlottecommunityhealth.org/en/
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Pediatrics
 📞 704-316-6561
 🗺 https://maps.google.com/?q=35.19034,-80.79903
 
@@ -73,9 +73,9 @@
 
 10. Charlotte Community Health Clinic: Atrium Mobile Health Unit
 5301 Wilkinson Blvd, Charlotte, NC, 28208-5455
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://charlottecommunityhealth.org/en/
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 704-316-6561
 🗺 https://maps.google.com/?q=35.23172,-80.92681
 
@@ -113,9 +113,9 @@
 
 15. AMG1 Harris Blvd
 6010 E W T Harris Blvd Ste A, Charlotte, NC, 28215-4084
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://amitymed.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 704-208-4134
 🗺 https://maps.google.com/?q=35.23468,-80.73394
 
@@ -129,9 +129,9 @@
 
 17. AMG3 Monroe Rd
 9835 Monroe Rd Ste B, Charlotte, NC, 28270-1471
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://amitymed.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 704-322-4065
 🗺 https://maps.google.com/?q=35.13804,-80.73798
 
@@ -1201,9 +1201,9 @@ HWY 91 W. 140 SCHOOL DRIVE, SNOW HILL, NC, 28530-0000
 
 155. TAPM Pediatrics at Wendover
 1046 E Wendover Ave, Greensboro, NC, 27405-6712
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.tapmedicine.com
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Pediatrics
 📞 336-272-1050
 🗺 https://maps.google.com/?q=36.08760,-79.77243
 
@@ -1405,17 +1405,17 @@ HWY 91 W. 140 SCHOOL DRIVE, SNOW HILL, NC, 28530-0000
 
 182. Lincoln CHC -Durham County Human Services
 414 E Main St, Durham, NC, 27701-3720
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.lincolnchc.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Migrant health center
 📞 919-560-7726
 🗺 https://maps.google.com/?q=35.99207,-78.89644
 
 183. LYON PARK CLINIC
 1313 Halley St, Durham, NC, 27707-1227
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.lincolnchc.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Migrant health center
 📞 919-536-4205
 🗺 https://maps.google.com/?q=35.98926,-78.91989
 
@@ -2114,3 +2114,81 @@ HWY 91 W. 140 SCHOOL DRIVE, SNOW HILL, NC, 28530-0000
 📞 910-457-0070
 🗺 https://maps.google.com/?q=33.94385,-78.05644
 
+275. Wake County Heath And Human Services
+10 Sunnybrook Rd, Raleigh, NC 27610-1808
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (919) 250-4411
+
+276. Amity Medical Group
+10508 Park Rd STE 130, Charlotte, NC 28210-8526
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (704) 208-4134
+
+277. Atrium Health Id Consultants
+1225 Harding Pl, Charlotte, NC 28204-2826
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (704) 331-9669
+
+278. Charlotte Health Initiative
+4115 The Plaza, Charlotte, NC 28205-1356
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (704) 532-4567
+
+279. Duke University
+2301 Erwin Road, Durham, NC 27705-4699
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (919) 684-8111
+
+280. Early Intervention Clinic
+414 East Main Street, Durham, NC 27701-3791
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (919) 560-7726
+
+281. Moses H. Cone Memorial Hospital
+1200 North Elm Street, Greensboro, NC 27401-1020
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (336) 832-7840
+
+282. Quality Comprehensive
+3607 Beatties Ford Rd, Charlotte, NC 28216-3249
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (704) 394-8968
+
+283. Quality Home Care Services
+3552 Beatties Ford Road, Charlotte, NC 28216-3742
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (704) 394-8968
+
+284. Rao Community Health
+321 W 11th St, Charlotte, NC 28202-0092
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (704) 237-8793
+
+285. Walltown Clinic
+815 Broad St, Durham, NC 27705-4137
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (919) 416-1254
+
+286. Reliable Health Services Inc.
+4819 Emperor Blvd, Durham, NC 27703-0089
+📝 HRSA Substance Use Disorder Facility, Office-based Opioid Treatment Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (919) 596-9479
+🌐 https://reliablehealthservices.com/
+
+287. Health Care for the Homeless
+412 Liberty St, Durham, NC 27701-3408
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (919) 683-1722

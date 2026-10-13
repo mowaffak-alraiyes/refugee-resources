@@ -9,8 +9,8 @@
 
 2. Waverly Women's Health
 2117 Gervais St, Columbia, SC, 29204-1805
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Women's health
 📞 803-744-0540
 🗺 https://maps.google.com/?q=34.00654,-81.01814
 
@@ -40,8 +40,8 @@
 
 6. Sterling Sharpe Pediatric Center
 4605 Monticello Rd Building A, Suite 1, Columbia, SC, 29203-4156
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Pediatrics; Mental health
 📞 803-252-7001
 🗺 https://maps.google.com/?q=34.04593,-81.04369
 
@@ -762,17 +762,17 @@
 
 100. New Horizon Family Health Services Main Site
 975 W FARIS RD, GREENVILLE, SC, 29605-4241
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.newhorizonfhs.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 864-729-8330 x2259
 🗺 https://maps.google.com/?q=34.81588,-82.41433
 
 101. NEW HORIZON FAMILY DENTAL CARE
 1 Memorial Medical Dr, Greenville, SC, 29605-4407
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.newhorizonfhs.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Dental
 📞 864-351-2400 x3005
 🗺 https://maps.google.com/?q=34.81646,-82.42079
 
@@ -786,8 +786,8 @@
 
 103. CARE Team Express Mobile Medical Unit 2
 130 Mallard St, Greenville, SC, 29601-4046
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Dental
 📞 864-233-1534
 🗺 https://maps.google.com/?q=34.83914,-82.41507
 
@@ -832,9 +832,9 @@
 
 109. Mughelli-Oyibokja Wellness Center for Women
 1843 Ashley River Rd, Charleston, SC, 29407-4740
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.fetterhealthcare.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Women's health
 📞 843-769-4424
 🗺 https://maps.google.com/?q=32.80394,-80.01952
 
@@ -1073,9 +1073,84 @@
 
 140. Appalachian Mountain Health at May's Care Center
 2600 Wheat St, Columbia, SC, 29205-2315
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://not applicable
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Mental health; Pediatrics
 📞 828-412-5315
 🗺 https://maps.google.com/?q=35.59339,-82.56137
 
+141. Waverly Family Practice
+1228 Harden St STE C, Columbia, SC 29204-1800
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program; Pediatrics
+📞 (803) 748-1181
+🌐 https://www.ecchc.org
+
+142. Aid Upstate
+811 Pendleton St, Greenville, SC 29601-3209
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (864) 250-0607
+
+143. Aids Healthcare Foundation -- South Carolina
+4100 N Main St, Columbia, SC 29203-5800
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (803) 223-9895
+
+144. Comprehensive Care Center (Formally Can, Inc) - South Carolina
+1911 Hampton St, Columbia, SC 29201-3535
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (803) 849-8430
+
+145. Lowcountry Aids Services
+5064 Rivers Av, North Charleston, SC 29406-6304
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (843) 747-2273
+
+146. Medical University Of South Carolina
+135 Rutledge Ave, Charleston, SC 29425
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (843) 792-9200
+
+147. Palmetto Aids Life Support Services
+2638 Two Notch Rd STE 108, Columbia, SC 29204-1454
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (803) 779-7257
+
+148. Rajee Rao
+1 Richland Medical Park Dr, Columbia, SC 29203-6863
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (803) 434-6430
+
+149. Ryan White Wellness Center
+1481 Tobias Gadson Blvd, Charleston, SC 29407-4879
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (843) 402-3093
+
+150. Fetter Mobile Dental Unit 2
+51 Nassau St, Charleston, SC 29403-5500
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Dental
+📞 (843) 722-4112
+🌐 https://www.fetterhealthcare.org
+
+151. Fetter Health Center for Pediatric Wellness-Comstock
+2047 Comstock Ave, North Charleston, SC 29405-8117
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Pediatrics
+📞 (843) 747-8893
+🌐 https://www.fetterhealthcare.org
+
+152. Charleston Dorchester Mental Health Center
+2100 Charlie Hall Blvd, Charleston, SC 29414-5832
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (843) 852-4100
+🌐 https://fcfetter.com

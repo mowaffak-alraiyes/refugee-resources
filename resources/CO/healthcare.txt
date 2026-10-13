@@ -4,8 +4,9 @@
 
 1. Forum Apartments
 250 W. 14TH AVE, DENVER, CO, 80204-2733
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 https://www.coloradocoalition.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 303-573-3707
 🗣 Languages: ASL
 
@@ -36,8 +37,9 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 
 6. Pediatric Emergency Department and Urgent Care
 777 Bannock St Ste 1364, Denver, CO, 80204-4507
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.denverhealth.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care; Pediatrics
 📞 303-602-2273
 
 7. Obstetrics and Gynecology Clinic
@@ -54,7 +56,8 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 
 9. Outreach & Engagement Services
 2100 Stout St, Denver, CO, 80205-2827
-🏥 Services: Primary Care
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 303-312-2217
 🌐 https://www.coloradocoalition.org
 🗣 Languages: ASL
@@ -67,8 +70,11 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 
 11. Stout Street Recuperative Care Center & Legacy Lofts
 2175 California St, Denver, CO, 80205-2821
-🏥 Services: Primary Care
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 303-312-9559
+
+🌐 http://www.coloradocoalition.org
 
 12. Dermatology Clinic and Endocrinology Clinic
 660 N. Bannock St  STE 5135, Denver, CO, 80204-4506
@@ -116,8 +122,9 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 
 19. Uptown Community Health Center, Inc. Seton Women's Center
 1960 N Ogden St, Ste 340, Denver, CO, 80218-3669
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.uptowncommunityhealth.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Women's health
 📞 303-318-3830
 
 20. Eastside Family Health Center
@@ -164,8 +171,9 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 
 27. Beacon Place
 3636 W. COLFAX AVE, DENVER, CO, 80204-1513
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 https://www.coloradocoalition.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 303-629-1667
 🗣 Languages: ASL
 
@@ -182,8 +190,9 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 
 30. La Casa Quigg Newton Family Health Center
 4545 NAVAJO ST, DENVER, CO, 80211-2440
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 https://www.denverhealth.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 303-602-6700
 
 31. Primary Care Clinic at WellPower
@@ -225,8 +234,9 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 
 37. Sheridan Health Services-Urban Peak
 1630 S Acoma St  FL 1st, Denver, CO, 80223-3602
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 https://nursing.cuanschutz.edu/patient-care/sheridan-health-services
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 303-315-6199
 
 38. Park Hill Family Health Center
@@ -290,8 +300,9 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 
 48. Renaissance Xenia Village
 1420 XENIA, DENVER, CO, 80220-3548
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 https://www.coloradocoalition.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 303-355-9196
 
 49. Place Bridge Academy
@@ -314,8 +325,9 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 
 52. Renaissance at Lowry Boulevard
 550 ALTON WAY/7309 E. 7TH AVE, DENVER, CO, 80230-6144
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 https://www.coloradocoalition.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 303-340-3940
 
 53. STRIDE CHC  -  Oneida
@@ -660,8 +672,9 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 
 109. Salud Fort Collins Blue Spruce
 1635 Blue Spruce Dr, Fort Collins, CO, 80524-5427
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.saludclinic.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care; Migrant health center
 📞 303-697-2583
 
 110. Health Center at Academy, Suite 3300
@@ -672,7 +685,8 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 
 111. Developmental Disabilities Health Center
 3205 N. Academy Blvd.  STE 120, Colorado Springs, CO, 80917
-🏥 Services: Primary Care
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care; Mental health
 📞 719-632-5700
 
 112. Convenient Care Center
@@ -688,20 +702,23 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 
 114. Behavioral Health at Inside Out Youth Services
 516 W Colorado Ave, Colorado Springs, CO, 80905-1511
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.peakvista.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Mental health
 📞 719-632-5700
 
 115. Health Center at Union, Women's Health Center
 225 S Union Blvd, Colorado Springs, CO, 80910-3184
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.peakvista.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Women's health
 📞 719-344-6948
 
 116. Health Center at Wahsatch, Behavioral Health Center
 722 S Wahsatch Ave, Colorado Springs, CO, 80903-4035
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.peakvista.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Mental health
 📞 719-632-5700
 
 117. Enrollment Services
@@ -718,8 +735,9 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 
 119. Pediatric Health Center at International Circle
 2828 International Circle STE 140, Colorado Springs, CO, 80910-3190
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.peakvista.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Pediatrics; Dental
 📞 719-632-5700
 
 120. Downtown Health Center
@@ -1195,3 +1213,227 @@ CU Anschutz Health and Wellness Center, 12348 E. Montview Blvd, Aurora, CO 80045
 ⏰ Hours: Primary care Tuesdays 6:00 PM - 8:00 PM. Specialty clinics Monday-Wednesday 6:00 PM - 8:00 PM. Appointment only; a Tuesday walk-in may not be seen. Phone line Monday-Friday 8:30 AM - 5:00 PM.
 📞 (303) 800-9677
 
+201. University Of Colorado Hospital - Idgp
+1635 N Aurora Ct, Aurora, CO 80045-2541
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (720) 848-0191
+
+202. Vivent Health
+5250 Leetsdale Dr STE 300, Denver, CO 80246-1451
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (303) 393-8050
+
+203. Children'S Hospital Colorado HIV Program
+13123 E 16th Ave, Aurora, CO 80045-7106
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (720) 777-8233
+
+204. Colorado Health Network, Inc.
+6260 E Colfax Ave, Denver, CO 80220-1515
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (303) 837-1501
+
+205. Stride Chc- Peoria
+3292 N Peoria St, Aurora, CO 80010-1517
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (303) 360-6276
+
+206. Tepeyac Community Health Center
+2101 E 48th Ave, Denver, CO 80216-2253
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (303) 458-5302
+
+207. Porch Light Health - Colorado Springs
+1861 Austin Bluffs Pkwy, Colorado Springs, CO 80918-7868
+📝 HRSA Substance Use Disorder Facility, Office-based Opioid Treatment Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (866) 953-8320
+🌐 https://porchlighthealth.com/
+
+208. Porch Light Health - Lakewood R2R
+10 Vance Ct, Denver, CO 80226
+📝 HRSA Substance Use Disorder Facility, Office-based Opioid Treatment Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (303) 434-8484
+🌐 https://porchlighthealth.com/
+
+209. Every Child Pediatrics - Judith Edberg Kids Clinic at Crawford Elementary
+1600 Florence St, Aurora, CO 80010-2130
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Pediatrics; School-based health care for children and adolescents
+📞 (303) 326-2090
+🌐 http://everychildpediatrics.org
+
+210. Colorado Coalition for the Homeless - Housing First Broadway
+2100 N Broadway, Denver, CO 80205-2526
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (303) 293-2220
+🌐 http://www.coloradocoalition.org
+
+211. Colorado Coalition for the Homeless - Stout Street Health Center at St. Francis Center
+1001 Park Ave W, Denver, CO 80205-2605
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (303) 297-4093
+🌐 http://www.coloradocoalition.org
+
+212. Colorado Coalition for the Homeless - Stout Street Health Center at Samaritan House
+2301 Lawrence St, Denver, CO 80205-2126
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (303) 294-0241
+🌐 http://coloradocoalition.org
+
+213. Porch Light Health - Fort Collins
+1120 E Elizabeth St, Fort Collins, CO 80524-4044
+📝 HRSA Substance Use Disorder Facility, Office-based Opioid Treatment Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (970) 493-9193
+🌐 https://porchlighthealth.com/
+
+214. Colorado Coalition for the Homeless - Stout Street Health Center
+2130 Stout St, Denver, CO 80205-2827
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (303) 293-2220
+🌐 http://www.coloradocoalition.org/
+
+215. Addiction Research and Treatment Services, ARTS - Potomac Street Center
+750 Potomac St, Aurora, CO 80011-6700
+📝 HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (303) 283-5991
+🌐 http://www.artstreatment.com
+
+216. Colorado Coalition for the Homeless - West End Health Center
+5050 W Colfax Ave, Denver, CO 80204-1015
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (303) 312-9750
+🌐 http://coloradocoalition.org/
+
+217. Addiction Research and Treatment Services, ARTS - Synergy
+3680 W Princeton Cir, Denver, CO 80236-3109
+📝 HRSA Substance Use Disorder Facility, Office-based Opioid Treatment Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (303) 934-1008
+🌐 https://www.artstreatment.com/
+
+218. Colorado Coalition for the Homeless - Renaissance Uptown Lofts
+1509 N Pearl St, Denver, CO 80203-2173
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (303) 312-9838
+🌐 http://coloradocoalition.org
+
+219. Colorado Coalition for the Homeless - Turning Point Pearl Street
+1100 S Pearl St, Denver, CO 80210-1614
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (303) 778-8081
+🌐 http://coloradocoalition.org/
+
+220. Colorado Coalition for the Homeless - Renaissance Off Broadway Lofts
+2135 Stout St, Denver, CO 80205-2830
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (303) 295-8146
+🌐 http://coloradocoalition.org
+
+221. Crossroads' Turning Points, Inc. - Colorado Springs
+1026 Maxwell St, Colorado Springs, CO 80906-5554
+📝 HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (719) 544-3150
+🌐 http://www.crossroadstp.org
+
+222. Addiction Research and Treatment Services, ARTS - Specialized Outpatient Services
+1648 Gaylord St, Denver, CO 80206-1239
+📝 HRSA Substance Use Disorder Facility, Office-based Opioid Treatment Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (303) 336-1600
+🌐 http://www.artstreatment.com
+
+223. Every Child Pediatrics - Kids Clinic at Laredo Elementary
+1420 Laredo St, Aurora, CO 80011-5808
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Pediatrics; School-based health care for children and adolescents
+📞 (303) 326-1953
+🌐 http://www.everychildpediatrics.org
+
+224. Addiction Research and Treatment Services, ARTS - Parkside Clinic
+1620 Gaylord St, Denver, CO 80206-1207
+📝 HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (303) 336-1600
+🌐 https://www.artstreatment.com/
+
+225. Achieve Whole Recovery - Colorado Springs
+1115 Elkton Dr, Suite 300, Colorado Springs, CO 80907-3597
+📝 HRSA Substance Use Disorder Facility, Office-based Opioid Treatment Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (719) 373-9703
+🌐 http://achievewholerecovery.com
+
+226. Diversus Health - Ruskin
+220 Ruskin Dr, Colorado Springs, CO 80910-2522
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (719) 314-4307
+🌐 https://diversushealth.org/
+
+227. Achieve Whole Recovery - Denver
+1905 N Sherman St, Suite 900, Denver, CO 80203-1130
+📝 HRSA Substance Use Disorder Facility, Office-based Opioid Treatment Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (303) 749-5150
+🌐 http://achievewholerecovery.com
+
+228. Peak Vista Community Health Center - Homeless Health Center
+115 E Las Vegas St, Colorado Springs, CO 80903-4215
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (719) 632-5700
+🌐 https://www.peakvista.org/
+
+229. Colorado Coalition for the Homeless - Housing First Civic Center
+25E16thAvenue, Denver, CO 80202
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Migrant health center; Primary care
+📞 (303) 293-2217
+🌐 http://coloradocoalition.org
+
+230. Colorado Coalition for the Homeless - Turning Point Columbine Street
+1331 Columbine St, Denver, CO 80206-2369
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (303) 813-4300
+🌐 http://coloradocoalition.org/
+
+231. Every Child Pediatrics - Olympian Wellness Center
+1300 S Sable Blvd, Aurora, CO 80012-4698
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Pediatrics; School-based health care for children and adolescents
+📞 (303) 326-2088
+🌐 http://www.everychildpediatrics.org
+
+232. Turning Point Center Fort Collins Outpatient Services
+1644 S College Ave, Fort Collins, CO 80525-1007
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (970) 221-0999
+🌐 https://www.turningpnt.org/
+
+233. Adult Dental and OMFS Clinic
+660 Bannock St, Denver, CO 80204-4506
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Dental
+📞 (303) 436-4949
+🌐 https://www.denverhealth.org

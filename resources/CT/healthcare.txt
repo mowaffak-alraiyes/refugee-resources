@@ -10,33 +10,33 @@
 
 2. OPEN HEARTH
 437 Sheldon St, Hartford, CT, 06106-1939
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 https://www.thecharteroak.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 860-525-3447
 🗺 https://maps.google.com/?q=41.75832,-72.66616
 
 3. HOUSE OF BREAD
 27 Chestnut St, Hartford, CT, 06120-2810
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 https://www.thecharteroak.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 860-724-1061
 🗺 https://maps.google.com/?q=41.77336,-72.68082
 
 4. SOUTH PARK INN
 75 Main St, Hartford, CT, 06106-1806
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Public Housing Program. Source: data.hrsa.gov.
 🌐 https://www.thecharteroak.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Public housing primary care
 📞 860-724-0071
 🗺 https://maps.google.com/?q=41.75652,-72.67617
 
 5. YWCA OF THE HARTFORD REGION, INC
 135 Broad St, Hartford, CT, 06105-3701
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.thecharteroak.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Migrant health center
 📞 860-525-1163
 🗺 https://maps.google.com/?q=41.76751,-72.68658
 
@@ -50,17 +50,17 @@
 
 7. IMMACULATE CONCEPTION SHELTER
 574 Park St, Hartford, CT, 06106-4617
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 https://www.thecharteroak.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 860-724-4823
 🗺 https://maps.google.com/?q=41.75816,-72.68637
 
 8. COMMUNITY HEALTH SERVICES, INC.
 500 Albany Ave, Hartford, CT, 06120-2508
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.chshartford.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 860-249-9625
 🗺 https://maps.google.com/?q=41.77789,-72.68498
 
@@ -96,9 +96,9 @@
 
 13. CONNECTICUT PEDIATRICS  @ CHC
 76 NEW BRITAIN AVE, HARTFORD, CT, 06106-3305
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.chc1.com
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Pediatrics
 📞 860-547-0970
 🗺 https://maps.google.com/?q=41.74657,-72.68600
 
@@ -776,9 +776,9 @@
 
 106. KING ROBINSON SBHC
 150 FOURNIER ST, NEW HAVEN, CT, 06511-1763
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
 🌐 https://www.cornellscott.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; School-based health care for children and adolescents
 📞 203-691-2791
 🗺 https://maps.google.com/?q=41.33422,-72.93945
 
@@ -859,10 +859,12 @@
 
 117. Multicultural Ambulatory Addictions Services
 426 East St, New Haven, CT, 06511-5018
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Mental health
 📞 203-495-7710
 🗺 https://maps.google.com/?q=41.31055,-72.90991
+
+🌐 http://www.casaincct.org
 
 118. Mary R. Tisko Elementary School
 118 Damascus Rd, Branford, CT, 06405-3979
@@ -933,10 +935,12 @@
 
 127. CS-HHC at Augusta Lewis Troup School
 259 EDGEWOOD AVE, NEW HAVEN, CT, 06511-4106
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Primary Care; School-based health care for children and adolescents
 📞 203-691-3000
 🗺 https://maps.google.com/?q=41.31317,-72.94230
+
+🌐 https://augustalewistroupschool.weebly.com/
 
 128. John B. Sliney Elementary School
 23 Eades St, Branford, CT, 06405-3628
@@ -1284,10 +1288,12 @@
 
 175. Liberation Programs
 399 Mill Hill Ave, Bridgeport, CT, 06610-2865
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Mental health
 📞 203-384-9301
 🗺 https://maps.google.com/?q=41.19195,-73.16570
+
+🌐 http://liberationprograms.org
 
 176. Henry Abbott Technical High School
 21 Hayestown Ave, Danbury, CT, 06811-4819
@@ -1312,24 +1318,24 @@
 
 179. OPTIMUS Main Street Pediatrics
 3715 Main St, Bridgeport, CT, 06606-3618
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Pediatrics
 📞 203-371-7111
 🗺 https://maps.google.com/?q=41.21177,-73.21023
 
 180. PIVOT MINISTRIES
 495 Jane St, Bridgeport, CT, 06608-1707
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 https://www.swchc.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 203-336-9263
 🗺 https://maps.google.com/?q=41.19008,-73.17674
 
 181. CASA
 690 Arctic St, Bridgeport, CT, 06608-2008
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Substance Use Disorder Facility, Office-based Opioid Treatment Facility; Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 https://www.swchc.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Mental health; Health Care for the Homeless
 📞 203-339-4112
 🗺 https://maps.google.com/?q=41.18887,-73.17647
 
@@ -1380,9 +1386,9 @@
 
 188. OPTIMUS on Barnum Avenue
 471 Barnum Ave, Bridgeport, CT, 06608-2409
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.optimushealthcare.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 203-333-3030
 🗺 https://maps.google.com/?q=41.18725,-73.18019
 
@@ -1409,17 +1415,17 @@
 
 192. HARRISON APARTMENTS
 651 State St, Bridgeport, CT, 06604-4507
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 https://www.swchc.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 203-579-7612
 🗺 https://maps.google.com/?q=41.17396,-73.19720
 
 193. PROSPECT HOUSE
 392 Prospect St, Bridgeport, CT, 06604-4625
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 https://www.swchc.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 203-576-9041
 🗺 https://maps.google.com/?q=41.17200,-73.19604
 
@@ -1491,10 +1497,12 @@
 
 203. OPTIMUS at Kinsella
 1862 Commerce Dr, Bridgeport, CT, 06605-2230
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Mental health
 📞 203-696-3260
 🗺 https://maps.google.com/?q=41.16827,-73.21814
+
+🌐 http://www.recovery-programs.org
 
 204. OPERATION HOPE
 50 Nichols St., Fairfield, CT, 06824
@@ -1598,10 +1606,12 @@
 
 218. Family Centers Health Care at 986 Bedford
 986 Bedford St, Stamford, CT, 06905-5610
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Public Housing Program. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Mental health; Public housing primary care
 📞 203-324-3167
 🗺 https://maps.google.com/?q=41.06144,-73.53849
+
+🌐 http://www.familycenters.org
 
 219. CHC OF STAMFORD @ FIFTH STREET
 22 Fifth Street, Stamford, CT, 06905-5030
@@ -1719,3 +1729,274 @@ Yale Physicians Building, 800 Howard Ave, 1st Floor, New Haven, CT 06519
 📞 (203) 200-0673
 📧 haven.free.clinic@yale.edu
 
+235. University Of Connecticut Health Center/Ccmc
+385 Washington St, Hartford, CT 06106-3345
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (860) 545-9490
+
+236. Yale New Haven Hospital Inc
+20 York St, New Haven, CT 06510-3220
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (203) 464-6684
+
+237. Yale New Haven Hospital Infectious Disease Center
+200 Orchard St, New Haven, CT 06511-5363
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (203) 200-6899
+
+238. Aids Connecticut
+110 Bartholomew Ave STE 30, Hartford, CT 06106-2250
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (860) 247-2437
+
+239. Charter Oak Health Center
+21 Grand St, Hartford, CT 06106-1541
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (860) 550-7500
+
+240. Fair Haven Community Health Clinic Inc
+374 Grand Ave, New Haven, CT 06513-3733
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (203) 777-7411
+
+241. Fair Haven Community Health Clinic Inc
+50 Grand Ave, New Haven, CT 06513-3949
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (203) 777-7411
+
+242. Family Centers, Inc.
+888 Washington Blvd FL, Stamford, CT 06901-2924
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (203) 977-5296
+
+243. Hh - Community Care Center
+132 Jefferson St, Hartford, CT 06106-2404
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (860) 972-9300
+
+244. Saint Francis Hospital
+131 Coventry St, Hartford, CT 06112-1548
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (860) 714-2813
+
+245. Southwest Community Health Center
+46 Albion St, Bridgeport, CT 06605-2602
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (203) 330-6000
+
+246. Stamford Hospital
+292 Long Ridge Rd, Stamford, CT 06902-1627
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (203) 276-8582
+
+247. Staywell Health Care Inc.
+80 Phoenix Ave, Waterbury, CT 06702-1418
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (203) 756-8021
+
+248. Charter Oak Health Center, Inc. - MD Fox Manor
+461 Washington St, Hartford, CT 06106-3354
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (860) 278-5176
+🌐 http://www.thecharteroak.org
+
+249. StayWell Health Care - St. Vincent De Paul Society Waterbury
+114 Benedict St, Waterbury, CT 06706-1096
+📝 HRSA Federally Qualified Health Center (FQHC), Public Housing Program. Source: data.hrsa.gov.
+🏥 Services: Public housing primary care; Primary care
+📞 (203) 754-0000
+🌐 http://www.staywellhealth.org
+
+250. Southwest Community Health Center - Re-entry Ministries
+204 Hollister Ave, Bridgeport, CT 06607-1922
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (203) 368-4018
+🌐 http://www.swchc.org
+
+251. Optimus Health Care, Inc. - Stamford CHC Shelter
+597 Pacific St, Stamford, CT 06902-5814
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (203) 348-2792
+🌐 http://www.optimushealthcare.org
+
+252. Liberation Programs - Stamford
+15 Commerce Rd, Stamford, CT 06902-4549
+📝 HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (203) 391-7906
+🌐 http://liberationprograms.org
+
+253. Connecticut Mental Health Center - Substance Abuse Treatment Unit
+1 Long Wharf Dr, New Haven, CT 06511-5991
+📝 HRSA Substance Use Disorder Facility, Office-based Opioid Treatment Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (203) 974-5777
+🌐 http://www.ct.gov/dmhas/cwp/view.asp?a=2906&q=334652
+
+254. New Haven Schools - Hill Central Music Academy SBHC
+DeWitt St, New Haven, CT 06519
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (475) 220-1238
+🌐 https://www.newhavenmagnetschools.com/index.php/hill-central
+
+255. New Haven Schools - Brennan-Rogers SBHC
+200 Wilmot Rd, New Haven, CT 06515-1009
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (475) 220-1238
+🌐 https://brennanrogersmagnetschool.weebly.com/
+
+256. Southwest Communtiy Health Center - Helping Hand
+1124 Iranistan Ave, Bridgeport, CT 06605-1121
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (203) 336-4745
+🌐 http://www.swchc.org
+
+257. Charter Oak Health Center, Inc. - La Casa Elderly Housing
+180 Oak St, Hartford, CT 06106-1552
+📝 HRSA Federally Qualified Health Center (FQHC), Public Housing Program. Source: data.hrsa.gov.
+🏥 Services: Public housing primary care; Primary care
+📞 (860) 522-7296
+🌐 http://www.thecharteroak.org
+
+258. Family Reentry - New Haven
+50 Fitch St, New Haven, CT 06515-1366
+📝 HRSA Substance Use Disorder Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (857) 507-1679
+🌐 https://www.familyreentrycrj.org/
+
+259. Cornell Scott-Hill Health Center - State Street Health & Counseling Services
+911 State St, New Haven, CT 06511-3926
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (203) 503-3530
+🌐 http://www.hillhealthcenter.com
+
+260. Project Courage
+592 Kossuth St, Bridgeport, CT 06608-2204
+📝 HRSA Substance Use Disorder Facility, Office-based Opioid Treatment Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (203) 339-4777
+🌐 http://www.casaincct.org
+
+261. Charter Oak Health Center, Inc. - McKinney Shelter
+34 Huyshope Ave, Hartford, CT 06106-2815
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (860) 722-6922
+🌐 http://www.thecharteroak.org
+
+262. Jay Brothers Unified Resource Center - Recovery Network of Programs
+480 Bond St, Bridgeport, CT 06610-2272
+📝 HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (800) 764-0788
+🌐 http://www.recovery-programs.org
+
+263. Charter Oak Health Center - St. Elizabeth House-Mercy Housing
+118 Main St, Hartford, CT 06106-1817
+📝 HRSA Federally Qualified Health Center (FQHC), Public Housing Program. Source: data.hrsa.gov.
+🏥 Services: Public housing primary care; Primary care
+📞 (860) 560-4100
+
+264. Southwest Community Health Center - Brooks Street Shelter
+309 Brooks St, Bridgeport, CT 06608-1720
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (203) 367-5830
+🌐 http://www.swchc.org
+
+265. New Haven Schools - Barnard Env. Science & Technology School SBHC
+170 Derby Ave, New Haven, CT 06511-5177
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (475) 220-1238
+🌐 https://sites.google.com/nhps.net/barnard/home
+
+266. Root Center for Advanced Recovery - Henderson-Johnson Clinic
+18 Weston St, Hartford, CT 06120-1504
+📝 HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (860) 527-5100
+🌐 http://www.rootcenter.org
+
+267. Charter Oak Health Center - New Britain Avenue
+401 New Britain Ave, Hartford, CT 06106-3833
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (860) 241-0712
+🌐 http://www.thecharteroak.org
+
+268. Charter Oak Health Center, Inc. - San Juan Golden Age
+25 Belden St, Hartford, CT 06120-2760
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (860) 560-8365
+🌐 http://www.thecharteroak.org
+
+269. New Haven Schools- Lincoln-Bassett SBHC
+130 Bassett Street, New Haven, CT 06511
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (475) 220-8500
+🌐 http://www.lbcsnewhaven.com/
+
+270. Charter Oak Health Center, Inc. - Loaves and Fishes
+10 Woodland St, Hartford, CT 06105-2396
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (860) 524-1730
+🌐 http://www.thecharteroak.org
+
+271. New Haven Schools - Truman SBHC
+1 Truman St, New Haven, CT 06519-1907
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (475) 220-1238
+🌐 https://www.newhavenmagnetschools.com/index.php/truman
+
+272. Recovery Network of Programs, Inc. - Recovery Counseling Services
+1549 Fairfield Ave, Bridgeport, CT 06605-1935
+📝 HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (203) 366-5817
+🌐 http://recovery-programs.org
+
+273. Charter Oak Health Center - Underwood Apartments
+25 Laurel St, Hartford, CT 06106-1356
+📝 HRSA Federally Qualified Health Center (FQHC), Public Housing Program. Source: data.hrsa.gov.
+🏥 Services: Public housing primary care; Primary care
+📞 (860) 951-2267
+🌐 http://www.thecharteroak.org
+
+274. Root Center for Advanced Recovery - Main Street Hartford Dispensary
+345 Main St, Hartford, CT 06106-1824
+📝 HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (860) 643-3200
+🌐 http://www.rootcenter.org
+
+275. StayWell Health Center at Western CT Mental Health Network
+95 Thomaston Ave, Waterbury, CT 06702-1007
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (203) 805-5300

@@ -2,10 +2,12 @@
 
 1. CITY RESCUE MISSION
 800 W California Ave, Oklahoma City, OK, 73106-7807
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Migrant health center
 📞 405-769-3301
 🗺 https://maps.google.com/?q=35.46515,-97.52593
+
+🌐 http://www.chciokc.org
 
 2. WestTown
 1729 NW    3rd St, Oklahoma City, OK, 73106-2810
@@ -54,9 +56,9 @@
 
 8. Variety Care - Inasmuch Pediatric & Wellness Center
 500 SW 44th, Oklahoma City, OK, 73109-3540
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.varietycare.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Pediatrics
 📞 405-235-6466
 🗺 https://maps.google.com/?q=35.42043,-97.52193
 
@@ -84,8 +86,8 @@
 
 12. Variety Care Mobile Van #1
 1025 Straka Ter, Oklahoma City, OK, 73139-2544
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Women's health
 📞 405-632-6688
 🗺 https://maps.google.com/?q=35.38818,-97.53419
 
@@ -390,9 +392,9 @@
 
 53. Morton Comprehensive Health Center
 1334 N. LANSING, TULSA, OK, 74106-5907
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.mortonhealth.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Migrant health center
 📞 918-587-2171
 🗺 https://maps.google.com/?q=36.17451,-95.98158
 
@@ -727,3 +729,193 @@
 📞 870-347-2534
 🗺 https://maps.google.com/?q=35.28519,-93.15632
 
+98. Guiding Right Inc.
+1420 NE 23rd St, Oklahoma City, OK 73111-3004
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (405) 730-0771
+
+99. Oklahoma State University
+1111 W 17th St, Tulsa, OK 74107-1886
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (918) 382-5058
+
+100. Ou Health Physicians Infectious Disease Clinic
+711 Stanton L Young Blvd, Oklahoma City, OK 73104-5023
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (405) 271-6434
+
+101. Ou Health Physicians Pediatric Infectious Diseases
+1200 Childrens Ave, Oklahoma City, OK 73104-4637
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (405) 271-4211
+
+102. Dayspring Community Services of Oklahoma - McKinley Elementary School
+603 E King St, Tulsa, OK 74106-5232
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (888) 882-0857
+🌐 http://www.pfh.org/dayspring
+
+103. Family & Children's Services - Disney Elementary School
+11702 E 25th St, Tulsa, OK 74129-5630
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (918) 600-3623
+🌐 http://fcsok.org
+
+104. Dayspring Community Services of Oklahoma - Salk Elementary School
+7625 E 58th St, Tulsa, OK 74145-8600
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (918) 833-9500
+🌐 http://pfh.org
+
+105. Dayspring Community Services of Oklahoma - Marshall Elementary School
+1142 E 56th St, Tulsa, OK 74105-6829
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (888) 882-0859
+🌐 http://www.pfh.org
+
+106. Family & Children's Services - McClure Elementary School
+1770 E 61st St, Tulsa, OK 74136-0813
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (918) 600-3623
+🌐 http://fcsok.org
+
+107. Dayspring Community Services of Oklahoma - Tulsa Honor Academy Middle School - Lakewood Campus
+209 S Lakewood Ave, Tulsa, OK 74112-1714
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (918) 833-9420
+🌐 http://pfh.org
+
+108. Tulsa Clinic - Skyline I
+6111 E Skelly Dr, Tulsa, OK 74135-6100
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (844) 458-2100
+🌐 http://www.grandmh.com
+
+109. Dayspring Community Services of Oklahoma - Anderson Elementary School
+1921 E 29th St N, Tulsa, OK 74110-1728
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (888) 882-0859
+🌐 http://www.pfh.org/dayspring
+
+110. Dayspring Community Services of Oklahoma - Clinton West
+2224 W 41st St, Tulsa, OK 74107-6706
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (888) 882-0860
+🌐 http://www.pfh.org
+
+111. Red Rock Behavioral Health Services –  Oklahoma City MAT Clinic
+4300 N Lincoln Blvd, Oklahoma City, OK 73105-5107
+📝 HRSA Substance Use Disorder Facility, Office-based Opioid Treatment Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (405) 425-7711
+🌐 http://www.red-rock.com
+
+112. Dayspring Community Services of Oklahoma - Felicitas Mendez
+2703 N Yorktown Pl, Tulsa, OK 74110-1740
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (918) 925-1400
+🌐 http://pfh.org
+
+113. Dayspring Community Services of Oklahoma - Lewis and Clark Elementary School
+737 S Garnett Rd, Tulsa, OK 74128-1817
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (918) 746-9540
+🌐 http://pfh.org
+
+114. Dayspring Community Services of Oklahoma - Nathan Hale High School
+6920 E 21st St, Tulsa, OK 74129-1205
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (918) 925-1200
+🌐 http://pfh.org
+
+115. Dayspring Community Services of Oklahoma - Celia Clinton Elementary School
+1740 N Harvard Ave, Tulsa, OK 74115-4911
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (918) 746-9320
+🌐 http://pfh.org
+
+116. Dayspring Community Services of Oklahoma - Tulsa Honor Academy High School - Flores Campus
+1421 S Sheridan Rd, Tulsa, OK 74112-6600
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (918) 438-7204
+🌐 http://pfh.org
+
+117. Dayspring Community Services of Oklahoma - Will Rogers Middle and High School
+3909 E 5th Pl, Tulsa, OK 74112-3903
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (888) 882-0859
+🌐 http://www.pfh.org
+
+118. Dayspring Community Services of Oklahoma - Hoover Elementary School
+2327 S Darlington Ave, Tulsa, OK 74114-3700
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (918) 746-9120
+🌐 http://pfh.org
+
+119. The Center For Therapeutic Interventions
+7477 E 46th Pl, Tulsa, OK 74145-6305
+📝 HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (918) 384-0002
+🌐 http://www.ctioklahoma.org
+
+120. Dayspring Community Services of Oklahoma - Monroe Demonstration Academy
+2010 E 48th St N, Tulsa, OK 74130-1928
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (888) 882-0858
+🌐 http://www.pfh.org/dayspring
+
+121. Dayspring Community Services of Oklahoma - Champions at Cooper Elementary School
+1808 S 123rd East Ave, Tulsa, OK 74128-6606
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (918) 230-8047
+🌐 http://pfh.org
+
+122. Dayspring Community Services of Oklahoma - Hale Jr. High School
+21 S 6th East Ave, Tulsa, OK 74129
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (888) 882-0859
+🌐 http://www.pfh.org/dayspring
+
+123. Dayspring Community Services of Oklahoma - Eugene Fields Elementary
+2249 S Phoenix Ave, Tulsa, OK 74107-2830
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (888) 882-0859
+🌐 http://www.pfh.org/dayspring
+
+124. CHCI - Salvation Army Family Shelter
+516 S Hudson Ave, Oklahoma City, OK 73109-5336
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (405) 272-4076
+🌐 http://www.chciokc.org/
+
+125. Variety Care Women and Children Norman
+1237 Alameda St, Norman, OK 73071-3006
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Women's health
+📞 (405) 632-6688

@@ -99,9 +99,9 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 
 14. Swope Health - Tenney Pediatrics
 6501 E 87th St, Kansas City, MO, 64138-2732
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.swopehealth.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Pediatrics
 📞 816-923-5800
 🗺 https://maps.google.com/?q=38.96677,-94.51313
 
@@ -818,9 +818,9 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 
 111. Affinia Healthcare at The St. Louis Dental Center
 1500 Park Ave, Saint Louis, MO, 63104-3024
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.affiniahealthcare.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Dental
 📞 314-898-1700
 🗺 https://maps.google.com/?q=38.61557,-90.20895
 
@@ -1234,3 +1234,773 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 📞 417-255-8464
 🗺 https://maps.google.com/?q=36.74503,-91.86960
 
+166. Washington University Infectious Diseases Clinic
+620 S Taylor Ave, Saint Louis, MO 63110-1035
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (314) 747-1206
+
+167. Aids Project Of The Ozarks
+1636 S Glenstone Ave STE 1, Springfield, MO 65804-1506
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (417) 881-1900
+
+168. Kansas City Health Department
+2400 Troost Ave, Ste 1200, Kansas City, MO 64108-2875
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (816) 513-6221
+
+169. Kc Care - Midtown North
+3501 Broadway Blvd, Kansas City, MO 64111-2501
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (816) 753-5144
+
+170. Kc Care Health Center-Midtown
+3515 Broadway Blvd, Kansas City, MO 64111-2501
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (816) 753-8144
+
+171. Kc Care Health Center-Northeast
+4601 Independence Ave, Kansas City, MO 64124-2927
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (816) 753-5144
+
+172. Kc Care Health Center-Research
+2340 E Meyer Blvd APT 1, Kansas City, MO 64132-1105
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (816) 753-5144
+
+173. Lackland Acquisition Ii Llc, Dba Healthcare Strategic Initiative
+1836 Lackland Hill Pkwy, Saint Louis, MO 63146-3572
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (877) 541-6822
+
+174. Project Ark
+4169 Laclede Ave, Saint Louis, MO 63108-2812
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (314) 535-7275
+
+175. Saint Louis University
+1225 S Grand Blvd, Saint Louis, MO 63104-1016
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (314) 977-9050
+
+176. St. Louis Children?S Hospital
+1 Childrens Pl, Saint Louis, MO 63110-1002
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (314) 454-4145
+
+177. Truman Medical Center
+2301 Holmes St, Kansas City, MO 64108-2640
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (816) 404-6150
+
+178. ReDiscover - Bannister TOP
+5904 E Bannister Rd, Kansas City, MO 64134-1141
+📝 HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (816) 299-4791
+🌐 https://www.rediscovermh.org
+
+179. Burrell Behavioral Health - Glendale High School SBHC
+S Ingram Mill Rd, Springfield, MO 65804
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (417) 761-5289
+🌐 http://www.burrell.com
+
+180. Burrell Behavioral Health - Delaware Elementary School SBHC
+1505 S Delaware Ave, Springfield, MO 65804-1290
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (417) 761-5289
+🌐 http://www.burrell.com
+
+181. Burrell Behavioral Health - Truman Elementary School SBHC
+3850 N Farm Road 159, Springfield, MO 65803-8133
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (417) 761-5289
+🌐 http://www.burrell.com
+
+182. Compass Health Network - Jefferson City West Elementary SBHC
+100 Dix Rd, Jefferson City, MO 65109-0988
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (844) 853-8937
+🌐 http://compasshealthnetwork.org
+
+183. Burrell Behavioral Health - Willard Orchard Hills Elementary School SBHC
+4595 W Farm Road 140, Springfield, MO 65802-5644
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (417) 761-5000
+🌐 http://burrellcenter.com
+
+184. Compass Health Network - Jefferson City High School SBHC
+609 Union St, Jefferson City, MO 65101-2898
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (844) 853-8937
+🌐 http://compasshealthnetwork.org
+
+185. Compass Health Network - Jefferson City Cedar Hill Elementary SBHC
+1510 Vieth Dr, Jefferson City, MO 65109-1986
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (844) 853-8937
+🌐 http://compasshealthnetwork.org
+
+186. Compass Health Network - Jefferson City Capital City High School SBHC
+1650 Cavalier Dr, Jefferson City, MO 65109-2537
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (844) 853-8937
+🌐 http://compasshealthnetwork.org
+
+187. Burrell Behavioral Health - Wilder Elementary School SBHC
+2526 S Hillsboro Ave, Springfield, MO 65804-4132
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (417) 761-5289
+🌐 http://www.burrell.com
+
+188. Compass Health Network - Jefferson City Moreau Heights Elementary SBHC
+1410 Hough Park St, Jefferson City, MO 65101-3628
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (844) 853-8937
+🌐 http://compasshealthnetwork.org
+
+189. Burrell Behavioral Health - Jarrett Middle School SBHC
+840 S Jefferson Ave, Springfield, MO 65806-3295
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (417) 761-5289
+🌐 http://www.burrell.com
+
+190. Burrell Behavioral Health - Hickory Hills K-8 School SBHC
+4650 E State Highway Yy, Springfield, MO 65802-7301
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (417) 761-5289
+🌐 http://www.burrell.com
+
+191. Burrell Behavioral Health - Derby Ridge Elementary School
+4000 Derby Ridge Dr, Columbia, MO 65202-4506
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (573) 214-3270
+🌐 http://www.burrellcenter.com
+
+192. Burrell Behavioral Health - Eugene Field Elementary School SBHC
+2120 E Barataria St, Springfield, MO 65804-3899
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (417) 761-5289
+🌐 http://www.burrell.com
+
+193. Burrell Behavioral Health - Walt Disney Elementary School SBHC
+4100 S Fremont Ave, Springfield, MO 65804-6599
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (417) 761-5289
+🌐 http://www.burrell.com
+
+194. Burrell Behavioral Health - Fremont Elementary School SBHC
+2814 N Fremont Ave, Springfield, MO 65803-4399
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (417) 761-5289
+🌐 http://www.burrell.com
+
+195. Burrell Behavioral Health - Sherwood Elementary School SBHC
+2524 S Golden Ave, Springfield, MO 65807-3207
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (417) 761-5289
+🌐 http://www.burrell.com
+
+196. Burrell Behavioral Health - Thomas Jefferson Middle School SBHC
+Fairgrounds Rd, Jefferson City, MO 65109-0421
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (573) 659-3250
+🌐 http://burrellcenter.com
+
+197. Burrell Behavioral Health - McBride Elementary School SBHC
+5005 S Farm Rd 135, Springfield, MO 65810-1901
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (417) 761-5289
+🌐 http://www.burrell.com
+
+198. Burrell Behavioral Health - Sequiota Elementary School SBHC
+3414 S Mentor Ave, Springfield, MO 65804-4899
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (417) 761-5289
+🌐 http://www.burrell.com
+
+199. Burrell Behavioral Health - Willard Central Elementary School SBHC
+2625 N Farm Road 101, Springfield, MO 65802-6457
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (417) 761-5000
+🌐 http://burrellcenter.com
+
+200. Burrell Behavioral Health - Bowerman Elementary School SBHC
+2148 N Douglas Ave, Springfield, MO 65803-1498
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (417) 893-7981
+🌐 http://burrellcenter.com
+
+201. Compass Health Network - Jefferson City Lawson Elementary SBHC
+1105 Fairgrounds Rd, Jefferson City, MO 65109-6452
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (844) 853-8937
+🌐 http://compasshealthnetwork.org
+
+202. Burrell Behavioral Health - Springfield - Kearney
+630 W Kearney St, Springfield, MO 65803-2508
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (417) 761-5300
+🌐 http://burrellcenter.com
+
+203. Burrell Behavioral Health - Jefferies Elementary School SBHC
+4051 S Scenic Ave, Springfield, MO 65807-3994
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (417) 761-5289
+🌐 http://www.burrell.com
+
+204. Burrell Behavioral Health - Horace Mann Elementary School SBHC
+345 S Broadway Ave, Springfield, MO 65806
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (417) 761-5289
+🌐 http://www.burrell.com
+
+205. Burrell Behavioral Health - Willard South Elementary School SBHC
+4151 W Division St, Springfield, MO 65802-1087
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (417) 761-5000
+🌐 http://burrellcenter.com
+
+206. Burrell Behavioral Health - Hillcrest High School SBHC
+3319 N Grant Ave, Springfield, MO 65803-1097
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (417) 761-5289
+🌐 http://www.burrell.com
+
+207. Burrell Behavioral Health - Cherokee Middle School SBHC
+420 E Farm Road 182, Springfield, MO 65810-2699
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (417) 893-7981
+🌐 http://burrellcenter.com
+
+208. Burrell Behavioral Health - Adah Fulbright Early Childhood Center SBHC
+333 W Battlefield St, Springfield, MO 65807-4906
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (417) 893-7981
+🌐 https://www.burrellcenter.com/
+
+209. Burrell Behavioral Health - Oakland Middle School SBHC
+3405 Oakland Pl, Columbia, MO 65202-2097
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (573) 214-3220
+🌐 http://burrellcenter.com
+
+210. Burrell Behavioral Health - Springfield - Glenstone
+1111 S Glenstone Ave, Springfield, MO 65804-0318
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (417) 761-5760
+🌐 http://burrellcenter.com
+
+211. Burrell Behavioral Health - Mark Twain Elementary School SBHC
+2352 S Weaver Ave, Springfield, MO 65807-2599
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (417) 761-5289
+🌐 http://www.burrell.com
+
+212. Preferred Family Healthcare - Springfield (Carol Jones)
+2411 W Catalpa St, Springfield, MO 65807-1123
+📝 HRSA Substance Use Disorder Facility, Office-based Opioid Treatment Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (417) 862-3455
+🌐 http://www.pfh.org
+
+213. Burrell Behavioral Health - Central High School SBHC
+423 E Central St, Springfield, MO 65802-3723
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (417) 893-7981
+🌐 http://burrellcenter.com
+
+214. Compass Health Network - Blair Oaks Intermediate School SBHC
+Falcon Ln, Jefferson City, MO 65101
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (844) 853-8937
+🌐 http://compasshealthnetwork.org
+
+215. ReDiscover - Transitions
+1000 E 24th St, Kansas City, MO 64108-2776
+📝 HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (816) 965-1150
+🌐 https://www.rediscovermh.org
+
+216. Compass Health Network - Jefferson City Thorpe Gordon Elementary SBHC
+1101 Jackson St, Jefferson City, MO 65101-3495
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (844) 853-8937
+🌐 http://compasshealthnetwork.org
+
+217. CareSTL Health - Riverview Gardens High School SBHC
+1218 Shepley Dr, Saint Louis, MO 63137-3597
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (314) 367-5820
+🌐 http://www.mhdchc.org
+
+218. Burrell Behavioral Health - Willard Intermediate South School SBHC
+630 S Miller Rd, Springfield, MO 65802-6036
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (417) 761-5000
+🌐 http://burrellcenter.com
+
+219. Compass Health Network - Jefferson City Pioneer Trail Elementary SBHC
+301 Pioneer Trail Dr, Jefferson City, MO 65109-1508
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (844) 853-8937
+🌐 http://compasshealthnetwork.org
+
+220. Burrell Behavioral Health - Roundtree Elementary School SBHC
+1333 E Grand St, Springfield, MO 65804-0199
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (417) 761-5289
+🌐 http://www.burrell.com
+
+221. Burrell Behavioral Health - Pleasant View K-8 School SBHC
+2210 E State Highway Aa, Springfield, MO 65803-8655
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (417) 761-5289
+🌐 http://www.burrell.com
+
+222. Preferred Family Healthcare - Chippewa
+7020 Chippewa St, Saint Louis, MO 63119-5602
+📝 HRSA Substance Use Disorder Facility, Office-based Opioid Treatment Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (660) 665-1962
+🌐 http://www.pfh.org
+
+223. Affinia Healthcare - Harris House
+832 S Broadway, Saint Louis, MO 63102-1604
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (314) 898-1700
+🌐 http://affiniahealthcare.org/
+
+224. Burrell Behavioral Health - Sunshine Elementary School SBHC
+421 E Sunshine St, Springfield, MO 65807-2642
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (417) 761-5289
+🌐 http://www.burrell.com
+
+225. Burrell Behavioral Health - Study Alternative Center SBHC
+2343 W Olive St, Springfield, MO 65802-4553
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (417) 761-5289
+🌐 http://www.burrell.com
+
+226. Burrell Behavioral Health - Reed Academy SBHC
+2000 N Lyon Ave, Springfield, MO 65803-2690
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (417) 761-5289
+🌐 http://www.burrell.com
+
+227. Burrell Behavioral Health - Weller Elementary School SBHC
+1630 N Weller Ave, Springfield, MO 65803-3897
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (417) 761-5289
+🌐 http://www.burrell.com
+
+228. Preferred Family Healthcare - Jefferson City - Adult
+101 Adams St, Jefferson City, MO 65101-3058
+📝 HRSA Substance Use Disorder Facility, Office-based Opioid Treatment Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (573) 556-6589
+🌐 http://www.pfh.org
+
+229. CareSTL Health - Fairview School SBHC
+7047 Emma Ave, Saint Louis, MO 63136-1099
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (314) 367-5820
+🌐 http://www.mhdchc.org
+
+230. Compass Health Network - Jefferson City South Elementary School SBHC
+707 Linden Dr, Jefferson City, MO 65109-2742
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (844) 853-8937
+🌐 http://compasshealthnetwork.org
+
+231. Preferred Family Healthcare - Kansas City Blue Parkway
+8333 Blue Parkway Dr, Kansas City, MO 64133-4750
+📝 HRSA Substance Use Disorder Facility, Office-based Opioid Treatment Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (816) 474-7677
+🌐 http://www.pfh.org
+
+232. Heartland Center for Behavioral Change - Springfield
+1420 S Enterprise Ave, Springfield, MO 65804-1738
+📝 HRSA Substance Use Disorder Facility, Office-based Opioid Treatment Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (816) 377-5561
+🌐 http://heartlandcbc.org
+
+233. Burrell Behavioral Health - Bingham Elementary School SBHC
+2126 E Cherry St, Springfield, MO 65802-2900
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (417) 893-7981
+🌐 https://www.burrellcenter.com/
+
+234. Compass Health Network - Jefferson City East Elementary SBHC
+1229 E McCarty St, Jefferson City, MO 65101-4855
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (844) 853-8937
+🌐 http://compasshealthnetwork.org
+
+235. Burrell Behavioral Health - Harrison Elementary School SBHC
+3055 W Kildee Ln, Springfield, MO 65810-1166
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (417) 761-5289
+🌐 http://www.burrell.com
+
+236. Burrell Behavioral Health - Arthur Mallory Early Childhood Center SBHC
+2525 W College Rd, Springfield, MO 65802-4571
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (417) 893-7981
+🌐 https://www.burrellcenter.com/
+
+237. Burrell Behavioral Health - McGregor Elementary School SBHC
+1221 W Madison St, Springfield, MO 65806-2799
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (417) 761-5289
+🌐 http://www.burrell.com
+
+238. Burrell Behavioral Health - Lange Middle School SBHC
+2201 Smiley Ln, Columbia, MO 65202-1692
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (573) 214-3250
+🌐 http://burrellcenter.com
+
+239. Burrell Behavioral Health - Ozarks Technical College SBHC
+1001 E Chestnut Expy, Springfield, MO 65802-3625
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (417) 893-7981
+🌐 https://www.burrellcenter.com/
+
+240. Compass Health Network - Jefferson City Lewis and Clark Middle School SBHC
+325 Lewis And Clark Dr, Jefferson City, MO 65101-5586
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents; Mental health
+📞 (660) 890-8168
+🌐 http://www.compasshealthnetwork.org
+
+241. Burrell Behavioral Health - Watkins Elementary School SBHC
+732 W Talmage St, Springfield, MO 65803-1198
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (417) 761-5289
+🌐 http://www.burrell.com
+
+242. Burrell Behavioral Health - Bissett Elementary School SBHC
+3014 W Calhoun St, Springfield, MO 65802-1194
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (417) 893-7981
+🌐 http://burrellcenter.com
+
+243. Burrell Behavioral Health - Weaver Elementary School SBHC
+1461 N Douglas Ave, Springfield, MO 65802-1779
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (417) 761-5289
+🌐 http://www.burrell.com
+
+244. Compass Health Network - Jefferson City Thomas Jefferson Middle School SBHC
+1201 Fairgrounds Rd, Jefferson City, MO 65109-5445
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (660) 890-8168
+🌐 http://www.compasshealthnetwork.org
+
+245. Preferred Family Healthcare - Delmar
+4928 Delmar Blvd, Saint Louis, MO 63108-1615
+📝 HRSA Substance Use Disorder Facility, Office-based Opioid Treatment Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (314) 899-0846
+🌐 http://www.pfh.org
+
+246. Burrell Behavioral Health - Parkview High School SBHC
+W Meadowmere St, Springfield, MO 65807
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (417) 761-5289
+🌐 http://www.burrell.com
+
+247. Burrell Behavioral Health - Springfield - Bradford - Building A
+1300 E Bradford Pkwy, Springfield, MO 65804-4294
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (417) 516-4862
+🌐 http://burrellcenter.com
+
+248. Burrell Behavioral Health - Pittman Elementary School SBHC
+2934 E Bennett St, Springfield, MO 65804-1998
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (417) 761-5289
+🌐 http://www.burrell.com
+
+249. Heartland Center for Behavioral Change - Prospect Outpatient
+1730 Prospect Ave, Kansas City, MO 64127-2573
+📝 HRSA Substance Use Disorder Facility, Office-based Opioid Treatment Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (816) 377-5561
+🌐 http://heartlandcbc.org
+
+250. Burrell Behavioral Health - Pipkin Middle School SBHC
+1215 N Boonville Ave, Springfield, MO 65802-1898
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (417) 761-5289
+🌐 http://www.burrell.com
+
+251. Heartland Center for Behavioral Change
+1534 Campbell St, Kansas City, MO 64108-1520
+📝 HRSA Substance Use Disorder Facility, Office-based Opioid Treatment Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (816) 377-5561
+🌐 https://www.heartlandcbc.org/kc-outpatient
+
+252. Burrell Behavioral Health - Battle High School SBHC
+55 Saint Charles Rd, Columbia, MO 65201
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (417) 761-5289
+🌐 http://www.burrell.com
+
+253. Burrell Behavioral Health - Williams Elementary School SBHC
+2205 W Kearney St, Springfield, MO 65803-2028
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (417) 761-5289
+🌐 http://www.burrell.com
+
+254. Compass Health Network - Jefferson City Belair Elementary SBHC
+701 Belair Dr, Jefferson City, MO 65109-0780
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (844) 853-8937
+🌐 https://www.compasshealthnetwork.org
+
+255. Burrell Behavioral Health - Drury University SBHC
+900 N Benton Ave, Springfield, MO 65802-3791
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (417) 893-7981
+🌐 https://www.burrellcenter.com/
+
+256. Affinia Healthcare - Grace and Peace Church Homeless Clinic
+5574 Delmar Blvd, Saint Louis, MO 63112-3006
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (314) 367-8959
+🌐 http://affiniahealthcare.org/
+
+257. Burrell Behavioral Health - Cowden Elementary School SBHC
+292 S Kimbrough Ave, Springfield, MO 65806-2426
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (417) 893-7981
+🌐 http://burrellcenter.com
+
+258. CoxHealth - Center for Recovery
+1423 N Jefferson Ave, Springfield, MO 65802-1988
+📝 HRSA Substance Use Disorder Facility, Office-based Opioid Treatment Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (417) 269-2273
+🌐 http://www.coxhealth.com
+
+259. Burrell Behavioral Health - Boyd Elementary School SBHC
+1409 N Washington Ave, Springfield, MO 65802-1987
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (417) 893-7981
+🌐 http://burrellcenter.com
+
+260. Burrell Behavioral Health - Stephen's College SBHC
+1200 E Broadway, Columbia, MO 65201-4979
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (417) 761-5289
+🌐 http://www.burrell.com
+
+261. Burrell Behavioral Health - Pershing K-8 School SBHC
+2120 S Ventura Ave, Springfield, MO 65804-2799
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (417) 761-5289
+🌐 http://www.burrell.com
+
+262. Burrell Behavioral Health - Gray Elementary School SBHC
+2101 W Plainview Rd, Springfield, MO 65810
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (417) 761-5289
+🌐 http://www.burrell.com
+
+263. BJC Behavioral Health - St. Louis
+3309 S Kingshighway Blvd, Saint Louis, MO 63139-1101
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (314) 206-3700
+🌐 http://www.bjcbehavioralhealth.org
+
+264. CareSTL Health - Hazelwood East High School SBHC
+11300 Dunn Rd, Saint Louis, MO 63138-1098
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (314) 367-5820
+🌐 http://www.mhdchc.org
+
+265. Burrell Behavioral Health - Westport K-8 School SBHC
+415 S Golden Ave, Springfield, MO 65802-4799
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (417) 761-5289
+🌐 http://www.burrell.com
+
+266. Burrell Behavioral Health - Alpha Hart Elementary SBHC
+5801 Arbor Pointe Pkwy, Columbia, MO 65202-0090
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (573) 214-3200
+🌐 http://www.burrellcenter.com
+
+267. Burrell Behavioral Health - West Middle School SBHC
+401 Clinkscales Rd, Columbia, MO 65203-1123
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (573) 214-3230
+🌐 http://burrellcenter.com
+
+268. Burrell Behavioral Health - Robberson Community School SBHC
+1100 E Kearney St, Springfield, MO 65803-3497
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (417) 761-5289
+🌐 http://www.burrell.com
+
+269. Burrell Behavioral Health - Kickapoo High School SBHC
+310 S Jefferson Ave, Springfield, MO 65806-2203
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (417) 761-5289
+🌐 http://www.burrell.com
+
+270. Burrell Behavioral Health - Carver Middle School SBHC
+3325 W Battlefield St, Springfield, MO 65807-3872
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (417) 893-7981
+🌐 http://burrellcenter.com
+
+271. Preferred Family Healthcare - Jefferson City Adolescent
+210 Hoover Rd, Jefferson City, MO 65109-0800
+📝 HRSA Substance Use Disorder Facility, Office-based Opioid Treatment Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (573) 632-4321
+🌐 http://www.pfh.org
+
+272. Preferred Family Healthcare - Raytown Middle School SBHC
+4900 Pittman Rd, Kansas City, MO 64133-2259
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (816) 268-7360
+🌐 http://www.pfh.org
+
+273. Burrell Behavioral Health - York Elementary SBHC
+2100 W Nichols St, Springfield, MO 65802-4295
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (417) 761-5289
+🌐 https://www.burrellcenter.com/
+
+274. Burrell Behavioral Health - Holland Elementary School SBHC
+2403 S Holland Ave, Springfield, MO 65807-2992
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (417) 761-5289
+🌐 http://www.burrell.com
+
+275. Burrell Behavioral Health - Shady Dell Early Childhood Center SBHC
+E Division St, Springfield, MO 65803
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (417) 761-5289
+🌐 http://www.burrell.com
+
+276. Mobile Dental Unit #2
+Dr Martin Luther King Junior Blvd, Kansas City, MO 64129-1993
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Dental; Pediatrics
+📞 (816) 923-5800
+🌐 https://www.swopehealth.org
+
+277. Samuel U. Rodgers Health Center J.A. Rogers Family Dental
+6400 E 23rd St, Kansas City, MO 64129-1103
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Dental
+📞 (816) 418-3670

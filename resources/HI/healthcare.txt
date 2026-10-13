@@ -2,9 +2,9 @@
 
 1. KPHC DOWNTOWN
 89 S King St, Honolulu, HI, 96813-4315
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.kphc.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Migrant health center
 📞 808-792-5566
 🗺 https://maps.google.com/?q=21.30931,-157.86237
 
@@ -49,17 +49,17 @@
 
 7. BEHAVIORAL HEALTH/MEDICAL/HEALTH EDUCATION/ADMINISTRATION
 952 N King St, Honolulu, HI, 96817-4556
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.kphc.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Mental health
 📞 808-841-7981
 🗺 https://maps.google.com/?q=21.32363,-157.86795
 
 8. KOHOU CLINIC
 904 KOHOU ST, HONOLULU, HI, 96817-4420
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 https://www.kphc.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 808-791-6370
 🗺 https://maps.google.com/?q=21.32483,-157.87091
 
@@ -81,26 +81,28 @@
 
 11. KUHIO PARK TERRACE PUB. HOUSING
 1475 Linapuni St BLDG A, Honolulu, HI, 96819-3569
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.kkv.net
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Migrant health center
 📞 808-845-3130
 🗺 https://maps.google.com/?q=21.33821,-157.87745
 
 12. KKV Wellness Center
 2229 N School St, Honolulu, HI, 96819-2588
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.kkv.net
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Migrant health center
 📞 808-791-9400
 🗺 https://maps.google.com/?q=21.34031,-157.87442
 
 13. KKV Mobile Clinic 1
 2239 N School St, Honolulu, HI, 96819-2539
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Migrant health center
 📞 808-791-9400
 🗺 https://maps.google.com/?q=21.34068,-157.87453
+
+🌐 http://www.kkv.net
 
 14. HAUIKI HOMES PUBLIC HOUSING
 1574 MEYERS ST, HONOLULU, HI, 96819-2513
@@ -453,8 +455,8 @@
 
 60. Hilo Pediatrics
 450 Kilauea Ave  STE 103, Hilo, HI, 96720-3089
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Pediatrics
 📞 808-333-3600
 🗺 https://maps.google.com/?q=19.71927,-155.08234
 
@@ -467,8 +469,8 @@
 
 62. Hilo Family Dental Center
 1257 Kilauea Ave STE 100, Hilo, HI, 96720-4205
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Dental
 📞 808-333-3600
 🗺 https://maps.google.com/?q=19.71080,-155.07584
 
@@ -493,3 +495,64 @@
 📞 808-326-5629
 🗺 https://maps.google.com/?q=19.52557,-154.92660
 
+66. Waikiki Health - Ohua Clinic
+277 Ohua Ave, Honolulu, HI 96815-6612
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program; Migrant health center
+📞 (808) 524-2575
+🌐 https://www.waikikihc.org
+
+67. Clint Spencer Clinic
+651 Ilalo St, Honolulu, HI 96813-5525
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (808) 692-1310
+
+68. East Hawaii Health Clinic at 1190 Waianuenue
+1190 Waianuenue Ave, Hilo, HI 96720-2094
+📝 HRSA CMS Certified Rural Health Clinic (RHC), Provider-based. Source: data.hrsa.gov.
+🏥 Services: Rural health clinic; Primary care
+📞 (808) 932-3730
+🌐 http://www.easthawaiihealthclinics.org
+
+69. Waikiki Health - Youth Outreach
+415 Keoniana St, Honolulu, HI 96815-2018
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (808) 537-8438
+🌐 https://waikikihc.org/
+
+70. Kokua Kalihi Valley Comprehensive Family Services - Gulick Elder Center
+1846 Gulick Ave, Honolulu, HI 96819-4212
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (808) 791-9410
+🌐 http://www.kkv.net
+
+71. West Hawaii Community Health Center - Hilo Family Health Center
+1178 Kinoole St, Hilo, HI 96720-4133
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (808) 333-3600
+🌐 http://www.hicommunityhealthcenter.org
+
+72. East Hawaii Health Primary Care
+45 Mohouli St, Hilo, HI 96720-7210
+📝 HRSA CMS Certified Rural Health Clinic (RHC), Provider-based. Source: data.hrsa.gov.
+🏥 Services: Rural health clinic; Primary care
+📞 (808) 932-4215
+🌐 https://www.easthawaiihealthclinics.org/east-hawaii-health-primary-care/
+
+73. East Hawaii Health Clinic at 1285 Waianuenue
+1285 Waianuenue Ave, Hilo, HI 96720-1209
+📝 HRSA CMS Certified Rural Health Clinic (RHC), Provider-based. Source: data.hrsa.gov.
+🏥 Services: Rural health clinic; Primary care
+📞 (808) 932-3940
+🌐 http://www.easthawaiihealth.com
+
+74. Kalihi-Palama Health Center - Parent Site
+915 N King St, Honolulu, HI 96817-4544
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (808) 848-1438
+🌐 http://www.kphc.org

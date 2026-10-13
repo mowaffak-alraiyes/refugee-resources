@@ -2,9 +2,9 @@
 
 1. Valleywise Community Health Center - McDowell
 1101 N Central Ave Ste 204, Phoenix, AZ, 85004-1844
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://valleywisehealth.org/services/primary-care/
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 602-344-6550
 🗺 https://maps.google.com/?q=33.46030,-112.07353
 
@@ -17,9 +17,9 @@
 
 3. Circle the City Medical Respite Center, Downtown Campus
 210 S   12th Ave, Phoenix, AZ, 85007-3101
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 https://www.circlethecity.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 602-776-9000
 🗺 https://maps.google.com/?q=33.44572,-112.08833
 
@@ -40,9 +40,9 @@
 
 6. Wesley - Mobile Medical Unit
 1300 S 10th St, Phoenix, AZ, 85034-4516
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://wesleycenterphx.org/
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Migrant health center
 📞 602-257-4323
 🗺 https://maps.google.com/?q=33.43438,-112.06008
 
@@ -93,9 +93,9 @@
 
 13. NATIVE HEALTH Central
 4041 N CENTRAL AVE, PHOENIX, AZ, 85012-3330
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.nativehealthphoenix.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 602-279-5262
 🗺 https://maps.google.com/?q=33.49398,-112.07266
 
@@ -122,9 +122,9 @@
 
 17. Circle the City Family Health Center - UMOM Campus
 3333 E Van Buren St, Phoenix, AZ, 85008-6812
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 https://www.circlethecity.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 602-776-7676
 🗺 https://maps.google.com/?q=33.45094,-112.00948
 
@@ -568,15 +568,17 @@
 
 76. El Rio Health University Health Center
 434 E. University Blvd.  STE 200, Tucson, AZ, 85705-7851
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 520-670-3909
 🗺 https://maps.google.com/?q=32.23142,-110.96464
 
+🌐 http://www.elrio.org
+
 77. El Rio Cherrybell Health Center
 1230 S Cherrybell Stra, Tucson, AZ, 85713-1907
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 520-670-3909
 🗺 https://maps.google.com/?q=32.20592,-110.94850
 
@@ -590,9 +592,9 @@
 
 79. EL RIO OB/GYN ASSOCIATES
 225 W. IRVINGTON RD, TUCSON, AZ, 85714-3054
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.elrio.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Women's health
 📞 520-670-3707
 🗺 https://maps.google.com/?q=32.16268,-110.97189
 
@@ -606,9 +608,9 @@
 
 81. Wilmot Family Health Center
 899 N. Wilmot Road, Building B, Tucson, AZ, 85711
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.mhchealthcare.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Dental
 📞 520-290-1100
 🗺 https://maps.google.com/?q=32.23207,-110.85910
 
@@ -840,3 +842,107 @@
 📞 520-364-1429
 🗺 https://maps.google.com/?q=31.34597,-109.55263
 
+112. Arizona Board Of Regents, The University Of Arizona
+1501 North Campbell Avenue, Tucson, AZ 85724
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (520) 626-8598
+
+113. Phoenix Children'S Hospital Bill Holt Clinic
+1919 East Thomas Road, Phoenix, AZ 85016
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (602) 933-1000
+
+114. Phoenix Indian Medical Center/HIV Center Of Excellence
+4212 North 16th Street, Phoenix, AZ 85016
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (602) 263-1541
+
+115. Ripplephx
+1330 W Palm Ln, Phoenix, AZ 85007-1539
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (602) 647-2996
+
+116. Terros Health
+333 East Indian School Road, Phoenix, AZ 85012
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (602) 685-6086
+
+117. Circle the City Family Health Center - CASS
+230 S 12th Ave, Phoenix, AZ 85007-3101
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (602) 258-8282
+🌐 http://www.circlethecity.org
+
+118. Wesley Health Center - Golden Gate Campus
+1625 North 39th Avenue, Phoenix, AZ 85009
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (602) 257-4323
+🌐 https://wesleycenterphx.org/golden-gate-community-wesley-health-center/
+
+119. Southwest Behavioral & Health Services - 7th Ave Outpatient Methadone/Suboxone Clinic
+1424 S th Avenue, Phoenix, AZ 85007
+📝 HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (602) 258-3600
+🌐 http://www.sbhservices.org
+
+120. Midtown Medical Respite Center
+333 W Indian School Rd, Phoenix, AZ 85013-3205
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (602) 776-9000
+🌐 http://www.circlethecity.org
+
+121. Circle the City - Parsons Family Health Center
+3522 North 3rd Avenue, Phoenix, AZ 85013
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (602) 776-7676
+🌐 http://www.circlethecity.org/
+
+122. Circle the City Family Health Center - Lodestar Day Resource Center
+1125 West Jackson Street, Phoenix, AZ 85007
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (602) 258-8282
+🌐 http://www.circlethecity.org
+
+123. CODAC at 380 (Drug/Alcohol Treatment)
+380 E Fort Lowell Rd, Tucson, AZ 85705-3985
+📝 HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (520) 202-1786
+🌐 http://www.codac.org
+
+124. Circle the City Family Health Center - Downtown Campus
+220 S 12th Ave, Phoenix, AZ 85007-3101
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (602) 776-0776
+🌐 http://www.circlethecity.org
+
+125. Sun Life Health - Chandler Center for Women
+655 South Dobson Road, #201, Chandler, AZ 85224
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Women's health
+📞 (480) 307-9477
+
+126. North Valley Pediatrics
+702 E Bell Rd, Phoenix, AZ 85022-6639
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Pediatrics
+📞 (602) 482-7311
+
+127. Chandler Pediatrics
+600 S Dobson Rd, Chandler, AZ 85224-5678
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Pediatrics
+📞 (833) 431-4449
+🌐 https://www.hhwaz.org

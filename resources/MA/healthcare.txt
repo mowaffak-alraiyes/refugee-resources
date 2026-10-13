@@ -2,17 +2,21 @@
 
 1. New England Center and Home for Veterans
 17 Court St, Boston, MA, 02108-2601
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 617-371-1772
 🗺 https://maps.google.com/?q=42.35928,-71.05835
 
+🌐 http://www.bhchp.org/
+
 2. Lindemann Mental Health Center
 25 Staniford St, Boston, MA, 02114-2503
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program; Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Mental health; Health Care for the Homeless
 📞 617-626-8500
 🗺 https://maps.google.com/?q=42.36211,-71.06350
+
+🌐 http://www.bhchp.org/
 
 3. Breaktime
 63 Franklin St, Boston, MA, 02110-1301
@@ -38,17 +42,21 @@
 
 6. Kingston House
 39 Kingston St, Boston, MA, 02111-2208
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 617-482-8819
 🗺 https://maps.google.com/?q=42.35355,-71.05945
 
+🌐 http://www.bhchp.org/
+
 7. ST. FRANCIS HOUSE
 39 Boylston St, Boston, MA, 02116-4702
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 617-524-4704
 🗺 https://maps.google.com/?q=42.35254,-71.06351
+
+🌐 http://www.bhchp.org/
 
 8. SOUTH STREET CLINIC
 145 South St, Boston, MA, 02111-2826
@@ -67,10 +75,12 @@
 
 10. Women's Lunch Place
 67 Newbury St, Boston, MA, 02116-3010
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program; Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Women's health; Health Care for the Homeless
 📞 617-267-0200
 🗺 https://maps.google.com/?q=42.35212,-71.07418
+
+🌐 http://www.bhchp.org/
 
 11. Neighborhealth Corporation – 225 Sumner St
 225 Sumner St, Boston, MA, 02128-2379
@@ -82,10 +92,12 @@
 
 12. PINE STREET INN Women's Clinic
 363 Albany St, Boston, MA, 02118-2503
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program; Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Women's health; Health Care for the Homeless
 📞 857-654-1865
 🗺 https://maps.google.com/?q=42.34259,-71.06316
+
+🌐 http://www.bhchp.org
 
 13. New Health Charlestown
 15 Tufts St, Charlestown, MA, 02129-2711
@@ -126,32 +138,38 @@
 
 18. Mobile Van #1
 780 Albany St, Boston, MA, 02118-2755
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 857-654-1300
 🌐 https://www.uphams.org
 🌐 https://www.uphams.org
 
 19. Woods Mullen Shelter
 794 Massachusetts Ave, Boston, MA, 02118-2319
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 617-534-7101
 🗺 https://maps.google.com/?q=42.33346,-71.07237
 
+🌐 http://www.bhchp.org/
+
 20. Southampton Street Shelter
 112 Southampton St, Boston, MA, 02118-2711
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 617-534-2881
 🗺 https://maps.google.com/?q=42.33237,-71.06927
 
+🌐 http://www.bhchp.org/
+
 21. Rosie's Place
 889 Harrison Ave, Boston, MA, 02118-4004
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 617-442-9322
 🗺 https://maps.google.com/?q=42.33408,-71.07669
+
+🌐 http://www.bhchp.org/
 
 22. Whittier Street Health Center
 1290 Tremont St, Roxbury Crossing, MA, 02120-3432
@@ -793,25 +811,25 @@
 
 106. UMass Memorial Health, Belmont Campus
 119 Belmont St., Worcester, MA, 01605-2903
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.umassmemorial.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 508-860-7700
 🗺 https://maps.google.com/?q=42.27294,-71.79225
 
 107. Family Health Center of Worcester, Inc.
 26 Queen St, Worcester, MA, 01610-2473
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 http://www.fhcw.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 508-860-7700
 🗺 https://maps.google.com/?q=42.25925,-71.81497
 
 108. Worcester Health Care for the Homeless
 199 Chandler St  FL 4, Worcester, MA, 01609
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.FHCW.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care; Health Care for the Homeless
 📞 508-860-7888
 🗺 https://maps.google.com/?q=42.26087,-71.81682
 
@@ -966,10 +984,12 @@
 
 128. OPEN DOOR SOCIAL SERVICES
 287 STATE ST, SPRINGFIELD, MA, 01105-1812
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 413-737-7062
 🗺 https://maps.google.com/?q=42.10463,-72.58223
+
+🌐 http://www.springfieldcityhall.com
 
 129. Steiger Building
 267 High Street, Holyoke, MA, 01040-6585
@@ -988,10 +1008,12 @@
 
 131. HSH Health Center & Dental Clinic
 755 Worthington St, Springfield, MA, 01105
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program; Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Health Care for the Homeless; Dental
 📞 413-337-9100
 🗺 https://maps.google.com/?q=42.10990,-72.58489
+
+🌐 http://www3.springfield-ma.gov/hhs/
 
 132. Springfield Rescue Mission SIte
 10 Mill Street, Springfield, MA, 01108-1021
@@ -1009,9 +1031,9 @@
 
 134. Caring Health Center Main Street Clinic
 1049 Main St, Springfield, MA, 01103-2114
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.caringhealth.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 413-739-1100
 🗺 https://maps.google.com/?q=42.09970,-72.58478
 
@@ -1025,9 +1047,9 @@
 
 136. Baystate Brightwood Health Center
 380 PLAINFIELD ST, SPRINGFIELD, MA, 01107-1524
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 http://www.baystatehealth.com/Baystate/Main+Nav/About+Us/Locations
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 413-794-4458
 🗺 https://maps.google.com/?q=42.11725,-72.61442
 
@@ -1092,3 +1114,144 @@
 📞 203-777-7411
 🗺 https://maps.google.com/?q=41.30830,-72.90224
 
+145. Zinberg Clinic
+1493 Cambridge Street, Cambridge, MA 02139-1099
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (617) 665-1606
+
+146. Baystate High Street Health Center
+140 High Street, Springfield, MA 01105
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (413) 794-2511
+
+147. Baystate Infectious Disease
+3300 Main St, Springfield, MA 01107-1112
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (413) 794-7394
+
+148. Baystate Mason Square Neighborhood Health Center
+11 Wilbraham Road, Springfield, MA 01109-3161
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (413) 794-3710
+
+149. Baystate Medical Center, Inc.
+759 Chestnut Street, Springfield, MA 01107
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (413) 794-0000
+
+150. Boston Medical Center- Pediatrics
+670 Albany St Ste 6, Boston, MA 02118-2653
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (617) 414-7467
+
+151. Brigham & Women'S Hospital
+75 Francis Street, Boston, MA 02115
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (617) 732-8881
+
+152. Cambridge: Green Street
+359 Green Street, Cambridge, MA 02139-3334
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (617) 661-3040
+
+153. Children'S Hospital HIV/Aids Program
+300 Longwood Avenue, Boston, MA 02115
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (617) 355-6832
+
+154. Edward M, Kennedy Community Health Center
+19 Tacoma St, Worcester, MA 01605-3516
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (508) 852-1805
+
+155. Fenway: Ansin Building
+1340 Boylston Street, Boston, MA 02215-4302
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (617) 267-0900
+
+156. Fenway: South End
+142 Berkeley Street, Boston, MA 02116-5100
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (617) 247-7555
+
+157. Boston Health Care for the Homeless Program\Cardinal Medeiros Center
+140 Shawmut Ave, Boston, MA 02118-2295
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (857) 654-1000
+🌐 http://www.bhchp.org/
+
+158. Springfield Public Health Department- PROSPECT HOUSE
+103 Prospect St, Springfield, MA 01107-1760
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (413) 737-5518
+🌐 http://www.springfieldcityhall.com
+
+159. Boston Health Care for the Homeless Program - Massachusetts General Hospital
+15 Parkman St, Boston, MA 02114-3140
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (617) 726-2707
+🌐 http://www.bhchp.org/
+
+160. Boston Health Care for the Homeless- Pine Street Inn
+444 Harrison Ave, Boston, MA 02118-2404
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (617) 414-7626
+🌐 http://www.bhchp.org/
+
+161. Spingfield Public Health Department\Open Pantry Teen Living
+95 Jefferson Ave, Springfield, MA 01107-2027
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (413) 787-6456
+🌐 http://www.springfieldcityhall.com
+
+162. Boston Health Care for the Homeless Program- Asian Task Force Against Domestic Violence
+CONFIDENTIAL, Boston, MA 02112
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (617) 338-2356
+🌐 http://www.bhchp.org/
+
+163. Behavioral Health Network, Inc. - Center for Wellbeing - Springfield South
+395 Liberty St, Springfield, MA 01104-3779
+📝 HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (413) 272-1333
+🌐 https://www.bhninc.org/
+
+164. Boston Health Care for the Homeless Program- Families in Transition
+316 Huntington Ave, Boston, MA 02115-5019
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (617) 927-8290
+🌐 http://www.bhchp.org/
+
+165. Spectrum Health Systems, Inc. - Lincoln Street OTP
+585 Lincoln St, Worcester, MA 01605-1906
+📝 HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (774) 670-4813
+🌐 https://www.spectrumhealthsystems.org/locations/worcester-ma/155
+
+166. Spectrum Health Systems, Inc. - Main Street OTP
+1023 Main St, Worcester, MA 01603-2425
+📝 HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (774) 670-4813
+🌐 https://www.spectrumhealthsystems.org

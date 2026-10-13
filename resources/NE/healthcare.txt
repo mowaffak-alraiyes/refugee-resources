@@ -10,9 +10,9 @@
 
 2. Charles Drew Health Center, Inc. at Jackson Tower
 600 S   27th St, Omaha, NE, 68105-1502
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Public Housing Program. Source: data.hrsa.gov.
 🌐 https://www.CharlesDrew.com
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Public housing primary care
 📞 402-457-1243
 🗺 https://maps.google.com/?q=41.25395,-95.95218
 
@@ -26,9 +26,9 @@
 
 4. Charles Drew Health Center, Inc. Dental Mobile Unit - Tooth Mobile
 2915 Grant St, Omaha, NE, 68111-3863
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.CharlesDrew.com
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Dental
 📞 402-453-1433
 🗺 https://maps.google.com/?q=41.27953,-95.95636
 
@@ -64,9 +64,9 @@
 
 9. OneWorld Mobile Dental Clinic - OneWorld Smiles Mobile
 4920 S   30th St, Omaha, NE, 68107-1590
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.oneworldomaha.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Dental
 📞 402-932-7204
 🗺 https://maps.google.com/?q=41.20989,-95.95577
 
@@ -268,3 +268,76 @@
 📞 402-336-2406
 🗺 https://maps.google.com/?q=42.45803,-98.64678
 
+37. Nebraska Medicine Specialty Care Center
+804 S 52nd St, Omaha, NE 68106-1802
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (402) 559-2666
+
+38. State Of Nebraska Ryan White Title Ii Program
+301 Centennial Mall S, Lincoln, NE 68508-2529
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (402) 471-2102
+
+39. Charles Drew Health Center - Crown Tower Public Housing Clinic
+5904 Henninger Dr, Omaha, NE 68104-1258
+📝 HRSA Federally Qualified Health Center (FQHC), Public Housing Program. Source: data.hrsa.gov.
+🏥 Services: Public housing primary care; Primary care
+📞 (402) 457-1240
+🌐 http://charlesdrew.com
+
+40. Charles Drew Health Center - Florence Tower Public Housing Clinic
+5100 Florence Blvd, Omaha, NE 68110-5346
+📝 HRSA Federally Qualified Health Center (FQHC), Public Housing Program. Source: data.hrsa.gov.
+🏥 Services: Public housing primary care; Primary care
+📞 (402) 457-1241
+🌐 http://charlesdrew.com/phhc/
+
+41. Charles Drew Health Center - Campus for Hope
+1490 N 16th St, Omaha, NE 68102-4101
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (402) 345-9860
+🌐 http://charlesdrew.com
+
+42. OneWorld Community Health Centers, Inc. - The Stephen Center
+2723 Q St, Omaha, NE 68107-3447
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (402) 734-4110
+🌐 http://www.oneworldomaha.org
+
+43. Charles Drew Health Center - Evans Tower Public Housing Clinic
+3600 N 24th St, Omaha, NE 68110-1872
+📝 HRSA Federally Qualified Health Center (FQHC), Public Housing Program. Source: data.hrsa.gov.
+🏥 Services: Public housing primary care; Primary care
+📞 (402) 457-1242
+🌐 http://charlesdrew.com/phhc/
+
+44. Charles Drew Health Center - Siena Francis House
+1111 N 17th St, Omaha, NE 68102-4102
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (402) 346-8401
+🌐 http://www.charlesdrewhcomaha.org
+
+45. CenterPointe Outpatient Services
+2202 S 11th St, Lincoln, NE 68502-3559
+📝 HRSA Substance Use Disorder Facility, Office-based Opioid Treatment Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (402) 475-5161
+🌐 http://www.centerpointe.org/
+
+46. Bluestem Health: Pediatrics
+2301 O St, Ste 2, Lincoln, NE 68510-1100
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Pediatrics
+📞 (402) 476-1455
+
+47. OneWorld Healthcare Workforce Training and Behavioral Health Center
+4915 S 30th St, Omaha, NE 68107-1553
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (402) 734-4110
+🌐 https://www.oneworldomaha.org

@@ -34,9 +34,9 @@
 
 5. Jackson-Hinds Comprehensive Health Center at the Jackson Medical Mall
 350 W Woodrow Wilson Ave, Jackson, MS, 39213-7681
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.jackson-hinds.com
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 601-709-5130
 🗺 https://maps.google.com/?q=32.32717,-90.19315
 
@@ -81,10 +81,12 @@
 
 11. Jackson-Hinds Dental Mobile Unit 7
 3502 W Northside Dr, Jackson, MS, 39213-4454
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care; Dental
 📞 601-364-5142
 🗺 https://maps.google.com/?q=32.35678,-90.23420
+
+🌐 https://www.jackson-hinds.com
 
 12. Kirksey Middle School-based Clinic
 5677 Highland Dr, Jackson, MS, 39206-3517
@@ -568,9 +570,9 @@ RR 2 BOX 35C, FAYETTE, MS, 39069
 
 76. HATTIESBURG FAMILY HEALTH CENTER
 66 Old Airport Rd, Hattiesburg, MS, 39401-8382
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.semrhi.com
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 601-544-7500
 🗺 https://maps.google.com/?q=31.27690,-89.28374
 
@@ -1013,3 +1015,56 @@ RR 2 BOX 35C, FAYETTE, MS, 39069
 📞 228-386-1141
 🗺 https://maps.google.com/?q=30.65561,-88.51579
 
+136. Aids Healthcare Foundation
+766 Lakeland Dr STE A, Jackson, MS 39216-4610
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (601) 368-4440
+
+137. Open Arms Healthcare Center
+805 E River Pl, Jackson, MS 39202-3486
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (601) 500-7660
+
+138. Jackson-Hinds-Commonwealth Apartment Complex
+3930 Skyview Dr, Jackson, MS 39213-5318
+📝 HRSA Federally Qualified Health Center (FQHC), Public Housing Program. Source: data.hrsa.gov.
+🏥 Services: Public housing primary care; Primary care
+📞 (601) 362-5321
+🌐 http://www.jackson-hinds.com
+
+139. Pine Belt Mental Healthcare Resources - Pine Belt School
+2201 S 28th Ave, Hattiesburg, MS 39402
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (601) 450-4930
+🌐 http://www.pbmhr.org
+
+140. Jackson-Hinds-The Village Apartment Complex
+386 Raymond Rd, Jackson, MS 39204-3700
+📝 HRSA Federally Qualified Health Center (FQHC), Public Housing Program. Source: data.hrsa.gov.
+🏥 Services: Public housing primary care; Primary care
+📞 (601) 362-5321
+🌐 http://www.jackson-hinds.com
+
+141. Jackson-Hinds Ethel James Ivory Homeless Clinic
+427 J.R. Lynch St, Jackson, MS 39203
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (601) 362-5321
+🌐 http://www.jackson-hinds.com
+
+142. Women'S Health Center
+62 Old Airport Rd, Hattiesburg, MS 39401-8382
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Women's health
+📞 (601) 544-4550
+🌐 https://www.semrhi.com
+
+143. Hattiesburg Community Dental Center
+68 Old Airport Rd, Hattiesburg, MS 39401-8382
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Dental
+📞 (601) 550-4843
+🌐 https://www.semrhi.com

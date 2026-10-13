@@ -63,9 +63,9 @@
 
 9. Eastern Family Medical and Dental Center
 2212 S. Eastern Ave., Las Vegas, NV, 89104-4124
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.nvhealthcenters.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Dental
 📞 702-735-9334
 🗺 https://maps.google.com/?q=36.14662,-115.11930
 
@@ -86,8 +86,8 @@
 
 12. FirstMed Pediatrics
 701 N Pecos Rd, Las Vegas, NV, 89101-2400
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Pediatrics
 📞 702-731-0909
 🗺 https://maps.google.com/?q=36.17546,-115.10077
 
@@ -123,9 +123,9 @@
 
 17. Southern Nevada Community Health Center - Decatur
 280 S Decatur Blvd, Las Vegas, NV, 89107-2936
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://snhd.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 702-759-1000
 🗺 https://maps.google.com/?q=36.17092,-115.20952
 
@@ -155,8 +155,8 @@
 
 21. HCHC Behavioral Health
 4100 N. Martin L King Blvd.  STE B-C, North Las Vegas, NV, 89032-0293
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Mental health
 📞 702-644-4673
 🗺 https://maps.google.com/?q=36.23419,-115.16140
 
@@ -296,9 +296,9 @@
 
 39. Nevada Health Centers Mobile Medical Services 1
 3325 Research Way, Carson City, NV, 89706-7913
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.nvhealthcenters.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Migrant health center
 📞 775-257-7455
 🗺 https://maps.google.com/?q=39.18916,-119.74984
 
@@ -310,3 +310,93 @@
 📞 775-445-3500
 🗺 https://maps.google.com/?q=39.16489,-119.77187
 
+41. Ahf Las Vegas
+3201 S Maryland Pkwy STE 2, Las Vegas, NV 89109-2441
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (702) 862-8075
+
+42. Ahf North Las Vegas
+1815 E Lake Mead Blvd STE 1, North Las Vegas, NV 89030-7187
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (702) 639-8110
+
+43. Can- Huntridge
+1820 E Sahara Ave STE 201, Las Vegas, NV 89104-3721
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (702) 979-1111
+
+44. Community Outreach Medical Center
+1090 E Desert Inn Rd STE 20, Las Vegas, NV 89109-2824
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (702) 657-3873
+
+45. Maternal Child Wellness Program
+1524 Pinto Ln, Las Vegas, NV 89106-4195
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (702) 676-3665
+
+46. The Gay And Lesbian Community Center Of Southern Nevada
+401 S Maryland Pkwy, Las Vegas, NV 89101-7206
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (702) 733-9800
+
+47. University Medical Center Of Southern Nevada
+701 Shadow Ln, Ste 200, Las Vegas, NV 89106-4178
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (702) 383-2691
+
+48. Dr. Miriam & Sheldon G. Adelson Clinic for Drug Abuse Treatment & Research, Inc.
+3661 S Maryland Pkwy, Suite 64, Las Vegas, NV 89169-3005
+📝 HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (702) 735-7900
+🌐 https://adelsoncliniclasvegas.com/
+
+49. Bridge Counseling Associates, Inc.
+1640 Alta Dr, Suite 4, Las Vegas, NV 89106-4165
+📝 HRSA Substance Use Disorder Facility, Non-Opioid Substance Use Disorder Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (702) 474-6450
+🌐 https://bridgecounseling.org/
+
+50. Nevada Health Centers - North Las Vegas Family Health Center
+2225 Civic Center Dr, North Las Vegas, NV 89030-6338
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (702) 214-5948
+🌐 http://www.nevadahealthcenters.org
+
+51. EMPOWERED at Roseman University of Health Sciences
+1 Breakthrough Way, Las Vegas, NV 89135-3011
+📝 HRSA Substance Use Disorder Facility, Office-based Opioid Treatment Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (833) 481-7681
+🌐 https://empoweredmoms.org/
+
+52. Bridge Counseling Associates, Inc.
+4221 Mcleod Dr, Las Vegas, NV 89121-5215
+📝 HRSA Substance Use Disorder Facility, Non-Opioid Substance Use Disorder Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (702) 474-6450
+🌐 http://www.bridgecounseling.org
+
+53. Miracle Minds Therapy
+2048 Las Vegas Blvd N, North Las Vegas, NV 89030-5802
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (702) 888-6300
+🌐 https://www.mmtnv.org/
+
+54. Nellis Family Medical and Dental Center
+691 N Nellis Blvd, Las Vegas, NV 89110-5383
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Dental
+📞 (702) 563-4662
+🌐 https://www.nvhealthcenters.org

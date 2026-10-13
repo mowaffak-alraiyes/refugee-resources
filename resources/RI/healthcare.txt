@@ -39,16 +39,16 @@
 
 6. Thundermist Special Populations Providence
 557 Broad St, Providence, RI, 02907-4120
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.thundermisthealth.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 401-767-4100
 🗺 https://maps.google.com/?q=41.80899,-71.42107
 
 7. PCHC Dental Clinic
 335R Prairie Avenue  FL 3 and 4, Providence, RI, 02905
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Dental
 📞 401-444-0430
 🗺 https://maps.google.com/?q=41.80507,-71.41463
 
@@ -92,9 +92,9 @@
 
 13. MOLAR EXPRESS-DENTAL VAN / Mobile Medical Unit Primary Care
 311 Doric Ave, Cranston, RI, 02910-2903
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.comcap.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Dental
 📞 401-467-9610
 🗺 https://maps.google.com/?q=41.77646,-71.42742
 
@@ -268,3 +268,40 @@
 📞 401-539-2461
 🗺 https://maps.google.com/?q=41.16399,-71.56161
 
+36. Miriam  Hospital
+164 Summit Ave, Providence, RI 02906-2853
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (401) 793-2500
+
+37. Open Door Health
+7 Central St, Providence, RI 02907-2201
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (401) 648-4700
+
+38. The Miriam Hospital Infectious Disease Clinic
+180 Corliss St, Providence, RI 02904-2602
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (401) 793-2928
+
+39. Gateway Healthcare
+103 Bacon St, Pawtucket, RI 02860-5542
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (401) 722-3560
+🌐 https://www.brownhealth.org/locations/gateway-healthcare
+
+40. PCHC Dental Clinic
+335 R Prairie Ave, Providence, RI 02905-2426
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Dental
+📞 (401) 444-0430
+
+41. BVCHC DENTAL Health Center
+210 Main St, Pawtucket, RI 02860-4008
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Dental
+📞 (401) 729-5239
+🌐 https://www.bvchc.org

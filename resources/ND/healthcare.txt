@@ -2,10 +2,12 @@
 
 1. Family HealthCare Mobile Clinic #1
 301 Np Ave N, Fargo, ND, 58102-4835
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Dental; Health Care for the Homeless
 📞 701-271-3344
 🗺 https://maps.google.com/?q=46.87623,-96.78343
+
+🌐 https://www.famhealthcare.org
 
 2. Family HealthCare Valley City
 415 2nd Ave NE Ste 101, Valley City, ND, 58072-3060
@@ -16,9 +18,9 @@
 
 3. Spectra Health Dental Clinic
 212 S    4th St STE 101, Grand Forks, ND, 58201-4776
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.spectrahealth.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Dental
 📞 701-757-2100
 🗺 https://maps.google.com/?q=47.92247,-97.02805
 
@@ -113,9 +115,9 @@
 
 16. Minot Dental
 15 2nd Ave SW Ste 110, Minot, ND, 58701-3874
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://WWW.NORTHLANDCHC.ORG
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Dental
 📞 701-838-3051
 🗺 https://maps.google.com/?q=48.23438,-101.29347
 
@@ -142,3 +144,46 @@
 📞 701-568-5600
 🗺 https://maps.google.com/?q=48.34300,-103.16661
 
+20. Bismarck Burleigh Public Health
+221 N 5th St, Bismarck, ND 58501-4079
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (701) 355-1540
+
+21. Canopy Medical Clinic
+100 4th St S, Fargo, ND 58103-1929
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (701) 264-5200
+
+22. Fargo Cass Public Health
+401 3rd Ave N, Fargo, ND 58102-4811
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (701) 241-1360
+
+23. First District Health Unit
+801 11th Ave SW, Minot, ND 58701-4274
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (701) 852-1376
+
+24. Grand Forks Public Health Dept
+151 S 4th St STE N301, Grand Forks, ND 58201-4715
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (701) 787-8100
+
+25. Heartview Foundation - Bismarck
+101 E Broadway Ave, Bismarck, ND 58501-3840
+📝 HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (701) 222-0386
+🌐 http://www.heartview.org
+
+26. Family HealthCare - Homeless Health Services
+222 4th St N, Fargo, ND 58102-4818
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (701) 551-2499
+🌐 http://www.famhealthcare.org/

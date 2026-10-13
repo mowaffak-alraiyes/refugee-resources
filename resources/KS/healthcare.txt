@@ -2,9 +2,9 @@
 
 1. Hunter Health at Open Door
 402 E 2nd St N, Wichita, KS, 67202-2504
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
 🌐 https://www.hunterhealth.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Mental health
 📞 316-262-2415
 🗺 https://maps.google.com/?q=37.68997,-97.33393
 
@@ -542,3 +542,35 @@ Overland Park, KS
 📞 576-426-4455
 🗺 https://maps.google.com/?q=37.81918,-92.14617
 
+75. Uksm-W Medical Practice Assoc.
+1001 N Minneapolis St, Wichita, KS 67214-3127
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (316) 293-1840
+
+76. COMCARE-Adult Mental Health and Addiction Services
+4035 E Harry St, Wichita, KS 67218-3724
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (316) 660-7550
+🌐 https://www.sedgwickcounty.org/comcare/adult-mental-health-and-addiction/
+
+77. Community Crisis Center
+635 N Main St, Wichita, KS 67203-3602
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (316) 660-7500
+🌐 https://www.sedgwickcounty.org/comcare/crisis-intervention-services/
+
+78. COMCARE - Children's Services
+1938 N Woodlawn St, Wichita, KS 67208-1857
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (316) 660-7500
+
+79. Mirror Inc. - Topeka Outpatient Treatment Program
+2201 SE 25th St, Topeka, KS 66605-1734
+📝 HRSA Substance Use Disorder Facility, Office-based Opioid Treatment Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (316) 283-6743
+🌐 http://www.mirrorinc.org

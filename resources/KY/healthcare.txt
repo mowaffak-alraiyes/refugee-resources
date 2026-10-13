@@ -60,16 +60,16 @@
 
 9. Shawnee Christian Healthcare Center, Inc.
 234 Amy Ave., Louisville, KY, 40212-2522
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Public Housing Program. Source: data.hrsa.gov.
 🌐 https://shawneechristianhealthcare.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Public housing primary care
 📞 502-778-0001
 🗺 https://maps.google.com/?q=38.26037,-85.81366
 
 10. SCHC Dental Clinic
 222 Amy Ave, Louisville, KY, 40212-2522
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Dental
 📞 502-774-2400
 🗺 https://maps.google.com/?q=38.26083,-85.81362
 
@@ -292,8 +292,8 @@
 
 41. Frankfort Pediatrics
 89 C Michael Davenport Blvd Ste 2, Frankfort, KY, 40601-4481
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Pediatrics
 📞 270-858-6655
 🗺 https://maps.google.com/?q=38.16046,-84.91383
 
@@ -567,8 +567,8 @@ Maurice Bowling Middle School2380 Hwy. 22E,, Owenton, KY, 40359
 
 79. HealthFirst Bluegrass Mobile 2 Dental Clinic
 496 Southland Drive Mobile Dental Clinic, Lexington, KY, 40503
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Dental
 📞 859-288-2425
 🗺 https://maps.google.com/?q=38.02098,-84.52902
 
@@ -1468,3 +1468,86 @@ Maurice Bowling Middle School2380 Hwy. 22E,, Owenton, KY, 40359
 📞 270-858-6655
 🗺 https://maps.google.com/?q=36.75008,-84.47393
 
+202. University Of Louisville 550 Clinic
+501 E Broadway, Ste 140A, Louisville, KY 40202-1785
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (502) 852-2008
+
+203. University Of Louisville Research Foundation
+550 S Jackson St, Louisville, KY 40202-1622
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (502) 561-8844
+
+204. 550 Clinic
+401 E Chestnut St UNIT 480, Louisville, KY 40202-5704
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (502) 852-2008
+
+205. Bluegrass Care Clinic
+3101 Beaumont Centre Cir, Lexington, KY 40513-1961
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (859) 323-5544
+
+206. Matthew 25 Bg
+811 Fairview Ave, Bowling Green, KY 42101-4969
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (270) 904-7029
+
+207. Ulsd Kccp
+1212 S 4th St, Louisville, KY 40203-3004
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (502) 852-2008
+
+208. RhemaWell Inc
+2600 W Broadway, Louisville, KY 40211-1366
+📝 HRSA Substance Use Disorder Facility, Office-based Opioid Treatment Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (815) 608-2662
+🌐 http://rhemawellinc.org
+
+209. Cleanse Clinic, P.S.C.- Downtown Louisville
+645 S Roy Wilkins Ave, Louisville, KY 40203-2072
+📝 HRSA Substance Use Disorder Facility, Office-based Opioid Treatment Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (502) 583-4092
+🌐 http://www.thecleanseclinic.com
+
+210. ReMind Health Group
+1939 Goldsmith Ln, Louisville, KY 40218-2006
+📝 HRSA Substance Use Disorder Facility, Office-based Opioid Treatment Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (502) 384-5436
+🌐 http://remindhg.com
+
+211. Goodwin Clinic at Catholic Action Center
+1060 Goodwin Dr, #110, Lexington, KY 40505-3824
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (859) 288-2425
+🌐 https://www.healthfirstlex.com/
+
+212. Seven Counties Services C&F South
+9702 Stonestreet Rd, Suite 110, Louisville, KY 40272-6812
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (502) 589-8920
+🌐 https://sevencounties.org/about/locations/child-family-south-office-jefferson-county/
+
+213. Women's Care of the Bluegrass
+279 Kings Daughters Dr, Frankfort, KY 40601-6561
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Women's health
+📞 (502) 875-9122
+
+214. HealthFirst Bluegrass Newtown- Dental
+650 Newtown Pike, Lexington, KY 40508-1197
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Dental
+📞 (859) 288-2425
+🌐 https://www.healthfirstlex.com

@@ -660,9 +660,9 @@ G5399 N Saginaw St, Flint, MI, 48505-1536
 
 89. Mobile Dental Center.
 2316 S Cedar Street, Lansing, MI, 48910
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://hd.ingham.org/chc
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care; Dental
 📞 517-887-4302
 🗺 https://maps.google.com/?q=42.70791,-84.54883
 
@@ -893,9 +893,9 @@ G5399 N Saginaw St, Flint, MI, 48505-1536
 
 121. School Linked Health/Vision Program
 101 SHELDON SE, GRAND RAPIDS, MI, 49503-4262
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.cherryhealth.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Dental
 📞 616-776-2263
 🗺 https://maps.google.com/?q=42.96065,-85.66702
 
@@ -924,9 +924,9 @@ G5399 N Saginaw St, Flint, MI, 48505-1536
 
 125. Belknap Commons Dental Center
 751 Lafayette Ave NE  RM 104, Grand Rapids, MI, 49503-1628
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.cherryhealth.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Dental
 📞 616-742-9945
 🗺 https://maps.google.com/?q=42.97691,-85.66241
 
@@ -1007,9 +1007,9 @@ G5399 N Saginaw St, Flint, MI, 48505-1536
 
 136. Catherine's Health Center - Dental ClinicSuite B
 781 36th St SE STE B, Grand Rapids, MI, 49548-2319
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.catherineshc.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Dental
 📞 616-336-8800
 🗺 https://maps.google.com/?q=42.89878,-85.64843
 
@@ -1314,3 +1314,119 @@ G5399 N Saginaw St, Flint, MI, 48505-1536
 📞 (734) 936-7804
 📧 medical-school-umsrfc@med.umich.edu
 
+177. Wayne State University Physician Group Infectious Disease Clinic
+3901 CHRYSLER Service Dr, Detroit, MI 48201-2167
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program; Mental health
+📞 (313) 966-7601
+🌐 http://www.waynehealthcares.org
+
+178. Detroit Community Health Connection - Woodward Corridor Family Medical Center
+611 Martin Luther King Jr Blvd, Detroit, MI 48201-2273
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program; Migrant health center
+📞 (313) 832-6300
+🌐 http://dchcquality.org
+
+179. Arab Community Center For Economic And Social Services
+4301 E 14 Mile Rd, Sterling Heights, MI 48310-6411
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (586) 722-6036
+
+180. Detroit Office
+3968 Mount Elliott St, Detroit, MI 48207-1841
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (313) 446-9800
+
+181. Health Emergency Lifeline Program (Help)
+1726 Howard St, Detroit, MI 48216-1921
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (313) 832-3300
+
+182. Henry Ford Health System
+2799 W Grand Blvd, Detroit, MI 48202-2608
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (313) 916-2556
+
+183. Horizon'S Project, Children'S Hospital
+400 Mack Ave, Detroit, MI 48201-2136
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (313) 448-9600
+
+184. Matrix Human Services
+1400 Woodbridge St, Detroit, MI 48207-3110
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (877) 931-3248
+
+185. Ruth Ellis Clairmount Clinic (Recc)
+61 Clairmount St, Detroit, MI 48202-1589
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (313) 756-8600
+
+186. Sinai Grace Infectious Disease Clinic
+6001 W Outer Dr STE 207, Detroit, MI 48235-2626
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (313) 966-2800
+
+187. Trinity Health, Michigan D/B/A Mercy Health Saint Mary'S
+200 Jefferson Ave SE, Grand Rapids, MI 49503-4502
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (616) 685-8200
+
+188. Ascension - East English Village School SBHC
+5020 Cadieux Rd, Detroit, MI 48224-2153
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (313) 640-5798
+🌐 https://www.henryford.com/services/pediatrics/community/school-based
+
+189. Ascencion Michigan - Denby High School SBHC
+12800 Kelly Rd, Detroit, MI 48224-1599
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (313) 372-3826
+🌐 https://www.henryford.com/services/pediatrics/community/school-based
+
+190. Ascension Michigan - Ralph Bunche Elementary / Middle School SBHC
+2715 Macomb St, Detroit, MI 48207-3830
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (248) 248-8495
+🌐 http://ascension.org
+
+191. Ascension Michigan - Hutchinson-Howe School SBHC
+2600 Garland St, Detroit, MI 48214-4037
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (313) 344-7006
+🌐 https://healthcare.ascension.org/locations/michigan/midet/warren-ascension-southeast-michigan-community-health
+
+192. Ascension Michigan Marcus Garvey Academy
+2301 Van Dyke St, Detroit, MI 48214-2694
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (313) 264-6498
+🌐 https://www.henryford.com/services/pediatrics/community/school-based
+
+193. Ascension Michigan - Osborn High School SBHC
+11600 E 7 Mile Rd, Detroit, MI 48205-2196
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (313) 372-5974
+🌐 https://healthcare.ascension.org/
+
+194. Ascension Michigan - King High School SBHC
+3200 E Lafayette St, Detroit, MI 48207-3812
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (313) 567-0534
+🌐 https://healthcare.ascension.org/locations/michigan/midet/warren-ascension-southeast-michigan-community-health

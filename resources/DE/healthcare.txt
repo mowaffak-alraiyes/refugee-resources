@@ -10,9 +10,9 @@
 
 2. HENRIETTA JOHNSON MEDICAL CENTER
 601 New Castle Ave, Wilmington, DE, 19801-5821
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.hjmc.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Migrant health center
 📞 302-655-6187
 🗺 https://maps.google.com/?q=39.72750,-75.54377
 
@@ -47,3 +47,49 @@
 📞 302-855-1233
 🗺 https://maps.google.com/?q=38.69968,-75.40487
 
+7. Christiana Care Health Services, Inc.
+501 W 14th St, Wilmington, DE 19801-1013
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (302) 320-1300
+
+8. Delaware Division Of Public Health
+540 S Dupont Hwy, Dover, DE 19901-4523
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (302) 744-1050
+
+9. Brandywine Counseling & Community Services, Inc.- Newark
+24 Brookhill Dr, Newark, DE 19702-1301
+📝 HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (302) 454-3020
+🌐 https://www.brandywinecounseling.org
+
+10. Brandywine Counseling & Community Services, Inc.- Lancaster
+2713 Lancaster Ave, Wilmington, DE 19805-5220
+📝 HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (302) 656-2348
+🌐 https://www.brandywinecounseling.org
+
+11. The Life Health Center at Pulaski
+1300 Cedar St, Wilmington, DE 19805-4396
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (302) 429-4192
+🌐 http://www.lifehealthcenterde.org
+
+12. Life Health Center at Bancroft
+700 N Lombard St, Wilmington, DE 19801-4299
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (302) 407-5316
+🌐 http://lifehealthcenterde.org
+
+13. Westside Family Healthcare - Newark
+27 Marrows Rd, Newark, DE 19713-3701
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (302) 504-3049
+🌐 http://www.westsidehealth.org

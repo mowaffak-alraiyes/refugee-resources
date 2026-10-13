@@ -2,9 +2,9 @@
 
 1. FALLS COMMUNITY HEALTH
 521 N. Main Ave STE 101, Sioux Falls, SD, 57104-5963
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.siouxfalls.org/fch
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 605-367-8793
 🗺 https://maps.google.com/?q=43.55313,-96.72878
 
@@ -171,3 +171,8 @@ PO BOX 368, Woonsocket, SD, 57385-0368
 📞 605-466-2120
 🗺 https://maps.google.com/?q=45.39338,-101.42993
 
+23. South Dakota Department Of Health
+600 E Capitol Ave, Pierre, SD 57501-2536
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (605) 773-3737

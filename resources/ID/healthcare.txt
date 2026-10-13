@@ -10,9 +10,9 @@
 
 2. Boise Medical/ Mental Health (Downtown)
 300 S   23rd St, Boise, ID, 83702-4901
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.trhs.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Mental health
 📞 208-344-3512
 🗺 https://maps.google.com/?q=43.61970,-116.21722
 
@@ -41,9 +41,9 @@
 
 6. Boise Dental
 2301 N   36th St, Boise, ID, 83703-5207
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.trhs.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Dental
 📞 208-336-8801
 🗺 https://maps.google.com/?q=43.64117,-116.23459
 
@@ -64,9 +64,9 @@
 
 9. Full Circle Health - Emerald
 6565 W Emerald St, Boise, ID, 83704-8737
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.fullcircleidaho.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 208-514-2510
 🗺 https://maps.google.com/?q=43.61175,-116.26304
 
@@ -80,9 +80,9 @@
 
 11. Full Circle Health - Boise Pediatrics
 8610 W Overland Rd, Boise, ID, 83709-1645
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.fullcircleidaho.org/patients/
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Pediatrics
 📞 208-954-8711
 🗺 https://maps.google.com/?q=43.59079,-116.29015
 
@@ -96,9 +96,9 @@
 
 13. Mobile Van 1
 211 16th Ave N, Nampa, ID, 83687-4058
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.trhs.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Migrant health center
 📞 208-467-7654
 🗺 https://maps.google.com/?q=43.57917,-116.55217
 
@@ -112,9 +112,9 @@
 
 15. CANYON DENTAL
 11136 Moss Ln, Nampa, ID, 83651-8015
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.trhs.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Dental
 📞 208-466-0515
 🗺 https://maps.google.com/?q=43.61272,-116.61562
 
@@ -449,8 +449,8 @@
 
 58. Grand Peaks Behavioral Health - Idaho Falls
 2454 N 25th E  STE 102, Idaho Falls, ID, 83401
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Mental health; Dental
 📞 208-612-6100
 🗺 https://maps.google.com/?q=43.51774,-112.03346
 
@@ -512,3 +512,154 @@
 📞 208-624-4100
 🗺 https://maps.google.com/?q=43.96670,-111.67775
 
+67. Eastern Idaho Public Health
+1250 Hollipark Dr, Idaho Falls, ID 83401-6217
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (208) 533-3199
+
+68. St Luke's Sherman Elementary - Nampa
+520 S Florence St, Nampa, ID 83686
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (208) 814-1000
+🌐 https://sherman.nsd131.org/
+
+69. Visions Counseling & Education, LLC
+9490 W Fairview Ave, Boise, ID 83704-8101
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (208) 486-0556
+🌐 http://www.visions-counseling.com
+
+70. Frank Church High School - Boise
+3608 S Milwaukee Ln, Boise, ID 83709-5738
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (208) 814-1000
+🌐 https://frankchurch.boiseschools.org/
+
+71. St Luke's Whitney Elementary - Boise
+1609 S Owyhee St, Boise, ID 83705-3058
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (208) 814-1000
+🌐 https://whitney.boiseschools.org/
+
+72. St Luke's Nampa Central Elementary School SBHC
+1415 5th St S, Nampa, ID 83651-4899
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (208) 814-1000
+🌐 https://central.nsd131.org/
+
+73. Stewards of Recovery
+685 1st St, Idaho Falls, ID 83401-4003
+📝 HRSA Substance Use Disorder Facility, Office-based Opioid Treatment Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (208) 932-4493
+🌐 http://sor4life.com/
+
+74. Terry Reilly - Nampa 16th Avenue Clinic
+223 16th Ave N, Nampa, ID 83687-4058
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (208) 467-4431
+🌐 http://www.trhs.org
+
+75. St Luke's Koelsch Elementary Mobile Unit
+5155 S Hillsdale Ave, Meridian, ID 83642-7587
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (208) 814-7247
+🌐 https://stlukesonline.org/en/patients-visitors/billing-and-insurance/financial-assistance/national-health-services-corps-qualifying-locations/
+
+76. St Luke's - Boise Hillside Junior High School SBHC
+3536 W Hill Rd, Boise, ID 83703-4717
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (208) 814-1000
+🌐 https://hillside.boiseschools.org/
+
+77. North Junior High - Boise
+1105 N 13th St, Boise, ID 83702-4114
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (208) 814-1000
+🌐 https://north.boiseschools.org/
+
+78. Community Family Clinic - Idaho Falls
+2100 Alan St, Idaho Falls, ID 83404-5801
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (208) 528-7655
+🌐 http://www.communitycouncilofidaho.org
+
+79. St Luke's Fairmont Junior High School
+2121 N Cole Rd, Boise, ID 83704-7312
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (208) 814-7247
+🌐 https://stlukesonline.org/en/patients-visitors/billing-and-insurance/financial-assistance/national-health-services-corps-qualifying-locations/
+
+80. St Luke's Roosevelt Elementary - Nampa
+1901 W Roosevelt Ave, Nampa, ID 83686-8109
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (208) 814-1000
+🌐 https://roosevelt.nsd131.org/
+
+81. St Luke's Iowa Elementary School
+626 W Iowa Ave, Nampa, ID 83686-2849
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (208) 814-7247
+🌐 https://stlukesonline.org/en/patients-visitors/billing-and-insurance/financial-assistance/national-health-services-corps-qualifying-locations/
+
+82. Whittier Elementary - Boise
+301 N 29th St, Boise, ID 83702-4625
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (208) 814-1000
+🌐 https://whittier.boiseschools.org/
+
+83. Garfield Elementary
+1914 S Broadway Ave, Boise, ID 83706-4298
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (208) 814-1000
+🌐 https://garfield.boiseschools.org/
+
+84. St Luke's - Boise Morley Nelson Elementary School SBHC
+W Northview St, Boise, ID 83704
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (208) 814-1000
+🌐 https://morleynelson.boiseschools.org/
+
+85. Terry Reilly Health Services - Nampa City Lighthouse
+472 Caldwell Blvd, Nampa, ID 83651-1925
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (208) 461-5030
+🌐 http://www.trhs.org/
+
+86. St Luke's Riverglen Junior High School
+6801 Gary Ln, Boise, ID 83714-2444
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (208) 814-7247
+🌐 https://stlukesonline.org/en/patients-visitors/billing-and-insurance/financial-assistance/national-health-services-corps-qualifying-locations/
+
+87. CCI – Idaho Falls Dental Clinic
+3387 Merlin Dr, Idaho Falls, ID 83404-7405
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Dental
+📞 (208) 528-7655
+🌐 https://idahocfc.org/
+
+88. Grand Peaks Medical, Behavioral Health, Pharmacy-Idaho Falls
+3729 Woodking Dr, Ste 1, Idaho Falls, ID 83404-4720
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (208) 624-4100

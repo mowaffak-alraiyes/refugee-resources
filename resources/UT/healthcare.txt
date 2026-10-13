@@ -9,9 +9,9 @@
 
 2. WASATCH HOMELESS HEALTH CARE, INC d.b.a Fourth Street Clinic
 409 W 400 S, SALT LAKE CITY, UT, 84101-1135
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 https://www.fourthstreetclinic.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 801-364-0058
 🗺 https://maps.google.com/?q=40.76042,-111.90303
 
@@ -286,3 +286,105 @@
 📞 435-651-3700
 🗺 https://maps.google.com/?q=37.25980,-109.30387
 
+39. University Of Utah
+30 N Mario Capecchi Dr, Salt Lake City, UT 84132-0002
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (801) 585-2031
+
+40. Department Of Health Utah
+288 N 1460 W, Salt Lake City, UT 84116-3231
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (801) 538-6191
+
+41. Odyssey House - Youth
+607 E 200 S, Salt Lake City, UT 84102-2110
+📝 HRSA Substance Use Disorder Facility, Office-based Opioid Treatment Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (801) 322-3222
+🌐 https://www.odysseyhouse.org/yssey-house-of-utah
+
+42. Odyssey House - Main
+344 E 100 S, Salt Lake City, UT 84111-1700
+📝 HRSA Substance Use Disorder Facility, Office-based Opioid Treatment Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (801) 322-3222
+🌐 http://www.odysseyhouse.org
+
+43. Odyssey House - Jordan River
+2411 S 1070 W, West Valley City, UT 84119-1561
+📝 HRSA Substance Use Disorder Facility, Office-based Opioid Treatment Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (801) 322-3222
+🌐 http://www.odysseyhouse.org
+
+44. Odyssey House - Women's Mental Health
+645 S 1300 E, Salt Lake City, UT 84102-3206
+📝 HRSA Substance Use Disorder Facility, Office-based Opioid Treatment Facility. Source: data.hrsa.gov.
+🏥 Services: Women's health; Mental health
+📞 (801) 322-3222
+🌐 http://www.odysseyhouse.org
+
+45. Odyssey House - Martindale Medical Clinic
+743 E 300 S, Salt Lake City, UT 84102-2256
+📝 HRSA Substance Use Disorder Facility, Office-based Opioid Treatment Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (801) 322-3222
+🌐 https://www.odysseyhouse.org/
+
+46. Odyssey House - Downtown
+68 S 600 E, Salt Lake City, UT 84102-1007
+📝 HRSA Substance Use Disorder Facility, Office-based Opioid Treatment Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (801) 322-3222
+🌐 https://www.odysseyhouse.org/
+
+47. Odyssey House - Meadowbrook
+61 W 3900 S, Salt Lake City, UT 84107-1431
+📝 HRSA Substance Use Disorder Facility, Office-based Opioid Treatment Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (801) 322-3222
+🌐 https://www.odysseyhouse.org/
+
+48. Odyssey House - Lighthouse
+745 E 300 S, Salt Lake City, UT 84102-2256
+📝 HRSA Substance Use Disorder Facility, Office-based Opioid Treatment Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (801) 322-3222
+🌐 http://www.odysseyhouse.org
+
+49. Project Reality - Salt Lake City Office
+667 S 700 E, Salt Lake City, UT 84102-3441
+📝 HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (801) 364-8080
+🌐 http://www.projectreality.net
+
+50. Odyssey House - Millcreek
+3944 S 400 E, Salt Lake City, UT 84107-1600
+📝 HRSA Substance Use Disorder Facility, Office-based Opioid Treatment Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (801) 322-3222
+🌐 https://www.odysseyhouse.org/
+
+51. Odyssey House - Sugarhouse
+350 E 2100 S, Salt Lake City, UT 84115-2266
+📝 HRSA Substance Use Disorder Facility, Office-based Opioid Treatment Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (801) 322-3222
+🌐 http://www.odysseyhouse.org
+
+52. Odyssey House - Parents and Children's Residential Program
+42 S 500 E, Salt Lake City, UT 84102-1002
+📝 HRSA Substance Use Disorder Facility, Office-based Opioid Treatment Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (801) 322-3222
+🌐 https://www.odysseyhouse.org/
+
+53. Odyssey House - Redwood Outpatient
+6150 S Redwood Rd, Salt Lake City, UT 84123-5308
+📝 HRSA Substance Use Disorder Facility, Office-based Opioid Treatment Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (385) 342-2292
+🌐 https://www.odysseyhouse.org

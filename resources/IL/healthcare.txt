@@ -1,3 +1,5 @@
+
+
 1. AHS Family Health Center
 2501 W Peterson Ave, Chicago, IL 60659-4108
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026; HRSA database - Last reviewed April 2025
@@ -54,7 +56,7 @@
 
 7. Alivio Medical Center Dental at 63rd St.
 4255 W 63rd St, Chicago, IL 60629-5041
-📝 HRSA database - Last reviewed April 2025
+📝 HRSA database - Last reviewed April 2025; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://alivio.org
 📞 (773) 254-1400
 🗣 Languages: English; Spanish; Mandarin; Cantonese; Taiwanese
@@ -376,11 +378,11 @@
 
 43. LCHC Health & Fitness - 3750
 3750 W Ogden Ave, Chicago, IL 60623-2426
-📝 HRSA database - Last reviewed April 2025
+📝 HRSA database - Last reviewed April 2025; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://lawndale.org
 📞 (872) 588-3000
 🗣 Languages: English, Spanish
-🏥 Services: Women’s health (OB/GYN), Pediatrics, Family Dental Clinic, On-Site Lab
+🏥 Services: Ryan White HIV/AIDS Program; Women’s health (OB/GYN), Pediatrics, Family Dental Clinic, On-Site Lab
 ⏰ Hours: Mon 7:15am - 7:00pm; Tue - Fri 7:15am - 5:00pm; Dental: Mon/Wed/Fri 7:00am - 5:00pm; Tue/Thu 7:00am - 7:00pm; Sat/Sun closed
 
 44. LCHC at 3745
@@ -430,7 +432,7 @@
 
 49. LCHC at Breakthrough Women's Center
 3330 W Carroll Ave, Chicago, IL 60624-2034
-📝 HRSA database - Last reviewed April 2025
+📝 HRSA database - Last reviewed April 2025; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://lawndale.org
 📞 (872) 588-3000
 🗣 Languages: English, Spanish
@@ -511,11 +513,11 @@
 
 58. LCHC at Primo Center for Women and Children
 4952 W Madison St, Chicago, IL 60644-3541
-📝 HRSA database - Last reviewed April 2025
+📝 HRSA database - Last reviewed April 2025; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://lawndale.org
 📞 (872) 588-3000
 🗣 Languages: English, Spanish
-🏥 Services: On-site health clinic for homeless families (integrated medical, Dental, Mental Health)
+🏥 Services: On-site health clinic for homeless families (integrated medical, Dental, Mental Health); Women's health
 ⏰ Hours: Limited hours (weekly clinic days on-site; coordinated with shelter programming)
 
 59. LCHC at Salvation Army Freedom Center
@@ -556,11 +558,11 @@
 
 63. ACCESS Booker Family Health Center
 654 E 47th St, Chicago, IL 60653-4224
-📝 HRSA database - Last reviewed April 2025
+📝 HRSA database - Last reviewed April 2025; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.achn.net/locations/booker
 📞 (773) 624-4800
 🗣 Languages: English; Spanish
-🏥 Services: Primary Care, Pediatrics, Behavioral Health, Family Planning, STD testing
+🏥 Services: Primary Care, Pediatrics, Behavioral Health, Family Planning, STD testing; Migrant health center
 ⏰ Hours: Mon - Fri 8:00am - 5:00pm
 
 64. ACCESS Brandon Family Health Center
@@ -659,7 +661,7 @@
 🌐 https://www.achn.net/locations/madison
 📞 (773) 826-6600
 🗣 Languages: English; Spanish
-🏥 Services: Ryan White HIV/AIDS Program, Primary Care, Pediatrics, Women's Health, Mental Health
+🏥 Services: Ryan White HIV/AIDS Program, Primary Care, Pediatrics, Women's Health, Mental Health; Migrant health center
 ⏰ Hours: Mon - Fri 8:00am - 5:00pm
 
 75. ACCESS Paul and Mimi Francis Westside Family Health Center
@@ -700,11 +702,11 @@
 
 79. ACCESS Servicios Medicos La Villita
 3303 W 26th St, Chicago, IL 60623-4036
-📝 HRSA database - Last reviewed April 2025
+📝 HRSA database - Last reviewed April 2025; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.achn.net/locations/servicios-la-villita
 📞 (773) 277-6589
 🗣 Languages: English; Spanish
-🏥 Services: Family medicine, Women's Health, Family Planning, Chronic disease management
+🏥 Services: Family medicine, Women's Health, Family Planning, Chronic disease management; Migrant health center
 ⏰ Hours: Mon - Fri 8:00am - 5:00pm
 
 80. ACCESS Southwest Family Health Center
@@ -736,11 +738,11 @@
 
 83. ACCESS at Sinai
 2653 W Ogden Ave, Chicago, IL 60608-1647
-📝 HRSA database - Last reviewed April 2025
+📝 HRSA database - Last reviewed April 2025; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.achn.net/locations/sinai
 📞 (773) 257-6730
 🗣 Languages: English; Spanish
-🏥 Services: OB/GYN, Women's Health
+🏥 Services: OB/GYN, Women's Health; Migrant health center
 ⏰ Hours: Mon - Fri 8:00am - 5:00pm
 
 84. Tapestry 360 Health  -  Albany Park
@@ -853,11 +855,11 @@
 
 96. Tapestry 360 Health  -  Wilson
 845 W Wilson Ave, Chicago, IL 60640
-📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
+📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://tap360health.org/location/tapestry-wilson/
 📞 (773) 506-4283
 🗣 Languages: English; Spanish; interpretation in 200+ languages
-🏥 Services: Primary Care, Behavioral Health, Dental Suite Onsite, Services For Uninsured
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care, Behavioral Health, Dental Suite Onsite, Services For Uninsured
 ⏰ Hours: Hours not listed on page; call for current hours
 
 97. Tapestry 360 Health  -  Thresholds (Integrated Care)
@@ -898,7 +900,7 @@
 
 101. Howard Brown Health  -  63rd Street (Oral Health Services)
 641 W 63rd St Bsmt, Chicago, IL 60621-2032
-📝 Last verified: 08/2025
+📝 Last verified: 08/2025; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 📞 (773) 388-1600
 🌐 https://howardbrown.org/Clinic Location/63rd-street/
 🗣 Languages: English; interpretation services available
@@ -1204,7 +1206,7 @@
 
 135. PCC Dental and Specialty Care Center
 5425 W Lake St, Chicago, IL 60644-2342
-📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
+📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.pccwellness.org/locations/pcc-dental-services/
 📞 (773) 413-1920
 🗣 Languages: English, Spanish
@@ -1249,11 +1251,11 @@
 
 140. Heartland Alliance Health  -  Uptown
 4009 N Broadway St, Chicago, IL 60613
-📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026; Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026; Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 https://hahealth.org/
 📞 (773) 275-2586
 🗣 Languages: English, Spanish; additional languages served (Chinese, French Creole, Japanese, Hindi, Swahili, Ukrainian, Polish, Filipino, Urdu, etc.)
-🏥 Services: Ryan White HIV/AIDS Program, Comprehensive primary care (medical, Dental), Mental Health, Substance Use Treatment, support services for vulnerable populations
+🏥 Services: Ryan White HIV/AIDS Program, Comprehensive primary care (medical, Dental), Mental Health, Substance Use Treatment, support services for vulnerable populations; Health Care for the Homeless
 ⏰ Hours: Mon, Wed, Thu, Fri 8 AM - 5 PM; Tue 8 AM - 8 PM; 1st & 3rd Wed 10 AM - 5 PM
 
 141. Temporary Site  -  Heartland International Health Centers (High Ridge Shelter)
@@ -1302,7 +1304,7 @@
 
 146. Friend Family Health Center  -  Mobile Dental Unit
 800 E 55th St, Chicago, IL 60615
-📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
+📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://friendhealth.org/
 📞 (773) 702-0600
 🗣 Languages: English, Spanish
@@ -1500,10 +1502,10 @@ New Beginnings Church  -  6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 
 169. Young Women's Leadership Academy
 2641 S Calumet Ave  RM Clinical1, Chicago, IL, 60616-2901
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 http://lawndale.org
 📞 (872) 588-3000
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Women's health
 
 170. LCHC at Lincoln Park Fullerton
 600 W Fullerton Pkwy  OFC Nurse, Chicago, IL, 60614-2614
@@ -1606,7 +1608,7 @@ New Beginnings Church  -  6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 
 183. UI Health Mile Square Health Center Back of the Yards Dental
 4634 S Bishop St, Chicago, IL, 60609-3240
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 http://hospital.uillinois.edu/patients-and-visitors/mile-square-federally-qualified-health-center
 📞 (312) 355-5645
 🏥 Services: Dental
@@ -1689,10 +1691,10 @@ New Beginnings Church  -  6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 
 194. UI Health Mile Square Health Center Dental - 55th and Pulaski
 5525 S. Pulaski Road  STE 150, Chicago, IL, 60629-4400
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 http://hospital.uillinois.edu/mile-square-health-center
 📞 (312) 490-0060
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Dental
 
 195. LCHC at Kovler Center
 1331 W Albion Ave  RM 205, Chicago, IL, 60626-4701
@@ -1712,10 +1714,10 @@ New Beginnings Church  -  6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 
 197. Midwest Refuah Health Center- Behavioral Health
 6374 N Lincoln Ave, Ste 305, Chicago, IL, 60659-1283
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 http://www.https://www.midwestrefuahhealthcenter.org
 📞 (872) 270-5999
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Mental health; Dental
 
 198. UI Health Mile Square Health Center Primary and Immediate Care Center
 839 W 79th Street  FL 2, Chicago, IL, 60620-2501
@@ -1813,10 +1815,10 @@ New Beginnings Church  -  6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 
 210. TCA Health, Inc.
 1029 E  130th St, Chicago, IL, 60628-6908
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 http://none
 📞 (773) 995-6300
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Dental
 
 211. Mobile Student Health Clinic, Parking Lot B
 1029 East 130th St.,  Pkg Lot B, Chicago, IL, 60628-6062
@@ -2537,7 +2539,8 @@ New Beginnings Church  -  6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 
 315. St. John's Dental Clinic
 700 N 7th St, Springfield, IL, 62702-6352
-🏥 Services: Primary Care
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Dental
 📞 217-788-2300 x2380
 
 316. SIU Center for Healthy Aging and Wellness
@@ -3067,3 +3070,179 @@ New Beginnings Church  -  6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 ⏰ Hours: Wednesday evenings 5:00 PM - 9:00 PM
 📞 (773) 702-1939
 
+401. University Of Illinois @ Chicago
+1610 N Kedzie Ave, Chicago, IL 60647-4908
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (312) 996-8380
+
+402. University Of Illinois At Chicago
+1606 W 63rd St, Chicago, IL 60636-2211
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (312) 519-5526
+
+403. University Of Illinois At Chicago
+4754 W Madison St, Chicago, IL 60644-3615
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (312) 519-5526
+
+404. University Of Illinois At Chicago
+8910 S Commercial Ave, Chicago, IL 60617-3473
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (312) 636-1222
+
+405. Ahf Lakeview
+3311 N Halsted St, Chicago, IL 60657-2412
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (773) 435-9994
+
+406. Ann & Robert H. Lurie Children'S Hospital Of Chicago - Outpatien
+2515 N Clark St, Chicago, IL 60614-2730
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (800) 543-7362
+
+407. Austin Health Center
+4800 W Chicago Ave, Chicago, IL 60651-3226
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (312) 572-4500
+
+408. Haymarket Center
+737 W Randolph St, Chicago, IL 60661-2103
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (312) 226-7984
+
+409. Heartland Alliance Health - Uptown
+1015 W Lawrence Ave, Chicago, IL 60640-5017
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (773) 520-9502
+
+410. Reavis School-Based Health Center
+834 E 50th St, Chicago, IL 60615-2620
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (312) 337-1073
+
+411. Siu School Of Medicine
+927 N Rutledge St, Springfield, IL 62702-3720
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (217) 545-8000
+
+412. Rush Health Center at Crane
+2245 W Jackson Blvd, Chicago, IL 60612-2999
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (773) 534-7582
+🌐 https://www.rush.edu/about-us/rush-community/office-community-health-equity-and-engagement/community-based-practices
+
+413. Family Guidance Centers
+2630 S Wabash Ave, Chicago, IL 60616-2825
+📝 HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (312) 808-3210
+🌐 https://www.fgcinc.org/
+
+414. Byron Street Outpatient
+4840 W Byron St, Chicago, IL 60641-2712
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (773) 282-7800
+🌐 http://lssi.org
+
+415. Aunt Martha's - The Health Outreach Center
+80 S River St, Aurora, IL 60506-5120
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (708) 747-7160
+🌐 http://www.auntmarthas.org
+
+416. Rush Health Center at Simpson
+1321 S Paulina St, Chicago, IL 60608-1221
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (773) 534-7202
+🌐 https://www.rush.edu/about-us/rush-community/office-community-health-equity-and-engagement/community-based-practices
+
+417. Access Community Health Network - Clinic at The Illinois Eye Institute
+3241 S Michigan Ave, Chicago, IL 60616-4201
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (312) 526-2133
+
+418. Rush Health Center at Phillips
+244 E Pershing Rd, Chicago, IL 60653-2298
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (773) 535-1837
+🌐 https://www.rush.edu/about-us/rush-community/office-community-health-equity-and-engagement/community-based-practices
+
+419. Rush University - Dunbar High School SBHC
+3000 S King Dr, Chicago, IL 60616-3398
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (773) 534-0904
+🌐 https://www.rush.edu/about-us/rush-community/office-community-health-equity-and-engagement/community-based-practices#dunbar
+
+420. Children's Research Triangle - The Montessori School of Englewood SBHC
+6936 S Hermitage Ave, Chicago, IL 60636-3333
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (773) 535-9255
+🌐 https://www.tmsoe.org/
+
+421. CHP - Aurora Medical Clinic
+157 S Lincoln Ave, Suite D, Aurora, IL 60505-4291
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (630) 859-0015
+🌐 http://www.chpofil.org
+
+422. Children's Research Triangle - Al Raby High School SBHC
+3545 W Fulton Blvd, Chicago, IL 60624-1994
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (312) 726-4011
+🌐 https://www.childrensresearchtriangle.org/
+
+423. Central Counties Health Centers - Helping Hands
+1023 E Washington St, Springfield, IL 62703-1047
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (217) 522-0048
+🌐 http://www.centralcounties.org
+
+424. TCA Health - Chatham
+8425 S Cottage Grove Ave, Chicago, IL 60619-6113
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (773) 995-6300
+🌐 http://www.tcahealth.org
+
+425. Children's Research Triangle - Johnson College Prep SBHC
+6350 S Stewart Ave, Chicago, IL 60621-3138
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (312) 348-1888
+🌐 https://nobleschools.org/johnson/
+
+426. Human Resources Development Institute (HRDI) - 33 E. 114th Street
+33 E 114th St, Chicago, IL 60628-4921
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (773) 660-4630
+🌐 http://www.hrdi.org
+
+427. Rush Health Center at Orr
+730 N Pulaski Rd, Chicago, IL 60624-1080
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (773) 534-8924
+🌐 https://www.rush.edu/about-us/rush-community/office-community-health-equity-and-engagement/community-based-practices

@@ -434,9 +434,9 @@ Eleanor Cir, Eleanor, WV, 25070
 
 58. VALLEY HEALTH - CARL JOHNSON
 307 5th Ave, Huntington, WV, 25702-1815
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.valleyhealth.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Migrant health center
 📞 304-529-4734
 🗺 https://maps.google.com/?q=38.42748,-82.38721
 
@@ -562,10 +562,12 @@ Eleanor Cir, Eleanor, WV, 25070
 
 75. VALLEY HEALTH - HARMONY HOUSE
 627 4th Ave, Huntington, WV, 25701-1320
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 304-523-2764
 🗺 https://maps.google.com/?q=38.41980,-82.44777
+
+🌐 http://www.valleyhealth.org
 
 76. Valley Health - Point Pleasant
 2501 Jackson Ave, Point Pleasant, WV, 25550-2035
@@ -932,8 +934,8 @@ RT 3 & 19 2157 RITTER DR, DANIELS, WV, 25832-9371
 
 125. Coplin Health Systems WVUP Behavioral Health
 300 Campus Drive  OFC I, Parkersburg, WV, 26104-8656
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Mental health
 📞 304-424-8000
 🗺 https://maps.google.com/?q=39.21654,-81.50577
 
@@ -1196,3 +1198,54 @@ RT 3 & 19 2157 RITTER DR, DANIELS, WV, 25832-9371
 📞 304-924-6262
 🗺 https://maps.google.com/?q=38.98848,-80.22410
 
+161. West Virginia University
+1 Medical Center Dr, Morgantown, WV 26505
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (304) 293-3306
+
+162. Camc Health Ed & Research Institute
+3110 Maccorkle Ave SE, Charleston, WV 25304-1210
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (304) 388-8106
+
+163. Prestera Health Services-Cabell County-Donohoe Drive (Main)
+3375 US Highway 60, Huntington, WV 25705-2837
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (304) 525-7851
+🌐 http://www.prestera.org
+
+164. Valley Health Systems, Inc. - Huntington
+1301 Hal Greer Blvd, Huntington, WV 25701-3803
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (304) 525-0572
+🌐 http://www.valleyhealth.org
+
+165. Prestera Center for Mental Health Services, Inc_Charleston-Kanawha County
+511 Morris St, Charleston, WV 25301-1326
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (304) 341-0511
+🌐 http://www.prestera.org
+
+166. Valley Health- Huntington Dental
+1319 Hal Greer Blvd, Huntington, WV 25701-3803
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Dental
+📞 (304) 529-6060
+
+167. FamilyCare Health Center - OB/GYN & Birth Center
+108 Washington St W STE 201, Charleston, WV 25302-2344
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Women's health
+📞 (304) 757-6999
+🌐 https://www.familycarewv.org
+
+168. FamilyCare Health Center - Mobile Dental
+116 Hills Plz, Charleston, WV 25387-2438
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Dental
+📞 (304) 720-4466

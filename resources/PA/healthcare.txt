@@ -17,17 +17,19 @@ Andrew Mutch Building, Room 405, Penn Presbyterian Medical Center, 51 N. 39th St
 
 3. Hub of Hope
 1401 Arch StreetSub-Concourse LevelPhiladelphia, PA 19102, Philadelphia, PA, 19102
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 215-320-6187 x3211
 🗺 https://maps.google.com/?q=39.95472,-75.16362
 
 4. FIGHT Pediatric and Adolescent Medicine YHEP Clinic
 1207 Chestnut St Fl 5, Philadelphia, PA, 19107-4131
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care; Pediatrics; Dental
 📞 215-344-1632
 🗺 https://maps.google.com/?q=39.95074,-75.16051
+
+🌐 https://www.fight.org/dental
 
 5. Diana Baldwin Clinic
 1211 Chestnut St Ste 605, Philadelphia, PA, 19107-4117
@@ -39,9 +41,9 @@ Andrew Mutch Building, Room 405, Penn Presbyterian Medical Center, 51 N. 39th St
 
 6. Philadelphia FIGHT Jonathan Lax Treatment Center
 1233 Locust Street Floor 5, Suite 500 and Floor 4, Suite 400, Philadelphia, PA, 19107-5453
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.fight.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 215-790-1788
 🗺 https://maps.google.com/?q=39.94809,-75.16176
 
@@ -55,8 +57,8 @@ Andrew Mutch Building, Room 405, Penn Presbyterian Medical Center, 51 N. 39th St
 
 8. Broad Street Ministry
 315 S Broad St, Philadelphia, PA, 19107-5213
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 215-985-4448 x54448
 🗺 https://maps.google.com/?q=39.94616,-75.16475
 
@@ -70,18 +72,20 @@ Andrew Mutch Building, Room 405, Penn Presbyterian Medical Center, 51 N. 39th St
 
 10. Bainbridge
 1348 Bainbridge St, Philadelphia, PA, 19147-1810
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://mazzonicenter.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 215-563-0652
 🗺 https://maps.google.com/?q=39.94249,-75.16502
 
 11. Our Brother's Place
 907 Hamilton St, Philadelphia, PA, 19123-3815
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 215-236-7099
 🗺 https://maps.google.com/?q=39.96021,-75.15384
+
+🌐 http://www.phmc.org
 
 12. Chinatown Medical Services - 2
 432 N    6th St, Philadelphia, PA, 19123-4004
@@ -93,18 +97,20 @@ Andrew Mutch Building, Room 405, Penn Presbyterian Medical Center, 51 N. 39th St
 
 13. Stephen and Sandra Sheller 11th St Family Health Services
 850 N 11th St, Philadelphia, PA, 19123-1957
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.fpcn.com
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care; Public housing primary care
 📞 215-769-1100
 🗺 https://maps.google.com/?q=39.96802,-75.15525
 
 14. Serenity Court
 1221 N   19th St, Philadelphia, PA, 19121-4901
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 215-684-3432
 🗺 https://maps.google.com/?q=39.97360,-75.16696
+
+🌐 https://www.phmc.org
 
 15. Fairmount Primary Care Center at Girard Medical Center
 820 W. Thompson Street, Philadelphia, PA, 19122-4212
@@ -122,9 +128,9 @@ Andrew Mutch Building, Room 405, Penn Presbyterian Medical Center, 51 N. 39th St
 
 17. AL-ASSIST BEHAVIORAL HEALTH CARE
 1401 S    4th St, Philadelphia, PA, 19147-5907
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://WWW.GPHAINC.ORG
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Mental health
 📞 215-339-1070
 🗺 https://maps.google.com/?q=39.93061,-75.15146
 
@@ -137,10 +143,12 @@ Andrew Mutch Building, Room 405, Penn Presbyterian Medical Center, 51 N. 39th St
 
 19. Stephen Klein Wellness Center
 2144 CECIL B MOORE AVE, PHILADELPHIA, PA, 19121-4014
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 215-320-6187
 🗺 https://maps.google.com/?q=39.98002,-75.17028
+
+🌐 http://www.projecthome.org
 
 20. GPHA - Delaware Avenue Health Center
 1080 N Delaware Ave, Philadelphia, PA, 19125-4330
@@ -166,9 +174,9 @@ Andrew Mutch Building, Room 405, Penn Presbyterian Medical Center, 51 N. 39th St
 
 23. Snyder Avenue Dental Center
 640 Snyder Ave, Philadelphia, PA, 19148-2419
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://WWW.GPHAINC.ORG
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Dental
 📞 215-334-4900
 🗺 https://maps.google.com/?q=39.92268,-75.15797
 
@@ -181,33 +189,35 @@ Andrew Mutch Building, Room 405, Penn Presbyterian Medical Center, 51 N. 39th St
 
 25. INTERIM HOUSE WEST
 4108 PARKSIDE AVE, PHILADELPHIA, PA, 19104-1020
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 https://www.phmc.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 215-871-0300
 🗺 https://maps.google.com/?q=39.97516,-75.20757
 
 26. WOODLAND AVENUE HEALTH CENTER
 5000 Woodland Ave, Philadelphia, PA, 19143-5137
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://WWW.GPHAINC.ORG
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 215-726-9807
 🗺 https://maps.google.com/?q=39.93966,-75.21390
 
 27. Strawberry Mansion Health Center
 2840 W Dauphin St, Philadelphia, PA, 19132-4627
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 215-685-2411
 🗺 https://maps.google.com/?q=39.99081,-75.17909
 
 28. Station House
 2601 N Broad St, Philadelphia, PA, 19132-4033
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 215-985-2500
 🗺 https://maps.google.com/?q=39.99220,-75.15435
+
+🌐 http://www.phmc.org
 
 29. Fair Hill Pharmacy- Liberty Square
 1300 W Lehigh Ave, Ste 102, Philadelphia, PA, 19132-2760
@@ -226,16 +236,16 @@ Andrew Mutch Building, Room 405, Penn Presbyterian Medical Center, 51 N. 39th St
 
 31. Greater Philadelphia Health Action, Inc. Dental and Behavioral Healthcare
 5501 Woodland Ave, Philadelphia, PA, 19143-5607
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://gphainc.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Dental; Mental health
 📞 215-925-2400
 🗺 https://maps.google.com/?q=39.93550,-75.22083
 
 32. Congreso Health Center
 216 W. Somerset St., Philadelphia, PA, 19133-3534
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 267-765-2272
 🗺 https://maps.google.com/?q=39.99295,-75.13543
 
@@ -265,9 +275,9 @@ Andrew Mutch Building, Room 405, Penn Presbyterian Medical Center, 51 N. 39th St
 
 36. THE SAYRE HEALTH CENTER
 5800 Walnut Street STE 121, Philadelphia, PA, 19139
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.sayrehealth.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Migrant health center
 📞 215-474-4444
 🗺 https://maps.google.com/?q=39.95746,-75.23869
 
@@ -280,10 +290,12 @@ Andrew Mutch Building, Room 405, Penn Presbyterian Medical Center, 51 N. 39th St
 
 38. Esperanza Health Center - Kensington
 861 E Allegheny Ave, Philadelphia, PA, 19134-2401
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care; Migrant health center
 📞 215-302-3600
 🗺 https://maps.google.com/?q=39.99685,-75.11348
+
+🌐 http://www.esperanzahealth.com
 
 39. HUNTING PARK HEALTH CENTER
 1999 W. HUNTING PARK AVE, PHILADELPHIA, PA, 19140-2828
@@ -303,18 +315,20 @@ Andrew Mutch Building, Room 405, Penn Presbyterian Medical Center, 51 N. 39th St
 
 41. Abbottsford Falls Health Center
 4700 Wissahickon Ave, Suite 118, Philadelphia, PA, 19144-4248
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.fpcn.com
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care; Public housing primary care
 📞 267-597-3600
 🗺 https://maps.google.com/?q=40.01586,-75.17257
 
 42. Outley House
 6901 Woodland Ave, Philadelphia, PA, 19142-1125
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 215-724-8414
 🗺 https://maps.google.com/?q=39.92181,-75.24080
+
+🌐 http://www.phmc.org
 
 43. Fair Hill Community Physicians- Hunting Park
 133 W Hunting Park Ave, Philadelphia, PA, 19140-2717
@@ -326,8 +340,8 @@ Andrew Mutch Building, Room 405, Penn Presbyterian Medical Center, 51 N. 39th St
 
 44. Parkview Women and Children's Health Center
 841 E Hunting Park Ave, Philadelphia, PA, 19124-4800
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Women's health
 📞 215-537-7695
 🗺 https://maps.google.com/?q=40.01205,-75.11035
 
@@ -341,9 +355,9 @@ Andrew Mutch Building, Room 405, Penn Presbyterian Medical Center, 51 N. 39th St
 
 46. Pathways to Housing - PA
 5201 Old York Rd, Philadelphia, PA, 19141-2985
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 http://www.pathwaystohousing.org/site/pa/
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 215-390-1500
 🗺 https://maps.google.com/?q=40.03288,-75.14466
 
@@ -356,17 +370,17 @@ Andrew Mutch Building, Room 405, Penn Presbyterian Medical Center, 51 N. 39th St
 
 48. FRANKFORD AVENUE HEALTH CENTER
 4510 FRANKFORD AVE, PHILADELPHIA, PA, 19124-3602
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://WWW.GPHAINC.ORG
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 215-744-1302
 🗺 https://maps.google.com/?q=40.01438,-75.08630
 
 49. FPCSN at Philadelphia High School for Girls
 1400 W Olney Ave, Philadelphia, PA, 19141-2316
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Public Housing Program. Source: data.hrsa.gov.
 🌐 https://www.fpcn.com
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Public housing primary care
 📞 267-597-3600
 🗺 https://maps.google.com/?q=40.03857,-75.14603
 
@@ -394,9 +408,9 @@ Andrew Mutch Building, Room 405, Penn Presbyterian Medical Center, 51 N. 39th St
 
 53. STENTON FAMILY MANOR
 1300 E Tulpehocken St, Philadelphia, PA, 19138-1523
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 https://www.phmc.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 215-548-7870
 🗺 https://maps.google.com/?q=40.05672,-75.16406
 
@@ -461,9 +475,9 @@ Andrew Mutch Building, Room 405, Penn Presbyterian Medical Center, 51 N. 39th St
 
 62. VHP Community Vision Center at 6th Street
 101 N. 6th St  STE 300, Allentown, PA, 18101-1403
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.valleyhealthpartners.org/
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Dental
 📞 484-224-0775
 🗺 https://maps.google.com/?q=40.60433,-75.47030
 
@@ -484,10 +498,12 @@ Andrew Mutch Building, Room 405, Penn Presbyterian Medical Center, 51 N. 39th St
 
 65. Star Community Health-Specialty
 450 Chew St  STE 205, Allentown, PA, 18102-3434
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Women's health; Dental
 📞 484-822-7824
 🗺 https://maps.google.com/?q=40.60696,-75.46916
+
+🌐 https://starcommunityhealth.org
 
 66. Center for Women's Medicine
 1627 Chew St Ste Cwm, Allentown, PA, 18102-3648
@@ -1391,9 +1407,9 @@ BROAD TOP, PA, 16621-9001
 
 187. HHC- South Allison Hill
 110 S   17th St, Harrisburg, PA, 17104-1123
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.hamiltonhealthcenter.com
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care; Migrant health center
 📞 717-232-9971
 🗺 https://maps.google.com/?q=40.26548,-76.86474
 
@@ -1646,3 +1662,221 @@ New River: 4159 W Girard Ave, Philadelphia, PA 19104. Cedar: 501 S 54th St, Phil
 ⏰ Hours: 8:00 AM - 4:00 PM
 📞 (215) 898-1750
 
+221. Urban Solutions
+1408 S Broad St, Philadelphia, PA 19146-4808
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (215) 755-6462
+
+222. Aids Care Group
+525 Penn St, Reading, PA 19601-3410
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (484) 509-4249
+
+223. Annex West Health Center
+3990 Filbert St, Philadelphia, PA 19104-26ND
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (267) 350-5150
+
+224. Blacks Educating Blacks About Sex Health Issues (Bebashi)
+1217 Spring Garden St # 1, Philadelphia, PA 19123-3212
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (215) 769-3561
+
+225. Carl Moore Health Center
+1401 S 31st St, Philadelphia, PA 19146-3506
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (215) 755-7700
+
+226. Chop Family Care Center
+3550 Market St, Philadelphia, PA 19104-3303
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (215) 590-2956
+
+227. Delaware Valley Community Health
+1412 Fairmount Ave, Philadelphia, PA 19130-2908
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (215) 235-9600
+
+228. Drexel University College Of Medicine - Site Schc
+160 E Erie Ave, Philadelphia, PA 19134-1011
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (215) 427-5284
+
+229. Esperanza Health Center - 5th Street
+2940 N 5th St, Philadelphia, PA 19133-2801
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program; Migrant health center
+📞 (215) 302-3600
+🌐 http://www.esperanzahealth.com
+
+230. Esperanza Health Center - 6th Street
+4417 N 6th St, Philadelphia, PA 19140-2319
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program; Migrant health center
+📞 (215) 302-3600
+🌐 http://www.esperanzahealth.com
+
+231. Health Annex
+6120 Woodland Ave, Philadelphia, PA 19142-3224
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (215) 727-4721
+
+232. Health Center 10
+2230 Cottman Ave, Philadelphia, PA 19149-1230
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (215) 685-0603
+
+233. Health Center 3
+555 S 43rd St, Philadelphia, PA 19104-4408
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (215) 685-7504
+
+234. Health Center 4
+4400 Haverford Ave, Philadelphia, PA 19104-1361
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (215) 685-7601
+
+235. Health Center 5
+1900 N 20th St, Philadelphia, PA 19121-2217
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (215) 685-2930
+
+236. Hospital Of The University Of Pennsylvania
+3400 Civic Center Blvd UNIT Flo, Philadelphia, PA 19104-5127
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (215) 662-6932
+
+237. Partnership Comprehensive Care Practice-Drexel University
+1427 Vine St, Philadelphia, PA 19102-1031
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (215) 762-2530
+
+238. Penn State Health Medical Group-Harrisburg
+2626 N 3rd St, Harrisburg, PA 17110-2044
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (717) 531-8881
+
+239. Phmc Care Clinic
+1200 Callowhill St STE 101, Philadelphia, PA 19123-3658
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (215) 825-8220
+
+240. Presbyterian Medical Center - Penn Comm Infectious Diseases
+51 N 39th St, Philadelphia, PA 19104-2640
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (215) 662-9908
+
+241. Stephen Klein Wellness Center-Project H.O.M.E- Primary Care @ Prevention Point - PT- 8 hrs
+2913 Kensington Ave, Philadelphia, PA 19134-3016
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program; Health Care for the Homeless
+📞 (215) 634-5272
+🌐 http://www.projecthome.org/skwc
+
+242. Reacch Program
+2501 N 3rd St, Harrisburg, PA 17110-1904
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (717) 782-2750
+
+243. Southeast Health Center
+800 Washington Ave, Philadelphia, PA 19147-4717
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (215) 339-5100
+
+244. Temple University Hospital
+3322 N Broad St, Philadelphia, PA 19140-5185
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (215) 707-1800
+
+245. Thomas Jefferson University Hospital
+33 S 9th St, Philadelphia, PA 19107-4408
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (215) 955-7785
+
+246. Public Health Management Corporation - Ridge Avenue Shelter
+1360 Ridge Ave, Philadelphia, PA 19123-2424
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (215) 684-5344
+🌐 http://www.phmc.org
+
+247. FPCSN – Health Annex
+6120B Woodland Ave, Philadelphia, PA 19142
+📝 HRSA Federally Qualified Health Center (FQHC), Public Housing Program. Source: data.hrsa.gov.
+🏥 Services: Public housing primary care; Primary care
+📞 (215) 727-4721
+🌐 http://www.fpcn.com/
+
+248. FPCSN - Belmont Charter High School
+311 N 19th St, Philadelphia, PA 19103-1102
+📝 HRSA Federally Qualified Health Center (FQHC), Public Housing Program. Source: data.hrsa.gov.
+🏥 Services: Public housing primary care; Primary care
+📞 (267) 597-3604
+🌐 http://www.fpcn.com
+
+249. FPCSN - Belmont Charter School
+4030 Brown St, Philadelphia, PA 19104-4899
+📝 HRSA Federally Qualified Health Center (FQHC), Public Housing Program. Source: data.hrsa.gov.
+🏥 Services: Public housing primary care; Primary care
+📞 (267) 597-3604
+🌐 http://www.fpcn.com
+
+250. FPCSN – CB School
+4101 Freeland Ave, Philadelphia, PA 19128-3509
+📝 HRSA Federally Qualified Health Center (FQHC), Public Housing Program. Source: data.hrsa.gov.
+🏥 Services: Public housing primary care; Primary care
+📞 (267) 776-3130
+🌐 https://cbcommunityschools.org/
+
+251. FPCSN - Bartram High School
+2401 S 6th St, Philadelphia, PA 19148-3830
+📝 HRSA Federally Qualified Health Center (FQHC), Public Housing Program. Source: data.hrsa.gov.
+🏥 Services: Public housing primary care; Primary care
+📞 (267) 597-3604
+🌐 http://www.fpcn.com
+
+252. Covenant House Health and Dental Services
+8127 Stenton Ave, Philadelphia, PA 19150-3530
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Dental
+📞 (261) 331-9832
+
+253. Tabor Kids Pediatric Mini Clinic
+57 E Armat St, Philadelphia, PA 19144-2201
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Pediatrics
+📞 (215) 884-1020
+
+254. GPHA, INC. Medical Suite at Temple’s Dental School
+3223 N Broad St, Philadelphia, PA 19140-5099
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Dental
+📞 (215) 925-2400
+
+255. Maria de los Santos Women's Health Center
+400 W Allegheny Ave, Philadelphia, PA 19133-3614
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Women's health
+📞 (215) 291-2500

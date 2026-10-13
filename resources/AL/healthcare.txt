@@ -26,16 +26,16 @@
 
 4. Behavioral Health Wellness Center
 3200 27th St N Ste C, Birmingham, AL, 35207-4554
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.alabamaarms.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Mental health; Dental
 📞 205-322-8288
 🗺 https://maps.google.com/?q=33.55430,-86.81785
 
 5. Cahaba Medical Care - Birmingham Dental Office
 623 8th Ave W, Birmingham, AL, 35204-3604
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Dental
 📞 205-545-7696
 🗺 https://maps.google.com/?q=33.51153,-86.84707
 
@@ -403,8 +403,8 @@
 
 53. Behavioral Health-DEN plus Admin  Church Street
 415 Church St NW Building E  STE 4, Huntsville, AL, 35801-5577
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Mental health
 📞 256-536-4700
 🗺 https://maps.google.com/?q=34.73456,-86.59171
 
@@ -816,3 +816,54 @@
 📞 225-683-5292 x51201
 🗺 https://maps.google.com/?q=30.63506,-90.49643
 
+108. Theodore Hendrix Dental Center
+2731 Ml King Jr Blvd, Tuscaloosa, AL 35401-5235
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program; Dental
+📞 (205) 758-6647
+🌐 https://www.whatleyhealth.org
+
+109. Aids Action Coalition Of Huntsville, Inc.
+301 Governors Dr SW, Huntsville, AL 35801-5123
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (256) 536-4700
+
+110. Five Horizons Health Services
+2720 6th St, Tuscaloosa, AL 35401-1731
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (205) 759-8470
+
+111. Five Horizons Health Services
+2900 McGehee Rd, Montgomery, AL 36111-2151
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (334) 280-3349
+
+112. Uab Family Clinic
+1600 5th Ave S, Birmingham, AL 35233-1700
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (205) 638-9400
+
+113. UAB Medicine - UAB Beacon Recovery
+530 Beacon Pkwy W, Birmingham, AL 35209-3196
+📝 HRSA Substance Use Disorder Facility, Office-based Opioid Treatment Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (205) 917-3733
+🌐 https://www.uabmedicine.org/specialties/beacon-recovery-program/
+
+114. Christ Health Center Mobile Medical and Dental Unit #1
+5720 1st Ave S, Birmingham, AL 35212-2599
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Dental
+📞 (205) 380-9455
+🌐 https://www.christhealthcenter.org
+
+115. Thrive Alabama Pediatrics
+3007 S Memorial Pkwy, Huntsville, AL 35801-5304
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Pediatrics
+📞 (256) 429-4500
+🌐 https://www.thrivealabama.org

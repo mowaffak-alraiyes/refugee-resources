@@ -10,9 +10,9 @@
 
 2. Health Care for the Homeless - MRM
 21 S 29th St, Billings, MT, 59101-4024
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 https://riverstonehealth.org/
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 406-247-3200
 🗺 https://maps.google.com/?q=45.77927,-108.50452
 
@@ -41,9 +41,9 @@
 
 6. Mobile Dental Unit
 3450 Duck Creek Rd, Billings, MT, 59101-6170
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.agworker.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Dental
 📞 800-813-4492
 🗺 https://maps.google.com/?q=45.70652,-108.63797
 
@@ -167,9 +167,9 @@
 
 23. PureView Health Center
 1930 9th Ave, Helena, MT, 59601-4759
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 http://pureviewhealthcenter.org/
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 406-443-2584
 🗺 https://maps.google.com/?q=46.58940,-112.00588
 
@@ -183,9 +183,9 @@
 
 25. Healthcare for the Homeless
 533 N Last Chance Gulch, Helena, MT, 59601-3346
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 http://pureviewhealthcenter.org/
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 406-449-5682
 🗺 https://maps.google.com/?q=46.59226,-112.03625
 
@@ -444,3 +444,293 @@
 📞 406-873-5222
 🗺 https://maps.google.com/?q=48.63280,-112.32609
 
+60. Yellowstone City-County Health Department
+123 South 27th Street, Billings, MT 59101-4227
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (406) 247-3350
+
+61. Cascade City-County Health Department
+115 4th Street South, Great Falls, MT 59401-3618
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (406) 791-9269
+
+62. Gallatin City-County Health Department
+215 West Mendenhall Street, Bozeman, MT 59715-3478
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (406) 582-3143
+
+63. AWARE- CORE School at Morningside
+4119 7th Ave N, Great Falls, MT 59405-1199
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (406) 268-6960
+🌐 http://www.aware-inc.org
+
+64. AWARE- Miles Avenue Elementary
+1601 Miles Ave, Billings, MT 59102-5031
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (406) 281-6214
+🌐 https://milesavenue.billingsschools.org/
+
+65. AWARE - Rose Park Elementary School
+1812 19th St W, Billings, MT 59102-2941
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (406) 281-6219
+🌐 http://www.aware-inc.org
+
+66. AWARE - Lockwood Primary School
+1932 US Highway 87 E, Billings, MT 59101-6699
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (406) 252-6022
+🌐 http://www.aware-inc.org
+
+67. AWARE- Newman Elementary School SBHC
+S Billings Blvd, Billings, MT 59101-9782
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (406) 281-6215
+🌐 https://www.aware-inc.org/
+
+68. AWARE - McKinley Elementary
+819 N 31st St, Billings, MT 59101
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (406) 281-6212
+🌐 http://www.aware-inc.org
+
+69. Yellowstone Boys and Girls Ranch - Castle Rock Middle School SBHC
+1441 Governors Blvd, Billings, MT 59105-1505
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (406) 281-5800
+🌐 http://www.aware-inc.org
+
+70. AWARE - Riverview Elementary CSCT
+100 Smelter Avenue Northwest, Great Falls, MT 59404-1898
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (406) 552-5762
+🌐 https://aware-inc.org/
+
+71. AWARE - Big Sky Elementary SBHC
+3231 Granger Ave E, Billings, MT 59102-6044
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (406) 281-6204
+🌐 https://www.aware-inc.org/
+
+72. AWARE - Great Falls Giant Springs Elementary CSCT
+2501 2nd Ave N, Great Falls, MT 59401-3332
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (406) 552-5762
+🌐 http://www.aware-inc.org
+
+73. Billings Schools - Bitterroot Elementary School SBHC
+1801 Bench Blvd, Billings, MT 59105-4199
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (406) 281-6205
+🌐 https://www.billingsschools.org/our-schools/elementary-schools/bitterroot
+
+74. AWARE - Bryant Elementary CSCT
+1529 Boulder Ave, Helena, MT 59601-3006
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (406) 324-1200
+🌐 http://www.aware-inc.org
+
+75. Yellowstone Boys and Girls Ranch - Longfellow Elementary School SBHC
+1101 7th Ave S, Great Falls, MT 59405-2267
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (406) 655-2118
+🌐 http://www.ybgr.org
+
+76. Yellowstone Boys and Girls Ranch - Medicine Crow CSCT
+900 Barrett Rd, Billings, MT 59105-4179
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (406) 655-2100
+🌐 https://www.ybgr.org
+
+77. AWARE - C.R. Anderson Middle School CSCT
+1200 Knight St, Helena, MT 59601-2176
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (406) 324-2800
+🌐 http://www.aware-inc.org
+
+78. AWARE - Great Falls West School CSCT
+1205 1st Avenue Northwest, Great Falls, MT 59404-2299
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (406) 563-8117
+🌐 http://www.aware-inc.org
+
+79. AWARE - Early Childhood Services Helena CSCT
+330 Lola Street, Helena, MT 59601-8608
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (406) 563-8117
+🌐 http://www.aware-inc.org
+
+80. AWARE - Great Falls Lincoln School CSCT
+624 27th Street South, Great Falls, MT 59405-3299
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (406) 552-5762
+🌐 http://www.aware-inc.org
+
+81. AWARE- Central Heights Elementary School
+120 Lexington Dr, Billings, MT 59102-5799
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (406) 281-6209
+🌐 https://centralheights.billingsschools.org/
+
+82. AWARE - Washington Innovation Center
+1044 Cook Ave, Billings, MT 59102-5806
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (406) 281-6221
+🌐 http://www.aware-inc.org
+
+83. AWARE- Poly Drive Elementary
+2410 Poly Dr, Billings, MT 59102-1537
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (406) 281-6217
+🌐 https://polydrive.billingsschools.org/
+
+84. Adria Willis, LCSW LLC
+48 Medical Park Dr, Helena, MT 59601-4925
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (307) 851-3832
+🌐 https://www.adriawillistherapy.com/
+
+85. Yellowstone Boys and Girls Ranch - Orchard School CSCT
+120 Jackson St, Billings, MT 59101-5298
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (406) 655-2100
+🌐 https://www.ybgr.org
+
+86. AWARE - Will James Middle School
+1200 30th Street West, Billings, MT 59102-3799
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (406) 281-6100
+🌐 http://www.aware-inc.org
+
+87. AWARE - Journey Academy
+415 N 30th St, Billings, MT 59101-1298
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (406) 281-5000
+🌐 http://www.aware-inc.org
+
+88. Yellowstone Boys and Girls Ranch - Elder Grove School SBHC
+1532 South 64th Street West, Billings, MT 59106-3238
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (406) 655-2113
+🌐 http://www.ybgr.org
+
+89. Yellowstone Academy- School District #58
+1750 Ray of Hope Ln, Billings, MT 59106-3502
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (406) 651-2962
+🌐 https://www.ybgr.org/about-yellowstone-academy/
+
+90. AWARE- Ben Steele Middle School
+5640 Grand Ave, Billings, MT 59106-2284
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (406) 601-1600
+🌐 https://bensteele.billingsschools.org/
+
+91. AWARE-Ponderosa Elementary School
+4188 King Ave E, Billings, MT 59101-5499
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (406) 281-6218
+🌐 https://ponderosa.billingsschools.org/
+
+92. Yellowstone Boys and Girls Ranch - Sunnyside Elementary SBHC
+1800 19th St S, Great Falls, MT 59405-6199
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (406) 655-2118
+🌐 http://www.ybgr.org
+
+93. Bridgemont Health and Wellness - Main Site
+1245 N 29th St, Billings, MT 59101-0183
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (406) 252-5658
+🌐 https://bridgemontmt.com/billings/
+
+94. AWARE - Great Falls School District Transitional Kindergarten CSCT
+3300 3rd St NE, Great Falls, MT 59404-4225
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (406) 552-5762
+🌐 http://www.aware-inc.org
+
+95. AWARE- Sacajawea Elementary School CSCT
+630 Sacajawea Dr, Great Falls, MT 59404-1222
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (406) 268-6000
+🌐 https://gfps.k12.mt.us/departments/elementary-education/overview
+
+96. Yellowstone Boys and Girls Ranch - Independent School SBHC
+2907 Roundup Rd, Billings, MT 59105
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (406) 655-2133
+🌐 http://www.ybgr.org
+
+97. Yellowstone Boys and Girls Ranch - Riverside Middle School SBHC
+3700 Madison Ave, Billings, MT 59101-5245
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (406) 655-2113
+🌐 http://www.ybgr.org
+
+98. AWARE - Broadwater Elementary School SBHC
+900 Hollins Ave, Helena, MT 59601-2599
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (406) 324-1130
+🌐 https://www.aware-inc.org/who-we-are
+
+99. AWARE- Lewis & Clark Elementary
+3800 1st Ave S, Great Falls, MT 59405-1698
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (406) 268-6705
+🌐 https://lce.gfps.k12.mt.us/
+
+100. AWARE - Mountain View Elementary School CSCT
+3420 2nd Avenue North, Great Falls, MT 59401-3004
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (406) 563-8177
+🌐 http://www.aware-inc.org
+
+101. Yellowstone Boys and Girls Ranch - Lewis & Clark Middle School SBHC
+13 Lewis Ave, Billings, MT 59101-6032
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (406) 655-2100
+🌐 https://www.ybgr.org

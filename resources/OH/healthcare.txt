@@ -10,9 +10,9 @@
 
 2. Health Center at Faith Mission
 245 N Grant Ave, Columbus, OH, 43215-2641
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 https://www.lssnetworkofhope.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 614-224-0747
 🗺 https://maps.google.com/?q=39.96842,-82.99229
 
@@ -41,8 +41,8 @@
 
 6. Equitas Health Mobile #1
 750 E Long St, Columbus, OH, 43203-1846
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 614-340-6700
 🗺 https://maps.google.com/?q=39.96757,-82.98120
 
@@ -56,16 +56,16 @@
 
 8. FOH Men's Shelter- Dental Site
 924 E Main St, Columbus, OH, 43205-2338
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Dental
 📞 614-360-0251
 🗺 https://maps.google.com/?q=39.95799,-82.97482
 
 9. Equitas Health Short North
 1033 N High St, Columbus, OH, 43201-2409
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.equitashealth.com
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 614-340-6777
 🗺 https://maps.google.com/?q=39.98353,-83.00512
 
@@ -1144,9 +1144,9 @@
 
 155. HealthSource Eastgate Pediatrics
 4627 Aicholtz Rd, Cincinnati, OH, 45244-1447
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.healthsourceofohio.com
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Pediatrics
 📞 513-753-2820
 🗺 https://maps.google.com/?q=39.10362,-84.29614
 
@@ -1227,8 +1227,8 @@
 
 166. HealthSource Anderson Ob/Gyn
 8000 5 Mile Rd Ste 207, Cincinnati, OH, 45230-2163
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Women's health
 📞 513-474-2870
 🗺 https://maps.google.com/?q=39.08567,-84.35150
 
@@ -1391,9 +1391,9 @@
 
 188. SHELTERHOUSE-Hatton Center for Women
 2499 Reading Rd, Cincinnati, OH, 45202-1464
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.neighborhubhealth.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Women's health
 📞 513-386-7899
 🗺 https://maps.google.com/?q=39.12613,-84.50192
 
@@ -1428,9 +1428,9 @@
 
 193. Cincinnati Health Network, Inc.
 40 E MCMICKEN AVE, CINCINNATI, OH, 45202-6549
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.neighborhubhealth.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Dental
 📞 513-386-7899
 🗺 https://maps.google.com/?q=39.11599,-84.51559
 
@@ -1607,9 +1607,9 @@
 
 217. CAHC Mobile Dental Van
 2916 Central Ave, Cleveland, OH, 44115-3229
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.carealliance.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Dental
 📞 216-535-9100
 🗺 https://maps.google.com/?q=41.49676,-81.66681
 
@@ -1629,9 +1629,9 @@
 
 220. The MetroHealth System
 2500 Metrohealth Dr, Cleveland, OH, 44109-1900
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.metrohealth.org/community/community-health-centers
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 216-778-7800
 🗺 https://maps.google.com/?q=41.46189,-81.69752
 
@@ -1658,9 +1658,9 @@
 
 224. Broadway Dental Clinic
 6835 Broadway Ave, Cleveland, OH, 44105-1313
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.metrohealth.org/community/community-health-centers
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Dental
 📞 216-957-1500
 🗺 https://maps.google.com/?q=41.46119,-81.64123
 
@@ -2053,9 +2053,9 @@
 
 277. HURON STREET WOMEN'S CENTER
 923 N Huron St, Toledo, OH, 43604-1715
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.nhainc.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Women's health
 📞 419-242-6028
 🗺 https://maps.google.com/?q=41.65880,-83.52814
 
@@ -2222,3 +2222,160 @@
 📞 765-641-7499
 🗺 https://maps.google.com/?q=40.09972,-85.66977
 
+299. University Of Toledo Medical Center
+3000 Arlington Ave, Toledo, OH 43614-2595
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (419) 383-6851
+
+300. Ahf Cleveland
+2829 Euclid Ave, Cleveland, OH 44115-2413
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (216) 621-0766
+
+301. Aids Healthcare Foundation - Columbus, Oh
+815 W Broad St, Columbus, OH 43222-1464
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (614) 223-1532
+
+302. Circle Health Services
+12201 Euclid Ave, Cleveland, OH 44106-4310
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (216) 721-4010
+
+303. Cleveland Clinic
+9500 Euclid Ave, Cleveland, OH 44195-0001
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (216) 636-1873
+
+304. Detroit Shoreway Community Health Center
+6412 Franklin Blvd, Cleveland, OH 44102-3153
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (216) 281-0872
+
+305. Heart Of Ohio Family Health Whitehall
+5000 E Main St, Columbus, OH 43213-2440
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (614) 235-5555
+
+306. Ohio Dept Of Health
+246 N High St, Columbus, OH 43215-2406
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (614) 466-8369
+
+307. Research Institute At Nationwide Children'S Hospital
+700 Childrens Dr, Columbus, OH 43205-2664
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (614) 355-5903
+
+308. Ridge Community Health Center
+3569 Ridge Rd, Cleveland, OH 44102-5443
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (216) 281-0872
+
+309. The Ohio State University Wexner Medical Center
+410 W 10th Ave, Columbus, OH 43210-1240
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (614) 293-8000
+
+310. University Hospitals Of Cleveland
+11100 Euclid Ave, Cleveland, OH 44106-1716
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (216) 541-1781
+
+311. University Of Cincinnati Infectious Diseases Center
+200 Albert Sabin Way, Cincinnati, OH 45267-2800
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (513) 584-6977
+
+312. Talbert House Engagement Center/ADAPT/OTP
+510 Oak St, Cincinnati, OH 45219-2593
+📝 HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (513) 751-7747
+🌐 http://www.talberthouse.org
+
+313. Neighborhood Health Assoc of Toledo - Mildred Bayer Clinic Homeless
+2101 Jefferson Ave, Toledo, OH 43604-5117
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (419) 241-1554
+🌐 https://nhainc.org/mildred-bayer-clinic-for-the-homeless/
+
+314. Cincinnati Health Network - Shelterhouse
+411 Gest St, Cincinnati, OH 45203-1730
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (513) 386-7899
+
+315. Nationwide Children's Hospital-KIPP Columbus SBHC
+2800 Inspire Dr, Columbus, OH 43224-4621
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (614) 355-2590
+🌐 https://www.nationwidechildrens.org/specialties/school-health-services
+
+316. Nationwide Children's Hospital - East High School SBHC
+1500 E Broad St, Columbus, OH 43205-1585
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (614) 355-2590
+🌐 https://www.nationwidechildrens.org/specialties/school-based-health-services-care-connection
+
+317. Nationwide Children's Hospital - Ft. Hayes School SBHC
+468 Cleveland Ave, Columbus, OH 43215-2164
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (614) 355-2590
+🌐 https://www.nationwidechildrens.org/specialties/school-based-health-services-care-connection
+
+318. Nationwide Children's Hospital - South High School SBHC
+1160 Ann St, Columbus, OH 43206-2799
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (614) 355-2590
+🌐 https://www.nationwidechildrens.org/specialties/school-based-health-services-care-connection
+
+319. Nationwide Children's Hospital - West High School SBHC
+179 S Powell Ave, Columbus, OH 43204-3099
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (614) 355-2590
+🌐 https://www.nationwidechildrens.org/specialties/school-based-health-services-care-connection
+
+320. CAHC Norma Herr Womens  Center
+2227 Payne Ave FL 2, Cleveland, OH 44114-4424
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Women's health
+📞 216-781-6228 x622
+🌐 https://www.carealliance.org
+
+321. Unison Behavioral Health Center
+1425 Starr Ave, Toledo, OH 43605-2456
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (419) 693-0631
+
+322. Unison Behavioral Health Center
+544 E Woodruff Ave, Toledo, OH 43604-5367
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (419) 242-9577
+
+323. NEON Dental Mobile Unit
+15320 Euclid Ave, Cleveland, OH 44112-2899
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Dental
+📞 (216) 231-7700

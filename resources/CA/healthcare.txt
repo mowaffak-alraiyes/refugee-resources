@@ -1996,8 +1996,9 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 
 358. Sacramento County Primary Care Center
 4600 BROADWAY, SACRAMENTO, CA, 95820-1527
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 http://www.dhhs.saccounty.net/PRI/Pages/PRI-Home.aspx
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care; Migrant health center
 📞 916-874-9777
 
 359. Las Palmas Elementary School
@@ -2029,7 +2030,8 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 
 364. Sacramento Community Clinics - Stockton Blvd Dental
 5200 Stockton Blvd STE 110, Sacramento, CA, 95820-5492
-🏥 Services: Primary Care
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Dental
 📞 916-642-1867
 
 365. Katherine Johnson Middle School/Encina High School
@@ -2116,17 +2118,20 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 
 380. WellSpace Health - North Behavioral Health Center
 4441 Auburn Blvd, #E, Sacramento, CA, 95841-4139
-🏥 Services: Primary Care
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Mental health
 📞 916-737-5555
 
 381. WellSpace Health - Women's Health Education Center
 7601 Hospital Dr, #104B, Sacramento, CA, 95823-5482
-🏥 Services: Primary Care
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Women's health
 📞 916-689-3433
 
 382. WellSpace Health - South Valley Dental Clinic
 8231 E Stockton Blvd STE C, Sacramento, CA, 95828-8202
-🏥 Services: Primary Care
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Dental
 📞 916-737-5573
 
 383. Woodridge Elementary School
@@ -2507,8 +2512,11 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 
 449. JWCH Institute - Downtown Women's Center
 442 S. Los Angeles St., Los Angeles, CA, 90013-1425
-🏥 Services: Primary Care
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Women's health
 📞 213-223-2900
+
+🌐 https://www.jwchinstitute.org
 
 450. Los Angeles Christian Health Centers at Los Angeles Mission
 303 E    5th St, Los Angeles, CA, 90013-1505
@@ -2536,8 +2544,9 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 
 454. JWCH Medical Clinic @ Charles Cobb Hotel
 521 S San Pedro St, Los Angeles, CA, 90013-2148
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.jwchinstitute.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Migrant health center
 📞 213-353-1118
 
 455. JWCH Institute, Inc. Medical Clinic / Weingart Center
@@ -2560,8 +2569,11 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 
 458. Herman Ostrow School of Dentistry of USC
 545 S San Pedro St, Los Angeles, CA, 90013-2101
-🏥 Services: Primary Care
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 213-347-6357
+
+🌐 http://www.lachc.com
 
 459. Wesley Health Centers-- Cecil Hotel
 620 S Main St, Los Angeles, CA, 90014-2087
@@ -2576,7 +2588,8 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 
 461. CSC - COMMUNITY HEALTH CENTER Suite 213
 767 N Hill St Ste 213, Los Angeles, CA, 90012-2365
-🏥 Services: Primary Care
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Migrant health center
 📞 213-808-1792
 🌐 https://www.cscla.org
 🗣 Languages: Assistance, Career Guidance, Resume Writing, Mock Interviews, Job Search Assistance, Tuition, Certification, Training, Mandarin, Cantonese
@@ -2595,14 +2608,16 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 
 464. AltaMed Medical Group: William Mead
 268 BLOOM ST # 322, LOS ANGELES, CA, 90012-1973
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.altamed.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Migrant health center
 📞 888-499-9303
 
 465. APLA Health & Wellness Wilshire Dental Clinic
 1127 Wilshire Blvd. STE 1504, Los Angeles, CA, 90017-4006
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.apla.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Dental
 📞 213-201-1388
 
 466. CNHF - Lucas Clinic
@@ -2635,7 +2650,8 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 
 471. LACHC at Pico Aliso Mental Health Suite
 1619 E 4th St, Los Angeles, CA, 90033-4201
-🏥 Services: Primary Care
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Mental health
 📞 213-893-1960
 
 472. Mi Centro
@@ -2652,8 +2668,9 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 
 474. WMCHC-Medical and Mental Health
 1828 E Cesar E Chavez Ave Ste 5000, Los Angeles, CA, 90033-2487
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://wmchealthcenter.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Mental health; Dental
 📞 323-987-1200
 
 475. WMCHC-Dental
@@ -2670,8 +2687,9 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 
 477. Eisner Health Family Medicine Center at California Hospital
 1400 S. Grand Ave. STE 101, Los Angeles, CA, 90015-3048
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.eisnerhealth.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 213-744-0801
 
 478. Northeast Community Clinic
@@ -2706,7 +2724,8 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 
 483. AltaMed Dental Group - Westlake, 3rd Street
 2100 W. 3rd Street  STE 301, Los Angeles, CA, 90057-2285
-🏥 Services: Primary Care
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Dental; Pediatrics
 📞 888-499-9303
 🌐 https://www.altamed.org
 🗣 Languages: English
@@ -2726,8 +2745,9 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 
 486. AltaMed Medical and Dental Group: East Los Angeles, 1st Street
 2219 E    1st St, Los Angeles, CA, 90033-3901
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.altamed.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Dental
 📞 888-499-9303
 
 487. Eisner Health - Student and Family Wellness Center at Santee
@@ -2788,8 +2808,9 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 
 497. ARROYO VISTA FAMILY HEALTH CENTER ~ Lincoln Heights
 2411 N. BROADWAY, LOS ANGELES, CA, 90031-2218
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.arroyovista.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Migrant health center
 📞 323-987-2000 x0
 
 498. Kwang He Won- Broadway
@@ -2805,8 +2826,9 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 
 500. SJCH Traynham Health Center
 326 W. 23rd Street, Los Angeles, CA, 90007-2618
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 http://www.wellchild.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 323-541-1411
 
 501. CNHF - Grand Clinic
@@ -2857,8 +2879,9 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 
 509. AltaMed Medical Group:  Ramona Gardens
 1424 Crusado Ln # 168, Los Angeles, CA, 90033-1512
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.altamed.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Migrant health center
 📞 888-499-9303
 
 510. St. Anthony Medical Centers - Pico Site
@@ -2892,8 +2915,9 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 
 515. AltaMed Medical Group: Estrada Courts
 1305 S Concord St # 18, Los Angeles, CA, 90023-3503
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.altamed.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Migrant health center
 📞 888-499-9303
 
 516. JWCH PATH Clinic
@@ -2938,26 +2962,30 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 
 523. SCFHC Medical/Dental Annex
 4415 S Central Ave Ste 100, Los Angeles, CA, 90011-3629
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.scfhc.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Dental
 📞 323-908-4200
 
 524. Kheir Family and Pediatric Clinic
 3671 W.6th Street  STE A, Los Angeles, CA, 90020-3894
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.lakheir.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Pediatrics
 📞 213-235-2500
 
 525. APLA Health-David Geffen Center
 611 S Kingsley Dr, Los Angeles, CA, 90005-2319
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.apla.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 213-201-1600
 
 526. Kheir Clinic-Dental & Optometry
 3750 W. 6th St.  STE 113 &amp; 114, Los Angeles, CA, 90020-5100
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 http:www.lakheir.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Dental
 📞 213-235-2500
 
 527. Mission City Community Network - Wilshire
@@ -2973,8 +3001,9 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 
 529. AltaMed Pharmacy - Boyle Heights
 3945 Whittier Blvd Rm 100, Los Angeles, CA, 90023-2440
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center; Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.altamed.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Dental; Migrant health center
 📞 888-499-9303
 
 530. Wesley Health Centers-- Vermont Annex
@@ -3013,19 +3042,22 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 
 536. APHCV-Los Feliz Health Center
 1530 Hillhurst Ave, Los Angeles, CA, 90027-5516
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://WWW.APHCV.ORG
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Migrant health center
 📞 323-644-3888
 
 537. AltaMed General Pediatrics @ Children's Hospital
 4650 W. Sunset Blvd, MS #76, Los Angeles, CA, 90027-6062
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center; Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.altamed.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Pediatrics; Migrant health center
 📞 888-499-9303
 
 538. AltaMed Behavioral Health at Animo Ellen Ochoa Charter Middle School
 4360 Dozier St, Los Angeles, CA, 90022-1404
-🏥 Services: Primary Care
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Mental health
 📞 888-499-9303
 🌐 https://www.altamed.org
 🗣 Languages: English
@@ -3048,8 +3080,9 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 
 542. T.H.E. CLINIC, INC.
 3834 S. WESTERN AVE, LOS ANGELES, CA, 90062-1104
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.ToHelpEveryone.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care; Migrant health center
 📞 323-730-1920 x3007
 
 543. BHS- Nuestra Health Center
@@ -3065,13 +3098,15 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 
 545. Central City Community Health Center, Inc. - SLA
 5970 S.Central Ave, Los Angeles, CA, 90001-1100
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.centralcityhealth.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Migrant health center
 📞 323-234-3280
 
 546. SJCH 50th Street Dental Clinic at Boys & Girls Club
 1000 W   50th St, Los Angeles, CA, 90037
-🏥 Services: Primary Care
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Dental
 📞 323-541-1411
 
 547. Via Care Chavez Community Health Center
@@ -3093,7 +3128,8 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 
 550. AltaMed Behavioral Health at Johnnie Cochran Jr. Middle School
 4066 W Johnnie Cochran Vis, Los Angeles, CA, 90019-6025
-🏥 Services: Primary Care
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Mental health
 📞 888-499-9303
 🌐 https://www.altamed.org
 🗣 Languages: English
@@ -3111,8 +3147,9 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 
 553. SJCH S. Mark Taper Foundation Chronic Disease and Environmental Health Center
 808 W   58th St, Los Angeles, CA, 90037-3632
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://sjch.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care; Mental health
 📞 323-541-1411
 
 554. Via Care Whittier Boulevard Health Center
@@ -3122,7 +3159,8 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 
 555. Via Care Whittier Dental Clinic
 5017 Whittier Blvd, Los Angeles, CA, 90022-3116
-🏥 Services: Primary Care
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Dental
 📞 323-268-9191
 
 556. Comprehensive Community Health Centers, Inc-Highland Park
@@ -3161,8 +3199,9 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 
 562. Via Care Primary 607
 607 S Atlantic Blvd, Los Angeles, CA, 90022-3211
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://viacarela.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Migrant health center
 📞 323-268-9191
 
 563. Via Care Chronic Disease Care Clinic
@@ -3227,8 +3266,9 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 
 574. AltaMed Medical Group: East LA/Whittier East (Commerce)
 5427 Whittier Blvd, Los Angeles, CA, 90022-4101
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.altamed.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care; Migrant health center
 📞 888-499-9303
 
 575. Crenshaw Community Clinic
@@ -3252,19 +3292,22 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 
 578. Triangle Square, First Floor Mental Health Office
 1602 Ivar Ave, Los Angeles, CA, 90028-6353
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.lalgbtcenter.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Mental health
 📞 323-993-7500
 
 579. UMMA Health Florence Clinic
 711 W.Florence Ave, Los Angeles, CA, 90044-6105
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.ummaclinic.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Migrant health center
 📞 323-789-5610
 
 580. UMMA Health Mobile 2
 7821 Avalon Blvd, Los Angeles, CA, 90003-2358
-🏥 Services: Primary Care
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Dental
 📞 323-789-5610
 
 581. UMMA Health Fremont Wellness Center
@@ -3296,8 +3339,9 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 
 586. Los Angeles Gay & Lesbian Center
 1625 Schrader Blvd, Los Angeles, CA, 90028-6213
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 http://laglc.convio.net/site/PageServer
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 323-993-7500
 
 587. LAGLC Youth Center on Highland
@@ -3336,8 +3380,9 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 
 593. CRENSHAW COMMUNITY HEALTH CTR
 3756 Santa Rosalia Drive, Los Angeles, CA, 90008
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.wattshealth.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Migrant health center
 📞 323-568-5460
 
 594. HOUSE OF UHURU
@@ -3370,7 +3415,8 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 
 599. APLA Health-Olympic #310
 5901 W Olympic Blvd Ste 310, Los Angeles, CA, 90036-4664
-🏥 Services: Primary Care
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 323-215-1725
 🌐 https://www.apla.org
 ⏰ Hours: Friday: 10
@@ -3390,8 +3436,9 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 
 602. APLA Health & Wellness Center - Baldwin Hills
 3743 S. La Brea Ave., Los Angeles, CA, 90016-5309
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.apla.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 323-329-9900
 
 603. APLA Health - Michael Gottlieb Health Center
@@ -3476,8 +3523,9 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 
 617. WATTS HEALTHCARE CORPORATION
 10300 Compton Ave, Los Angeles, CA, 90002-3628
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.wattshealth.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care; Dental
 📞 323-564-4331
 
 618. HCHC-Garvey School Based
@@ -3581,7 +3629,8 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 
 635. APLA Health - CDU / MLK Medical Campus
 1679 E. 120th St., Suites 101 &amp; 102, Los Angeles, CA, 90059
-🏥 Services: Primary Care
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 323-329-9700
 🌐 https://www.apla.org
 ⏰ Hours: Friday: 10
@@ -3950,8 +3999,9 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 
 699. APLA Health & Wellness - Long Beach Center
 1043 Elm Ave Ste 302, Long Beach, CA, 90813-3295
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.aplahealth.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 562-247-7740
 
 700. Benevolence Mobile Health Unit
@@ -3989,8 +4039,9 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 
 706. ROADS - MCA Behavioral Health Center
 4525 E. Atherton Street, Second Floor, Long Beach, CA, 90815
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://roadsfoundation.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Mental health
 📞 310-627-5850
 
 707. Yehowa Medical Services - Wilmington
@@ -4408,8 +4459,11 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 
 778. San Ysidro Health Sherman Heights
 316 25th St, San Diego, CA, 92102-3016
-🏥 Services: Primary Care
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Migrant health center
 📞 619-662-4100
+
+🌐 http://syhealth.org
 
 779. FamilyHealth on Commercial
 2325 Commercial St Ste 1400, San Diego, CA, 92113-1195
@@ -4428,34 +4482,44 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 
 782. San Ysidro Health CHC - Ocean View
 3177 Ocean View Blvd, San Diego, CA, 92113-1432
-🏥 Services: Primary Care
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Migrant health center
 📞 619-662-4100
+
+🌐 http://www.syhealth.org
 
 783. Hillcrest Family Health Center - Annex
 4065 3rd Ave, San Diego, CA, 92103-2184
-🏥 Services: Primary Care
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 619-515-2545
 
 784. Mobile Screening Unit II
 4094 4th Ave, San Diego, CA, 92103-2143
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.fhcsd.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 619-515-2410
 
 785. Mobile Counseling Center II
 823 Gateway Center Way, San Diego, CA, 92102-4541
-🏥 Services: Primary Care
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Migrant health center
 📞 619-515-2300
+
+🌐 http://www.fhcsd.org
 
 786. North Park Family Counseling Center
 2136 El Cajon Blvd, San Diego, CA, 92104-1102
-🏥 Services: Primary Care
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 619-515-2588
 
 787. HIV Prevention Center
 4040 30th Street, San Diego, CA, 92104
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.fhcsd.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 619-515-2449
 
 788. La Maestra Monroe Clark Middle School Clinic
@@ -4471,7 +4535,8 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 
 790. Diamond Neighborhoods Family Health Center Building A
 4725 Market Street  BLDG A, San Diego, CA, 92102-4715
-🏥 Services: Primary Care
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 619-515-2560
 
 791. La Maestra National City Clinic
@@ -4482,8 +4547,9 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 
 792. MID-CITY COMMUNITY CLINIC-PEDIATRICS
 4305 University Ave Ste 150, San Diego, CA, 92105-1690
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://sdfamilycare.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Dental; Pediatrics
 📞 619-280-2058
 
 793. San Ysidro Health Lincoln High School
@@ -4510,18 +4576,23 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 
 797. La Maestra Behavioral Health Services
 4167 Fairmount Ave, San Diego, CA, 92105-1642
-🏥 Services: Primary Care
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Mental health
 📞 619-779-7900
 
 798. San Ysidro Health Our Place
 286 Euclid Ave.  STE 309, San Diego, CA, 92114-3613
-🏥 Services: Primary Care
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care; Migrant health center
 📞 619-662-4100
+
+🌐 http://www.syhealth.org
 
 799. La Maestra Hoover High School Medical and Dental Clinic
 4474 El Cajon Blvd Bldg 600, San Diego, CA, 92115-4312
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.lamaestra.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Dental
 📞 619-584-9285
 
 800. LINDA VISTA HEALTH CARE CENTER
@@ -4532,8 +4603,11 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 
 801. San Diego Family Care
 7011 Linda Vista Rd, San Diego, CA, 92111-6307
-🏥 Services: Primary Care
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Migrant health center
 📞 858-279-9676
+
+🌐 http://www.sdfamilycare.org
 
 802. Opsam Health Mid-City Health Center
 5296 University Ave, Ste F1, San Diego, CA, 92105-2269
@@ -4580,8 +4654,9 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 
 810. Beach Area Family Health Center
 3705 Mission Blvd, San Diego, CA, 92109-7104
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.fhcsd.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 619-515-2444
 
 811. San Ysidro Health Specialty Care
@@ -5282,20 +5357,23 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 
 938. United Health Centers Fresno Wayte Lane 2300
 290 N Wayte Ln  STE 2300, Fresno, CA, 93701-2124
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.unitedhealthcenters.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 559-646-6618 x0010
 
 939. Orange and Butler Community Health Center
 1350 S Orange Ave, Fresno, CA, 93702-3463
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.clinicasierravista.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Migrant health center
 📞 559-457-5400
 
 940. West Fresno Community Health Center
 302 Fresno St STE 101, Fresno, CA, 93706-3641
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.clinicasierravista.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Migrant health center
 📞 559-457-5700
 
 941. CHCA Fresno Primary Care Suite 301
@@ -5316,14 +5394,16 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 
 944. Fresno -Mobile Unit
 2740 S Elm Ave, Fresno, CA, 93706-5435
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.clinicasierravista.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Migrant health center
 📞 559-457-5800
 
 945. Elm Women's & Pediatric Health Center
 2760 S Elm Ave, Fresno, CA, 93706-5435
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center; Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.clinicasierravista.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Women's health; Pediatrics; Migrant health center
 📞 559-457-5300
 
 946. Todos Para La Salud: N. Fresno
@@ -5345,8 +5425,9 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 
 949. North Fine Community Health Center
 1945 N Fine Ave STE 100, Fresno, CA, 93727-1528
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.clinicasierravista.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Migrant health center
 📞 559-457-5650
 
 950. United Health Centers Fresno First Street
@@ -5374,7 +5455,8 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 
 954. CHCA Fresno Pediatrics Health Center
 5479 N Fresno St, Suite 104, Fresno, CA, 93710-6088
-🏥 Services: Primary Care
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Pediatrics
 📞 559-438-4100
 
 955. United Health Centers Fresno Bullard 1780
@@ -5397,8 +5479,9 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 
 958. Camarena Health  -  Millbrook Health Center
 7202 N Millbrook Ave Ste 202, Fresno, CA, 93720-3341
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.camarenahealth.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Migrant health center
 📞 559-664-4000
 
 959. CHCA Fresno Primary Care and Specialty
@@ -6770,3 +6853,550 @@ Admin office: UCSD Family Medicine, 9500 Gilman Drive #0696, La Jolla, CA 92093
 📞 (858) 534-6110
 📧 ucsdsrfc@health.ucsd.edu
 
+1199. Wesley Health Centers East Hollywood
+954 N Vermont Ave, Los Angeles, CA 90029-3529
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program; Migrant health center
+📞 (866) 733-5924
+🌐 http://jwchinstitute.org/
+
+1200. Ahf Carl Bean
+2146 W Adams Blvd, Los Angeles, CA 90018-2039
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (855) 783-2434
+
+1201. Ahf Hollywood
+4905 Hollywood Blvd, Los Angeles, CA 90027-6101
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (323) 662-0492
+
+1202. Ahf Long Beach
+3500 E Pacific Coast Hwy, Long Beach, CA 90804-1904
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (562) 494-4983
+
+1203. Ahf San Diego
+3580 5th Ave, San Diego, CA 92103-5017
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (619) 516-8931
+
+1204. Cares Community Health Dba One Community Health
+1500 21st St, Sacramento, CA 95811-5216
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (916) 443-3299
+
+1205. Charles R Drew University Of Medicine And Science
+1731 E 120th St, Los Angeles, CA 90059-3051
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (323) 563-4939
+
+1206. Childrens Hospital Of Los Angeles
+3250 Wilshire Blvd # 3, Los Angeles, CA 90010-1577
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (323) 361-3908
+
+1207. City Heights Family Health Center
+5454 El Cajon Blvd, San Diego, CA 92115-3621
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (619) 515-2400
+
+1208. HIV Care Coordination (Hcc Clinic)
+2525 Grand Ave, Long Beach, CA 90815-1765
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (562) 570-4255
+
+1209. Logan Heights Family Health Center
+1809 National Ave, San Diego, CA 92113-2113
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (619) 515-2300
+
+1210. Los Angeles General Medical Center
+2010 Zonal Ave, Los Angeles, CA 90033-1026
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (323) 409-2200
+
+1211. Men'S Health Foundation- Socal Club
+8601 S Broadway, Los Angeles, CA 90003-3319
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (310) 739-1207
+
+1212. North Park Family Health Center
+3544 30th St, San Diego, CA 92104-4120
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (619) 515-2424
+
+1213. Regents Of University Of California
+4168 Front St, San Diego, CA 92103-2030
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (619) 543-3995
+
+1214. San Ysidro Health - Casa
+3045 Beyer Blvd, Ste D-101, San Diego, CA 92154-3407
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (619) 662-4161
+
+1215. San Ysidro Health - King Chavez
+950 Euclid Ave, San Diego, CA 92114
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (619) 662-4127
+
+1216. The Regents Of The University Of California, Los Angeles
+1399 Roxbury Dr, Los Angeles, CA 90035-4709
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (310) 843-2013
+
+1217. Uc Davis Pediatric Infectious Disease
+2516 Stockton Blvd, Sacramento, CA 95817-2208
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (916) 734-3557
+
+1218. Ucla Care For Families
+200 Medical Plaza Way, Los Angeles, CA 90095-8344
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (310) 206-6369
+
+1219. University Of California San Diego (Ucsd) - Mother, Child, Adole
+4076 3rd Ave, Ste 301, San Diego, CA 92103-2129
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (619) 543-8089
+
+1220. JWCH Medical Clinic @ Rainbow Apts.
+43 S San Pedro St, Los Angeles, CA 90012-3806
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (213) 484-1186
+🌐 http://www.jwchinstitute.org
+
+1221. JWCH Medical Clinic @ Abbey Apts
+S San Pedro St, Los Angeles, CA 90014-2417
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (213) 362-9743
+🌐 http://www.jwchinstitute.org
+
+1222. LA Christian Health Centers- Telecare-CORE LA
+1005 S Central Ave, Los Angeles, CA 90021-2039
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (213) 533-1050
+🌐 http://www.lachc.com
+
+1223. AltaMed Medical Group:  Indiana
+512 S Indiana St, Los Angeles, CA 90063-3911
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (888) 499-9303
+🌐 http://altamed.org
+
+1224. AltaMed PACE - Grand Plaza
+701 W Cesar E Chavez Ave, Los Angeles, CA 90012-2104
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (323) 725-8751
+🌐 http://altamed.org
+
+1225. JWCH Medical Clinic @Weingart
+515 E 6th St, Los Angeles, CA 90021-1009
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (213) 622-2639
+🌐 http://www.jwchinstitute.org
+
+1226. WellSpace Health - Alhambra Community Health Center
+2425 Alhambra Blvd, Sacramento, CA 95817-1955
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (916) 737-5555
+🌐 http://www.wellspacehealth.org
+
+1227. WellSpace Health - Norwood Community Health Center
+3946 Norwood Ave, Sacramento, CA 95838-3300
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (916) 737-5555
+🌐 http://www.wellspacehealth.org/
+
+1228. LA Christian Health Centers-Lamp Community Village
+527 Crocker St, Los Angeles, CA 90013-2116
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (213) 488-9559
+🌐 http://www.lachc.com
+
+1229. San Ysidro Health - Youth Enhancement Services
+3025 Beyer Blvd, Suite 101, San Diego, CA 92154-3432
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (619) 428-5533
+
+1230. Arroyo Vista Family Health Center - Highland Park
+6000 N Figueroa St, Los Angeles, CA 90042-4232
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (323) 254-5291
+🌐 http://www.arroyovista.org
+
+1231. Northeast Valley Health-Homeless Healthcare L.A.
+2330 Beverly Blvd, Los Angeles, CA 90057-2220
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Migrant health center; Primary care
+📞 (213) 744-0724
+🌐 http://www.nevhc.org
+
+1232. LA Christian Health Centers-Pico Aliso Clinic
+1625 E 4th St, Los Angeles, CA 90033-4299
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (323) 268-8391
+🌐 http://www.lachc.com
+
+1233. Sacramento County DHHS - Hope Well Child Clinic
+4401 44th St, Sacramento, CA 95820-3928
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (916) 455-3845
+🌐 http://www.sacdhhs.com
+
+1234. Clinica Sierra Vista - Garland
+3727 N 1st St, Fresno, CA 93726-5628
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (661) 635-3050
+🌐 http://www.clinicasierravista.org
+
+1235. JWCH Safe Harbor Women's Clinic
+721 E 5th St, Los Angeles, CA 90013-2110
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Women's health; Migrant health center
+📞 (213) 622-4073
+🌐 http://www.jwchinstitute.org
+
+1236. San Ysidro Health-Southwest High School
+1685 Hollister St, San Diego, CA 92154-4548
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (619) 662-4100
+🌐 http://www.syhc.org
+
+1237. San Ysidro Health - San Diego Children's Dental Clinic
+8110 Birmingham Way, San Diego, CA 92123-2758
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Dental; Migrant health center
+📞 (619) 662-4166
+🌐 http://www.syhc.org
+
+1238. LA Christian Health Centers- Exodus Recovery IMHT
+8511 1/2 S Vermont Ave, Los Angeles, CA 90044-3472
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (323) 276-6450
+🌐 http://www.lachc.com
+
+1239. LA Christian Health Centers- World Impact
+2003 E Imperial Hwy, Los Angeles, CA 90059-2203
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (323) 566-6626
+🌐 http://www.lachc.com
+
+1240. JWCH Path Clinic
+340 N Madison Ave, Los Angeles, CA 90004-3504
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (323) 201-4516
+🌐 http://www.jwchinstitute.org
+
+1241. La Maestra - Homeless Clinic
+4171 Fairmount Ave, San Diego, CA 92105-1609
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (619) 584-1612
+
+1242. South Central Family Health Center - Main Site
+4425 S Central Ave, Los Angeles, CA 90011-3629
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (323) 908-4247
+🌐 http://www.scfhc.org
+
+1243. Family Health Centers of San Diego - Sherman Heights
+2391 Island Ave, San Diego, CA 92102-2941
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (619) 269-4041
+🌐 http://www.fhcsd.org
+
+1244. Arroyo Vista Family Health Center - El Sereno
+4815 Valley Blvd, #C, Los Angeles, CA 90032-3314
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (323) 987-2000
+🌐 http://www.arroyovista.org
+
+1245. Sacramento County DHHS - Mercy/Loaves and Fishes Clinic
+1321 N C St, Sacramento, CA 95811-0607
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (916) 446-3345
+🌐 http://www.sacdhhs.com
+
+1246. LA Christian Health Centers-Midnight Mission
+601 S San Pedro St, Los Angeles, CA 90014-2415
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (213) 893-1960
+🌐 http://www.lachc.com
+
+1247. WellSpace Health - St. Johns Shelter for Women and Children
+4410 Power Inn Rd, Sacramento, CA 95826-4352
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Women's health; Migrant health center
+📞 (916) 313-8405
+🌐 http://www.wellspacehealth.org
+
+1248. LA Christian Health Centers - Winston
+311 Winston St, Los Angeles, CA 90013-1519
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (213) 893-1960
+🌐 http://www.lachc.com
+
+1249. JWCH Institute, Inc. (Mini Twelve Step House)
+5132 S San Pedro St, Los Angeles, CA 90011-4532
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (323) 232-6228
+🌐 http://www.jwchinstitute.org
+
+1250. Expanding Horizons
+3539 College Ave, San Diego, CA 92115-7099
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (619) 818-3788
+🌐 https://www.upacsd.org/services/addiction-treatment-and-recovery-programs/expanding-horizons/
+
+1251. Children's Mental Health
+1031 25th St, San Diego, CA 92102-2194
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (619) 232-6456
+🌐 http://www.upacsd.org
+
+1252. LA Christian - Telecare-Service Area 4
+600 St Paul Ave, Suite 100, Los Angeles, CA 90017-5658
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (213) 483-6400
+🌐 http://www.lachc.com
+
+1253. LA Christian Health Centers- Exodus Recovery-ICM
+1920 Marengo St, Los Angeles, CA 90033-1317
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (323) 276-6450
+🌐 http://www.lachc.com
+
+1254. Sacramento County DHHS - St John's Nurse
+4401 Power Inn Rd, Sacramento, CA 95826-4338
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (916) 453-1482
+🌐 http://www.sacdhhs.com
+
+1255. Asian Pacific Health - Belmont
+180 South Union Place, Los Angeles, CA 90026
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (323) 644-3880
+🌐 http://www.aphcv.org
+
+1256. LA Christian Health Centers-Volunteers of America Ctr.
+628 San Julian St, Los Angeles, CA 90014-2412
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (213) 305-9658
+🌐 http://www.lachc.com
+
+1257. JWCH - St. George Medical Clinic
+115 E 3rd St, Los Angeles, CA 90013-1301
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (213) 353-1118
+🌐 http://www.jwchinstitute.org
+
+1258. San Diego Family Care - Central Elementary SBHC
+4063 Polk Ave, San Diego, CA 92105-1489
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (858) 279-9676
+🌐 http://sdfamilycare.org
+
+1259. WellSpace Health - Oak Park Health Center
+3415 Martin Luther King Jr Blvd, Sacramento, CA 95817-3648
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (916) 737-5555
+🌐 http://www.wellspacehealth.org/
+
+1260. Promise Wellness Center
+995 Gateway Center Way, San Diego, CA 92102-4500
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (619) 772-2579
+🌐 https://www.upacsd.org
+
+1261. AltaMed PACE - East Los Angeles
+5425 Pomona Blvd, Los Angeles, CA 90022-1716
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (323) 725-8751
+🌐 http://altamed.org
+
+1262. Omni Family Health - N 1st St
+6107 N 1st St, Fresno, CA 93710-5460
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (800) 300-6664
+🌐 http://www.omnifamilyhealth.org
+
+1263. LA Christian Health Centers- Gateway Percy Village
+3455 Percy St, Los Angeles, CA 90023-1716
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (213) 893-1930
+🌐 http://www.lachc.com
+
+1264. WellSpace Health - J Street Community Health Center
+1820 J St, Sacramento, CA 95811-3010
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (916) 737-5555
+🌐 http://www.wellspacehealth.org
+
+1265. LA Christian Health Centers- New Genesis
+S Main St, Los Angeles, CA 90013-1319
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (323) 344-5690
+🌐 http://www.lachc.com
+
+1266. Family HealthCare Network - Fresno Olive
+5166 E Olive Ave, Fresno, CA 93727-2423
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (559) 737-4700
+🌐 https://www.fhcn.org
+
+1267. San Diego Family Care
+6973 Linda Vista Rd, San Diego, CA 92111-6342
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (858) 279-9676
+🌐 http://www.sdfamilycare.org
+
+1268. WellSpace Health - The Effort-Salvation Army Interim Care Program
+1200 N B St, Sacramento, CA 95811-0603
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (916) 313-8405
+🌐 http://www.wellspacehealth.org
+
+1269. Central City Community Health Center-Mobile Unit
+5968 S Central Ave, Los Angeles, CA 90001-1150
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (323) 234-3280
+🌐 http://www.centralcityhealth.org
+
+1270. AltaMed Behavioral Health at Lillian Street Elementary School, Los Angeles
+5909 Lillian St, Los Angeles, CA 90001-1433
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (888) 499-9303
+🌐 https://www.altamed.org
+
+1271. AltaMed Behavioral Health – 4th St. Elementary School
+420 Amalia Ave, Los Angeles, CA 90022-2628
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (888) 499-9030
+
+1272. Fifth Avenue Behavioral Health Center
+1750 5th Ave, San Diego, CA 92101-2754
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (619) 515-2300
+
+1273. North Central Behavioral Health Center
+4930 Naples St, San Diego, CA 92110-3820
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (619) 269-8969
+
+1274. Beach Area Women's Health Center
+3690 Mission Blvd, San Diego, CA 92109-7368
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Women's health
+📞 (619) 515-2444
+🌐 https://www.fhcsd.org
+
+1275. Elm Dental Center
+2756 S Elm Ave, Fresno, CA 93706-5435
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Dental
+📞 (559) 457-5345
+🌐 https://www.clinicasierravista.org
+
+1276. Family HealthCare Network - Fresno Women's Health Center
+7075 N Maple Ave, Suite 102, Fresno, CA 93720-8014
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Women's health
+📞 (877) 960-2426
+🌐 https://www.fhcn.org
+
+1277. La Maestra Mobile Medical and Dental Van
+4060 Fairmount Ave, San Diego, CA 92105-1608
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Dental
+📞 (619) 280-4213
+🌐 https://www.lamaestra.org
+
+1278. Eisner Health - Women's Health Center
+1513 S Grand Ave, Suite 220, Los Angeles, CA 90015-3075
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Women's health
+📞 (213) 747-5542
+🌐 https://www.eisnerhealth.org
+
+1279. San Ysidro Health Senior Dental Center
+1525 4th Ave STE 201, San Diego, CA 92101-3107
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Dental
+📞 (619) 662-4100
+
+1280. Kheir Family & Pediatrics - Olympic
+2675 W Olympic Blvd, Suite 103, Los Angeles, CA 90006-2880
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Pediatrics
+📞 (213) 235-2500
+🌐 https://www.LAKheir.org

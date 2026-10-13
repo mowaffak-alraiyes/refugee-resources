@@ -2,16 +2,16 @@
 
 1. Mary Eliza Mahoney Health Center Mobile Dental Unit
 394 UNIVERSITY AVE, NEWARK, NJ, 07102-1221
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program; Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Health Care for the Homeless; Dental
 📞 800-734-7083
 🗺 https://maps.google.com/?q=40.73399,-74.17748
 
 2. Newark Community Health Centers, Inc. dba Ironbound Medical and Dental Center
 92 Ferry St, Newark, NJ, 07105-1817
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.nchcfqhc.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Dental
 📞 973-483-1300
 🗺 https://maps.google.com/?q=40.73108,-74.16104
 
@@ -101,9 +101,9 @@
 
 14. BROADWAY CLINIC
 227 BROADWAY, PATERSON, NJ, 07501-2002
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.patersonchc.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Migrant health center
 📞 973-278-2600
 🗺 https://maps.google.com/?q=40.91887,-74.16505
 
@@ -467,3 +467,88 @@ CUMBERLAND REG HS, LOVE LANE, UPPER DEERFIELD, NJ, 08302
 📞 908-526-2335
 🗺 https://maps.google.com/?q=40.56091,-74.60965
 
+62. Newark Department of Child and Family Well-Being Health Center - 140 Bergen Street
+140 Bergen St, Newark, NJ 07103-2425
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program; Health Care for the Homeless
+📞 (973) 972-0380
+
+63. Henry J. Austin Medical Center
+321 N Warren St, Trenton, NJ 08618-4741
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (609) 278-5900
+
+64. Jersey City Medical Center Center For Comprehensive Care
+1825 John F Kennedy Blvd, Jersey City, NJ 07305-2106
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (201) 204-0004
+
+65. Newark Department of Child and Family Well-Being Health Center
+110 William St, Newark, NJ 07102-1304
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program; Health Care for the Homeless
+📞 (973) 877-6105
+
+66. Newark Aids Consortium/Broadway House
+298 Broadway, Newark, NJ 07104-8000
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (973) 268-9797
+
+67. Newark Beth Israel
+201 Lyons Ave # G3, Newark, NJ 07112-2027
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (973) 926-5212
+
+68. Newark Community Health Centers Inc - 741 Broadway
+741 Broadway, Newark, NJ 07104-4309
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program; Migrant health center
+📞 (973) 483-1300
+🌐 https://nchcfqhc.org
+
+69. North Jersey Aids Alliance (Title I)
+393 Central Ave, Newark, NJ 07103-2842
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (973) 483-3444
+
+70. Paterson Counseling Center
+319 Main St, Paterson, NJ 07505-1805
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (973) 523-8316
+
+71. Rutgers / Fxb Center
+65 Bergen St, Floor 8, Newark, NJ 07107-3001
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (973) 972-0380
+
+72. Rutgers-Start Program
+90 Bergen St, Newark, NJ 07103-2425
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (973) 972-8216
+
+73. Saint Michael'S Clinics, Inc.
+268 Dr Martin Luther King Jr Blvd, Newark, NJ 07102-2011
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (973) 877-2863
+
+74. St. Joseph'S University Medical Center
+703 Main St, Paterson, NJ 07503-2621
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (973) 754-2343
+
+75. TO BE DELETED - New Community Corporation - Harmony House Family Shelter
+278-282 S Orange Ave, Newark, NJ 07103
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (973) 623-8555
+🌐 http://www.newcommunity.org/

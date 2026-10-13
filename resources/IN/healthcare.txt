@@ -4,8 +4,9 @@
 
 1. Salvation Army Family Shelter Clinic (for women and children)
 540 N Alabama St, Indianapolis, IN, 46204-1536
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program; Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.usc.salvationarmy.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Health Care for the Homeless; Women's health
 📞 317-637-5551
 
 2. Raphael Health Center - Salvation Army
@@ -15,8 +16,9 @@
 
 3. Eskenazi Health Center Pedigo
 1112 Southeastern Ave, Indianapolis, IN, 46202-3947
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.eskenazihealth.edu/locations/primary-care-sites
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 317-880-1900
 🗣 Languages: Spanish, English
 
@@ -46,7 +48,8 @@
 
 8. HealthNet Homeless Initiative Program
 901 Shelby St.  STE 301, Indianapolis, IN, 46203
-🏥 Services: Primary Care
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 317-957-2275
 🌐 https://www.indyhealthnet.org
 🗣 Languages: Burmese, English
@@ -101,8 +104,11 @@
 
 17. Outreach, Inc. Clinic
 2416 E New York St, Indianapolis, IN, 46201-3232
-🏥 Services: Primary Care
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 317-951-8886
+
+🌐 http://www.indyhealthnet.org
 
 18. Interfaith Hospitality Network
 1850 N ARSENAL AVE, INDIANAPOLIS, IN, 46218-4237
@@ -139,8 +145,11 @@
 
 24. Wheeler Shelter for Women and Children Clinic
 3208 E Michigan St, Indianapolis, IN, 46201-3318
-🏥 Services: Primary Care
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program; Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Women's health; Health Care for the Homeless
 📞 317-687-3630
+
+🌐 http://www.indyhealthnet.org
 
 25. IPS 54 School Based Clinic - Brookside Academy
 3150 E 10th St Ste 100, Indianapolis, IN, 46201-2404
@@ -212,8 +221,9 @@
 
 35. Salvation Army Harbor Light Center Clinic
 2400 N Tibbs Ave, Indianapolis, IN, 46222-2458
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 https://www.usc.salvationarmy.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 317-972-1450
 
 36. IPS School 43 - James Whitcomb Riley
@@ -321,8 +331,9 @@
 
 52. HealthNet Speedway Health & Dental Center
 6020 Crawfordsville Rd Ste 102, Indianapolis, IN, 46224-3710
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.indyhealthnet.org/locations/speedway-health--dental-center
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Dental
 📞 317-957-2070
 🗣 Languages: English Espa, Ntilde, Ol Burmese Hakha Chin Search For, Spanish, Burmese, English
 ⏰ Hours: Mon 7
@@ -1051,8 +1062,9 @@
 
 168. Alliance Health Center
 2700 Lafayette St STE 110, Fort Wayne, IN, 46806-1100
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.myalliancehealth.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Pediatrics
 📞 260-266-0780
 
 169. LifeSpring Comunity Medical Services
@@ -1349,7 +1361,8 @@
 
 218. ECHO Pediatric and Prenatal Clinic
 316 CHANDLER AVE, EVANSVILLE, IN, 47713-1147
-🏥 Services: Primary Care
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Women's health; Pediatrics
 📞 812-436-4501
 🌐 https://www.echochc.org
 🗣 Languages: Assistance Services Text Messaging Terms, Amp, Privacy Notice
@@ -1500,3 +1513,120 @@
 🏥 Services: Primary Care
 📞 773-995-6300
 
+242. Eskenazi Health
+720 Eskenazi Ave, Floor 2, Indianapolis, IN 46202-5189
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (317) 880-3500
+
+243. Eskenazi Health Center Blackburn
+2700 Dr Martin Luther King Jr St, Indianapolis, IN 46208-5019
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (317) 880-3500
+
+244. Eskenazi Health Center Grassy Creek
+9443 E 38th St, Indianapolis, IN 46235-2132
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (317) 880-3500
+
+245. Eskenazi Health Center North Arlington
+2505 N Arlington Ave, Indianapolis, IN 46218-3318
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (317) 880-3500
+
+246. Eskenazi Health Center North Illinois Street
+1660 N Illinois St, Indianapolis, IN 46202
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (317) 880-3500
+
+247. Eskenazi Health Center Pecar
+6940 Michigan Rd, Indianapolis, IN 46268-2800
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (317) 880-3500
+
+248. Eskenazi Health Center West 38Th Street
+5515 W 38th St, Indianapolis, IN 46254-2919
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (317) 880-3500
+
+249. Eskenazi Health Center Westside
+2732 W Michigan St, Indianapolis, IN 46222-3750
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (317) 880-3500
+
+250. Eskenazi Heath Center Forest Manor
+3840 N Sherman Dr, Indianapolis, IN 46226-4462
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (317) 880-3500
+
+251. Health Plus Indiana
+201 S William St, South Bend, IN 46601-2515
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (574) 234-2870
+
+252. Indiana University School Of Optometry
+1160 W Michigan St, Indianapolis, IN 46202-5209
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (317) 278-1470
+
+253. Iu Health Methodist Lifecare Program
+1633 N Capitol Ave STE 300, Indianapolis, IN 46202-1467
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (317) 962-2700
+
+254. Marion County Health Department (Mchd)
+3838 N Rural St, Indianapolis, IN 46205-2930
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (317) 221-3101
+
+255. Matthew 25 Aids Services
+101 NW 1st St STE 215, Evansville, IN 47708-1259
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (812) 437-5142
+
+256. The Damien Center
+26 N Arsenal Ave, Indianapolis, IN 46201-3808
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (317) 632-0123
+
+257. HealthNet - Wheeler Mission for Men
+520 E Market St, Indianapolis, IN 46204-2606
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (317) 957-2019
+🌐 http://www.indyhealthnet.org
+
+258. HealthNet - Julian Center Shelter
+2011 N Meridian St, Indianapolis, IN 46202-1305
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (317) 957-2019
+🌐 http://www.indyhealthnet.org
+
+259. Southwestern Behavioral Healthcare - School Based Services Office
+414 SE 4th St, Evansville, IN 47713-1206
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: Mental health; School-based health care for children and adolescents
+📞 (812) 428-4880
+🌐 http://southwestern.org
+
+260. HealthLinc IUSB Dental
+1002 S Esther St, South Bend, IN 46615-1440
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Dental
+📞 (888) 580-1060
+🌐 https://www.healthlincchc.org

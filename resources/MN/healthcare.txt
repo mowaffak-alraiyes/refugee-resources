@@ -2,25 +2,25 @@
 
 1. People Serving People
 614 S    3rd St, Minneapolis, MN, 55415-1104
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 http://www.hennepin.us/residents/health-medical/clinics-services
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 612-332-4500 x226
 🗺 https://maps.google.com/?q=44.97739,-93.26017
 
 2. Salvation Army Harbor Light Center
 1010 Currie Ave, Minneapolis, MN, 55403-1309
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 http://www.hennepin.us/residents/health-medical/clinics-services
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 612-596-9643
 🗺 https://maps.google.com/?q=44.97820,-93.27976
 
 3. Catholic Charities, Higher Ground
 165 Glenwood Ave, Minneapolis, MN, 55405-1618
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 http://www.hennepin.us/residents/health-medical/clinics-services
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 612-348-5553
 🗺 https://maps.google.com/?q=44.97885,-93.28536
 
@@ -154,9 +154,9 @@
 
 21. People's Center Dental Clinic
 3152 Minnehaha Ave, Minneapolis, MN, 55406-1934
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.peoples-center.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Dental
 📞 612-332-4973
 🗺 https://maps.google.com/?q=44.94495,-93.23227
 
@@ -170,9 +170,9 @@
 
 23. Southside Dental, Vision, Behavioral Health, and Administration
 4243 4th Ave S, Minneapolis, MN, 55409-2113
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.southsidechs.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Dental; Mental health
 📞 612-822-9030
 🗺 https://maps.google.com/?q=44.92542,-93.26981
 
@@ -208,9 +208,9 @@
 
 28. MN Community Care - Central SBC
 275 Lexington Pkwy N, Saint Paul, MN, 55104-5402
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
 🌐 https://WWW.WESTSIDECHS.ORG
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Mental health
 📞 651-632-2194
 🗺 https://maps.google.com/?q=44.94907,-93.14782
 
@@ -232,9 +232,9 @@
 
 31. MN Community Care - Washington SBC
 1495 Rice St, Saint Paul, MN, 55117-3864
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
 🌐 https://WWW.WESTSIDECHS.ORG
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Mental health
 📞 651-487-8531
 🗺 https://maps.google.com/?q=44.98708,-93.11141
 
@@ -271,9 +271,9 @@
 
 36. MN Community Care - West Side Dental
 478 Robert St S, Saint Paul, MN, 55107-2236
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://WWW.WESTSIDECHS.ORG
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Dental
 📞 651-602-7575
 🗺 https://maps.google.com/?q=44.93157,-93.08051
 
@@ -333,10 +333,12 @@
 
 44. Community Health Service Inc. - Rochester
 2720 Broadway Ave N, Rochester, MN, 55906-3980
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Migrant health center
 📞 507-529-0503
 🗺 https://maps.google.com/?q=44.05325,-92.45401
+
+🌐 https://chsiclinics.org/locations/rochester-mn/
 
 45. Lake Superior Community Health Center White Pine Clinic
 210 3rd St, Carlton, MN, 55718-7703
@@ -429,3 +431,325 @@
 📞 218-475-2235
 🗺 https://maps.google.com/?q=47.96682,-89.68033
 
+57. Healthpartners Institute For Education And Research
+401 Phalen Blvd, Saint Paul, MN 55130-5302
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (651) 254-7418
+
+58. Hennepin Healthcare System, Inc.
+701 Park Ave, Minneapolis, MN 55415-1829
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (612) 873-6963
+
+59. Mayo Clinic
+200 1st St SW, Rochester, MN 55905-0001
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (507) 284-2511
+
+60. Minnesota Community Care
+159 Cesar Chavez St, Saint Paul, MN 55107-2226
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (651) 389-2560
+
+61. Hennepin County - Healthcare for the Homeless
+525 Portland Ave, Minneapolis, MN 55415-1569
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (612) 559-6631
+🌐 http://www.hennepin.us/residents/health-medical/cl
+
+62. Hennepin County - Simpson Shelter Clinic
+2740 1st Ave S, Minneapolis, MN 55408-2147
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (612) 879-0938
+🌐 http://www.hennepin.us/residents/health-medical/cl
+
+63. Wilder Foundation - Txuj Ci Hmong Upper
+1363 Bush Ave, Saint Paul, MN 55106-4115
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (651) 280-2310
+🌐 http://www.wilder.org
+
+64. Community Health Service Inc. - Rochester
+1926 College View Rd E, Rochester, MN 55904-8201
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (507) 529-0503
+🌐 http://chsiclinics.org
+
+65. Essentia Health - Duluth 5th Ave - Grief Support
+503 E 3rd St, Duluth, MN 55805-1905
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (218) 786-4402
+🌐 http://www.essentiahealth.org
+
+66. Wilder Foundation - Humboldt High School
+30 Baker St E, Saint Paul, MN 55107-2997
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (651) 280-2310
+🌐 http://www.wilder.org
+
+67. Hennepin County - St. Stephen's Shelter Clinic
+2211 Clinton Ave, Minneapolis, MN 55404-4099
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (612) 879-0943
+🌐 http://www.hennepin.us/residents/health-medical/cl
+
+68. Wilder Foundation - Harding Senior High School
+1540 6th St E, Saint Paul, MN 55106-4898
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (651) 280-2310
+🌐 http://www.wilder.org
+
+69. Wilder Foundation - Battle Creek Middle School
+2121 N Park Dr, Saint Paul, MN 55119-4644
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (651) 280-2310
+🌐 http://www.wilder.org
+
+70. Wilder Foundation - Riverview West Side School of Excellence
+160 Isabel St E, Saint Paul, MN 55107-2202
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (651) 280-2310
+🌐 http://www.wilder.org
+
+71. Hennepin County - Youthlink Clinic
+41 N 12th St, Minneapolis, MN 55403-1325
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (612) 348-0378
+🌐 http://www.hennepin.us/residents/health-medical/cl
+
+72. Wilder East - East African Elementary Magnet School
+437 Edmund Ave, Saint Paul, MN 55103-1606
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (651) 280-2310
+🌐 https://www.wilder.org/services/mental-health/
+
+73. Wilder Foundation - Global Arts Plus Upper
+810 Palace Ave, Saint Paul, MN 55102-3497
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (651) 280-2310
+🌐 http://www.wilder.org
+
+74. Wilder Foundation - Dayton's Bluff Elementary
+262 Bates Ave, Saint Paul, MN 55106-5598
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (651) 280-2310
+🌐 http://www.wilder.org
+
+75. Hennepin County - Sharing & Caring Hands Clinic
+525 7th St N, Minneapolis, MN 55405-1523
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (612) 338-9030
+🌐 http://www.hennepin.us/residents/health-medical/cl
+
+76. Wilder Foundation - Hmong College Prep Academy
+1515 Brewster St, Saint Paul, MN 55108-2612
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (651) 280-2310
+🌐 http://www.wilder.org
+
+77. Wilder Foundation - Maxfield Elementary
+380 Victoria St N, Saint Paul, MN 55104-4849
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (651) 280-2310
+🌐 http://www.wilder.org
+
+78. Wilder Foundation - Farnsworth Aerospace Upper
+1000 Walsh St, Saint Paul, MN 55106-3198
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (651) 280-2310
+🌐 http://www.wilder.org
+
+79. Hennepin County - Branch III Clinic
+1624 Chicago Ave, Minneapolis, MN 55404-1604
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (612) 278-1140
+
+80. Minneapolis FAIR - Wellstone School SBHC
+10 10th St S, Minneapolis, MN 55403-2033
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (612) 668-1064
+🌐 https://www2.minneapolismn.gov/government/programs-initiatives/school-based-clinics/
+
+81. Wilder Foundation - Bruce Vento Elementary
+409 Case Ave, Saint Paul, MN 55130-4083
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (651) 280-2301
+🌐 http://www.wilder.org
+
+82. Wilder Foundation - North Education Center
+5530 Zealand Ave N, Minneapolis, MN 55428-3726
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (651) 280-2864
+🌐 http://www.wilder.org
+
+83. Wilder Foundation - Txuj Ci Hmong Lower
+1089 Cypress St, Saint Paul, MN 55106-3399
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (651) 280-2310
+🌐 http://www.wilder.org
+
+84. Wilder Foundation - Wilder East
+445 Etna St, Suite 62, Saint Paul, MN 55106-5870
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (651) 280-2320
+🌐 https://www.wilder.org/services/mental-health/
+
+85. Wilder Foundation - Ann Bremer Education Center
+6601 Xylon Ave N, Minneapolis, MN 55428-1903
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (651) 280-2310
+🌐 https://www.wilder.org/services/mental-health/
+
+86. Minnesota School Based Health Centers - Minneapolis Henry High School SBHC
+4320 Newton Ave N, Minneapolis, MN 55412-1150
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (612) 668-1944
+🌐 https://www2.minneapolismn.gov/government/programs-initiatives/school-based-clinics/
+
+87. Wilder Foundation - Saint Paul City School
+215 University Ave W, Saint Paul, MN 55103-2044
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (651) 280-2310
+🌐 http://www.wilder.org
+
+88. Wilder Foundation - Wellstone Elementary
+1041 Marion St, Saint Paul, MN 55117-5197
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (651) 280-2310
+🌐 http://www.wilder.org
+
+89. Minnesota School Based Health Centers - Minneapolis Roosevelt High School SBHC
+4029 28th Ave S, Minneapolis, MN 55406-3195
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (612) 673-5305
+🌐 https://www2.minneapolismn.gov/government/programs-initiatives/school-based-clinics/
+
+90. Wilder Foundation - Crossroads Montessori Elementary
+543 Front Ave, Saint Paul, MN 55117-4706
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (651) 280-2310
+🌐 http://www.wilder.org
+
+91. Wilder Foundation - Academia Cesar Chavez
+1801 Lacrosse Ave, Saint Paul, MN 55119-4898
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (651) 280-2310
+🌐 http://www.wilder.org
+
+92. Wilder Foundation - Community School of Excellence
+270 Larpenteur Ave W, Saint Paul, MN 55113-6738
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (651) 280-2310
+🌐 http://www.wilder.org
+
+93. Hennepin County - Endeavors Clinic
+1009 14th St E, Minneapolis, MN 55404-1314
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (612) 543-2218
+🌐 https://www.hennepin.us/residents#health-medical
+
+94. Wilder Foundation - Mississippi Creative Arts Elementary
+L Orient St, Saint Paul, MN 55117
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (651) 280-2310
+🌐 http://www.wilder.org
+
+95. Wilder Foundation - Saint Paul Music Academy
+27 Geranium Ave E, Saint Paul, MN 55117
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (651) 280-2310
+🌐 http://www.wilder.org
+
+96. Wilder Foundation - Benjamin E. Mays IB World School / Capitol Hill Gifted and Talented Magnet
+560 Concordia Ave, Saint Paul, MN 55103-2443
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (651) 280-2310
+🌐 http://www.wilder.org
+
+97. Minnesota School Based Health Centers - Minneapolis South High School SBHC
+3131 19th Ave S, Minneapolis, MN 55407-1988
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (612) 668-4333
+🌐 https://www2.minneapolismn.gov/government/programs-initiatives/school-based-clinics/
+
+98. Wilder Foundation - Cherokee Heights Elementary
+694 Charlton St, Saint Paul, MN 55107-2799
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (651) 280-2310
+🌐 http://www.wilder.org
+
+99. Wilder Foundation - Nokomis Montessori North
+985 Ruth St N, Saint Paul, MN 55119-3331
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (651) 280-2310
+🌐 http://www.wilder.org
+
+100. Wilder Foundation - Como Park Senior High
+740 Rose Ave W, Saint Paul, MN 55117-4098
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (651) 280-2310
+🌐 http://www.wilder.org
+
+101. Wilder Foundation - Hidden River Middle School
+631 Albert St N, Saint Paul, MN 55104-3054
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (651) 280-2310
+🌐 http://www.wilder.org
+
+102. Wilder Foundation - Hazel Park Preparatory Academy
+1140 White Bear Ave N, Saint Paul, MN 55106-3098
+📝 HRSA Certified Community Behavioral Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (651) 280-2310
+🌐 http://www.wilder.org
+
+103. NACC Behavioral Health Outpatient Programs
+1113 E Franklin Ave STE 103, Minneapolis, MN 55404-2975
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (612) 872-8086

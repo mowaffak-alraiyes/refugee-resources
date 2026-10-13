@@ -25,10 +25,12 @@
 
 4. Crossroads Healthcare Clinic
 100 Central Ave Ste 173, Cheyenne, WY, 82007-1330
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 307-632-8064
 🗺 https://maps.google.com/?q=41.11997,-104.80784
+
+🌐 http://www.calc.net
 
 5. CHEYENNE HEALTH AND WELLNESS CENTER
 2508 EAST FOX FARM ROAD STE 1-1A, CHEYENNE, WY, 82007
@@ -98,3 +100,29 @@
 📞 307-764-4107
 🗺 https://maps.google.com/?q=44.75364,-108.75793
 
+14. Wyoming Department Of Health
+122 W 25th St, Cheyenne, WY 82001-3004
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (307) 777-5856
+
+15. HealthWorks - Main Clinic
+2508 E Fox Farm Rd, Cheyenne, WY 82007-2559
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (307) 222-1803
+🌐 http://www.wyhealthworks.org
+
+16. Pain Care Center - Casper
+5850 E 2nd St, Casper, WY 82609-4342
+📝 HRSA Substance Use Disorder Facility, Office-based Opioid Treatment Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (307) 212-6270
+🌐 https://www.paincarecenters.com/
+
+17. Personal Frontiers Inc.
+310 S Miller Ave, Gillette, WY 82716-3944
+📝 HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (307) 686-1189
+🌐 http://www.personalfrontiers.org

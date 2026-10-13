@@ -9,10 +9,12 @@
 
 2. Homeless Open Hands
 3000 Springer Blvd Ste B, Little Rock, AR, 72206-3314
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 501-244-2121
 🗺 https://maps.google.com/?q=34.71958,-92.25942
+
+🌐 http://www.jccsi.org
 
 3. ARcare - 138
 500 S University Ave Ste 316, Little Rock, AR, 72205-5342
@@ -24,9 +26,9 @@
 
 4. Healthy Connections - Little Rock Midtown Ste 200
 1100 N University Ave STE 200, Little Rock, AR, 72207-6360
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://healthy-connections.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Migrant health center
 📞 479-437-3449
 🗺 https://maps.google.com/?q=34.76183,-92.34151
 
@@ -658,9 +660,9 @@ HC 31 Box 310, DEER, AR, 72628
 
 87. Northside Clinic at 6th Street
 3202 N    6th St, Fort Smith, AR, 72904-4164
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.rvpcs.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Migrant health center
 📞 479-783-3900
 🗺 https://maps.google.com/?q=35.41042,-94.39846
 
@@ -775,9 +777,9 @@ HC 31 Box 310, DEER, AR, 72628
 
 103. Community Clinic Springdale Medical Family Practice and Women's Health
 614 E Emma Ave STE 300, Springdale, AR, 72764-4469
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center; Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.communityclinicnwa.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Migrant health center; Women's health
 📞 479-751-7417
 🗺 https://maps.google.com/?q=36.18537,-94.12265
 
@@ -848,3 +850,109 @@ HC 31 Box 310, DEER, AR, 72628
 📞 870-857-3334
 🗺 https://maps.google.com/?q=36.38127,-90.17550
 
+113. Arcare Fayetteville
+2894 N Mckee Cir, Fayetteville, AR 72703-3400
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (479) 571-2100
+
+114. Arcare Fort Smith
+3800 Rogers Ave, Fort Smith, AR 72903-3053
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (479) 782-2500
+
+115. Arcare Little Rock
+8924 Kanis Rd, Little Rock, AR 72205-6414
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (501) 228-8130
+
+116. Arkansas Department Of Health
+4815 W Markham St, Little Rock, AR 72205-3867
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (870) 347-5930
+
+117. Jefferson Comprehensive Care System, Inc. - College Station
+4206 Frazier Pike, Little Rock, AR 72206-9635
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (501) 490-2440
+
+118. University of Arkansas for Medical Sciences Center for Addiction Services and Treatment
+4224 Shuffield Dr, Little Rock, AR 72205-7211
+📝 HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (501) 826-8400
+🌐 https://psychiatry.uams.edu/clinical-care/cast/
+
+119. Western Arkansas Counseling and Guidance Center - Spradling Elementary
+4949 Spradling Ave, Fort Smith, AR 72904-3799
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (479) 452-6650
+🌐 http://wacgc.org
+
+120. Western Arkansas Counseling and Guidance Center - Southside High School
+4100 Gary St, Fort Smith, AR 72903-5499
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (479) 452-6650
+🌐 http://www.wacgc.org
+
+121. Western Arkansas Counseling and Guidance Center - Fairview Elementary School
+2400 S Dallas St, Fort Smith, AR 72901-6830
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (479) 452-6650
+🌐 http://www.wacgc.org
+
+122. Western Arkansas Counseling and Guidance Center - Howard Elementary School
+1301 N 8th St, Fort Smith, AR 72901-1332
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (479) 452-6650
+🌐 http://www.wacgc.org
+
+123. Western Arkansas Counseling and Guidance Center - Northside High School
+N 25th St, Fort Smith, AR 72901-3431
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (479) 452-6650
+🌐 http://www.wacgc.org
+
+124. Western Arkansas Counseling and Guidance Center - Morrison Elementary School
+3415 Newlon Rd, Fort Smith, AR 72904-2100
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (479) 452-6650
+🌐 http://www.wacgc.org
+
+125. River Valley Primary Care Services - Northside Clinic
+4900 Kelley Hwy, Fort Smith, AR 72904-5000
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (479) 785-5700
+🌐 http://www.rvpcs.org
+
+126. ARcare 136 - Springdale
+3057 Springdale Ave, Springdale, AR 72762-4346
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (870) 347-2534
+🌐 http://www.arcare.net
+
+127. Western Arkansas Counseling and Guidance Center - Ramsey Junior High
+3201 Jenny Lind Rd, Fort Smith, AR 72901-7198
+📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
+🏥 Services: School-based health care for children and adolescents
+📞 (479) 452-6650
+🌐 http://www.wacgc.org
+
+128. Community Clinic Springdale Medical - Pediatrics
+610 E Emma Ave, Suite C, Springdale, AR 72764-4685
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Pediatrics; Dental
+📞 (479) 751-7417
+🌐 https://www.communityclinicnwa.org

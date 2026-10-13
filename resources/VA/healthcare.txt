@@ -75,9 +75,9 @@
 
 11. 48th Street Physicians
 4714 Marshall Avenue, Newport News, VA, 23607-2247
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://sevhs.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 757-380-8709
 🗺 https://maps.google.com/?q=36.99808,-76.42407
 
@@ -98,9 +98,9 @@
 
 14. Warwick Boulevard Physicians
 9294 Warwick Blvd, Newport News, VA, 23607-1535
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.pich.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 757-591-0643
 🗺 https://maps.google.com/?q=37.02123,-76.45187
 
@@ -122,9 +122,9 @@
 
 17. STONEYBROOK PHYSICIANS
 15425 WARWICK BLVD. STE H, NEWPORT NEWS, VA, 23608-1579
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://pich.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care; Migrant health center
 📞 757-874-8400
 🗺 https://maps.google.com/?q=37.15029,-76.55439
 
@@ -269,61 +269,69 @@
 
 36. Henrico Area Mental Health and Developmental Services East End Center
 3908 Nine Mile Rd, Richmond, VA, 23223-4913
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Mental health
 📞 804-649-2119
 🗺 https://maps.google.com/?q=37.54155,-77.38008
 
 37. VERNON J. HARRIS EAST END CHC
 719 N   25th St, Richmond, VA, 23223-6539
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.cahealthnet.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care; Migrant health center
 📞 804-780-0840
 🗺 https://maps.google.com/?q=37.53567,-77.41466
 
 38. THE HEALING PLACE
 700 Dinwiddie Ave, Richmond, VA, 23224-5522
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Migrant health center
 📞 804-783-2505 x230
 🗺 https://maps.google.com/?q=37.51712,-77.43431
 
+🌐 http://www.dailyplanetva.org/
+
 39. CARITAS
 2220 Stockton St, Richmond, VA, 23224-3707
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 804-783-2505 x236
 🗺 https://maps.google.com/?q=37.51373,-77.45085
 
+🌐 http://dailyplanetva.org
+
 40. Safe Haven
 2864 Hull St, Richmond, VA, 23224-3680
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 804-231-7137
 🗺 https://maps.google.com/?q=37.51074,-77.46009
 
 41. DAILY PLANET HEALTHCARE FOR THE HOMELESS PROGRAM
 517 W Grace St, Richmond, VA, 23220-4911
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.dailyplanetva.org
-🏥 Services: Primary Care
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care; Health Care for the Homeless
 📞 804-783-2505 x230
 🗺 https://maps.google.com/?q=37.54763,-77.44775
 
 42. Northside Medical Center & Administration
 2809 North Ave, Richmond, VA, 23222-3647
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Migrant health center
 📞 804-780-0840
 🗺 https://maps.google.com/?q=37.56908,-77.43271
 
+🌐 http://cahealthnet.org
+
 43. The Southside Community Health Center of Greater Richmond
 180 E. Belt Blvd, Richmond, VA, 23224-1204
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care; Health Care for the Homeless
 📞 804-292-3011
 🗺 https://maps.google.com/?q=37.50579,-77.48168
+
+🌐 http://www.dailyplanetva.org
 
 44. Henderson Health Services (VUU)
 1500 N. Lombardy, Richmond, VA, 23220
@@ -342,8 +350,8 @@
 
 46. Pediatric Medical Center
 5855 Bremo Rd Ste 302, Richmond, VA, 23226-1923
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Pediatrics
 📞 804-282-4207
 🗺 https://maps.google.com/?q=37.58415,-77.51259
 
@@ -963,3 +971,65 @@
 📞 276-498-1625
 🗺 https://maps.google.com/?q=37.23858,-82.07444
 
+128. Virginia Commonwealth University Infectious Disease Clinic
+1200 E Broad St, Richmond, VA 23298-5025
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (804) 828-6163
+
+129. Can Community Health- Norfolk Clinic
+1001 Monticello Ave, Norfolk, VA 23510-2564
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (973) 370-3130
+
+130. Cross Over Health Center
+108 Cowardin Ave, Richmond, VA 23224-2020
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (804) 655-2794
+
+131. Daily Planet Inc. - Daily Planet Health Services
+511 W Grace St, Richmond, VA 23220-4911
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program; Health Care for the Homeless
+📞 (804) 783-2505
+🌐 http://dailyplanetva.org
+
+132. Eastern Virginia Medical School
+825 Fairfax Ave, Norfolk, VA 23507-1914
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (757) 446-8999
+
+133. Lgbt Life Center
+5360 Robin Hood Rd STE 202, Norfolk, VA 23513-2422
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (757) 640-0929
+
+134. Norfolk Community Health Center
+1401 Tidewater Dr STE 1, Norfolk, VA 23504-2840
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (757) 572-8011
+
+135. Daily Planet, Inc - East Cary Health Center
+24 E Cary St, Richmond, VA 23219-3796
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Health Care for the Homeless; Primary care
+📞 (804) 783-2505
+🌐 http://www.dailyplanetva.org
+
+136. CAHN- Main Street Primary Care
+2025 E Main St, Richmond, VA 23223-7069
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (804) 591-2890
+
+137. Ocean View Medical and Dental Center
+9581 Shore Dr, Norfolk, VA 23518-1711
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Dental
+📞 (757) 393-6363
+🌐 https://www.hrchc.org

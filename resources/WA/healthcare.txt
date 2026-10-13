@@ -48,16 +48,18 @@
 
 7. Robert Clewis Center
 2124 4th Ave, Seattle, WA, 98121-2308
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Health Care for the Homeless
 📞 206-521-1855
 🗺 https://maps.google.com/?q=47.61460,-122.34217
 
+🌐 http://www.kingcounty.gov/depts/health/locations/downtown.aspx
+
 8. ICHS - International District Medical & Dental Clinic
 720 8th Ave S, Seattle, WA, 98104-3032
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.ichs.com
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Dental
 📞 206-788-3700
 🗺 https://maps.google.com/?q=47.59613,-122.32218
 
@@ -124,8 +126,8 @@
 
 17. UW Homeless Youth Clinic
 500 19TH AVE E, SEATTLE, WA, 98112-4007
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 206-299-1636
 🗺 https://maps.google.com/?q=47.62342,-122.30698
 
@@ -162,9 +164,9 @@
 
 22. Neighborcare Health at 45th Street - Dental
 1629 N 45TH ST, SEATTLE, WA, 98103-6701
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.neighborcare.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Dental
 📞 206-633-3350
 🗺 https://maps.google.com/?q=47.66109,-122.33774
 
@@ -200,9 +202,9 @@
 
 27. Sea Mar CHC - Seattle 8720 14th Ave. S.
 8720 14th Ave S, Seattle, WA, 98108-4807
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.seamar.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Migrant health center
 📞 206-762-3730
 🗺 https://maps.google.com/?q=47.52490,-122.31472
 
@@ -224,9 +226,9 @@
 
 30. Sea Mar CHC - White Center 15th Ave. SW
 9650 15TH AVE SW # 100, SEATTLE, WA, 98106-2816
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.seamar.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Dental; Mental health; Migrant health center
 📞 206-965-1000
 🗺 https://maps.google.com/?q=47.51586,-122.35398
 
@@ -631,10 +633,12 @@
 
 84. Sea Mar CHC - Tacoma 1215 S. 11th St.
 1215 S 11TH ST, TACOMA, WA, 98405-4020
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Dental; Migrant health center
 📞 253-280-9840
 🗺 https://maps.google.com/?q=47.25200,-122.45437
+
+🌐 http://www.seamar.org
 
 85. Hilltop Regional Health Center
 1202 Martin Luther King Jr. Way, Tacoma, WA, 98405-3926
@@ -777,10 +781,12 @@
 
 104. Sea Mar CHC - Olympia Ensign Rd NE
 3622 Ensign Rd NE, Olympia, WA, 98506-5081
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Migrant health center
 📞 360-742-5000
 🗺 https://maps.google.com/?q=47.05165,-122.84325
+
+🌐 http://www.seamarchc.org/
 
 105. Sea Mar CHC - Lacey Woodland Square Loop
 669 Woodland Square Loop SE, Lacey, WA, 98503-1038
@@ -815,9 +821,9 @@
 
 109. Sea Mar CHC - Olympia 3030 Limited Lane NW
 3030 LIMITED LN NW, OLYMPIA, WA, 98502-2704
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.seamar.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Migrant health center
 📞 360-491-1399
 🗺 https://maps.google.com/?q=47.04881,-122.93936
 
@@ -1333,9 +1339,9 @@
 
 176. Sea Mar CHC - Vancouver NE 88th St.
 1412 NE 88TH ST, VANCOUVER, WA, 98665-9620
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.seamar.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Dental; Migrant health center
 📞 360-574-4074
 🗺 https://maps.google.com/?q=45.68627,-122.65708
 
@@ -1348,10 +1354,12 @@
 
 178. Sea Mar CHC - Vancouver Fourth Plain
 6100 NE Fourth Plain Blvd, Vancouver, WA, 98661-6830
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Primary Care; Migrant health center
 📞 206-763-5277
 🗺 https://maps.google.com/?q=45.64369,-122.60944
+
+🌐 http://www.seamar.org
 
 179. Sea Mar CHC - Vancouver Evergreen High School
 14300 NE 18th St Rm 213, Vancouver, WA, 98684-7807
@@ -1362,9 +1370,9 @@
 
 180. Sea Mar CHC - Vancouver Delaware Lane
 7410 Delaware Ln, Vancouver, WA, 98664-1408
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.seamar.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Migrant health center
 📞 360-566-4402
 🗺 https://maps.google.com/?q=45.62447,-122.59470
 
@@ -1425,9 +1433,9 @@
 
 188. Unify Community Health
 120 W Mission Ave, Spokane, WA, 99201-2322
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.yvfwc.com
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Migrant health center
 📞 509-326-4343
 🗺 https://maps.google.com/?q=47.67197,-117.41370
 
@@ -1456,9 +1464,9 @@
 
 192. East Central Dental
 2211 E Hartson Ave, Spokane, WA, 99202-4152
-📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.chas.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care; Dental
 📞 509-444-8200
 🗺 https://maps.google.com/?q=47.65023,-117.37771
 
@@ -1716,3 +1724,150 @@
 📞 509-783-1960
 🗺 https://maps.google.com/?q=46.21142,-119.22234
 
+226. Uw Medical Center - Montlake
+1959 NE Pacific St, Seattle, WA 98195-0001
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (206) 598-4070
+
+227. Aids Healthcare Foundation - Seattle, Wa
+1016 E Pike St STE 200, Seattle, WA 98122-3847
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (206) 302-2020
+
+228. Aurora Commons
+8914 Aurora Ave N, Seattle, WA 98103-3920
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (206) 744-5100
+
+229. Bailey Boushay House
+2720 E Madison St, Seattle, WA 98112-4739
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (206) 322-5300
+
+230. Harborview Medical Center
+325 9th Ave, Seattle, WA 98104-2420
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+🏥 Services: Ryan White HIV/AIDS Program
+📞 (206) 744-5100
+
+231. Sea Mar CHC - Geropsych Facility and Child Development Center
+1040 S Henderson St, Seattle, WA 98108-4720
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health; Migrant health center
+📞 (206) 763-5277
+🌐 http://www.seamarchc.org/
+
+232. Sea Mar CHC - Vancouver 65 St. Outpatient and Child & Family Services
+11801 NE 65th St, Vancouver, WA 98662-5527
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (360) 558-5790
+🌐 http://www.seamarchc.org/
+
+233. Sea Mar CHC - Tacoma Medical, Dental & Outpatient
+1112 S Cushman Ave, Tacoma, WA 98405-3631
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Dental; Migrant health center
+📞 (253) 593-2144
+🌐 http://www.seamar.org
+
+234. Sea Mar CHC - Vancouver Salmon Creek Behavioral Health
+14508 NE 20th Ave, Vancouver, WA 98686-6424
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health; Migrant health center; Women's health
+📞 (360) 397-9211
+🌐 http://www.seamarchc.org/
+
+235. Spokane Regional Health District
+312 W 8th Ave, Spokane, WA 99204-2506
+📝 HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
+🏥 Services: Mental health
+📞 (509) 324-1598
+🌐 https://srhd.org/
+
+236. Sea Mar CHC - Tacoma Medical and Behavioral Health for the Homeless
+1307 S 11th St, Tacoma, WA 98405-3644
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health; Health Care for the Homeless; Migrant health center
+📞 (253) 682-2195
+🌐 http://www.seamarchc.org
+
+237. Sea Mar CHC - Tacoma Outpatient
+2121 S 19th St, Tacoma, WA 98405-2922
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (253) 396-1634
+🌐 http://www.seamarchc.org/
+
+238. Neighborcare Health Dental at Providence at St. Peter Hospital
+525 Lilly Rd NE, Olympia, WA 98506-5101
+📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+🏥 Services: Dental; Health Care for the Homeless
+📞 (360) 456-8844
+🌐 http://www.neighborcare.org
+
+239. Sea Mar CHC - Community Services Northwest Behavioral Health
+1601 E Fourth Plain Blvd, Vancouver, WA 98661-3713
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Mental health; Migrant health center
+📞 (360) 558-5795
+🌐 http://www.seamarchc.org/
+
+240. Yakima Valley Farm Workers Clinic - Unify Community Health at Northeast Community Center
+4001 N Cook St, Spokane, WA 99207-5879
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (509) 326-4343
+🌐 http://www.yvfwc.org
+
+241. Sea Mar CHC - Seattle Dental
+8915 14th Ave S, Seattle, WA 98108-4813
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Dental; Migrant health center
+📞 (206) 762-3263
+🌐 http://www.seamar.org/
+
+242. Sea Mar CHC - Seattle Outpatient
+8801 14th Ave S, Seattle, WA 98108-4809
+📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
+🏥 Services: Migrant health center; Primary care
+📞 (206) 766-6976
+🌐 http://www.seamar.org
+
+243. North Public Health Center-Lake City Dental
+12359 Lake City Way NE, Seattle, WA 98125-5401
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Dental
+📞 (206) 205-8580
+🌐 http://www.kingcounty.gov/healthservices/health/locations/dental.aspx
+
+244. CHAS Health Family Dental
+203 E Dalke Ave, Spokane, WA 99208-8112
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Dental
+📞 (509) 444-8200
+🌐 https://www.chas.org
+
+245. Spokane Pediatrics, a CHAS Health Clinic
+601 W 5th Ave, Suite 200, Spokane, WA 99204-2710
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Pediatrics
+📞 (509) 444-8888
+
+246. Ichs - Holly Park Medical & Dental Clinic
+3815 S Othello St, Seattle, WA 98118-3510
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Dental
+📞 (206) 788-3500
+🌐 https://www.ichs.com
+
+247. Seattle Roots - Dental Clinic
+510 19th Ave E, Seattle, WA 98112-4095
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Dental
+📞 (206) 299-1600
+🌐 http://www.cdchc.org/
