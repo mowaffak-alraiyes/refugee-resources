@@ -490,3 +490,11 @@
 🏥 Services: Ryan White HIV/AIDS Program
 📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
 
+70. Siouxland Counseling Services PLLC
+700 Pierce Street, Sioux City, IA 51101
+🌐 https://
+🗣 Languages: Spanish
+🏥 Services: Mental Health
+📞 (712) 560-7045
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
+
