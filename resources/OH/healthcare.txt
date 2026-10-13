@@ -4,7 +4,7 @@
 16 W Long St, Columbus, OH, 43215-2815
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.southeastinc.com/
-🏥 Services: Primary Care
+🏥 Services: Primary Care, Ryan White HIV/AIDS Program
 📞 614-225-0990
 🗺 https://maps.google.com/?q=39.96507,-83.00176
 
@@ -27,7 +27,7 @@
 240 Parsons Ave, Columbus, OH, 43215-5331
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.primaryonehealth.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care, Ryan White HIV/AIDS Program
 📞 614-645-5500
 🗺 https://maps.google.com/?q=39.95933,-82.98083
 
@@ -1400,7 +1400,7 @@
 189. CARACOLE CLINIC
 4138 Hamilton Ave, Cincinnati, OH, 45223-2293
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+🏥 Services: Primary Care, Ryan White HIV/AIDS Program
 📞 513-386-7899
 🗺 https://maps.google.com/?q=39.16139,-84.53910
 
@@ -2279,7 +2279,7 @@
 308. Ridge Community Health Center
 3569 Ridge Rd, Cleveland, OH 44102-5443
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
-🏥 Services: Ryan White HIV/AIDS Program
+🏥 Services: Ryan White HIV/AIDS Program, Dental, Mental Health
 📞 (216) 281-0872
 
 309. The Ohio State University Wexner Medical Center
@@ -2382,6 +2382,81 @@
 
 324. Cuyahoga County
 5550 Venture Dr, Cleveland, OH 44130-9315
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+325. The Cincinnati Health Network, Inc.
+2825 Burnet Ave STE 232, Cincinnati, OH 45219-2426
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+326. Equitas Health Inc
+1105 Schrock Rd, Ste 400, Columbus, OH 43229-1174
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+327. University Hospitals Cleveland Medical Center
+11000 Euclid Ave, Cleveland, OH 44106-1714
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+328. Cuyahoga County Department Of Senior & Adult Services
+13815 Kinsman Rd, Cleveland, OH 44120-4417
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+329. Proyecto Luz/Project Light
+2226 W 89th St, Cleveland, OH 44102-3863
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+330. University Of Cincinnati Infectious Diseases Center
+231 Albert Sabin Way, Cincinnati, OH 45267-2827
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+331. The Ohio State University Infectious Disease Clinic
+700 Ackerman Rd, Columbus, OH 43202-1559
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+332. Neighborhood Health Care Incorporated
+4115 Bridge Ave, Cleveland, OH 44113-3304
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+333. Osu University Hospital
+660 Ackerman Rd, Columbus, OH 43202-4500
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+334. Lifecare Alliance
+1699 W Mound St, Columbus, OH 43223-1809
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+335. A Vision Of Change, Inc
+12200 Fairhill Rd # C, Cleveland, OH 44120-1058
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+336. Cleveland State University
+2121 Euclid Ave, Cleveland, OH 44115-2214
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+337. Columbus Green Cab, Inc. Is Dba Yellow Cab
+1989 Camaro Ave, Columbus, OH 43207-1716
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+338. Upward Spiral Coaching & Consulting, Llc
+13104 Lake Shore Blvd, Cleveland, OH 44108-1147
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+339. Equality Ohio Education Fund
+370 5h Street STE G3, Columbus, OH 43215
 🏥 Services: Ryan White HIV/AIDS Program
 📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
 
