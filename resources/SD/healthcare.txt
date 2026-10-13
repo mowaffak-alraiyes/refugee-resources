@@ -197,3 +197,101 @@ PO BOX 368, Woonsocket, SD, 57385-0368
 🏥 Services: Ryan White HIV/AIDS Program
 📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
 
+28. Rising Hope Counseling - Sioux Falls
+6340 S Western Ave, Sioux Falls, SD 57108-3413
+🌐 http://www.risinghope605.com
+🏥 Services: Mental Health
+📞 (605) 494-1500
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+29. Visionary Mental Health Services, LLC
+109 Lincoln Ave, Pierre, SD 57501
+🌐 http://www.visionarymentalhealth.com
+🏥 Services: Mental Health
+📞 (605) 280-9778
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+30. Rising Hope Counseling Pierre
+420 S Henry St, Pierre, SD 57501-4515
+🌐 http://www.risinghope605.com
+🏥 Services: Mental Health
+📞 (605) 691-5825
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+31. Lourdes Center
+523 North Duluth Avenue, Sioux Falls, SD 57104
+🌐 https://thelourdescenter.com
+🏥 Services: Mental Health
+📞 (605) 988-3775
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+32. Capital Area Counseling Services
+2001 Eastgate Avenue, Pierre, SD 57501
+🌐 https://www.cacsnet.org
+🏥 Services: Mental Health
+📞 (605) 224-5811
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+33. Childrens Home Society of SD - Sioux Falls Childrens Home
+801 North Sycamore Avenue, Sioux Falls, SD 57101
+🌐 https://www.chssd.org
+🏥 Services: Mental Health
+📞 605-334-6004 x3117
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+34. Southeastern Directions for Life - Community Support Services
+600 South Cliff Avenue, Sioux Falls, SD 57104
+🌐 https://southeasternbh.org
+🏥 Services: Mental Health
+📞 (605) 271-8544
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+35. Lutheran Social Services of SD - Summit Oaks Center
+621 East Presentation Street, Sioux Falls, SD 57104
+🌐 https://www.lsssd.org
+🏥 Services: Mental Health
+📞 (605) 221-2346
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+36. Volunteers of America Dakotas
+1310 West 51st Street, Sioux Falls, SD 57105
+🌐 https://www.voa-dakotas.org
+🏥 Services: Mental Health
+📞 (605) 334-1414
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+37. Southeastern Directions for Life - Counseling and Childrens Services
+2000 South Summit Avenue, Sioux Falls, SD 57105
+🌐 https://southeasternbh.org
+🏥 Services: Mental Health
+📞 (605) 271-8544
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+38. Lutheran Social Services of SD - Sioux Falls Area Counseling Center
+705 East 41st Street, Suite 100, Sioux Falls, SD 57105
+🌐 https://www.lsssd.org
+🏥 Services: Mental Health
+📞 (605) 791-6700
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+39. Avera McKennan Hospital (BHS) - Addiction Recovery Program
+Avera Professional Plaza, 2412 South Cliff Avenue, Sioux Falls, SD 57105
+🌐 https://www.AveraBehavioralHealth.org
+🏥 Services: Mental Health
+📞 (605) 322-4079
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+40. Avera Addiction Care Center
+6140 South Curae Lane, Sioux Falls, SD 57108
+🌐 https://averabehavioralhealth.org
+🏥 Services: Mental Health
+📞 (605) 504-2222
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+41. Avera McKennan Behavioral Health Ctr - Inpatient Services
+4400 West 69th Street, Suite 100, Sioux Falls, SD 57108
+🌐 https://averabehavioralhealth.org
+🏥 Services: Mental Health
+📞 (605) 322-4005
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
