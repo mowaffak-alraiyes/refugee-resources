@@ -2935,7 +2935,7 @@ PEBBLE VILLAGE SHOPPING CENTER10780 PEBBLE HILLS BLVD STE G1, EL PASO, TX, 79935
 390. Ahf- Houston
 1200 Binz St, Houston, TX 77004-6900
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
-🏥 Services: Ryan White HIV/AIDS Program
+🏥 Services: Ryan White HIV/AIDS Program, Mental Health
 📞 (713) 524-8700
 
 391. Aids Arms, Inc./Oak Cliff
@@ -2983,7 +2983,7 @@ PEBBLE VILLAGE SHOPPING CENTER10780 PEBBLE HILLS BLVD STE G1, EL PASO, TX, 79935
 398. CommUnityCare - David Powell Health Center
 4614 N Interstate 35, Austin, TX 78751-3401
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
-🏥 Services: Ryan White HIV/AIDS Program; Migrant health center
+🏥 Services: Ryan White HIV/AIDS Program, Migrant health center, Mental Health
 📞 (512) 978-9100
 🌐 http://www.communitycaretx.org
 
@@ -3020,7 +3020,7 @@ PEBBLE VILLAGE SHOPPING CENTER10780 PEBBLE HILLS BLVD STE G1, EL PASO, TX, 79935
 404. Legacy Branard Center Clinic
 401 Branard St, Houston, TX 77006-5015
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
-🏥 Services: Ryan White HIV/AIDS Program
+🏥 Services: Ryan White HIV/AIDS Program, Mental Health
 📞 (713) 366-7444
 
 405. Resource Center Of Dallas
@@ -3038,7 +3038,7 @@ PEBBLE VILLAGE SHOPPING CENTER10780 PEBBLE HILLS BLVD STE G1, EL PASO, TX, 79935
 407. St. Hope - Greenspoint Health Center
 255 Northpoint Dr STE 200, Houston, TX 77060-3269
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
-🏥 Services: Ryan White HIV/AIDS Program
+🏥 Services: Ryan White HIV/AIDS Program, Dental
 📞 (713) 778-1300
 
 408. Tarrant County Hospital District Jps
@@ -3074,7 +3074,7 @@ PEBBLE VILLAGE SHOPPING CENTER10780 PEBBLE HILLS BLVD STE G1, EL PASO, TX, 79935
 413. Dallas County Hospital District - Mobile Medical Unit # 7
 2311 Butler St, Dallas, TX 75235-7813
 📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
-🏥 Services: Health Care for the Homeless; Primary care
+🏥 Services: Health Care for the Homeless, Primary Care, Dental
 📞 (214) 590-0153
 🌐 http://www.parlandhealth.org
 
@@ -3191,7 +3191,7 @@ PEBBLE VILLAGE SHOPPING CENTER10780 PEBBLE HILLS BLVD STE G1, EL PASO, TX, 79935
 430. CentroMed - Palo Alto Clinic
 9011 Poteet Jourdanton Fwy, San Antonio, TX 78224-2124
 📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
-🏥 Services: Migrant health center; Primary care
+🏥 Services: Migrant health center, Primary Care, Dental
 📞 (210) 334-3700
 🌐 http://www.centromedsa.com
 
@@ -3260,7 +3260,7 @@ PEBBLE VILLAGE SHOPPING CENTER10780 PEBBLE HILLS BLVD STE G1, EL PASO, TX, 79935
 440. Integral Care - Outpatient SUD Programs - Airport Boulevard
 1165 Airport Blvd, Austin, TX 78702-3198
 📝 HRSA Substance Use Disorder Facility, Office-based Opioid Treatment Facility. Source: data.hrsa.gov.
-🏥 Services: Mental health
+🏥 Services: Mental Health, Ryan White HIV/AIDS Program
 📞 (512) 445-7764
 🌐 http://www.integralcare.org
 
@@ -3274,7 +3274,7 @@ PEBBLE VILLAGE SHOPPING CENTER10780 PEBBLE HILLS BLVD STE G1, EL PASO, TX, 79935
 442. Lone Star Circle of Care - Stassney
 730 W Stassney Ln, Austin, TX 78745-2982
 📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
-🏥 Services: Migrant health center; Primary care
+🏥 Services: Migrant health center, Primary Care, Dental
 📞 (877) 800-5722
 🌐 http://lonestarcares.org
 
@@ -3288,7 +3288,7 @@ PEBBLE VILLAGE SHOPPING CENTER10780 PEBBLE HILLS BLVD STE G1, EL PASO, TX, 79935
 444. CommuniCare Health Centers - Dr. Frank Bryant Health Center
 3066 E Commerce St, San Antonio, TX 78220-1013
 📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
-🏥 Services: Migrant health center; Primary care
+🏥 Services: Migrant health center, Primary Care, Dental, Mental Health
 📞 (210) 233-7074
 🌐 http://www.communicaresa.org
 
@@ -3378,6 +3378,166 @@ PEBBLE VILLAGE SHOPPING CENTER10780 PEBBLE HILLS BLVD STE G1, EL PASO, TX, 79935
 
 458. Tarrant County
 100 E Weatherford St, Fort Worth, TX 76196-0206
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+459. Dallas County Texas
+500 Elm St, Dallas, TX 75202-3304
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+460. Texas Department Of Health
+1100 W 49th St, Austin, TX 78756-3126
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+461. Houston Regional HIV/Aids Resource Group Inc
+3700 Buffalo Speedway STE 250, Houston, TX 77098-3799
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+462. University Of Texas Health Science Center Of San Antonio
+7703 Floyd Curl Dr, San Antonio, TX 78229-3901
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+463. University Of Texas Southwestern Medical Center, The
+5323 Harry Hines Blvd, Dallas, TX 75390-7201
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+464. Aids Foundation Houston, Inc.
+6260 Westpark Dr STE 100, Houston, TX 77057-7353
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+465. City Of Houston Department Of Health & Human Services
+8000 N Stadium Dr, Houston, TX 77054-1823
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+466. Saint Hope Foundation, Inc.
+6200 Savoy Dr STE 540, Houston, TX 77036-3338
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+467. Veterans Affairs Medical Center Houston
+2002 Holcombe Blvd, Houston, TX 77030-4211
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+468. Aids Arms Inc
+3900 Junius St, Ste 300, Dallas, TX 75246-1602
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+469. Dallas County Health And Human Services/Early Intervention
+2377 N Stemmons Fwy, Dallas, TX 75207-2710
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+470. Legal Hospice Of Texas
+1825 Market Center Blvd, Ste 550, Dallas, TX 75207-3392
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+471. Legacy Counseling Center, Inc.
+4054 Mckinney Ave STE 102, Dallas, TX 75204-2050
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+472. Pwa Coalition Of Dallas Inc. Dba Aids Services Of Dallas
+1441 N Beckley Ave, Dallas, TX 75203-1201
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+473. Resource Center Of Dallas
+4012 Cedar Springs Rd, Dallas, TX 75219-3520
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+474. Project Transitions
+7101 Woodrow Ave, Austin, TX 78757-1859
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+475. Wright House Wellness Center
+3208 Red River St STE 300, Austin, TX 78705-2650
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+476. Beat Aids Coalition Trust
+208 W Euclid Ave, San Antonio, TX 78212-5557
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+477. Tarrant County Samaritan Housing, Inc.
+929 Hemphill St, Fort Worth, TX 76104-3126
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+478. Texas A&M School Of Dentistry
+3302 Gaston Ave, Dallas, TX 75246-2013
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+479. Blue Cross Blue Shield Of Florida
+PO BOX 660299, Dallas, TX 75266-0299
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+480. Metropolitan Transit Authority (Bus Pass Vendor)
+1900 Main St, Houston, TX 77002-8130
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+481. Mother'S Milk Bank Of North Texas
+600 W Magnolia Ave, Fort Worth, TX 76104-4607
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+482. Bexar County Hospital District
+4502 Medical Dr, San Antonio, TX 78229-4402
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+483. Texas Health Action
+101 W Koenig Ln UNIT 100, Austin, TX 78751-1273
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+484. The Salvation Army: Mabee Social Services Center
+1855 E Lancaster Ave, Fort Worth, TX 76103-2123
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+485. Belmont Icehouse, Llc
+3116 Commerce St STE D, Dallas, TX 75226-1615
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+486. Abounding Prosperity, Inc
+2311 Martin Luther King Jr Blvd, Dallas, TX 75215-2302
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+487. Center For Health Empowerment
+2312 Western Trails Blvd, Austin, TX 78745-1642
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+488. Southern Black Policy & Advocacy Network, Inc
+1075 Griffin St W, Dallas, TX 75215-1026
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+489. Matthew Chase Cates, Do
+9310 Proclamation Dr, San Antonio, TX 78240-2869
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+490. Clinical Pathology Labs
+9200 Wall St, Austin, TX 78754-4534
 🏥 Services: Ryan White HIV/AIDS Program
 📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
 
