@@ -357,3 +357,360 @@
 🏥 Services: Ryan White HIV/AIDS Program
 📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
 
+51. OneWorld Community Health Centers, Inc. - Northwest Omaha Clinic
+4229 N 90th St, Omaha, NE 68134-4136
+🌐 http://www.oneworldomaha.org
+🏥 Services: Dental
+📞 (402) 734-4110
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+52. Nebraska Mental Health Centers - Lincoln Office
+4545 S 86th St, Lincoln, NE 68526-9262
+🌐 http://www.nebraskamental.health
+🏥 Services: Mental Health
+📞 (402) 483-6990
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+53. Pine Lake Behavioral Health, LLC.
+9100 Andermatt Dr, Lincoln, NE 68526-6701
+🌐 http://www.pinelakebh.com
+🏥 Services: Mental Health
+📞 (402) 434-2730
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+54. Ponca Tribe of Nebraska Health Services - Fred LeRoy Health and Wellness Center
+2602 J St, Omaha, NE 68107-1643
+🌐 http://www.poncatribe-ne.org
+🏥 Services: Mental Health
+📞 (402) 734-5275
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+55. Mid-Plains Center for Behavioral Healthcare Services - Grand Island
+914 Baumann Dr, Grand Island, NE 68803-4401
+🌐 http://www.midplainscenter.org
+🏥 Services: Mental Health
+📞 (308) 385-5250
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+56. Behavioral Pediatric and Family Therapy Program
+S 70th St, Lincoln, NE 68506-3670
+🌐 http://www.bplincoln.com
+🏥 Services: Mental Health
+📞 (402) 483-1936
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+57. Associates in Counseling and Treatment
+5600 P Street, Lincoln, NE 68505
+🌐 https://www.actnebraska.org
+🏥 Services: Mental Health
+📞 (402) 261-6667
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+58. Whitehall Program
+5900 Walker Avenue, Lincoln, NE 68507
+🌐 https://
+🏥 Services: Mental Health
+📞 (402) 471-6969
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+59. Psychology Department - Munroe Meyer Institute
+6902 Pine Street, Omaha, NE 68105
+🌐 https://unmc.edu/mmi
+🏥 Services: Mental Health
+📞 (402) 559-6408
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+60. At Ease USA
+10605 Burt Circle, Omaha, NE 68114
+🌐 https://www.AtEaseUSA.org
+🏥 Services: Mental Health
+📞 531-247-4040 x2
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+61. CHI Health Psychiatric Associates - Immanuel
+7101 Newport Avenue, Omaha, NE 68152
+🌐 https://www.chihealth.com/
+🏥 Services: Mental Health
+📞 (402) 717-4673
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+62. Bellevue Psychiatric Associates - CHI Health Clinic
+3308 Samson Way, Suite 203, Bellevue, NE 68123
+🌐 https://www.chihealth.com
+🏥 Services: Mental Health
+📞 (402) 717-7681
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+63. Houses of Hope of Nebraska Inc - Halfway House
+1124 North Cotner Boulevard, Lincoln, NE 68505
+🌐 https://www.housesofhope.com
+🏥 Services: Mental Health
+📞 402-435-3165 x112
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+64. Nebraska Mental Health Centers
+4545 South 86th Street, Suite 100, Lincoln, NE 68526
+🌐 https://www.nebraskamental.health
+🏥 Services: Mental Health
+📞 (402) 483-6990
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+65. Boys Town Central Nebraska - Behavioral Health Clinic
+3230 West Wildwood Drive, Grand Island, NE 68801
+🌐 https://www.boystown.org/nebraska/central-ne-services/behavioral-health
+🏥 Services: Mental Health
+📞 (308) 381-8851
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+66. CenterPointe - Campus for Health and WellBeing
+2202 South 11th Street, Lincoln, NE 68502
+🌐 https://www.centerpointe.org/
+🏥 Services: Mental Health
+📞 (402) 475-5161
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+67. Bryan Medical Center West - Behavioral Health Services
+2300 South 16th Street, Lincoln, NE 68502
+🌐 https://www.bryanhealth.com/services/counseling-mental-health/
+🏥 Services: Mental Health
+📞 (402) 481-5981
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+68. Blue Valley Behavioral Health - Lincoln Office
+3901 Normal Boulevard, Suite 201, Lincoln, NE 68506
+🌐 https://bvbh.net
+🏥 Services: Mental Health
+📞 (402) 367-4216
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+69. Bridge Behavioral Health
+721 K Street, Lincoln, NE 68508
+🌐 https://
+🏥 Services: Mental Health
+📞 (402) 477-3951
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+70. Houses of Hope of Nebraska
+1001 South 70th street, Suite 105, Lincoln, NE 68510
+🌐 https://
+🏥 Services: Mental Health
+📞 402-474-4343 x117
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+71. Behavioral Health Resources LLC
+7441 O Street, Suite 107, Lincoln, NE 68510
+🌐 https://www.bhr-llc.com
+🏥 Services: Mental Health
+📞 (402) 486-1101
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+72. Ponca Tribe of Nebraska - Lincoln Health and Wellness Center
+1600 Windhoek Drive, Lincoln, NE 68512
+🌐 https://www.poncatribe-ne.gov
+🏥 Services: Mental Health
+📞 (531) 248-3030
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+73. Renewed Health Outreach and - Psychotherapy
+3510 Village Drive, Suite B, Lincoln, NE 68516
+🌐 https://www.renewedhealthoutreach.com
+🏥 Services: Mental Health
+📞 (402) 937-1920
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+74. Imagine by Northpoint - Lincoln
+3801 Union Drive, Suite 100, Lincoln, NE 68516
+🌐 https://www.imaginebynorthpoint.com
+🏥 Services: Mental Health
+📞 (208) 551-1160
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+75. Region 5 Systems
+3600 Union Drive, Lincoln, NE 68516
+🌐 https://region5systems.net/
+🏥 Services: Mental Health
+📞 (402) 441-4343
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+76. Lutheran Family Services of Nebraska - Mourning Hope Clinic
+1311 South Folsom Street, Lincoln, NE 68522
+🌐 https://www.onelfs.org
+🏥 Services: Mental Health
+📞 (402) 411-7940
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+77. Douglas County - Community Mental Health Center
+4102 Woolworth Avenue, Omaha, NE 68105
+🌐 https://cmhc.douglascounty-ne.gov/
+🏥 Services: Mental Health
+📞 (402) 444-7608
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+78. Capstone Behavioral Health of Nebraska
+1941 South 42nd Street, Suite 328, Omaha, NE 68105
+🌐 https://www.capstonebehavioralhealth.com
+🏥 Services: Mental Health
+📞 (402) 614-8444
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+79. Nebraska Medical Center
+4350 Dewey Avenue, Omaha, NE 68105
+🌐 https://www.nebraskamed.com
+🏥 Services: Mental Health
+📞 (800) 922-0000
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+80. Nebraska Urban Indian Health Coalition - Intertribal Treatment Center
+2226 North Street, Omaha, NE 68107
+🌐 https://www.nuihc.org
+🏥 Services: Mental Health
+📞 402-346-0902 x212
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+81. Open Door Missions - Mens Ministries
+2705 North 20th Street East, Omaha, NE 68110
+🌐 https://www.opendoormission.org
+🏥 Services: Mental Health
+📞 (402) 422-1111
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+82. Charles Drew Health Center Inc
+5319 North 30th Street, Suite A, Omaha, NE 68111
+🌐 https://www.charlesdrew.com
+🏥 Services: Mental Health
+📞 (402) 451-3553
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+83. CHI Health Immanuel - Inpatient
+6901 North 72nd Street, Omaha, NE 68122
+🌐 https://www.CHIHealth.com
+🏥 Services: Mental Health
+📞 (402) 717-4673
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+84. CHI Health Immanuel Hospital - PRTF
+6845 North 68th Plaza, Omaha, NE 68122
+🌐 https://www.CHIhealth.com/
+🏥 Services: Mental Health
+📞 (402) 572-2040
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+85. Imagine by Northpoint - Omaha
+8710 Frederick Street, Suite 100, Omaha, NE 68124
+🌐 https://www.imaginebynorthpoint.com
+🏥 Services: Mental Health
+📞 (208) 551-1160
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+86. Northpoint Recovery - Nebraska
+7215 Ontario Street, Omaha, NE 68124
+🌐 https://www.northpointrecovery.com
+🏥 Services: Mental Health
+📞 (208) 551-1160
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+87. Northpoint Recovery - Omaha
+9623 M Street, Suite 100, Omaha, NE 68127
+🌐 https://www.northpointrecovery.com
+🏥 Services: Mental Health
+📞 (208) 551-1160
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+88. LFS Lutheran Family Services - Kountz Commons
+2661 Douglas Street, Omaha, NE 68131
+🌐 https://www.onelfs.org
+🏥 Services: Mental Health
+📞 (402) 441-7940
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+89. Lasting Hope Recovery Center
+415 South 25th Avenue, Omaha, NE 68131
+🌐 https://www.chihealth.com
+🏥 Services: Mental Health
+📞 (402) 717-5550
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+90. Inroads to Recovery Inc
+2808 North 75th Street, Omaha, NE 68134
+🌐 https://www.inroadstorecovery.com
+🏥 Services: Mental Health
+📞 (402) 932-2248
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+91. Nebraska Hospital at Millard
+14404 Stony Brook Boulevard, Omaha, NE 68137
+🌐 https://nebraskacare.com/locations/hospital-at-millard
+🏥 Services: Mental Health
+📞 (402) 284-5484
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+92. Complete Behavioral Health
+4565 South 133rd Street, Omaha, NE 68137
+🌐 https://cbhomaha.com/
+🏥 Services: Mental Health
+📞 402-590-2947 x1
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+93. Telecare Corporation - Recovery Center at Sarpy
+2231 Lincoln Road, Bellevue, NE 68005
+🌐 https://www.telecarecorp.com
+🏥 Services: Mental Health
+📞 (402) 291-1203
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+94. Heartland Family Service
+3300 North 60th Street, Omaha, NE 68104
+🌐 https://www.heartlandfamilyservice.org
+🏥 Services: Mental Health
+📞 (402) 552-7400
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+95. Heartland Family Service
+4847 Sahler Street, Omaha, NE 68104
+🌐 https://www.heartlandfamilyservice.org
+🏥 Services: Mental Health
+📞 (402) 552-7400
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+96. Friendship House Counseling Clinic
+707 West 1st Street, Grand Island, NE 68801
+🌐 https://www.thefriendshiphouse.net
+🏥 Services: Mental Health
+📞 (308) 675-3345
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+97. Heartland Family Service
+2101 South 42nd Street, Omaha, NE 68105
+🌐 https://www.heartlandfamilyservice.org
+🏥 Services: Mental Health
+📞 (402) 552-7400
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+98. Community Alliance
+7150 Arbor Street, Omaha, NE 68106
+🌐 https://community-alliance.org/
+🏥 Services: Mental Health
+📞 (402) 341-5128
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+99. Lutheran Family Services - Headquarters
+7929 West Center Road, Omaha, NE 68124
+🌐 https://www.onelfs.org
+🏥 Services: Mental Health
+📞 (402) 441-6603
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+100. CHI Health Psychiatric Associates - Lakeside
+16909 Lakeside Hills Court, Building 1, Suite 400, Omaha, NE 68130
+🌐 https://www.chihealth.com/
+🏥 Services: Mental Health
+📞 (402) 758-5850
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+101. Spence Counseling Center
+12035 Q Street, Omaha, NE 68137
+🌐 https://www.spencecounselingcenter.com
+🏥 Services: Mental Health
+📞 (402) 991-0611
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
