@@ -48,7 +48,7 @@
 280 Henry St, New York, NY, 10002-4816
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.betances.org
-🏥 Services: Primary Care; Migrant health center
+🏥 Services: Primary Care, Migrant health center, Ryan White HIV/AIDS Program
 📞 212-227-8408 x101
 
 9. CareVan
@@ -88,7 +88,7 @@
 14. Downtown Brooklyn Health Center
 57 WILLOUGHBY ST, BROOKLYN, NY, 11201-5257
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+🏥 Services: Primary Care, Ryan White HIV/AIDS Program
 📞 718-277-0386
 
 15. Cylar House Community Health Center
@@ -658,7 +658,7 @@
 56 Bay St.  FL 6, Staten Island, NY, 10301-2563
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.sunriver.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care, Ryan White HIV/AIDS Program
 📞 844-400-1975
 
 103. Williams Avenue
@@ -1074,7 +1074,7 @@ One Keener Building, Wards' Island, NY, 10035-6002
 165. CHCR 439
 439 Port Richmond Ave, Staten Island, NY, 10302-1714
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+🏥 Services: Primary Care, Ryan White HIV/AIDS Program
 📞 718-924-2254
 
 166. PS/MS 46 The Arthur Tappan School
@@ -1449,7 +1449,7 @@ One Keener Building, Wards' Island, NY, 10035-6002
 770 E 176th St Fl 2, Bronx, NY, 10460-4617
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.vipservices.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care, Ryan White HIV/AIDS Program
 📞 718-466-8244
 
 222. Tremont Health Center
@@ -2937,7 +2937,7 @@ Audubon Urgicare Center, 21 Audubon Avenue, New York, NY 10032
 449. Whitney M. Young, Jr. Community Health Center
 920 Lark Dr, Albany, NY 12207-1300
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
-🏥 Services: Ryan White HIV/AIDS Program; Migrant health center
+🏥 Services: Ryan White HIV/AIDS Program, Migrant health center, Mental Health
 📞 (518) 464-4771
 🌐 http://www.wmyhealth.org
 
@@ -3011,13 +3011,13 @@ Audubon Urgicare Center, 21 Audubon Avenue, New York, NY 10032
 461. Family Practice Center Of Harlem
 1824 Madison Ave, New York, NY 10035-3832
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
-🏥 Services: Ryan White HIV/AIDS Program
+🏥 Services: Ryan White HIV/AIDS Program, Dental, Mental Health
 📞 (212) 423-4500
 
 462. Flatbush Family Health Center At Nyu Langone
 3414 Church Ave, Brooklyn, NY 11203-2714
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
-🏥 Services: Ryan White HIV/AIDS Program
+🏥 Services: Ryan White HIV/AIDS Program, Dental
 📞 (718) 630-7942
 
 463. Jack Martin Clinic
@@ -3029,7 +3029,7 @@ Audubon Urgicare Center, 21 Audubon Avenue, New York, NY 10032
 464. HHC Jacobi - Hospital Based - Outpatient Comprehensive Addiction Treatment Center (CATC)
 1400 Pelham Pkwy S, Bronx, NY 10461-1119
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
-🏥 Services: Ryan White HIV/AIDS Program; Mental health
+🏥 Services: Ryan White HIV/AIDS Program, Mental Health, Dental
 📞 (718) 918-4333
 🌐 https://www.nychealthandhospitals.org/services/alcohol-substance-use-and-opioid-services/
 
@@ -3048,7 +3048,7 @@ Audubon Urgicare Center, 21 Audubon Avenue, New York, NY 10032
 467. Lincoln Hospital
 234 E 149th St, Bronx, NY 10451-5504
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
-🏥 Services: Ryan White HIV/AIDS Program
+🏥 Services: Ryan White HIV/AIDS Program, Dental, Mental Health
 📞 (718) 579-5926
 
 468. Marble Hill Family Practice
@@ -3060,14 +3060,14 @@ Audubon Urgicare Center, 21 Audubon Avenue, New York, NY 10032
 469. BCHN - (MMG) Bronx Community Health Network
 1 Fordham Plz, Bronx, NY 10458-5871
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
-🏥 Services: Ryan White HIV/AIDS Program; Migrant health center
+🏥 Services: Ryan White HIV/AIDS Program, Migrant health center, Mental Health
 📞 (718) 933-2400
 🌐 http://www.bchnhealth.org
 
 470. Montefiore Medical Center
 111 E 210th St, Bronx, NY 10467
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
-🏥 Services: Ryan White HIV/AIDS Program
+🏥 Services: Ryan White HIV/AIDS Program, Mental Health
 📞 (718) 920-5224
 
 471. Morningside Clinic
@@ -3103,13 +3103,13 @@ Audubon Urgicare Center, 21 Audubon Avenue, New York, NY 10032
 476. Nyc H+H/Woodhull - Paul Paroski Practice
 760 Broadway, Brooklyn, NY 11206-5383
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
-🏥 Services: Ryan White HIV/AIDS Program
+🏥 Services: Ryan White HIV/AIDS Program, Dental
 📞 (718) 630-8031
 
 477. Park Ridge Family Health Center At Nyu Langone
 6317 4th Ave, Brooklyn, NY 11220-4922
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
-🏥 Services: Ryan White HIV/AIDS Program
+🏥 Services: Ryan White HIV/AIDS Program, Dental
 📞 (718) 630-7942
 
 478. Park Slope Family Health Center At Nyu Langone
@@ -3170,13 +3170,13 @@ Audubon Urgicare Center, 21 Audubon Avenue, New York, NY 10032
 487. Sunset Park Family Health Center At Nyu Langone
 150 55th St, Brooklyn, NY 11220-2559
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
-🏥 Services: Ryan White HIV/AIDS Program
+🏥 Services: Ryan White HIV/AIDS Program, Dental
 📞 (718) 630-7942
 
 488. Sunset Terrace Family Health Center At Nyu Langone
 514 49th St, Brooklyn, NY 11220-2010
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
-🏥 Services: Ryan White HIV/AIDS Program
+🏥 Services: Ryan White HIV/AIDS Program, Dental, Mental Health
 📞 (718) 630-7924
 
 489. The Brooklyn Hospital Center
@@ -3274,7 +3274,7 @@ Audubon Urgicare Center, 21 Audubon Avenue, New York, NY 10032
 503. Liberty Resources - HW Smith School SBHC
 1130 Salt Springs Road, Syracuse, NY 13224
 📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
-🏥 Services: School-based health care for children and adolescents
+🏥 Services: School-based health care for children and adolescents, Mental Health
 📞 (315) 472-4471
 
 504. William F. Ryan CHC - Satellite - West End Intergenerational Residence
@@ -3604,7 +3604,7 @@ Nelson Ave, Bronx, NY 10453-7001
 551. Sunset Park - Barbara Kleinman Shelter
 300 Skillman Ave, Brooklyn, NY 11211-1607
 📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
-🏥 Services: Health Care for the Homeless; Primary care
+🏥 Services: Health Care for the Homeless, Primary Care, Mental Health
 📞 (718) 963-4425
 🌐 https://nyulangone.org/care-services/community-medicine-program-family-health-centers-at-nyu-langone
 
@@ -3873,7 +3873,7 @@ Frederick Douglass Blvd, New York, NY 10039
 590. BLISS BronxCare - Psychiatric Adult Outpatient Practice 1
 1276 Fulton Ave, Bronx, NY 10456-3467
 📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program; Health Center Service Delivery Site. Source: data.hrsa.gov.
-🏥 Services: Mental health; Health Care for the Homeless
+🏥 Services: Mental Health, Health Care for the Homeless, Ryan White HIV/AIDS Program
 📞 (718) 579-7389
 🌐 http://www.bronxcare.org
 
@@ -3991,7 +3991,7 @@ Frederick Douglass Blvd, New York, NY 10039
 607. Housing Works - SHERO Providence House 1
 396 Lincoln Rd, Brooklyn, NY 11225-4306
 📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
-🏥 Services: Health Care for the Homeless; Primary care
+🏥 Services: Health Care for the Homeless, Primary Care, Mental Health
 📞 (718) 778-1310
 🌐 https://healthcare.housingworks.org/
 
@@ -4047,7 +4047,7 @@ Frederick Douglass Blvd, New York, NY 10039
 615. Damian Family Care Center - Third Avenue Family Health
 2604 3rd Ave, Bronx, NY 10454-1199
 📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
-🏥 Services: Health Care for the Homeless; Primary care
+🏥 Services: Health Care for the Homeless, Primary Care, Dental
 📞 (718) 292-0100
 🌐 http://www.damian.org
 
@@ -4172,3 +4172,429 @@ Frederick Douglass Blvd, New York, NY 10039
 🏥 Services: Dental
 📞 (718) 246-5700
 🌐 https://www.lasantehealth.org
+
+634. The Brookdale Hospital Medical Center
+1 Brookdale Plz, Brooklyn, NY 11212-3198
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+635. New York City Health & Hospitals Corp
+125 Worth St, New York, NY 10013-4006
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+636. Albany Medical College
+47 New Scotland Ave, Albany, NY 12208
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+637. The St Luke'S-Roosevelt Hospital Center
+1111 Amsterdam Ave, New York, NY 10025-8999
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+638. Riverside Health Care System, Inc.
+967 N Broadway, Yonkers, NY 10701-1111
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+639. Project Renewal, Inc.
+200 Varick St, New York, NY 10014-4810
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+640. The Family Center
+493 Nostrand Ave, Brooklyn, NY 11216-5117
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+641. The New York And Presbyterian Hospital
+525 E 68th St, New York, NY 10065-4870
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+642. African Services Committee, Inc.
+429 W 127th St, New York, NY 10027-2544
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+643. Aids Service Center
+64 W 35th St, New York, NY 10001
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+644. Argus Community, Inc. Access Ii
+760 E 160th St, Bronx, NY 10456-7815
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+645. Bailey House, Inc. East Harlem Cm Program
+1751 Park Ave, New York, NY 10035-2809
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+646. Beth Israel Medical Center
+10 Nathan D Perlman Pl, New York, NY 10003-3841
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+647. Bridging Access To Care, Inc.
+2261 Church Ave, Brooklyn, NY 11226-6486
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+648. Brooklyn Legal Services, Inc.
+105 Court St, Brooklyn, NY 11201-5658
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+649. Church Avenue Merchants Block Association, Inc.
+1720 Church Ave, Brooklyn, NY 11226-2630
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+650. Cicatelli Associates Inc.
+505 8th Ave, New York, NY 10018-6505
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+651. Bronx Works, Inc.
+60 E Tremont Ave, Bronx, NY 10453-5842
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+652. Exponents, Inc.
+17 Battery Pl, New York, NY 10004-1207
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+653. Family Services Network Of New York Hrp
+1420 Bushwick Ave, Brooklyn, NY 11207-1422
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+654. Fortune Society
+625 W 140th St, New York, NY 10031-7186
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+655. Gay Men'S Health Crisis Inc.
+446 W 33rd St, New York, NY 10001-2601
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+656. Haitian Centers Council, Inc.
+3807 Church Ave, Brooklyn, NY 11203-2906
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+657. Manhattan Legal Services
+1 W 125th St, New York, NY 10027-4524
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+658. Harlem United Community Aids Center  Dba/ Upper Room Min.
+306 Malcolm X Blvd, New York, NY 10027-4465
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+659. Hetrick-Martin Institute, Inc.
+2 Astor Pl, New York, NY 10003-0088
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+660. Hhc North Central Bronx Hospit
+3424 Kossuth Ave, Bronx, NY 10467-2410
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+661. Institute For Comm.Living, Inc
+125 Broad St, New York, NY 10004-2400
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+662. The Institute For Family Health
+2006 Madison Ave, New York, NY 10035-1217
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+663. Iris House, Inc.
+2348 Adam Clayton Powell Jr Blvd, New York, NY 10030-2301
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+664. The Legal Aid Society
+2090 Adam Clayton Powell Jr Blvd, New York, NY 10027-4990
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+665. Public Health Solutions, Inc.
+40 Worth St, New York, NY 10013-2904
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+666. New York Council On Adoptable Children
+242 W 38th St, New York, NY 10018-5863
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+667. New York Harm Reduction Educators, Inc.
+104 E 126th St, New York, NY 10035-1621
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+668. Osborne Association, Inc.
+809 Westchester Ave, Bronx, NY 10455-1704
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+669. Planned Parenthood Of New York City, Inc.
+349 E 149th St, Bronx, NY 10451-5603
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+670. Praxis Housing Initiatives Inc
+130 W 29th St, New York, NY 10001-5312
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+671. Project Hospitality
+100 Park Ave, Staten Island, NY 10302-1440
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+672. Safe Horizon, Inc.
+209 W 125th St, New York, NY 10027-4425
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+673. St. Ann'S Corner Of Harm Reduction, Inc.
+886 Westchester Ave, Bronx, NY 10459-4010
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+674. Staten Island University Hospital
+392 Seguine Ave, Staten Island, NY 10309-3906
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+675. Center For Applied Public Health Mailman School Columbia U
+722 W 168th St, New York, NY 10032-3727
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+676. Women'S Prison Association
+347 E 10th St, New York, NY 10009-4773
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+677. Wyckoff Heights Medical Center
+374 Stockholm St, Brooklyn, NY 11237-4006
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+678. God'S Love We Deliver
+166 Avenue Of The Americas, New York, NY 10013-1207
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+679. Acr Health
+627 W Genesee St, Syracuse, NY 13204-2303
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+680. Alliance For Positive Health
+845 Central Ave, Albany, NY 12206-1514
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+681. Netsmart Technologies, Inc.
+1 Penn Plz, New York, NY 10119-0002
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+682. La Nueva Esperanza, Inc.
+213 Johnson Ave, Brooklyn, NY 11206-2743
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+683. Diaspora Community Services, Inc.
+921 E New York Ave, Brooklyn, NY 11203-1393
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+684. New York County Health Services Review Organization
+199 Water St FL 27, New York, NY 10038-3544
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+685. Services For The Underserved (Plwa)
+305 7th Ave, New York, NY 10001-6008
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+686. Tolentine Zeiser Community Life Center
+2395 Grand Ave, Bronx, NY 10468-6357
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+687. Unique People Services, Inc.
+201 E Burnside Ave, Bronx, NY 10457-3701
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+688. Interfaith Medical Center
+880 Bergen St, Brooklyn, NY 11238-3301
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+689. Susan Weigl
+296 Clermont Ave, Brooklyn, NY 11205-4606
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+690. The Albany Damien Center, Inc.
+728 Madison Ave, Albany, NY 12208-3302
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+691. Center For Comprehensive Health Practice, Inc.
+35 W 110th St, New York, NY 10026-4314
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+692. Mount Sinai Hospital
+1 Gustave L Levy Pl, New York, NY 10029-6504
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+693. After Hours Project, Inc.
+1204 Broadway, Brooklyn, NY 11221-2906
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+694. Albany Medical Center Hospital
+43 New Scotland Ave, Albany, NY 12208-3412
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+695. Bronx Parent Housing Network, Inc.
+488 E 164th St, Bronx, NY 10456
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+696. Mobilization For Justice
+100 William St, New York, NY 10038-4512
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+697. Metroplus Health Plan, Inc.
+160 Water St, New York, NY 10038-4922
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+698. Health First Phsp, Inc.
+100 Church St, New York, NY 10007-2601
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+699. Onondaga County Health Department
+421 Montgomery St, Syracuse, NY 13202-2923
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+700. Research Foundation Of Cuny
+2180 3rd Ave, New York, NY 10035-4003
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+701. Capital District Physician'S Health Plan
+500 Patroon Creek Blvd, Albany, NY 12206-5006
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+702. Albany County Department Of Health
+175 Green St, Albany, NY 12202-2011
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+703. Healthplus Hp, Llc
+9 Pine St, New York, NY 10005-4701
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+704. Amida Care, Inc.
+14 Penn Plz, New York, NY 10122-0049
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+705. Mm Event Group
+252 W 38th St, New York, NY 10018-5806
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+706. Vns Choice
+1250 Broadway, New York, NY 10001-3701
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+707. Legal Services Of Central New York
+221 S Warren St STE 300, Syracuse, NY 13202-1843
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+708. Destination Tomorrow Inc
+452 E 149th St, Bronx, NY 10455-1576
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+709. Emblem Health, Inc.
+55 Water St, New York, NY 10041-0004
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+710. Hhc Gotham Health Fqhc, Inc.
+1125 Gerard Ave, Bronx, NY 10452-8800
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+711. Crouse Health Hospital
+736 Irving Ave, Syracuse, NY 13210-1627
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+712. Catholic Charities Neighborhood Services Inc
+191 Joralemon St, Brooklyn, NY 11201-4306
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+713. St. Nick’S Alliance
+2 Kingsland Ave, Brooklyn, NY 11211-1695
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+714. Volunteers Of America-Greater Ny, Inc.
+135 W 50th St, New York, NY 10020
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+715. Bandujo Advertising & Design, Inc.
+22 W 21st St, New York, NY 10010-6904
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+716. Jls Management Consulting, Llc
+380 Rector Pl, New York, NY 10280-1441
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+717. Translatina Network Inc.
+127 W 26th St, New York, NY 10001-6808
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+718. Aids Healthcare Foundation - New York
+655 Morris Ave, Bronx, NY 10451-4898
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
