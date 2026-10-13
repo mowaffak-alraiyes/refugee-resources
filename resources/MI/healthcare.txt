@@ -1514,3 +1514,451 @@ G5399 N Saginaw St, Flint, MI, 48505-1536
 📞 (616) 247-3815
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
 
+211. My Community Dental Centers - Detroit Clinic
+5555 Conner St, Detroit, MI 48213-3448
+🌐 https://www.mydental.org/
+🏥 Services: Dental
+📞 (231) 489-3693
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+212. Covenant Community Care - Michigan Avenue Clinic
+5716 Michigan Ave, Detroit, MI 48210-3039
+🌐 http://www.covenantcommunitycare.org
+🏥 Services: Dental
+📞 (313) 554-1095
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+213. The Wellness Plan Medical Centers - East
+4909 E Outer Dr, Detroit, MI 48234-3494
+🌐 http://www.wellplan.com
+🏥 Services: Dental
+📞 (313) 202-8500
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+214. Cherry Health - Innovation Central High School Health Center
+421 Fountain St NE, Grand Rapids, MI 49503-3398
+🌐 https://cherryhealth.org/locations/innovation-central-high-school-health-center/
+🏥 Services: Mental Health
+📞 (616) 776-5110
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+215. Nottawaseppi Huron Band of the Potawatami - Northern Health Center
+311 State St SE, Grand Rapids, MI 49503-4312
+🌐 https://www.nhbpi.org/
+🏥 Services: Mental Health
+📞 (616) 249-0159
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+216. Community Mental Health Authority of Clinton, Eaton and Ingham Counties
+812 E Jolly Rd, Lansing, MI 48910-6818
+🌐 http://www.ceicmh.org/
+🏥 Services: Mental Health
+📞 (517) 346-8203
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+217. Cherry Health - Southside Health Center
+2303 Kalamazoo Ave SE, Grand Rapids, MI 49507-3780
+🌐 https://cherryhealth.org/locations/southside-health-center/
+🏥 Services: Mental Health
+📞 (616) 965-8390
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+218. Detroit Recovery Project - Westside Office
+1145 W Grand Blvd, Detroit, MI 48208-2336
+🌐 https://recovery4detroit.com/
+🏥 Services: Mental Health
+📞 (313) 365-3100
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+219. Detroit Wayne Integrated Health Network
+707 W Milwaukee St, Detroit, MI 48202-2943
+🌐 http://www.dwihn.org
+🏥 Services: Mental Health
+📞 (313) 344-9099
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+220. Team Wellness Center - Primary Care & Dental Clinic
+3646 Mount Elliott St, Detroit, MI 48207-2311
+🌐 https://teamwellnesscenter.com/
+🏥 Services: Mental Health
+📞 (313) 396-5300
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+221. DWIHN All Well-Being Services - Field
+1423 Field St, Detroit, MI 48214-2321
+🌐 http://www.awbs.org
+🏥 Services: Mental Health
+📞 (313) 825-2410
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+222. CNS Healthcare - Detroit West
+15560 Joy Rd, Detroit, MI 48228-8200
+🌐 https://www.cnshealthcare.org
+🏥 Services: Mental Health
+📞 (800) 615-0411
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+223. CNS Healthcare – Detroit East (Adult Services)
+1200 E Warren Ave, Detroit, MI 48207-1051
+🌐 http://www.cnshealthcare.org
+🏥 Services: Mental Health
+📞 (800) 615-0411
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+224. Team Wellness Center - Eastern Market Clinic
+2925 Russell St, Detroit, MI 48207-4825
+🌐 http://www.teamwellnesscenter.com
+🏥 Services: Mental Health
+📞 (313) 396-5300
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+225. Lifestance Health
+3950 Sparks Drive, Suite 103, Grand Rapids, MI 49546
+🌐 https://www.lifestance.com
+🏥 Services: Mental Health
+📞 (616) 726-1318
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+226. Metro East - Clinics
+13929 Harper Avenue, Detroit, MI 48213
+🌐 https://
+🏥 Services: Mental Health
+📞 (313) 371-0055
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+227. ITRS Outpatient - Community Mental Health CEI
+405 W. Greenlawn, Suite 305, Lansing, MI 48910
+🌐 https://www.ceicmh.org
+🏥 Services: Mental Health
+📞 (269) 426-1249
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+228. Lifestance Health
+4136 Legacy Parkway, Lansing, MI 48911
+🌐 https://www.lifestance.com
+🏥 Services: Mental Health
+📞 (734) 759-0000
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+229. CHASS Southwest
+5635 West Fort Street, Detroit, MI 48209
+🌐 https://www.chasscenter.org
+🏥 Services: Mental Health
+📞 (313) 849-3920
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+230. Family Outreach Center Inc - OP MH and Subst Use Disorder Prog
+1939 South Division Avenue, Grand Rapids, MI 49507
+🌐 https://www.focgr.org
+🏥 Services: Mental Health
+📞 (616) 247-3815
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+231. StoneCrest Center
+15000 Gratiot Avenue, Detroit, MI 48205
+🌐 https://www.stonecrestcenter.com
+🏥 Services: Mental Health
+📞 (313) 245-0619
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+232. Catholic Charities of Ingham - Counseling Services
+1717 North High Street, Lansing, MI 48906
+🌐 https://www.catholiccharitiesiec.org
+🏥 Services: Mental Health
+📞 517-372-4700 x140
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+233. Network180
+790 Fuller Avenue NE, Grand Rapids, MI 49503
+🌐 https://www.network180.org
+🏥 Services: Mental Health
+📞 (616) 336-3909
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+234. Wellspring Lutheran Services - Behavioral Health
+1715 Sutherland Drive SE, Grand Rapids, MI 49508
+🌐 https://wellspringlutheran.com/behavioral-health
+🏥 Services: Mental Health
+📞 (989) 448-8540
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+235. Spectrum Child and Family Services
+3031 West Grand Boulevard, Suite 440, Detroit, MI 48202
+🌐 https://www.spectrumhuman.org
+🏥 Services: Mental Health
+📞 (313) 456-6000
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+236. Guidance Center Kids Talk - Ferry Location
+40 East Ferry Street, Detroit, MI 48202
+🌐 https://www.guidance-center.org
+🏥 Services: Mental Health
+📞 (313) 833-2970
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+237. Bloom Behavioral Health Partners - Grand Rapids
+1514 Wealthy Street SE, Suite 242, Grand Rapids, MI 49506
+🌐 https://bloombehavioralhealthpartners.com/
+🏥 Services: Mental Health
+📞 (616) 202-2138
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+238. Wedgwood Christian Services - Muskegon County Office
+3250 36th Street SE, Grand Rapids, MI 49512
+🌐 https://www.wedgwood.org
+🏥 Services: Mental Health
+📞 (616) 942-7294
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+239. Zion Healing Center of - Grand Rapids LLC
+3501 Lake Eastbrook Boulevard SE, Suite 150, Grand Rapids, MI 49546
+🌐 https://zionhealing.com/grand-rapids/
+🏥 Services: Mental Health
+📞 (616) 816-1886
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+240. Forest View Hospital
+1055 Medical Park Drive SE, Grand Rapids, MI 49546
+🌐 https://www.forestviewhospital.com/
+🏥 Services: Mental Health
+📞 (616) 942-9610
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+241. Easter Seals Michigan
+4065 East Hills Court SE, Grand Rapids, MI 49546
+🌐 https://www.eastersealsmorc.org
+🏥 Services: Mental Health
+📞 (616) 942-2081
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+242. Pine Rest Christian Mental Hlth Servs
+300 68th Street SE, Grand Rapids, MI 49548
+🌐 https://www.pinerest.org
+🏥 Services: Mental Health
+📞 (616) 281-6363
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+243. Mariners Inn
+445 Ledyard Street, Detroit, MI 48201
+🌐 https://www.marinersinn.org
+🏥 Services: Mental Health
+📞 313-962-9446 x224
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+244. Childrens Center of Wayne County
+90 Selden Street, Detroit, MI 48201
+🌐 https://www.thechildrenscenter.com
+🏥 Services: Mental Health
+📞 (313) 831-5535
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+245. Childrens Center of Wayne County
+79 West Alexandrine Street, Detroit, MI 48201
+🌐 https://www.thechildrenscenter.com
+🏥 Services: Mental Health
+📞 (313) 831-5535
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+246. Kim Logan Communication Clinic Inc
+3011 West Grand Boulevard, Suite 423, Detroit, MI 48202
+🌐 https://www.drkiminspires.com
+🏥 Services: Mental Health
+📞 (313) 664-4900
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+247. Centers for Family Development Inc - HOPE
+2995 East Grand Boulevard, Detroit, MI 48202
+🌐 https://www.centersforfamilydevelopment.org/
+🏥 Services: Mental Health
+📞 (313) 758-0150
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+248. Henry Ford Behavioral Health Services - Partial Hospitalization Program
+1 Ford Place, Suite C, Detroit, MI 48202
+🌐 https://www.henryford.com/services/behavioral-health/partial-hospitalization
+🏥 Services: Mental Health
+📞 (313) 640-2637
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+249. Elmhurst Home - Recovery Housing and Outpatient
+12019 Linwood Street, Detroit, MI 48206
+🌐 https://www.ehinc.org
+🏥 Services: Mental Health
+📞 (313) 867-1090
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+250. CHASS - Pope Francis Center
+2915 West Hancock Street, Detroit, MI 48208
+🌐 https://www.chasscenter.org
+🏥 Services: Mental Health
+📞 (313) 524-2739
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+251. Samaritan Behavioral Center - Inpatient
+5555 Connor Street, 3rd Floor North, Detroit, MI 48213
+🌐 https://www.samaritanbc.com
+🏥 Services: Mental Health
+📞 (313) 344-7730
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+252. Team East Clinic
+11105 Jefferson Avenue, Lillibridge Residential, Detroit, MI 48214
+🌐 https://www.teamwellnesscenter.com
+🏥 Services: Mental Health
+📞 (313) 396-5300
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+253. All Well Being Services
+1413 Field Street, Detroit, MI 48214
+🌐 https://www.awbs.org
+🏥 Services: Mental Health
+📞 (313) 347-2070
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+254. MiSide Health - Adult Services
+24424 West McNichols Road, Detroit, MI 48219
+🌐 https://www.miside.org
+🏥 Services: Mental Health
+📞 (313) 977-9550
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+255. Our Hope Association
+324 Lyon Street NE, Grand Rapids, MI 49503
+🌐 https://www.ourhopeassociation.org
+🏥 Services: Mental Health
+📞 (616) 451-2039
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+256. Our Hope Association
+1256 Walker Ave NW, Grand Rapids, MI 49504
+🌐 https://www.ourhopeassociation.org
+🏥 Services: Mental Health
+📞 (616) 451-2039
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+257. DA Blodgett/Saint Johns - Saint Johns Home Residential
+2172 Dean Lake Avenue, Grand Rapids, MI 49505
+🌐 https://www.dabsj.org
+🏥 Services: Mental Health
+📞 (616) 451-2021
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+258. Pine Rest Christian Mental Hlth Servs - Christian Counseling Center
+1870 Leonard Street NE, Grand Rapids, MI 49505
+🌐 https://www.pinerest.org
+🏥 Services: Mental Health
+📞 (616) 956-1122
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+259. Samaritas - Grand Rapids
+2080 Union Avenue SE, Suite B, Grand Rapids, MI 49507
+🌐 https://www.samaritas.org
+🏥 Services: Mental Health
+📞 (616) 210-5431
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+260. Pine Rest Christian Mental Hlth Servs - Northeast Clinic
+3225 North Evergreen Drive NE, Suite 301, Grand Rapids, MI 49525
+🌐 https://www.pinerest.org/northeast
+🏥 Services: Mental Health
+📞 616-251-5000 x7708
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+261. Bloom Behavioral Health Partners
+640 3 Mile Road, Grand Rapids, MI 49544
+🌐 https://bloombehavioralhealthpartners.com/
+🏥 Services: Mental Health
+📞 (616) 202-2138
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+262. Pine Rest Christian Mental Hlth Servs - Northwest Clinic
+2118 3 Mile Road NW, Grand Rapids, MI 49544
+🌐 https://www.pinerest.org
+🏥 Services: Mental Health
+📞 (616) 222-3720
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+263. Child and Family Charities
+407 West Greenlawn, Lansing, MI 48910
+🌐 https://www.childandfamily.org
+🏥 Services: Mental Health
+📞 517-882-4000 x151
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+264. Battle Creek VAMC - Lansing CBOC
+5656 South Cedar Street, Lansing, MI 48910
+🌐 https://www.va.gov/battle-creek-health-care/locations/lansing-va-clinic/
+🏥 Services: Mental Health
+📞 (517) 267-3625
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+265. Lifestance Health
+3475 Belle Chase Way, Lansing, MI 48911
+🌐 https://www.lifestance.com
+🏥 Services: Mental Health
+📞 (517) 744-7389
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+266. Wellspring Lutheran Services - Behavioral Health
+5826 Executive Drive, Suite 102, Lansing, MI 48911
+🌐 https://wellspringlutheran.com/behavioral-health
+🏥 Services: Mental Health
+📞 (989) 448-8540
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+267. Pinnacle Recovery Services
+3410 Old Lansing Road, Lansing, MI 48917
+🌐 https://www.pinnaclerecoveryservicesmi.org
+🏥 Services: Mental Health
+📞 (517) 574-4456
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+268. Behavioral Center of Michigan - Inpatient
+4050 East 12 Mile Road, Warren, MI 48092
+🌐 https://www.behavioralcenter.com
+🏥 Services: Mental Health
+📞 (586) 261-2266
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+269. Smith Counseling Centers
+31851 Mound Road, Warren, MI 48092
+🌐 https://
+🏥 Services: Mental Health
+📞 (248) 398-7061
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+270. Judson Center
+12200 East 13 Mile Road, Suite 200, Warren, MI 48093
+🌐 https://www.JudsonCenter.org
+🏥 Services: Mental Health
+📞 (586) 573-1810
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+271. Detroit Recovery Project - Health and Wellness Recov Resource
+1145 West Grand Boulevard, Detroit, MI 48208
+🌐 https://www.recovery4detroit.com
+🏥 Services: Mental Health
+📞 (313) 324-8900
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+272. American Indian Health and - Family Services of SE Michigan
+4880 Lawndale Street, Detroit, MI 48210
+🌐 https://www.aihfs.org
+🏥 Services: Mental Health
+📞 (313) 846-3718
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+273. MiSide Health - Youth and Family NW/McKenny Center
+19750 Burt Road, Detroit, MI 48219
+🌐 https://www.miside.org
+🏥 Services: Mental Health
+📞 (313) 977-9550
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+274. Arbor Circle Outpatient Csl Services - Kent County
+1115 Ball Avenue NE, Outpatient Counseling Services, Grand Rapids, MI 49505
+🌐 https://www.arborcircle.org
+🏥 Services: Mental Health
+📞 (616) 459-7215
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
