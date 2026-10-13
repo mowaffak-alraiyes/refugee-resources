@@ -265,7 +265,7 @@
 🌐 http://friendfhc.org
 📞 (773) 585-3900
 🗣 Languages: English; Spanish
-🏥 Services: Comprehensive primary care (adult & pediatric), Women's Health, Behavioral Health, On-Site Lab/Testing, HIV/STI services
+🏥 Services: Comprehensive primary care (adult & pediatric), Women's Health, Behavioral Health, On-Site Lab/Testing, HIV/STI services, Dental
 ⏰ Hours: Mon 8:00 am - 5:00 pm; Tue 9:00 am - 5:00 pm; Wed/Thu/Fri 8:00 am - 5:00 pm; Sat/Sun closed
 
 31. FFHC-Western
@@ -274,7 +274,7 @@
 🌐 http://friendfhc.org
 📞 (773) 434-8600
 🗣 Languages: English; Spanish
-🏥 Services: Comprehensive primary care (adult & pediatric), Women's Health, Behavioral Health, On-Site Lab/Testing, HIV/STI services
+🏥 Services: Comprehensive primary care (adult & pediatric), Women's Health, Behavioral Health, On-Site Lab/Testing, HIV/STI services, Dental
 ⏰ Hours: Mon/Fri 8:00 am - 5:00 pm; Tue/Thu 9:00 am - 5:00 pm; Wed 8:00 am - 8:00 pm; Sat/Sun closed
 
 32. FFHC-Woodlawn
@@ -301,7 +301,7 @@
 📞 (312) 226-9843
 🌐 https://haymarketcenter.org
 🗣 Languages: English; Spanish; Polish
-🏥 Services: Substance use disorder treatment, Detox, Residential, Outpatient, Mental Health, Recovery Support
+🏥 Services: Substance use disorder treatment, Detox, Residential, Outpatient, Mental Health, Recovery Support, Ryan White HIV/AIDS Program
 ⏰ Hours: 24 hours, 7 days (services available 24/7)
 
 35. Haymarket Center
@@ -589,7 +589,7 @@
 🌐 https://www.achn.net/locations/cabrini
 📞 (773) 523-1000
 🗣 Languages: English; Spanish
-🏥 Services: Family medicine, Women's Health, Pediatrics, STD testing
+🏥 Services: Family medicine, Women's Health, Pediatrics, STD testing, Mental Health
 ⏰ Hours: Mon - Fri 8:00am - 5:00pm
 
 67. ACCESS Center for Discovery and Learning
@@ -643,7 +643,7 @@
 🌐 https://www.achn.net/locations/kedzie
 📞 (773) 254-6044
 🗣 Languages: English; Spanish
-🏥 Services: Family medicine, Women's Health, STD testing, Prenatal care
+🏥 Services: Family medicine, Women's Health, STD testing, Prenatal care, Mental Health
 ⏰ Hours: Mon - Fri 8:00am - 5:00pm
 
 73. ACCESS Located at Holy Cross
@@ -652,7 +652,7 @@
 🌐 https://www.achn.net/locations/holy-cross
 📞 (866) 882-2237
 🗣 Languages: English; Spanish
-🏥 Services: OB/GYN services, Women's Health
+🏥 Services: OB/GYN services, Women's Health, Mental Health
 ⏰ Hours: Mon - Fri 8:00am - 5:00pm
 
 74. ACCESS Madison Family Health Center
@@ -688,7 +688,7 @@
 🌐 https://www.achn.net/locations/plaza
 📞 (773) 523-0900
 🗣 Languages: English; Spanish
-🏥 Services: Primary Care, Pediatrics, Women's Health, Immunizations, Preventive screenings
+🏥 Services: Primary Care, Pediatrics, Women's Health, Immunizations, Preventive screenings, Mental Health
 ⏰ Hours: Mon - Fri 8:00am - 5:00pm
 
 78. ACCESS Rogers Park Family Health Center
@@ -742,7 +742,7 @@
 🌐 https://www.achn.net/locations/sinai
 📞 (773) 257-6730
 🗣 Languages: English; Spanish
-🏥 Services: OB/GYN, Women's Health; Migrant health center
+🏥 Services: OB/GYN, Women's Health, Migrant health center, Mental Health
 ⏰ Hours: Mon - Fri 8:00am - 5:00pm
 
 84. Tapestry 360 Health  -  Albany Park
@@ -1048,7 +1048,7 @@
 🌐 https://www.eriefamilyhealth.org/locations/west-town/
 📞 (312) 666-3494
 🗣 Languages: English, Spanish
-🏥 Services: Children’s, Adult and Senior Health, Teen Health, Reproductive Health, Family Planning and Prenatal Care, Behavioral Health / Counseling, Health and Wellness Programs, Case and Care Management, Substance Use Services, Medication Assisted Treatment Program, Covid-19 Testing for Patients, Telehealth
+🏥 Services: Children’s, Adult and Senior Health, Teen Health, Reproductive Health, Family Planning and Prenatal Care, Behavioral Health / Counseling, Health and Wellness Programs, Case and Care Management, Substance Use Services, Medication Assisted Treatment Program, Covid-19 Testing for Patients, Telehealth, Ryan White HIV/AIDS Program
 ⏰ Hours: Mon, Thu, Fri 8:30 AM - 5:30 PM; Tue 8:30 AM - 7:30 PM; Wed 10:00 AM - 7:00 PM; Sat - Sun Closed
 
 118. PRIMECARE Fullerton
@@ -1326,7 +1326,7 @@
 🌐 https://bcfwc.org/
 📞 (773) 651-3629
 🗣 Languages: English, Spanish
-🏥 Services: Comprehensive primary care for all ages (adult, Pediatric), women’s health (OB/GYN), Behavioral Health, Dental Care, Chronic Disease Management
+🏥 Services: Comprehensive primary care for all ages (adult, Pediatric), women’s health (OB/GYN), Behavioral Health, Dental Care, Chronic Disease Management, Ryan White HIV/AIDS Program
 ⏰ Hours: Mon & Thu 8:30 AM - 7:00 PM; Tue/Wed/Fri 8:30 AM - 5:30 PM; Sat 8:30 AM - 2:00 PM
 
 149. Beloved Community FWC  -  Halsted Dental Clinic
@@ -1724,7 +1724,7 @@ New Beginnings Church  -  6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://hospital.uillinois.edu/patients-and-visitors/mile-square-federally-qualified-health-center
 📞 (312) 996-2000
-🏥 Services: Primary Care
+🏥 Services: Primary Care, Dental
 
 199. LCHC at Good News Partners
 1600 W Jonquil Ter, Chicago, IL, 60626-1104
@@ -1818,7 +1818,7 @@ New Beginnings Church  -  6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 http://none
 📞 (773) 995-6300
-🏥 Services: Primary Care; Dental
+🏥 Services: Primary Care, Dental, Ryan White HIV/AIDS Program
 
 211. Mobile Student Health Clinic, Parking Lot B
 1029 East 130th St.,  Pkg Lot B, Chicago, IL, 60628-6062
@@ -2313,7 +2313,7 @@ New Beginnings Church  -  6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 2600 S Michigan Ave, Chicago, IL, 60616-2857
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026
 📞 (312) 881-3050
-🏥 Services: Ryan White HIV/AIDS Program care and support services (HIV medical care, Case Management, and related HAB-funded supports)
+🏥 Services: Ryan White HIV/AIDS Program care and support services (HIV medical care, Case Management, and related HAB-funded supports), Mental Health
 
 279. MOUNT SINAI HOSPITAL
 1501 S California Ave, Chicago, IL, 60608-1732
@@ -2331,7 +2331,7 @@ New Beginnings Church  -  6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 500 E 51st St, Chicago, IL, 60615-2400
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026
 📞 (312) 572-2000
-🏥 Services: Ryan White HIV/AIDS Program care and support services (HIV medical care, Case Management, and related HAB-funded supports)
+🏥 Services: Ryan White HIV/AIDS Program care and support services (HIV medical care, Case Management, and related HAB-funded supports), Mental Health
 
 282. AHF HYDE PARK
 1515 E 52nd Pl, Chicago, IL, 60615-4390
@@ -3109,7 +3109,7 @@ New Beginnings Church  -  6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 407. Austin Health Center
 4800 W Chicago Ave, Chicago, IL 60651-3226
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
-🏥 Services: Ryan White HIV/AIDS Program
+🏥 Services: Ryan White HIV/AIDS Program, Mental Health
 📞 (312) 572-4500
 
 408. Haymarket Center
@@ -3249,6 +3249,141 @@ New Beginnings Church  -  6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 
 428. Illinois Department Of Public Health
 535 W Jefferson St, Springfield, IL 62702-5076
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+429. Chicago Department Of Public Health
+333 S State St, Ste 200, Chicago, IL 60604-3946
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+430. Heartland Alliance Health
+208 S La Salle St STE 1300, Chicago, IL 60604-1286
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+431. University Of Illinois
+809 S Marshfield Ave, Chicago, IL 60612-4305
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+432. Access Community Health Network
+600 W Fulton St STE 200, Chicago, IL 60661-1262
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+433. Legal Council For Health Justice
+17 N State St, Ste 900, Chicago, IL 60602-3569
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+434. Alexian Brothers
+825 W Wellington Ave, Chicago, IL 60657-9249
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+435. Chicago House And Social Service Agency
+2229 S Michigan Ave, Chicago, IL 60616-2102
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+436. The Hektoen Institute For Medical Research
+1339 S Wood St, Chicago, IL 60608-1206
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+437. Center On Halsted
+3656 N Halsted St, Chicago, IL 60613-5974
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+438. Legal Aid Chicago
+120 S La Salle St, Ste 900, Chicago, IL 60603-3425
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+439. Sinai Health Systems
+W 15th Pl & S California Ave, Chicago, IL 60608
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+440. Project Vida, Inc.
+2659 S Kedvale Ave, Chicago, IL 60623-4322
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+441. Southside Help Center, Inc.
+10420 S Halsted St, Chicago, IL 60628-2324
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+442. University Of Illinois @ Chicago
+808 S Wood St, Chicago, IL 60612-7300
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+443. Abbottt Lab
+75 Remittance Dr, Chicago, IL 60675-1001
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+444. Agape Missions
+840 Plainfield Rd, Joliet, IL 60435-4643
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+445. The Puerto Rican Cultural Center
+2739 W Division St, Chicago, IL 60622-2854
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+446. Tpa Network
+5537 N Broadway St, Chicago, IL 60640-1405
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+447. Heartland Alliance Health (Vital Bridges)
+4750 N Sheridan Rd, Ste 469, Chicago, IL 60640-0097
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+448. Esperanza
+1940 S Western Ave STE 205, Chicago, IL 60608-2503
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+449. Transforming Re-Entry/Mwipm
+10 W 35th St # 9, Chicago, IL 60616-3717
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+450. Volunteers Of America (Illinois)
+47 W Polk St, Chicago, IL 60605-2000
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+451. Rush University Medical Center
+1653 W Congress Pkwy, Chicago, IL 60612-3833
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+452. Heartland Alliance/Impact Research Center Program
+55 E Monroe St STE 2620, Chicago, IL 60603-5723
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+453. Calor
+3201 W North Ave, Chicago, IL 60647-4913
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+454. Solutions Counseling And Consulting Group
+11740 S Western Ave, Chicago, IL 60643-4732
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+455. In Demand Entertainment
+710 E 105th St, Chicago, IL 60628-3024
 🏥 Services: Ryan White HIV/AIDS Program
 📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
 
