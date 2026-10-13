@@ -2014,3 +2014,9 @@ mobile, shreveport, LA, 71107
 🏥 Services: Mental health
 📞 (225) 650-2000
 🌐 https://www.caresouth.org
+
+271. City Of New Orleans
+1300 Perdido St STE 8E18, New Orleans, LA 70112-2125
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
