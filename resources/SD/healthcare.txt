@@ -176,3 +176,19 @@ PO BOX 368, Woonsocket, SD, 57385-0368
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🏥 Services: Ryan White HIV/AIDS Program
 📞 (605) 773-3737
+
+24. City Of Sioux Falls
+224 W 9th St, Sioux Falls, SD 57104-6407
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+25. Heartland Health Resource Center
+2500 W 49th St Ste 103, Sioux Falls, SD 57105-6559
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+26. Hyvee Inc.
+3020 E 10th St, Sioux Falls, SD 57103-2135
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
