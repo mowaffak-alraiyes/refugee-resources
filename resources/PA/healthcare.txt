@@ -2071,3 +2071,542 @@ S 34th St & Civic Center Blvd, Philadelphia, PA 19104
 📞 (251) 355-6500
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
 
+291. Delaware Valley Community Health - Fairmount Primary Care Center
+1422 Fairmount Ave, Philadelphia, PA 19130-2908
+🌐 http://www.dvch.org
+🏥 Services: Dental
+📞 (215) 235-9600
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+292. Neighborhood Health Centers of the Lehigh Valley - Hamilton
+160 Hamilton St, Allentown, PA 18101-1948
+🌐 http://www.nhclv.org
+🏥 Services: Mental Health
+📞 (610) 477-0105
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+293. Berks Community Health Center at Reading
+838 Penn St, Reading, PA 19602-1108
+🌐 http://www.berkschc.org
+🏥 Services: Mental Health
+📞 (610) 988-4838
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+294. Berks Community Health Center at Rockland
+1110 Rockland St, Reading, PA 19604-1501
+🌐 http://www.berkschc.net
+🏥 Services: Mental Health
+📞 (484) 772-4091
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+295. Community Services Group Inc
+989 East Park Drive, Suite 204, Harrisburg, PA 17111
+🌐 https://www.csgonline.org
+🏥 Services: Mental Health
+📞 (877) 907-7970
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+296. Pinebrook Family Answers
+402 North Fulton Street, Allentown, PA 18102
+🌐 https://www.pbfalv.org
+🏥 Services: Mental Health
+📞 610-432-3919 x1177
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+297. Child and Family Support Services
+1418 Clarion Street, Reading, PA 19601
+🌐 https://www.cfss-pa.com
+🏥 Services: Mental Health
+📞 (610) 376-8558
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+298. Haven Behavioral Hospital of - Eastern PA
+145 North 6th Street, 3rd and 4th Floors, Reading, PA 19601
+🌐 https://www.havenreading.com
+🏥 Services: Mental Health
+📞 (610) 406-4340
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+299. Genesis House Inc
+121 Locust Street, 2nd and 3rd Floor, Harrisburg, PA 17110
+🌐 https://www.genesishouseoutpatient.com
+🏥 Services: Mental Health
+📞 (570) 322-0520
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+300. Gaudenzia Inc - WSAC Detox Program
+1306 Spring Garden Street, 2nd and 3rd Floors, Philadelphia, PA 19123
+🌐 https://gaudenzia.org
+🏥 Services: Mental Health
+📞 215-849-7200 x2367
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+301. Holcomb Behavioral Health Systems
+1249 South Cedar Crest Boulevard, Suite 103, Allentown, PA 18103
+🌐 https://www.chimes.org
+🏥 Services: Mental Health
+📞 (610) 435-4151
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+302. Healing Way
+7900 Frankford Avenue, Philadelphia, PA 19136
+🌐 https://www.thehealingway.net
+🏥 Services: Mental Health
+📞 215-335-3520 x110
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+303. Wedge Medical Center
+3604 Germantown Avenue, Philadelphia, PA 19140
+🌐 https://www.wedgepc.com
+🏥 Services: Mental Health
+📞 215-223-3600 x6022
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+304. Commonwealth Clinical Group Inc
+450 South 5th Street, Reading, PA 19602
+🌐 https://www.ccgtherapy.com
+🏥 Services: Mental Health
+📞 610-372-5645 x302
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+305. Saint Lukes Sacred Heart Hospital - Behavorial Health Inpatient Services
+421 West Chew Street, Allentown, PA 18102
+🌐 https://www.slhn.org/psychiatry-and-behavioral-health
+🏥 Services: Mental Health
+📞 (484) 658-0832
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+306. Lehigh Valley Health Network - Adolescent Transitions Partial Hosp
+1255 South Cedar Crest Boulevard, Suite 1500, Allentown, PA 18103
+🌐 https://www.lvhn.org
+🏥 Services: Mental Health
+📞 (610) 402-5930
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+307. Tower Behavioral Health
+201 Wellness Way, Reading, PA 19605
+🌐 https://www.towerbehavioralhealth.com/
+🏥 Services: Mental Health
+📞 (484) 659-2332
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+308. Caron Outpatient Treatment Centers
+845 North Park Road, Reading, PA 19610
+🌐 https://www.caron.org
+🏥 Services: Mental Health
+📞 (484) 345-4670
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+309. ETHOS Treatment LLC
+1150 Berkshire Boulevard, Suite 110, Reading, PA 19610
+🌐 https://www.ethostreatment.com/locations/wyomissing/
+🏥 Services: Mental Health
+📞 (267) 669-0300
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+310. Lebanon VAMC - Berks VA Outpatient Clinic
+2762 Century Boulevard, Suite 120, Reading, PA 19610
+🌐 https://www.va.gov/lebanon-health-care/locations/berks-county-va-clinic/
+🏥 Services: Mental Health
+📞 (610) 208-4717
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+311. CONCERN - Wyomissing
+1120-C Hobart Avenue, Reading, PA 19610
+🌐 https://www.concern4kids.org
+🏥 Services: Mental Health
+📞 (610) 541-2309
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+312. Family Guidance Center
+1105 Berkshire Boulevard, Suite 110, Reading, PA 19610
+🌐 https://www.familyguidancecenter.com
+🏥 Services: Mental Health
+📞 (610) 374-4963
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+313. Childrens Enhanced Program
+2821 Island Avenue, 1st Floor, Philadelphia, PA 19153
+🌐 https://consortiuminc.org/
+🏥 Services: Mental Health
+📞 215-596-8100 x1306
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+314. Childrens Home of Reading - Neag and Cottage RTF
+1010 Centre Avenue, Reading, PA 19601
+🌐 https://www.buildingkidslives.org
+🏥 Services: Mental Health
+📞 (610) 478-8266
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+315. Peace and Harmony House
+147 North 5th Street, 2nd Floor Rear, Reading, PA 19601
+🌐 https://peaceandharmonyhouse.com/
+🏥 Services: Mental Health
+📞 (610) 750-6015
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+316. Merakey - Partial Hospitalization Program
+1801 North Front Street, 1st Floor, Harrisburg, PA 17102
+🌐 https://
+🏥 Services: Mental Health
+📞 717-238-8852 x225
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+317. Ponessa Behavioral Health
+900 North 6th Street, Harrisburg, PA 17102
+🌐 https://www.ponessa.com
+🏥 Services: Mental Health
+📞 (717) 233-4027
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+318. Emergency Behavioral Health - Crisis Walk In Center
+1100 South Cameron Street, Suite 2, Harrisburg, PA 17104
+🌐 https://connectionshs.com/harrisburg
+🏥 Services: Mental Health
+📞 (717) 408-1353
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+319. Pennsylvania Counseling Services - Harrisburg
+297 Care Street, Harrisburg, PA 17109
+🌐 https://www.pacounseling.com
+🏥 Services: Mental Health
+📞 (717) 671-9610
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+320. Gaudenzia - Concept 90
+2835 North Front Street, Harrisburg, PA 17110
+🌐 https://www.gaudenzia.org/
+🏥 Services: Mental Health
+📞 (888) 682-8280
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+321. Eagle Behavioral Health Services
+3414 North 6th Street, Suite 2-S, Harrisburg, PA 17110
+🌐 https://www.eaglebhs.com
+🏥 Services: Mental Health
+📞 (717) 975-7641
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+322. Catholic Charities - Capital Region Counseling
+939 East Park Drive, Suite 101, Harrisburg, PA 17111
+🌐 https://www.cchbg.org/get-help/counseling-services/
+🏥 Services: Mental Health
+📞 (717) 233-7978
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+323. Threshold Rehabilitation Services Inc
+1000 Lancaster Avenue, Reading, PA 19607
+🌐 https://www.trsinc.org
+🏥 Services: Mental Health
+📞 610-777-7691 x151
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+324. High Focus Centers
+1420 Walnut Street, Suite 500, Philadelphia, PA 19102
+🌐 https://pa.highfocuscenters.com
+🏥 Services: Mental Health
+📞 610-644-6464 x8424
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+325. ETHOS Treament LLC
+1528 Walnut Street, Suite 510, Philadelphia, PA 19102
+🌐 https://www.ethostreatment.com
+🏥 Services: Mental Health
+📞 (267) 669-0300
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+326. John F Kennedy Behavioral Health - Walk In Clinic
+112 North Broad Street, Philadelphia, PA 19102
+🌐 https://www.jfkbhc.org
+🏥 Services: Mental Health
+📞 215-568-0860 x3352
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+327. Philadelphia VA Medical Center (PVAMC) - Addiction Recovery Unit
+39th and Woodland Avenue, MHC, 7th Floor, Philadelphia, PA 19104
+🌐 https://www.va.gov/philadelphia-health-care/locations/
+🏥 Services: Mental Health
+📞 (215) 823-4070
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+328. Consortium Inc - Drug Abuse Rehabilitation Program
+451 South University Avenue, Philadelphia, PA 19104
+🌐 https://consortiuminc.org/
+🏥 Services: Mental Health
+📞 (215) 596-8000
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+329. Philadelphia VA Medical Center (PVAMC) - Opioid Treatment Program
+3900 Woodland Avenue, Mail Stop 116, Philadelphia, PA 19104
+🌐 https://
+🏥 Services: Mental Health
+📞 215-823-5809 x20779
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+330. JJPI Youth SRP
+100 South Broad Street, Suite 1525, Philadelphia, PA 19110
+🌐 https://www.jjpi.phmc.org
+🏥 Services: Mental Health
+📞 (215) 701-1560
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+331. High Focus Centers - Rehab After Work
+9815 Roosevelt Boulevard, Suite B, Philadelphia, PA 19114
+🌐 https://pa.highfocuscenters.com
+🏥 Services: Mental Health
+📞 (610) 644-6464
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+332. JEVS Human Services - Mental Health Services
+9350 Ashton Road, Suite 201, Philadelphia, PA 19114
+🌐 https://www.jevs.org
+🏥 Services: Mental Health
+📞 267-350-8600 x8630
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+333. JJPI Vaux
+2300 Master Street, Philadelphia, PA 19121
+🌐 https://www.jjpi.phmc.org
+🏥 Services: Mental Health
+📞 (215) 701-1560
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+334. Men and Women for Human Excellence Inc
+2600 W Cecil B Moore Avenue, Philadelphia, PA 19121
+🌐 https://www.MWFHE.org
+🏥 Services: Mental Health
+📞 (267) 639-9265
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+335. North Philadelphia Health Systems - Miracles in Progress
+801 West Girard Avenue, Magnolia Building, 4th Floor, Philadelphia, PA 19122
+🌐 https://www.bewellctr.org
+🏥 Services: Mental Health
+📞 (215) 787-2389
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+336. Friends Hospital
+4641 Roosevelt Boulevard, Philadelphia, PA 19124
+🌐 https://www.friendshospital.com
+🏥 Services: Mental Health
+📞 (215) 831-4600
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+337. Roxborough Memorial Hospital - Senior Behavioral Health Unit
+5800 Ridge Avenue, Philadelphia, PA 19128
+🌐 https://
+🏥 Services: Mental Health
+📞 (610) 656-2495
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+338. Northern Childrens Services
+5301 Ridge Avenue, Philadelphia, PA 19128
+🌐 https://www.northernchildren.org
+🏥 Services: Mental Health
+📞 215-482-1423 x1233
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+339. Rogers Behavioral Health - Philadelphia
+1 Winding Way, Suite 106, Philadelphia, PA 19131
+🌐 https://www.rogersbh.org
+🏥 Services: Mental Health
+📞 (267) 787-6600
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+340. Wedge Recovery Centers
+3600 Germantown Avenue, Philadelphia, PA 19140
+🌐 https://www.wedgepc.com
+🏥 Services: Mental Health
+📞 215-276-3922 x3030
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+341. WES Health Centers - Outpatient Center
+1315 Windrim Avenue, Philadelphia, PA 19141
+🌐 https://www.drwes.org/
+🏥 Services: Mental Health
+📞 (215) 455-3900
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+342. Gemma Services - Preheim Center
+6517 Chester Avenue, Philadelphia, PA 19142
+🌐 https://www.gemmaservices.org/
+🏥 Services: Mental Health
+📞 (215) 247-1427
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+343. Hospital of the University of PA - Cedar Avenue
+501 South 54th Street, Philadelphia, PA 19143
+🌐 https://www.pennmedicine.org
+🏥 Services: Mental Health
+📞 (215) 748-9391
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+344. Merakey Philadephia - Armat
+20 East Armat Street, Philadelphia, PA 19144
+🌐 https://www.merakey.org
+🏥 Services: Mental Health
+📞 (215) 713-2990
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+345. Malvern Behavioral Health
+1930 South Broad Street, 4th Floor, Philadelphia, PA 19145
+🌐 https://www.malvernbh.com
+🏥 Services: Mental Health
+📞 (610) 480-8919
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+346. Citizens Acting Together Can Help Inc - Federal Elderly Recovery Program
+1163 South Broad Street, Philadelphia, PA 19147
+🌐 https://catchinc.com
+🏥 Services: Mental Health
+📞 (215) 551-3150
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+347. Courage Medicine
+7198 Castor Avenue, Suite 200, Philadelphia, PA 19149
+🌐 https://www.couragemedicine.org/
+🏥 Services: Mental Health
+📞 (267) 217-3217
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+348. CHOR Youth and Family Services Inc - APHP
+1040 Nicolls Street, Reading, PA 19604
+🌐 https://www.buildingkidslives.org
+🏥 Services: Mental Health
+📞 (610) 478-8266
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+349. Counseling Solutions of Lehigh Valley
+2030 Tilghman Street, Suite 202, Allentown, PA 18104
+🌐 https://www.counselingsolutionslv.com
+🏥 Services: Mental Health
+📞 (610) 756-1765
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+350. KidsPeace
+801 East Green Street, Allentown, PA 18109
+🌐 https://www.kidspeace.org
+🏥 Services: Mental Health
+📞 (610) 799-8910
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+351. New Directions Treatment Services
+832 North Park Road, 1 Park Plaza, Reading, PA 19610
+🌐 https://www.ndts.org
+🏥 Services: Mental Health
+📞 610-750-6130 x101
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+352. Berks Counseling Center
+645 Penn Street, 2nd Floor, Reading, PA 19601
+🌐 https://www.berkscounselingcenter.org/
+🏥 Services: Mental Health
+📞 (610) 373-4281
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+353. Commonwealth Clinical Group Inc
+519 South 29th Street, Harrisburg, PA 17104
+🌐 https://www.ccgtherapy.com
+🏥 Services: Mental Health
+📞 223-332-7067 x303
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+354. Commonwealth Clinical Group Inc
+2444 North 3rd Street, Harrisburg, PA 17110
+🌐 https://www.ccgtherapy.com
+🏥 Services: Mental Health
+📞 717-236-3600 x303
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+355. People Acting to Help Inc (PATH)
+1919 Cottman Avenue, Philadelphia, PA 19111
+🌐 https://www.pathcenter.org
+🏥 Services: Mental Health
+📞 (215) 728-4600
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+356. Wedge Medical Center
+6701 North Broad Street, Philadelphia, PA 19126
+🌐 https://www.wedgepc.com
+🏥 Services: Mental Health
+📞 (215) 276-3922
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+357. Wedge Recovery Centers
+1939 South Juniper Street, Philadelphia, PA 19148
+🌐 https://www.wedgepc.com
+🏥 Services: Mental Health
+📞 215-276-3922 x1005
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+358. Philadelphia Mental Health Center
+1235 Pine Street, Philadelphia, PA 19107
+🌐 https://www.pmhccares.org
+🏥 Services: Mental Health
+📞 (215) 735-9379
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+359. Greater Philadelphia Asian Social Serv - GPASS SAFE
+4943 North 5th Street, Philadelphia, PA 19120
+🌐 https://www.gpasspa.org
+🏥 Services: Mental Health
+📞 (215) 456-1662
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+360. Best Behavioral Healthcare
+5043 Frankford Avenue, Philadelphia, PA 19124
+🌐 https://bbhirecovery.org
+🏥 Services: Mental Health
+📞 (215) 744-4343
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+361. Childrens Crisis Treatment Center
+1080 North Delaware Avenue, Suite 602, Philadelphia, PA 19125
+🌐 https://www.cctckids.org
+🏥 Services: Mental Health
+📞 (215) 496-0707
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+362. Community Council for MH/MR
+4900 Wyalusing Avenue, Philadelphia, PA 19131
+🌐 https://www.cchss.org
+🏥 Services: Mental Health
+📞 (215) 473-7033
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+363. Northeast Treatment Centers - CCBHC
+2701 North Broad Street, Philadelphia, PA 19132
+🌐 https://www.netcenters.org
+🏥 Services: Mental Health
+📞 (215) 451-7130
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+364. HCCS
+3221 Kensington Avenue, Philadelphia, PA 19134
+🌐 https://hccsphila.org
+🏥 Services: Mental Health
+📞 (215) 425-6900
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+365. Hispanic Community Counseling Services
+1952 East Allegheny Avenue, Philadelphia, PA 19134
+🌐 https://hccsphila.org
+🏥 Services: Mental Health
+📞 (215) 423-5000
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+366. APM
+3265 North Front Street, Philadelphia, PA 19140
+🌐 https://
+🏥 Services: Mental Health
+📞 (267) 296-7220
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+367. Asociacion Puertorriquenos en Marcha
+4301 Rising Sun Avenue, Philadelphia, PA 19140
+🌐 https://www.apmphila.org
+🏥 Services: Mental Health
+📞 (267) 296-7220
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
