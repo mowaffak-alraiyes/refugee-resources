@@ -2031,3 +2031,43 @@ S 34th St & Civic Center Blvd, Philadelphia, PA 19104
 🏥 Services: Ryan White HIV/AIDS Program
 📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
 
+286. Holcomb Behavioral Health Systems
+1011 Reed Avenue, Suite 900, Reading, PA 19610
+🌐 https://www.chimes.org/
+🗣 Languages: Spanish
+🏥 Services: Mental Health
+📞 (610) 947-1987
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
+
+287. Forge Health
+1880 John F Kennedy Boulevard, Suite 1110, Philadelphia, PA 19103
+🌐 https://www.forgehealth.com
+🗣 Languages: Spanish
+🏥 Services: Mental Health
+📞 (215) 544-7600
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
+
+288. Youth Advocate Programs Inc
+2030 North 3rd Street, Harrisburg, PA 17102
+🌐 https://www.yapinc.org
+🗣 Languages: Spanish
+🏥 Services: Mental Health
+📞 (717) 232-3106
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
+
+289. Gemma Services - Hagan Hall
+7301 Germantown Avenue, Philadelphia, PA 19119
+🌐 https://www.gemmaservices.org/
+🗣 Languages: Spanish
+🏥 Services: Mental Health
+📞 (215) 730-2240
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
+
+290. Bethanna - Philadelphia County
+2500 Wharton Street, Philadelphia, PA 19146
+🌐 https://www.bethanna.org
+🗣 Languages: Sign language services for the deaf and hard of hearing; Spanish; Other languages (excluding Spanish); Creole
+🏥 Services: Mental Health
+📞 (251) 355-6500
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
+
