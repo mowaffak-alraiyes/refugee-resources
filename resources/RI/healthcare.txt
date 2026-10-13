@@ -341,3 +341,11 @@
 🏥 Services: Ryan White HIV/AIDS Program
 📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
 
+49. Sabater LAB Foundation in Partnership - Sabater Laboratory for Psychological
+225 Main Street, Suite 7, Pawtucket, RI 02860
+🌐 https://www.sabaterlabfoundation.org
+🗣 Languages: Spanish
+🏥 Services: Mental Health
+📞 (401) 327-2442
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
+
