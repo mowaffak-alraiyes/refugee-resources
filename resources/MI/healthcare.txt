@@ -1506,3 +1506,11 @@ G5399 N Saginaw St, Flint, MI, 48505-1536
 🏥 Services: Ryan White HIV/AIDS Program
 📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
 
+210. Family Outreach Center Inc
+255 Colrain Street SW, Suite 2, Grand Rapids, MI 49548
+🌐 https://www.focgr.org/
+🗣 Languages: Spanish
+🏥 Services: Mental Health
+📞 (616) 247-3815
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
+
