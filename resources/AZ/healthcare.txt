@@ -555,7 +555,7 @@
 839 W Congress St, Tucson, AZ, 85745-2819
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.elrio.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care, Ryan White HIV/AIDS Program
 📞 520-670-3707
 🗺 https://maps.google.com/?q=32.22063,-110.98585
 
@@ -954,6 +954,66 @@
 
 129. Arizona Department Of Health Services
 1740 W Adams St, Phoenix, AZ 85007-2607
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+130. Maricopa County Special Health Care District
+2601 East Roosevelt Street, Phoenix, AZ 85008
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+131. Area Agency On Aging/HIV Care Directions
+1366 E Thomas Rd, Phoenix, AZ 85014-5738
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+132. Chicanos Por La Causa
+6850 W Indian School Rd, Phoenix, AZ 85033-3300
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+133. Southern Arizona Aids Foundation
+375 S Euclid Ave, Tucson, AZ 85719-6644
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+134. Ebony House
+1616 East Indian School Road, Phoenix, AZ 85016
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+135. University Of Arizona
+845 N Park Ave RM 538, Tucson, AZ 85719-4871
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+136. Maricopa County - Public Health Laboratory
+1645 E Roosevelt St, Phoenix, AZ 85006-3638
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+137. Pima County Health Dept
+33 North Stone Avenue, Tucson, AZ 85701-1404
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+138. Terros
+333 E Indian School Rd, Phoenix, AZ 85012-1820
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+139. Cyracom Llc
+2650 E Elvira Rd, Tucson, AZ 85756-7105
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+140. Maricopa County Department Of Public Health, Clinical Services Jumpstart
+1645 East Roosevelt Street, Phoenix, AZ 85006
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+141. Catywampus Llc
+1210 W Palo Verde Dr, Phoenix, AZ 85013-1636
 🏥 Services: Ryan White HIV/AIDS Program
 📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
 
