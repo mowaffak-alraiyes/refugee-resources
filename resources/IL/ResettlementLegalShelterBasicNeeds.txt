@@ -273,3 +273,30 @@ Chicago, IL (citywide hotline)
 73 S LASALLE ST, Aurora, IL
 🏥 Services: Refugee resettlement. Reception and placement affiliate. National agency code: WR. Directory id: IL-WR-04.
 📝 Source: U.S. State Department Refugee Processing Center affiliate directory, report date 06/13/2025. Phone, hours, ZIP, and website were not in that directory.
+
+35. Esperanza 63rd Street Annex
+4104 W 63rd St, Chicago, IL 60629-5008
+📝 HRSA database - Last reviewed April 2025
+📞 (773) 584-6200
+🌐 https://esperanzachicago.org
+🗣 Languages: English; Spanish
+🏥 Services: Patient benefit navigation (insurance enrollment, SNAP/Medicaid applications)
+⏰ Hours: Mon - Wed 8:00 am - 5:00 pm; Thu 11:15 am - 7:00 pm (1st & 3rd Thu), otherwise 8:00 am - 5:00 pm; Fri 8:00 am - 4:00 pm; 2nd & 4th Sat 8:00 am - 2:00 pm
+
+36. PCC West Town Family Health Center
+2434 W Division St, Chicago, IL 60622-2942
+📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
+🌐 https://www.pccwellness.org/locations/pcc-west-town-family-health-center/
+📞 (773) 584-4178
+🗣 Languages: English, Spanish
+🏥 Services: Adult primary care (including OB/GYN), Adolescent/Teen Health, Pediatric Check-Ups, Behavioral Health, School And Work Physicals, COVID-19 testing/vaccination, Benefits Assistance
+⏰ Hours: Mon - Thu 8:00 AM - 5:00 PM; Fri - Sun Closed
+
+37. Heartland Alliance Health  -  Englewood
+5501 S Halsted St, Chicago, IL 60621
+📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026; Last verified: 08/2025
+🌐 https://hahealth.org/
+📞 (773) 275-2586
+🗣 Languages: English, Spanish
+🏥 Services: Ryan White HIV/AIDS Program, Primary medical care, Substance Use Treatment, Mental Health/Psychiatry, Insurance Enrollment, Case Management, Specialty Referrals, chronic disease management (including HIV/AIDS care)
+⏰ Hours: Mon - Fri 8:30 AM - 5 PM (1st & 3rd Wed 10 AM - 5 PM)

@@ -150,3 +150,10 @@ Sacramento, CA 95814
 909 14TH ST, Modesto, CA
 🏥 Services: Refugee resettlement. Reception and placement affiliate. National agency code: WR. Directory id: CA-WR-09.
 📝 Source: U.S. State Department Refugee Processing Center affiliate directory, report date 06/13/2025. Phone, hours, ZIP, and website were not in that directory.
+
+29. UC San Diego Student-Run Free Clinic Project
+Admin office: UCSD Family Medicine, 9500 Gilman Drive #0696, La Jolla, CA 92093
+🌐 https://familymedicine.ucsd.edu/education-training/freeclinic/
+🏥 Services: Free medical care, Mental Health, Pharmacy, Acupuncture, Dental, social work, and legal services at four community sites. Priority is people who do not qualify for other health coverage.
+📞 (858) 534-6110
+📧 ucsdsrfc@health.ucsd.edu
