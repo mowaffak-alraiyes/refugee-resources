@@ -535,7 +535,7 @@
 70. Frank Church High School - Boise
 3608 S Milwaukee Ln, Boise, ID 83709-5738
 📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
-🏥 Services: School-based health care for children and adolescents
+🏥 Services: School-based health care for children and adolescents, Mental Health
 📞 (208) 814-1000
 🌐 https://frankchurch.boiseschools.org/
 
@@ -591,7 +591,7 @@
 78. Community Family Clinic - Idaho Falls
 2100 Alan St, Idaho Falls, ID 83404-5801
 📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
-🏥 Services: Migrant health center; Primary care
+🏥 Services: Migrant health center, Primary Care, Dental
 📞 (208) 528-7655
 🌐 http://www.communitycouncilofidaho.org
 
@@ -626,7 +626,7 @@
 83. Garfield Elementary
 1914 S Broadway Ave, Boise, ID 83706-4298
 📝 HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
-🏥 Services: School-based health care for children and adolescents
+🏥 Services: School-based health care for children and adolescents, Mental Health
 📞 (208) 814-1000
 🌐 https://garfield.boiseschools.org/
 
@@ -663,3 +663,35 @@ W Northview St, Boise, ID 83704
 📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🏥 Services: Mental health
 📞 (208) 624-4100
+
+89. Sterling Urgent Care (Idaho Falls)
+7017 Daisy Ln, Idaho Falls, ID 83402-5753
+🏥 Services: Rural health clinic, Primary Care
+📞 (208) 534-5878
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+90. Idaho State Dept Of Health And Welfare
+450 W State St, Boise, ID 83702-6056
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+91. Allies Linked For The Prevention Of HIV/Aids (A.L.P.H.A.)
+537 W Bannock St, Ste 100, Boise, ID 83702-5759
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+92. Trivium Life Services
+8950 W Emerald St, Ste 178, Boise, ID 83704-8296
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+93. Idaho Harm Reduction Project
+2717 W Bannock St, Ste 100, Boise, ID 83702-4758
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+94. Central District Health
+707 N Armstrong Pl, Boise, ID 83704-0825
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
