@@ -1529,3 +1529,9 @@
 📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🏥 Services: Dental
 📞 (706) 922-0600
+
+203. State Of Georgia Department Of Public Health
+200 Piedmont Ave SE, Atlanta, GA 30334-9032
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
