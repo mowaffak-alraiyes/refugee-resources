@@ -1527,11 +1527,66 @@
 202. Christ Community Health: Olde Town CHC Dental
 127 Telfair St, Augusta, GA 30901-2590
 📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
-🏥 Services: Dental
+🏥 Services: Dental, Mental Health
 📞 (706) 922-0600
 
 203. State Of Georgia Department Of Public Health
 200 Piedmont Ave SE, Atlanta, GA 30334-9032
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+204. Fulton County Govt, Board Of Commissioners
+141 Pryor St SW, Atlanta, GA 30303-3444
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+205. Positive Impact Health Centers Inc
+2800 Century Pkwy NE, Atlanta, GA 30345-3139
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+206. Aniz, Inc
+233 Mitchell St SW STE 200, Atlanta, GA 30303-3300
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+207. Atlanta Legal Aid Society
+54 Ellis St NE, Atlanta, GA 30303-2403
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+208. Open Hand Atlanta, Inc.
+181 Armour Dr NE, Atlanta, GA 30324-3916
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+209. Grady Memorial Hospital Corporation
+80 Jesse Hill Jr Dr SE, Atlanta, GA 30303-3031
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+210. Here'S To Life, Inc.
+1115 Ralph David Abernathy Blvd SW, Atlanta, GA 30310-1729
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+211. National Aids Education/Services For Minorities
+315 14th St NW, Atlanta, GA 30318-5305
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+212. Thrive Ss
+2038 Stanton Rd, Atlanta, GA 30344-1300
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+213. Travelers Aid Of Metropolitan Atlanta D/B/A Hope Atlanta
+458 Ponce de Leon Ave NE, Atlanta, GA 30308-2391
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+214. Heather Ivy Society, Inc
+2193 Cascade Rd SW, Atlanta, GA 30311-2862
 🏥 Services: Ryan White HIV/AIDS Program
 📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
 
