@@ -1516,19 +1516,19 @@
 242. Eskenazi Health
 720 Eskenazi Ave, Floor 2, Indianapolis, IN 46202-5189
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
-🏥 Services: Ryan White HIV/AIDS Program
+🏥 Services: Ryan White HIV/AIDS Program, Mental Health
 📞 (317) 880-3500
 
 243. Eskenazi Health Center Blackburn
 2700 Dr Martin Luther King Jr St, Indianapolis, IN 46208-5019
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
-🏥 Services: Ryan White HIV/AIDS Program
+🏥 Services: Ryan White HIV/AIDS Program, Mental Health
 📞 (317) 880-3500
 
 244. Eskenazi Health Center Grassy Creek
 9443 E 38th St, Indianapolis, IN 46235-2132
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
-🏥 Services: Ryan White HIV/AIDS Program
+🏥 Services: Ryan White HIV/AIDS Program, Mental Health
 📞 (317) 880-3500
 
 245. Eskenazi Health Center North Arlington
@@ -1540,7 +1540,7 @@
 246. Eskenazi Health Center North Illinois Street
 1660 N Illinois St, Indianapolis, IN 46202
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
-🏥 Services: Ryan White HIV/AIDS Program
+🏥 Services: Ryan White HIV/AIDS Program, Mental Health
 📞 (317) 880-3500
 
 247. Eskenazi Health Center Pecar
@@ -1558,7 +1558,7 @@
 249. Eskenazi Health Center Westside
 2732 W Michigan St, Indianapolis, IN 46222-3750
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
-🏥 Services: Ryan White HIV/AIDS Program
+🏥 Services: Ryan White HIV/AIDS Program, Mental Health
 📞 (317) 880-3500
 
 250. Eskenazi Heath Center Forest Manor
@@ -1600,7 +1600,7 @@
 256. The Damien Center
 26 N Arsenal Ave, Indianapolis, IN 46201-3808
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
-🏥 Services: Ryan White HIV/AIDS Program
+🏥 Services: Ryan White HIV/AIDS Program, Mental Health
 📞 (317) 632-0123
 
 257. HealthNet - Wheeler Mission for Men
@@ -1633,6 +1633,96 @@
 
 261. Indiana State Department Of Health
 2 N Meridian St, Indianapolis, IN 46204-3021
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+262. Brothers United D/B/A Bu Wellness Network
+1712 N Meridian St, Ste 200, Indianapolis, IN 46202-6402
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+263. Raphael Health Center
+401 E 34th St, Indianapolis, IN 46205-3754
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+264. Indiana University School Of Dentistry
+1121 W Michigan St, Indianapolis, IN 46202-5211
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+265. Indiana University School Of Medicine
+1101 E 10th St, Indianapolis, IN 46202-3728
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+266. Concord Center Association
+1310 S Meridian St, Indianapolis, IN 46225-1524
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+267. Marion County Public Health Department Substance Use Outreach Services
+2951 E 38th St, Indianapolis, IN 46218-1231
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+268. Almost4Minds Logistics And Transportation
+2345 S Lynhurst Dr STE 107, Indianapolis, IN 46241-5100
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+269. Minority Health Coalition Of Marion County
+3737 N Meridian St # 300, Indianapolis, IN 46208-4348
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+270. Meals On Wheels
+708 E Michigan St, Indianapolis, IN 46202-3624
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+271. Aids Resource Group
+201 NW 4th St STE B7, Evansville, IN 47708-1355
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+272. Community Health Network Foundation
+7240 Shadeland Sta STE 125, Indianapolis, IN 46256-3959
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+273. Ne Indiana Positive Resource Connection
+525 Oxford St, Fort Wayne, IN 46806-4177
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+274. Volunteers Of America
+912 N Delaware St, Indianapolis, IN 46202-3348
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+275. Marion County Public Health Department Bell Flower Clinic
+640 Eskenazi Ave, Indianapolis, IN 46202-5173
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+276. Iu Fairbanks School Of Public Health
+714 N Senate Ave STE 250, Indianapolis, IN 46202-3299
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+277. Indiana Legal Services
+1200 Madison Ave STE 300, Indianapolis, IN 46225-1616
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+278. Continuud
+735 Shelby St, Indianapolis, IN 46203-1167
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+279. Trans Solutions Research And Resource Center
+104 E 38th St, Indianapolis, IN 46205-2642
 🏥 Services: Ryan White HIV/AIDS Program
 📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
 
