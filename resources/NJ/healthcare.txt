@@ -3,7 +3,7 @@
 1. Mary Eliza Mahoney Health Center Mobile Dental Unit
 394 UNIVERSITY AVE, NEWARK, NJ, 07102-1221
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program; Health Center Service Delivery Site. Source: data.hrsa.gov.
-🏥 Services: Primary Care; Health Care for the Homeless; Dental
+🏥 Services: Primary Care, Health Care for the Homeless, Dental, Ryan White HIV/AIDS Program
 📞 800-734-7083
 🗺 https://maps.google.com/?q=40.73399,-74.17748
 
@@ -18,7 +18,7 @@
 3. Saint James Health, Inc.
 228 Lafayette Street, 2nd Floor, Newark, NJ, 07105-1815
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+🏥 Services: Primary Care, Ryan White HIV/AIDS Program
 📞 973-789-8111
 🗺 https://maps.google.com/?q=40.72889,-74.16279
 
@@ -476,7 +476,7 @@ CUMBERLAND REG HS, LOVE LANE, UPPER DEERFIELD, NJ, 08302
 63. Henry J. Austin Medical Center
 321 N Warren St, Trenton, NJ 08618-4741
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
-🏥 Services: Ryan White HIV/AIDS Program
+🏥 Services: Ryan White HIV/AIDS Program, Mental Health
 📞 (609) 278-5900
 
 64. Jersey City Medical Center Center For Comprehensive Care
@@ -555,6 +555,126 @@ CUMBERLAND REG HS, LOVE LANE, UPPER DEERFIELD, NJ, 08302
 
 76. City Of Paterson
 155 Market St, Paterson, NJ 07505-1414
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+77. Hudson County Improvement Authority
+830 Bergen Ave, Jersey City, NJ 07306-4507
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+78. Health, New Jersey Department Of
+55 N Willow St, Trenton, NJ 08608-1203
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+79. Aids Resource Foundation For Children
+77 Academy St, Newark, NJ 07102-1711
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+80. The Apostles House
+24 Grant St, Newark, NJ 07104-3708
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+81. C.U.R.A., Inc.
+47 Lincoln Park, Newark, NJ 07102-2390
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+82. Catholic Charities Of The Archdiocese Of Newark
+47 Miller St, Newark, NJ 07114-1750
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+83. Proceed, Inc.
+1126 Dickinson St, Elizabeth, NJ 07201-2404
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+84. La Casa De Don Pedro
+76 Clinton Ave, Newark, NJ 07114-2012
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+85. Hudson Pride Connections, Inc.
+32 Jones St, Jersey City, NJ 07306-3103
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+86. City Of Paterson-Division Of Health Ryan White HIV/Aids Prj
+176 Broadway, Paterson, NJ 07505-1115
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+87. Coalition On Aids In Passaic County, Inc
+100 Hamilton Plz STE 1406, Paterson, NJ 07505-2103
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+88. Straight And Narrow Inc
+380 Straight St, Paterson, NJ 07501-2950
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+89. Rutgers/ Division Of Adolescent And Young Adult Medicine
+185 S Orange Ave, Newark, NJ 07103-2757
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+90. Hyacinth Aids Foundation (Jersey City)
+880 Bergen Ave, Apt 802, Jersey City, NJ 07306-4308
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+91. Positive Health Care, Inc.
+403 University Ave, Newark, NJ 07102-1219
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+92. Central Jersey Legal Services, Inc.
+60 Prince St, Elizabeth, NJ 07208-3261
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+93. Rutgers School Of Dental Medicine
+110 Bergen St, Newark, NJ 07103-2495
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+94. St James Social Services
+604 Dr Martin Luther King Jr Blvd, Newark, NJ 07102-1206
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+95. Public Strategies, Inc.
+PO BOX 596, Newark, NJ 07101-0596
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+96. County Of Hudson
+567 Pavonia Ave, Jersey City, NJ 07306-1803
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+97. Fox Caring Consultants, Llc.
+58 Falmouth Rd, Trenton, NJ 08620-1549
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+98. Preparing Adolescent & Adults Ideology Now
+207 Broadway, Paterson, NJ 07501-2002
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+99. United Way Of Greater Union County
+33 W Grand St, Elizabeth, NJ 07202-1410
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+100. City Of Paterson – Dhhs – Ryan White Division
+125 Ellison St, Paterson, NJ 07505-1394
 🏥 Services: Ryan White HIV/AIDS Program
 📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
 
