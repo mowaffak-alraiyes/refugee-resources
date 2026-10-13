@@ -1247,5 +1247,21 @@ RT 3 & 19 2157 RITTER DR, DANIELS, WV, 25832-9371
 168. FamilyCare Health Center - Mobile Dental
 116 Hills Plz, Charleston, WV 25387-2438
 📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
-🏥 Services: Dental
+🏥 Services: Dental, Mental Health
 📞 (304) 720-4466
+
+169. Health And Human Resources, West Virginia Department Of
+350 Capitol St RM 702, Charleston, WV 25301-1757
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+170. Camc Health Education And Research Institute, Inc.
+3200 Maccorkle Ave SE, Charleston, WV 25304-1227
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+171. West Virginia University Research Corporation
+886 Chestnut Ridge Rd, Morgantown, WV 26505-2742
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
