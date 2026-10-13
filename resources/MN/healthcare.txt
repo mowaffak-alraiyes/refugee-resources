@@ -753,3 +753,9 @@ L Orient St, Saint Paul, MN 55117
 📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🏥 Services: Mental health
 📞 (612) 872-8086
+
+104. Hennepin County
+300 S 6th St, Minneapolis, MN 55487-0999
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
