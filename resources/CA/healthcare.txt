@@ -2857,8 +2857,9 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 505. SJCH at Magnolia Place
 1910 Magnolia Ave STE 101, Los Angeles, CA, 90007-1220
 🌐 https://wellchild.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care, Mental Health
 📞 323-541-1411
+🗣 Languages: Spanish
 
 506. Trans Wellness Center
 3055 Wilshire Blvd Ste 360, Los Angeles, CA, 90010-1108
@@ -7488,8 +7489,9 @@ S Main St, Los Angeles, CA 90013-1319
 
 1298. Stepping Stone Of San Diego, Inc.
 3767 Central Ave, San Diego, CA 92105-2506
-🏥 Services: Ryan White HIV/AIDS Program
+🏥 Services: Ryan White HIV/AIDS Program, Mental Health
 📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+🗣 Languages: Spanish |
 
 1299. Sunburst Projects
 2143 Hurley Way STE 240, Sacramento, CA 95825-3299
@@ -7595,4 +7597,172 @@ S Main St, Los Angeles, CA 90013-1319
 1200 N State St, Los Angeles, CA 90033
 🏥 Services: Ryan White HIV/AIDS Program
 📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+1320. Ketamine Clinics Los Angeles
+6801 Park Terrace, Suite 525, Los Angeles, CA 90045
+🌐 https://www.ketamineclinics.com
+🗣 Languages: Spanish
+🏥 Services: Mental Health
+📞 (310) 270-0625
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
+
+1321. South Sacramento MH Center - HeartLand Child and Family Services
+6833 Stockton Boulevard, Suite 485, Sacramento, CA 95821
+🌐 https://doingwhateverittakes.org/
+🗣 Languages: Spanish; Sign language
+🏥 Services: Mental Health
+📞 (916) 942-9060
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
+
+1322. Childrens Receiving Home of Sacramento
+3555 Auburn Boulevard, Sacramento, CA 95821
+🌐 https://www.crhkids.org
+🗣 Languages: Spanish
+🏥 Services: Mental Health
+📞 (916) 482-2370
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
+
+1323. Watt Avenue MH Center - HeartLand Child and Family Services
+2829 Watt Avenue, Suite 200, Sacramento, CA 95821
+🌐 https://doingwhateverittakes.org/
+🗣 Languages: Spanish; Sign language
+🏥 Services: Mental Health
+📞 (916) 418-0828
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
+
+1324. Lifestance Health
+100 Howe Avenue, Sacramento, CA 95825
+🌐 https://www.lifestance.com
+🗣 Languages: Sign language services for the deaf and hard of hearing; Spanish; Other languages (excluding Spanish); French; Russian
+🏥 Services: Mental Health
+📞 (925) 282-1778
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
+
+1325. North Area Community MH Ctr - HeartLand Child and Family Services
+811 Grand Avenue, Suite D, Sacramento, CA 95838
+🌐 https://doingwhateverittakes.org/
+🗣 Languages: Sign language services for the deaf and hard of hearing
+🏥 Services: Mental Health
+📞 (916) 922-9868
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
+
+1326. CRASH Inc - Golden Hill House II
+835 25th Street, San Diego, CA 92102
+🌐 https://crashinc.org/
+🗣 Languages: Spanish
+🏥 Services: Mental Health
+📞 619-239-9691 x304
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
+
+1327. Infinity Recovery
+9486 Owl Court, San Diego, CA 92129
+🌐 https://infinityrecoverygroup.com
+🗣 Languages: Spanish; Sign language services for the deaf and hard of hearing; Other languages (excluding Sp
+🏥 Services: Mental Health
+📞 (858) 967-4140
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
+
+1328. Didi Hirsch Mental Health Services - Suicide Prevention Counseling Center
+10277 West Olympic Boulevard, Los Angeles, CA 90067
+🌐 https://crisiscare.org
+🗣 Languages: Spanish
+🏥 Services: Mental Health
+📞 (424) 362-2935
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
+
+1329. Enki Health Services Inc - Commerce Youth and Family
+1000 Goodrich Boulevard, Los Angeles, CA 90022
+🌐 https://www.enkihealth.org
+🗣 Languages: Spanish
+🏥 Services: Mental Health
+📞 (323) 832-9795
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
+
+1330. Universal Hlth Network and Systems Inc
+3170 North Chestnut Avenue, Suite 105, Fresno, CA 93703
+🌐 https://
+🗣 Languages: Spanish; Sign language services for the deaf and hard of hearing; Other languages (excluding Spanish)
+🏥 Services: Mental Health
+📞 (559) 252-5150
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
+
+1331. Kings View - Blue Sky Wellness Center
+1617 East Saginaw Way, Suite 108, Fresno, CA 93704
+🌐 https://www.kingsview.org
+🗣 Languages: Spanish
+🏥 Services: Mental Health
+📞 (559) 256-0100
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
+
+1332. Vitalize Behavioral Health
+7265 North 1st Street, Suite 103, Fresno, CA 93720
+🌐 https://www.vitalizepsych.com
+🗣 Languages: Spanish
+🏥 Services: Mental Health
+📞 (559) 374-2732
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
+
+1333. Kings View - Corporate Office and Telepsychiatry
+1396 West Herndon Avenue, Fresno, CA 93720
+🌐 https://www.kingsview.org
+🗣 Languages: Spanish
+🏥 Services: Mental Health
+📞 (559) 256-0100
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
+
+1334. Didi Hirsch Mental Health Services - Metro Center
+221 North Ardmore Avenue, Los Angeles, CA 90004
+🌐 https://www.didihirsch.org
+🗣 Languages: Spanish
+🏥 Services: Mental Health
+📞 (213) 381-3626
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
+
+1335. Dignity Health - DBA California Hospital Medical Ctr
+1400 South Grand Avenue, Suite 600, Los Angeles, CA 90015
+🌐 https://www.hopestreetfamilycenter.org
+🗣 Languages: Spanish
+🏥 Services: Mental Health
+📞 (213) 742-6250
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
+
+1336. Para Los Ninos - Mental Health Family Center
+849 East 6th Street, Los Angeles, CA 90021
+🌐 https://www.paralosninos.org
+🗣 Languages: Spanish; Sign language services for the deaf and hard of hearing; Other languages (excluding Spanish); Any Chinese Language; Tagalog
+🏥 Services: Mental Health
+📞 213-623-8446 x224
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
+
+1337. Behavioral Health Services - Lincoln Heights Family Recovery Center
+4099 North Mission Road, Building A, Los Angeles, CA 90032
+🌐 https://www.bhs-inc.org
+🗣 Languages: Spanish
+🏥 Services: Mental Health
+📞 (323) 221-1746
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
+
+1338. Ness Counseling Center Inc
+8512 Whitworth Drive, Suite 100, Los Angeles, CA 90035
+🌐 https://www.thenesscenter.org
+🗣 Languages: Spanish
+🏥 Services: Mental Health
+📞 310-360-8512 x104
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
+
+1339. Jewish Family Service of Los Angeles - Pico Robertson Family Resource Ctr
+8838 West Pico Boulevard, Los Angeles, CA 90035
+🌐 https://www.jfsla.org
+🗣 Languages: Sign language services for the deaf and hard of hearing; Spanish; Other languages (excluding Spanish); Farsi; Russian
+🏥 Services: Mental Health
+📞 310-247-0864 x218
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
+
+1340. Didi Hirsch Mental Health Services - S Mark Taper Foundation Center
+1328 West Manchester Avenue, Los Angeles, CA 90044
+🌐 https://www.didihirsch.org
+🗣 Languages: Spanish
+🏥 Services: Mental Health
+📞 (310) 390-6612
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
 
