@@ -2460,3 +2460,19 @@
 🏥 Services: Ryan White HIV/AIDS Program
 📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
 
+340. National Youth Advocate Program Inc
+11156 Canal Road, Suite A, Cincinnati, OH 45241
+🌐 https://www.nyap.org
+🗣 Languages: Spanish
+🏥 Services: Mental Health
+📞 (513) 772-6166
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
+
+341. Catholic Charities Southwestern Ohio
+7162 Reading Road, Suite 600, Cincinnati, OH 45237
+🌐 https://www.ccswoh.org
+🗣 Languages: Sign language services for
+🏥 Services: Mental Health
+📞 (513) 489-8898
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
+
