@@ -2090,3 +2090,8 @@ mobile, shreveport, LA, 71107
 🏥 Services: Ryan White HIV/AIDS Program
 📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
 
+286. Louisiana State Doh & Hospitals
+1450 Poydras St STE 1652, New Orleans, LA 70112-1227
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
