@@ -35,7 +35,7 @@ Andrew Mutch Building, Room 405, Penn Presbyterian Medical Center, 51 N. 39th St
 1211 Chestnut St Ste 605, Philadelphia, PA, 19107-4117
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.fight.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care, Ryan White HIV/AIDS Program
 📞 215-525-8654
 🗺 https://maps.google.com/?q=39.95049,-75.16075
 
@@ -1689,7 +1689,7 @@ New River: 4159 W Girard Ave, Philadelphia, PA 19104. Cedar: 501 S 54th St, Phil
 225. Carl Moore Health Center
 1401 S 31st St, Philadelphia, PA 19146-3506
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
-🏥 Services: Ryan White HIV/AIDS Program
+🏥 Services: Ryan White HIV/AIDS Program, Dental
 📞 (215) 755-7700
 
 226. Chop Family Care Center
@@ -1707,7 +1707,7 @@ New River: 4159 W Girard Ave, Philadelphia, PA 19104. Cedar: 501 S 54th St, Phil
 228. Drexel University College Of Medicine - Site Schc
 160 E Erie Ave, Philadelphia, PA 19134-1011
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
-🏥 Services: Ryan White HIV/AIDS Program
+🏥 Services: Ryan White HIV/AIDS Program, Dental
 📞 (215) 427-5284
 
 229. Esperanza Health Center - 5th Street
@@ -1775,7 +1775,7 @@ New River: 4159 W Girard Ave, Philadelphia, PA 19104. Cedar: 501 S 54th St, Phil
 239. Phmc Care Clinic
 1200 Callowhill St STE 101, Philadelphia, PA 19123-3658
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
-🏥 Services: Ryan White HIV/AIDS Program
+🏥 Services: Ryan White HIV/AIDS Program, Mental Health
 📞 (215) 825-8220
 
 240. Presbyterian Medical Center - Penn Comm Infectious Diseases
@@ -1800,7 +1800,7 @@ New River: 4159 W Girard Ave, Philadelphia, PA 19104. Cedar: 501 S 54th St, Phil
 243. Southeast Health Center
 800 Washington Ave, Philadelphia, PA 19147-4717
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
-🏥 Services: Ryan White HIV/AIDS Program
+🏥 Services: Ryan White HIV/AIDS Program, Dental
 📞 (215) 339-5100
 
 244. Temple University Hospital
@@ -1872,7 +1872,7 @@ New River: 4159 W Girard Ave, Philadelphia, PA 19104. Cedar: 501 S 54th St, Phil
 254. GPHA, INC. Medical Suite at Temple’s Dental School
 3223 N Broad St, Philadelphia, PA 19140-5099
 📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
-🏥 Services: Dental
+🏥 Services: Dental, Ryan White HIV/AIDS Program
 📞 (215) 925-2400
 
 255. Maria de los Santos Women's Health Center
@@ -1880,3 +1880,149 @@ New River: 4159 W Girard Ave, Philadelphia, PA 19104. Cedar: 501 S 54th St, Phil
 📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🏥 Services: Women's health
 📞 (215) 291-2500
+
+256. Philadelphia, City Of
+1101 Market St, Philadelphia, PA 19107-2934
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+257. Pa St Department Of Public Health & Human Services
+625 Forster St, Harrisburg, PA 17120-0701
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+258. City Of Philadelphia
+500 S Broad St, Philadelphia, PA 19146-1613
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+259. Lehigh Valley Hospital, Inc.
+1200 S Cedar Crest Blvd, Allentown, PA 18103-6202
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+260. Albert Einstein Healthcare Network
+5501 Old York Rd, Philadelphia, PA 19141-3018
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+261. Accessmatters
+1700 Market St STE 1540, Philadelphia, PA 19103-3915
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+262. Catholic Social Services
+222 N 17th St, Philadelphia, PA 19103-1202
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+263. Hospital Of The University Of Pennsylvania
+3400 Spruce St, Philadelphia, PA 19104-4238
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+264. Drexel University
+3141 Chestnut St, Philadelphia, PA 19104-2816
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+265. Metropolitan Aids Neighborhood Nutrition Alliance
+420 N 20th St, Philadelphia, PA 19130-3828
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+266. One Day At A Time / Greater Philadelphia Urban Affairs Coal.
+2532 N Broad St, Philadelphia, PA 19132-4013
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+267. Public Health Management Corporation
+1500 Market St, Philadelphia, PA 19102-2100
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+268. The Children'S Hospital Of Philadelphia
+S 34th St & Civic Center Blvd, Philadelphia, PA 19104
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+269. Trustees Of The University Of Pennsylvania
+3451 Walnut St, Philadelphia, PA 19104-6205
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+270. Actionaids, Inc.
+1216 Arch St FL 6, Philadelphia, PA 19107-2835
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+271. Alder Health Services
+100 N Cameron St, Harrisburg, PA 17101-2424
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+272. Co-County Wellness Services
+429 Walnut St, Reading, PA 19601-3929
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+273. The Children'S Hospital Of Philadelphia- Division Of Adolescent Medicine
+3535 Market St STE 1371, Philadelphia, PA 19104-3317
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+274. Upmc Pinnacle
+409 S 2nd St STE 2B, Harrisburg, PA 17104-1612
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+275. Penna Hospital - The Wood Clinic
+700 Spruce St, Ste 304, Philadelphia, PA 19106-4023
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+276. Thomas Jefferson University Hospital
+1015 Chestnut St STE 1020, Philadelphia, PA 19107-4310
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+277. Reading Hospital
+420 S 5th Ave, Reading, PA 19611-2143
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+278. Midpenn Legal Services, Inc.
+501 Washington St, Reading, PA 19601-3416
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+279. Pinebrook Family Answers
+402 N Fulton St, Allentown, PA 18102-2002
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+280. Newlands Health
+9625 Frankford Ave, Philadelphia, PA 19114-2846
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+281. Everyday Home Care - Reading
+510 N Park Rd, Ste 1, Reading, PA 19610-2941
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+282. Rosales Communications
+363 Pelham Rd, Philadelphia, PA 19119-3112
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+283. Courage Medicine
+3751 Island Ave STE 201, Philadelphia, PA 19153-3237
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+284. Nerdworks
+7818 Venus Pl, Philadelphia, PA 19153-1222
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
