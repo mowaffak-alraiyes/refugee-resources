@@ -966,3 +966,395 @@
 🏥 Services: Ryan White HIV/AIDS Program
 📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
 
+135. Oklahoma City Indian Clinic - 4913 W Reno
+4913 W Reno Ave, Oklahoma City, OK 73127-6339
+🌐 http://www.okcic.com/index
+🏥 Services: Dental
+📞 (405) 948-4900
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+136. Oklahoma City Indian Clinic - Ann Arbor Clinic
+309 S Ann Arbor Ave, Oklahoma City, OK 73128-1112
+🌐 http://www.okcic.com
+🏥 Services: Mental Health
+📞 (405) 948-4900
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+137. Family & Children's Services - Legacy Plaza West
+5310 E 31st St, Tulsa, OK 74135-5012
+🌐 http://www.fcsok.org
+🏥 Services: Mental Health
+📞 (918) 600-3671
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+138. Family & Children's Services - Lapidus Center
+650 S Peoria Ave, Tulsa, OK 74120-4429
+🌐 http://www.fcsok.org
+🏥 Services: Mental Health
+📞 (918) 600-3671
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+139. Grand Lake Mental Health Center - Tulsa County Central Clinic
+6128 E 38th St, Tulsa, OK 74135-5832
+🌐 http://www.grandmh.com
+🏥 Services: Mental Health
+📞 (918) 418-9594
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+140. Central Oklahoma CMHC - Leland Wolf Campus
+1120 E Main St, Norman, OK 73071-5300
+🌐 http://www.cocmhc.net
+🏥 Services: Mental Health
+📞 (405) 573-3812
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+141. CREOKS Behavioral Health Services - Broken Arrow
+2548 E Kenosha St, Broken Arrow, OK 74014-6712
+🌐 https://www.creoks.org
+🏥 Services: Mental Health
+📞 (918) 355-0993
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+142. Family & Children's Services - Broken Arrow Office
+12710 State Farm Blvd, Tulsa, OK 74146-5403
+🌐 http://www.fcsok.org
+🏥 Services: Mental Health
+📞 (918) 600-3671
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+143. Family & Children's Services - Sheridan
+2029 S Sheridan Rd, Tulsa, OK 74112-7309
+🌐 http://fcsok.org
+🏥 Services: Mental Health
+📞 (918) 600-3671
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+144. Circle of Care - Tulsa
+1616 N Gilcrease Museum Rd, Tulsa, OK 74127-2101
+🌐 http://www.circleofcare.org
+🏥 Services: Mental Health
+📞 (405) 698-0550
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+145. Absentee Shawnee Tribal Health Authority, Inc- Little Axe Health Center
+15951 Little Axe Dr, Norman, OK 73026-9088
+🌐 http://www.asthealth.org/
+🏥 Services: Mental Health
+📞 (405) 447-0300
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+146. Muscogee (Creek) Nation - MCN Council Oak Comprehensive Care
+10109 E 79th St, Tulsa, OK 74133-4682
+🌐 http://www.creekhealth.org
+🏥 Services: Mental Health
+📞 (918) 233-9550
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+147. Family & Children's Services - Houston
+1055 S Houston Ave, Tulsa, OK 74127-9013
+🌐 http://www.fcsok.org
+🏥 Services: Mental Health
+📞 (918) 600-3671
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+148. Family & Children's Services - Osage Hills
+1 W 36th St N, Tulsa, OK 74106-1700
+🌐 http://www.fcsok.org
+🏥 Services: Mental Health
+📞 (918) 600-3671
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+149. HOPE Community Services, Inc.
+6100 S Walker Ave, Oklahoma City, OK 73139-7026
+🌐 http://www.hopecsi.org
+🏥 Services: Mental Health
+📞 (405) 634-4400
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+150. Oklahoma City Indian Clinic - 5208 W Reno
+5208 W Reno Ave, Oklahoma City, OK 73127-6344
+🌐 http://www.okcic.com
+🏥 Services: Mental Health
+📞 (405) 948-4900
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+151. The Virtue Center
+2457 Wilcox Drive, Norman, OK 73069
+🌐 https://www.thevirtuecenter.org
+🏥 Services: Mental Health
+📞 (405) 321-0022
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+152. Bel Aire Recovery Center - Outpatient
+10707 Broadway Extension, Oklahoma City, OK 73114
+🌐 https://www.belairerecovery.com
+🏥 Services: Mental Health
+📞 (405) 696-7701
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+153. OSU Behavioral Medicine
+5310 East 31st Street, Suite LL, Tulsa, OK 74135
+🌐 https://osumedicine.com
+🏥 Services: Mental Health
+📞 (918) 236-4000
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+154. Family and Childrens Services - Osage Hills Office
+1 West 36th Street North, Suite 1, Tulsa, OK 74106
+🌐 https://www.fcsok.org
+🏥 Services: Mental Health
+📞 (918) 587-9471
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+155. Family and Childrens Services - Sarah and John Graves Center
+2325 South Harvard Avenue, Tulsa, OK 74114
+🌐 https://www.fcsok.org
+🏥 Services: Mental Health
+📞 (918) 587-9471
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+156. Haven Detox - Oklahoma
+2130 South 85th East Avenue, Tulsa, OK 74129
+🌐 https://havendetoxnow.com/locations/oklahoma
+🏥 Services: Mental Health
+📞 (833) 616-1093
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+157. Tulsa VA Outpatient Clinic
+8921 South Mingo Road, Tulsa, OK 74133
+🌐 https://
+🏥 Services: Mental Health
+📞 (888) 397-8387
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+158. Family and Childrens Services - East Tulsa Office
+12710 East 48 Street South, Tulsa, OK 74146
+🌐 https://www.fcsok.org
+🏥 Services: Mental Health
+📞 (918) 587-9471
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+159. Workit Health
+1010 24th Avenue NW, Suite 100, Norman, OK 73069
+🌐 https://workithealth.com
+🏥 Services: Mental Health
+📞 (918) 926-3824
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+160. Moore Youth And Family Services Inc - Moore Alcohol and Drug Center
+624 NW 5th Street, Oklahoma City, OK 73160
+🌐 https://www.mooreyouthandfamily.org
+🏥 Services: Mental Health
+📞 (405) 799-3379
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+161. Slate Recovery
+3033 NW 63rd Street, Suite E-200, Oklahoma City, OK 73116
+🌐 https://slaterecovery.com/
+🏥 Services: Mental Health
+📞 (405) 849-9041
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+162. Childrens Recovery Center of Oklahoma
+320 12th Avenue NE, Norman, OK 73071
+🌐 https://
+🏥 Services: Mental Health
+📞 (405) 573-3819
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+163. Enrichment Center - Reach for the Light Inc
+1418 Linwood Boulevard, Oklahoma City, OK 73106
+🌐 https://reachforthelightinc.org
+🏥 Services: Mental Health
+📞 (405) 601-0295
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+164. Oklahoma Cnty Crisis Intervention Ctr
+2625 General Pershing Boulevard, Oklahoma City, OK 73107
+🌐 https://www.odmhsas.ok.gov
+🏥 Services: Mental Health
+📞 (405) 942-2300
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+165. Mosaic Therapy Health and Wellness
+5350 South Western Avenue, Suite 215, Oklahoma City, OK 73109
+🌐 https://mosaictherapy.net/?v=0b3b97fa6688
+🏥 Services: Mental Health
+📞 (405) 518-0082
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+166. TLC Foundation - Total Life Counseling
+3000 United Founders Boulevard, Suite 239, Oklahoma City, OK 73112
+🌐 https://tlcfoundationokc.com
+🏥 Services: Mental Health
+📞 (405) 840-7040
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+167. Oakwood Springs - A Behavioral Health Hospital
+13101 Memorial Springs Court, Oklahoma City, OK 73114
+🌐 https://www.oakwoodsprings.com
+🏥 Services: Mental Health
+📞 (405) 438-3000
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+168. The Laguna Group
+6801 South Western, Suite 105, Oklahoma City, OK 73139
+🌐 https://saludmentaloklahoma.com/
+🏥 Services: Mental Health
+📞 (405) 338-7674
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+169. Cedar Ridge at Bethany
+6509 NE 50th Street, Oklahoma City, OK 73141
+🌐 https://www.cedarridgebhs.com
+🏥 Services: Mental Health
+📞 (405) 792-5330
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+170. Family and Childrens Services - Salvation Army Office
+102 North Denver Avenue, Suite C, Tulsa, OK 74103
+🌐 https://www.fcsok.org
+🏥 Services: Mental Health
+📞 (918) 587-9471
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+171. Family and Childrens Services - Apache Office
+240 East Apache, Tulsa, OK 74106
+🌐 https://www.fcsok.org
+🏥 Services: Mental Health
+📞 (918) 587-9471
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+172. Family and Childrens Services - Sheridan Office
+2029 South Sheridan Road, Tulsa, OK 74112
+🌐 https://www.fcsok.org
+🏥 Services: Mental Health
+📞 (918) 587-9471
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+173. Human Skills and Resources Inc
+2140 South Harvard Avenue, Tulsa, OK 74114
+🌐 https://www.humanskills.org
+🏥 Services: Mental Health
+📞 (918) 747-6377
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+174. Womens Justice Center
+808 South Peoria Avenue, Tulsa, OK 74120
+🌐 https://www.fcsok.org
+🏥 Services: Mental Health
+📞 (918) 600-3841
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+175. Family and Childrens Services - CrisisCare Center
+1055 South Houston Avenue, Tulsa, OK 74127
+🌐 https://www.fcsok.org
+🏥 Services: Mental Health
+📞 (918) 921-3200
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+176. Tulsa Behavioral Medicine Clinic
+10159 East 11th Street, Tulsa, OK 74128
+🌐 https://www.va.gov/eastern-oklahoma-health-care/locations/tulsa-eleventh-street-va-clinic/
+🏥 Services: Mental Health
+📞 (888) 397-8387
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+177. Grand Lake Mental Health Center - Tulsa County Office
+6128 East 38th Street, Tulsa, OK 74135
+🌐 https://www.grandmh.com
+🏥 Services: Mental Health
+📞 (844) 458-2100
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+178. Calm Center
+6126 East 32nd Place, Tulsa, OK 74135
+🌐 https://www.crsok.org
+🏥 Services: Mental Health
+📞 (918) 394-2256
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+179. Counseling and Recovery Services of OK
+1323 East 71st Street, Tulsa, OK 74136
+🌐 https://www.crsok.org
+🏥 Services: Mental Health
+📞 (918) 492-2554
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+180. A Chance to Change Foundation
+2113 West Britton Road, Oklahoma City, OK 73120
+🌐 https://www.achancetochange.org
+🏥 Services: Mental Health
+📞 (405) 840-9000
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+181. Red Rock Behavioral Health Services - Crisis Unit/Urgent Recovery Center
+900 East Main Street, Building 52, Norman, OK 73070
+🌐 https://www.red-rock.com
+🏥 Services: Mental Health
+📞 (405) 307-4800
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+182. Red Rock Behavioral Health Services - Outpatient Clinic
+900 North Porter Avenue, Suite 110, Norman, OK 73071
+🌐 https://www.red-rock.com
+🏥 Services: Mental Health
+📞 (405) 914-4850
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+183. Red Rock Behavioral Health Services - Housing Office (Parkview Place)
+2619 North Harvey Avenue, Oklahoma City, OK 73103
+🌐 https://www.red-rock.com
+🏥 Services: Mental Health
+📞 (405) 525-3959
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+184. Red Rock Behavioral Health Services - Planet Rock (Childrens and Adolescent)
+4130 North Lincoln Boulevard, Oklahoma City, OK 73105
+🌐 https://www.red-rock.com
+🏥 Services: Mental Health
+📞 (405) 267-3246
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+185. Red Rock Behavioral Health Services - Childrens Crisis Unit
+4404 North Lincoln Boulevard, Oklahoma City, OK 73105
+🌐 https://www.red-rock.com
+🏥 Services: Mental Health
+📞 (405) 425-0333
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+186. Red Rock Behavioral Health Services - Expressions Community Center
+4420 North Lincoln Boulevard, Oklahoma City, OK 73105
+🌐 https://www.red-rock.com
+🏥 Services: Mental Health
+📞 (405) 521-0897
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+187. Red Rock Behavioral Health Services - Outpatient Office
+4400 North Lincoln Boulevard, Oklahoma City, OK 73105
+🌐 https://www.red-rock.com
+🏥 Services: Mental Health
+📞 (405) 424-7711
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+188. NorthCare Oklahoma County MH Center - DBA NorthCare
+4436 NW 50th Street, Oklahoma City, OK 73112
+🌐 https://www.northcare.com
+🏥 Services: Mental Health
+📞 (405) 858-2700
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+189. HOPE Hall
+8125 South Walker Avenue, Oklahoma City, OK 73139
+🌐 https://hopecsi.org
+🏥 Services: Mental Health
+📞 (405) 634-4400
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+190. HOPE Community Services Inc
+6100 South Walker Avenue, Oklahoma City, OK 73139
+🌐 https://hopecsi.org
+🏥 Services: Mental Health
+📞 (405) 634-4400
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
