@@ -1183,3 +1183,311 @@ CR324 Hwy 84 N #14, Tierra Amarilla, NM, 87575-0250
 📞 (505) 247-4622
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
 
+157. First Choice Community Health Care - Main Clinic/Administrative
+2001 Centro Familiar Blvd SW, Albuquerque, NM 87105-4592
+🌐 http://www.fcch.com
+🏥 Services: Dental
+📞 (505) 873-7400
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+158. Presbyterian Medical Services - Santa Fe Family Health Center
+4730 Beckner Rd, Santa Fe, NM 87507-3691
+🌐 https://www.pmsnm.org/locations/santa-fe-family-health-center/
+🏥 Services: Dental, Mental Health
+📞 (505) 989-4500
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+159. Celebrate Dental and Braces ABQ
+1625 Rio Bravo Blvd SW, Suite 33, Albuquerque, NM 87105-6043
+🌐 http://www.celebratedental.com
+🏥 Services: Dental
+📞 (505) 977-3181
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+160. Pueblo of Isleta - Health Center
+1 Sagebrush St SW, Albuquerque, NM 87105-3942
+🌐 http://www.isletapueblo.com/tribal-programs.html
+🏥 Services: Dental
+📞 (505) 869-3200
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+161. Tewa Roots Society
+15 Bay Poe, Santa Fe, NM 87506-2731
+🌐 http://tewarootssociety.com
+🏥 Services: Mental Health
+📞 (505) 423-2401
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+162. TeamBuilders Behavioral Health - Santa Fe
+2504 Camino Entrada, Santa Fe, NM 87507-4851
+🌐 http://www.sfrecovery.org
+🏥 Services: Mental Health
+📞 (505) 471-4985
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+163. Sandia Therapy and Wellness Center
+6612 Gulton Ct NE, Albuquerque, NM 87109-4407
+🌐 https://www.sandiatherapy.com/
+🏥 Services: Mental Health
+📞 (505) 633-7886
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+164. Nexus Counseling Center
+350 El Molino Blvd, Las Cruces, NM 88005-2915
+🌐 https://nexuscounselingcenter.com/
+🏥 Services: Mental Health
+📞 (575) 323-8900
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+165. Santa Fe Indian School
+1501 Cerrillos Rd, Santa Fe, NM 87505-3521
+🌐 https://www.sfis.k12.nm.us/
+🏥 Services: Mental Health
+📞 (505) 670-4653
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+166. La Clinica De Familia Inc - Wellness Center
+760 North Motel Boulevard, Las Cruces, NM 88007
+🌐 https://www.laclinicadefamilia.org
+🏥 Services: Mental Health
+📞 (575) 528-6440
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+167. Perfectly Imperfect
+146 Quincy Street NE, Albuquerque, NM 87108
+🌐 https://perfectlyimperfectnm.com
+🏥 Services: Mental Health
+📞 (505) 550-1306
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+168. Evolution Group Inc
+218 Broadway Boulevard SE, Albuquerque, NM 87102
+🌐 https://www.theevolutiongroup.com
+🏥 Services: Mental Health
+📞 505-242-6988 x114
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+169. Eleanor Health
+150 Washington Avenue, Suite 201 PMB 229, Santa Fe, NM 87501
+🌐 https://www.eleanorhealth.com
+🏥 Services: Mental Health
+📞 (866) 465-0590
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+170. Icarus Behavioral Health
+8601 Golf Course Road NW, Albuquerque, NM 87114
+🌐 https://icarusbehavioralhealth.com/
+🏥 Services: Mental Health
+📞 (505) 305-0902
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+171. HopeWorks - Recovering Hope Behavioral Health Cent
+1216 4th Street NW, Albuquerque, NM 87102
+🌐 https://www.hopeworksnm.org
+🏥 Services: Mental Health
+📞 (505) 764-8231
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+172. Ascend Recovery Center
+883 Lead Avenue SE, Albuquerque, NM 87102
+🌐 https://ascendrecoverycenternm.com/
+🏥 Services: Mental Health
+📞 (505) 369-1699
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+173. Sequoyah Adolescent Treatment Center
+3405 West Pan American Freeway, Albuquerque, NM 87107
+🌐 https://www.nmhealth.org/about/ofm/ltcf/satc/
+🏥 Services: Mental Health
+📞 (505) 222-0355
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+174. Tree Frog
+148 Quincy Street NE, Albuquerque, NM 87108
+🌐 https://perfectlyimperfectnm.com
+🏥 Services: Mental Health
+📞 (505) 480-2090
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+175. Veterans Affairs Medical Center - Substance Use Disorders Prog Clinic
+1501 San Pedro Street SE, Albuquerque, NM 87108
+🌐 https://www.va.gov/new-mexico-health-care/locations
+🏥 Services: Mental Health
+📞 505-265-1711 x2237
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+176. Anchor Behavioral Health - Albuquerque
+7005 Prospect Place NE, Albuquerque, NM 87110
+🌐 https://www.anchornm.com
+🏥 Services: Mental Health
+📞 (505) 418-8524
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+177. State of the Heart Recovery Inc
+203 California Street NE, Albuquerque, NM 87108
+🌐 https://www.stateoftheheartrecovery.com/
+🏥 Services: Mental Health
+📞 (505) 206-0288
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+178. Workit Health
+5901 Indian School Road NE, Suite 212, Albuquerque, NM 87110
+🌐 https://www.workithealth.com/
+🏥 Services: Mental Health
+📞 (575) 993-5762
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+179. New Experiences Counseling - and Consultation
+2727 San Pedro Drive NE, Suite 110, Albuquerque, NM 87110
+🌐 https://www.newexperiencescc.com
+🏥 Services: Mental Health
+📞 (505) 670-7765
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+180. Ellie Mental Health - Southwest Healthworks LLC
+5001 Indian School Road Northeast, 200, Albuquerque, NM 87110
+🌐 https://elliementalhealth.com/
+🏥 Services: Mental Health
+📞 (505) 548-9023
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+181. Waves Behavioral Health
+12400 Menaul Boulevard, Suite 4, Albuquerque, NM 87112
+🌐 https://www.wavesbh.Com
+🏥 Services: Mental Health
+📞 (505) 933-1978
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+182. Santa Fe Psychotherapy and Consulting
+1925 Aspen Drive, Suite 101-A, Santa Fe, NM 87505
+🌐 https://santafepsychotherapy.org
+🏥 Services: Mental Health
+📞 (505) 424-3119
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+183. Ellie Mental Health - Southwest Healthworks LLC
+1660 Old Pecos Trail, Suite A, Santa Fe, NM 87505
+🌐 https://elliementalhealth.com/
+🏥 Services: Mental Health
+📞 (505) 548-9023
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+184. University of New Mexico Hospital - Addictions and Substance Abuse Program
+2600 Yale Avenue SE, Albuquerque, NM 87106
+🌐 https://
+🏥 Services: Mental Health
+📞 (505) 994-7999
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+185. University of New Mexico Hospital - Psychiatric Center
+2600 Marble Avenue NE, Albuquerque, NM 87106
+🌐 https://hsc.unm.edu/health/about/
+🏥 Services: Mental Health
+📞 (505) 272-2800
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+186. Streetwise Inc
+3232 Candelaria Road NE, Albuquerque, NM 87107
+🌐 https://streetnm.org
+🏥 Services: Mental Health
+📞 (505) 323-3785
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+187. Albuquerque Behavioral Health
+1401 San Pedro NE, Albuquerque, NM 87110
+🌐 https://www.abqbh.com
+🏥 Services: Mental Health
+📞 (505) 830-6500
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+188. Dragonfly Counseling Associates
+1110 Pennsylvania Street NE, Suite B, Albuquerque, NM 87110
+🌐 https://dragonflyabq.com/
+🏥 Services: Mental Health
+📞 (505) 265-0753
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+189. Counseling World LLC
+1600 San Pedro Drive NE, Albuquerque, NM 87110
+🌐 https://www.counselingworld.com
+🏥 Services: Mental Health
+📞 (505) 404-0717
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+190. All Faiths
+8401 Constitution Avenue, Albuquerque, NM 87110
+🌐 https://www.allfaiths.org
+🏥 Services: Mental Health
+📞 (505) 271-0329
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+191. All Faiths
+1709 Moon Street NE, Albuquerque, NM 87112
+🌐 https://www.allfaiths.org
+🏥 Services: Mental Health
+📞 (505) 271-0329
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+192. Ellie Mental Health - Southwest Healthworks LLC
+500 Unser Boulevard SE, Suite 200, Rio Rancho, NM 87124
+🌐 https://elliementalhealth.com/
+🏥 Services: Mental Health
+📞 (505) 548-9023
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+193. University of New Mexico Hospital - Childrens Psychiatric Center
+1001 Yale Boulevard NE, Albuquerque, NM 87131
+🌐 https://hsc.unm.edu/
+🏥 Services: Mental Health
+📞 (505) 272-2890
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+194. Families and Youth Innovations
+1320 South Solano Street, Las Cruces, NM 88001
+🌐 https://www.fyiplusnm.org
+🏥 Services: Mental Health
+📞 (575) 522-4004
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+195. La Clinica De Familia Inc
+535 South Miranda Street, Las Cruces, NM 88005
+🌐 https://www.laclinicadefamilia.org
+🏥 Services: Mental Health
+📞 (575) 526-1105
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+196. Porch Light Health - Rocky Mountain Clinics LLC
+3850 Foothills Road, Las Cruces, NM 88011
+🌐 https://porchlighthealth.com
+🏥 Services: Mental Health
+📞 (720) 219-1790
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+197. Inetmed Rx2 Inc
+1635 South Don Roser Drive, Las Cruces, NM 88011
+🌐 https://www.inetmedrx2.com/
+🏥 Services: Mental Health
+📞 (575) 636-2506
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+198. Memorial Medical Center
+2450 South Telshor Boulevard, Las Cruces, NM 88011
+🌐 https://mmclc.org
+🏥 Services: Mental Health
+📞 (575) 521-2215
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+199. Las Cruces VA CBOC - LC CBOC
+3401 Del Rey Boulevard, Las Cruces, NM 88012
+🌐 https://www.va.gov
+🏥 Services: Mental Health
+📞 (575) 522-1241
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+200. BHC Mesilla Valley Hospital
+3751 Del Rey Boulevard, Las Cruces, NM 88012
+🌐 https://www.mesillavalleyhospital.com
+🏥 Services: Mental Health
+📞 (575) 382-3500
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
