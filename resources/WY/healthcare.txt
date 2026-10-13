@@ -109,7 +109,7 @@
 15. HealthWorks - Main Clinic
 2508 E Fox Farm Rd, Cheyenne, WY 82007-2559
 📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
-🏥 Services: Migrant health center; Primary care
+🏥 Services: Migrant health center, Primary Care, Dental
 📞 (307) 222-1803
 🌐 http://www.wyhealthworks.org
 
@@ -126,3 +126,9 @@
 🏥 Services: Mental health
 📞 (307) 686-1189
 🌐 http://www.personalfrontiers.org
+
+18. Department Of Health Wyoming
+2300 Capitol Ave, Cheyenne, WY 82001-3672
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
