@@ -865,7 +865,7 @@ HC 31 Box 310, DEER, AR, 72628
 115. Arcare Little Rock
 8924 Kanis Rd, Little Rock, AR 72205-6414
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
-🏥 Services: Ryan White HIV/AIDS Program
+🏥 Services: Ryan White HIV/AIDS Program, Mental Health
 📞 (501) 228-8130
 
 116. Arkansas Department Of Health
@@ -956,3 +956,19 @@ N 25th St, Fort Smith, AR 72901-3431
 🏥 Services: Pediatrics; Dental
 📞 (479) 751-7417
 🌐 https://www.communityclinicnwa.org
+
+129. Health Care Pharmacy
+3401 Atwood Rd, Little Rock, AR 72206-6012
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+130. Future Builder'S, Inc.
+16117 Highway 365 S, Little Rock, AR 72206-9341
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
+131. Engaging Arkansas Communities
+2801 Millbrook Rd, Little Rock, AR 72227-3037
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
