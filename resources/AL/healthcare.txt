@@ -909,3 +909,206 @@
 🏥 Services: Ryan White HIV/AIDS Program
 📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
 
+124. Cahaba Medical Care Foundation - West End / Birmingham
+1308 Tuscaloosa Ave SW, Birmingham, AL 35211-1948
+🌐 http://www.cahabamedicalcare.com
+🏥 Services: Mental Health
+📞 (205) 679-6325
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+125. Christ Health Center - Live Oaks Clinic
+5804 1st Ave S, Birmingham, AL 35212-2524
+🌐 http://www.christhealthcenter.org
+🏥 Services: Mental Health
+📞 (205) 972-0264
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+126. Health Connect America
+801 Church Street NE, Suite 6, Decatur, AL 35601
+🌐 https://www.healthconnectamerica.com
+🏥 Services: Mental Health
+📞 (256) 274-8222
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+127. Fellowship House Inc
+1625 12th Avenue South, Birmingham, AL 35205
+🌐 https://www.fshbhm.org
+🏥 Services: Mental Health
+📞 (205) 933-2430
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+128. Gateway
+1401 20th Street South, Birmingham, AL 35205
+🌐 https://www.gway.org
+🏥 Services: Mental Health
+📞 (205) 510-2600
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+129. Birmingham VA Healthcare System - Birmingham East VA East Clinic
+7901 Crestwood Boulevard, Birmingham, AL 35210
+🌐 https://www.va.gov/birmingham-health-care/locations/birmingham-east-va-clinic/
+🏥 Services: Mental Health
+📞 (205) 957-5300
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+130. Princeton Baptist Medical Center
+701 Princeton Avenue SW, Birmingham, AL 35211
+🌐 https://www.brookwoodbaptisthealth.com
+🏥 Services: Mental Health
+📞 (205) 783-3650
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+131. Hill Crest Behavioral Health Services
+6869 5th Avenue South, Birmingham, AL 35212
+🌐 https://www.hillcrestbhs.com
+🏥 Services: Mental Health
+📞 (205) 833-9000
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+132. Taproot Therapy Collective
+2025 Shady Crest Drive, 2nd Floor, Birmingham, AL 35216
+🌐 https://www.gettherapybirmingham.com/
+🏥 Services: Mental Health
+📞 (205) 598-6471
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+133. Pathway Healthcare
+48 Medical Park Drive East, Suite 453, Birmingham, AL 35235
+🌐 https://www.pathwayhealthcare.com
+🏥 Services: Mental Health
+📞 (205) 517-7730
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+134. Eastside CMHC - Jefferson County
+129 East Park Circle, Birmingham, AL 35235
+🌐 https://
+🏥 Services: Mental Health
+📞 (205) 367-0283
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+135. Central Alabama Wellness
+151 Narrows Parkway, Building 2, Birmingham, AL 35242
+🌐 https://centralalabamawellness.org/contact/
+🏥 Services: Mental Health
+📞 (205) 651-0077
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+136. Glenwood Inc - Main Campus
+150 Glenwood Lane, Birmingham, AL 35242
+🌐 https://www.glenwood.org
+🏥 Services: Mental Health
+📞 (205) 969-2880
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+137. Longleaf Recovery - Birmingham
+2441 International Park Drive, Birmingham, AL 35243
+🌐 https://www.longleafcenters.com/locations/longleaf-recovery-baldwin
+🏥 Services: Mental Health
+📞 (205) 289-1411
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+138. MHCNCA Inc - The Albany Clinic for Children
+1315 13th Avenue SE, Decatur, AL 35601
+🌐 https://www.mhcnca.org
+🏥 Services: Mental Health
+📞 (256) 260-7306
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+139. MHCNCA Inc - Decatur Morgan Counseling Center
+4110 U.S. Highway 31 South, Decatur, AL 35603
+🌐 https://www.mhcnca.org
+🏥 Services: Mental Health
+📞 (256) 260-1691
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+140. WellStone Inc
+4040 Memorial Parkway SW, Huntsville, AL 35802
+🌐 https://www.wellstone.com
+🏥 Services: Mental Health
+📞 (256) 533-1970
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+141. Care Clinic
+600 Boulevard South SW, Huntsville, AL 35802
+🌐 https://www.careclinicmd.com
+🏥 Services: Mental Health
+📞 (844) 782-6963
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+142. Birmingham VA Healthcare System - Huntsville VA Clinic
+500 Markaview Road, Huntsville, AL 35805
+🌐 https://www.va.gov/birmingham-health-care/locations/huntsville-va-clinic/
+🏥 Services: Mental Health
+📞 (205) 957-5300
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+143. Unity Psychiatric Care
+5315 Millennium Drive NW, Huntsville, AL 35806
+🌐 https://unitypsych.com
+🏥 Services: Mental Health
+📞 (256) 964-6700
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+144. RCA Foundation
+4720 Woodmere Boulevard, Montgomery, AL 36106
+🌐 https://www.rcofal.com
+🏥 Services: Mental Health
+📞 (334) 676-3773
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+145. Immanuel Counseling Services LLC - Montgomery Office
+4171 Lomac Street, Suite A3, Montgomery, AL 36106
+🌐 https://www.drdantzlercounseling.com/
+🏥 Services: Mental Health
+📞 (334) 655-1414
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+146. Central Alabama VA Healthcare System - West Campus
+215 Perry Hill Road, Montgomery, AL 36109
+🌐 https://www.va.gov/central-alabama-health-care/locations/
+🏥 Services: Mental Health
+📞 334-272-4670 x35540
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+147. Baptist Medical Center South - Crossbridge Behavioral Health
+4385 Narrow Lane Road, Montgomery, AL 36116
+🌐 https://www.Baptistfirst.org
+🏥 Services: Mental Health
+📞 (334) 747-3113
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+148. Central Alabama VA Healthcare System - Montgomery VA Clinic
+8105 Veterans Way, Montgomery, AL 36117
+🌐 https://www.va.gov/central-alabama-health-care/locations/central-alabama-montgomery-va-clinic/
+🏥 Services: Mental Health
+📞 (800) 214-8387
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+149. Family Counseling Service of - West Alabama Inc
+2020 Paul W Bryant Drive, Tuscaloosa, AL 35401
+🌐 https://www.counselingservice.org/
+🏥 Services: Mental Health
+📞 (205) 752-2504
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+150. Indian Rivers Behavioral Health - Substance Use Services
+2209 9th Street, Tuscaloosa, AL 35401
+🌐 https://www.irbh.org
+🏥 Services: Mental Health
+📞 205-391-3131 x1206
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+151. Tuscaloosa VA Medical Center - Comprehensive OP Substance Abuse Treat
+3701 Loop Road East, Building 2, Room 212-C, Tuscaloosa, AL 35404
+🌐 https://www.va.gov/tuscaloosa-health-care/locations/tuscaloosa-va-medical-center/
+🏥 Services: Mental Health
+📞 205-554-2000 x2737
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+152. Crossroads to Intervention
+1909 Bessemer Road, Birmingham, AL 35208
+🌐 https://crossroadstointervention.com
+🏥 Services: Mental Health
+📞 (205) 202-5620
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
