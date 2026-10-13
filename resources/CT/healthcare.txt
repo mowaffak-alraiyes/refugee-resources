@@ -2000,3 +2000,9 @@ DeWitt St, New Haven, CT 06519
 📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🏥 Services: Mental health
 📞 (203) 805-5300
+
+276. New Haven City Health Department
+200 Orange St, New Haven, CT 06510-2016
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
