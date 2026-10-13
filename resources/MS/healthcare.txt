@@ -1131,3 +1131,129 @@ RR 2 BOX 35C, FAYETTE, MS, 39069
 🏥 Services: Ryan White HIV/AIDS Program
 📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
 
+156. Coastal Family Health Center - Gulfport Health Center
+15024 Martin Luther King Jr Blvd, Gulfport, MS 39501-8306
+🌐 http://coastalfamilyhealth.org
+🏥 Services: Dental, Mental Health
+📞 (228) 864-0003
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+157. Refined Therapy Group
+43rd Ave, Gulfport, MS 39501-2535
+🌐 https://www.refinedtherapygroup.net/
+🏥 Services: Mental Health
+📞 (601) 215-5545
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
+158. Pine Belt Mental Health Resources - Oak Arbor
+4507 U.S. Highway 49 South, Hattiesburg, MS 39401
+🌐 https://www.clearviewrecovery.com/
+🏥 Services: Mental Health
+📞 (601) 545-2925
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+159. PBMHR Region XII - Forrest County Childrens Center
+110 Patton Avenue, Hattiesburg, MS 39401
+🌐 https://www.pbmhr.com
+🏥 Services: Mental Health
+📞 601-582-1111 x20221
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+160. Canopy Childrens Solutions - South Central Region
+124 Grand Drive, Suite 1110, Hattiesburg, MS 39401
+🌐 https://www.mycanopy.org
+🏥 Services: Mental Health
+📞 (769) 777-1630
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+161. PBMHR Region XII - Twin Oaks Senior Center
+701 West Pine Street, Hattiesburg, MS 39401
+🌐 https://www.pbmhr.org
+🏥 Services: Mental Health
+📞 (601) 545-5614
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+162. PBMHR Region XII
+103 South 19th Avenue, Hattiesburg, MS 39401
+🌐 https://www.pbmhr.com
+🏥 Services: Mental Health
+📞 (601) 544-4641
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+163. PBMHR Region XII - Crossroads Recovery Center
+15904 County Barn Road, Gulfport, MS 39503
+🌐 https://www.crossroadsrecoverycenter.org
+🏥 Services: Mental Health
+📞 (228) 213-5909
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+164. PBMHR Region XII - Crisis Stabilization Unit
+15120 County Barn Road, Gulfport, MS 39503
+🌐 https://www.pbmhr.org/
+🏥 Services: Mental Health
+📞 (228) 213-5900
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+165. PBMHR Region XII - Walthall County PSR
+4507 Highway 49 South, Hattiesburg, MS 39402
+🌐 https://www.pbmhr.org
+🏥 Services: Mental Health
+📞 (601) 545-2925
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+166. New Progressions LLC
+406 Marquis Street, Jackson, MS 39206
+🌐 https://newprogressions.com
+🏥 Services: Mental Health
+📞 (336) 254-6770
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+167. Mississippi Families for Kids
+407 Briarwood Drive, Suite 209, Jackson, MS 39206
+🌐 https://mffk.org
+🏥 Services: Mental Health
+📞 (601) 957-7670
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+168. Hinds Behavioral Health Services
+3450 Highway 80 West, Jackson, MS 39209
+🌐 https://www.hbhs9.com
+🏥 Services: Mental Health
+📞 (601) 321-2400
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+169. A Bridge to Recovery
+1437 Old Square Road, Suite 101, Jackson, MS 39211
+🌐 https://www.btrms.com
+🏥 Services: Mental Health
+📞 (601) 977-9353
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+170. Three Oaks Behavioral Health of - Ridgeland LLC
+2510 Lakeland Terrace, Suite B, Jackson, MS 39216
+🌐 https://www.threeoakshealth.com
+🏥 Services: Mental Health
+📞 (601) 991-3080
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+171. Jackson VAMC GV Sonny Montgomery
+1500 East Woodrow Wilson Avenue, Jackson, MS 39216
+🌐 https://www.va.gov/jackson-health-care/
+🏥 Services: Mental Health
+📞 601-362-4471 x56220
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+172. Imagine Behavioral Health LLC
+1920 Dunbarton Drive, Jackson, MS 39216
+🌐 https://www.imaginebh.com
+🏥 Services: Mental Health
+📞 (601) 982-5376
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
+173. University of Mississippi - Medical Center
+2500 North State Street, Jackson, MS 39216
+🌐 https://www.umc.edu
+🏥 Services: Mental Health
+📞 (601) 984-1000
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+
