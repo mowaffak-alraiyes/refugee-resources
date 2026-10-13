@@ -3541,3 +3541,8 @@ PO BOX 660299, Dallas, TX 75266-0299
 🏥 Services: Ryan White HIV/AIDS Program
 📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
 
+491. Texas Department Of Health
+1100 W 49th St, Austin, TX 78756-3126
+🏥 Services: Ryan White HIV/AIDS Program
+📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+
