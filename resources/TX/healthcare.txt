@@ -12162,3 +12162,11 @@ US-83 & Oak Hill Dr, Leakey, TX 78873
 📞 (254) 313-5792
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
+1824. TRIAD Mental Health - Youth Service Center
+6300 Chimney Rock Road, Houston, TX 77081
+🌐 https://resources.harriscountytx.gov
+🗣 Languages: Spanish
+🏥 Services: Mental Health
+📞 (713) 295-2500
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
+
