@@ -6,14 +6,12 @@
 🌐 https://www.camillushealth.org
 🏥 Services: Primary Care
 📞 305-577-4840
-🗺 https://maps.google.com/?q=25.77854,-80.20049
 
 2. FRC Children's Behavioral Clinic
 1393 SW 1 St  S.114, Miami, FL, 33135-2301
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 305-825-0300
-🗺 https://maps.google.com/?q=25.77245,-80.21776
 
 3. Mater Preparatory Academy
 601 NW 12th Ave, Miami, FL, 33136-3609
@@ -21,14 +19,12 @@
 🌐 https://www.jtchs.org
 🏥 Services: Primary Care
 📞 786-648-4580
-🗺 https://maps.google.com/?q=25.77950,-80.21455
 
 4. Lotus House Shelter
 217 NW 15th St Ste A, Miami, FL, 33136-1832
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 305-825-0300
-🗺 https://maps.google.com/?q=25.78955,-80.19923
 
 5. Care Resource Community Health Centers in Little Havana
 1800 SW 1st St, Miami, FL, 33135-1960
@@ -36,7 +32,6 @@
 🌐 https://www.careresource.org
 🏥 Services: Primary Care
 📞 305-576-1234
-🗺 https://maps.google.com/?q=25.77153,-80.22518
 
 6. Camillus House FPL Welcome Center
 1545 NW 7th Ave, Miami, FL, 33136-1403
@@ -44,14 +39,12 @@
 🌐 https://www.camillushealth.org
 🏥 Services: Primary Care
 📞 305-577-4840
-🗺 https://maps.google.com/?q=25.79048,-80.20684
 
 7. CHN MDC Medical
 950 NW 20th St Rm 1355-04, Miami, FL, 33127-4622
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 305-237-4478
-🗺 https://maps.google.com/?q=25.79461,-80.21039
 
 8. Borinquen Medical Centers at Wynwood
 2691 NE 2nd Avenue, Miami, FL, 33137-4414
@@ -59,14 +52,12 @@
 🌐 https://www.borinquenhealth.org/index.php/appointments/locations/
 🏥 Services: Primary Care
 📞 305-567-6611
-🗺 https://maps.google.com/?q=25.80267,-80.19075
 
 9. CHN MDC Padrón
 627 SW 27th Ave Rm 3210, Miami, FL, 33135-2937
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 305-237-6242
-🗺 https://maps.google.com/?q=25.76638,-80.23878
 
 10. Santa Clara Elementary School
 1051 NW 29th Ter, Miami, FL, 33127-3842
@@ -74,14 +65,12 @@
 🌐 https://www.jtchs.org
 🏥 Services: Primary Care
 📞 305-635-1417
-🗺 https://maps.google.com/?q=25.80428,-80.21233
 
 11. Mobile Unit #5: Care Resource Community Health Centers
 3510 Biscayne Blvd, Miami, FL, 33137-3840
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 305-576-1234
-🗺 https://maps.google.com/?q=25.80964,-80.18997
 
 12. MIAMI BEACH COMMUNITY HEALTH CENTER, INC.
 710 Alton Rd, Miami Beach, FL, 33139-5504
@@ -89,7 +78,6 @@
 🌐 https://miamibeachhealth.org
 🏥 Services: Primary Care
 📞 305-538-8835
-🗺 https://maps.google.com/?q=25.77722,-80.14122
 
 13. South Pointe Elementary School
 827 18th St, Vero Beach, FL, 32960-6481
@@ -97,7 +85,6 @@
 🌐 https://www.jtchs.org
 🏥 Services: Primary Care
 📞 305-531-5437
-🗺 https://maps.google.com/?q=25.77262,-80.13904
 
 14. Comstock Elementary School
 2420 NW 18th Ave, Miami, FL, 33142-7524
@@ -105,14 +92,12 @@
 🌐 https://www.jtchs.org
 🏥 Services: Primary Care
 📞 305-635-7341
-🗺 https://maps.google.com/?q=25.79929,-80.22652
 
 15. BMC Mobile Medical Vans
 3601 Federal Hwy, Miami, FL, 33137-3795
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 305-576-6611
-🗺 https://maps.google.com/?q=25.81091,-80.19062
 
 16. Mobile Medical Unit
 3733 W Flagler St, Coral Gables, FL, 33134-1601
@@ -120,7 +105,6 @@
 🌐 https://www.banyanhealth.org
 🏥 Services: Primary Care
 📞 305-774-3400
-🗺 https://maps.google.com/?q=25.77229,-80.25632
 
 17. Flagler Family Health Center
 3733 W FLAGLER ST, MIAMI, FL, 33134-1601
@@ -128,7 +112,6 @@
 🌐 https://www.banyanhealth.org
 🏥 Services: Primary Care
 📞 305-774-3400
-🗺 https://maps.google.com/?q=25.77229,-80.25632
 
 18. CRF/CSU
 3800 West Flagler St, Miami, FL, 33135-1604
@@ -136,7 +119,6 @@
 🌐 https://www.banyanhealth.org
 🏥 Services: Primary Care
 📞 305-774-3600
-🗺 https://maps.google.com/?q=25.77157,-80.25746
 
 19. Health Resource Center at Salvation Army
 1907 NW 38th St Rm 195, Miami, FL, 33142-5446
@@ -144,7 +126,6 @@
 🌐 https://camillushealth.org
 🏥 Services: Primary Care
 📞 305-577-4840
-🗺 https://maps.google.com/?q=25.81147,-80.22998
 
 20. Georgia Jones-Ayers Middle School / Allapattah Middle School
 1331 NW 46th St, Miami, FL, 33142-4143
@@ -152,7 +133,6 @@
 🌐 https://www.jtchs.org
 🏥 Services: Primary Care
 📞 305-634-9787
-🗺 https://maps.google.com/?q=25.81724,-80.21895
 
 21. Lenora Braynon Smith Elementary School
 4700 Nw 12Th Ave, Miami, FL, 33127-2299
@@ -160,7 +140,6 @@
 🌐 https://www.jtchs.org
 🏥 Services: Primary Care
 📞 305-637-1124
-🗺 https://maps.google.com/?q=25.81824,-80.21668
 
 22. Mater International Academy
 3405 NW 27th Ave, Miami, FL, 33142-5206
@@ -168,7 +147,6 @@
 🌐 https://www.jtchs.org
 🏥 Services: Primary Care
 📞 305-638-8016
-🗺 https://maps.google.com/?q=25.80766,-80.23959
 
 23. Miami Beach Senior High School
 2231 Prairie Ave, Miami Beach, FL, 33139-1517
@@ -176,7 +154,6 @@
 🌐 https://www.jtchs.org
 🏥 Services: Primary Care
 📞 305-532-4515
-🗺 https://maps.google.com/?q=25.79940,-80.13377
 
 24. COCONUT GROVE HEALTH CENTER
 3831 Grand Ave, Miami, FL, 33133-4862
@@ -184,7 +161,6 @@
 🌐 https://www.chisouthfl.org
 🏥 Services: Primary Care
 📞 305-252-4853
-🗺 https://maps.google.com/?q=25.72777,-80.25541
 
 25. Holmes Elementary School
 1175 NW 67th St, Miami, FL, 33150-4145
@@ -192,7 +168,6 @@
 🌐 https://www.jtchs.org
 🏥 Services: Primary Care
 📞 305-836-3421
-🗺 https://maps.google.com/?q=25.83579,-80.21550
 
 26. JTCHS - Dental Health Center
 5607 NW 27th Ave Ste 2, Miami, FL, 33142-2826
@@ -200,7 +175,6 @@
 🌐 https://www.jtchs.org
 🏥 Services: Primary Care
 📞 305-637-6400
-🗺 https://maps.google.com/?q=25.82641,-80.24079
 
 27. JTCHS - Jefferson Reaves House Women's Residential SA Treatment Center (24 Hour)
 2985 NW   54th St, Miami, FL, 33142-2827
@@ -208,7 +182,6 @@
 🌐 https://www.jtchs.org
 🏥 Services: Primary Care
 📞 305-637-6400
-🗺 https://maps.google.com/?q=25.82412,-80.24446
 
 28. Kiva
 1339 SE 9th Ave, Hialeah, FL, 33010-5907
@@ -216,7 +189,6 @@
 🌐 https://www.citrushealth.com
 🏥 Services: Primary Care
 📞 305-884-1382
-🗺 https://maps.google.com/?q=25.81130,-80.26234
 
 29. Liberty City Elementary School
 1855 NW 71st St, Miami, FL, 33147-6334
@@ -224,14 +196,12 @@
 🌐 https://www.jtchs.org
 🏥 Services: Primary Care
 📞 305-691-8532
-🗺 https://maps.google.com/?q=25.83909,-80.22719
 
 30. BMC Carrie Meek Center
 7801 NE 2nd Ave, Miami, FL, 33138-4804
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 305-576-6611
-🗺 https://maps.google.com/?q=25.84666,-80.19250
 
 31. Arcola Lake Elementary
 1037 NW   81st St, Miami, FL, 33150-2738
@@ -239,7 +209,6 @@
 🌐 https://www.jtchs.org
 🏥 Services: Primary Care
 📞 305-836-2820
-🗺 https://maps.google.com/?q=25.84945,-80.21458
 
 32. Treasure Island Elementary School
 7540 E Treasure Dr, North Bay Village, FL, 33141-4324
@@ -247,14 +216,12 @@
 🌐 https://www.jtchs.org
 🏥 Services: Primary Care
 📞 305-865-3141
-🗺 https://maps.google.com/?q=25.84658,-80.14668
 
 33. Empower U Community Health Center Testing Van
 7900 NW 27th Ave, Miami, FL, 33147-4909
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 786-318-2337
-🗺 https://maps.google.com/?q=25.84642,-80.24398
 
 34. Dr. Henry W. Mack/West Little River K-8 Center
 2450 NW 84th St, Miami, FL, 33147-4100
@@ -262,28 +229,24 @@
 🌐 https://www.jtchs.org
 🏥 Services: Primary Care
 📞 305-691-6491
-🗺 https://maps.google.com/?q=25.85034,-80.23785
 
 35. Palm Center Homeless Support Services Site
 150 E 1st Ave Ste 103-105, Hialeah, FL, 33010-4962
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 305-572-7123
-🗺 https://maps.google.com/?q=25.82321,-80.27939
 
 36. Hialeah Skills Suite 107
 240 E    1st Ave STE 107, Hialeah, FL, 33010-4923
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 305-888-3398
-🗺 https://maps.google.com/?q=25.82406,-80.27942
 
 37. Palm Center Outpatient
 240 E    1st Ave STE 115, Hialeah, FL, 33010-4923
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 305-888-1982
-🗺 https://maps.google.com/?q=25.82407,-80.27959
 
 38. Palm Center Clinic
 60 East 3rd Street STE 102/105, Hialeah, FL, 33010-4965
@@ -291,7 +254,6 @@
 🌐 https://unkn
 🏥 Services: Primary Care
 📞 305-888-3398
-🗺 https://maps.google.com/?q=25.82448,-80.28018
 
 39. Beverly Press Health Center
 1221 71st St, Miami Beach, FL, 33141-3647
@@ -299,7 +261,6 @@
 🌐 https://miamibeachhealth.org
 🏥 Services: Primary Care
 📞 305-538-8835
-🗺 https://maps.google.com/?q=25.85469,-80.13202
 
 40. Van E Blanton Elementary
 10327 NW   11th Ave, Miami, FL, 33150-1021
@@ -307,7 +268,6 @@
 🌐 https://www.jtchs.org
 🏥 Services: Primary Care
 📞 305-637-6400
-🗺 https://maps.google.com/?q=25.87015,-80.21560
 
 41. Henry E. S. Reeves K-8 Center Primary Academy
 2225 NW  103rd St, Miami, FL, 33147-1746
@@ -315,7 +275,6 @@
 🌐 https://www.jtchs.org
 🏥 Services: Primary Care
 📞 305-691-6361
-🗺 https://maps.google.com/?q=25.86927,-80.23562
 
 42. Biscayne Beach Elementary School
 800 77th St, Miami Beach, FL, 33141-2209
@@ -323,7 +282,6 @@
 🌐 https://www.jtchs.org
 🏥 Services: Primary Care
 📞 305-868-7727
-🗺 https://maps.google.com/?q=25.86198,-80.12678
 
 43. MBCHC North Suite 404
 11645 Biscayne Blvd Ste 404, Miami, FL, 33181-3139
@@ -331,14 +289,12 @@
 🌐 https://miamibeachhealth.org
 🏥 Services: Primary Care
 📞 305-538-8835
-🗺 https://maps.google.com/?q=25.88311,-80.16574
 
 44. CHN MDC North
 11380 NW 27th Ave Rm 6109, Miami, FL, 33167-3418
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 305-237-1444
-🗺 https://maps.google.com/?q=25.87794,-80.24566
 
 45. HENRY H. FILER MIDDLE SCHOOL
 531 W   29th St, Hialeah, FL, 33012-5711
@@ -346,7 +302,6 @@
 🌐 https://unkn
 🏥 Services: Primary Care
 📞 305-822-6601
-🗺 https://maps.google.com/?q=25.84848,-80.29334
 
 46. Borinquen North Miami Medical Center
 708 NE  125th St, North Miami, FL, 33161-5612
@@ -354,7 +309,6 @@
 🌐 https://www.borinquenhealth.org
 🏥 Services: Primary Care
 📞 305-576-6611
-🗺 https://maps.google.com/?q=25.89014,-80.18424
 
 47. MAE WALTERS ELEMENTARY SBHC
 650 W   33rd St, Hialeah, FL, 33012-5113
@@ -362,7 +316,6 @@
 🌐 https://unkn
 🏥 Services: Primary Care
 📞 305-822-4600
-🗺 https://maps.google.com/?q=25.85124,-80.29535
 
 48. North Miami Dental Clinic
 12601 NE 7th Ave, North Miami, FL, 33161-4813
@@ -370,7 +323,6 @@
 🌐 https://www.borinquenhealth.org/index.php/appointments/locations/
 🏥 Services: Primary Care
 📞 305-567-6611 x7200
-🗺 https://maps.google.com/?q=25.89170,-80.18447
 
 49. W.J. Bryan Elementary School
 1201 NE 125th St, North Miami, FL, 33161-5953
@@ -378,14 +330,12 @@
 🌐 https://wjbryanmagnet.net/
 🏥 Services: Primary Care
 📞 305-651-3155
-🗺 https://maps.google.com/?q=25.89086,-80.17336
 
 50. Early Childhood Development
 8200 NW 33rd St Ste 102, Doral, FL, 33122-1942
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 305-424-3043
-🗺 https://maps.google.com/?q=25.80428,-80.33006
 
 51. The SEED School of Miami
 1901 NW 127th St Rm 008, Miami, FL, 33167-1425
@@ -393,7 +343,6 @@
 🌐 https://miami.seedschool.org/
 🏥 Services: Primary Care
 📞 855-818-7333
-🗺 https://maps.google.com/?q=25.89027,-80.23225
 
 52. Ruth K Broad / Bay Harbor K-8 Center
 1155 93rd St, Bay Harbor Islands, FL, 33154-2399
@@ -401,14 +350,12 @@
 🌐 https://www.jtchs.org
 🏥 Services: Primary Care
 📞 305-865-7912
-🗺 https://maps.google.com/?q=25.88414,-80.13242
 
 53. Hialeah Middle School
 6027 E 7th Ave, Hialeah, FL, 33013-1127
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 305-681-3527
-🗺 https://maps.google.com/?q=25.87762,-80.26848
 
 54. Benjamin Franklin K-8 Center
 13100 NW 12th Ave, North Miami, FL, 33168-6614
@@ -416,14 +363,12 @@
 🌐 https://www.jtchs.org
 🏥 Services: Primary Care
 📞 305-681-3547
-🗺 https://maps.google.com/?q=25.89512,-80.21923
 
 55. Rockaway Elementary School
 2790 SW 93rd Ct, Miami, FL, 33165-3144
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 305-221-1192
-🗺 https://maps.google.com/?q=25.74404,-80.34637
 
 56. Maternal and Child Health Center Parking Lot
 545 W 51st Pl, Hialeah, FL, 33012-3619
@@ -431,7 +376,6 @@
 🌐 https://www.citrushealth.org
 🏥 Services: Primary Care
 📞 305-825-0300
-🗺 https://maps.google.com/?q=25.86905,-80.29323
 
 57. Nathan B. Young Elementary School
 14120 NW 24th Ave, Opa Locka, FL, 33054-3729
@@ -439,14 +383,12 @@
 🌐 https://www.jtchs.org
 🏥 Services: Primary Care
 📞 305-685-7204
-🗺 https://maps.google.com/?q=25.90408,-80.23970
 
 58. Clubhouse Day by Day Expansion
 6500 West 4th Ave  STE 27 &amp; 28, Hialeah, FL, 33012-6606
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 305-825-0300
-🗺 https://maps.google.com/?q=25.88150,-80.29157
 
 59. JTCHS - Opa Locka Youth and Children's Wellness Center
 490 Opa Locka Blvd Ste 100, Opa Locka, FL, 33054-3563
@@ -454,7 +396,6 @@
 🌐 https://www.jtchs.org
 🏥 Services: Primary Care
 📞 305-637-6400
-🗺 https://maps.google.com/?q=25.90217,-80.25108
 
 60. CITRUS MED
 4125 W   20th Ave, Hialeah, FL, 33012-5874
@@ -462,7 +403,6 @@
 🌐 https://www.citrushealth.com
 🏥 Services: Primary Care
 📞 305-424-3120
-🗺 https://maps.google.com/?q=25.85921,-80.32187
 
 61. CITRUS HEALTH NETWORK, INC.
 4175 W   20th Ave, Hialeah, FL, 33012-5874
@@ -470,7 +410,6 @@
 🌐 https://www.citrushealth.com
 🏥 Services: Primary Care
 📞 305-825-0300
-🗺 https://maps.google.com/?q=25.85976,-80.32164
 
 62. John G. Dupuis Elementary School
 1150 W   59th Pl, Hialeah, FL, 33012-2309
@@ -478,21 +417,18 @@
 🌐 https://unkn
 🏥 Services: Primary Care
 📞 305-821-6361
-🗺 https://maps.google.com/?q=25.87606,-80.30615
 
 63. BMC Sweetwater/West Dade Center
 10528-10530 S. W. 8th Street, Miami, FL, 33174-2602
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 305-576-6611
-🗺 https://maps.google.com/?q=25.76082,-80.36661
 
 64. Embrace clinic
 1645 SW 107th Ave Ste 114A, Miami, FL, 33165-7344
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 305-825-0300
-🗺 https://maps.google.com/?q=25.75290,-80.36794
 
 65. Bunche Park Elementary School
 16001 Bunche Park School Dr, Opa Locka, FL, 33054-6999
@@ -500,7 +436,6 @@
 🌐 https://www.jtchs.org
 🏥 Services: Primary Care
 📞 305-621-1469
-🗺 https://maps.google.com/?q=25.92031,-80.23822
 
 66. Center for Family and Child Enrichment
 1825 NW  167th St, Miami Gardens, FL, 33056-4838
@@ -508,7 +443,6 @@
 🌐 https://www.cfceinc.org
 🏥 Services: Primary Care
 📞 305-474-1803
-🗺 https://maps.google.com/?q=25.92764,-80.23109
 
 67. Golden Glades Elementary School
 16520 NW 28th Ave, Opa Locka, FL, 33054-6493
@@ -516,14 +450,12 @@
 🌐 https://www.jtchs.org
 🏥 Services: Primary Care
 📞 305-624-9641
-🗺 https://maps.google.com/?q=25.92502,-80.24750
 
 68. Palm Lakes Elementary School
 7450 West 16 Ave, Hialeah, FL, 33014-3832
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://unkn
 🏥 Services: Primary Care
-🗺 https://maps.google.com/?q=25.89031,-80.31675
 
 69. Scott Lake Elementary School
 1160 NW 175th St, Miami, FL, 33169-4600
@@ -531,7 +463,6 @@
 🌐 https://www.jtchs.org
 🏥 Services: Primary Care
 📞 305-624-1443
-🗺 https://maps.google.com/?q=25.93390,-80.21974
 
 70. Marjory Stoneman Douglas Elementary School (3-5)
 11901 SW 2nd St, Miami, FL, 33184-1601
@@ -539,14 +470,12 @@
 🌐 https://www.chisouthfl.org
 🏥 Services: Primary Care
 📞 305-229-4920
-🗺 https://maps.google.com/?q=25.76688,-80.38942
 
 71. CHN MDC West
 3800 NW 115th Ave Rm 2114-05, Doral, FL, 33178-4856
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 305-237-8947
-🗺 https://maps.google.com/?q=25.80834,-80.38456
 
 72. South Wood Middle School
 16301 SW 80th Ave, Palmetto Bay, FL, 33157-3730
@@ -554,7 +483,6 @@
 🌐 https://www.chisouthfl.org
 🏥 Services: Primary Care
 📞 305-251-5361
-🗺 https://maps.google.com/?q=25.61953,-80.32207
 
 73. MIAMI LAKES MIDDLE SCHOOL SBHC
 6425 Miami Lakeway N, Hialeah, FL, 33014-6643
@@ -562,21 +490,18 @@
 🌐 https://unkn
 🏥 Services: Primary Care
 📞 305-557-3900
-🗺 https://maps.google.com/?q=25.91802,-80.30585
 
 74. CHN MDC Kendall
 11011 SW 104th St Rm R200, Miami, FL, 33176-3330
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 305-237-0712
-🗺 https://maps.google.com/?q=25.67286,-80.37683
 
 75. Crestview Elementary School
 2201 NW 187th St, Miami Gardens, FL, 33056-3271
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 305-624-1495
-🗺 https://maps.google.com/?q=25.94612,-80.23862
 
 76. Norland Middle School
 1235 NW 192nd Ter, Miami, FL, 33169-3441
@@ -584,7 +509,6 @@
 🌐 https://www.jtchs.org
 🏥 Services: Primary Care
 📞 305-653-1210
-🗺 https://maps.google.com/?q=25.95055,-80.22321
 
 77. Zora Neale Hurston Elementary
 13137 SW 26TH ST, MIAMI, FL, 33175-1817
@@ -592,7 +516,6 @@
 🌐 https://www.chisouthfl.org
 🏥 Services: Primary Care
 📞 305-222-8152
-🗺 https://maps.google.com/?q=25.74610,-80.40652
 
 78. Carol City Middle School
 3737 NW 188th St, Miami Gardens, FL, 33055-2856
@@ -600,7 +523,6 @@
 🌐 https://www.jtchs.org
 🏥 Services: Primary Care
 📞 305-624-2652
-🗺 https://maps.google.com/?q=25.94530,-80.26236
 
 79. Dr. Henry E. Perrine Academy of the Arts
 8851 SW 168th St, Palmetto Bay, FL, 33157-4549
@@ -608,7 +530,6 @@
 🌐 https://www.chisouthfl.org
 🏥 Services: Primary Care
 📞 305-235-2442
-🗺 https://maps.google.com/?q=25.61538,-80.33586
 
 80. Royal Green Elementary
 13047 SW   47th St, Miami, FL, 33175-4517
@@ -616,7 +537,6 @@
 🌐 https://www.chisouthfl.org
 🏥 Services: Primary Care
 📞 305-251-5361
-🗺 https://maps.google.com/?q=25.72230,-80.40551
 
 81. BARBARA GOLEMAN SENIOR HS SBHC
 14100 NW 89th Ave, Hialeah, FL, 33018-1384
@@ -624,7 +544,6 @@
 🌐 https://unkn
 🏥 Services: Primary Care
 📞 305-362-0676
-🗺 https://maps.google.com/?q=25.90123,-80.34577
 
 82. Dorothy M. Wallace COPE Center
 10225 SW  147th Ter, Miami, FL, 33176-7744
@@ -632,7 +551,6 @@
 🌐 https://www.chisouthfl.org
 🏥 Services: Primary Care
 📞 305-253-8073
-🗺 https://maps.google.com/?q=25.63300,-80.35865
 
 83. Miami Gardens Elementary School
 4444 NW 195th St, Miami Gardens, FL, 33055-2199
@@ -640,7 +558,6 @@
 🌐 https://www.jtchs.org
 🏥 Services: Primary Care
 📞 305-625-5321
-🗺 https://maps.google.com/?q=25.94996,-80.27518
 
 84. Andover Middle School
 121 NE 207th St, Miami Gardens, FL, 33179-1733
@@ -648,7 +565,6 @@
 🌐 https://www.jtchs.org
 🏥 Services: Primary Care
 📞 305-654-2727
-🗺 https://maps.google.com/?q=25.96563,-80.19952
 
 85. American Senior High School
 18350 NW 67th Ave, Hialeah, FL, 33015-3403
@@ -656,7 +572,6 @@
 🌐 https://americanshs.net/
 🏥 Services: Primary Care
 📞 305-557-3770
-🗺 https://maps.google.com/?q=25.93961,-80.30695
 
 86. Charles David Wyche Jr. Elementary School
 5241 NW 195th Dr, Miami Gardens, FL, 33055-6186
@@ -664,7 +579,6 @@
 🌐 https://www.jtchs.org
 🏥 Services: Primary Care
 📞 305-628-5776
-🗺 https://maps.google.com/?q=25.95008,-80.28765
 
 87. JTCHS Barbara J. Jordan Community Health and Wellness Center
 20612 NW 27TH AVE, Miami Gardens, FL, 33056-1469
@@ -672,7 +586,6 @@
 🌐 https://www.jtchs.org
 🏥 Services: Primary Care
 📞 305-637-6400
-🗺 https://maps.google.com/?q=25.96291,-80.24787
 
 88. North County K-8 Center
 3250 NW 207th St, Miami Gardens, FL, 33056-1379
@@ -680,7 +593,6 @@
 🌐 https://www.jtchs.org
 🏥 Services: Primary Care
 📞 305-624-9648
-🗺 https://maps.google.com/?q=25.96401,-80.25479
 
 89. Dr. Frederica S. Wilson / Skyway Elementary School
 4555 NW 206th Terrace, Miami Gardens, FL, 33055-1299
@@ -688,7 +600,6 @@
 🌐 https://www.jtchs.org
 🏥 Services: Primary Care
 📞 305-621-5838
-🗺 https://maps.google.com/?q=25.96241,-80.27727
 
 90. Robert Russa Moton Elementary
 18050 HOMESTEAD AVE, PERRINE, FL, 33157-5529
@@ -696,7 +607,6 @@
 🌐 https://www.chisouthfl.org
 🏥 Services: Primary Care
 📞 305-238-9520
-🗺 https://maps.google.com/?q=25.60216,-80.35587
 
 91. WEST PERRINE HEALTH CENTER
 18225 HOMESTEAD AVE, PERRINE, FL, 33157
@@ -704,7 +614,6 @@
 🌐 https://www.chisouthfl.org
 🏥 Services: Primary Care
 📞 305-234-7676
-🗺 https://maps.google.com/?q=25.59977,-80.35609
 
 92. GULFSTREAM RACE TRACK--HOMELESS
 901 S Federal Hwy, Hallandale Beach, FL, 33009-7124
@@ -712,7 +621,6 @@
 🌐 https://Http://www.mhs.net
 🏥 Services: Primary Care
 📞 954-593-2275
-🗺 https://maps.google.com/?q=25.97806,-80.13881
 
 93. JANE ROBERTS ELEMENTARY K-8
 14850 Cottonwood Cir, Miami, FL, 33185-4074
@@ -720,7 +628,6 @@
 🌐 https://www.chisouthfl.org
 🏥 Services: Primary Care
 📞 305-220-8254 x113
-🗺 https://maps.google.com/?q=25.71651,-80.43321
 
 94. BROWARD COMMUNITY AND FAMILY HEALTH CENTER-WEST PARK
 5800 W Hallandale Beach Blvd, West Park, FL, 33023-5244
@@ -728,7 +635,6 @@
 🌐 https://www.bcfhc.org
 🏥 Services: Primary Care
 📞 954-966-3939
-🗺 https://maps.google.com/?q=25.98425,-80.20318
 
 95. Cutler Bay Middle School
 19400 Gulfstream Rd, Cutler Bay, FL, 33157-8658
@@ -736,7 +642,6 @@
 🌐 https://www.chisouthfl.org
 🏥 Services: Primary Care
 📞 305-235-4761
-🗺 https://maps.google.com/?q=25.58824,-80.34813
 
 96. Lawton Chiles Middle School
 8190 NW 197th St., Miami, FL, 33015-6369
@@ -744,7 +649,6 @@
 🌐 https://www.jtchs.org
 🏥 Services: Primary Care
 📞 305-816-9101
-🗺 https://maps.google.com/?q=25.95071,-80.33432
 
 97. Memorial Primary Care Hallandale Clinic
 1750 E Hallandale Beach Blvd, Hallandale Beach, FL, 33009-4611
@@ -752,7 +656,6 @@
 🌐 https://Http://www.mhs.net
 🏥 Services: Primary Care
 📞 954-276-9553
-🗺 https://maps.google.com/?q=25.98468,-80.13053
 
 98. West Kendall Health Center
 13540 SW 135TH AVE, MIAMI, FL, 33186-6184
@@ -760,14 +663,12 @@
 🌐 https://www.chisouthfl.org
 🏥 Services: Primary Care
 📞 305-252-4853
-🗺 https://maps.google.com/?q=25.64179,-80.41340
 
 99. Hammocks Health Center
 14591 SW 120th St, Miami, FL, 33186-8638
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 305-252-4853
-🗺 https://maps.google.com/?q=25.65685,-80.42954
 
 100. Dante B. Fascell Elementary School
 15626 SW 80th St, Miami, FL, 33193-2628
@@ -775,7 +676,6 @@
 🌐 https://www.chisouthfl.org
 🏥 Services: Primary Care
 📞 305-380-1901 x8119
-🗺 https://maps.google.com/?q=25.69236,-80.44565
 
 101. John Ferguson Senior High School
 15900 SW   56th St, Miami, FL, 33185-3880
@@ -783,14 +683,12 @@
 🌐 https://www.chisouthfl.org
 🏥 Services: Primary Care
 📞 305-408-2700
-🗺 https://maps.google.com/?q=25.71279,-80.45179
 
 102. BCOM Dental Mobile Unit
 5012 Hollywood Blvd, Hollywood, FL, 33021-6549
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 954-970-7067
-🗺 https://maps.google.com/?q=26.01007,-80.19439
 
 103. Irving & Beatrice Peskoe K-8 Center
 29035 SW 144th Ave, Homestead, FL, 33033-2903
@@ -798,7 +696,6 @@
 🌐 https://www.chisouthfl.org
 🏥 Services: Primary Care
 📞 305-242-8340
-🗺 https://maps.google.com/?q=25.49677,-80.42460
 
 104. SOUTH DADE HEALTH CENTER
 13600 SW  312th St, Homestead, FL, 33033-5500
@@ -806,7 +703,6 @@
 🌐 https://www.chisouthfl.org
 🏥 Services: Primary Care
 📞 305-242-6069
-🗺 https://maps.google.com/?q=25.47740,-80.40989
 
 105. Campbell Drive K-8 Center
 15790 SW  307th St, Homestead, FL, 33033-4200
@@ -814,7 +710,6 @@
 🌐 https://www.chisouthfl.org
 🏥 Services: Primary Care
 📞 786-243-9161
-🗺 https://maps.google.com/?q=25.48153,-80.44585
 
 106. Bernard P. Alicki Health Center
 1101 W Broward Blvd, Fort Lauderdale, FL, 33312-1638
@@ -822,21 +717,18 @@
 🌐 https://WWW.BROWARDHEALTH.ORG/BODY.CFM?ID=846
 🏥 Services: Primary Care
 📞 954-527-6042
-🗺 https://maps.google.com/?q=26.12264,-80.15647
 
 107. Comprehensive Care Center
 1101 NW 1st Street  STE 1A, Ft Lauderdale, FL, 33311-8905
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 954-467-0880
-🗺 https://maps.google.com/?q=26.12292,-80.15655
 
 108. Clinica de las Americas
 1101 NW 1st St, Ft Lauderdale, FL, 33311-8905
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 954-761-1020
-🗺 https://maps.google.com/?q=26.12292,-80.15655
 
 109. Gateway Environmental K-8 Learning Center
 955 SE 18TH AVE, HOMESTEAD, FL, 33035-1901
@@ -844,7 +736,6 @@
 🌐 https://www.chisouthfl.org
 🏥 Services: Primary Care
 📞 305-257-6000
-🗺 https://maps.google.com/?q=25.46323,-80.45012
 
 110. Homestead Middle
 650 NW    2nd Ave, Homestead, FL, 33030-5809
@@ -852,7 +743,6 @@
 🌐 https://www.chisouthfl.org
 🏥 Services: Primary Care
 📞 305-247-4221
-🗺 https://maps.google.com/?q=25.47638,-80.48186
 
 111. Redondo Elementary
 18480 SW  304th St, Homestead, FL, 33030-3915
@@ -860,7 +750,6 @@
 🌐 https://www.chisouthfl.org
 🏥 Services: Primary Care
 📞 305-247-5943
-🗺 https://maps.google.com/?q=25.48380,-80.49134
 
 112. MARTIN LUTHER KING JR. CLINICA CAMPESINA
 810 W Mowry Dr, Homestead, FL, 33030-5746
@@ -868,7 +757,6 @@
 🌐 https://www.chisouthfl.org
 🏥 Services: Primary Care
 📞 305-248-4334
-🗺 https://maps.google.com/?q=25.46928,-80.48786
 
 113. Lauderdale Lakes Health Center
 3716 W Oakland Park Blvd, Lauderdale Lakes, FL, 33311-1134
@@ -884,7 +772,6 @@
 🌐 https://www.browardhealth.org/health-resources/broward-healthpoint
 🏥 Services: Primary Care
 📞 954-759-7599
-🗺 https://maps.google.com/?q=26.16518,-80.19830
 
 115. West Homestead K-8 Center
 1550 SW    6th St, Homestead, FL, 33030-6711
@@ -892,14 +779,12 @@
 🌐 https://www.chisouthfl.org
 🏥 Services: Primary Care
 📞 305-248-0812
-🗺 https://maps.google.com/?q=25.46397,-80.49534
 
 116. Care Resource Community Health Center, Inc at Oakland Park
 3160 Powerline Rd, Oakland Park, FL, 33309-5911
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 954-567-7141
-🗺 https://maps.google.com/?q=26.16686,-80.15424
 
 117. Florida City Elementary
 364 NW    6th Ave, Florida City, FL, 33034-3216
@@ -907,7 +792,6 @@
 🌐 https://www.chisouthfl.org
 🏥 Services: Primary Care
 📞 305-247-4676
-🗺 https://maps.google.com/?q=25.45195,-80.48565
 
 118. MARTIN L. KING, JR.- ANNEX
 820 SW 1st St, Homestead, FL, 33034-4602
@@ -915,14 +799,12 @@
 🌐 https://www.chisouthfl.org
 🏥 Services: Primary Care
 📞 305-248-4334
-🗺 https://maps.google.com/?q=25.44675,-80.48980
 
 119. ChildNet Citrus Behavioral Services
 1100 W McNab Rd, Fort Lauderdale, FL, 33309-1116
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 305-825-0300
-🗺 https://maps.google.com/?q=26.21061,-80.15807
 
 120. BROWARD COMMUNITY & FAMILY HEALTH CENTER-POMPANO MEDICAL
 168 N Powerline Rd, Pompano Beach, FL, 33069-5713
@@ -930,35 +812,30 @@
 🌐 https://www.bcfhc.org
 🏥 Services: Primary Care
 📞 954-970-8805
-🗺 https://maps.google.com/?q=26.23312,-80.15643
 
 121. Pompano Prenatal and Pediatric Care Center
 601 W Atlantic Blvd, Pompano Beach, FL, 33060-5916
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 954-785-4273
-🗺 https://maps.google.com/?q=26.23214,-80.13061
 
 122. Margate Women's Center
 2131 N State Road 7, Margate, FL, 33063-5713
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 954-554-3930
-🗺 https://maps.google.com/?q=26.25546,-80.20210
 
 123. Mobile Health Center 2
 201 E Sample Rd, Deerfield Beach, FL, 33064-3502
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 954-941-8300
-🗺 https://maps.google.com/?q=26.27695,-80.12097
 
 124. Genesis Community Health- Boca Medical
 600 S Dixie Hwy Ste 103, Boca Raton, FL, 33432-6034
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 561-430-3629
-🗺 https://maps.google.com/?q=26.34402,-80.08864
 
 125. Health Care District Community Health Center – Boca Raton
 9960 S Central Park Blvd  STE 450, Boca Raton, FL, 33428
@@ -966,7 +843,6 @@
 🌐 https://www.hcdpbc.org/for-patients/primary-care-clinics
 🏥 Services: Primary Care
 📞 561-642-1000
-🗺 https://maps.google.com/?q=26.35525,-80.20094
 
 126. GCH Dental Center- Boca Raton
 181 Crawford Blvd, Bottom Floor, Boca Raton, FL, 33432
@@ -974,7 +850,6 @@
 🌐 https://www.gencomhealth.org
 🏥 Services: Primary Care
 📞 561-235-5477
-🗺 https://maps.google.com/?q=26.35206,-80.09195
 
 127. Genesis Community Health- Atlantic Community High School SBHC
 2455 W Atlantic Ave, Delray Beach, FL, 33445-4425
@@ -982,7 +857,6 @@
 🌐 https://www.gencomhealth.org
 🏥 Services: Primary Care
 📞 561-266-0961
-🗺 https://maps.google.com/?q=26.45935,-80.09634
 
 128. Key Largo Health Center
 228 Atlantic Blvd, Key Largo, FL, 33037-4331
@@ -990,14 +864,12 @@
 🌐 https://www.chisouthfl.org
 🏥 Services: Primary Care
 📞 305-252-4820
-🗺 https://maps.google.com/?q=25.09248,-80.44082
 
 129. FoundCare Boynton Beach
 1901 S Congress Ave Ste 100, Boynton Beach, FL, 33426-6556
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 561-274-6400
-🗺 https://maps.google.com/?q=26.51136,-80.09107
 
 130. Genesis Community Health at Boynton Beach Community High SBHC
 4975 Park Ridge Blvd, Boynton Beach, FL, 33426-8318
@@ -1005,7 +877,6 @@
 🌐 https://www.gencomhealth.org
 🏥 Services: Primary Care
 📞 561-752-1237
-🗺 https://maps.google.com/?q=26.54160,-80.08310
 
 131. FoundCare Mobile Unit1
 5867 Okeechobee Blvd, West Palm Beach, FL, 33417-4300
@@ -1013,14 +884,12 @@
 🌐 https://www.foundcare.org
 🏥 Services: Primary Care
 📞 561-848-8701
-🗺 https://maps.google.com/?q=26.70815,-80.13420
 
 132. FoundCare -Yolette Bonnet Center
 5867 Okeechobee Blvd, West Palm Beach, FL, 33417-4344
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 561-432-5849
-🗺 https://maps.google.com/?q=26.70815,-80.13420
 
 133. FAU/NCHA U.B. Kinsey Community Health Center
 720 8th St, West Palm Beach, FL, 33401-3606
@@ -1028,21 +897,18 @@
 🌐 https://www.fau.edu/nursing
 🏥 Services: Primary Care
 📞 561-557-2052
-🗺 https://maps.google.com/?q=26.72061,-80.05921
 
 134. FAU/NCHA at Vita Nova
 2724 N Australian Ave, West Palm Beach, FL, 33407-4501
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 561-803-8880
-🗺 https://maps.google.com/?q=26.73833,-80.06789
 
 135. FoundCare - Corporate Way
 5730 Corporate Way Ste 100, West Palm Beach, FL, 33407-2032
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 561-432-5849
-🗺 https://maps.google.com/?q=26.76272,-80.09050
 
 136. Florida Community Health Centers, Inc.
 5827 Corporate Way, West Palm Beach, FL, 33407-2000
@@ -1050,7 +916,6 @@
 🌐 https://www.fchcinc.org
 🏥 Services: Primary Care
 📞 561-612-6524
-🗺 https://maps.google.com/?q=26.76309,-80.09189
 
 137. FoundCare Belle Glade
 1500 NW Avenue L, Belle Glade, FL, 33430-1729
@@ -1058,7 +923,6 @@
 🌐 https://www.foundcare.org
 🏥 Services: Primary Care
 📞 561-996-7059
-🗺 https://maps.google.com/?q=26.69641,-80.68275
 
 138. FoundCare Riviera Beach
 3501 Broadway, Riviera Beach, FL, 33404-2331
@@ -1066,7 +930,6 @@
 🌐 https://foundcare.org/
 🏥 Services: Primary Care
 📞 561-472-9160
-🗺 https://maps.google.com/?q=26.79065,-80.05463
 
 139. FoundCare - North Palm Beach
 840 US Highway 1 Ste 120, North Palm Beach, FL, 33408-3858
@@ -1074,14 +937,12 @@
 🌐 https://www.foundcare.org
 🏥 Services: Primary Care
 📞 561-432-5849
-🗺 https://maps.google.com/?q=26.82377,-80.05970
 
 140. HN Peds Ave Maria
 5360 Ave Maria Blvd, Suite 120, Ave Maria, FL, 34142-9790
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 239-658-3000
-🗺 https://maps.google.com/?q=26.32233,-81.43929
 
 141. Healthcare Network Community Medical Care Center
 125 Boston Ave, Immokalee, FL, 34142-4017
@@ -1089,7 +950,6 @@
 🌐 https://www.HealthcareSWFL.org
 🏥 Services: Primary Care
 📞 239-658-3000
-🗺 https://maps.google.com/?q=26.41692,-81.41772
 
 142. Immokalee Family Care Center
 508 N 9th St STE 142, Immokalee, FL, 34142
@@ -1097,7 +957,6 @@
 🌐 https://www.collier.org
 🏥 Services: Primary Care
 📞 239-657-6363
-🗺 https://maps.google.com/?q=26.42696,-81.42494
 
 143. Healthcare Network Van Domelen Health Express
 1454 Madison Ave W  UNIT 3, Immokalee, FL, 34142
@@ -1105,14 +964,12 @@
 🌐 https://www.HealthcareSWFL.org
 🏥 Services: Primary Care
 📞 239-658-3000
-🗺 https://maps.google.com/?q=26.44273,-81.43195
 
 144. Healthcare Network - Mobile Outreach 1
 1454 Madison Ave W, Immokalee, FL, 34142-2200
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 239-658-3000
-🗺 https://maps.google.com/?q=26.44273,-81.43195
 
 145. CHS-FSU Primary Care
 1441 HERITAGE BLVD, IMMOKALEE, FL, 34142-2260
@@ -1120,14 +977,12 @@
 🌐 https://WWW.COLLIER.ORG
 🏥 Services: Primary Care
 📞 239-658-3000
-🗺 https://maps.google.com/?q=26.44435,-81.43240
 
 146. Marathon Health Center
 2805 Overseas Highway, Marathon, FL, 33050
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 305-743-4000
-🗺 https://maps.google.com/?q=24.70993,-81.09823
 
 147. Healthcare Network Manatee Middle
 1920 Manatee Rd, Naples, FL, 34114-8340
@@ -1135,14 +990,12 @@
 🌐 https://www.HealthcareSWFL.org
 🏥 Services: Primary Care
 📞 239-658-3000
-🗺 https://maps.google.com/?q=26.04562,-81.67876
 
 148. Nichols Community Health Center
 12655 Collier Blvd, Naples, FL, 34116
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 239-658-3000
-🗺 https://maps.google.com/?q=26.20091,-81.68824
 
 149. Countryside Dental
 1749 Heritage Trail STE 801, Naples, FL, 34112
@@ -1150,35 +1003,30 @@
 🌐 https://www.collier.org
 🏥 Services: Primary Care
 📞 239-774-1850
-🗺 https://maps.google.com/?q=26.13765,-81.73573
 
 150. Children's Care East
 6350 Davis Blvd  STE 1001, Naples, FL, 34104-5323
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 239-658-3000
-🗺 https://maps.google.com/?q=26.13829,-81.73561
 
 151. Friendship Health Center
 2355 Stanford Ct # 701, Naples, FL, 34112-4813
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 239-658-3016
-🗺 https://maps.google.com/?q=26.13099,-81.76719
 
 152. Nichols Pediatric Center
 240 E    1st Ave STE 105, Hialeah, FL, 33010-4923
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 239-658-3000
-🗺 https://maps.google.com/?q=26.21231,-81.76509
 
 153. Healthcare Network Cordero Pediatrics
 1090 6th Ave N, Naples, FL, 34102-5604
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 239-658-3000
-🗺 https://maps.google.com/?q=26.15430,-81.79316
 
 154. LaBelle Health Center
 169 W Hickpochee Ave, Labelle, FL, 33935-4753
@@ -1186,7 +1034,6 @@
 🌐 http://www.fhcswfl.org
 🏥 Services: Primary Care
 📞 239-278-3600
-🗺 https://maps.google.com/?q=26.76131,-81.44063
 
 155. Bonita Springs Health Center
 11921 Saradrienne Ln, Bonita Springs, FL, 34135-5911
@@ -1194,7 +1041,6 @@
 🌐 https://www.fhcswf.org
 🏥 Services: Primary Care
 📞 239-344-2322
-🗺 https://maps.google.com/?q=26.32960,-81.75572
 
 156. Whole Family Health Center-Fort Pierce
 725 N US Highway 1, Fort Pierce, FL, 34950-9125
@@ -1202,7 +1048,6 @@
 🌐 https://www.wfhcfl.org
 🏥 Services: Primary Care
 📞 772-468-9900
-🗺 https://maps.google.com/?q=27.45552,-80.32780
 
 157. EAST FORT MYERS MEDICAL OFFICE
 4040 PALM BEACH BLVD, SUITE A, FORT MYERS, FL, 33916-3470
@@ -1210,7 +1055,6 @@
 🌐 https://www.fhcswf.org
 🏥 Services: Primary Care
 📞 239-344-2304
-🗺 https://maps.google.com/?q=26.66527,-81.83145
 
 158. BROADWAY DENTAL OFFICE
 3600 BROADWAY AVE, FORT MYERS, FL, 33901-8005
@@ -1218,14 +1062,12 @@
 🌐 https://www.fhcswf.org
 🏥 Services: Primary Care
 📞 239-344-2335
-🗺 https://maps.google.com/?q=26.61059,-81.86765
 
 159. Summerlin Health Center
 11100 Summer Ridge Ln, Fort Myers, FL, 33908
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 239-344-2362
-🗺 https://maps.google.com/?q=26.49487,-81.93816
 
 160. FORT MYERS CENTER - DOWNTOWN
 2232 GRAND AVE, FORT MYERS, FL, 33901-3717
@@ -1233,7 +1075,6 @@
 🌐 https://www.fhcswf.org
 🏥 Services: Primary Care
 📞 239-332-0417
-🗺 https://maps.google.com/?q=26.63607,-81.87093
 
 161. RMCM Mobile Van
 1926 Victoria Ave, Fort Myers, FL, 33901-3414
@@ -1241,7 +1082,6 @@
 🌐 http://www.fhcswfl.org
 🏥 Services: Primary Care
 📞 239-278-3600
-🗺 https://maps.google.com/?q=26.63684,-81.87373
 
 162. CAPE CORAL HEALTH CENTER
 316 DEL PRADO BLVD S, CAPE CORAL, FL, 33990-1710
@@ -1249,7 +1089,6 @@
 🌐 https://www.fhcswf.org
 🏥 Services: Primary Care
 📞 239-278-3600
-🗺 https://maps.google.com/?q=26.64568,-81.94133
 
 163. CAPE CORAL PEDIATRIC OFFICE
 305 SW    2nd Ter, Cape Coral, FL, 33991-1958
@@ -1257,42 +1096,36 @@
 🌐 https://www.fhcswf.org
 🏥 Services: Primary Care
 📞 239-344-2320
-🗺 https://maps.google.com/?q=26.64575,-81.98128
 
 164. RHN Dental - Key West
 3706 N Roosevelt Blvd Ste E, Key West, FL, 33040-4566
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 305-517-6613 x307
-🗺 https://maps.google.com/?q=24.57178,-81.75625
 
 165. RHN Medical
 3706 N Roosevelt Blvd Ste G, Key West, FL, 33040-4566
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 305-517-6613 x301
-🗺 https://maps.google.com/?q=24.57178,-81.75625
 
 166. Treasure Coast Community Health Vero Dental
 1955 21st Ave, Vero Beach, FL, 32960-3091
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 772-257-8224
-🗺 https://maps.google.com/?q=27.63788,-80.40730
 
 167. TCCH at UaP
 1400 27th St, Vero Beach, FL, 32960-0303
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 772-257-8224
-🗺 https://maps.google.com/?q=27.64700,-80.40129
 
 168. TCCH West
 8505 20th St, Vero Beach, FL, 32966-1705
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 772-257-8224
-🗺 https://maps.google.com/?q=27.63820,-80.50206
 
 169. TCCH Vero 787  Site
 787 37th St, Vero Beach, FL, 32960-7305
@@ -1300,7 +1133,6 @@
 🌐 https://www.tcchinc.org
 🏥 Services: Primary Care
 📞 772-257-8224
-🗺 https://maps.google.com/?q=27.65923,-80.38796
 
 170. Whole Family Health Center-Behavioral Health
 3723 10th Ct, Vero Beach, FL, 32960-6559
@@ -1308,7 +1140,6 @@
 🌐 https://www.wholefamilyhealthcenter.org
 🏥 Services: Primary Care
 📞 877-345-9342
-🗺 https://maps.google.com/?q=27.66101,-80.39260
 
 171. TCCH Gifford Health Center
 4675 28th Ct, Vero Beach, FL, 32967-1329
@@ -1316,7 +1147,6 @@
 🌐 https://www.tcchinc.org
 🏥 Services: Primary Care
 📞 772-257-8224
-🗺 https://maps.google.com/?q=27.67775,-80.41505
 
 172. Port Charlotte Pediatric & Dental Office
 4300 Kings Hwy Ste 500, Port Charlotte, FL, 33980-2953
@@ -1324,7 +1154,6 @@
 🌐 https://www.fhcswf.org
 🏥 Services: Primary Care
 📞 239-344-2306
-🗺 https://maps.google.com/?q=26.96263,-82.06914
 
 173. Community Care Family Healthcare Center Building D
 707 N   12th Ave, Arcadia, FL, 34266-8752
@@ -1332,7 +1161,6 @@
 🌐 https://www.mcrhs.org
 🏥 Services: Primary Care
 📞 941-776-4000
-🗺 https://maps.google.com/?q=27.22299,-81.84635
 
 174. Community Care Specialty
 1110 E Gibson St, Arcadia, FL, 34266-5011
@@ -1340,7 +1168,6 @@
 🌐 https://WWW.MCRHS.ORG
 🏥 Services: Primary Care
 📞 863-494-6222
-🗺 https://maps.google.com/?q=27.22350,-81.84671
 
 175. Arcadia Family Optometry Center
 122 N Brevard Ave, Arcadia, FL, 34266-4404
@@ -1348,7 +1175,6 @@
 🌐 https://www.mcrhs.org
 🏥 Services: Primary Care
 📞 863-494-1918
-🗺 https://maps.google.com/?q=27.21663,-81.85799
 
 176. CFHC Mobile Unit 1
 950 County Road 17A W, Avon Park, FL, 33825-2164
@@ -1356,7 +1182,6 @@
 🌐 https://Www.cfhconline.org
 🏥 Services: Primary Care
 📞 866-234-8534
-🗺 https://maps.google.com/?q=27.61825,-81.51177
 
 177. CFHC Avon Park Primary Care
 950 COUNTY ROAD 17-A, WEST, AVON PARK, FL, 33825-2164
@@ -1364,7 +1189,6 @@
 🌐 http://www.cfhconline.org/
 🏥 Services: Primary Care
 📞 863-452-3000
-🗺 https://maps.google.com/?q=27.61825,-81.51177
 
 178. CenterPlace Health North Port Health Center
 6950 Outreach Way, North Port, FL, 34287-3405
@@ -1372,7 +1196,6 @@
 🌐 https://centerplacehealth.org/
 🏥 Services: Primary Care
 📞 941-529-0300
-🗺 https://maps.google.com/?q=27.05208,-82.24212
 
 179. BHA Malabar Clinic
 775 Malabar Rd, Malabar, FL, 32950-3120
@@ -1380,7 +1203,6 @@
 🌐 https://www.bhachc.org
 🏥 Services: Primary Care
 📞 321-733-0642
-🗺 https://maps.google.com/?q=27.99775,-80.60658
 
 180. South County Medical Center
 579 S Indiana Ave Ste A, Englewood, FL, 34223-3751
@@ -1388,7 +1210,6 @@
 🌐 https://www.mcrhs.org
 🏥 Services: Primary Care
 📞 941-776-4000
-🗺 https://maps.google.com/?q=26.95281,-82.35304
 
 181. BHA PALM BAY CLINIC
 15858 SW Warfield Blvd, Indiantown, FL, 34956
@@ -1396,7 +1217,6 @@
 🌐 https://www.bhachc.org
 🏥 Services: Primary Care
 📞 321-722-5959
-🗺 https://maps.google.com/?q=28.01771,-80.62472
 
 182. CFHC Wauchula Primary Care
 807 Cobb Ct, Wauchula, FL, 33873-3161
@@ -1404,7 +1224,6 @@
 🌐 https://www.cfhconline.org
 🏥 Services: Primary Care
 📞 863-767-0696
-🗺 https://maps.google.com/?q=27.53831,-81.80663
 
 183. CFHC Frostproof Primary Care
 109 W Wall St, Frostproof, FL, 33843-2043
@@ -1412,14 +1231,12 @@
 🌐 http://www.cfhconline.org/
 🏥 Services: Primary Care
 📞 863-635-4891
-🗺 https://maps.google.com/?q=27.74584,-81.53217
 
 184. BHA Evans Center Clinic
 1361 Florida Ave NE  STE 2, Palm Bay, FL, 32905-2650
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 321-241-6800
-🗺 https://maps.google.com/?q=28.05650,-80.59944
 
 185. BHA Heritage Park
 2550 Bruce D. Buggs Street STE 137, Melbourne, FL, 32901
@@ -1427,7 +1244,6 @@
 🌐 https://brevardhealth.org
 🏥 Services: Primary Care
 📞 321-334-6940
-🗺 https://maps.google.com/?q=28.07014,-80.61017
 
 186. BHA Melbourne Clinic
 17 Silver Palm Ave, Melbourne, FL, 32901-3123
@@ -1435,7 +1251,6 @@
 🌐 https://www.brevardhealth.org
 🏥 Services: Primary Care
 📞 321-241-6800
-🗺 https://maps.google.com/?q=28.08420,-80.62111
 
 187. BHA Sarno Regional Clinic
 2120 Sarno Road STE 2120, Melbourne, FL, 32935
@@ -1443,7 +1258,6 @@
 🌐 https://www.bhachc.org
 🏥 Services: Primary Care
 📞 321-241-6800
-🗺 https://maps.google.com/?q=28.12169,-80.65695
 
 188. CFHC Lake Wales Primary Care
 305 W Central Ave, Lake Wales, FL, 33853-4015
@@ -1451,14 +1265,12 @@
 🌐 http://www.cfhconline.org/
 🏥 Services: Primary Care
 📞 863-855-9718
-🗺 https://maps.google.com/?q=27.90063,-81.59605
 
 189. CFHC Bartow Pediatrics
 1350 E Main St  BLDG A Ste 5, Bartow, FL, 33830-5065
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 863-291-5115
-🗺 https://maps.google.com/?q=27.89798,-81.82967
 
 190. CFHC Dundee Primary Care
 916 DUNDEE RD, DUNDEE, FL, 33838-4198
@@ -1466,7 +1278,6 @@
 🌐 http://www.cfhconline.org/
 🏥 Services: Primary Care
 📞 863-419-3330
-🗺 https://maps.google.com/?q=28.01907,-81.63486
 
 191. CenterPlace Health Ringling Health Center
 2200 Ringling Blvd, Sarasota, FL, 34237-6102
@@ -1474,14 +1285,12 @@
 🌐 https://centerplacehealth.org/
 🏥 Services: Primary Care
 📞 941-529-0200
-🗺 https://maps.google.com/?q=27.33497,-82.52593
 
 192. Fruitville Health Center
 170 N Lime Ave, Sarasota, FL, 34237-6122
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 941-776-4000
-🗺 https://maps.google.com/?q=27.33805,-82.52361
 
 193. BHA Barton Commons
 220 Barton Blvd, Rockledge, FL, 32955-2742
@@ -1489,7 +1298,6 @@
 🌐 https://www.bhachc.org
 🏥 Services: Primary Care
 📞 321-639-5177
-🗺 https://maps.google.com/?q=28.33238,-80.72635
 
 194. CenterPlace Health Sarasota Adult Services
 1900 Brother Geenen Way, Sarasota, FL, 34236-7102
@@ -1497,14 +1305,12 @@
 🌐 https://centerplacehealth.org/
 🏥 Services: Primary Care
 📞 941-529-0200
-🗺 https://maps.google.com/?q=27.32985,-82.53173
 
 195. CFHC Winter Haven Behavioral Health and Integrated Medical
 244 Avenue D SW, Winter Haven, FL, 33880-3423
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 866-234-8534
-🗺 https://maps.google.com/?q=28.01755,-81.72950
 
 196. BHA Firehouse Clinic
 114 1st St  OFC 137, Cocoa, FL, 32922-7767
@@ -1512,7 +1318,6 @@
 🌐 https://www.brevardhealth.org
 🏥 Services: Primary Care
 📞 321-241-6800
-🗺 https://maps.google.com/?q=28.35849,-80.73151
 
 197. Osceola Community Health Services at Poinciana
 109 N Doverplum Ave, Kissimmee, FL, 34758-3309
@@ -1520,7 +1325,6 @@
 🌐 https://www.osceolahealthcare.org
 🏥 Services: Primary Care
 📞 407-943-8600
-🗺 https://maps.google.com/?q=28.15207,-81.45273
 
 198. CFHC Winter Haven Women / Children and Dental
 201 Magnolia Ave SW, Winter Haven, FL, 33880-2943
@@ -1528,7 +1332,6 @@
 🌐 http://www.cfhconline.org/
 🏥 Services: Primary Care
 📞 863-229-7950
-🗺 https://maps.google.com/?q=28.01968,-81.72939
 
 199. Whole Child Pediatrics and Riverlandings OB/GYN
 6040 State Road 70 E, Bradenton, FL, 34203-9720
@@ -1536,7 +1339,6 @@
 🌐 https://www.mcrhs.org
 🏥 Services: Primary Care
 📞 941-776-4000
-🗺 https://maps.google.com/?q=27.44519,-82.48365
 
 200. BHA School Based Service Site Endeavour
 905 Pineda St, Cocoa, FL, 32922-6370
@@ -1544,7 +1346,6 @@
 🌐 https://www.bhachc.org
 🏥 Services: Primary Care
 📞 321-241-6800
-🗺 https://maps.google.com/?q=28.36855,-80.74675
 
 201. CFHC Winter Haven Primary Care
 1514 1st St N, Winter Haven, FL, 33881
@@ -1552,21 +1353,18 @@
 🌐 https://www.chfconline.org
 🏥 Services: Primary Care
 📞 863-292-4280
-🗺 https://maps.google.com/?q=28.03741,-81.72655
 
 202. CFHC Mulberry Primary and Specialty Care
 1010 N Church Ave, Mulberry, FL, 33860-2040
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 863-291-5115
-🗺 https://maps.google.com/?q=27.90376,-81.97422
 
 203. Blanche H Daughtrey
 515 63rd Ave E, Bradenton, FL, 34203-7614
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 941-776-4000
-🗺 https://maps.google.com/?q=27.43036,-82.55687
 
 204. South Manatee Pediatrics
 5108 15th St E Ste 111, Bradenton, FL, 34203-4844
@@ -1574,7 +1372,6 @@
 🌐 https://www.mcrhs.org
 🏥 Services: Primary Care
 📞 941-776-4000
-🗺 https://maps.google.com/?q=27.45001,-82.54671
 
 205. EDGAR H. PRICE FAMILY & CHILDREN HEALTHCARE CENTER
 12271 US HIGHWAY 301 NORTH, PARRISH, FL, 34219-8410
@@ -1582,14 +1379,12 @@
 🌐 https://WWW.MCRHS.ORG
 🏥 Services: Primary Care
 📞 941-776-4050
-🗺 https://maps.google.com/?q=27.58242,-82.42352
 
 206. Southeast High School
 1200 37th Ave E, Bradenton, FL, 34208-4553
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 941-741-3366
-🗺 https://maps.google.com/?q=27.46692,-82.55120
 
 207. LAWTON CHILES CHILDREN & FAM HCC
 1515 26th Ave E, Bradenton, FL, 34208-7707
@@ -1597,7 +1392,6 @@
 🌐 https://WWW.MCRHS.ORG
 🏥 Services: Primary Care
 📞 941-708-8600
-🗺 https://maps.google.com/?q=27.47773,-82.54531
 
 208. Southwest Health Center
 5325 26th St W, Bradenton, FL, 34207-3012
@@ -1605,7 +1399,6 @@
 🌐 https://www.mcrhs.org
 🏥 Services: Primary Care
 📞 941-776-4000
-🗺 https://maps.google.com/?q=27.44627,-82.58712
 
 209. EAST MANATEE HEALTH AND WELLNESS CENTER
 1312 Manatee Ave E, Bradenton, FL, 34208-1358
@@ -1613,7 +1406,6 @@
 🌐 https://WWW.MCR.health
 🏥 Services: Primary Care
 📞 941-708-8700
-🗺 https://maps.google.com/?q=27.49437,-82.54909
 
 210. Coordinated Care
 212 2nd Ave E, Bradenton, FL, 34208-1010
@@ -1621,7 +1413,6 @@
 🌐 https://WWW.MCRHS.ORG
 🏥 Services: Primary Care
 📞 941-751-7352
-🗺 https://maps.google.com/?q=27.49726,-82.56066
 
 211. Space Coast Health Centers Primary Care - Port St. John
 5005 Port St John Pkwy Ste 2400, Cocoa, FL, 32927-4305
@@ -1629,14 +1420,12 @@
 🌐 https://www.spacecoasthealthcenters.org
 🏥 Services: Primary Care
 📞 321-268-6836
-🗺 https://maps.google.com/?q=28.45279,-80.80685
 
 212. Osceola Community Health Services - Mobile Dental Care #2
 1875 Fortune Rd, Kissimmee, FL, 34744-4428
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 407-943-8600
-🗺 https://maps.google.com/?q=28.30505,-81.36857
 
 213. PALMETTO FAMILY HEALTHCARE CTR
 404 7TH ST W, PALMETTO, FL, 34221-5209
@@ -1644,7 +1433,6 @@
 🌐 https://WWW.MCRHS.ORG
 🏥 Services: Primary Care
 📞 941-729-3856
-🗺 https://maps.google.com/?q=27.51773,-82.56777
 
 214. George Van Buren Health Center
 712 39TH ST W, BRADENTON, FL, 34205-2454
@@ -1652,7 +1440,6 @@
 🌐 https://WWW.MCRHS.ORG
 🏥 Services: Primary Care
 📞 941-748-4602
-🗺 https://maps.google.com/?q=27.49343,-82.60020
 
 215. CFHC Lakeland Pediatrics and Dental
 601 S Florida Ave, Lakeland, FL, 33801-5237
@@ -1660,14 +1447,12 @@
 🌐 http://www.cfhconline.org/
 🏥 Services: Primary Care
 📞 863-688-0841
-🗺 https://maps.google.com/?q=28.03749,-81.95749
 
 216. Ruskin Health Center
 820 15th St SE, Ruskin, FL, 33570
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 813-349-7800
-🗺 https://maps.google.com/?q=27.71227,-82.41406
 
 217. COMMUNITY HEALTH CENTER - MEADOW WOODS FAMILY HEALTH CENTER
 849 Greenway Professional Ct, Orlando, FL, 32824-9482
@@ -1675,21 +1460,18 @@
 🌐 https://www.chcfl.org
 🏥 Services: Primary Care
 📞 407-905-8827
-🗺 https://maps.google.com/?q=28.37107,-81.36434
 
 218. Riverview Community Health Center
 10334 White Viburnum Way, Riverview, FL, 33578-5489
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 813-653-6253
-🗺 https://maps.google.com/?q=27.85507,-82.33471
 
 219. Plant City Family Care
 801 E Baker St, Plant City, FL, 33563-3652
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 813-349-7600
-🗺 https://maps.google.com/?q=28.01783,-82.11772
 
 220. METRO Brandon
 302 Bryan Rd, Brandon, FL, 33511-5337
@@ -1697,14 +1479,12 @@
 🌐 https://www.metrotampabay.org
 🏥 Services: Primary Care
 📞 727-321-3854
-🗺 https://maps.google.com/?q=27.93319,-82.27786
 
 221. Suncoast Mobile Dental Bus I
 313 S. Lakewood Dr., Brandon, FL, 33511
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 813-653-6100
-🗺 https://maps.google.com/?q=27.93312,-82.30959
 
 222. COMMUNITY HEALTH CENTER - BITHLO FAMILY CARE
 19108 E. Colonial Dr, Orlando, FL, 32820
@@ -1712,7 +1492,6 @@
 🌐 https://www.chcfl.org
 🏥 Services: Primary Care
 📞 407-905-8827
-🗺 https://maps.google.com/?q=28.54614,-81.09224
 
 223. Hoffner Health Center
 5449 S Semoran Blvd Ste 14, Orlando, FL, 32822-1778
@@ -1720,14 +1499,12 @@
 🌐 https://www.mytruehealth.org
 🏥 Services: Primary Care
 📞 407-322-8645
-🗺 https://maps.google.com/?q=28.48352,-81.30868
 
 224. TFHC#28 - Causeway
 7608 Causeway Blvd, Tampa, FL, 33619
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 813-405-3710
-🗺 https://maps.google.com/?q=27.92328,-82.37001
 
 225. Four Corners Health Center
 509 Cagan View Rd, Clermont, FL, 34714-6405
@@ -1735,7 +1512,6 @@
 🌐 https://www.chcfl.org
 🏥 Services: Primary Care
 📞 407-905-8827
-🗺 https://maps.google.com/?q=28.35317,-81.67406
 
 226. BHA Titusville Dental Clinic
 611 N Singleton Ave, Titusville, FL, 32796-2310
@@ -1743,7 +1519,6 @@
 🌐 https://www.brevardhealth.org
 🏥 Services: Primary Care
 📞 321-241-6800
-🗺 https://maps.google.com/?q=28.62180,-80.83863
 
 227. Alafaya Health Center
 11881 E. COLONIAL DRIVE STE A, ORLANDO, FL, 32826-4723
@@ -1751,7 +1526,6 @@
 🌐 https://www.mytruehealth.org
 🏥 Services: Primary Care
 📞 407-322-8645
-🗺 https://maps.google.com/?q=28.56674,-81.20576
 
 228. Lake Underhill Health Center
 5730 Lake Underhill Rd, Orlando, FL, 32807-4366
@@ -1759,14 +1533,12 @@
 🌐 https://www.mytruehealth.org
 🏥 Services: Primary Care
 📞 407-956-4320 x1520
-🗺 https://maps.google.com/?q=28.53858,-81.30933
 
 229. Ibis Healthcare - East Columbus
 4422 E Columbus Dr  FL 1, Tampa, FL, 33605-3233
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Mental health
 📞 813-272-2244
-🗺 https://maps.google.com/?q=27.96812,-82.40864
 
 🌐 http://www.ibishealth.org
 
@@ -1776,7 +1548,6 @@
 🌐 https://www.evarahealth.org
 🏥 Services: Primary Care
 📞 727-824-8181
-🗺 https://maps.google.com/?q=27.76308,-82.64265
 
 231. METRO Downtown St. Pete
 625 6th Ave S, Ste 305, Saint Petersburg, FL, 33701-4664
@@ -1784,7 +1555,6 @@
 🌐 https://www.metrotampabay.org
 🏥 Services: Primary Care
 📞 727-321-3854
-🗺 https://maps.google.com/?q=27.76428,-82.64244
 
 232. Evara Health - Johnnie Ruth Clarke
 1344 22nd St S, Saint Petersburg, FL, 33712-2744
@@ -1792,7 +1562,6 @@
 🌐 https://www.evarahealth.org
 🏥 Services: Primary Care; Migrant health center
 📞 727-824-8181
-🗺 https://maps.google.com/?q=27.75688,-82.66258
 
 233. Eccleston Elementary
 1500 Aaron Ave, Orlando, FL, 32811-4114
@@ -1800,7 +1569,6 @@
 🌐 https://www.obfh.org
 🏥 Services: Primary Care
 📞 407-428-5751
-🗺 https://maps.google.com/?q=28.52486,-81.43330
 
 234. Christian Service Center 800 W Central
 800 W Central Blvd, Orlando, FL, 32805-1809
@@ -1808,7 +1576,6 @@
 🌐 https://www.obfh.org
 🏥 Services: Primary Care
 📞 407-367-8376
-🗺 https://maps.google.com/?q=28.54173,-81.39064
 
 235. Evara Health - St Petersburg
 612 Dr Martin Luther King Jr St N, St Petersburg, FL, 33705-1403
@@ -1816,7 +1583,6 @@
 🌐 https://www.evarahealth.org
 🏥 Services: Primary Care
 📞 727-824-8181
-🗺 https://maps.google.com/?q=27.77865,-82.64668
 
 236. METRO South St. Pete
 2116 34th St S, Saint Petersburg, FL, 33711-3224
@@ -1824,7 +1590,6 @@
 🌐 https://www.metrotampabay.org
 🏥 Services: Primary Care
 📞 727-321-3854
-🗺 https://maps.google.com/?q=27.74938,-82.67867
 
 237. HEALTH CARE CENTER FOR THE HOMELESS
 232 N Orange Blossom Trl, Orlando, FL, 32805-1612
@@ -1832,21 +1597,18 @@
 🌐 https://hcch.org
 🏥 Services: Primary Care; Dental; Health Care for the Homeless
 📞 407-428-5751
-🗺 https://maps.google.com/?q=28.54538,-81.39770
 
 238. Academic Center for Excellence Wellness Center
 701 W Livingston St Bldg 800, Orlando, FL, 32805-1535
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 407-428-5751 x344
-🗺 https://maps.google.com/?q=28.54792,-81.39082
 
 239. TFHC Swann
 2111 W Swann Ave, Suite 102, Tampa, FL, 33606-2478
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 813-397-5300
-🗺 https://maps.google.com/?q=27.93782,-82.48169
 
 240. METRO Central
 2237 Central Ave, Saint Petersburg, FL, 33713-8844
@@ -1854,14 +1616,12 @@
 🌐 https://www.metrotampabay.org
 🏥 Services: Primary Care
 📞 727-321-3854
-🗺 https://maps.google.com/?q=27.77121,-82.66380
 
 241. TFHC#15 - Osborne
 4620 N 22nd St, Tampa, FL, 33610-6205
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 813-272-6240
-🗺 https://maps.google.com/?q=27.98813,-82.43501
 
 242. METRO Seminole Heights
 3918 N Highland Ave, Tampa, FL, 33603-4724
@@ -1869,14 +1629,12 @@
 🌐 https://www.metrotampabay.org
 🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 727-321-3854
-🗺 https://maps.google.com/?q=27.98134,-82.46216
 
 243. Metro Inclusive Pharmacy – Florida Ave
 5138 N Florida Ave, Tampa, FL, 33603-2154
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 813-443-4854
-🗺 https://maps.google.com/?q=27.99351,-82.45962
 
 244. TFHC West Tampa
 2808 W Dr Martin Luther King Jr Blvd Bldg, Tampa, FL, 33607-6306
@@ -1884,28 +1642,24 @@
 🌐 https://htp://www.tampachc.com
 🏥 Services: Primary Care
 📞 813-397-5300
-🗺 https://maps.google.com/?q=27.98099,-82.48926
 
 245. TFHC Sulphur Springs
 8412 N 13th St  Room 706, Tampa, FL, 33604
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 813-397-5300
-🗺 https://maps.google.com/?q=28.02626,-82.44670
 
 246. TFHC # 23 - Nebraska
 8108 N Nebraska Ave, Tampa, FL, 33604
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 813-866-0930
-🗺 https://maps.google.com/?q=28.02205,-82.45217
 
 247. Evans High School Wellness Center
 3100 Evans Trojans Way, Orlando, FL, 32808-3662
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 407-428-5751 x344
-🗺 https://maps.google.com/?q=28.58276,-81.44920
 
 248. TFHC #21 - Dale Mabry
 7814 N Dale Mabry Hwy, Tampa, FL, 33614-3220
@@ -1913,7 +1667,6 @@
 🌐 http://tchc.hcnetwork.org/
 🏥 Services: Primary Care
 📞 813-405-3939
-🗺 https://maps.google.com/?q=28.01877,-82.50581
 
 249. TFHC #16 North Tampa
 12410 N Nebraska Ave, Tampa, FL, 33612-5352
@@ -1921,14 +1674,12 @@
 🌐 http://www.tampachc.com
 🏥 Services: Primary Care
 📞 813-866-0950
-🗺 https://maps.google.com/?q=28.06058,-82.45182
 
 250. TFHC #35 - MDV2
 302 W Fletcher Ave, Tampa, FL, 33612-3415
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Dental; Pediatrics; Mental health
 📞 813-866-0930
-🗺 https://maps.google.com/?q=28.06879,-82.46154
 
 251. METRO Fletcher
 3500 E Fletcher Ave, Ste 302, Tampa, FL, 33613-4797
@@ -1936,7 +1687,6 @@
 🌐 https://www.metrotampabay.org
 🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 727-321-3854
-🗺 https://maps.google.com/?q=28.07018,-82.41906
 
 252. TFHC Lutz
 19203 N Dale Mabry Hwy, Lutz, FL, 33548-5067
@@ -1944,14 +1694,12 @@
 🌐 https://www.tampafamilyHC.com
 🏥 Services: Primary Care
 📞 813-599-6188
-🗺 https://maps.google.com/?q=28.15628,-82.48257
 
 253. Bayside Health Clinic
 14808 49th St N, Clearwater, FL, 33762-2835
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 727-453-7866
-🗺 https://maps.google.com/?q=27.90612,-82.70212
 
 254. Evara Gold - Suncoast
 5523 Roosevelt Blvd, Clearwater, FL, 33760-3425
@@ -1959,7 +1707,6 @@
 🌐 https://www.evarahealth.org
 🏥 Services: Primary Care
 📞 727-824-8181
-🗺 https://maps.google.com/?q=27.91674,-82.70959
 
 255. Evara Health - Highpoint 2
 14106 58th St N, Clearwater, FL, 33760-3758
@@ -1967,7 +1714,6 @@
 🌐 https://www.evarahealth.org
 🏥 Services: Primary Care
 📞 727-824-8181
-🗺 https://maps.google.com/?q=27.90000,-82.71342
 
 256. METRO Clearwater
 18167 Us Highway 19 N STE 150, Clearwater, FL, 33764-6566
@@ -1975,7 +1721,6 @@
 🌐 https://www.metrotampabay.org
 🏥 Services: Primary Care
 📞 727-321-3854
-🗺 https://maps.google.com/?q=27.93764,-82.72904
 
 257. Evara Health - Countryside
 26286 US Highway 19 N  STE B, Clearwater, FL, 33761-4506
@@ -1983,7 +1728,6 @@
 🌐 https://www.evarahealth.org
 🏥 Services: Primary Care
 📞 727-824-8181
-🗺 https://maps.google.com/?q=28.01158,-82.73586
 
 258. Evara Health - Milton Park
 1260 S Martin Luther King Jr Ave, Clearwater, FL, 33756-4172
@@ -1991,7 +1735,6 @@
 🌐 https://www.evarahealth.org
 🏥 Services: Primary Care
 📞 727-824-8181
-🗺 https://maps.google.com/?q=27.95128,-82.79202
 
 259. Evara Health - Clearwater
 707 Druid Rd E, Clearwater, FL, 33756-3951
@@ -1999,7 +1742,6 @@
 🌐 https://www.evarahealth.org
 🏥 Services: Primary Care
 📞 727-824-8181
-🗺 https://maps.google.com/?q=27.95683,-82.79636
 
 260. Evara Health - Pinellas Heights
 11411 Ulmerton Rd, Largo, FL, 33778-1620
@@ -2007,14 +1749,12 @@
 🌐 https://evarahealth.org
 🏥 Services: Primary Care
 📞 727-824-8181
-🗺 https://maps.google.com/?q=27.89599,-82.79802
 
 261. Longleaf Health Center
 3381 Town Ave, New Port Richey, FL, 34655-2168
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 352-565-7342
-🗺 https://maps.google.com/?q=28.20842,-82.64727
 
 262. Land O Lakes Health Center
 20360 Gator Ln, Land O Lakes, FL, 34638-2802
@@ -2022,7 +1762,6 @@
 🌐 https://www.ccrhealth.org
 🏥 Services: Primary Care
 📞 352-565-7342
-🗺 https://maps.google.com/?q=28.26006,-82.47833
 
 263. Evara Health - Largo
 12420 130th Ave N, Largo, FL, 33774-1919
@@ -2030,7 +1769,6 @@
 🌐 https://www.evarahealth.org
 🏥 Services: Primary Care
 📞 727-824-8181
-🗺 https://maps.google.com/?q=27.89051,-82.81077
 
 264. Evara Health - Tarpon Springs
 247 S Huey Ave, Tarpon Springs, FL, 34689-4205
@@ -2038,7 +1776,6 @@
 🌐 https://www.evarahealth.org
 🏥 Services: Primary Care
 📞 727-824-8181
-🗺 https://maps.google.com/?q=28.14410,-82.74371
 
 265. Cypress Creek Health Center
 8585 Old Pasco Rd, Wesley Chapel, FL, 33544-2913
@@ -2046,7 +1783,6 @@
 🌐 https://www.ccrhealth.org
 🏥 Services: Primary Care
 📞 352-565-7342
-🗺 https://maps.google.com/?q=28.28022,-82.33775
 
 266. Premier Community HealthCare Group, Inc.
 5957 Rowan Rd, New Port Richey, FL, 34653
@@ -2054,7 +1790,6 @@
 🌐 https://www.premierhc.org
 🏥 Services: Primary Care
 📞 352-518-2000
-🗺 https://maps.google.com/?q=28.24574,-82.69755
 
 267. METRO New Port Richey
 4747 US Highway 19, New Port Richey, FL, 34652-4945
@@ -2062,7 +1797,6 @@
 🌐 https://www.metrotampabay.org
 🏥 Services: Primary Care
 📞 727-321-3854
-🗺 https://maps.google.com/?q=28.22844,-82.73258
 
 268. Zephyrhills Behavioral Health Center
 37840 Medical Arts Ct, Zephyrhills, FL, 33541-4325
@@ -2070,7 +1804,6 @@
 🌐 https://www.premierhc.org
 🏥 Services: Primary Care
 📞 352-518-2000
-🗺 https://maps.google.com/?q=28.26295,-82.18994
 
 269. Centennial Health Center
 38503 Centennial Rd, Dade City, FL, 33525-1654
@@ -2078,7 +1811,6 @@
 🌐 https://www.ccrhealth.org
 🏥 Services: Primary Care
 📞 352-565-7342
-🗺 https://maps.google.com/?q=28.30505,-82.17910
 
 270. Hudson Health Center
 14730 Cobra Way, Hudson, FL, 34669-1083
@@ -2086,7 +1818,6 @@
 🌐 https://www.ccrhealth.org
 🏥 Services: Primary Care
 📞 352-565-7342
-🗺 https://maps.google.com/?q=28.36950,-82.64320
 
 271. Dade City Dental Center
 37944 Pasco Ave, Dade City, FL, 33525-4202
@@ -2094,7 +1825,6 @@
 🌐 https://WWW.PREMIERHC.ORG
 🏥 Services: Primary Care
 📞 352-518-2000
-🗺 https://maps.google.com/?q=28.36359,-82.18787
 
 272. Cox Elementary School-Based Dental Clinic
 37615 Martin Luther King Blvd, Dade City, FL, 33523-3099
@@ -2102,7 +1832,6 @@
 🌐 https://www.premierhc.org
 🏥 Services: Primary Care
 📞 352-518-2000
-🗺 https://maps.google.com/?q=28.36907,-82.19408
 
 273. Spring Hill Family Health Center
 7551 Forest Oaks Blvd, Spring Hill, FL, 34606-2437
@@ -2110,28 +1839,24 @@
 🌐 https://www.premierhc.org
 🏥 Services: Primary Care
 📞 352-518-2000
-🗺 https://maps.google.com/?q=28.49159,-82.59252
 
 274. Langley Health Services - Homosassa
 7945 S Suncoast Blvd  STE A-B, Homosassa, FL, 34446-5005
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 352-793-5900
-🗺 https://maps.google.com/?q=28.74746,-82.55164
 
 275. Dental Van.
 1389 S. U.S. 301, Sumterville, FL, 33585
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 352-793-5900
-🗺 https://maps.google.com/?q=28.73646,-82.06832
 
 276. Independent Diagnostic Testing Facility (IDTF)
 1389 S US 301 Ste B, Sumterville, FL, 33585-5143
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 352-793-5900
-🗺 https://maps.google.com/?q=28.73640,-82.06839
 
 277. Langley Health Services Sumterville
 1389 S Us 301, Sumterville, FL, 33585-5143
@@ -2139,7 +1864,6 @@
 🌐 https://www.langleyhealthservices.com
 🏥 Services: Primary Care
 📞 352-793-5900 x83931
-🗺 https://maps.google.com/?q=28.73646,-82.06832
 
 278. Inverness-Behavioral Health Hub
 314 S Line Ave, Inverness, FL, 34452-4606
@@ -2147,7 +1871,6 @@
 🌐 https://www.langleymedicalcenter.com
 🏥 Services: Primary Care
 📞 352-432-4940
-🗺 https://maps.google.com/?q=28.83126,-82.33692
 
 279. Inverness Medical - 300 S. Line Avenue
 300 S. Line Avenue, Inverness, FL, 34450
@@ -2155,7 +1878,6 @@
 🌐 https://www.langleymedicalcenter.com
 🏥 Services: Primary Care
 📞 352-419-5760
-🗺 https://maps.google.com/?q=28.83202,-82.33678
 
 280. Community Health Centers Clermont
 2140 N Don Wickham Dr Ste C, Clermont, FL, 34711-1923
@@ -2163,14 +1885,12 @@
 🌐 https://www.chcfl.org
 🏥 Services: Primary Care
 📞 352-314-7400
-🗺 https://maps.google.com/?q=28.55611,-81.71647
 
 281. Lecanto Multi Purpose Site
 595 N Lecanto Hwy, Lecanto, FL, 34461-9187
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 352-527-2244
-🗺 https://maps.google.com/?q=28.87192,-82.48757
 
 282. Citrus County Rural Health, Inc.
 927 N Citrus Ave, Crystal River, FL, 34428-3422
@@ -2178,7 +1898,6 @@
 🌐 https://www.ccrhealth.org
 🏥 Services: Primary Care
 📞 352-565-7342
-🗺 https://maps.google.com/?q=28.90380,-82.59269
 
 283. Community Health Centers-Winter Garden Family and Dental Care
 13275 W COLONIAL DR, WINTER GARDEN, FL, 34787-3984
@@ -2186,28 +1905,24 @@
 🌐 https://www.CHCFL.ORG
 🏥 Services: Primary Care
 📞 407-905-8827
-🗺 https://maps.google.com/?q=28.55228,-81.57955
 
 284. HFHC Villages Pharmacy
 3367 Wedgewood Ln, The Villages, FL, 32162-7181
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 352-790-6818
-🗺 https://maps.google.com/?q=28.92900,-82.01145
 
 285. Community Health Centers-Tavares Family Medical and Dental
 212 E Main St, Tavares, FL, 32778-3808
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 407-905-8827
-🗺 https://maps.google.com/?q=28.80189,-81.72663
 
 286. Heart of Florida Health Center  Dunnellon
 19204 E Pennsylvania Ave, Dunnellon, FL, 34432-6168
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 352-732-6599 x209
-🗺 https://maps.google.com/?q=29.05138,-82.43878
 
 287. COMMUNITY HEALTH CENTER - APOPKA PEDIATRIC CARE
 618 S Forest Ave, Apopka, FL, 32703-5338
@@ -2215,14 +1930,12 @@
 🌐 https://WWW.CHCFL.ORG
 🏥 Services: Primary Care
 📞 407-905-8827
-🗺 https://maps.google.com/?q=28.66976,-81.50793
 
 288. HFHC West
 7826 SW 60th Ave, Ocala, FL, 34476-6426
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 352-732-6599
-🗺 https://maps.google.com/?q=29.10855,-82.21903
 
 289. Casselberry Health Center
 1120 State Road 436, Casselberry, FL, 32707-6100
@@ -2230,14 +1943,12 @@
 🌐 https://www.mytruehealth.org
 🏥 Services: Primary Care
 📞 407-322-8645
-🗺 https://maps.google.com/?q=28.63847,-81.32043
 
 290. College Park Elementary Community Clinic
 1330 SW 33rd Ave, Ocala, FL, 34474-2853
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 352-291-4057 x51347
-🗺 https://maps.google.com/?q=29.17433,-82.17904
 
 291. Estella Byrd Whitman Wellness & Community Resources Center
 819 NW 7th St, Ocala, FL, 34475-6136
@@ -2245,7 +1956,6 @@
 🌐 https://www.ebwchc.org
 🏥 Services: Primary Care
 📞 352-875-2226
-🗺 https://maps.google.com/?q=29.19366,-82.14645
 
 292. Airport Health Center
 400 W Airport Blvd, Sanford, FL, 32773-5489
@@ -2253,21 +1963,18 @@
 🌐 https://www.mytruehealth.org
 🏥 Services: Primary Care
 📞 407-322-8645
-🗺 https://maps.google.com/?q=28.77384,-81.28511
 
 293. Goldsboro Health Center
 905 Historic Goldsboro Boulevard, Sanford, FL, 32771-2415
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 407-322-8645
-🗺 https://maps.google.com/?q=28.80061,-81.27770
 
 294. Enterprise Wellness Cottage
 105 Main Street, Enterprise, FL, 32725
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 407-322-8645
-🗺 https://maps.google.com/?q=28.86954,-81.26630
 
 295. Family Health Source Deltona
 1200 Deltona Blvd, Deltona, FL, 32725-6306
@@ -2275,7 +1982,6 @@
 🌐 https://www.myfhs.org
 🏥 Services: Primary Care
 📞 386-202-6025
-🗺 https://maps.google.com/?q=28.89599,-81.27265
 
 296. Heart of Florida Health Center Reddick-Collier
 4595 W Hwy 316, Reddick, FL, 32686-3231
@@ -2283,7 +1989,6 @@
 🌐 https://www.myhfhc.org
 🏥 Services: Primary Care
 📞 352-732-6599
-🗺 https://maps.google.com/?q=29.36803,-82.20026
 
 297. Palms Medical Group - Williston
 630 N Main St, Williston, FL, 32696-1705
@@ -2291,7 +1996,6 @@
 🌐 https://www.palmsmg.org
 🏥 Services: Primary Care
 📞 352-528-0587
-🗺 https://maps.google.com/?q=29.39478,-82.44916
 
 298. AZA HEALTH
 22066 SE 71st Ave, Hawthorne, FL, 32640
@@ -2299,7 +2003,6 @@
 🌐 https://www.azahealth.org
 🏥 Services: Primary Care
 📞 352-481-2700
-🗺 https://maps.google.com/?q=29.58889,-82.08684
 
 299. Palms Medical Group - Gainesville
 200 SW 62nd Blvd, Gainesville, FL, 32607-6030
@@ -2307,7 +2010,6 @@
 🌐 https://www.palmsmg.org
 🏥 Services: Primary Care
 📞 352-376-8211
-🗺 https://maps.google.com/?q=29.65052,-82.41000
 
 300. SMA Willis
 1220 Willis Ave, Daytona Beach, FL, 32114-2810
@@ -2315,7 +2017,6 @@
 🌐 https://www.smahealthcare.org
 🏥 Services: Primary Care
 📞 800-539-4228
-🗺 https://maps.google.com/?q=29.20614,-81.05425
 
 301. SMA Stadium
 420 Stadium Rd, Daytona Beach, FL, 32114-2400
@@ -2323,7 +2024,6 @@
 🌐 https://www.smahealthcare.org
 🏥 Services: Primary Care
 📞 386-254-1149
-🗺 https://maps.google.com/?q=29.20648,-81.05375
 
 302. SMA Flagler Primary Care
 301 Dr Carter Blvd, Bunnell, FL, 32110-6212
@@ -2331,7 +2031,6 @@
 🌐 https://www.smahealthcare.org
 🏥 Services: Primary Care
 📞 386-282-7195
-🗺 https://maps.google.com/?q=29.46896,-81.25013
 
 303. Palms Medical Group - High Springs
 16916 NW US Hwy 441, High Springs, FL, 32643-8102
@@ -2339,14 +2038,12 @@
 🌐 https://www.palmsmg.org
 🏥 Services: Primary Care
 📞 386-454-0698
-🗺 https://maps.google.com/?q=29.80896,-82.55530
 
 304. Steinhatchee School
 1209 1st Ave SE, Steinhatchee, FL, 32359-2686
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 352-498-3304
-🗺 https://maps.google.com/?q=29.67375,-83.37577
 
 305. Palms Medical Group - Starke
 922 E Call St, Starke, FL, 32091-3616
@@ -2354,14 +2051,12 @@
 🌐 https://www.palmsmg.org
 🏥 Services: Primary Care
 📞 904-364-2900
-🗺 https://maps.google.com/?q=29.94028,-82.10170
 
 306. Florida Department of Health in Bradford County - New River Community Health Center
 1801 N Temple Ave, Starke, FL, 32091-1960
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 904-964-7732
-🗺 https://maps.google.com/?q=29.96395,-82.10616
 
 307. Palms Medical Group - Branford
 103 US Highway 27 SW, Branford, FL, 32008-2767
@@ -2369,7 +2064,6 @@
 🌐 https://palmsmg.org
 🏥 Services: Primary Care
 📞 386-935-3090
-🗺 https://maps.google.com/?q=29.95710,-82.92429
 
 308. River Valley Medical Center
 710 W Main St, Mayo, FL, 32066-4127
@@ -2377,35 +2071,30 @@
 🌐 http://www.nfmc.org
 🏥 Services: Primary Care
 📞 386-294-1226
-🗺 https://maps.google.com/?q=30.05683,-83.18334
 
 309. Palms Medical Group - Fleming Island
 2349 Village Square Pkwy  STE 110-111, Fleming Island, FL, 32003-4320
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 352-463-2374
-🗺 https://maps.google.com/?q=30.08117,-81.70891
 
 310. Coastal Community Health - Jacksonville (Westside)
 1605 Kingsley Ave, Orange Park, FL, 32073-4435
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 912-275-8028
-🗺 https://maps.google.com/?q=30.16509,-81.73047
 
 311. North Florida Medical - Perry
 1850 S Byron Butler Pkwy, Perry, FL, 32348-5508
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 850-838-2030
-🗺 https://maps.google.com/?q=30.10082,-83.58492
 
 312. Taylor County Primary School
 1000 Howard St, Perry, FL, 32347-3635
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 850-838-2506
-🗺 https://maps.google.com/?q=30.12023,-83.56584
 
 313. Palms Medical Group Live Oak
 211 Ranchera St NW, Live Oak, FL, 32064-4866
@@ -2413,21 +2102,18 @@
 🌐 https://www.palmsmg.org
 🏥 Services: Primary Care
 📞 386-364-1751
-🗺 https://maps.google.com/?q=30.32124,-82.97081
 
 314. Agape CHC - Ed White High School
 1700 Old Middleburg Rd N, Jacksonville, FL, 32210-1232
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 904-760-5904
-🗺 https://maps.google.com/?q=30.28988,-81.76850
 
 315. Agape Community Health Center, Inc. - University
 3101 University Blvd S, Ste 200, Jacksonville, FL, 32216-2753
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 904-760-4904
-🗺 https://maps.google.com/?q=30.29487,-81.60138
 
 316. Duval Family Health Center - Outreach
 611 E Adams St, Jacksonville, FL, 32202-2847
@@ -2435,21 +2121,18 @@
 🌐 https://www.sulzbachercenter.org
 🏥 Services: Primary Care
 📞 904-359-0457
-🗺 https://maps.google.com/?q=30.32697,-81.64899
 
 317. Agape Women's Health
 1680 Dunn Ave  STE 38B, JACKSONVILLE, FL, 32218-4744
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Women's health
 📞 904-760-4904
-🗺 https://maps.google.com/?q=30.43265,-81.67658
 
 318. Agape Dunn Avenue
 1680 Dunn Ave Unit 35-37, Jacksonville, FL, 32218-4782
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 904-760-4904
-🗺 https://maps.google.com/?q=30.43318,-81.67523
 
 319. Agape Pharmacy
 1680 Dunn Ave Ste 38, Jacksonville, FL, 32218-4744
@@ -2457,7 +2140,6 @@
 🌐 http://agapefamilyhealth.org/
 🏥 Services: Primary Care
 📞 904-760-4904
-🗺 https://maps.google.com/?q=30.43349,-81.67460
 
 320. PanCare Carrabelle Dental
 106 NE 5th St, Carrabelle, FL, 32322-3529
@@ -2465,21 +2147,18 @@
 🌐 https://www.pancarefl.org
 🏥 Services: Primary Care
 📞 850-697-5000
-🗺 https://maps.google.com/?q=29.85108,-84.66005
 
 321. PanCare Health - Franklin County School Dental Clinic
 1250 US Highway 98, Eastpoint, FL, 32328-3652
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 850-747-5599
-🗺 https://maps.google.com/?q=29.76688,-84.81711
 
 322. Eastpoint Medical Center
 158 US HIGHWAY 98, EASTPOINT, FL, 32328-3304
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 850-670-8585
-🗺 https://maps.google.com/?q=29.73531,-84.89468
 
 323. CCH - Fernandina/Yulee
 22385 Flora Parke Xing, Fernandina Beach, FL, 32034
@@ -2487,7 +2166,6 @@
 🌐 https://www.coastalchs.org
 🏥 Services: Primary Care
 📞 912-273-8028
-🗺 https://maps.google.com/?q=30.62222,-81.53999
 
 324. CVCPHC at Ebenezer Middle School
 5720 NW   13th Ave, Miami, FL, 33142-2604
@@ -2495,7 +2173,6 @@
 🌐 https://www.cvcphc.net
 🏥 Services: Primary Care
 📞 912-527-1000
-🗺 https://maps.google.com/?q=32.34680,-81.22704
 
 325. Neighborhood Medical Center, Inc at the Milicent Holifield Health Academy
 3013 Jim Lee Rd, Tallahassee, FL, 32301-7057
@@ -2503,14 +2180,12 @@
 🌐 https://www.neighborhoodmedicalcenter.org
 🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 850-414-5560
-🗺 https://maps.google.com/?q=30.40733,-84.26307
 
 326. Bond on Magnolia
 2200 S Monroe St, Tallahassee, FL, 32301
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 850-354-8765
-🗺 https://maps.google.com/?q=30.41972,-84.28095
 
 327. Neighborhood Medical Center Smith Williams Center
 2295 PASCO ST, TALLAHASSEE, FL, 32310-0908
@@ -2518,7 +2193,6 @@
 🌐 https://www.neighborhoodmedicalcenter.org
 🏥 Services: Primary Care
 📞 850-224-2409
-🗺 https://maps.google.com/?q=30.41779,-84.29248
 
 328. Neighborhood Medical Center Havana Magnet School
 1210 KEMP RD, HAVANA, FL, 32333-1938
@@ -2526,7 +2200,6 @@
 🌐 https://www.neighborhoodmedicalcenter.org
 🏥 Services: Primary Care
 📞 850-662-2750
-🗺 https://maps.google.com/?q=30.62346,-84.39961
 
 329. Neighborhood Medical Center C.V. Butler Building
 604 E 5TH AVE, HAVANA, FL, 32333-1442
@@ -2534,14 +2207,12 @@
 🌐 https://www.neighborhoodmedicalcenter.org
 🏥 Services: Primary Care
 📞 850-539-9800
-🗺 https://maps.google.com/?q=30.62864,-84.40807
 
 330. Health Force One
 1249 Strong Rd, Quincy, FL, 32351
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 850-295-4651
-🗺 https://maps.google.com/?q=30.57080,-84.55168
 
 331. Crossroad Academy Charter School of Business
 470 Strong Rd, Quincy, FL, 32351-6006
@@ -2549,14 +2220,12 @@
 🌐 http://www.crossroad.gcps.k12.fl.us/
 🏥 Services: Primary Care
 📞 850-875-9626
-🗺 https://maps.google.com/?q=30.56207,-84.56155
 
 332. Stewart Street Elementary School
 749 S Stewart St, Quincy, FL, 32351-4420
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 850-627-3145
-🗺 https://maps.google.com/?q=30.57664,-84.58102
 
 333. Greensboro Elementary School
 559 Greensboro Hwy, Quincy, FL, 32351-8880
@@ -2564,14 +2233,12 @@
 🌐 https://ges.gadsdenschools.org/
 🏥 Services: Primary Care
 📞 850-442-6327
-🗺 https://maps.google.com/?q=30.56929,-84.73641
 
 334. Chattahoochee Elementary School
 335 Maple Street, Chattahoochee, FL, 32324
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 850-662-2080
-🗺 https://maps.google.com/?q=30.70007,-84.83404
 
 335. PanCare-Liberty
 11033 NW State Road 20, Bristol, FL, 32321-6406
@@ -2579,7 +2246,6 @@
 🌐 https://www.pancarefl.org
 🏥 Services: Primary Care
 📞 850-643-1155
-🗺 https://maps.google.com/?q=30.43152,-84.97647
 
 336. PanCare - Blountstown
 16875 NE CAYSON ST, BLOUNTSTOWN, FL, 32424-2209
@@ -2587,7 +2253,6 @@
 🌐 https://www.pancarefl.org
 🏥 Services: Primary Care
 📞 850-675-8844
-🗺 https://maps.google.com/?q=30.44280,-85.04271
 
 337. WEWAHITCHKA MEDICAL CENTER
 255 W River Rd, Wewahitchka, FL, 32465-4533
@@ -2595,7 +2260,6 @@
 🌐 http://www.nfmc.org
 🏥 Services: Primary Care
 📞 850-639-5828
-🗺 https://maps.google.com/?q=30.10635,-85.20261
 
 338. PanCare Health Wewahitchka
 807 Highway 22, Wewahitchka, FL, 32465-3237
@@ -2603,7 +2267,6 @@
 🌐 https://www.pancarefl.org
 🏥 Services: Primary Care
 📞 850-639-2028
-🗺 https://maps.google.com/?q=30.11901,-85.20968
 
 339. PanCare Marianna
 4126 Independent Dr, Marianna, FL, 32448-4023
@@ -2611,7 +2274,6 @@
 🌐 https://www.pancarefl.org
 🏥 Services: Primary Care
 📞 850-394-4907
-🗺 https://maps.google.com/?q=30.77831,-85.25215
 
 340. PanCare Health Malone
 5336 10th St, Malone, FL, 32445-3429
@@ -2619,7 +2281,6 @@
 🌐 https://www.pancarefl.org
 🏥 Services: Primary Care
 📞 850-569-2053
-🗺 https://maps.google.com/?q=30.95247,-85.16210
 
 341. PanCare Health Mobile Unit #12
 401 Cecil G Costin Sr Blvd, Port Saint Joe, FL, 32456-1928
@@ -2627,7 +2288,6 @@
 🌐 https://pancarefl.org/
 🏥 Services: Primary Care
 📞 850-872-4128
-🗺 https://maps.google.com/?q=29.81262,-85.30152
 
 342. PanCare - Chipley
 1440 Main St, Chipley, FL, 32428-6943
@@ -2635,7 +2295,6 @@
 🌐 https://pancarefl.org
 🏥 Services: Primary Care
 📞 850-872-4128
-🗺 https://maps.google.com/?q=30.76031,-85.54663
 
 343. PanCare Dental - Panama City
 403 E 11th St, Panama City, FL, 32401-3409
@@ -2643,14 +2302,12 @@
 🌐 https://www.pancarefl.org
 🏥 Services: Primary Care
 📞 850-767-3350
-🗺 https://maps.google.com/?q=30.16805,-85.65523
 
 344. PanCare - Bonifay
 495 SAINT JOHNS RD, BONIFAY, FL, 32425-4237
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 850-547-5547
-🗺 https://maps.google.com/?q=30.76570,-85.68673
 
 345. Florida Department of Health in Walton County - Coastal Branch
 361 Greenway Trl, Santa Rosa Beach, FL, 32459-5589
@@ -2658,35 +2315,30 @@
 🌐 http://walton.floridahealth.gov
 🏥 Services: Primary Care
 📞 850-892-8015
-🗺 https://maps.google.com/?q=30.37483,-86.18271
 
 346. Longwood Elementary School
 50 Holly Ave, Shalimar, FL, 32579-1173
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 850-423-4603
-🗺 https://maps.google.com/?q=30.46077,-86.58653
 
 347. Wright Elementary
 305 Lang Rd, Fort Walton Beach, FL, 32547-3122
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 850-423-4603
-🗺 https://maps.google.com/?q=30.43702,-86.63195
 
 348. Edwins Elementary School
 7 Wright Pkwy SW, Fort Walton Beach, FL, 32548-5277
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 850-423-4603
-🗺 https://maps.google.com/?q=30.41271,-86.63923
 
 349. Caroline Street
 6671 Caroline St, Milton, FL, 32570-4781
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 850-981-9433
-🗺 https://maps.google.com/?q=30.62085,-87.04473
 
 350. Highway 90 Pediatrics
 4435 Highway 90, Milton, FL, 32571-2066
@@ -2694,7 +2346,6 @@
 🌐 https://healthcarewithinreach.org
 🏥 Services: Primary Care
 📞 850-436-4630
-🗺 https://maps.google.com/?q=30.60317,-87.13845
 
 351. 12th Avenue Pediatrics
 2510 N   12th Ave, Pensacola, FL, 32503-4604
@@ -2702,7 +2353,6 @@
 🌐 https://healthcarewithinreach.org
 🏥 Services: Primary Care
 📞 850-471-0508
-🗺 https://maps.google.com/?q=30.44017,-87.20602
 
 352. Trinity Pediatrics
 5375 N 9th Ave, Pensacola, FL, 32504-8725
@@ -2710,7 +2360,6 @@
 🌐 https://healthcarewithinreach.org
 🏥 Services: Primary Care
 📞 850-760-0669
-🗺 https://maps.google.com/?q=30.47800,-87.20954
 
 353. Palafox Two
 1380 N Palafox St, Pensacola, FL, 32501-2641
@@ -2718,7 +2367,6 @@
 🌐 https://healthcarewithinreach.org
 🏥 Services: Primary Care
 📞 850-436-4630
-🗺 https://maps.google.com/?q=30.42691,-87.21823
 
 354. Waterfront Rescue Mission
 350 W Herman St, Pensacola, FL, 32505-5249
@@ -2726,7 +2374,6 @@
 🌐 https://healthcarewithinreach.org
 🏥 Services: Primary Care
 📞 850-332-5900
-🗺 https://maps.google.com/?q=30.44923,-87.23565
 
 355. C.A. Weis Elementary School
 2701 N Q St, Pensacola, FL, 32505-5615
@@ -2734,7 +2381,6 @@
 🌐 https://healthcarewithinreach.org
 🏥 Services: Primary Care
 📞 850-912-6006
-🗺 https://maps.google.com/?q=30.44071,-87.24345
 
 356. Pine Forest High School
 2500 Longleaf Dr., Building A, Pensacola, FL, 32526
@@ -2742,7 +2388,6 @@
 🌐 https://healthcarewithinreach.org
 🏥 Services: Primary Care
 📞 850-436-4630
-🗺 https://maps.google.com/?q=30.48611,-87.29570
 
 357. Century Adult and Family Care
 6021 Industrial Blvd, Century, FL, 32535-3312
@@ -2750,7 +2395,6 @@
 🌐 https://healthcarewithinreach.org
 🏥 Services: Primary Care
 📞 850-724-4064
-🗺 https://maps.google.com/?q=30.97139,-87.27470
 
 358. University Of Florida
 655 W 8th St, Jacksonville, FL 32209-6511

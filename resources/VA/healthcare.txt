@@ -5,14 +5,12 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 757-425-3610
-🗺 https://maps.google.com/?q=36.80801,-75.99015
 
 2. Little Creek Family Health Center
 7447 Central Business Park Dr, Norfolk, VA, 23513-2831
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 757-393-6363
-🗺 https://maps.google.com/?q=36.91158,-76.24957
 
 3. CommuniCare Family Health Center
 804 Whitaker Ln, Norfolk, VA, 23510-3027
@@ -20,7 +18,6 @@
 🌐 https://www.hrchc.org
 🏥 Services: Primary Care
 📞 757-393-6363
-🗺 https://maps.google.com/?q=36.85589,-76.28333
 
 4. Park Place Family Health Center
 155 Kingsley Ln, Ste 320, Norfolk, VA, 23505-4629
@@ -28,35 +25,30 @@
 🌐 https://www.hrchc.org
 🏥 Services: Primary Care
 📞 757-393-6363
-🗺 https://maps.google.com/?q=36.89822,-76.28246
 
 5. Mobile Medical Van
 1541 High St, Portsmouth, VA, 23704
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 757-398-2749
-🗺 https://maps.google.com/?q=36.83446,-76.31713
 
 6. Healthy Smiles Dental Van #3
 1541 High St, Portsmouth, VA, 23704-3209
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 757-393-6363
-🗺 https://maps.google.com/?q=36.83446,-76.31713
 
 7. Barbara L. Willis Wellness Center
 1541 High Street, Portsmouth, VA, 23704
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 757-393-6363
-🗺 https://maps.google.com/?q=36.83446,-76.31713
 
 8. East End Physicians
 1033 28th Street FL 1st, Newport News, VA, 23607-4233
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 757-952-2160
-🗺 https://maps.google.com/?q=36.98766,-76.41147
 
 9. COMMUNITY DENTAL SERVICES
 1033 28TH ST FL 1st, NEWPORT NEWS, VA, 23607-4233
@@ -64,14 +56,12 @@
 🌐 https://pich.org
 🏥 Services: Primary Care
 📞 757-928-3810
-🗺 https://maps.google.com/?q=36.98802,-76.41163
 
 10. Southeastern Virginia Health System @ Hampton Newport News Community Services Board
 300 Medical Dr, Hampton, VA, 23666-1765
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 757-788-0300
-🗺 https://maps.google.com/?q=37.05566,-76.38741
 
 11. 48th Street Physicians
 4714 Marshall Avenue, Newport News, VA, 23607-2247
@@ -79,7 +69,6 @@
 🌐 https://sevhs.org
 🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 757-380-8709
-🗺 https://maps.google.com/?q=36.99808,-76.42407
 
 12. Kiptopeke Dental
 24023 Fairview Rd, Cape Charles, VA, 23310-2153
@@ -87,14 +76,12 @@
 🌐 https://www.esrh.org
 🏥 Services: Primary Care
 📞 757-331-1048 x1210
-🗺 https://maps.google.com/?q=37.25229,-75.97039
 
 13. Southeastern Virginia Health System @ Four Oaks Day Service Center
 7401 Warwick Blvd, Newport News, VA, 23607-1515
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 757-975-5200
-🗺 https://maps.google.com/?q=37.01403,-76.44820
 
 14. Warwick Boulevard Physicians
 9294 Warwick Blvd, Newport News, VA, 23607-1535
@@ -102,7 +89,6 @@
 🌐 https://www.pich.org
 🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 757-591-0643
-🗺 https://maps.google.com/?q=37.02123,-76.45187
 
 15. Burnetts Way Family Medicine
 156 Burnetts Way, Suffolk, VA, 23434-8166
@@ -110,7 +96,6 @@
 🌐 https://www.sevhs.org
 🏥 Services: Primary Care
 📞 757-223-7001
-🗺 https://maps.google.com/?q=36.77007,-76.58249
 
 16. Eastville Community Health Center
 17068 Lankford Highway, Eastville, VA, 23347
@@ -118,7 +103,6 @@
 🌐 https://www.esrh.org
 🏥 Services: Primary Care
 📞 757-414-0400
-🗺 https://maps.google.com/?q=37.34873,-75.94338
 
 17. STONEYBROOK PHYSICIANS
 15425 WARWICK BLVD. STE H, NEWPORT NEWS, VA, 23608-1579
@@ -126,7 +110,6 @@
 🌐 https://pich.org
 🏥 Services: Ryan White HIV/AIDS Program; Primary Care; Migrant health center
 📞 757-874-8400
-🗺 https://maps.google.com/?q=37.15029,-76.55439
 
 18. Occohannock Dental
 4208 Seaside Rd, Exmore, VA, 23350-2575
@@ -134,14 +117,12 @@
 🌐 https://www.esrh.org
 🏥 Services: Primary Care
 📞 757-789-9734
-🗺 https://maps.google.com/?q=37.52122,-75.81554
 
 19. Ivor Medical Center
 8575 IVOR RD, IVOR, VA, 23866
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 757-859-6161
-🗺 https://maps.google.com/?q=36.90077,-76.90390
 
 20. PUNGOTEAGUE DENTAL PROGRAM
 28480 Bobtown Rd, Melfa, VA, 23410-3508
@@ -149,7 +130,6 @@
 🌐 https://www.esrh.org
 🏥 Services: Primary Care
 📞 757-789-7777
-🗺 https://maps.google.com/?q=37.65255,-75.79240
 
 21. Nandua Dental
 20330 Warrior Dr, Onley, VA, 23418-3060
@@ -157,7 +137,6 @@
 🌐 https://www.esrh.org
 🏥 Services: Primary Care
 📞 757-787-7037
-🗺 https://maps.google.com/?q=37.68154,-75.72572
 
 22. Express Care
 25228 Lankford Hwy, Onley, VA, 23418-2812
@@ -165,14 +144,12 @@
 🌐 https://www.esrh.org
 🏥 Services: Primary Care
 📞 757-710-0400
-🗺 https://maps.google.com/?q=37.69835,-75.71894
 
 23. Waverly Medical Center
 344 W Main St, Waverly, VA, 23890
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 804-834-8871
-🗺 https://maps.google.com/?q=37.03607,-77.09623
 
 24. Metompkin Elementary School Health
 24501 Parksley Rd, Parksley, VA, 23421-2519
@@ -180,7 +157,6 @@
 🌐 https://www.esrh.org
 🏥 Services: Primary Care
 📞 757-665-1159
-🗺 https://maps.google.com/?q=37.77993,-75.64548
 
 25. CVHS Charles City
 9950 Courthouse Rd, Charles City, VA, 23030-3434
@@ -188,7 +164,6 @@
 🌐 https://www.cvhsinc.org
 🏥 Services: Primary Care
 📞 804-829-6600
-🗺 https://maps.google.com/?q=37.35271,-77.07445
 
 26. STONY CREEK COMMUNITY HEALTH CENTER
 12454 Hartley St, Stony Creek, VA, 23882-3302
@@ -196,7 +171,6 @@
 🌐 https://lelder@stonycreek.org
 🏥 Services: Primary Care
 📞 434-246-6100
-🗺 https://maps.google.com/?q=36.94744,-77.40053
 
 27. CVHS- Blue Devils Health Center
 400 S Mesa Dr, Hopewell, VA, 23860-4138
@@ -204,7 +178,6 @@
 🌐 https://www.cvhsinc.org
 🏥 Services: Primary Care
 📞 804-972-0068
-🗺 https://maps.google.com/?q=37.28983,-77.31400
 
 28. CVHS Petersburg
 321 C Poplar Dr, PETERSBURG, VA, 23805
@@ -212,7 +185,6 @@
 🌐 https://www.cvhsinc.org
 🏥 Services: Primary Care
 📞 804-733-5591
-🗺 https://maps.google.com/?q=37.18980,-77.36274
 
 29. Atlantic Community Health Center
 5219 Lankford Hwy, New Church, VA, 23415-3332
@@ -220,7 +192,6 @@
 🌐 https://www.esrh.org
 🏥 Services: Primary Care
 📞 757-824-5676
-🗺 https://maps.google.com/?q=37.96534,-75.53057
 
 30. CHINCOTEAGUE ISLAND COMM HLTH CTR
 4049 Main St, Chincoteague Island, VA, 23336-2406
@@ -228,14 +199,12 @@
 🌐 https://www.esrh.org
 🏥 Services: Primary Care
 📞 757-336-3682
-🗺 https://maps.google.com/?q=37.93393,-75.37805
 
 31. CVHS-Crimson Clinic
 3101 Johnson Rd, Petersburg, VA, 23805-2338
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 804-972-0068
-🗺 https://maps.google.com/?q=37.18579,-77.39952
 
 32. CVHS - South Sycamore
 541 S Sycamore St, Petersburg, VA, 23803-5039
@@ -243,14 +212,12 @@
 🌐 https://www.cvhsinc.org
 🏥 Services: Primary Care
 📞 804-835-6100
-🗺 https://maps.google.com/?q=37.21931,-77.39969
 
 33. EMPORIA MEDICAL CENTER
 510 N Main St, Emporia, VA, 23847-1236
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 434-634-7723
-🗺 https://maps.google.com/?q=36.69557,-77.53688
 
 34. CVHS King William
 11814 KING WILLIAM RD, AYLETT, VA, 23009-4103
@@ -258,21 +225,18 @@
 🌐 https://www.cvhsinc.org
 🏥 Services: Primary Care
 📞 804-769-3022
-🗺 https://maps.google.com/?q=37.74687,-77.13785
 
 35. Greater Fulton Medical Center
 1718 Williamsburg Rd, Richmond, VA, 23223
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 804-780-0840
-🗺 https://maps.google.com/?q=37.51517,-77.39356
 
 36. Henrico Area Mental Health and Developmental Services East End Center
 3908 Nine Mile Rd, Richmond, VA, 23223-4913
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Mental health
 📞 804-649-2119
-🗺 https://maps.google.com/?q=37.54155,-77.38008
 
 37. VERNON J. HARRIS EAST END CHC
 719 N   25th St, Richmond, VA, 23223-6539
@@ -280,14 +244,12 @@
 🌐 https://www.cahealthnet.org
 🏥 Services: Ryan White HIV/AIDS Program; Primary Care; Migrant health center
 📞 804-780-0840
-🗺 https://maps.google.com/?q=37.53567,-77.41466
 
 38. THE HEALING PLACE
 700 Dinwiddie Ave, Richmond, VA, 23224-5522
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Migrant health center
 📞 804-783-2505 x230
-🗺 https://maps.google.com/?q=37.51712,-77.43431
 
 🌐 http://www.dailyplanetva.org/
 
@@ -296,7 +258,6 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Health Care for the Homeless
 📞 804-783-2505 x236
-🗺 https://maps.google.com/?q=37.51373,-77.45085
 
 🌐 http://dailyplanetva.org
 
@@ -305,7 +266,6 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 804-231-7137
-🗺 https://maps.google.com/?q=37.51074,-77.46009
 
 41. DAILY PLANET HEALTHCARE FOR THE HOMELESS PROGRAM
 517 W Grace St, Richmond, VA, 23220-4911
@@ -313,14 +273,12 @@
 🌐 https://www.dailyplanetva.org
 🏥 Services: Ryan White HIV/AIDS Program; Primary Care; Health Care for the Homeless
 📞 804-783-2505 x230
-🗺 https://maps.google.com/?q=37.54763,-77.44775
 
 42. Northside Medical Center & Administration
 2809 North Ave, Richmond, VA, 23222-3647
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Migrant health center
 📞 804-780-0840
-🗺 https://maps.google.com/?q=37.56908,-77.43271
 
 🌐 http://cahealthnet.org
 
@@ -329,7 +287,6 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🏥 Services: Ryan White HIV/AIDS Program; Primary Care; Health Care for the Homeless
 📞 804-292-3011
-🗺 https://maps.google.com/?q=37.50579,-77.48168
 
 🌐 http://www.dailyplanetva.org
 
@@ -338,7 +295,6 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 804-780-0840
-🗺 https://maps.google.com/?q=37.56089,-77.45167
 
 45. CVHS Westmoreland
 18849 KINGS HIGHWAY, MONTROSS, VA, 22520-0880
@@ -346,14 +302,12 @@
 🌐 https://www.cvhsinc.org
 🏥 Services: Primary Care
 📞 804-493-9999
-🗺 https://maps.google.com/?q=38.07757,-76.78171
 
 46. Pediatric Medical Center
 5855 Bremo Rd Ste 302, Richmond, VA, 23226-1923
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Pediatrics
 📞 804-282-4207
-🗺 https://maps.google.com/?q=37.58415,-77.51259
 
 47. CVHS Brunswick
 8380 BOYDTON PLANK RD, ALBERTA, VA, 23821-2024
@@ -361,7 +315,6 @@
 🌐 https://www.cvhsinc.org
 🏥 Services: Primary Care
 📞 804-949-7211
-🗺 https://maps.google.com/?q=36.84158,-77.90641
 
 48. Greater Baden Medical Service at Leonardtown
 9159 FRANKTOWN ROAD, FRANKTOWN, VA, 23354-0009
@@ -369,14 +322,12 @@
 🌐 https://www.gbms.org
 🏥 Services: Primary Care
 📞 301-997-1029
-🗺 https://maps.google.com/?q=38.30395,-76.64122
 
 49. CVHS Children's Dental
 17202 Richmond Tpke, Milford, VA, 22514-2211
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 804-633-5465
-🗺 https://maps.google.com/?q=38.02429,-77.34090
 
 50. LUNENBURG MIDDLE SCHOOL
 583 Tomlinson Rd., Victoria, VA, 23974-2628
@@ -384,7 +335,6 @@
 🌐 https://www.sdhsinc.com
 🏥 Services: Primary Care
 📞 434-696-1644
-🗺 https://maps.google.com/?q=36.98867,-78.20669
 
 51. CENTRAL HIGH SCHOOL
 131 K V Rd, Victoria, VA, 23974-2613
@@ -392,7 +342,6 @@
 🌐 https://www.sdhsinc.com
 🏥 Services: Primary Care
 📞 434-696-2137
-🗺 https://maps.google.com/?q=36.98526,-78.21611
 
 52. VICTORIA ELEMENTARY SCHOOL
 1521 8th St, Victoria, VA, 23974-9591
@@ -400,14 +349,12 @@
 🌐 https://www.sdhsinc.com
 🏥 Services: Primary Care
 📞 434-696-2163
-🗺 https://maps.google.com/?q=36.99566,-78.22469
 
 53. SDHS Family Dentistry
 1418 6th St, Victoria, VA, 23974
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 434-696-4180
-🗺 https://maps.google.com/?q=36.99373,-78.22553
 
 54. CVHS Fredericksburg
 1965 Emancipation Hwy STE 100, Fredericksburg, VA, 22401-6213
@@ -415,7 +362,6 @@
 🌐 https://cvhsinc.org
 🏥 Services: Primary Care
 📞 540-735-0560
-🗺 https://maps.google.com/?q=38.28531,-77.48930
 
 55. PATHS Community Medical Center - Boydton
 380 Washington St., Boydton, VA, 23917-3415
@@ -423,7 +369,6 @@
 🌐 https://www.pathsinc.org
 🏥 Services: Primary Care
 📞 434-738-6420
-🗺 https://maps.google.com/?q=36.66671,-78.38775
 
 56. CVHS Farmville
 833 Buffalo St STE 200, Farmville, VA, 23901-1111
@@ -431,7 +376,6 @@
 🌐 https://www.cvhsinc.org
 🏥 Services: Primary Care
 📞 434-392-8177
-🗺 https://maps.google.com/?q=37.30455,-78.40414
 
 57. Lunera Health - Dumfries
 17739 Main St Ste 130, Dumfries, VA, 22026-3256
@@ -439,7 +383,6 @@
 🌐 http://www.gpwhealthcenter.org
 🏥 Services: Primary Care
 📞 703-680-7950
-🗺 https://maps.google.com/?q=38.56731,-77.32617
 
 58. CVHS Buckingham
 25892 N James Madison Hwy, New Canton, VA, 23123-2234
@@ -447,7 +390,6 @@
 🌐 https://www.cvhsinc.org
 🏥 Services: Primary Care
 📞 434-581-3271
-🗺 https://maps.google.com/?q=37.63660,-78.35995
 
 59. Neighborhood Health at the Gartlan Mental Health Center
 8119 Holland Rd, Alexandria, VA, 22306-3135
@@ -455,28 +397,24 @@
 🌐 https://www.neighborhoodhealthva.org
 🏥 Services: Primary Care
 📞 703-535-5568
-🗺 https://maps.google.com/?q=38.73729,-77.07912
 
 60. Neighborhood Health South County Dental
 8350 Richmond Highway  STE 233, Alexandria, VA, 22309
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 703-535-5568
-🗺 https://maps.google.com/?q=38.73150,-77.10412
 
 61. Neighborhood Health at Sherwood Hall Lane
 2616 Sherwood Hall Ln Ste 106, Alexandria, VA, 22306-3154
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 703-535-5568
-🗺 https://maps.google.com/?q=38.74318,-77.07715
 
 62. Lunera Health - Woodbridge
 3350 Commission Ct, Woodbridge, VA, 22192-1784
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 703-680-7950
-🗺 https://maps.google.com/?q=38.68711,-77.31368
 
 63. CVHS Charlotte
 165 Legrande Ave, Charlotte Court House, VA, 23923-0470
@@ -484,7 +422,6 @@
 🌐 https://www.cvhsinc.org
 🏥 Services: Primary Care
 📞 434-542-5560
-🗺 https://maps.google.com/?q=37.05457,-78.63638
 
 64. Neighborhood Health at the Casey Clinic
 1200 N Howard St, Alexandria, VA, 22304-1634
@@ -492,28 +429,24 @@
 🌐 https://www.neighborhoodhealthva.org
 🏥 Services: Primary Care
 📞 703-778-0340
-🗺 https://maps.google.com/?q=38.82150,-77.10504
 
 65. Neighborhood Health at Martha Custis Drive
 1225 Martha Custis Dr STE C1, Alexandria, VA, 22302-2040
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 703-535-5568
-🗺 https://maps.google.com/?q=38.84223,-77.08010
 
 66. Neighborhood Health at Annandale Medical
 6715 Little River Tpke Ste 201, Annandale, VA, 22003-3546
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 703-535-5568
-🗺 https://maps.google.com/?q=38.82524,-77.17537
 
 67. Neighborhood Health Arlington Pediatric Center
 2301 Columbia Pike, Ste G, Arlington, VA, 22204-4478
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 703-535-5568
-🗺 https://maps.google.com/?q=38.86388,-77.08276
 
 68. Lunera Health - Manassas
 9705 Liberia Ave Ste 201, Manassas, VA, 20110-1744
@@ -521,7 +454,6 @@
 🌐 https://www.GPWHealthCenter.com
 🏥 Services: Primary Care
 📞 703-680-7950
-🗺 https://maps.google.com/?q=38.74626,-77.44995
 
 69. La Casa Community Health Action Center
 1049 Brookdale St Ste A, Martinsville, VA, 24112-3972
@@ -529,7 +461,6 @@
 🌐 https://www.lcdp.org
 🏥 Services: Primary Care
 📞 202-507-4800
-🗺 https://maps.google.com/?q=38.93042,-77.03827
 
 70. Lunera Health - SERVE Shelter
 10056 Dean Dr, Manassas, VA, 20110-4115
@@ -537,21 +468,18 @@
 🌐 https://www.nvfs.org/our-services/homelessness-housing/serve-campus/
 🏥 Services: Primary Care
 📞 703-792-3366
-🗺 https://maps.google.com/?q=38.74462,-77.50018
 
 71. Neighborhood Health at Merrifield Center
 8221 Willow Oaks Corporate Dr Ste 450, Fairfax, VA, 22031-4512
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 703-535-5568
-🗺 https://maps.google.com/?q=38.86376,-77.23378
 
 72. Neighborhood Health Joseph Willard Dental
 3750 Old Lee HWY, Fairfax, VA, 22030-1806
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 703-535-5568
-🗺 https://maps.google.com/?q=38.85074,-77.29897
 
 73. CVHS Southern Albemarle
 2256 IRISH RD, ESMONT, VA, 22937-1945
@@ -559,7 +487,6 @@
 🌐 https://www.cvhsinc.org
 🏥 Services: Primary Care
 📞 434-286-3602
-🗺 https://maps.google.com/?q=37.82073,-78.58220
 
 74. CVHS Charlottesville
 1101 E Jefferson St Ste 1, Charlottesville, VA, 22902-5353
@@ -567,7 +494,6 @@
 🌐 https://www.cvhsinc.org
 🏥 Services: Primary Care
 📞 434-227-5624
-🗺 https://maps.google.com/?q=38.02944,-78.47128
 
 75. CVHS Peterson
 800 Preston Ave, Charlottesville, VA, 22903-4420
@@ -575,14 +501,12 @@
 🌐 https://www.cvhsinc.org
 🏥 Services: Primary Care
 📞 434-979-0366
-🗺 https://maps.google.com/?q=38.03646,-78.48874
 
 76. Blue Ridge Medical Center-Appomattox
 624 Jones St, Appomattox, VA, 24522-4031
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 434-263-4000
-🗺 https://maps.google.com/?q=37.36731,-78.82675
 
 77. Loudoun Community Health Center dba HealthWorks for Northern Virginia - Sully
 13800 Wall Rd  STE 055, Herndon, VA, 20171
@@ -590,7 +514,6 @@
 🌐 https://www.hwnova.org
 🏥 Services: Primary Care
 📞 703-443-2000
-🗺 https://maps.google.com/?q=38.91828,-77.42298
 
 78. Reston
 11484 Washington Plz W, Reston, VA, 20190-4344
@@ -598,7 +521,6 @@
 🌐 https://www.hwnova.org
 🏥 Services: Primary Care
 📞 703-443-2000
-🗺 https://maps.google.com/?q=38.96854,-77.34253
 
 79. Herndon Dental
 1141 Elden St Ste 205-206, Herndon, VA, 20170-5549
@@ -606,56 +528,48 @@
 🌐 https://www.hwnova.org
 🏥 Services: Primary Care
 📞 703-443-2000
-🗺 https://maps.google.com/?q=38.96432,-77.39684
 
 80. Sterling
 21641 Ridgetop Circle  STE 107, Sterling, VA, 20166-6597
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 703-840-4704
-🗺 https://maps.google.com/?q=39.02553,-77.40801
 
 81. Nelson County Middle School
 6925 Thomas Nelson Hwy, Lovingston, VA, 22949-2101
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 434-263-4801
-🗺 https://maps.google.com/?q=37.73223,-78.89413
 
 82. Tye River Elementary School
 5198 Thomas Nelson Hwy, Arrington, VA, 22922-2637
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 434-263-8960
-🗺 https://maps.google.com/?q=37.71368,-78.91457
 
 83. Blue Ridge Dental Center
 4038 Thomas Nelson Hwy Ste B, Arrington, VA, 22922-2302
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 434-263-6310
-🗺 https://maps.google.com/?q=37.70758,-78.93401
 
 84. Rustburg Community Health Center
 925 Village Hwy, Rustburg, VA, 24588-4591
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 434-528-0005
-🗺 https://maps.google.com/?q=37.27744,-79.09848
 
 85. HCHC Elkton
 800 Shenandoah Ave Ste 170, Elkton, VA, 22827-3060
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 540-298-9900
-🗺 https://maps.google.com/?q=38.41792,-78.62254
 
 86. James River Dental Clinic
 239 Trojan Rd, Madison Heights, VA, 24572-5346
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 434-847-4691
-🗺 https://maps.google.com/?q=37.45596,-79.11309
 
 87. Amherst County Community Health Center
 109 Clearview Rd, Madison Heights, VA, 24572
@@ -663,7 +577,6 @@
 🌐 https://www.jhcvirginia.org/
 🏥 Services: Primary Care
 📞 434-929-1400
-🗺 https://maps.google.com/?q=37.46860,-79.12033
 
 88. 5th Street Community Health Center
 800 5th St Ste A, Lynchburg, VA, 24504-2848
@@ -671,7 +584,6 @@
 🌐 https://www.communityaccessnetwork.org
 🏥 Services: Primary Care
 📞 434-818-7880
-🗺 https://maps.google.com/?q=37.41431,-79.15048
 
 89. Park View
 2420 Memorial Ave, Lynchburg, VA, 24501-2620
@@ -679,7 +591,6 @@
 🌐 https://www.communityaccessnetwork.org
 🏥 Services: Primary Care
 📞 434-818-7880
-🗺 https://maps.google.com/?q=37.40292,-79.16723
 
 90. Johnson Health Center - Lynchburg Women's and Pediatric Health Services
 2402 Atherholt Rd, Lynchburg, VA, 24501-2148
@@ -687,21 +598,18 @@
 🌐 https://www.jhcvirginia.org
 🏥 Services: Primary Care
 📞 434-455-3275
-🗺 https://maps.google.com/?q=37.40878,-79.17489
 
 91. Old Forest Road Dental
 3718 Old Forest Rd, Lynchburg, VA, 24501-6900
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 434-818-7880
-🗺 https://maps.google.com/?q=37.40367,-79.22137
 
 92. HCHC Stone Port
 1380 Little Sorrell Drive STE 100, Harrisonburg, VA, 22801
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 540-433-4913
-🗺 https://maps.google.com/?q=38.41398,-78.86600
 
 93. HCHC Downtown
 25 W Water St, Harrisonburg, VA, 22801-3624
@@ -709,14 +617,12 @@
 🌐 https://hburgchc.org/
 🏥 Services: Primary Care
 📞 540-433-4913
-🗺 https://maps.google.com/?q=38.44835,-78.86945
 
 94. RAHC - Buena Vista
 2127 Magnolia Ave, Buena Vista, VA, 24416-3111
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 540-464-8700
-🗺 https://maps.google.com/?q=37.73488,-79.35438
 
 95. Parry McCluer Health Center
 100 Bradford Drive, Buena Vista, VA, 24416
@@ -724,7 +630,6 @@
 🌐 https://www.rockahc.org
 🏥 Services: Primary Care
 📞 540-464-8700
-🗺 https://maps.google.com/?q=37.71842,-79.35991
 
 96. Rockbridge Area Health Center
 25 Northridge Ln, Lexington, VA, 24450-3399
@@ -732,7 +637,6 @@
 🌐 http://rockahc.org
 🏥 Services: Primary Care
 📞 540-464-8700
-🗺 https://maps.google.com/?q=37.80371,-79.40502
 
 97. Bedford  Community Dental Center
 600 Bedford Ave, Bedford, VA, 24523-1966
@@ -740,7 +644,6 @@
 🌐 https://www.jhcvirginia.org
 🏥 Services: Primary Care
 📞 434-455-2480
-🗺 https://maps.google.com/?q=37.33831,-79.52956
 
 98. SCH Winchester
 1330 Amherst St, Winchester, VA, 22601-3054
@@ -748,7 +651,6 @@
 🌐 http://www.shencommhealth.com/www.winchesterfamilyhealth.com
 🏥 Services: Primary Care
 📞 540-722-2369 x1062
-🗺 https://maps.google.com/?q=39.19073,-78.18387
 
 99. SCH Migrant Outreach
 867 FAIRMONT AVE, WINCHESTER, VA, 22601-4929
@@ -756,14 +658,12 @@
 🌐 http://www.shencommhealth.com/
 🏥 Services: Primary Care
 📞 304-263-4999
-🗺 https://maps.google.com/?q=39.19744,-78.16537
 
 100. PATHS Community Dental Center - Danville
 501 Rison St Ste 110, Danville, VA, 24541-2426
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 434-791-0214
-🗺 https://maps.google.com/?q=36.57860,-79.40142
 
 101. PATHS George Washington High School Based Health Center
 701 Broad St, Danville, VA, 24541-2627
@@ -771,14 +671,12 @@
 🌐 https://www.pathsinc.org
 🏥 Services: Primary Care
 📞 434-791-3630
-🗺 https://maps.google.com/?q=36.58739,-79.41189
 
 102. Highland Medical Center School Based Healthcare
 240 Myers Moon Rd, Monterey, VA, 24465
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 540-468-6400
-🗺 https://maps.google.com/?q=38.40712,-79.57852
 
 103. New Horizons Dental Care, Williamson
 1502 Williamson Rd NE Ste 1000-A, Roanoke, VA, 24012-5130
@@ -786,7 +684,6 @@
 🌐 https://newhorizonshealthcare.org
 🏥 Services: Primary Care
 📞 540-362-0360
-🗺 https://maps.google.com/?q=37.28535,-79.93298
 
 104. Kuumba Community Health and Wellness Center, Inc. d/b/a New Horizons Healthcare
 3716 Melrose Ave NW, Roanoke, VA, 24017-2716
@@ -794,14 +691,12 @@
 🌐 https://www.newhorizonshealthcare.org
 🏥 Services: Primary Care
 📞 540-362-1788
-🗺 https://maps.google.com/?q=37.29390,-79.99800
 
 105. CRAIG COUNTY DENTAL CENTER
 230 Market Street, New Castle, VA, 24127
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-772-3064
-🗺 https://maps.google.com/?q=37.50467,-80.10976
 
 106. Tri-Area Community Health Center at Ferrum
 180 Ferrum Mountain Rd, Ferrum, VA, 24088-2939
@@ -809,7 +704,6 @@
 🌐 https://www.triareahealth.org
 🏥 Services: Primary Care
 📞 540-365-4469
-🗺 https://maps.google.com/?q=36.92708,-80.01818
 
 107. Montgomery Clinic
 215 Roanoke St, Christiansburg, VA, 24073-3025
@@ -817,7 +711,6 @@
 🌐 https://www.chcnrv.org
 🏥 Services: Primary Care
 📞 540-381-0820
-🗺 https://maps.google.com/?q=37.12989,-80.40226
 
 108. Tri-Area Community Health at Floyd County Schools
 531 Oak Hill Dr SE, Floyd, VA, 24091-2187
@@ -825,7 +718,6 @@
 🌐 https://www.triareahealth.org/
 🏥 Services: Primary Care
 📞 866-942-0401
-🗺 https://maps.google.com/?q=36.91043,-80.30765
 
 109. Bassett Family Practice
 324 T B Stanley Hwy, Bassett, VA, 24055-6108
@@ -833,7 +725,6 @@
 🌐 https://www.healthycommunitymhc.org
 🏥 Services: Primary Care
 📞 276-629-1076
-🗺 https://maps.google.com/?q=36.73638,-79.95959
 
 110. Kilcollin Dental
 101 Cowardin Ave, Suite 102, Richmond, VA, 23224
@@ -841,7 +732,6 @@
 🌐 https://www.kilcollindental.com
 🏥 Services: Primary Care
 📞 304-772-3333
-🗺 https://maps.google.com/?q=37.58801,-80.54795
 
 111. Pulaski/Radford Clinic
 5826 Ruebush Rd Ste B, Dublin, VA, 24084-2252
@@ -849,7 +739,6 @@
 🌐 https://www.chcnrv.org
 🏥 Services: Primary Care
 📞 540-585-1310
-🗺 https://maps.google.com/?q=37.11569,-80.66985
 
 112. Giles Clinic
 219 Buchanan St, Pearisburg, VA, 24134-1901
@@ -857,7 +746,6 @@
 🌐 https://www.chcnrv.org
 🏥 Services: Primary Care
 📞 540-921-3502
-🗺 https://maps.google.com/?q=37.32327,-80.72268
 
 113. Pulaski County High School Service Site
 5414 Cougar Trail Rd BLDG 2, Dublin, VA, 24084-3841
@@ -865,7 +753,6 @@
 🌐 https://www.chcnrv.org
 🏥 Services: Primary Care
 📞 540-381-0820
-🗺 https://maps.google.com/?q=37.09413,-80.71674
 
 114. Ridgeway Family Health
 4944 Greensboro Rd, Ridgeway, VA, 24148-3390
@@ -873,7 +760,6 @@
 🌐 http://www.healthycommunitymhc.org/
 🏥 Services: Primary Care
 📞 276-403-5007
-🗺 https://maps.google.com/?q=36.62618,-79.86122
 
 115. Connect Health- Patrick
 22121 Jeb Stuart Hwy, Stuart, VA, 24171-5287
@@ -881,7 +767,6 @@
 🌐 https://www.connecthealthva.org
 🏥 Services: Primary Care
 📞 276-638-0787
-🗺 https://maps.google.com/?q=36.63290,-80.19784
 
 116. Orchard Creek Clinic
 8494 S Scenic Hwy, Bland, VA, 24315-5255
@@ -889,7 +774,6 @@
 🌐 https://www.BlandClinic.com
 🏥 Services: Primary Care
 📞 276-688-0500
-🗺 https://maps.google.com/?q=37.10055,-81.12291
 
 117. Bland County Medical Clinic Dental Clinic
 8487 S Scenic Hwy, Bland, VA, 24315-4691
@@ -897,14 +781,12 @@
 🌐 https://BlandClinic.com
 🏥 Services: Primary Care
 📞 276-688-4711
-🗺 https://maps.google.com/?q=37.10110,-81.12308
 
 118. Bluestone Health Clinic
 562 Virginia Ave, Bluefield, VA, 24605-1729
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-431-5499
-🗺 https://maps.google.com/?q=37.25301,-81.27112
 
 119. Tazewell Community Health Center
 386 Ben Bolt Ave, Tazewell, VA, 24651-5386
@@ -912,42 +794,36 @@
 🌐 https://svchs.com
 🏥 Services: Primary Care
 📞 276-979-9899
-🗺 https://maps.google.com/?q=37.12500,-81.48929
 
 120. Tazewell - New Day Recovery
 388 Ben Bolt Ave Ste 4, Tazewell, VA, 24651-5386
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 276-979-9899
-🗺 https://maps.google.com/?q=37.12375,-81.48904
 
 121. Tri-Area Community Health - Grayson Highlands
 6436 Troutdale Hwy, Troutdale, VA, 24378-2023
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 866-942-0401
-🗺 https://maps.google.com/?q=36.65284,-81.40511
 
 122. Northwood Middle School
 156 Long Hollow Rd, Saltville, VA, 24370-4140
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 276-496-4492
-🗺 https://maps.google.com/?q=36.92984,-81.62636
 
 123. Chilhowie High School
 1160 E Lee Hwy, Chilhowie, VA, 24319-4691
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 276-646-8966
-🗺 https://maps.google.com/?q=36.80438,-81.67352
 
 124. KONNAROCK FAMILY HEALTH CENTER
 20471 Azen Rd, Damascus, VA, 24236-4141
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 276-388-3431
-🗺 https://maps.google.com/?q=36.66519,-81.63574
 
 125. T.K. MCKEE HOSPITAL BUILDING
 319 FIFTH AVENUE, SALTVILLE, VA, 24370-0729
@@ -955,21 +831,18 @@
 🌐 https://svchs.com
 🏥 Services: Primary Care
 📞 276-496-4492
-🗺 https://maps.google.com/?q=36.88096,-81.75705
 
 126. HOLSTON FAMILY HEALTH CENTER
 306 SOUTH SHADY AVENUE, DAMASCUS, VA, 24236-0456
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 276-475-5116
-🗺 https://maps.google.com/?q=36.63352,-81.78853
 
 127. Vansant  Respiratory Care Center
 1060 Anchorage Cir, Vansant, VA, 24656-7021
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 276-498-1625
-🗺 https://maps.google.com/?q=37.23858,-82.07444
 
 128. Virginia Commonwealth University Infectious Disease Clinic
 1200 E Broad St, Richmond, VA 23298-5025

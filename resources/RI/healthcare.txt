@@ -5,21 +5,18 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 401-861-2403
-🗺 https://maps.google.com/?q=41.81628,-71.41932
 
 2. The Providence Community Health Centers, . – 1 Randall Square
 1 Randall Square, Suite 202, Provi, RI, 02906
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 401-274-6339
-🗺 https://maps.google.com/?q=41.83694,-71.41112
 
 3. PCHC Specialty Clinic
 1 Randall Sq, Ste 414, Providence, RI, 02904-7405
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 401-444-0414
-🗺 https://maps.google.com/?q=41.83697,-71.41044
 
 4. Capitol Hill Health Center
 40 Candace St, Providence, RI, 02908-3747
@@ -27,7 +24,6 @@
 🌐 https://www.providencechc.org
 🏥 Services: Primary Care
 📞 401-444-0550 x3568
-🗺 https://maps.google.com/?q=41.83576,-71.42287
 
 5. CENTRAL HEALTH CENTER
 239 Cranston St, Providence, RI, 02907-2406
@@ -35,7 +31,6 @@
 🌐 https://www.providencechc.org
 🏥 Services: Primary Care
 📞 401-444-0580 x3868
-🗺 https://maps.google.com/?q=41.81393,-71.42757
 
 6. Thundermist Special Populations Providence
 557 Broad St, Providence, RI, 02907-4120
@@ -43,21 +38,18 @@
 🌐 https://www.thundermisthealth.org
 🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 401-767-4100
-🗺 https://maps.google.com/?q=41.80899,-71.42107
 
 7. PCHC Dental Clinic
 335R Prairie Avenue  FL 3 and 4, Providence, RI, 02905
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Dental
 📞 401-444-0430
-🗺 https://maps.google.com/?q=41.80507,-71.41463
 
 8. PCHC - Beaman & Smith
 335R Prairie Avenue  STE C and 2C, Providence, RI, 02905
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 401-444-0430
-🗺 https://maps.google.com/?q=41.80481,-71.41562
 
 9. Providence Community Health Center at Prairie Avenue
 355 Prairie Ave, Providence, RI, 02905-1928
@@ -65,14 +57,12 @@
 🌐 https://www.providencechc.org
 🏥 Services: Primary Care
 📞 401-444-0570
-🗺 https://maps.google.com/?q=41.80440,-71.41462
 
 10. Atwood Street Health Center
 31 Atwood St, Providence, RI, 02909-3410
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 401-444-0400
-🗺 https://maps.google.com/?q=41.81515,-71.44464
 
 11. BVCHC Main Street Satellite
 1145 MAIN ST, PAWTUCKET, RI, 02860-4807
@@ -80,7 +70,6 @@
 🌐 https://www.bvchc.org
 🏥 Services: Primary Care
 📞 401-729-0080
-🗺 https://maps.google.com/?q=41.85814,-71.39941
 
 12. FAMILY HEALTH SERVICES - CRANSTON
 1090 Cranston St, Cranston, RI, 02920-7323
@@ -88,7 +77,6 @@
 🌐 https://www.comcap.org
 🏥 Services: Primary Care
 📞 401-943-1981
-🗺 https://maps.google.com/?q=41.79668,-71.44835
 
 13. MOLAR EXPRESS-DENTAL VAN / Mobile Medical Unit Primary Care
 311 Doric Ave, Cranston, RI, 02910-2903
@@ -96,7 +84,6 @@
 🌐 https://www.comcap.org
 🏥 Services: Primary Care; Dental
 📞 401-467-9610
-🗺 https://maps.google.com/?q=41.77646,-71.42742
 
 14. Tri-County Community Health Center
 1126 Hartford Avenue, Johnston, RI, 02919-7130
@@ -104,14 +91,12 @@
 🌐 https://www.tricountyri.org
 🏥 Services: Primary Care
 📞 401-519-1940
-🗺 https://maps.google.com/?q=41.82209,-71.48614
 
 15. Blackstone Valley Community Healthcare I – 42 Park Pl
 42 Park Pl, Pawtucket, RI, 02860-4010
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 401-729-0080
-🗺 https://maps.google.com/?q=41.87638,-71.38649
 
 16. EAST BAY FAMILY HEALTH CENTER
 100 BULLOCKS POINT AVE, RIVERSIDE, RI, 02915-5351
@@ -119,7 +104,6 @@
 🌐 https://www.ebcap.org
 🏥 Services: Primary Care
 📞 401-437-1008
-🗺 https://maps.google.com/?q=41.77514,-71.36295
 
 17. Central Falls SBHC
 10 Higginson Ave, Central Falls, RI, 02863-2413
@@ -127,7 +111,6 @@
 🌐 https://www.bvchc.org
 🏥 Services: Primary Care
 📞 401-722-0081
-🗺 https://maps.google.com/?q=41.88547,-71.40298
 
 18. Adams-Farley Counseling Center
 610 Wampanoag Trl, Riverside, RI, 02915-1504
@@ -135,7 +118,6 @@
 🌐 https://www.ebcap.org
 🏥 Services: Primary Care
 📞 401-431-9870
-🗺 https://maps.google.com/?q=41.79147,-71.33665
 
 19. BLACKSTONE VALLEY COMM HLTH CTR
 9 CHESTNUT ST, CENTRAL FALLS, RI, 02863-2005
@@ -143,7 +125,6 @@
 🌐 https://www.bvchc.org
 🏥 Services: Primary Care
 📞 401-724-7110
-🗺 https://maps.google.com/?q=41.89305,-71.38808
 
 20. CCAP: Integrated Primary Care Partners
 2756 Post Rd Ste 103, Warwick, RI, 02886-3003
@@ -151,7 +132,6 @@
 🌐 https://www.comcap.org
 🏥 Services: Primary Care
 📞 401-467-9610 x0
-🗺 https://maps.google.com/?q=41.70912,-71.44983
 
 21. Northwest Community Health Care d/b/a WellOne Primary Medical and Dental Care
 35 Village Plaza Way, Scituate, RI, 02857-1849
@@ -159,7 +139,6 @@
 🌐 https://www.welloneri.org
 🏥 Services: Primary Care
 📞 401-647-6262
-🗺 https://maps.google.com/?q=41.83690,-71.57365
 
 22. Warwick Health Center
 206 Buttonwoods Ave, Warwick, RI, 02886-7541
@@ -167,7 +146,6 @@
 🌐 https://www.comcap.org
 🏥 Services: Primary Care
 📞 401-732-9090
-🗺 https://maps.google.com/?q=41.70115,-71.42966
 
 23. East Bay Community Action Program – 2 County Rd
 2 County Rd, Barrington, RI, 02806-4540
@@ -175,14 +153,12 @@
 🌐 https://www.ebcap.org
 🏥 Services: Primary Care
 📞 401-246-1195
-🗺 https://maps.google.com/?q=41.73734,-71.28996
 
 24. Thundermist Health Center Mobile Medical Unit
 186 Providence St, West Warwick, RI, 02893
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 401-767-4100
-🗺 https://maps.google.com/?q=41.71481,-71.51503
 
 25. HealthHut - Deering Middle School West Warwick
 2 Webster Knight Dr, West Warwick, RI, 02893-2743
@@ -190,7 +166,6 @@
 🌐 https://www.thundermisthealth.org
 🏥 Services: Primary Care
 📞 401-615-2900
-🗺 https://maps.google.com/?q=41.70886,-71.51677
 
 26. FAMILY HEALTH SVCS OF COVENTRY
 191 Macarthur Blvd, Coventry, RI, 02816-7244
@@ -198,7 +173,6 @@
 🌐 https://www.comcap.org
 🏥 Services: Primary Care
 📞 401-467-9610
-🗺 https://maps.google.com/?q=41.69733,-71.53980
 
 27. HealthHut - Woonsocket Middle School
 240 Florence Dr, Woonsocket, RI, 02895-3481
@@ -206,7 +180,6 @@
 🌐 https://www.thundermisthealth.org
 🏥 Services: Primary Care
 📞 401-225-5425
-🗺 https://maps.google.com/?q=42.00582,-71.50251
 
 28. Thundermist Woonsocket
 450 Clinton St, Woonsocket, RI, 02895-3207
@@ -214,7 +187,6 @@
 🌐 https://www.thundermisthealth.org
 🏥 Services: Primary Care
 📞 401-767-4100
-🗺 https://maps.google.com/?q=42.00721,-71.50645
 
 29. WellOne Primary Medical and Dental Care Behavioral Health Program
 55 Pascoag Main St, Pascoag, RI, 02859-3102
@@ -222,21 +194,18 @@
 🌐 https://www.welloneri.org
 🏥 Services: Primary Care
 📞 401-567-0800
-🗺 https://maps.google.com/?q=41.95587,-71.70213
 
 30. Newport Mental Health Center Clinic
 65 Valley Rd, Middletown, RI, 02842-5234
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 401-846-1213
-🗺 https://maps.google.com/?q=41.51793,-71.29366
 
 31. Thundermist Health Center of South County - Pediatrics
 360 Kingstown Rd Unit 101, Narragansett, RI, 02882-3258
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 401-767-4100
-🗺 https://maps.google.com/?q=41.43406,-71.48122
 
 32. WOOD RIVER HEALTH SERVICES, INC.
 823 Main St, Hope Valley, RI, 02832-1920
@@ -244,14 +213,12 @@
 🌐 https://www.woodriverhealthservices.org
 🏥 Services: Primary Care
 📞 401-539-2461
-🗺 https://maps.google.com/?q=41.48979,-71.73656
 
 33. WRHS Westerly Site
 17 Wells St Ste 202, Westerly, RI, 02891-2923
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 401-387-9648
-🗺 https://maps.google.com/?q=41.36227,-71.82713
 
 34. Jean Yawkey Place
 1637 Mineral Spring Ave, North Providence, RI, 02904-4042
@@ -259,14 +226,12 @@
 🌐 https://www.bhchp.org
 🏥 Services: Primary Care
 📞 857-654-1000
-🗺 https://maps.google.com/?q=42.33365,-71.07282
 
 35. Block Island Medical Center/Wood River Health Dental
 6 Payne Rd, Block Island, RI, 02807-7761
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 401-539-2461
-🗺 https://maps.google.com/?q=41.16399,-71.56161
 
 36. Miriam  Hospital
 164 Summit Ave, Providence, RI 02906-2853

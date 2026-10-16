@@ -6,7 +6,6 @@
 🌐 http://all4health.org/
 🏥 Services: Primary Care
 📞 702-384-1110
-🗺 https://maps.google.com/?q=36.15896,-115.13616
 
 2. First Person Care Clinic
 1200 S 4TH ST, LAS VEGAS, NV, 89104-1046
@@ -14,7 +13,6 @@
 🌐 https://www.FirstPersonCC.org
 🏥 Services: Primary Care
 📞 702-380-8118
-🗺 https://maps.google.com/?q=36.15733,-115.15041
 
 3. Las Vegas Health & Wellness Center
 1450 N Main St, Las Vegas, NV, 89101
@@ -22,28 +20,24 @@
 🌐 https://www.nvhealthcenters.org
 🏥 Services: Primary Care
 📞 702-307-4635
-🗺 https://maps.google.com/?q=36.18645,-115.13627
 
 4. Hope Recuperative Care Center
 1450 N Main St  STE 200, Las Vegas, NV, 89101
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 702-229-5460
-🗺 https://maps.google.com/?q=36.18645,-115.13627
 
 5. Southern Nevada Health District, Mobile Unit
 700 S Martin L King Blvd, Las Vegas, NV, 89106-4409
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 702-759-1700
-🗺 https://maps.google.com/?q=36.16222,-115.16193
 
 6. FirstMed Shadow Lane
 400 Shadow Ln, Las Vegas, NV, 89106-4363
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 702-377-1000
-🗺 https://maps.google.com/?q=36.16658,-115.16580
 
 7. Nevada Health Centers at C.P. Squires
 1312 E Tonopah Ave, North Las Vegas, NV, 89030-7111
@@ -51,7 +45,6 @@
 🌐 https://www.nvhealthcenters.org
 🏥 Services: Primary Care
 📞 702-220-9905
-🗺 https://maps.google.com/?q=36.19276,-115.12300
 
 8. Nevada Health Centers at Enterprise
 1700 Wheeler Peak Dr., Las Vegas, NV, 89106
@@ -59,7 +52,6 @@
 🌐 https://www.nvhealthcenters.org
 🏥 Services: Primary Care
 📞 702-563-4625
-🗺 https://maps.google.com/?q=36.19097,-115.16310
 
 9. Eastern Family Medical and Dental Center
 2212 S. Eastern Ave., Las Vegas, NV, 89104-4124
@@ -67,14 +59,12 @@
 🌐 https://www.nvhealthcenters.org
 🏥 Services: Primary Care; Dental
 📞 702-735-9334
-🗺 https://maps.google.com/?q=36.14662,-115.11930
 
 10. Aghaby: North Las Vegas
 1845 Civic Center Dr, North Las Vegas, NV, 89030-7113
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 424-785-5170
-🗺 https://maps.google.com/?q=36.19341,-115.11634
 
 11. Martin Luther King Health Center
 1799 Mount Mariah Drive, Las Vegas, NV, 89106
@@ -82,21 +72,18 @@
 🌐 https://www.nvhealthcenters.org
 🏥 Services: Primary Care
 📞 702-383-1961
-🗺 https://maps.google.com/?q=36.19318,-115.16395
 
 12. FirstMed Pediatrics
 701 N Pecos Rd, Las Vegas, NV, 89101-2400
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Pediatrics
 📞 702-731-0909
-🗺 https://maps.google.com/?q=36.17546,-115.10077
 
 13. Martinez Elementary School
 350 E Junction, North Las Vegas, NV, 89030
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 702-870-8852
-🗺 https://maps.google.com/?q=36.20576,-115.11952
 
 14. FirstMed Health and Wellness Center
 3343 S Eastern Ave, Las Vegas, NV, 89169-3312
@@ -104,7 +91,6 @@
 🌐 https://www.firstmednv.org
 🏥 Services: Primary Care
 📞 702-731-0909
-🗺 https://maps.google.com/?q=36.12904,-115.11906
 
 15. Cambridge Family Health Center
 3900 Cambridge St STE 102, Las Vegas, NV, 89119-7440
@@ -112,14 +98,12 @@
 🌐 https://www.nvhealthcenters.org
 🏥 Services: Primary Care
 📞 702-307-5415
-🗺 https://maps.google.com/?q=36.11911,-115.14182
 
 16. Hope Christian Health Center Decatur
 4800 Alpine Pl  STE 8-10, Las Vegas, NV, 89107
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 702-644-4673
-🗺 https://maps.google.com/?q=36.16030,-115.20649
 
 17. Southern Nevada Community Health Center - Decatur
 280 S Decatur Blvd, Las Vegas, NV, 89107-2936
@@ -127,7 +111,6 @@
 🌐 https://snhd.org
 🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 702-759-1000
-🗺 https://maps.google.com/?q=36.17092,-115.20952
 
 18. All For Health - Nellis Blvd. II
 731 N Nellis Blvd  STE 2, Las Vegas, NV, 89110-5384
@@ -135,7 +118,6 @@
 🌐 http://all4health.org
 🏥 Services: Primary Care
 📞 702-384-1110
-🗺 https://maps.google.com/?q=36.17602,-115.06232
 
 19. FirstMed North Las Vegas
 3940 N Martin L King Blvd, Ste 110, North Las Vegas, NV, 89032-6607
@@ -143,7 +125,6 @@
 🌐 https://FMHWC.ORG
 🏥 Services: Primary Care
 📞 702-731-0909
-🗺 https://maps.google.com/?q=36.23088,-115.16182
 
 20. All For Health, Las Vegas
 1735 N Nellis Blvd Ste G, Las Vegas, NV, 89115-3671
@@ -151,14 +132,12 @@
 🌐 https://www.allforhealth.org
 🏥 Services: Primary Care
 📞 818-409-3020
-🗺 https://maps.google.com/?q=36.19092,-115.06231
 
 21. HCHC Behavioral Health
 4100 N. Martin L King Blvd.  STE B-C, North Las Vegas, NV, 89032-0293
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Mental health
 📞 702-644-4673
-🗺 https://maps.google.com/?q=36.23419,-115.16140
 
 22. North East Medical Services - Las Vegas
 5580 W Flamingo Rd, Ste 105, Las Vegas, NV, 89103-0165
@@ -166,7 +145,6 @@
 🌐 https://www.nems.org/
 🏥 Services: Primary Care
 📞 888-500-1886
-🗺 https://maps.google.com/?q=36.11617,-115.21806
 
 23. SAFE HARBOR MEDICAL
 2901 N Tenaya Way Ste 100, Las Vegas, NV, 89128-1404
@@ -174,14 +152,12 @@
 🌐 https://WWW.SAFEHARBORMEDLV.ORG
 🏥 Services: Primary Care
 📞 702-870-8852
-🗺 https://maps.google.com/?q=36.21368,-115.25079
 
 24. Mobile Outreach Clinic 2 (MOC2)
 5714 Ferrell St, North Las Vegas, NV, 89031-3512
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 702-644-4673
-🗺 https://maps.google.com/?q=36.26369,-115.18441
 
 25. Henderson Family Health Center
 98 E LAKE MEAD PKWY, HENDERSON, NV, 89015-5540
@@ -189,7 +165,6 @@
 🌐 https://www.nvhealthcenters.org
 🏥 Services: Primary Care
 📞 702-868-0327
-🗺 https://maps.google.com/?q=36.03967,-114.98365
 
 26. Pahrump Family Health Center
 1430 E Calvada Blvd, Pahrump, NV, 89048-5824
@@ -197,7 +172,6 @@
 🌐 https://www.nvhealthcenters.org
 🏥 Services: Primary Care
 📞 775-257-7015
-🗺 https://maps.google.com/?q=36.19197,-115.98817
 
 27. Tri-State Community Healthcare Center
 1955 S Casino Dr, Suite 118, Laughlin, NV, 89029-1549
@@ -205,7 +179,6 @@
 🌐 https://tristateclinics.org
 🏥 Services: Primary Care
 📞 760-326-0222
-🗺 https://maps.google.com/?q=35.16235,-114.57605
 
 28. Amargosa Valley Medical Clinic
 1690 E Amargosa Farm Rd, Amargosa Valley, NV, 89020-9735
@@ -213,7 +186,6 @@
 🌐 https://www.nvhealthcenters.org
 🏥 Services: Primary Care
 📞 775-372-5432
-🗺 https://maps.google.com/?q=36.56923,-116.45862
 
 29. Change Point
 445 Ralston St, Reno, NV, 89503-4432
@@ -221,7 +193,6 @@
 🌐 https://www.nnhopes.org
 🏥 Services: Primary Care
 📞 775-348-2882
-🗺 https://maps.google.com/?q=39.52930,-119.82106
 
 30. Northern Nevada HIV Outpatient Program Education and Services
 580 W 5th St, Reno, NV, 89503-4407
@@ -229,7 +200,6 @@
 🌐 https://www.nnhopes.org
 🏥 Services: Primary Care
 📞 775-786-4673
-🗺 https://maps.google.com/?q=39.52959,-119.82196
 
 31. Willow Street Health Center
 790 Willow Street  BLDG, Reno, NV, 89502-1304
@@ -237,7 +207,6 @@
 🌐 https://www.nvhealthcenters.org
 🏥 Services: Primary Care
 📞 775-888-6618
-🗺 https://maps.google.com/?q=39.52468,-119.80195
 
 32. Complex Care Center (CCC)
 330 Crampton St, Reno, NV, 89502-2480
@@ -245,7 +214,6 @@
 🌐 https://www.chanevada.org
 🏥 Services: Primary Care
 📞 775-329-6300
-🗺 https://maps.google.com/?q=39.51611,-119.80403
 
 33. Community Health Alliance Wells Avenue Medical/Dental Center
 1055 S Wells Ave, Reno, NV, 89502-2586
@@ -253,14 +221,12 @@
 🌐 https://www.chanevada.org
 🏥 Services: Primary Care
 📞 775-329-6300
-🗺 https://maps.google.com/?q=39.51572,-119.80386
 
 34. Hope Springs
 1920 E 4th St, Reno, NV, 89512-3705
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 775-786-4673
-🗺 https://maps.google.com/?q=39.53335,-119.78962
 
 35. Community Health Alliance Mobile  Dental Restorative Van
 680 S Rock Blvd, Reno, NV, 89502-4113
@@ -268,7 +234,6 @@
 🌐 https://www.chanevada.org
 🏥 Services: Primary Care
 📞 775-329-6300
-🗺 https://maps.google.com/?q=39.50236,-119.76204
 
 36. Sun Valley Health Center (New)
 5055 Sun Valley Blvd Ste 100, Sun Valley, NV, 89433-8296
@@ -276,7 +241,6 @@
 🌐 https://www.chanevada.org
 🏥 Services: Primary Care
 📞 775-329-6300
-🗺 https://maps.google.com/?q=39.57558,-119.78167
 
 37. Community Health Alliance North Valleys Health Center
 280 Vista Knoll Pkwy Ste 107, Reno, NV, 89506-5649
@@ -284,7 +248,6 @@
 🌐 https://www.chanevada.org
 🏥 Services: Primary Care
 📞 775-329-6300
-🗺 https://maps.google.com/?q=39.61701,-119.85432
 
 38. Nevada Health Centers at Virginia City
 175 E. Carson Street STE A, Virginia City, NV, 89440-9800
@@ -292,7 +255,6 @@
 🌐 https://www.nvhealthcenters.org
 🏥 Services: Primary Care
 📞 775-445-3510
-🗺 https://maps.google.com/?q=39.31432,-119.64629
 
 39. Nevada Health Centers Mobile Medical Services 1
 3325 Research Way, Carson City, NV, 89706-7913
@@ -300,7 +262,6 @@
 🌐 https://www.nvhealthcenters.org
 🏥 Services: Primary Care; Migrant health center
 📞 775-257-7455
-🗺 https://maps.google.com/?q=39.18916,-119.74984
 
 40. Nevada Health Centers Carson City School Based
 618 W Musser St, Carson City, NV, 89703-4931
@@ -308,7 +269,6 @@
 🌐 https://www.nvhealthcenters.org
 🏥 Services: Primary Care
 📞 775-445-3500
-🗺 https://maps.google.com/?q=39.16489,-119.77187
 
 41. Ahf Las Vegas
 3201 S Maryland Pkwy STE 2, Las Vegas, NV 89109-2441

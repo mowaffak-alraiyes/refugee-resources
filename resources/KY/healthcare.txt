@@ -5,14 +5,12 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 502-772-8662
-🗺 https://maps.google.com/?q=38.24536,-85.75429
 
 2. The Wellness Center @ Dawson Orman
 900 S Floyd St, Louisville, KY, 40203-2331
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 502-485-7008
-🗺 https://maps.google.com/?q=38.24004,-85.75095
 
 3. PHOENIX HEALTH CENTER FOR THE HOMELESS
 712 E Muhammad Ali Blvd, Louisville, KY, 40202-1643
@@ -20,21 +18,18 @@
 🌐 https://www.fhclouisville.org
 🏥 Services: Primary Care
 📞 502-568-6972
-🗺 https://maps.google.com/?q=38.24907,-85.74010
 
 4. Family Health Center-East Broadway
 834 East Broadway  FL 1 - 4, LOUISVILLE, KY, 40204-1072
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 502-583-1981
-🗺 https://maps.google.com/?q=38.24452,-85.73777
 
 5. The Wellness Center @ Perry Elementary
 755 Dixie Hwy, Louisville, KY, 40210
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 502-778-0001
-🗺 https://maps.google.com/?q=38.24767,-85.78247
 
 6. Family Health Centers - West Market
 2500 W Market St, Louisville, KY, 40212-1541
@@ -42,21 +37,18 @@
 🌐 https://www.fhclouisville.org
 🏥 Services: Primary Care
 📞 502-778-8400
-🗺 https://maps.google.com/?q=38.25888,-85.79224
 
 7. Mobile Medical Unit - HCH Project
 2215 Portland Ave, Louisville, KY, 40212-1033
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 502-772-8558
-🗺 https://maps.google.com/?q=38.27063,-85.78474
 
 8. LifeSpring Forensic Services
 633 Maysville Rd, Mount Sterling, KY, 40353
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 812-206-0012
-🗺 https://maps.google.com/?q=38.27639,-85.73730
 
 9. Shawnee Christian Healthcare Center, Inc.
 234 Amy Ave., Louisville, KY, 40212-2522
@@ -64,14 +56,12 @@
 🌐 https://shawneechristianhealthcare.org
 🏥 Services: Primary Care; Public housing primary care
 📞 502-778-0001
-🗺 https://maps.google.com/?q=38.26037,-85.81366
 
 10. SCHC Dental Clinic
 222 Amy Ave, Louisville, KY, 40212-2522
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Dental
 📞 502-774-2400
-🗺 https://maps.google.com/?q=38.26083,-85.81362
 
 11. Park DuValle at Westend School
 3628 Virginia Ave, Louisville, KY, 40211-1664
@@ -79,21 +69,18 @@
 🌐 https://PDCHC.org
 🏥 Services: Primary Care
 📞 502-774-4401
-🗺 https://maps.google.com/?q=38.23912,-85.81431
 
 12. Park DuValle Mobile Dentistry Van
 3015 Wilson Ave, Louisville, KY, 40211-1969
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care, Ryan White HIV/AIDS Program
 📞 502-916-7091
-🗺 https://maps.google.com/?q=38.22721,-85.80711
 
 13. Family Health Center - Americana Annex
 4801 Southside Dr, Louisville, KY, 40214-2111
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 502-772-8891
-🗺 https://maps.google.com/?q=38.17873,-85.76410
 
 14. Family Health Centers - Iroquois High School SBS
 4615 Taylor Blvd, Louisville, KY, 40215-2307
@@ -101,14 +88,12 @@
 🌐 https://www.fhclouisville.org/
 🏥 Services: Primary Care
 📞 502-774-8631
-🗺 https://maps.google.com/?q=38.17449,-85.78175
 
 15. FHC - Sheehan Landing
 3501 Sheehan Landing Dr.  RM 115, Louisville, KY, 40219-8502
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 502-358-2310
-🗺 https://maps.google.com/?q=38.16563,-85.69876
 
 16. Buechel/Newburg Community Health Center
 3828 Bardstown Road, Louisville, KY, 40218-1527
@@ -116,7 +101,6 @@
 🌐 https://pdchc.org
 🏥 Services: Primary Care
 📞 502-774-4401 x4000
-🗺 https://maps.google.com/?q=38.19496,-85.65392
 
 17. FAMILY HEALTH CENTER - FAIRDALE
 1000 Neighborhood Pl, Fairdale, KY, 40118-9697
@@ -124,7 +108,6 @@
 🌐 https://www.fhclouisville.org
 🏥 Services: Primary Care
 📞 502-361-2381
-🗺 https://maps.google.com/?q=38.11590,-85.75098
 
 18. Taylorsville Community Health Center
 501 Taylorsville Rd, Taylorsville, KY, 40071-6766
@@ -132,63 +115,54 @@
 🌐 https://www.pdchc.org
 🏥 Services: Primary Care
 📞 502-477-2248
-🗺 https://maps.google.com/?q=38.03906,-85.34127
 
 19. Barry Hahn Healthy Kids Clinic
 750 Broadway St, Brandenburg, KY, 40108-1709
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 270-422-7545
-🗺 https://maps.google.com/?q=37.98451,-86.15912
 
 20. Radcliff Healthy Kids Clinic
 1145 S Dixie Blvd, Radcliff, KY, 40160-1104
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 270-352-3350
-🗺 https://maps.google.com/?q=37.82696,-85.92932
 
 21. Flaherty Elementary Healthy Kids Clinic
 2615 Flaherty Rd, Ekron, KY, 40117-8805
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 270-422-7565
-🗺 https://maps.google.com/?q=37.84770,-86.07785
 
 22. James T. Alton Healthy Kids Clinic
 100 Country Club Rd, Vine Grove, KY, 40175-1169
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 270-877-2135
-🗺 https://maps.google.com/?q=37.80494,-85.98796
 
 23. Bardstown Primary Healthy Kids Clinic
 1000 Templin Ave, Bardstown, KY, 40004-2568
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 502-331-8810
-🗺 https://maps.google.com/?q=37.82378,-85.47400
 
 24. Bluegrass Middle Healthy Kids Clinic
 170 W A Jenkins Rd, Elizabethtown, KY, 42701-8451
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 502-765-2658
-🗺 https://maps.google.com/?q=37.75709,-85.90180
 
 25. John Hardin High Healthy Kids Clinic
 384 W A Jenkins Rd, Elizabethtown, KY, 42701-8496
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 270-769-8906
-🗺 https://maps.google.com/?q=37.75541,-85.90413
 
 26. Lincoln Trail Healthy Kids Clinic
 3970 Bardstown Rd, Elizabethtown, KY, 42701-9787
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 270-737-7227
-🗺 https://maps.google.com/?q=37.72908,-85.80375
 
 27. Promise Community Health Center-Elizabethtown
 2608 Ring Rd Ste B107, Elizabethtown, KY, 42701-7945
@@ -196,14 +170,12 @@
 🌐 https://www.cumberlandfamilymedical.com
 🏥 Services: Primary Care
 📞 270-506-3741
-🗺 https://maps.google.com/?q=37.72944,-85.83961
 
 28. Rineyville Healthy Kids Clinic
 275 Rineyville School Rd, Rineyville, KY, 40162-9763
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 270-737-7371 x27056
-🗺 https://maps.google.com/?q=37.74672,-85.97249
 
 29. Panther Academy Healthy Kids Clinic
 634 N Mulberry St, Elizabethtown, KY, 42701-1939
@@ -211,105 +183,90 @@
 🌐 https://www.cumberlandfamilymedical.com
 🏥 Services: Primary Care
 📞 270-765-3007
-🗺 https://maps.google.com/?q=37.70231,-85.85189
 
 30. Sunrise Glen Dale Center Healthy Kids Clinic
 1030 Commerce Dr, Elizabethtown, KY, 42701-1281
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 844-435-0900
-🗺 https://maps.google.com/?q=37.69014,-85.84584
 
 31. Cecilia Valley Healthy Kids Clinic
 931 E Main St, Cecilia, KY, 42724-9624
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 270-862-3287
-🗺 https://maps.google.com/?q=37.65751,-85.94901
 
 32. Carroll County Middle School
 408 5th St, Carrollton, KY, 41008-1202
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 859-567-1720
-🗺 https://maps.google.com/?q=38.67797,-85.17954
 
 33. Carroll County Early Childhood Development Center
 619 9th St, Carrollton, KY, 41008-1417
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 859-567-1720
-🗺 https://maps.google.com/?q=38.67548,-85.17209
 
 34. Carroll County Alternative Learning Center
 519 Park Ave, Carrollton, KY, 41008-8301
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 859-567-1720
-🗺 https://maps.google.com/?q=38.67986,-85.15893
 
 35. Carroll Pharmacy
 329 Floyd Dr  STE F, Carrollton, KY, 41008
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 859-567-1720
-🗺 https://maps.google.com/?q=38.65822,-85.13084
 
 36. Carroll County Behavioral Health
 329 Floyd Dr Ste E, Carrollton, KY, 41008-8261
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 859-567-1720
-🗺 https://maps.google.com/?q=38.65822,-85.13084
 
 37. Carroll Floyd Dr
 329 Floyd Dr Ste A, Carrollton, KY, 41008-8261
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 859-567-1591
-🗺 https://maps.google.com/?q=38.65822,-85.13084
 
 38. Carroll County Upstairs Primary
 329 Floyd Dr STE D, Carrollton, KY, 41008-8261
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 502-732-1082
-🗺 https://maps.google.com/?q=38.65967,-85.13098
 
 39. Cartmell Elementary School
 1708 Highland Ave, Carrollton, KY, 41008-8775
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 859-567-1720
-🗺 https://maps.google.com/?q=38.68541,-85.15801
 
 40. East Hardin Middle Healthy Kids Clinic
 129 College St, Glendale, KY, 42740-9798
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 270-369-7370
-🗺 https://maps.google.com/?q=37.59953,-85.90811
 
 41. Frankfort Pediatrics
 89 C Michael Davenport Blvd Ste 2, Frankfort, KY, 40601-4481
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Pediatrics
 📞 270-858-6655
-🗺 https://maps.google.com/?q=38.16046,-84.91383
 
 42. Family Care of the Bluegrass-West
 89 C Michael Davenport Blvd Ste 1, Frankfort, KY, 40601-4481
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 502-783-2304
-🗺 https://maps.google.com/?q=38.16046,-84.91383
 
 43. North Washington Healthy Kids Clinic
 5658 Highway 433, Willisburg, KY, 40078-7118
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 859-375-4038
-🗺 https://maps.google.com/?q=37.80357,-85.11295
 
 44. Frankfort High Healthy Kids Clinic
 328 Shelby St, Frankfort, KY, 40601-2859
@@ -317,49 +274,42 @@
 🌐 https://www.cumberlandfamilymedical.com
 🏥 Services: Primary Care
 📞 502-875-8655
-🗺 https://maps.google.com/?q=38.19275,-84.87689
 
 45. Ezra Sparrow Healthy Kids Clinic
 1154 Bypass N, Lawrenceburg, KY, 40342-9453
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 502-839-2504
-🗺 https://maps.google.com/?q=38.04851,-84.91317
 
 46. West Marion Healthy Kids Clinic
 8175 N Loretto Rd, Loretto, KY, 40037-8069
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 270-699-4320
-🗺 https://maps.google.com/?q=37.62454,-85.37424
 
 47. Larue County High Healthy Kids Clinic
 925 S Lincoln Blvd, Hodgenville, KY, 42748-1701
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 270-358-2210
-🗺 https://maps.google.com/?q=37.55430,-85.73287
 
 48. Robert B. Turner Healthy Kids Clinic
 1411 Fox Creek Rd, Lawrenceburg, KY, 40342-9742
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 502-839-2520
-🗺 https://maps.google.com/?q=38.01400,-84.92279
 
 49. Anderson Co. Middle Healthy Kids Clinic
 1 Mustang Trl, Lawrenceburg, KY, 40342-1576
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 502-839-2534
-🗺 https://maps.google.com/?q=38.03849,-84.90067
 
 50. Saffell Street Healthy Kids Clinic
 210 Saffell St, Lawrenceburg, KY, 40342-1287
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 502-839-2539
-🗺 https://maps.google.com/?q=38.03196,-84.89783
 
 51. A Plus Family HealthCare-Sonora
 12080 S Dixie Hwy, Sonora, KY, 42776-9739
@@ -367,28 +317,24 @@
 🌐 https://www.aplusfamilycare.com
 🏥 Services: Primary Care
 📞 270-975-4050
-🗺 https://maps.google.com/?q=37.52309,-85.87914
 
 52. Creekside Healthy Kids Clinic
 151 Horseshoe Bend Rd, Sonora, KY, 42776-9329
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 270-369-8460
-🗺 https://maps.google.com/?q=37.52216,-85.90223
 
 53. Triad Health Sysyems – 120 Progress Way
 120 Progress Way, Owenton, KY, 40359-6032
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 859-567-1720
-🗺 https://maps.google.com/?q=38.55106,-84.84565
 
 54. Owen County Dental
 409 Roland Ave Ste A, Owenton, KY, 40359-1401
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 859-567-1591
-🗺 https://maps.google.com/?q=38.54374,-84.84061
 
 55. Triad Health Systems-Owen County
 1005 HIGHWAY 22 E, OWENTON, KY, 40359-9041
@@ -396,14 +342,12 @@
 🌐 https://www.facebook.com/pages/Triad-Health-Systems-Warsaw-KY/195289817234115
 🏥 Services: Primary Care
 📞 859-567-1591
-🗺 https://maps.google.com/?q=38.52744,-84.82450
 
 56. Lebanon Pediatrics
 311 W High St, Lebanon, KY, 40033-1427
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 270-858-6655
-🗺 https://maps.google.com/?q=37.57123,-85.26028
 
 57. One Cross Community, Inc.
 429 W Walnut St, Lebanon, KY, 40033-1346
@@ -411,35 +355,30 @@
 🌐 https://onecrosshealth.com
 🏥 Services: Primary Care
 📞 270-789-1010
-🗺 https://maps.google.com/?q=37.56871,-85.26130
 
 58. Lebanon Healthy Kids Clinic
 420 W Main St, Lebanon, KY, 40033-1363
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 270-692-3883
-🗺 https://maps.google.com/?q=37.56630,-85.25839
 
 59. Owen Primary
 1925 Highway 22 E, Owenton, KY, 40359-9044
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 859-567-1720
-🗺 https://maps.google.com/?q=38.52765,-84.80502
 
 60. Maurice Bowling Middle School
 Maurice Bowling Middle School2380 Hwy. 22E,, Owenton, KY, 40359
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 859-567-1720
-🗺 https://maps.google.com/?q=38.53055,-84.80561
 
 61. Owen County High School
 2060 Highway 22 E, Owenton, KY, 40359-9115
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 859-567-1591
-🗺 https://maps.google.com/?q=38.52975,-84.80304
 
 62. Woodford County Middle Healthy Kids Clinic
 100 School House Rd, Versailles, KY, 40383-9551
@@ -447,70 +386,60 @@ Maurice Bowling Middle School2380 Hwy. 22E,, Owenton, KY, 40359
 🌐 https://www.cumberlandfamilymedical.com
 🏥 Services: Primary Care
 📞 859-879-4650
-🗺 https://maps.google.com/?q=38.03974,-84.74680
 
 63. Versailles Pediatrics
 360 Amsden Ave  STE 200, Versailles, KY, 40383
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 866-861-6157
-🗺 https://maps.google.com/?q=38.05491,-84.72339
 
 64. Mercer County Intermediate Healthy Kids Clinic
 1101 Moberly Rd  RM 3108, Harrodsburg, KY, 40330-9177
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 859-733-7080
-🗺 https://maps.google.com/?q=37.78438,-84.85731
 
 65. Kenneth D. King Middle Healthy Kids Clinic
 937 Moberly Rd  RM 5501, Harrodsburg, KY, 40330-9104
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 859-733-7060
-🗺 https://maps.google.com/?q=37.77794,-84.85606
 
 66. Gallatin County Lower Elemetary
 25 Boaz Dr, Warsaw, KY, 41095-9510
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 859-567-1720
-🗺 https://maps.google.com/?q=38.78346,-84.89400
 
 67. Gallatin Co Middle School
 88 Pawprint Path, Warsaw, KY, 41095-9376
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 859-567-5860
-🗺 https://maps.google.com/?q=38.78494,-84.89256
 
 68. HealthPoint Wilmore
 200 Rice St, Wilmore, KY, 40390-1359
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 859-881-4288
-🗺 https://maps.google.com/?q=37.85731,-84.65943
 
 69. One Cross Health
 106 Winston Way, Campbellsville, KY, 42718
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 270-789-0034
-🗺 https://maps.google.com/?q=37.35179,-85.35476
 
 70. Taylor County Primary Healthy Kids Clinic
 106 Ingram Ave, Campbellsville, KY, 42718-1621
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 270-465-0449
-🗺 https://maps.google.com/?q=37.35050,-85.33534
 
 71. West Jessamine Middle School
 1400 Wilmore Rd, Nicholasville, KY, 40356-8932
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 859-885-2244
-🗺 https://maps.google.com/?q=37.88580,-84.60815
 
 72. Cub Run Healthy Kids Clinic
 170 E Gap Hill Rd, Cub Run, KY, 42729-7670
@@ -518,7 +447,6 @@ Maurice Bowling Middle School2380 Hwy. 22E,, Owenton, KY, 40359
 🌐 https://www.cumberlandfamilymedical.com
 🏥 Services: Primary Care
 📞 270-524-2925
-🗺 https://maps.google.com/?q=37.30286,-86.06161
 
 73. Memorial Healthy Kids Clinic
 1400 N Jackson Hwy, Hardyville, KY, 42746-8733
@@ -526,14 +454,12 @@ Maurice Bowling Middle School2380 Hwy. 22E,, Owenton, KY, 40359
 🌐 https://www.cumberlandfamilymedical.com
 🏥 Services: Primary Care
 📞 270-528-2271
-🗺 https://maps.google.com/?q=37.27196,-85.77387
 
 74. Women's Care of the Commonwealth
 333 S 3rd St, Danville, KY, 40422-2016
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 859-236-7712
-🗺 https://maps.google.com/?q=37.64244,-84.77297
 
 75. Munfordville Healthy Kids Clinic
 505 W Union St, Munfordville, KY, 42765-8909
@@ -541,14 +467,12 @@ Maurice Bowling Middle School2380 Hwy. 22E,, Owenton, KY, 40359
 🌐 https://www.cumberlandfamilymedical.com
 🏥 Services: Primary Care
 📞 270-524-4651
-🗺 https://maps.google.com/?q=37.26853,-85.89312
 
 76. Jessamine Early Learning Village updated
 847 Wilmore Rd, Nicholasville, KY, 40356-9462
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 859-655-6100
-🗺 https://maps.google.com/?q=37.88273,-84.59050
 
 77. Brookside Elementary
 199 Brookside Dr, Nicholasville, KY, 40356-1040
@@ -556,35 +480,30 @@ Maurice Bowling Middle School2380 Hwy. 22E,, Owenton, KY, 40359
 🌐 https://www.healthpointfc.org
 🏥 Services: Primary Care
 📞 859-881-4388
-🗺 https://maps.google.com/?q=37.88677,-84.58773
 
 78. DBA Bluegrass Community Health Center
 1306 Versailles Rd Ste 120, Lexington, KY, 40504-1795
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 859-259-2635
-🗺 https://maps.google.com/?q=38.04918,-84.52182
 
 79. HealthFirst Bluegrass Mobile 2 Dental Clinic
 496 Southland Drive Mobile Dental Clinic, Lexington, KY, 40503
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Dental
 📞 859-288-2425
-🗺 https://maps.google.com/?q=38.02098,-84.52902
 
 80. HealthFirst Harrodsburg
 1401 Harrodsburg Rd Ste B165, Lexington, KY, 40504-1726
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 859-288-2425
-🗺 https://maps.google.com/?q=38.03314,-84.52522
 
 81. HealthPoint Nicholasville
 101 Orchard Dr, Nicholasville, KY, 40356-2690
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 859-881-4288
-🗺 https://maps.google.com/?q=37.89431,-84.56558
 
 82. Harrison Elementary HealthFirst Bluegrass School Clinic
 161 BRUCE ST, LEXINGTON, KY, 40507-1239
@@ -592,7 +511,6 @@ Maurice Bowling Middle School2380 Hwy. 22E,, Owenton, KY, 40359
 🌐 https://www.healthfirstlex.com
 🏥 Services: Primary Care
 📞 859-252-2598
-🗺 https://maps.google.com/?q=38.05245,-84.50054
 
 83. HealthFirst Bluegrass Health Care for Homeless Hope Center
 360 W LOUDON AVE, LEXINGTON, KY, 40508-3729
@@ -600,7 +518,6 @@ Maurice Bowling Middle School2380 Hwy. 22E,, Owenton, KY, 40359
 🌐 https://www.healthfirstlex.com
 🏥 Services: Primary Care
 📞 859-288-2425
-🗺 https://maps.google.com/?q=38.06186,-84.49413
 
 84. Red Oak Elementary
 921 Union Mill Rd, Nicholasville, KY, 40356-7002
@@ -608,7 +525,6 @@ Maurice Bowling Middle School2380 Hwy. 22E,, Owenton, KY, 40359
 🌐 https://www.healthpointfc.org
 🏥 Services: Primary Care
 📞 859-881-4388
-🗺 https://maps.google.com/?q=37.88452,-84.54318
 
 85. HealthFirst Bluegrass Bryan Station
 1640 Bryan Station Rd, Lexington, KY, 40505-2144
@@ -616,42 +532,36 @@ Maurice Bowling Middle School2380 Hwy. 22E,, Owenton, KY, 40359
 🌐 https://www.healthfirstlex.com
 🏥 Services: Primary Care
 📞 859-288-2425
-🗺 https://maps.google.com/?q=38.06059,-84.46319
 
 86. HealthFirst Henry Clay High School Clinic
 2100 Fontaine Rd, Lexington, KY, 40502-2099
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 859-422-3423
-🗺 https://maps.google.com/?q=38.01612,-84.46892
 
 87. Kyrock Elementary School
 5720 KY-259, Sweeden, KY, 42285-7106
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 270-975-4050
-🗺 https://maps.google.com/?q=37.25985,-86.28450
 
 88. White House Clinics - Lancaster
 103 Southern Soul Way, Lancaster, KY, 40444-6534
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 859-792-4332
-🗺 https://maps.google.com/?q=37.62788,-84.57795
 
 89. Ft. Logan Healthy Kids Clinic
 305 Danville Ave, Stanford, KY, 40484-1205
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 606-365-1333
-🗺 https://maps.google.com/?q=37.53216,-84.66950
 
 90. Edmonson County Middle School
 220 Wildcat Way, Brownsville, KY, 42210
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 270-975-4050
-🗺 https://maps.google.com/?q=37.19200,-86.25293
 
 91. First Choice Lincoln
 135 Wade Owens Drive, Stanford, KY, 40484-9332
@@ -659,21 +569,18 @@ Maurice Bowling Middle School2380 Hwy. 22E,, Owenton, KY, 40359
 🌐 https://www.cumberlandfamilymedical.com
 🏥 Services: Primary Care
 📞 270-858-6655
-🗺 https://maps.google.com/?q=37.44631,-84.74979
 
 92. Casey Family Medical Center
 428 Hustonville St, Liberty, KY, 42539-3140
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 270-858-6655
-🗺 https://maps.google.com/?q=37.32250,-84.93445
 
 93. Liberty Healthy Kids Clinic
 75 College St, Liberty, KY, 42539-3271
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 606-787-6961
-🗺 https://maps.google.com/?q=37.31701,-84.93479
 
 94. Audubon Area Community Care Clinic - Estes Elementary School
 1675 Leitchfield Rd, Owensboro, KY, 42303-0935
@@ -681,7 +588,6 @@ Maurice Bowling Middle School2380 Hwy. 22E,, Owenton, KY, 40359
 🌐 https://www.audubon-area.com/clinic.html
 🏥 Services: Primary Care
 📞 270-686-6040
-🗺 https://maps.google.com/?q=37.76418,-87.08445
 
 95. HealthPoint Florence
 7607 Dixie Hightway, Florence, KY, 41042-824
@@ -689,7 +595,6 @@ Maurice Bowling Middle School2380 Hwy. 22E,, Owenton, KY, 40359
 🌐 https://www.healthpointfc.org
 🏥 Services: Primary Care
 📞 859-655-6100
-🗺 https://maps.google.com/?q=38.99254,-84.62370
 
 96. HomePlace Clinic - Cynthiana
 210 S Walnut St, Cynthiana, KY, 41031-1541
@@ -697,14 +602,12 @@ Maurice Bowling Middle School2380 Hwy. 22E,, Owenton, KY, 40359
 🌐 https://www.mtcomp.org/homeplace
 🏥 Services: Primary Care
 📞 859-298-2156
-🗺 https://maps.google.com/?q=38.38853,-84.29584
 
 97. Bourbon Co Middle School Based Health
 3339 Lexington Rd, Paris, KY, 40361-1038
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 859-404-7686
-🗺 https://maps.google.com/?q=38.19413,-84.27382
 
 98. Regional Health  Care Affiliates, Inc. dba. Health First Community Health Center- Neel Clinic
 2816 VEACH RD STE 205, OWENSBORO, KY, 42303-6299
@@ -712,28 +615,24 @@ Maurice Bowling Middle School2380 Hwy. 22E,, Owenton, KY, 40359
 🌐 http://healthfirstchc.net/
 🏥 Services: Primary Care
 📞 270-926-9821
-🗺 https://maps.google.com/?q=37.74554,-87.10155
 
 99. Audubon Area Community Care Clinic - Daniel Pitino Shelter
 501 Walnut St, Owensboro, KY, 42301-2170
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 270-686-6040
-🗺 https://maps.google.com/?q=37.77081,-87.11746
 
 100. Miles Elementary School
 105 Isom Plz, Jeremiah, KY, 41826-9088
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 859-655-6100
-🗺 https://maps.google.com/?q=39.01329,-84.61079
 
 101. Park City Healthy Kids Clinic
 45 Indian Mill Rd, Park City, KY, 42160-7724
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 270-749-5665
-🗺 https://maps.google.com/?q=37.09660,-86.04639
 
 102. Tichenor Middle School
 305 Bartlett Ave, Erlanger, KY, 41018-1678
@@ -741,14 +640,12 @@ Maurice Bowling Middle School2380 Hwy. 22E,, Owenton, KY, 40359
 🌐 https://www.healthpointfc.org
 🏥 Services: Primary Care
 📞 859-727-2255
-🗺 https://maps.google.com/?q=39.01927,-84.60749
 
 103. Arnett Elementary School
 3552 Kimberly Dr, Erlanger, KY, 41018-2434
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 859-655-6100
-🗺 https://maps.google.com/?q=39.00578,-84.59285
 
 104. Audubon Area Community Care Clinic - Owensboro Innovation Academy
 2631 S Griffith Ave, Owensboro, KY, 42301-5318
@@ -756,70 +653,60 @@ Maurice Bowling Middle School2380 Hwy. 22E,, Owenton, KY, 40359
 🌐 https://www.audubon-area.com/clinic.html
 🏥 Services: Primary Care
 📞 270-686-6040
-🗺 https://maps.google.com/?q=37.74514,-87.12417
 
 105. South Edmonson Elementary
 1058 Chalybeate School Rd, Smiths Grove, KY, 42171-7245
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 270-975-4050
-🗺 https://maps.google.com/?q=37.11764,-86.25262
 
 106. Highland Healthy Kids Clinic
 75 Tick Ridge Rd, Waynesburg, KY, 40489-8202
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 606-365-2768
-🗺 https://maps.google.com/?q=37.42842,-84.64459
 
 107. My Lyfe- Lindsey Wilson University
 210 Lindsey Wilson St, Columbia, KY, 42728-1223
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 844-435-0900
-🗺 https://maps.google.com/?q=37.10240,-85.30020
 
 108. Transitions
 313 Madison Pike, Erlanger, KY, 41017-9413
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 859-655-6100
-🗺 https://maps.google.com/?q=38.98895,-84.53367
 
 109. First Choice Immediate Care Center
 197 Will Walker Rd, Columbia, KY, 42728-7436
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 270-858-6655
-🗺 https://maps.google.com/?q=37.07712,-85.33825
 
 110. Sterling Health Care - Winchester
 455 Bullion Blvd, Winchester, KY, 40391-2933
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 859-744-2623
-🗺 https://maps.google.com/?q=37.99279,-84.21596
 
 111. Glasgow Pediatrics
 301 Professional Park Dr, Glasgow, KY, 42141-3487
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 270-651-9696
-🗺 https://maps.google.com/?q=37.01032,-85.89860
 
 112. Glasgow Pediatric Healthcare Healthy Kids Clinic
 303 Professional Park Dr, Glasgow, KY, 42141-3487
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 270-858-6655
-🗺 https://maps.google.com/?q=37.01018,-85.89801
 
 113. Crab Orchard Healthy Kids Clinic
 383 Lancaster St, Crab Orchard, KY, 40419-6514
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 606-355-2331
-🗺 https://maps.google.com/?q=37.46953,-84.50827
 
 114. Ludlow High School
 515 Elm St, Ludlow, KY, 41016-1304
@@ -827,21 +714,18 @@ Maurice Bowling Middle School2380 Hwy. 22E,, Owenton, KY, 40359
 🌐 https://www.healthpointfc.org
 🏥 Services: Primary Care
 📞 859-655-6100
-🗺 https://maps.google.com/?q=39.09172,-84.55349
 
 115. Latonia Elementary
 3901 Huntington Ave, Covington, KY, 41015-1645
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 859-655-6100
-🗺 https://maps.google.com/?q=39.04421,-84.49824
 
 116. Transformational Learning Center (TLC)
 200 Home Road, Covington, KY, 41014
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 859-655-6157
-🗺 https://maps.google.com/?q=39.08627,-84.53948
 
 117. Glenn O. Swing Elementary
 501 W 19th St, Covington, KY, 41014-1141
@@ -849,7 +733,6 @@ Maurice Bowling Middle School2380 Hwy. 22E,, Owenton, KY, 40359
 🌐 https://www.healthpointfc.org
 🏥 Services: Primary Care
 📞 859-655-6100
-🗺 https://maps.google.com/?q=39.06520,-84.51286
 
 118. HomePlace Clinic - Winchester
 123 N Main Street, Winchester, KY, 40391
@@ -857,7 +740,6 @@ Maurice Bowling Middle School2380 Hwy. 22E,, Owenton, KY, 40359
 🌐 https://www.mtcomp.org/homeplace
 🏥 Services: Primary Care
 📞 859-737-2900
-🗺 https://maps.google.com/?q=37.99593,-84.17550
 
 119. Holmes Middle School
 2500 Madison Ave., Covington, KY, 41014-1658
@@ -865,7 +747,6 @@ Maurice Bowling Middle School2380 Hwy. 22E,, Owenton, KY, 40359
 🌐 https://www.healthpointfc.org
 🏥 Services: Primary Care
 📞 859-655-6100
-🗺 https://maps.google.com/?q=39.06176,-84.50172
 
 120. HealthPoint Covington Center
 1401 Madison Ave, Covington, KY, 41011-3313
@@ -873,7 +754,6 @@ Maurice Bowling Middle School2380 Hwy. 22E,, Owenton, KY, 40359
 🌐 https://www.healthpointfc.org
 🏥 Services: Primary Care
 📞 859-655-6100
-🗺 https://maps.google.com/?q=39.07470,-84.50829
 
 121. 6th District Elementary School
 1901 Maryland Ave, Covington, KY, 41014-1442
@@ -881,7 +761,6 @@ Maurice Bowling Middle School2380 Hwy. 22E,, Owenton, KY, 40359
 🌐 https://www.healthpointfc.org
 🏥 Services: Primary Care
 📞 859-655-6100
-🗺 https://maps.google.com/?q=39.06941,-84.50029
 
 122. James E. Biggs ECE Center
 1124 Scott St, Covington, KY, 41011-3168
@@ -889,7 +768,6 @@ Maurice Bowling Middle School2380 Hwy. 22E,, Owenton, KY, 40359
 🌐 https://www.healthpointfc.org
 🏥 Services: Primary Care
 📞 859-655-6100
-🗺 https://maps.google.com/?q=39.07838,-84.50683
 
 123. White House Clinic - Richmond
 401 Highland Park Dr, Richmond, KY, 40475-3839
@@ -897,14 +775,12 @@ Maurice Bowling Middle School2380 Hwy. 22E,, Owenton, KY, 40359
 🌐 https://www.whitehouseclinics.com
 🏥 Services: Primary Care
 📞 859-626-7700
-🗺 https://maps.google.com/?q=37.73992,-84.26546
 
 124. Russell Springs Healthy Kids Clinic
 1554 N HIGHWAY 127, RUSSELL SPRINGS, KY, 42642-9502
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 270-866-3587
-🗺 https://maps.google.com/?q=37.08778,-85.06500
 
 125. Barren County Healthy Kids Clinic Annex
 1309 Roseville Rd, Glasgow, KY, 42141-7944
@@ -912,42 +788,36 @@ Maurice Bowling Middle School2380 Hwy. 22E,, Owenton, KY, 40359
 🌐 https://www.cumberlandfamilymedical.com
 🏥 Services: Primary Care
 📞 270-678-9475
-🗺 https://maps.google.com/?q=36.97032,-85.91110
 
 126. Newport Innovation/Intermediate School
 30 W 8TH ST, NEWPORT, KY, 41071-1362
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 859-655-6100
-🗺 https://maps.google.com/?q=39.08779,-84.49363
 
 127. Warren East High Healthy Kids Clinic
 6867 Louisville Rd, Bowling Green, KY, 42101-8015
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 270-781-1277
-🗺 https://maps.google.com/?q=37.03692,-86.34025
 
 128. White House Clinics - Mobile Medical
 104 Legacy Dr, Berea, KY, 40403-9594
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 859-626-7700
-🗺 https://maps.google.com/?q=37.60534,-84.31683
 
 129. White House Clinics Berea Pediatrics
 202 Kidd Dr, Berea, KY, 40403-7000
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 859-986-2323
-🗺 https://maps.google.com/?q=37.60570,-84.31566
 
 130. Wellness on Wheels 2.0
 404 Steve Dr, Russell Springs, KY, 42642-4622
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 270-858-6655
-🗺 https://maps.google.com/?q=37.06130,-85.06957
 
 131. Lincoln Elementary School
 701 5TH AVE, DAYTON, KY, 41074-1301
@@ -955,14 +825,12 @@ Maurice Bowling Middle School2380 Hwy. 22E,, Owenton, KY, 40359
 🌐 https://www.healthpointfc.org
 🏥 Services: Primary Care
 📞 859-655-6100
-🗺 https://maps.google.com/?q=39.11493,-84.47085
 
 132. Sterling Health Care - Carlisle
 1355 Concrete Rd, Carlisle, KY, 40311-9392
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 859-405-4024
-🗺 https://maps.google.com/?q=38.31683,-84.06583
 
 133. Berea Primary Care Clinic
 305 Estill St, Berea, KY, 40403-1742
@@ -970,112 +838,96 @@ Maurice Bowling Middle School2380 Hwy. 22E,, Owenton, KY, 40359
 🌐 https://www.whitehouseclinics.com
 🏥 Services: Primary Care
 📞 859-986-5575
-🗺 https://maps.google.com/?q=37.57641,-84.28650
 
 134. Nicholas County School Based Health
 133 School Dr, Carlisle, KY, 40311-1052
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 859-404-7686
-🗺 https://maps.google.com/?q=38.31527,-84.03716
 
 135. Robertson County Family Health Center
 45 Mcdowell St, Mount Olivet, KY, 41064-3200
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 606-724-5222
-🗺 https://maps.google.com/?q=38.53302,-84.04118
 
 136. FAIRVIEW COMMUNITY HEALTH CENTER
 225 Natchez Trace Ave, Bowling Green, KY, 42103-7995
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 270-783-3573
-🗺 https://maps.google.com/?q=36.96697,-86.39981
 
 137. NewView - Russell
 410 Monument Square STE 7, Jamestown, KY, 42629
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 270-858-6655
-🗺 https://maps.google.com/?q=36.98401,-85.06278
 
 138. Jamestown Healthy Kids Clinic
 26229 US Highway 119 N, Belfry, KY, 41514-7416
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 270-343-3966
-🗺 https://maps.google.com/?q=36.97955,-85.05897
 
 139. Bracken County School- based Center
 106 Powell Street, Brooksville, KY, 41004
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 606-756-2117
-🗺 https://maps.google.com/?q=38.68454,-84.06842
 
 140. Henry F. Moss Middle Healthy Kids Clinic
 2565 Russellville Rd, Bowling Green, KY, 42101-3957
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 270-843-0166
-🗺 https://maps.google.com/?q=36.96415,-86.48874
 
 141. Nancy Family Care
 9919 W Highway 80, Nancy, KY, 42544-9003
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 606-288-0019
-🗺 https://maps.google.com/?q=37.07302,-84.75258
 
 142. Greenwood High Healthy Kids Clinic
 5065 Scottsville Rd, Bowling Green, KY, 42104-7897
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 270-842-3627
-🗺 https://maps.google.com/?q=36.92638,-86.41408
 
 143. Drakes Creek Middle Healthy Kids Clinic
 704 Cypress Wood Way, Bowling Green, KY, 42104-0300
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 270-843-0165
-🗺 https://maps.google.com/?q=36.92614,-86.41743
 
 144. Mapleton Community Health Center
 809 Indian Mound Dr, Mount Sterling, KY, 40353-1151
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 859-404-7686
-🗺 https://maps.google.com/?q=38.06163,-83.95841
 
 145. Sterling Health Care - Indian Mound
 103 Commonwealth Dr, Mt Sterling, KY, 40353-9644
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 859-404-7686
-🗺 https://maps.google.com/?q=38.06705,-83.95686
 
 146. Montgomery Dental Center
 635 Maysville Rd, Mount Sterling, KY, 40353-9767
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 859-498-2323
-🗺 https://maps.google.com/?q=38.07321,-83.94764
 
 147. Clay City Elementary School Based Health
 4901 Main St, Clay City, KY, 40312-1138
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 859-404-7686
-🗺 https://maps.google.com/?q=37.86341,-83.92644
 
 148. Powell County Outreach Office
 245 7th Ave, Clay City, KY, 40312
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 606-663-2659
-🗺 https://maps.google.com/?q=37.85770,-83.91803
 
 149. Healthcare Management Facility
 176 12th Street, Clay City, KY, 40312
@@ -1083,7 +935,6 @@ Maurice Bowling Middle School2380 Hwy. 22E,, Owenton, KY, 40359
 🌐 https://foothillscap.org/programs/health-wellness-center/
 🏥 Services: Primary Care
 📞 606-663-9011
-🗺 https://maps.google.com/?q=37.85304,-83.91618
 
 150. Foothills Health & Wellness Center
 108 12th St, Clay City, KY, 40312-8979
@@ -1091,14 +942,12 @@ Maurice Bowling Middle School2380 Hwy. 22E,, Owenton, KY, 40359
 🌐 https://www.foothillscap.org
 🏥 Services: Primary Care
 📞 606-663-9011
-🗺 https://maps.google.com/?q=37.85363,-83.91534
 
 151. Kentucky River Foothills
 100 Tyler Ln, Irvine, KY, 40336-8827
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 606-531-2012
-🗺 https://maps.google.com/?q=37.70210,-84.00821
 
 152. White House Clinic - Irvine
 30 Stacy Lane, Irvine, KY, 40336-7356
@@ -1106,21 +955,18 @@ Maurice Bowling Middle School2380 Hwy. 22E,, Owenton, KY, 40359
 🌐 https://www.whitehouseclinics.com
 🏥 Services: Primary Care
 📞 606-723-0665
-🗺 https://maps.google.com/?q=37.70307,-84.00045
 
 153. Powell County Middle School Based Health
 770 W College Ave, Stanton, KY, 40380-2224
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 859-404-7686
-🗺 https://maps.google.com/?q=37.84649,-83.87360
 
 154. Sterling Health Care - Owingsville
 44 Water St, Owingsville, KY, 40360-8944
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 606-646-7996
-🗺 https://maps.google.com/?q=38.14624,-83.76369
 
 155. Juniper Health Menifee County
 2085 US Highway 460 E, Frenchburg, KY, 40322
@@ -1128,21 +974,18 @@ Maurice Bowling Middle School2380 Hwy. 22E,, Owenton, KY, 40359
 🌐 https://juniperhealth.org
 🏥 Services: Primary Care
 📞 606-464-0151
-🗺 https://maps.google.com/?q=37.93379,-83.60691
 
 156. Juniper Health Rogers Elementary School
 1745 KY 715 S.  RM 123, Rogers, KY, 41365
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 606-668-7385
-🗺 https://maps.google.com/?q=37.74337,-83.63589
 
 157. Juniper Health Lee County Elementary
 1665 Highway 11 S  RM 118-D, Beattyville, KY, 41311
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 606-464-2401
-🗺 https://maps.google.com/?q=37.55071,-83.71783
 
 158. PrimaryPlus Pharmacy
 555 Tucker Dr, Maysville, KY, 41056
@@ -1150,63 +993,54 @@ Maurice Bowling Middle School2380 Hwy. 22E,, Owenton, KY, 40359
 🌐 https://primaryplus.net/locations/maysville/
 🏥 Services: Primary Care
 📞 606-956-0160
-🗺 https://maps.google.com/?q=38.62738,-83.79948
 
 159. PrimaryPlus - Denham Clinic
 525 Tucker Dr, Maysville, KY, 41056-9182
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 606-796-3029
-🗺 https://maps.google.com/?q=38.62680,-83.79838
 
 160. Juniper Health Wolfe County Middle School
 303 N Johnson St, Campton, KY, 41301
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 606-668-7385
-🗺 https://maps.google.com/?q=37.73775,-83.55119
 
 161. PrimaryPlus KidCare
 910 Kenton Station Dr, Maysville, KY, 41056-9613
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 606-759-5331
-🗺 https://maps.google.com/?q=38.63865,-83.80558
 
 162. PrimaryPlus Mobile Unit 2
 927 Kenton Station Dr, Maysville, KY, 41056-9609
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 606-759-0433
-🗺 https://maps.google.com/?q=38.63967,-83.80577
 
 163. Tollesboro Family Health Center & Clinic Pharmacy
 17521 W Ky 9, TOLLESBORO, KY, 41189-8243
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 606-795-3029
-🗺 https://maps.google.com/?q=38.55649,-83.59267
 
 164. Grace Health Mountain View
 272 London Mountain View Dr, London, KY, 40741-6601
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 606-877-2050
-🗺 https://maps.google.com/?q=37.15244,-84.11913
 
 165. Somerset Pediatric and Adolescent Associates
 350 Langdon St, Somerset, KY, 42503-2786
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 606-678-8155
-🗺 https://maps.google.com/?q=37.08985,-84.61873
 
 166. Faith Dental Bogle
 402 Bogle St, Suite 3, Somerset, KY, 42503-2870
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 606-425-5768
-🗺 https://maps.google.com/?q=37.08595,-84.62201
 
 167. Lake Cumberland Rheumatology
 26 Oxford Way, Somerset, KY, 42503-2813
@@ -1214,21 +1048,18 @@ Maurice Bowling Middle School2380 Hwy. 22E,, Owenton, KY, 40359
 🌐 https://www.faithhealthcare.net
 🏥 Services: Primary Care
 📞 606-425-5768
-🗺 https://maps.google.com/?q=37.08378,-84.62376
 
 168. Women's Care of Lake Cumberland
 333 Bogle St, Somerset, KY, 42503-2873
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 606-678-0705
-🗺 https://maps.google.com/?q=37.08273,-84.62201
 
 169. Juniper Health Morgan County Dental
 672 Main St, West Liberty, KY, 41472-1018
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 606-743-3030
-🗺 https://maps.google.com/?q=37.92321,-83.25910
 
 170. Juniper Health Mobile Service Unit
 1484 Lakeside Dr, Jackson, KY, 41339-6555
@@ -1236,7 +1067,6 @@ Maurice Bowling Middle School2380 Hwy. 22E,, Owenton, KY, 40359
 🌐 https://www.juniperhealth.org
 🏥 Services: Primary Care
 📞 606-464-0151
-🗺 https://maps.google.com/?q=37.57333,-83.37293
 
 171. Juniper Health Breathitt High School
 2307 Bobcat Ln, Jackson, KY, 41339-1160
@@ -1244,28 +1074,24 @@ Maurice Bowling Middle School2380 Hwy. 22E,, Owenton, KY, 40359
 🌐 https://www.juniperhealth.org
 🏥 Services: Primary Care
 📞 606-666-9950
-🗺 https://maps.google.com/?q=37.55518,-83.38410
 
 172. LEWIS COUNTY PRIMARY CARE CENTER, INC.
 211 Ky 59 BLDG A, Vanceburg, KY, 41179-7647
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 606-796-3029
-🗺 https://maps.google.com/?q=38.58255,-83.32778
 
 173. ELEANOR JOHNSON'S WOMENS CENTER
 211 Ky 59 BLDG C, Vanceburg, KY, 41179-7647
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 606-796-3029
-🗺 https://maps.google.com/?q=38.58260,-83.32726
 
 174. LEWIS CO FAMILY DENTAL CLINIC
 211 Ky 59 BLDG D, Vanceburg, KY, 41179-7647
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 606-796-9511
-🗺 https://maps.google.com/?q=38.58260,-83.32726
 
 175. Buckhorn Medical Clinic
 72 Buckhorn Clinic Rd, Buckhorn, KY, 41721-8936
@@ -1273,21 +1099,18 @@ Maurice Bowling Middle School2380 Hwy. 22E,, Owenton, KY, 40359
 🌐 https://www.mchcky.com
 🏥 Services: Primary Care
 📞 606-398-7141
-🗺 https://maps.google.com/?q=37.34645,-83.46944
 
 176. Grace Health Manchester
 85 Highway 80, Manchester, KY, 40962-8801
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 606-596-1410
-🗺 https://maps.google.com/?q=37.13749,-83.76813
 
 177. Juniper Health Elliott County
 308 N Ky 7, Sandy Hook, KY, 41171-9137
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 606-738-9785
-🗺 https://maps.google.com/?q=38.09093,-83.12547
 
 178. Trinity Family Health Primary Care - Corbin
 14949 N US Highway 25 E STE 3, Corbin, KY, 40701-6285
@@ -1295,21 +1118,18 @@ Maurice Bowling Middle School2380 Hwy. 22E,, Owenton, KY, 40359
 🌐 https://trinityfamilyhealth.net
 🏥 Services: Primary Care
 📞 606-280-4212
-🗺 https://maps.google.com/?q=36.95995,-84.07490
 
 179. Grace Health Medical Campus
 14662 N US Highway 25 E, Corbin, KY, 40701-6425
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 606-000-0000
-🗺 https://maps.google.com/?q=36.95965,-84.07032
 
 180. Grace CHC SBH Corbin Preschool
 614 MASTER ST, CORBIN, KY, 40701-1058
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 606-595-8742
-🗺 https://maps.google.com/?q=36.95305,-84.08765
 
 181. HomePlace Clinic - Chavies
 270 First St, Chavies, KY, 41727
@@ -1317,21 +1137,18 @@ Maurice Bowling Middle School2380 Hwy. 22E,, Owenton, KY, 40359
 🌐 https://www.mtcomp.org/homeplace
 🏥 Services: Primary Care
 📞 606-487-8188
-🗺 https://maps.google.com/?q=37.34765,-83.35552
 
 182. Grace SBHC Corbin School of Innovation
 200 W 8th St, Corbin, KY, 40701-1900
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 606-261-7739
-🗺 https://maps.google.com/?q=36.94212,-84.09685
 
 183. Corbin Educational Center SBHC
 901 S Main St, Corbin, KY, 40701-1805
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 606-595-8610
-🗺 https://maps.google.com/?q=36.94063,-84.09400
 
 184. GCHC SBHC Lynn Camp Elementary
 366 N KY 830, Barbourville, KY, 40701-6132
@@ -1339,7 +1156,6 @@ Maurice Bowling Middle School2380 Hwy. 22E,, Owenton, KY, 40359
 🌐 https://gracechc.com
 🏥 Services: Primary Care
 📞 606-523-1814
-🗺 https://maps.google.com/?q=36.95063,-84.03755
 
 185. Grace SBHC Lynn Camp Middle/High School
 100 N Ky 830, Corbin, KY, 40701-6132
@@ -1347,21 +1163,18 @@ Maurice Bowling Middle School2380 Hwy. 22E,, Owenton, KY, 40359
 🌐 https://gracechc.com
 🏥 Services: Primary Care
 📞 606-528-5429
-🗺 https://maps.google.com/?q=36.94675,-84.03742
 
 186. Grace Health Women's Care
 1019 Cumberland Falls Hwy Ste D141, Corbin, KY, 40701-2796
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 606-528-5527
-🗺 https://maps.google.com/?q=36.92850,-84.10450
 
 187. HomePlace Eye Care
 550 Parkway Dr, Salyersville, KY, 41465-9248
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 606-349-3115
-🗺 https://maps.google.com/?q=37.74646,-83.06296
 
 188. HomePlace Clinic - Salyersville
 540 Parkway Dr, Salyersville, KY, 41465
@@ -1369,14 +1182,12 @@ Maurice Bowling Middle School2380 Hwy. 22E,, Owenton, KY, 40359
 🌐 https://www.mtcomp.org/homeplace
 🏥 Services: Primary Care
 📞 606-886-8572
-🗺 https://maps.google.com/?q=37.74618,-83.05993
 
 189. Hope Family Health Services-Pediatrics
 420 Tom Frazier Way, Salyersville, KY, 41465
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 606-349-5126
-🗺 https://maps.google.com/?q=37.73997,-83.04642
 
 190. Monticello Medical Associates (Mobile)
 1215 N Main St, Monticello, KY, 42633-2900
@@ -1384,7 +1195,6 @@ Maurice Bowling Middle School2380 Hwy. 22E,, Owenton, KY, 40359
 🌐 https://www.monticellomedical.org/
 🏥 Services: Primary Care
 📞 606-348-3365
-🗺 https://maps.google.com/?q=36.84474,-84.83910
 
 191. Promise Community Health Care-Monticello
 1025 S Main St, Monticello, KY, 42633-2762
@@ -1392,7 +1202,6 @@ Maurice Bowling Middle School2380 Hwy. 22E,, Owenton, KY, 40359
 🌐 https://www.cumberlandfamilymedical.com
 🏥 Services: Primary Care
 📞 606-340-8870
-🗺 https://maps.google.com/?q=36.82383,-84.86437
 
 192. HomePlace Clinic - Grayson
 129 Fraley Miller Plz, Grayson, KY, 41143
@@ -1400,28 +1209,24 @@ Maurice Bowling Middle School2380 Hwy. 22E,, Owenton, KY, 40359
 🌐 https://www.mtcomp.org/homeplace
 🏥 Services: Primary Care
 📞 606-474-0042
-🗺 https://maps.google.com/?q=38.33071,-82.94797
 
 193. Grace Community Health Center, Inc. - Hyden
 21154 Highway 421, Hyden, KY, 41749-8553
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 606-672-1208
-🗺 https://maps.google.com/?q=37.15109,-83.37242
 
 194. Mobile Dental Unit 2
 750 Morton Blvd, Hazard, KY, 41701-9469
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 606-439-1559
-🗺 https://maps.google.com/?q=37.27819,-83.22730
 
 195. KMHA Quick Response Team_Prevention Center
 148 Taylor Ridge Rd, Hazard, KY, 41701-6659
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 606-487-9505
-🗺 https://maps.google.com/?q=37.28110,-83.21960
 
 196. Grace SBHC Jesse D. Lay Elem
 220 N Allison Ave, Barbourville, KY, 40906-1337
@@ -1429,14 +1234,12 @@ Maurice Bowling Middle School2380 Hwy. 22E,, Owenton, KY, 40359
 🌐 https://gracechc.com
 🏥 Services: Primary Care
 📞 606-546-6524
-🗺 https://maps.google.com/?q=36.87100,-83.88211
 
 197. Grace Health SBHC Knox County Learning Academy
 135 Wall St, Barbourville, KY, 40906-1451
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 606-526-9005 x2110
-🗺 https://maps.google.com/?q=36.86797,-83.88977
 
 198. Knox County Area Technology Center
 210 Wall St, Barbourville, KY, 40906-1450
@@ -1444,21 +1247,18 @@ Maurice Bowling Middle School2380 Hwy. 22E,, Owenton, KY, 40359
 🌐 https://gracechc.com
 🏥 Services: Primary Care
 📞 606-546-5320
-🗺 https://maps.google.com/?q=36.86692,-83.89185
 
 199. Grace CHC SBH W.B. Muncy Elementary
 142 PIRATE DR, WOOTON, KY, 41776-8889
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 606-279-3763
-🗺 https://maps.google.com/?q=37.18334,-83.30368
 
 200. GCHC- Appalachian Children's Home
 1909 Ky 3439, Barbourville, KY, 40906-7201
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 606-546-3805
-🗺 https://maps.google.com/?q=36.86993,-83.84641
 
 201. First Choice McCreary
 1900 N Highway 27, Whitley City, KY, 42653
@@ -1466,7 +1266,6 @@ Maurice Bowling Middle School2380 Hwy. 22E,, Owenton, KY, 40359
 🌐 https://www.cfmcky.com
 🏥 Services: Primary Care
 📞 270-858-6655
-🗺 https://maps.google.com/?q=36.75008,-84.47393
 
 202. University Of Louisville 550 Clinic
 501 E Broadway, Ste 140A, Louisville, KY 40202-1785

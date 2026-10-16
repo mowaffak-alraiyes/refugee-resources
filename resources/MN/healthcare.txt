@@ -6,7 +6,6 @@
 🌐 http://www.hennepin.us/residents/health-medical/clinics-services
 🏥 Services: Primary Care; Health Care for the Homeless
 📞 612-332-4500 x226
-🗺 https://maps.google.com/?q=44.97739,-93.26017
 
 2. Salvation Army Harbor Light Center
 1010 Currie Ave, Minneapolis, MN, 55403-1309
@@ -14,7 +13,6 @@
 🌐 http://www.hennepin.us/residents/health-medical/clinics-services
 🏥 Services: Primary Care; Health Care for the Homeless
 📞 612-596-9643
-🗺 https://maps.google.com/?q=44.97820,-93.27976
 
 3. Catholic Charities, Higher Ground
 165 Glenwood Ave, Minneapolis, MN, 55405-1618
@@ -22,7 +20,6 @@
 🌐 http://www.hennepin.us/residents/health-medical/clinics-services
 🏥 Services: Primary Care; Health Care for the Homeless
 📞 612-348-5553
-🗺 https://maps.google.com/?q=44.97885,-93.28536
 
 4. Universal Medical Services, Inc. dba Axis Medical Center
 1801 Nicollet Ave, Minneapolis, MN, 55403-3791
@@ -30,14 +27,12 @@
 🌐 https://www.axismedicalcenter.org
 🏥 Services: Primary Care
 📞 612-823-2947
-🗺 https://maps.google.com/?q=44.96495,-93.27745
 
 5. NACC Behavioral Health Outpatient Programs
 1113 East Franklin Avenue  STE 103, Minneapolis, MN, 55404
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 612-872-8086
-🗺 https://maps.google.com/?q=44.96271,-93.25779
 
 6. NATIVE AMERICAN COMMUNITY CLINIC
 1213 E. FRANKLIN AVE, MINNEAPOLIS, MN, 55404-2923
@@ -45,7 +40,6 @@
 🌐 https://www.nacc-healthcare.org
 🏥 Services: Primary Care, Ryan White HIV/AIDS Program
 📞 612-872-8086
-🗺 https://maps.google.com/?q=44.96213,-93.25667
 
 7. INDIAN HEALTH BOARD OF MINNEAPOLIS, INC.
 1315 E   24th St, Minneapolis, MN, 55404-3975
@@ -53,14 +47,12 @@
 🌐 https://www.ihb-mpls.org
 🏥 Services: Primary Care
 📞 612-721-9800
-🗺 https://maps.google.com/?q=44.95888,-93.25527
 
 8. Menaandawiwe
 2027 E Franklin Ave, Minneapolis, MN, 55404-2245
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 612-721-9800
-🗺 https://maps.google.com/?q=44.96246,-93.24298
 
 9. Heritage Park
 1015 N 4th Ave, Minneapolis, MN, 55411-3047
@@ -68,7 +60,6 @@
 🌐 https://www.northpointhealth.org
 🏥 Services: Primary Care
 📞 612-543-2500
-🗺 https://maps.google.com/?q=44.99514,-93.28414
 
 10. SHERIDAN CLINIC
 342 13th Ave NE, Minneapolis, MN, 55413-1265
@@ -76,21 +67,18 @@
 🌐 https://www.neighborhoodhealthsource.org
 🏥 Services: Primary Care
 📞 612-362-4111
-🗺 https://maps.google.com/?q=45.00060,-93.26234
 
 11. Franklin Middle School
 1501 Aldrich Ave N, Minneapolis, MN, 55411-3335
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 612-668-2600
-🗺 https://maps.google.com/?q=44.99415,-93.29034
 
 12. Riverbend School Clinic
 1510 Glenwood Ave  RM 249, Minneapolis, MN, 55405-1259
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 612-543-2500
-🗺 https://maps.google.com/?q=44.98105,-93.29940
 
 13. Hennepin County – 800 W Broadway Ave
 800 W Broadway Ave, Minneapolis, MN, 55411-2614
@@ -98,14 +86,12 @@
 🌐 https://www.northpointhealth.org
 🏥 Services: Primary Care
 📞 612-543-2500
-🗺 https://maps.google.com/?q=44.99953,-93.28995
 
 14. Southside East Lake Clinic
 1000 E Lake St, Minneapolis, MN, 55407-1617
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 612-827-7181
-🗺 https://maps.google.com/?q=44.94863,-93.25949
 
 15. NORTH HIGH SCHOOL MINI-HEALTH
 1500 James Ave N, Minneapolis, MN, 55411-3161
@@ -113,21 +99,18 @@
 🌐 https://www.northpointhealth.org
 🏥 Services: Primary Care
 📞 612-215-2791
-🗺 https://maps.google.com/?q=44.99415,-93.30070
 
 16. Axis Lake
 1 W Lake St, Minneapolis, MN, 55408-3154
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 612-843-2947
-🗺 https://maps.google.com/?q=44.94834,-93.27853
 
 17. DBA NorthPoint Health & Wellness Center
 2220 Plymouth Ave N, Minneapolis, MN, 55411
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 612-543-2500
-🗺 https://maps.google.com/?q=44.99179,-93.30887
 
 18. Anwatin Middle School
 256 UPTON AVE S, MINNEAPOLIS, MN, 55405-1944
@@ -135,14 +118,12 @@
 🌐 https://www.northpointhealth.org
 🏥 Services: Primary Care
 📞 612-668-2450
-🗺 https://maps.google.com/?q=44.97259,-93.31612
 
 19. Anishinabe Academy
 3100 E   28th St, Minneapolis, MN, 55406-1601
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 612-668-0880
-🗺 https://maps.google.com/?q=44.95232,-93.22648
 
 20. PLYMOUTH CHRISTIAN YOUTH CENTER
 2210 Oliver Ave N, Minneapolis, MN, 55411-1821
@@ -150,7 +131,6 @@
 🌐 https://www.northpointhealth.org
 🏥 Services: Primary Care
 📞 612-643-2001
-🗺 https://maps.google.com/?q=45.00208,-93.30622
 
 21. People's Center Dental Clinic
 3152 Minnehaha Ave, Minneapolis, MN, 55406-1934
@@ -158,7 +138,6 @@
 🌐 https://www.peoples-center.org
 🏥 Services: Primary Care; Dental
 📞 612-332-4973
-🗺 https://maps.google.com/?q=44.94495,-93.23227
 
 22. FREMONT CLINIC
 20 5th St SE, Cook, MN, 55723-9702
@@ -166,7 +145,6 @@
 🌐 https://www.neighborhoodhealthsource.org
 🏥 Services: Primary Care
 📞 612-588-9411
-🗺 https://maps.google.com/?q=45.01524,-93.29523
 
 23. Southside Dental, Vision, Behavioral Health, and Administration
 4243 4th Ave S, Minneapolis, MN, 55409-2113
@@ -174,21 +152,18 @@
 🌐 https://www.southsidechs.org
 🏥 Services: Primary Care; Dental; Mental health
 📞 612-822-9030
-🗺 https://maps.google.com/?q=44.92542,-93.26981
 
 24. Sanford Middle School
 3524 42nd Ave S, Minneapolis, MN, 55406-2813
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 612-721-9800
-🗺 https://maps.google.com/?q=44.93856,-93.21278
 
 25. Axis Family Clinic
 3638 Central Ave NE Bldg, Minneapolis, MN, 55418-1343
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 612-823-2947
-🗺 https://maps.google.com/?q=45.03497,-93.24741
 
 26. Olson Middle School
 1607 51ST AVE N, MINNEAPOLIS, MN, 55430-3433
@@ -196,7 +171,6 @@
 🌐 https://www.northpointhealth.org
 🏥 Services: Primary Care
 📞 612-668-1640
-🗺 https://maps.google.com/?q=45.04666,-93.30134
 
 27. OPEN CITIES HEALTH CENTER, INC.
 409 Dunlap St N, Saint Paul, MN, 55104-4201
@@ -204,7 +178,6 @@
 🌐 https://www.opencitieshealth.org
 🏥 Services: Primary Care
 📞 651-290-9200
-🗺 https://maps.google.com/?q=44.95320,-93.14947
 
 28. MN Community Care - Central SBC
 275 Lexington Pkwy N, Saint Paul, MN, 55104-5402
@@ -212,7 +185,6 @@
 🌐 https://WWW.WESTSIDECHS.ORG
 🏥 Services: Primary Care; Mental health
 📞 651-632-2194
-🗺 https://maps.google.com/?q=44.94907,-93.14782
 
 29. MN Community Care - Highland Park SBC
 1015 Snelling Ave S, Saint Paul, MN, 55116-2447
@@ -220,7 +192,6 @@
 🌐 https://WWW.WESTSIDECHS.ORG
 🏥 Services: Primary Care
 📞 651-690-7667
-🗺 https://maps.google.com/?q=44.90984,-93.16841
 
 30. MN Community Care @Union Gospel Mission
 435 UNIVERSITY AVE, ST. PAUL, MN, 55101-4405
@@ -228,7 +199,6 @@
 🌐 https://WWW.WESTSIDECHS.ORG
 🏥 Services: Primary Care
 📞 651-290-6814
-🗺 https://maps.google.com/?q=44.95607,-93.11825
 
 31. MN Community Care - Washington SBC
 1495 Rice St, Saint Paul, MN, 55117-3864
@@ -236,7 +206,6 @@
 🌐 https://WWW.WESTSIDECHS.ORG
 🏥 Services: Primary Care; Mental health
 📞 651-487-8531
-🗺 https://maps.google.com/?q=44.98708,-93.11141
 
 32. United Family Medicine
 1026 7th St W, Saint Paul, MN, 55102-3828
@@ -244,7 +213,6 @@
 🌐 http://unitedfamilymedicine.org
 🏥 Services: Primary Care
 📞 651-758-9500
-🗺 https://maps.google.com/?q=44.92663,-93.12793
 
 33. Open Cities North End Clinic
 916 Rice St, Saint Paul, MN, 55117-5425
@@ -252,7 +220,6 @@
 🌐 https://www.opencitieshealth.org
 🏥 Services: Primary Care
 📞 651-290-9200
-🗺 https://maps.google.com/?q=44.96880,-93.10583
 
 34. MN Community Care @McDonough Homes
 1544 Timberlake Rd, Saint Paul, MN, 55117-3946
@@ -260,14 +227,12 @@
 🌐 https://WWW.WESTSIDECHS.ORG
 🏥 Services: Primary Care
 📞 612-558-2191
-🗺 https://maps.google.com/?q=44.98789,-93.09263
 
 35. MN Community Care - Creative Arts SBC
 65 Kellogg Blvd E, School-Based Clinic Suite, Saint Paul, MN, 55101-1106
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 651-292-3480
-🗺 https://maps.google.com/?q=44.94523,-93.09106
 
 36. MN Community Care - West Side Dental
 478 Robert St S, Saint Paul, MN, 55107-2236
@@ -275,7 +240,6 @@
 🌐 https://WWW.WESTSIDECHS.ORG
 🏥 Services: Primary Care; Dental
 📞 651-602-7575
-🗺 https://maps.google.com/?q=44.93157,-93.08051
 
 37. MN Community Care - La Clinica
 153 Cesar Chavez St, Saint Paul, MN, 55107-2226
@@ -283,14 +247,12 @@
 🌐 https://WWW.WESTSIDECHS.ORG
 🏥 Services: Primary Care
 📞 651-602-7500
-🗺 https://maps.google.com/?q=44.93037,-93.07814
 
 38. Riverland Community Health Center at Two Rivers High School
 1897 Delaware Avenue, Mendota Heights, MN, 55118-4357
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 651-758-9500
-🗺 https://maps.google.com/?q=44.88739,-93.10789
 
 39. MN Community Care - East Side Clinic
 895 7TH ST E, SAINT PAUL, MN, 55106-3871
@@ -298,14 +260,12 @@
 🌐 https://www.westsidechs.org
 🏥 Services: Primary Care
 📞 651-772-9757
-🗺 https://maps.google.com/?q=44.96398,-93.06293
 
 40. Elders Lodge
 1500 Magnolia Ave E., St Paul, MN, 55106-2894
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 651-756-7085
-🗺 https://maps.google.com/?q=44.97348,-93.03727
 
 41. North Metro Clinic
 10081 Dogwood Street NW  STE 100, Coon Rapids, MN, 55448-5281
@@ -313,7 +273,6 @@
 🌐 https://neighborhoodhealthsource.org
 🏥 Services: Primary Care
 📞 612-588-9411
-🗺 https://maps.google.com/?q=45.15278,-93.27093
 
 42. ODHC Shakopee
 1617 Weston Ct.  STE 200, Shakopee, MN, 55379-4426
@@ -321,7 +280,6 @@
 🌐 https://www.odhc.org
 🏥 Services: Primary Care
 📞 507-388-2120
-🗺 https://maps.google.com/?q=44.77570,-93.50687
 
 43. Jordan Dental Clinic
 115 Broadway St S Ste 600, Jordan, MN, 55352-1667
@@ -329,14 +287,12 @@
 🌐 https://www.odhc.org/en/jordan/home
 🏥 Services: Primary Care
 📞 952-492-6342
-🗺 https://maps.google.com/?q=44.66658,-93.62604
 
 44. Community Health Service Inc. - Rochester
 2720 Broadway Ave N, Rochester, MN, 55906-3980
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Migrant health center
 📞 507-529-0503
-🗺 https://maps.google.com/?q=44.05325,-92.45401
 
 🌐 https://chsiclinics.org/locations/rochester-mn/
 
@@ -345,28 +301,24 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 218-722-1497
-🗺 https://maps.google.com/?q=46.66459,-92.42485
 
 46. Access Health - Marshall
 1521 Carlson St Ste 100, Marshall, MN, 56258-2626
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 507-476-4800
-🗺 https://maps.google.com/?q=44.44485,-95.76188
 
 47. LSCHC Denfeld Retail Center
 4602 Grand Ave Ste 1000, Duluth, MN, 55807-2712
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 218-722-1497
-🗺 https://maps.google.com/?q=46.74526,-92.15918
 
 48. Northwood Children's Services
 4000 W 9th St., Riverwood Building in Explorers Room, Duluth, MN, 55807-1563
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 218-628-0237
-🗺 https://maps.google.com/?q=46.75762,-92.15535
 
 49. SCENIC RIVERS HEALTH SERVICES
 810 Poplar St, Floodwood, MN, 55736-4002
@@ -382,7 +334,6 @@
 🌐 https://chsiclinics.org
 🏥 Services: Primary Care
 📞 218-236-6502
-🗺 https://maps.google.com/?q=46.87956,-96.74246
 
 51. BIRCH GROVE CLINIC
 9 GOOD NEIGHBOR HILL RD, TOFTE, MN, 55615-2242
@@ -390,7 +341,6 @@
 🌐 https://sawtoothmountainclinic.org
 🏥 Services: Primary Care
 📞 218-663-7263
-🗺 https://maps.google.com/?q=47.56725,-90.85355
 
 52. CHURCHES UNITED FOR THE HOMELESS
 1019 1st Ave N, Moorhead, MN, 56560
@@ -398,7 +348,6 @@
 🌐 https://www.famhealthcare.org
 🏥 Services: Primary Care
 📞 218-236-0372
-🗺 https://maps.google.com/?q=46.86391,-96.77806
 
 53. FAMILY HEALTHCARE CENTER-MOORHEAD DENTAL
 715 11th St N STE 106B, Moorhead, MN, 56560-2000
@@ -406,7 +355,6 @@
 🌐 https://www.famhealthcare.org
 🏥 Services: Primary Care
 📞 218-299-7830
-🗺 https://maps.google.com/?q=46.88325,-96.76262
 
 54. SAWTOOTH MOUNTAIN CLINIC
 513 5th Ave W, Grand Marais, MN, 55604-3017
@@ -414,14 +362,12 @@
 🌐 https://sawtoothmountainclinic.org
 🏥 Services: Primary Care
 📞 218-387-2330
-🗺 https://maps.google.com/?q=47.75635,-90.34095
 
 55. ISD #166 Cook County School Building
 101 W 5th St, Grand Marais, MN, 55604-1337
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 218-387-2271
-🗺 https://maps.google.com/?q=47.75683,-90.33410
 
 56. GRAND PORTAGE HEALTH SERVICES
 62 Upper Rd, Grand Portage, MN, 55605-3010
@@ -429,7 +375,6 @@
 🌐 https://sawtoothmountainclinic.org
 🏥 Services: Primary Care
 📞 218-475-2235
-🗺 https://maps.google.com/?q=47.96682,-89.68033
 
 57. Healthpartners Institute For Education And Research
 401 Phalen Blvd, Saint Paul, MN 55130-5302

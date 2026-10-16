@@ -5,14 +5,12 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 803-260-7593
-🗺 https://maps.google.com/?q=34.01289,-81.03916
 
 2. Waverly Women's Health
 2117 Gervais St, Columbia, SC, 29204-1805
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Women's health
 📞 803-744-0540
-🗺 https://maps.google.com/?q=34.00654,-81.01814
 
 3. Brookland Community Pediatrics
 500 N   12th St, West Columbia, SC, 29169-6502
@@ -20,7 +18,6 @@
 🌐 https://www.ecchc.org
 🏥 Services: Primary Care
 📞 803-739-6982
-🗺 https://maps.google.com/?q=33.99369,-81.07419
 
 4. Cayce/West Columbia Primary Care Center
 407 N Brown St, West Columbia, SC, 29169-5710
@@ -28,7 +25,6 @@
 🌐 https://www.ecchc.org
 🏥 Services: Primary Care
 📞 803-995-8936
-🗺 https://maps.google.com/?q=33.98977,-81.08138
 
 5. Eau Claire Family Dentistry at Monticello Road
 4605 Monticello Rd Bldg C, Columbia, SC, 29203-4156
@@ -36,35 +32,30 @@
 🌐 https://www.ecchc.org
 🏥 Services: Primary Care
 📞 803-733-5969
-🗺 https://maps.google.com/?q=34.04583,-81.04369
 
 6. Sterling Sharpe Pediatric Center
 4605 Monticello Rd Building A, Suite 1, Columbia, SC, 29203-4156
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Pediatrics; Mental health
 📞 803-252-7001
-🗺 https://maps.google.com/?q=34.04593,-81.04369
 
 7. Eau Claire Behavioral Medicine
 4605 Monticello Rd Building B, Suite 1, Columbia, SC, 29203-4156
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 803-252-0266
-🗺 https://maps.google.com/?q=34.04593,-81.04369
 
 8. Hopkins Pediatrics and Family Practice
 9023 Garners Ferry Rd, Hopkins, SC, 29061-9540
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 803-978-1848
-🗺 https://maps.google.com/?q=33.94479,-80.86995
 
 9. Eastover Family Practice
 3041 Old Eastover Rd, Eastover, SC, 29044-8303
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 803-353-8741
-🗺 https://maps.google.com/?q=33.88201,-80.70614
 
 10. Sandhills Medical Foundation--Lugoff Baldwin Ave
 40 Baldwin Ave, Lugoff, SC, 29078-9406
@@ -72,7 +63,6 @@
 🌐 https://www.sandhillsmedicalfoundation.com
 🏥 Services: Primary Care
 📞 843-335-8291
-🗺 https://maps.google.com/?q=34.22511,-80.68808
 
 11. ST. MATTHEW'S FAMILY HEALTH CTR
 558 Chestnut St, Saint Matthews, SC, 29135-8104
@@ -80,7 +70,6 @@
 🌐 https://www.myfhc.org
 🏥 Services: Primary Care
 📞 803-655-4099
-🗺 https://maps.google.com/?q=33.66007,-80.79130
 
 12. Pediatrics of Batesburg - Leesville (dba Cooperative Health Batesburg-Leesville)
 120 WEST CHURCH STREET, LEESVILLE, SC, 29070
@@ -88,14 +77,12 @@
 🌐 https://www.ecchc.org
 🏥 Services: Primary Care
 📞 803-532-2208
-🗺 https://maps.google.com/?q=33.91376,-81.52964
 
 13. Family Health Centers Village Park Drive
 1760 Village Park Dr, Orangeburg, SC, 29118-2457
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 803-531-6900
-🗺 https://maps.google.com/?q=33.52392,-80.85735
 
 14. Family Health Centers, Inc., Training and Telehealth Hub
 3310 B Magnolia St, Orangeburg, SC, 29115-1466
@@ -103,14 +90,12 @@
 🌐 https://www.myfhc.org
 🏥 Services: Primary Care
 📞 803-531-6900
-🗺 https://maps.google.com/?q=33.52854,-80.83839
 
 15. Family Health Centers, Inc., Primary Care Mobile Unit
 3310 Magnolia St, Orangeburg, SC, 29115-1466
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 803-531-6900
-🗺 https://maps.google.com/?q=33.52854,-80.83839
 
 16. Orangeburg Family Medicine
 1550 Sims St, Orangeburg, SC, 29115-3434
@@ -118,7 +103,6 @@
 🌐 https://www.lowcountryhealthcaresystem.com
 🏥 Services: Primary Care
 📞 803-813-0399
-🗺 https://maps.google.com/?q=33.51277,-80.86525
 
 17. Manchester Elementary School
 200 W Clark St, Pinewood, SC, 29125-9598
@@ -126,7 +110,6 @@
 🌐 https://tandemhealthsc.org
 🏥 Services: Primary Care
 📞 803-452-5454
-🗺 https://maps.google.com/?q=33.74109,-80.46624
 
 18. NORFIELD MEDICAL CENTER
 7061 Norway Rd, Neeses, SC, 29107-9021
@@ -134,7 +117,6 @@
 🌐 https://www.myfhc.org
 🏥 Services: Primary Care
 📞 803-813-1325
-🗺 https://maps.google.com/?q=33.47354,-81.18658
 
 19. Tandem Health
 25 E Clark St, Pinewood, SC, 29125
@@ -142,7 +124,6 @@
 🌐 https://www.tandemhealthsc.org
 🏥 Services: Primary Care
 📞 803-774-4501
-🗺 https://maps.google.com/?q=33.74014,-80.46203
 
 20. Pediatrics of Newberry (dba Cooperative Health Newberry)
 2525 Kinard St, Newberry, SC, 29108-2909
@@ -150,7 +131,6 @@
 🌐 https://www.ecchc.org
 🏥 Services: Primary Care
 📞 803-405-0220
-🗺 https://maps.google.com/?q=34.28845,-81.60648
 
 21. Sandhills Medical Foundation Inc. – Sumter Site
 30 Cuttino Rd, Sumter, SC, 29150-2667
@@ -158,14 +138,12 @@
 🌐 https://www.sandhillsmedical.org
 🏥 Services: Primary Care
 📞 803-778-2442
-🗺 https://maps.google.com/?q=33.94395,-80.36752
 
 22. Carolina Health Centers at Newberry MHC
 2043 Medical Park Drive  RM 114, 131, Newberry, SC, 29108
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 864-889-0559
-🗺 https://maps.google.com/?q=34.29341,-81.60866
 
 23. Sandhills Medical - W. Liberty Street
 764 W Liberty St, #1, Sumter, SC, 29150-4748
@@ -173,7 +151,6 @@
 🌐 https://www.sandhillsmedical.org
 🏥 Services: Primary Care
 📞 803-778-2446
-🗺 https://maps.google.com/?q=33.91903,-80.36618
 
 24. SALUDA FAMILY PRACTICE
 219 Greenwood Hwy, Saluda, SC, 29138-1143
@@ -181,14 +158,12 @@
 🌐 https://www.carolinahealthcenters.org
 🏥 Services: Primary Care
 📞 864-445-2181
-🗺 https://maps.google.com/?q=34.00680,-81.77892
 
 25. Kershaw Office
 205 W Marion St, Kershaw, SC, 29067-1412
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 843-335-8291
-🗺 https://maps.google.com/?q=34.54757,-80.58368
 
 26. Plexus Health | Kershaw
 212 E. Marion St, Kershaw, SC, 29067
@@ -196,7 +171,6 @@
 🌐 https://www.plexushealth.com
 🏥 Services: Primary Care
 📞 803-475-2083
-🗺 https://maps.google.com/?q=34.54859,-80.57984
 
 27. CSC BISHOPVILLE CENTER
 545 Sumter Hwy, Bishopville, SC, 29010-7601
@@ -204,7 +178,6 @@
 🌐 https://www.caresouth-carolina.com
 🏥 Services: Primary Care
 📞 803-484-5317
-🗺 https://maps.google.com/?q=34.20769,-80.26300
 
 28. Low Country Health Care System Mobile Health Services
 130 Baker St N, Blackville, SC, 29817-2426
@@ -212,7 +185,6 @@
 🌐 https://www.lowcountryhealthcaresystem.com
 🏥 Services: Primary Care
 📞 803-632-2533
-🗺 https://maps.google.com/?q=33.35569,-81.26604
 
 29. CareSouth Carolina Bishopville Pediatric Dental Office
 101 Harris St, Bishopville, SC, 29010-1601
@@ -220,7 +192,6 @@
 🌐 https://www.caresouth-carolina.com
 🏥 Services: Primary Care
 📞 843-857-0111
-🗺 https://maps.google.com/?q=34.21564,-80.25196
 
 30. Williston Family Medicine
 13649 Church Street, Williston, SC, 29853
@@ -228,14 +199,12 @@
 🌐 https://www.lowcountryhealthcaresystem.com
 🏥 Services: Primary Care
 📞 803-266-0060
-🗺 https://maps.google.com/?q=33.40353,-81.43435
 
 31. Low Country Health Care System, Inc. dba Padgett Family Practice
 526 North St, Bamberg, SC, 29003-1319
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 803-245-2433
-🗺 https://maps.google.com/?q=33.30755,-81.02945
 
 32. Bamberg Specialty Services
 185 Mcgee St, Bamberg, SC, 29003-1154
@@ -243,14 +212,12 @@
 🌐 https://www.lowcountryhealthcaresystem.com
 🏥 Services: Primary Care
 📞 803-956-6100
-🗺 https://maps.google.com/?q=33.30719,-81.03043
 
 33. Wellness and Preventive Medicine Center
 1021 York St NE, Aiken, SC, 29801-4025
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 803-380-7000
-🗺 https://maps.google.com/?q=33.57565,-81.70408
 
 34. Women and Children's Health Center
 995 Clyburn Pl, Aiken, SC, 29801
@@ -258,7 +225,6 @@
 🌐 https://www.ruralhs.org
 🏥 Services: Primary Care
 📞 803-380-7000
-🗺 https://maps.google.com/?q=33.57317,-81.71068
 
 35. Clyburn Center for Primary Care Mobile Unit
 1000 Clyburn Pl, Aiken, SC, 29801-4193
@@ -266,7 +232,6 @@
 🌐 https://www.mjwchc.org
 🏥 Services: Primary Care
 📞 803-380-7000
-🗺 https://maps.google.com/?q=33.57342,-81.71212
 
 36. Aiken Family Medicine
 209 Abbeville Ave NW, Aiken, SC, 29801-3923
@@ -274,7 +239,6 @@
 🌐 https://www.lowcountryhealthcaresystem.com
 🏥 Services: Primary Care
 📞 803-306-1433
-🗺 https://maps.google.com/?q=33.56666,-81.71860
 
 37. North Central Family Medical Center-Chester Site
 121 Saluda St, Chester, SC, 29706-1580
@@ -282,14 +246,12 @@
 🌐 https://www.ncfmc.net
 🏥 Services: Primary Care
 📞 803-581-0574
-🗺 https://maps.google.com/?q=34.70811,-81.20972
 
 38. HopeHealth Manning School-based Health Center
 2155 Paxville Hwy, Manning, SC, 29102-5074
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 803-433-4124
-🗺 https://maps.google.com/?q=33.69805,-80.22897
 
 39. MAP @ Aiken
 33 Varden Dr, Aiken, SC, 29803-5285
@@ -297,14 +259,12 @@
 🌐 https://mapbt.com
 🏥 Services: Primary Care
 📞 706-790-4440
-🗺 https://maps.google.com/?q=33.52963,-81.74605
 
 40. Plexus | Lancaster | 703 N. White
 703 N White St, Lancaster, SC, 29720-2174
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 803-285-2273
-🗺 https://maps.google.com/?q=34.72870,-80.77271
 
 41. Whiskey Road
 4200 Whiskey Rd, Aiken, SC, 29803-8534
@@ -312,7 +272,6 @@
 🌐 https://www.ruralhs.org
 🏥 Services: Primary Care
 📞 803-380-7000
-🗺 https://maps.google.com/?q=33.46498,-81.68797
 
 42. Low Country Health Care System, Inc. dba Barnwell Pediatrics
 10706 MARLBORO AVE, BARNWELL, SC, 29812-6376
@@ -320,7 +279,6 @@
 🌐 https://www.lowcountryhealthcaresystem.com/
 🏥 Services: Primary Care
 📞 803-259-7337
-🗺 https://maps.google.com/?q=33.25762,-81.35283
 
 43. LCHCS dba Barnwell Family Specialty Services
 124 Wren St, Barnwell, SC, 29812-1527
@@ -328,7 +286,6 @@
 🌐 https://www.lowcountryhealthcaresystem.com
 🏥 Services: Primary Care
 📞 803-259-5762
-🗺 https://maps.google.com/?q=33.25517,-81.36245
 
 44. Genesis Healthcare, Inc. dba Lamar Family Care
 301 W Main St, Lamar, SC, 29069-7102
@@ -336,7 +293,6 @@
 🌐 https://www.genesisfqhc.org
 🏥 Services: Primary Care
 📞 843-395-8400
-🗺 https://maps.google.com/?q=34.17174,-80.06589
 
 45. ReGenesis Health Care - Union
 115 Thomas St, Union, SC, 29379-2147
@@ -344,7 +300,6 @@
 🌐 https://www.myrhc.org
 🏥 Services: Primary Care
 📞 864-582-2411
-🗺 https://maps.google.com/?q=34.71514,-81.63144
 
 46. MARGARET J. WESTON HEALTH CENTER
 4645 AUGUSTA ROAD, CLEARWATER, SC, 29822-0277
@@ -352,7 +307,6 @@
 🌐 https://www.ruralhs.org
 🏥 Services: Primary Care
 📞 803-593-9283
-🗺 https://maps.google.com/?q=33.49443,-81.89743
 
 47. CSC HARTSVILLE CENTER
 1268 S    4th St, Hartsville, SC, 29550-0703
@@ -360,14 +314,12 @@
 🌐 https://www.caresouth-carolina.com
 🏥 Services: Primary Care
 📞 843-332-3422
-🗺 https://maps.google.com/?q=34.35708,-80.06098
 
 48. HomeTown Pediatrics
 23265 Highway 76 E, Clinton, SC, 29325-7532
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 864-547-8300
-🗺 https://maps.google.com/?q=34.47606,-81.93281
 
 49. Laurens Community Care Medical Home Referral Center
 22725 Highway 76  E, Clinton, SC, 29325-7527
@@ -375,7 +327,6 @@
 🌐 https://www.carolinahealthcenters.org
 🏥 Services: Primary Care
 📞 864-396-0200
-🗺 https://maps.google.com/?q=34.48154,-81.94042
 
 50. ST GEORGE MEDICAL CENTER
 401 Ridge St, Saint George, SC, 29477-2451
@@ -383,7 +334,6 @@
 🌐 https://www.myfhc.org
 🏥 Services: Primary Care
 📞 843-636-6080
-🗺 https://maps.google.com/?q=33.18899,-80.57535
 
 51. Women's Health and Pediatric & Adolescent Center
 1140 Saluda St, Rock Hill, SC, 29730-6225
@@ -391,42 +341,36 @@
 🌐 https://www.ncfmc.net
 🏥 Services: Primary Care
 📞 803-325-7744
-🗺 https://maps.google.com/?q=34.90668,-81.03048
 
 52. North Central Family Medical Center-Clinton College
 1029 Crawford Rd Rm 103, Rock Hill, SC, 29730-5152
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 803-487-9663
-🗺 https://maps.google.com/?q=34.91427,-81.04381
 
 53. HopeHealth Timmonsville
 210 E Market St, Timmonsville, SC, 29161-1812
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 843-346-3730
-🗺 https://maps.google.com/?q=34.13377,-79.93870
 
 54. Community Medicine Pharmacy
 423 Saluda St, Rock Hill, SC, 29730-5309
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 803-412-3352
-🗺 https://maps.google.com/?q=34.92000,-81.02671
 
 55. Affinity Health Center Main
 455 Lakeshore Pkwy, Rock Hill, SC, 29730-4205
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 803-909-6363
-🗺 https://maps.google.com/?q=34.93222,-80.99656
 
 56. NCFMC-Rock Hill Mental Health
 205 Piedmont St, Rock Hill, SC, 29730-4137
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 803-327-2012
-🗺 https://maps.google.com/?q=34.93529,-81.01773
 
 57. Village Family Practice
 420 Epting Ave Ste B, Greenwood, SC, 29646-4040
@@ -434,7 +378,6 @@
 🌐 https://www.carolinahealthcenters.org
 🏥 Services: Primary Care
 📞 864-547-8250
-🗺 https://maps.google.com/?q=34.17164,-82.15751
 
 58. Elijah Wright Family Health Center
 1681 OLD HIGHWAY 6, CROSS, SC, 29436-3602
@@ -442,21 +385,18 @@
 🌐 https://www.fetterhealthcare.org
 🏥 Services: Primary Care
 📞 843-753-2334
-🗺 https://maps.google.com/?q=33.36323,-80.19182
 
 59. The Bethany Center
 355 Cambridge Ave W, Greenwood, SC, 29646-2191
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 864-396-5268
-🗺 https://maps.google.com/?q=34.19556,-82.16876
 
 60. HopeHealth Greeleyville
 86 N Main St, Greeleyville, SC, 29056-9374
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 843-667-9414
-🗺 https://maps.google.com/?q=33.58095,-79.98866
 
 61. York Middle School
 1010 Devinney Rd, York, SC, 29745-2127
@@ -464,28 +404,24 @@
 🌐 https://www.affinityhealthcenter.org
 🏥 Services: Primary Care
 📞 803-909-6363
-🗺 https://maps.google.com/?q=34.96750,-81.23855
 
 62. HopeHealth at the Manor
 2100 Twin Church Road  STE B, Florence, SC, 29501-8222
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 843-667-9414
-🗺 https://maps.google.com/?q=34.15153,-79.85992
 
 63. HopeHealth Pine Needles
 3380 Pine Needles Rd, Florence, SC, 29501-7908
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 843-432-3670
-🗺 https://maps.google.com/?q=34.17656,-79.85776
 
 64. Mobile Health Clinic 2
 201 Cashua St, Darlington, SC, 29532-3301
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 803-254-3676
-🗺 https://maps.google.com/?q=34.30487,-79.86905
 
 65. Genesis Healthcare, Inc. dba Pee Dee Health Care
 201 Cashua Street, Darlington, SC, 29532-3301
@@ -493,21 +429,18 @@
 🌐 https://www.genesisfqhc.org
 🏥 Services: Primary Care
 📞 843-393-7452
-🗺 https://maps.google.com/?q=34.30487,-79.86905
 
 66. EAST COAST MIGRANT HEAD START PROGRAM
 14405 BELLS HIGHWAY, LODGE, SC, 29082-9331
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 843-768-9518
-🗺 https://maps.google.com/?q=32.99473,-80.88623
 
 67. HopeHealth Bethea
 157 Home Ave, Darlington, SC, 29532-7625
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 843-432-2960
-🗺 https://maps.google.com/?q=34.25682,-79.84071
 
 68. CareSouth Carolina Chesterfield Center
 204 Perry Wiley Way, Chesterfield, SC, 29709
@@ -515,7 +448,6 @@
 🌐 https://www.caresouth-carolina.com/
 🏥 Services: Primary Care
 📞 843-623-5080
-🗺 https://maps.google.com/?q=34.71366,-80.10800
 
 69. Genesis Healthcare, Inc. dba Genesis Healthcare Florence
 1523 Heritage Lane, Florence, SC, 29501
@@ -523,21 +455,18 @@
 🌐 https://www.genesisfqhc.org
 🏥 Services: Primary Care
 📞 843-673-9992
-🗺 https://maps.google.com/?q=34.16601,-79.77943
 
 70. HopeHealth Williamsburg
 411 Thurgood Marshall Hwy, Kingstree, SC, 29556-4032
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 843-355-3300
-🗺 https://maps.google.com/?q=33.66259,-79.81885
 
 71. HopeHealth Kingstree
 520 Thurgood Marshall Blvd STE B, Kingstree, SC, 29556-4108
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 843-355-5628
-🗺 https://maps.google.com/?q=33.65951,-79.81653
 
 72. The Pendergrass Family Health Center
 93 S Greenwood Ave, Ware Shoals, SC, 29692-1534
@@ -545,14 +474,12 @@
 🌐 https://www.carolinahealthcenters.org
 🏥 Services: Primary Care
 📞 864-456-7436
-🗺 https://maps.google.com/?q=34.38882,-82.23847
 
 73. HopeHealth Irby Street
 360 N IRBY ST, FLORENCE, SC, 29501-2808
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 843-667-9414
-🗺 https://maps.google.com/?q=34.20203,-79.76745
 
 74. HopeHealth, Inc.
 600 E Palmetto St, Florence, SC, 29506-2851
@@ -560,7 +487,6 @@
 🌐 https://www.hope-health.org
 🏥 Services: Primary Care
 📞 843-667-9414
-🗺 https://maps.google.com/?q=34.19362,-79.75892
 
 75. HopeHealth ECP Florence
 1530 McClure Ct, Florence, SC, 29505-6174
@@ -568,7 +494,6 @@
 🌐 https://www.hope-health.org
 🏥 Services: Primary Care
 📞 843-667-9414
-🗺 https://maps.google.com/?q=34.16205,-79.75130
 
 76. CSC ROSA LEE GERALD CENTER
 737 S. MAIN ST., SOCIETY HILL, SC, 29593-8972
@@ -576,7 +501,6 @@
 🌐 https://www.caresouth-carolina.com
 🏥 Services: Primary Care
 📞 843-378-4501
-🗺 https://maps.google.com/?q=34.50071,-79.86292
 
 77. Walterboro Family Health Center
 302 MEDICAL PARK DRIVE, WALTERBORO, SC, 29488-5747
@@ -584,7 +508,6 @@
 🌐 https://www.fetterhealthcare.org
 🏥 Services: Primary Care
 📞 843-549-6853
-🗺 https://maps.google.com/?q=32.92407,-80.67127
 
 78. Forest Hills Elementary School
 633 Hiers Corner Road, Walterboro, SC, 29488
@@ -592,7 +515,6 @@
 🌐 https://fhe.colleton.k12.sc.us/home
 🏥 Services: Primary Care
 📞 843-782-4512
-🗺 https://maps.google.com/?q=32.91243,-80.67893
 
 79. HAMPTON MEDICAL CENTER
 200 Elm St E, Hampton, SC, 29924-3430
@@ -600,7 +522,6 @@
 🌐 https://www.bjhchs.org
 🏥 Services: Primary Care
 📞 843-943-2233
-🗺 https://maps.google.com/?q=32.86540,-81.10745
 
 80. Rose D. Gibbs, MD Family Health Center
 106 W Main St, Moncks Corner, SC, 29461-2601
@@ -608,7 +529,6 @@
 🌐 https://www.fetterhealthcare.org
 🏥 Services: Primary Care
 📞 843-761-1995
-🗺 https://maps.google.com/?q=33.19709,-80.01425
 
 81. Dorchester Family Health Center
 679 Orangeburg Rd UNIT F, Summerville, SC, 29483-9038
@@ -616,7 +536,6 @@
 🌐 https://www.fetterhealthcare.org
 🏥 Services: Primary Care
 📞 843-722-4112
-🗺 https://maps.google.com/?q=32.99955,-80.23053
 
 82. CareSouth Carolina Bennettsville Women's Services
 1076 Marlboro Way Ste 1, Bennettsville, SC, 29512-2495
@@ -624,7 +543,6 @@
 🌐 https://www.caresouth-carolina.com
 🏥 Services: Primary Care
 📞 843-454-2294
-🗺 https://maps.google.com/?q=34.54230,-79.73170
 
 83. Fetter Health Center for Pediatric Wellness-Summerville
 120 Varnfield Dr STE B, Summerville, SC, 29483-7313
@@ -632,7 +550,6 @@
 🌐 https://www.fetterhealthcare.org
 🏥 Services: Primary Care
 📞 843-821-3444
-🗺 https://maps.google.com/?q=33.03680,-80.16419
 
 84. Fetter Health Vision Studio
 120 Varnfield Dr, Ste A, Summerville, SC, 29483-7313
@@ -640,14 +557,12 @@
 🌐 https://www.fetterhealthcare.org
 🏥 Services: Primary Care
 📞 843-722-4110
-🗺 https://maps.google.com/?q=33.03641,-80.16412
 
 85. Archibald Rutledge
 764 N Church St, Spartanburg, SC, 29303-3097
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 864-582-2411
-🗺 https://maps.google.com/?q=34.96477,-81.94311
 
 86. Estill Medical Center
 777 East Second Street, Estill, SC, 29918
@@ -655,7 +570,6 @@
 🌐 https://www.bjhchs.org
 🏥 Services: Primary Care
 📞 803-625-2548
-🗺 https://maps.google.com/?q=32.75251,-81.23317
 
 87. CSC BENNETTSVILLE CENTER
 999 CHERAW ST, BENNETTSVILLE, SC, 29512-2420
@@ -663,7 +577,6 @@
 🌐 https://www.caresouth-carolina.com
 🏥 Services: Primary Care
 📞 843-479-2341
-🗺 https://maps.google.com/?q=34.63212,-79.69749
 
 88. Genesis Healthcare, Inc. dba Lowcountry Pediatrics
 99 Bridgetown Rd, Goose Creek, SC, 29445-5359
@@ -671,7 +584,6 @@
 🌐 https://www.genesisfqhc.org
 🏥 Services: Primary Care
 📞 843-572-3300
-🗺 https://maps.google.com/?q=33.00813,-80.05051
 
 89. Health Care Partners of South Carolina, Inc. - JOHNSONVILLE OFFICE
 123 EAST BROADWAY STREET, JOHNSONVILLE, SC, 29555-6438
@@ -679,7 +591,6 @@
 🌐 https://www.hscpsc.com
 🏥 Services: Primary Care
 📞 843-386-3573
-🗺 https://maps.google.com/?q=33.81807,-79.44837
 
 90. Rosemary Middle School - SBHC
 12804 County Line Rd, Andrews, SC, 29510-6877
@@ -687,7 +598,6 @@
 🌐 https://www.stjamessanteefhc.com
 🏥 Services: Primary Care
 📞 843-264-1223
-🗺 https://maps.google.com/?q=33.46093,-79.57245
 
 91. Andrews Elementary School Based Health Clinic
 13072 County Line Rd, Andrews, SC, 29510-6811
@@ -695,14 +605,12 @@
 🌐 https://www.stjamessanteefhc.com
 🏥 Services: Primary Care
 📞 843-264-1223
-🗺 https://maps.google.com/?q=33.46358,-79.56975
 
 92. HopeHealth Hemingway
 2266 Hemingway Hwy, Hemingway, SC, 29554-5407
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 843-667-9414
-🗺 https://maps.google.com/?q=33.75272,-79.45700
 
 93. HCPSC School Based Health at Johnsonville High School
 237 S Georgetown Hwy, Johnsonville, SC, 29555-8081
@@ -710,7 +618,6 @@
 🌐 https://hcpsc.org/
 🏥 Services: Primary Care
 📞 843-248-4700
-🗺 https://maps.google.com/?q=33.81545,-79.44298
 
 94. RB Stall High School
 3625 Ashley Phosphate Rd, North Charleston, SC, 29418-8559
@@ -718,7 +625,6 @@
 🌐 https://www.ccsdschools.com/stall
 🏥 Services: Primary Care
 📞 843-764-2200
-🗺 https://maps.google.com/?q=32.92585,-80.08149
 
 95. Andrews Healthcare Annex
 411 E Main St, Andrews, SC, 29510-4011
@@ -726,7 +632,6 @@
 🌐 https://www.stjamessanteefhc.com
 🏥 Services: Primary Care
 📞 843-264-1223
-🗺 https://maps.google.com/?q=33.44871,-79.55284
 
 96. GREER
 111 BERRY AVE # A, GREER, SC, 29651-1307
@@ -734,7 +639,6 @@
 🌐 https://www.newhorizonfhs.org
 🏥 Services: Primary Care
 📞 864-801-2035
-🗺 https://maps.google.com/?q=34.94624,-82.22309
 
 97. CareSouth Carolina McColl Health and Wellness Center
 3080 Highway 15-401 E, Mc Coll, SC, 29570-6128
@@ -742,7 +646,6 @@
 🌐 https://www.caresouth-carolina.com
 🏥 Services: Primary Care
 📞 843-523-5751
-🗺 https://maps.google.com/?q=34.65245,-79.56763
 
 98. Jerry Zucker Middle School of Science
 6401 Dorchester Rd, North Charleston, SC, 29418-5101
@@ -750,7 +653,6 @@
 🌐 http://zucker.ccsdschools.com/
 🏥 Services: Primary Care
 📞 843-767-8383
-🗺 https://maps.google.com/?q=32.87713,-80.06160
 
 99. Health Care Partners Mobile Dental Van
 145 Palmetto Pointe Rd, Marion, SC, 29571-6721
@@ -758,7 +660,6 @@
 🌐 https://hcpsc.org/
 🏥 Services: Primary Care
 📞 843-248-4700
-🗺 https://maps.google.com/?q=34.18485,-79.37069
 
 100. New Horizon Family Health Services Main Site
 975 W FARIS RD, GREENVILLE, SC, 29605-4241
@@ -766,7 +667,6 @@
 🌐 https://www.newhorizonfhs.org
 🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 864-729-8330 x2259
-🗺 https://maps.google.com/?q=34.81588,-82.41433
 
 101. NEW HORIZON FAMILY DENTAL CARE
 1 Memorial Medical Dr, Greenville, SC, 29605-4407
@@ -774,7 +674,6 @@
 🌐 https://www.newhorizonfhs.org
 🏥 Services: Primary Care; Dental
 📞 864-351-2400 x3005
-🗺 https://maps.google.com/?q=34.81646,-82.42079
 
 102. Unity Health On Main
 505 N Main St, Ste C, Greenville, SC, 29601-2019
@@ -782,14 +681,12 @@
 🌐 https://www.unityhealthonmain.org
 🏥 Services: Primary Care
 📞 864-232-2734
-🗺 https://maps.google.com/?q=34.85748,-82.39607
 
 103. CARE Team Express Mobile Medical Unit 2
 130 Mallard St, Greenville, SC, 29601-4046
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Dental
 📞 864-233-1534
-🗺 https://maps.google.com/?q=34.83914,-82.41507
 
 104. Morningside Middle School
 1999 Singley St, North Charleston, SC, 29405-5014
@@ -797,7 +694,6 @@
 🌐 https://www.ccsdschools.com/morningside
 🏥 Services: Primary Care
 📞 843-745-2000
-🗺 https://maps.google.com/?q=32.87756,-80.00223
 
 105. Baptist Hill Middle High School
 5117 Baptist Hill Rd, Hollywood, SC, 29449-6916
@@ -805,7 +701,6 @@
 🌐 https://www.fetterhealthcare.org
 🏥 Services: Primary Care
 📞 843-889-2276
-🗺 https://maps.google.com/?q=32.72784,-80.26163
 
 106. Elijah Washington Medical Center
 211 Paige Point Rd, Seabrook, SC, 29940-2737
@@ -813,7 +708,6 @@
 🌐 https://www.bjhchs.org
 🏥 Services: Primary Care
 📞 843-846-8148
-🗺 https://maps.google.com/?q=32.58589,-80.79115
 
 107. Mary Ford Early Learning and Family Center
 3180 Thomasina Mcpherson Blvd, North Charleston, SC, 29405-8283
@@ -821,14 +715,12 @@
 🌐 https://www.ccsdschools.com/maryford
 🏥 Services: Primary Care
 📞 843-745-7131
-🗺 https://maps.google.com/?q=32.84865,-79.97819
 
 108. St. James-SanteeFamily Health Center, Inc-Sampit Site
 2482 Powell Rd, Georgetown, SC, 29440-8590
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 843-527-7533
-🗺 https://maps.google.com/?q=33.33012,-79.47338
 
 109. Mughelli-Oyibokja Wellness Center for Women
 1843 Ashley River Rd, Charleston, SC, 29407-4740
@@ -836,7 +728,6 @@
 🌐 https://www.fetterhealthcare.org
 🏥 Services: Primary Care; Women's health
 📞 843-769-4424
-🗺 https://maps.google.com/?q=32.80394,-80.01952
 
 110. JAMES J DAVIS EARLY LEARNING CENTER
 364 KEAN NECK RD, DALE, SC, 29940-3122
@@ -844,14 +735,12 @@
 🌐 https://www.bjhchs.org
 🏥 Services: Primary Care
 📞 843-466-3579
-🗺 https://maps.google.com/?q=32.55525,-80.71091
 
 111. Packing Shed Housing Camp
 771 Brownswood Rd, Johns Island, SC, 29455-3239
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 843-722-4112
-🗺 https://maps.google.com/?q=32.76494,-80.07121
 
 112. St. James Health and Wellness Mobile Services
 4145 Powell Rd, Georgetown, SC, 29440
@@ -859,14 +748,12 @@
 🌐 https://www.stjamessanteefhc.com
 🏥 Services: Primary Care
 📞 843-887-3274
-🗺 https://maps.google.com/?q=33.30715,-79.46475
 
 113. Berea
 8000 White Horse Road, Greenville, SC, 29617
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 864-729-8330
-🗺 https://maps.google.com/?q=34.89313,-82.46723
 
 114. ST. JAMES-SANTEE FAMILY HLTH CTR
 8189 Choppee Rd, Georgetown, SC, 29440-6374
@@ -874,7 +761,6 @@
 🌐 https://www.stjamessanteefhc.com
 🏥 Services: Primary Care
 📞 843-545-8723
-🗺 https://maps.google.com/?q=33.54743,-79.33297
 
 115. WHALE BRANCH MIDDLE SCHOOL
 2009 Trask Pkwy, Seabrook, SC, 29940-3668
@@ -882,7 +768,6 @@
 🌐 https://www.bjhchs.org
 🏥 Services: Primary Care
 📞 843-486-3015
-🗺 https://maps.google.com/?q=32.53340,-80.74452
 
 116. Ridgeland Secondary Academy of Excellence
 250 Jaguar Trl, Ridgeland, SC, 29936-5497
@@ -890,7 +775,6 @@
 🌐 https://www.bjhchs.org
 🏥 Services: Primary Care
 📞 843-717-1510
-🗺 https://maps.google.com/?q=32.50007,-80.98746
 
 117. Ridgeland Medical Center
 1520 Grays Hwy, Ridgeland, SC, 29936-5440
@@ -898,7 +782,6 @@
 🌐 https://www.bjhchs.org
 🏥 Services: Primary Care
 📞 843-726-3979
-🗺 https://maps.google.com/?q=32.49696,-80.98548
 
 118. One80 Place
 35 Walnut St, Charleston, SC, 29403-4514
@@ -906,7 +789,6 @@
 🌐 https://www.fetterhealthcare.org
 🏥 Services: Primary Care
 📞 843-723-9477
-🗺 https://maps.google.com/?q=32.80009,-79.94401
 
 119. Foothills Community Health Care-Easley
 403 Hillcrest Dr, Easley, SC, 29640-1207
@@ -914,7 +796,6 @@
 🌐 https://www.myfchc.org
 🏥 Services: Primary Care
 📞 864-343-1220 x201
-🗺 https://maps.google.com/?q=34.83698,-82.61066
 
 120. TRAVELERS REST
 1588 Geer Hwy, Travelers Rest, SC, 29690
@@ -922,7 +803,6 @@
 🌐 https://www.newhorizonfhs.org
 🏥 Services: Primary Care
 📞 864-836-1109
-🗺 https://maps.google.com/?q=34.99657,-82.47314
 
 121. LRMC - Aynor
 5605 Highway 501 E, Aynor, SC, 29511-3470
@@ -930,14 +810,12 @@
 🌐 https://www.lrmcenter.com
 🏥 Services: Primary Care
 📞 843-663-8000
-🗺 https://maps.google.com/?q=33.92685,-79.15724
 
 122. Georgetown Pediatric Center
 57 JESSAMINE AVE, GEORGETOWN, SC, 29440-5837
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 843-546-8686
-🗺 https://maps.google.com/?q=33.40950,-79.28724
 
 123. CSC LAKE VIEW CENTER
 103 N Kemper St, Lake View, SC, 29563
@@ -945,7 +823,6 @@
 🌐 https://www.caresouth-carolina.com
 🏥 Services: Primary Care
 📞 843-759-2189
-🗺 https://maps.google.com/?q=34.34374,-79.16716
 
 124. Port Royal OB/GYN
 1264 Ribaut Rd Ste 200, Beaufort, SC, 29902-6127
@@ -953,14 +830,12 @@
 🌐 https://www.bjhchs.org
 🏥 Services: Primary Care
 📞 843-322-1806
-🗺 https://maps.google.com/?q=32.40243,-80.68523
 
 125. Port Royal Medical Center II
 2210-B Mossy Oaks Rd, Port Royal, SC, 29935-1046
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 843-987-7400
-🗺 https://maps.google.com/?q=32.39985,-80.68643
 
 126. BJHCHS Dental Mobile Unit
 721 Okatie Hwy, Okatie, SC, 29909-3963
@@ -968,7 +843,6 @@
 🌐 https://bjhchs.org
 🏥 Services: Primary Care
 📞 843-987-7400
-🗺 https://maps.google.com/?q=32.36016,-80.87235
 
 127. St. Helena Elementary School
 1025 Sea Island Pkwy, St Helena Is, SC, 29920-4301
@@ -976,7 +850,6 @@
 🌐 https://www.bjhchs.org
 🏥 Services: Primary Care
 📞 843-838-0300
-🗺 https://maps.google.com/?q=32.40153,-80.56366
 
 128. Careteam + Family Health and Specialty Care
 239 Business Center Dr, Pawleys Island, SC, 29585-6522
@@ -992,7 +865,6 @@
 🌐 https://www.bjhchs.org
 🏥 Services: Primary Care
 📞 843-717-1280
-🗺 https://maps.google.com/?q=32.32814,-81.04086
 
 130. Donald E. Gatch Medical Center
 552 Stiney Rd, Hardeeville, SC, 29927-5228
@@ -1000,7 +872,6 @@
 🌐 https://www.bjhchs.org
 🏥 Services: Primary Care
 📞 843-784-2181
-🗺 https://maps.google.com/?q=32.29747,-81.08182
 
 131. LRMC Health Access
 1075 Mr Joe White Ave Unit 101, Myrtle Beach, SC, 29577-5658
@@ -1008,7 +879,6 @@
 🌐 https://www.lrmcenter.com
 🏥 Services: Primary Care
 📞 843-663-8067
-🗺 https://maps.google.com/?q=33.69935,-78.88677
 
 132. LRMC-Mobile Van #1
 4220 Carolina Exchange Dr, Myrtle Beach, SC, 29579-4220
@@ -1016,7 +886,6 @@
 🌐 http://www.lrmcenter.com/
 🏥 Services: Primary Care
 📞 843-222-6594
-🗺 https://maps.google.com/?q=33.76157,-78.96516
 
 133. WACCAMAW CENTER FOR MENTAL HEALTH
 164 WACCAMAW MEDICAL PARK DR, CONWAY, SC, 29526-8903
@@ -1024,14 +893,12 @@
 🌐 https://www.lrmcenter.com
 🏥 Services: Primary Care
 📞 843-347-5060
-🗺 https://maps.google.com/?q=33.78592,-78.99731
 
 134. Health Care Partners of SC Women's Care
 243 Singleton Ridge Rd, Conway, SC, 29526-8391
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 843-248-4700
-🗺 https://maps.google.com/?q=33.78963,-78.99935
 
 135. LRMC: MYRTLE BEACH MEDICAL CENTER
 7724 N Kings Hwy, Myrtle Beach, SC, 29572-3041
@@ -1039,7 +906,6 @@
 🌐 http://www.lrmcenter.com/
 🏥 Services: Primary Care
 📞 843-663-8040
-🗺 https://maps.google.com/?q=33.74771,-78.81687
 
 136. LITTLE RIVER MEDICAL CENTER, INC.: MAIN SITE
 4303 LIVE OAK DR, LITTLE RIVER, SC, 29566-9138
@@ -1047,7 +913,6 @@
 🌐 https://www.lrmcenter.com
 🏥 Services: Primary Care
 📞 843-663-8024
-🗺 https://maps.google.com/?q=33.88321,-78.59859
 
 137. Rosa Clark Medical Clinic Dental Clinic
 210 S Oak St, Seneca, SC, 29678-3416
@@ -1055,21 +920,18 @@
 🌐 https://www.rosaclarkclinic.com
 🏥 Services: Primary Care
 📞 864-888-4825
-🗺 https://maps.google.com/?q=34.68077,-82.95614
 
 138. Lot #3 Blue Ridge Blvd. Tax Map # 500-32-01-004
 130 Development Drive, West Union, SC, 29696
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 864-882-4664
-🗺 https://maps.google.com/?q=34.74612,-83.04403
 
 139. Rosa Clark Health Center Westminster
 1608 East Main Street, Westminster, SC, 29693
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 864-882-4664
-🗺 https://maps.google.com/?q=34.66022,-83.08001
 
 140. Appalachian Mountain Health at May's Care Center
 2600 Wheat St, Columbia, SC, 29205-2315
@@ -1077,7 +939,6 @@
 🌐 https://not applicable
 🏥 Services: Primary Care; Mental health; Pediatrics
 📞 828-412-5315
-🗺 https://maps.google.com/?q=35.59339,-82.56137
 
 141. Waverly Family Practice
 1228 Harden St STE C, Columbia, SC 29204-1800

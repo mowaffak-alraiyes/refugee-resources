@@ -6,7 +6,6 @@
 🌐 https://www.mercyatlanta.org
 🏥 Services: Primary Care; Health Care for the Homeless
 📞 404-880-3719
-🗺 https://maps.google.com/?q=33.74763,-84.39452
 
 2. Mercy Care Mobile
 424 Decatur St SE, Atlanta, GA, 30312-1848
@@ -14,7 +13,6 @@
 🌐 https://www.mercyatlanta.org
 🏥 Services: Ryan White HIV/AIDS Program; Primary Care; Health Care for the Homeless
 📞 678-843-8500
-🗺 https://maps.google.com/?q=33.75107,-84.37448
 
 3. MedCura Midtown
 550 Peachtree St NE, Atlanta, GA, 30308-2247
@@ -22,7 +20,6 @@
 🌐 https://www.medcura.org
 🏥 Services: Primary Care
 📞 404-888-7575
-🗺 https://maps.google.com/?q=33.76929,-84.38554
 
 4. The Family Health Center of GA dba Georgia Center for Women at Peachtree
 550 Peachtree Street NE  STE 1250, Atlanta, GA, 30308-2239
@@ -30,14 +27,12 @@
 🌐 https://gacfw.com
 🏥 Services: Primary Care; Women's health
 📞 404-581-0307
-🗺 https://maps.google.com/?q=33.76929,-84.38554
 
 5. HEAL @ Hollis Innovation Academy
 225 Griffin St NW, Atlanta, GA, 30314-3917
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 404-481-3794
-🗺 https://maps.google.com/?q=33.76084,-84.41094
 
 6. SOUTHSIDE MEDICAL CENTER - Main Center / Corporate HQ
 1046 Ridge Ave SW, Atlanta, GA, 30315-1640
@@ -45,7 +40,6 @@
 🌐 https://www.smcmed.com
 🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 404-688-1350
-🗺 https://maps.google.com/?q=33.72632,-84.39190
 
 7. Mobile Medical and Dental Unit
 868 york ave., Atlanta, GA, 30310-7092
@@ -53,7 +47,6 @@
 🌐 https://fhcga.org
 🏥 Services: Primary Care; Dental
 📞 404-752-1400
-🗺 https://maps.google.com/?q=33.73672,-84.41625
 
 8. Mercy Care at Salvation Army
 740 Marietta St NW, Atlanta, GA, 30318-5726
@@ -61,14 +54,12 @@
 🌐 https://www.mercyatlanta.org
 🏥 Services: Primary Care
 📞 678-843-8600
-🗺 https://maps.google.com/?q=33.77287,-84.40257
 
 9. Healing Community Center - Abernathy
 1188 Ralph David Abernathy Blvd SW, Atlanta, GA, 30310-1716
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 404-564-7749
-🗺 https://maps.google.com/?q=33.73851,-84.42692
 
 10. Mercy Care at City of Refuge
 1300 Joseph E. Boone Blvd, Atlanta, GA, 30314
@@ -76,28 +67,24 @@
 🌐 https://www.mercyatlanta.org
 🏥 Services: Primary Care; Health Care for the Homeless
 📞 678-843-8500
-🗺 https://maps.google.com/?q=33.76205,-84.43067
 
 11. MedCura Whitefoord
 1401 Hosea L Williams Dr SE, Atlanta, GA, 30317-1703
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 404-298-8998
-🗺 https://maps.google.com/?q=33.75308,-84.34186
 
 12. Care Center at Dobbs Elementary
 2025 Jonesboro Rd SE, Atlanta, GA, 30315-6726
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 404-564-7030
-🗺 https://maps.google.com/?q=33.69829,-84.37249
 
 13. Southside Medical Center School Based Health Center at Kipp Vision
 660 Mcwilliams Rd SE, Atlanta, GA, 30315-7544
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 404-688-1350
-🗺 https://maps.google.com/?q=33.68952,-84.36635
 
 14. MedCura McNair
 2162 Second Ave, Decatur, GA, 30032-5259
@@ -105,7 +92,6 @@
 🌐 https://www.medcura.org
 🏥 Services: Primary Care
 📞 404-298-8998
-🗺 https://maps.google.com/?q=33.72723,-84.30680
 
 15. SOUTHSIDE MEDICAL CENTER - East Point Clinic
 1100 Cleveland Ave, Atlanta, GA, 30344-3602
@@ -113,7 +99,6 @@
 🌐 https://www.smcmed.com
 🏥 Services: Ryan White HIV/AIDS Program; Primary Care; Migrant health center
 📞 404-627-1385
-🗺 https://maps.google.com/?q=33.68110,-84.42486
 
 16. MedCura Decatur
 1706 Candler Rd, Decatur, GA, 30032-3274
@@ -121,7 +106,6 @@
 🌐 https://www.medcura.org
 🏥 Services: Primary Care
 📞 404-298-8998
-🗺 https://maps.google.com/?q=33.74128,-84.28860
 
 17. The Family Health Center at College Park School-Based
 2075 Princeton Ave, College Park, GA, 30337-2411
@@ -129,7 +113,6 @@
 🌐 https://fhcga.org
 🏥 Services: Primary Care
 📞 678-568-3049
-🗺 https://maps.google.com/?q=33.65660,-84.45639
 
 18. Healing Community Center- Mobile Unit
 3915 Cascade Rd SW, Ste T-90, Atlanta, GA, 30331-8660
@@ -137,14 +120,12 @@
 🌐 https://healatlanta.org
 🏥 Services: Primary Care
 📞 404-564-7740
-🗺 https://maps.google.com/?q=33.72663,-84.51625
 
 19. Miles Elementary School
 4215 Bakers Ferry Rd SW, Atlanta, GA, 30331-4401
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 404-564-7749
-🗺 https://maps.google.com/?q=33.75567,-84.52587
 
 20. MedCura Clarkston
 4112 E Ponce de Leon Ave, Clarkston, GA, 30021-1898
@@ -152,7 +133,6 @@
 🌐 https://medcura.org
 🏥 Services: Primary Care
 📞 404-296-7133
-🗺 https://maps.google.com/?q=33.80742,-84.24191
 
 21. Ethne Health - Dental
 4122 E Ponce de Leon Ave, Ste 5, Clarkston, GA, 30021-1838
@@ -160,14 +140,12 @@
 🌐 https://www.ethnehealth.org
 🏥 Services: Primary Care
 📞 470-799-0044
-🗺 https://maps.google.com/?q=33.80757,-84.24126
 
 22. Recovery Consultants of Atlanta Mobile Van
 4229 Snapfinger Woods Dr, Decatur, GA, 30035-3440
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 404-286-9252
-🗺 https://maps.google.com/?q=33.71442,-84.21768
 
 23. Mercy Care Chamblee
 5134 Peachtree Rd, Chamblee, GA, 30341-2724
@@ -175,7 +153,6 @@
 🌐 https://www.mercyatlanta.org
 🏥 Services: Primary Care
 📞 678-872-7100
-🗺 https://maps.google.com/?q=33.88706,-84.30969
 
 24. MedCura Northlake
 2295 Parklake Dr NE Ste 500, Atlanta, GA, 30345-2822
@@ -183,7 +160,6 @@
 🌐 https://www.medcura.org
 🏥 Services: Primary Care
 📞 404-298-8998
-🗺 https://maps.google.com/?q=33.85209,-84.24816
 
 25. MedCura Health, Inc.
 5582 Memorial Drive, Stone Mountain, GA, 30083-3215
@@ -191,7 +167,6 @@
 🌐 https://www.medcura.org
 🏥 Services: Primary Care
 📞 404-298-8998
-🗺 https://maps.google.com/?q=33.80160,-84.20970
 
 26. MedCura Doraville
 3630 Shallowford Rd NE, Doraville, GA, 30340-1019
@@ -199,7 +174,6 @@
 🌐 https://medcura.org/
 🏥 Services: Primary Care
 📞 404-298-8998
-🗺 https://maps.google.com/?q=33.89595,-84.28665
 
 27. MedCura Cobb
 3065 S Cobb Dr SE  STE A, Smyrna, GA, 30080-7810
@@ -207,14 +181,12 @@
 🌐 https://medcura.org
 🏥 Services: Primary Care
 📞 404-296-7133
-🗺 https://maps.google.com/?q=33.87697,-84.53120
 
 28. The Family Health Centers at Morrow
 6685 Merchants Way, Morrow, GA, 30260-2342
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 770-961-2508
-🗺 https://maps.google.com/?q=33.57273,-84.34929
 
 29. MedCura Lithonia
 5424 Hillandale Park Ct  STE A, Lithonia, GA, 30058-8803
@@ -222,7 +194,6 @@
 🌐 https://medcura.org
 🏥 Services: Primary Care
 📞 404-296-7133
-🗺 https://maps.google.com/?q=33.70548,-84.16783
 
 30. Cumberland Pediatrics at Southside Medical Center
 1405 Franklin Gtwy SE, Marietta, GA, 30067-8705
@@ -230,7 +201,6 @@
 🌐 https://www.southsidemedical.net
 🏥 Services: Primary Care
 📞 404-688-1350
-🗺 https://maps.google.com/?q=33.91712,-84.49454
 
 31. MedCura Hillandale
 5910 Hillandale Dr, Lithonia, GA, 30058-1884
@@ -238,7 +208,6 @@
 🌐 https://www.medcura.org
 🏥 Services: Primary Care
 📞 404-298-3250
-🗺 https://maps.google.com/?q=33.70555,-84.14847
 
 32. Good Samaritan Health Center of Cobb
 1605 Roberta Dr SW, Marietta, GA, 30008-3855
@@ -246,14 +215,12 @@
 🌐 https://www.goodsamcobb.org
 🏥 Services: Primary Care
 📞 770-419-3120
-🗺 https://maps.google.com/?q=33.91392,-84.55641
 
 33. Southside Medical Center Stockbridge clinic
 3576 Highway 138 SE, Stockbridge, GA, 30281-7909
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 404-688-1350
-🗺 https://maps.google.com/?q=33.55070,-84.27340
 
 34. CPACS Cosmo Health Center Behavioral Health
 6185 Buford Highway STE G, Norcross, GA, 30071
@@ -261,7 +228,6 @@
 🌐 https://www.cpacscosmo.org
 🏥 Services: Primary Care
 📞 470-359-2640
-🗺 https://maps.google.com/?q=33.93189,-84.22551
 
 35. Four Corners Primary Care Centers
 3919 Main St, Folkston, GA, 31537-7545
@@ -269,7 +235,6 @@
 🌐 https://www.fcpchealth.com
 🏥 Services: Primary Care
 📞 770-806-2928
-🗺 https://maps.google.com/?q=33.91911,-84.17777
 
 36. The Family Health Center at Douglas County Schools
 8277 Connally Dr, Douglasville, GA, 30134-3840
@@ -277,7 +242,6 @@
 🌐 https://fhcga.org
 🏥 Services: Primary Care
 📞 770-651-2273
-🗺 https://maps.google.com/?q=33.75504,-84.72954
 
 37. MedCura Rockdale
 977 Taylor St SW, Conyers, GA, 30012-5357
@@ -285,7 +249,6 @@
 🌐 https://www.medcura.org
 🏥 Services: Primary Care
 📞 404-298-8998
-🗺 https://maps.google.com/?q=33.66495,-84.02503
 
 38. YourTown Health
 643 Main St, Palmetto, GA, 30268-1138
@@ -293,14 +256,12 @@
 🌐 https://www.yourtownhealth.com
 🏥 Services: Primary Care
 📞 770-463-4644
-🗺 https://maps.google.com/?q=33.52628,-84.66325
 
 39. HEALing Community Center - Douglasville
 3666 Highway 5 Ste 102, Douglasville, GA, 30135-6940
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 404-564-7749
-🗺 https://maps.google.com/?q=33.70528,-84.77261
 
 40. The Family Health Centers of GA dba McDonough Children's Specialists
 350 Huntington Place Ct, Mcdonough, GA, 30253-8651
@@ -308,14 +269,12 @@
 🌐 https://mcdonoughchildrens.com
 🏥 Services: Primary Care
 📞 770-957-3393
-🗺 https://maps.google.com/?q=33.46169,-84.15308
 
 41. CareConnect Convenient Care
 1424 N Expressway Ste 121-123, Griffin, GA, 30223-1753
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 678-688-2820
-🗺 https://maps.google.com/?q=33.27102,-84.28794
 
 42. GHMS Canton Family Health Center
 220 OAKSIDE LN BLDG, CANTON, GA, 30114-6413
@@ -323,7 +282,6 @@
 🌐 http:\\www.ghms-inc.org
 🏥 Services: Primary Care
 📞 678-807-1050
-🗺 https://maps.google.com/?q=34.24652,-84.48895
 
 43. Highlands Medical Plaza
 475 Tribble Gap Rd, Cumming, GA, 30040-2478
@@ -331,7 +289,6 @@
 🌐 https://www.ghms-inc.org
 🏥 Services: Primary Care
 📞 770-887-1668
-🗺 https://maps.google.com/?q=34.21438,-84.13877
 
 44. Southside Medical Center, Spalding County
 409 W Solomon St, Griffin, GA, 30223-2831
@@ -339,14 +296,12 @@
 🌐 http://www.southsidemedical.net/home.html
 🏥 Services: Primary Care
 📞 404-688-1350
-🗺 https://maps.google.com/?q=33.24900,-84.26904
 
 45. GHMS Cumming Elementary Center
 540 Dahlonega Street, Cumming, GA, 30040-2110
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 770-887-1668
-🗺 https://maps.google.com/?q=34.22042,-84.13505
 
 46. MedLink Monroe
 705 Breedlove Dr, Ste 100, Monroe, GA, 30655-2080
@@ -354,7 +309,6 @@
 🌐 https://www.medlinkga.org
 🏥 Services: Primary Care
 📞 706-266-0935
-🗺 https://maps.google.com/?q=33.78393,-83.72028
 
 47. MedLink Winder Women's Health Center
 137 W Athens St Ste 103, Winder, GA, 30680-1786
@@ -362,14 +316,12 @@
 🌐 https://www.medlinkga.org
 🏥 Services: Primary Care
 📞 770-867-6633
-🗺 https://maps.google.com/?q=33.99490,-83.72730
 
 48. MedLink Winder - Ancillary Services
 125 W Athens St, Winder, GA, 30680-1710
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 770-867-6633
-🗺 https://maps.google.com/?q=33.99482,-83.72606
 
 49. MedLink Hawks School Based Health Center
 2035 Calvary Church Rd, Gainesville, GA, 30507-8339
@@ -377,7 +329,6 @@
 🌐 https://www.medlinkga.org
 🏥 Services: Primary Care
 📞 706-237-8722
-🗺 https://maps.google.com/?q=34.22743,-83.82425
 
 50. MedLink Gainesville
 520 Jesse Jewell Pkwy SE, Gainesville, GA, 30501-3779
@@ -385,14 +336,12 @@
 🌐 https://www.medlinkga.org
 🏥 Services: Primary Care
 📞 770-287-0290
-🗺 https://maps.google.com/?q=34.29937,-83.82013
 
 51. Oconee Valley Healthcare Inc. Madison - Suite 100
 1075 S Main St, Madison, GA, 30650
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 706-453-1201
-🗺 https://maps.google.com/?q=33.58547,-83.48009
 
 52. MedLink Oconee
 1160 Capital Ave.  STE 105, Watkinsville, GA, 30677-1832
@@ -400,14 +349,12 @@
 🌐 https://www.medlinkga.org
 🏥 Services: Primary Care
 📞 706-788-3234
-🗺 https://maps.google.com/?q=33.86889,-83.44625
 
 53. CareConnect Mobile Van 1
 414 S Frontage Rd  LOT 53, Forsyth, GA, 31029
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 229-273-8881
-🗺 https://maps.google.com/?q=33.04048,-83.92611
 
 54. ANHC Mobile Unit 1
 420 Jerry Smith Dr, Watkinsville, GA, 30677-2788
@@ -415,7 +362,6 @@
 🌐 https://WWW.ANHC.CLINIC
 🏥 Services: Primary Care
 📞 706-850-9041
-🗺 https://maps.google.com/?q=33.85205,-83.39962
 
 55. Pediatric Convenient Care
 855 N Church St.  STE 939, Thomaston, GA, 30286
@@ -431,21 +377,18 @@
 🌐 https://www.gamtnhealth.org
 🏥 Services: Primary Care
 📞 706-864-2155
-🗺 https://maps.google.com/?q=34.52379,-83.97915
 
 57. Athens Neighborhood Health Center, Inc.
 675 College Ave, Athens, GA, 30601-2635
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 706-546-5526
-🗺 https://maps.google.com/?q=33.96292,-83.37747
 
 58. Hilsman School-Based Clinic
 870 Gaines School Rd, Athens, GA, 30605-3132
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 706-850-9041
-🗺 https://maps.google.com/?q=33.93086,-83.33565
 
 59. MedLink Commerce
 611 Hospital Road, Commerce, GA, 30529-1143
@@ -453,7 +396,6 @@
 🌐 https://www.medlinkga.org
 🏥 Services: Primary Care
 📞 706-608-5124
-🗺 https://maps.google.com/?q=34.21637,-83.46959
 
 60. Ellijay Health and Dental
 80 Cinema Drive, Ellijay, GA, 30540
@@ -461,7 +403,6 @@
 🌐 https://www.gamtnhealth.org
 🏥 Services: Primary Care
 📞 706-635-6898
-🗺 https://maps.google.com/?q=34.65328,-84.49096
 
 61. Medlink Banks
 112 Banks Road  STE 1, Commerce, GA, 30529-6300
@@ -469,7 +410,6 @@
 🌐 https://www.medlinkga.org
 🏥 Services: Primary Care
 📞 706-521-3113
-🗺 https://maps.google.com/?q=34.27599,-83.46449
 
 62. MedLink Cleveland Family Foot Care
 2109 Highway 129 S, Ste C, Cleveland, GA, 30528-7172
@@ -477,21 +417,18 @@
 🌐 https://www.medlinkga.org
 🏥 Services: Primary Care
 📞 706-865-0666
-🗺 https://maps.google.com/?q=34.56743,-83.76327
 
 63. Oconee Valley Healthcare-Pediatrics
 114 Harmony Crossing  STE 5, Eatonton, GA, 31024
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 706-453-1211
-🗺 https://maps.google.com/?q=33.42496,-83.26843
 
 64. MedLink Suches
 56 Firewater Ln, Suches, GA, 30572-2941
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 706-969-7510
-🗺 https://maps.google.com/?q=34.69291,-84.02320
 
 65. MedLink Cleveland Behavioral Health Services
 25 Old Blairsville Rd, Cleveland, GA, 30528-1129
@@ -499,14 +436,12 @@
 🌐 https://www.mlgfhc.org
 🏥 Services: Primary Care
 📞 706-969-7510
-🗺 https://maps.google.com/?q=34.60138,-83.76647
 
 66. MedLink White
 17 White St, Cleveland, GA, 30528-1140
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 706-969-7510
-🗺 https://maps.google.com/?q=34.60152,-83.76681
 
 67. MedLink Warrior Wellness Center
 2648 Highway 129 N, Cleveland, GA, 30528-2710
@@ -514,21 +449,18 @@
 🌐 https://www.medlinkga.org
 🏥 Services: Primary Care
 📞 706-725-4000
-🗺 https://maps.google.com/?q=34.61783,-83.79669
 
 68. Oconee Valley Healthcare, Inc. Wellness Center
 1040 Park Dr, Greensboro, GA, 30642-3466
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 706-453-1201
-🗺 https://maps.google.com/?q=33.48945,-83.22194
 
 69. CHCS, INC – Mobile Unit
 4292 Gray Hwy, Gray, GA, 31032-5900
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 478-864-2600
-🗺 https://maps.google.com/?q=32.99714,-83.55690
 
 70. MedLink Oglethorpe
 247 Union Point St, Lexington, GA, 30648-2303
@@ -536,7 +468,6 @@
 🌐 https://www.medlinkga.org
 🏥 Services: Primary Care
 📞 706-743-8171
-🗺 https://maps.google.com/?q=33.86988,-83.11923
 
 71. CareConnect Family Practice
 254 Wright Avenue, Roberta, GA, 31078
@@ -552,21 +483,18 @@
 🌐 https://www.valleyhealthcolumbus.com
 🏥 Services: Primary Care
 📞 706-987-8348
-🗺 https://maps.google.com/?q=32.68276,-84.54095
 
 73. School Based Health Center - Chatsworth Elementary School
 500 Green Rd, Chatsworth, GA, 30705-2745
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 706-695-2434
-🗺 https://maps.google.com/?q=34.77812,-84.78700
 
 74. MedLink Habersham
 396 Historic Highway 441 N, Demorest, GA, 30535-4522
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 706-754-4348
-🗺 https://maps.google.com/?q=34.55988,-83.52394
 
 75. Primary Health Care Center Summerville
 11638 HIGHWAY 27, SUMMERVILLE, GA, 30747-8514
@@ -574,7 +502,6 @@
 🌐 https://www.primaryhealthcarecenter.org
 🏥 Services: Primary Care
 📞 706-996-8251
-🗺 https://maps.google.com/?q=34.49836,-85.33214
 
 76. FCPC L.H. Williams
 325 Pursley St, Macon, GA, 31201-1127
@@ -582,7 +509,6 @@
 🌐 https://www.firstchoiceprimarycare.org
 🏥 Services: Primary Care
 📞 478-787-4266
-🗺 https://maps.google.com/?q=32.84510,-83.64662
 
 77. FCPC Bibb County Health Dept
 171 EMERY HWY, MACON, GA, 31217-3666
@@ -590,21 +516,18 @@
 🌐 https://www.firstchoiceprimarycare.org
 🏥 Services: Primary Care
 📞 478-238-5665
-🗺 https://maps.google.com/?q=32.84783,-83.62392
 
 78. First Choice Atrium Transitional Care
 777 Hemlock St, Macon, GA, 31201-2102
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 478-633-6143
-🗺 https://maps.google.com/?q=32.83356,-83.63614
 
 79. First Choice Primary Care East Macon Replacement Site
 2460 Shurling Dr, Macon, GA, 31211-2525
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 478-254-7204
-🗺 https://maps.google.com/?q=32.86636,-83.57876
 
 80. Community Health Care Systems, Inc. Baldwin County
 102A AIRPORT RD NE, MILLEDGEVILLE, GA, 31061-9313
@@ -612,7 +535,6 @@
 🌐 https://www.chcsga.org
 🏥 Services: Primary Care
 📞 478-552-7384
-🗺 https://maps.google.com/?q=33.15377,-83.26099
 
 81. Ingram Pye Health Center
 855 Anthony Rd, Macon, GA, 31204-6266
@@ -620,49 +542,42 @@
 🌐 https://www.firstchoiceprimarycare.org
 🏥 Services: Primary Care
 📞 478-621-7955
-🗺 https://maps.google.com/?q=32.82043,-83.65223
 
 82. First Choice Primary Care Poplar St
 400 Poplar St, Macon, GA, 31201-3336
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 478-787-4266
-🗺 https://maps.google.com/?q=32.83338,-83.62769
 
 83. Daybreak Center Suite A
 174 Walnut St, Macon, GA, 31201-3440
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 478-216-9119 x2009
-🗺 https://maps.google.com/?q=32.83497,-83.62072
 
 84. Blue Ridge BH and Admin
 79 Blue Ridge Overlook, Blue Ridge, GA, 30513
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 706-374-3100
-🗺 https://maps.google.com/?q=34.87440,-84.32747
 
 85. FCPC South Macon
 3061 Houston Ave, Macon, GA, 31206-2345
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 478-781-2992
-🗺 https://maps.google.com/?q=32.80634,-83.64854
 
 86. Fannin County Medical and Admin consolidated site
 165 Blue Ridge Overlook, Blue Ridge, GA, 30513-4431
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 706-946-4647
-🗺 https://maps.google.com/?q=34.87575,-84.32640
 
 87. FCPC Bruce Elementary SBHC
 3660 Houston Ave, Macon, GA, 31206-2414
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 478-254-7204
-🗺 https://maps.google.com/?q=32.79911,-83.65208
 
 88. Oconee Valley Healthcare, Inc. Milledgeville
 510 N Cobb St, Milledgeville, GA, 31061-2635
@@ -670,7 +585,6 @@
 🌐 https://www.ovhealth.org
 🏥 Services: Primary Care
 📞 478-414-1414
-🗺 https://maps.google.com/?q=33.08425,-83.24245
 
 89. MedLink Royston
 930 FRANKLIN SPRINGS ST, ROYSTON, GA, 30662-3908
@@ -678,14 +592,12 @@
 🌐 https://www.medlinkga.org
 🏥 Services: Primary Care
 📞 706-245-5050
-🗺 https://maps.google.com/?q=34.28567,-83.12495
 
 90. MedLink Toccoa
 711 Rose Ln, Toccoa, GA, 30577-2542
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 706-886-9441
-🗺 https://maps.google.com/?q=34.55565,-83.29907
 
 91. VHcS Fortson Medical/Dental Center
 94 Mccrary Rd, Fortson, GA, 31808-4558
@@ -693,7 +605,6 @@
 🌐 https://www.valleyhealthcolumbus.com
 🏥 Services: Primary Care
 📞 706-987-8216
-🗺 https://maps.google.com/?q=32.67402,-85.05823
 
 92. Primary Healthcare Center Abbington at Linwood
 10 Probasco St # 214, La Fayette, GA, 30728-2316
@@ -701,7 +612,6 @@
 🌐 https://www.primaryhealthcarecenter.org
 🏥 Services: Primary Care
 📞 706-610-4494 x8549
-🗺 https://maps.google.com/?q=34.71095,-85.28905
 
 93. Gilbert Elementary SBHC
 87 S BURNT MILL RD, LA FAYETTE, GA, 30728-4263
@@ -709,7 +619,6 @@
 🌐 http://primaryhealthcarecenter.org/default.aspx
 🏥 Services: Primary Care
 📞 706-638-2432
-🗺 https://maps.google.com/?q=34.70110,-85.30690
 
 94. MedLink Bowman
 206 E Church St, Bowman, GA, 30624-2109
@@ -717,7 +626,6 @@
 🌐 https://www.medlinkga.org
 🏥 Services: Primary Care
 📞 706-245-7361
-🗺 https://maps.google.com/?q=34.20367,-83.02383
 
 95. Community Health Care Systems, Inc. - Hancock School
 11145 GA Highway 15, Sparta, GA, 31087
@@ -725,7 +633,6 @@
 🌐 https://www.chcsga.org
 🏥 Services: Primary Care
 📞 706-444-5241
-🗺 https://maps.google.com/?q=33.29776,-82.96901
 
 96. TriCounty Health System - Sparta
 675 HAMILTON ST, SPARTA, GA, 31087-1837
@@ -733,7 +640,6 @@
 🌐 https://www.chcsga.org
 🏥 Services: Primary Care
 📞 706-444-5241
-🗺 https://maps.google.com/?q=33.27779,-82.97265
 
 97. Tiger Creek Elementary SBHC
 134 Rhea Mcclanahan Dr, Tunnel Hill, GA, 30755-7328
@@ -741,14 +647,12 @@
 🌐 https://www.primaryhealthcarecenter.org
 🏥 Services: Primary Care
 📞 706-866-5520
-🗺 https://maps.google.com/?q=34.90394,-85.07214
 
 98. FCPC Warner Robins Annex
 213 Green Street, Warner Robins, GA, 31093-2727
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 478-449-3003 x0
-🗺 https://maps.google.com/?q=32.62780,-83.61639
 
 99. First Choice Primary Care Warner Robins
 207 GREEN ST, WARNER ROBINS, GA, 31093-2727
@@ -756,7 +660,6 @@
 🌐 https://www.firstchoiceprimarycare.org
 🏥 Services: Primary Care
 📞 478-225-9449
-🗺 https://maps.google.com/?q=32.62789,-83.61592
 
 100. Tri-Med Family Care
 6120 Alabama Hwy, Ringgold, GA, 30736-2804
@@ -764,7 +667,6 @@
 🌐 https://www.trimedfamilycare.com
 🏥 Services: Primary Care
 📞 706-935-6442
-🗺 https://maps.google.com/?q=34.90427,-85.13174
 
 101. MedLink Hartwell
 63 W. GIBSON ST, HARTWELL, GA, 30643-1845
@@ -772,14 +674,12 @@
 🌐 https://www.medlinkga.org
 🏥 Services: Primary Care
 📞 706-376-6100
-🗺 https://maps.google.com/?q=34.34517,-82.93878
 
 102. Richards Middle School
 2892 Edgewood Rd, Columbus, GA, 31906-1225
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 706-569-3697
-🗺 https://maps.google.com/?q=32.49238,-84.94700
 
 103. College and Career Academy, SBHC
 182 Catoosa Cir, Ringgold, GA, 30736-8078
@@ -787,7 +687,6 @@
 🌐 https://primaryhealthcarecenter.org
 🏥 Services: Primary Care
 📞 706-620-4494 x8549
-🗺 https://maps.google.com/?q=34.93737,-85.18155
 
 104. Community Health Care Systems, Inc - Wilkinson SBHC
 12516 GA Highway 57, Irwinton, GA, 31042
@@ -795,7 +694,6 @@
 🌐 https://www.chcsga.org
 🏥 Services: Primary Care
 📞 478-946-1030
-🗺 https://maps.google.com/?q=32.81734,-83.19817
 
 105. Primary Healthcare Center, Ft. Oglethorpe
 2009 Old Lafayette Rd, Fort Oglethorpe, GA, 30742-3510
@@ -803,7 +701,6 @@
 🌐 https://www.primaryhealthcarecenter.org
 🏥 Services: Primary Care
 📞 706-620-4494 x8549
-🗺 https://maps.google.com/?q=34.95032,-85.25981
 
 106. Fort Benning Road Health Center
 1600 Fort Benning Road, Columbus, GA, 31903-2837
@@ -811,7 +708,6 @@
 🌐 https://www.valleyhealthcolumbus.com
 🏥 Services: Primary Care
 📞 706-689-1331
-🗺 https://maps.google.com/?q=32.42417,-84.93727
 
 107. VHCS Mobile Dental Services
 1600 Fort Benning Rd, Columbus, GA, 31903-2837
@@ -819,7 +715,6 @@
 🌐 https://www.valleyhealthcolumbus.com
 🏥 Services: Primary Care; Dental
 📞 706-987-8330 x1011
-🗺 https://maps.google.com/?q=32.42417,-84.93727
 
 108. Dorothy Height Elementary School SBHC
 1458 Benning Dr Rm 201, Columbus, GA, 31903-2200
@@ -827,7 +722,6 @@
 🌐 https://www.valleyhealthcolumbus.com
 🏥 Services: Primary Care
 📞 706-322-9599
-🗺 https://maps.google.com/?q=32.42470,-84.94382
 
 109. MedLink Rabun Imaging
 811 Highway 441 N  STE 106, Clayton, GA, 30525-4202
@@ -835,7 +729,6 @@
 🌐 https://www.medlinkga.org
 🏥 Services: Primary Care
 📞 706-389-8699
-🗺 https://maps.google.com/?q=34.88946,-83.39384
 
 110. Primary Healthcare Center at Rossville Middle School - SBHC
 316 Bull Dog Trl, Rossville, GA, 30741-6336
@@ -843,7 +736,6 @@
 🌐 https://www.primaryhealthcarecenters.org/
 🏥 Services: Primary Care
 📞 706-820-0638
-🗺 https://maps.google.com/?q=34.93789,-85.31483
 
 111. Cempa Community Care Clinic
 260 Elm St, Cumming, GA, 30040-2467
@@ -851,7 +743,6 @@
 🌐 https://www.cempa.org
 🏥 Services: Primary Care
 📞 423-265-2273
-🗺 https://maps.google.com/?q=35.04726,-85.29052
 
 112. Phoebe Sumter Medical Center Mobile Medical Unit
 339 S Broad St, Ellaville, GA, 31806-3304
@@ -859,7 +750,6 @@
 🌐 http://www.phoebehealth.com/locations/phoebe-sumter-medical-center/ellaville-clinic
 🏥 Services: Primary Care
 📞 229-937-5321
-🗺 https://maps.google.com/?q=32.23305,-84.30835
 
 113. Community Health Care Systems Administration and Specialty Services
 220 Morningside Dr, Sandersville, GA, 31082-7639
@@ -867,7 +757,6 @@
 🌐 https://www.chcsga/prg
 🏥 Services: Primary Care
 📞 478-552-7384
-🗺 https://maps.google.com/?q=32.97381,-82.80712
 
 114. MAP @ Lincolnton
 123 N Washington St, Lincolnton, GA, 30817-1784
@@ -875,7 +764,6 @@
 🌐 https://mapbt.com
 🏥 Services: Primary Care
 📞 706-790-4440
-🗺 https://maps.google.com/?q=33.79392,-82.48083
 
 115. MAP @ Fluker Street
 315 Fluker St, Thomson, GA, 30824
@@ -883,7 +771,6 @@
 🌐 https://mapbt.com
 🏥 Services: Primary Care
 📞 706-790-4440
-🗺 https://maps.google.com/?q=33.46000,-82.50554
 
 116. MAP @ University Drive
 2508 University Dr, Thomson, GA, 30824-0040
@@ -891,7 +778,6 @@
 🌐 https://mapbt.com
 🏥 Services: Primary Care
 📞 707-709-4440
-🗺 https://maps.google.com/?q=33.58780,-82.44141
 
 117. Sumter County School-Based Health Center
 123 Learning Lane, Americus, GA, 31719-8171
@@ -899,7 +785,6 @@
 🌐 https://www.aaphc.org
 🏥 Services: Primary Care
 📞 229-493-9670
-🗺 https://maps.google.com/?q=32.11029,-84.21510
 
 118. New Hope Clinic
 206 E Lamar St, Americus, GA, 31709-3657
@@ -915,7 +800,6 @@
 🌐 https://www.ccthealth.org
 🏥 Services: Primary Care
 📞 229-514-2300
-🗺 https://maps.google.com/?q=32.07231,-84.22367
 
 120. Americus OBGYN
 603 E Lamar St, Americus, GA, 31709-3737
@@ -923,7 +807,6 @@
 🌐 https://www.ccthealth.org
 🏥 Services: Primary Care
 📞 229-928-3444
-🗺 https://maps.google.com/?q=32.07118,-84.22588
 
 121. CareConnect Pediatrics
 609 E Lamar St, Americus, GA, 31709-3737
@@ -931,14 +814,12 @@
 🌐 https://www.ccthealth.org
 🏥 Services: Primary Care
 📞 229-924-8636
-🗺 https://maps.google.com/?q=32.07113,-84.22541
 
 122. Stewart County School
 15582 GA Highway 27, Lumpkin, GA, 31815-4438
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 229-838-4374
-🗺 https://maps.google.com/?q=32.05348,-84.75316
 
 123. S. Trussell Medical Center
 1212 E Union St, Vienna, GA, 31092-7545
@@ -946,7 +827,6 @@
 🌐 https://www.aaphc.org
 🏥 Services: Primary Care
 📞 229-268-8865
-🗺 https://maps.google.com/?q=32.08642,-83.77310
 
 124. Neighborhood Improvement Project, Inc. dba Medical Associates Plus @ Wrens
 501 E Broad St, Wrens, GA, 30833-1185
@@ -954,7 +834,6 @@
 🌐 https://mapbt.com
 🏥 Services: Primary Care
 📞 706-790-4440
-🗺 https://maps.google.com/?q=33.20943,-82.38376
 
 125. CareConnect Urgent Care
 711 E 16th Ave, Cordele, GA, 31015-1513
@@ -962,7 +841,6 @@
 🌐 https://ccthealth.org
 🏥 Services: Primary Care
 📞 229-271-9330
-🗺 https://maps.google.com/?q=31.96401,-83.77164
 
 126. Pediatric Urgent Care
 1007 E 16th Ave Ste A, Cordele, GA, 31015-4553
@@ -970,7 +848,6 @@
 🌐 https://www.ccthealth.org
 🏥 Services: Primary Care
 📞 229-273-1716
-🗺 https://maps.google.com/?q=31.96355,-83.76644
 
 127. Medical Associates Plus at Keysville
 480 Martin Luther King Rd Lot B, Keysville, GA, 30816-4464
@@ -978,7 +855,6 @@
 🌐 https://www.mapbt.com
 🏥 Services: Primary Care
 📞 706-790-4440 x4440
-🗺 https://maps.google.com/?q=33.23940,-82.22138
 
 128. MAP @ Evans Podiatry
 4321 University Pkwy, #103, Evans, GA, 30809-3089
@@ -986,7 +862,6 @@
 🌐 https://mapbt.com
 🏥 Services: Primary Care
 📞 706-790-4440
-🗺 https://maps.google.com/?q=33.53122,-82.12936
 
 129. MAP @ Garredd III
 1113 Garredd Blvd, Augusta, GA, 30909-6752
@@ -994,7 +869,6 @@
 🌐 https://www.mapbt.com
 🏥 Services: Primary Care
 📞 706-790-4440
-🗺 https://maps.google.com/?q=33.48761,-82.09766
 
 130. MAP @ Pulmonology
 3624 J Dewey Gray Cir  STE 310, Augusta, GA, 30909
@@ -1002,7 +876,6 @@
 🌐 https://mapbt.com
 🏥 Services: Primary Care
 📞 706-790-4440
-🗺 https://maps.google.com/?q=33.48636,-82.09727
 
 131. MAP @ Interstate Parkway
 1299 Interstate Pkwy, Augusta, GA, 30909-6481
@@ -1010,14 +883,12 @@
 🌐 https://www.mapbt.com
 🏥 Services: Primary Care
 📞 706-790-4440
-🗺 https://maps.google.com/?q=33.48954,-82.09654
 
 132. MAP @ Wheeler Road
 3685 Wheeler Road  STE 100, Augusta, GA, 30909-6640
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 706-790-4440
-🗺 https://maps.google.com/?q=33.48326,-82.09544
 
 133. MAP Dental @ DPH
 2420 Windsor Spring Rd, Augusta, GA, 30906-4668
@@ -1025,7 +896,6 @@
 🌐 https://mapbt.com
 🏥 Services: Primary Care; Dental
 📞 706-790-4440
-🗺 https://maps.google.com/?q=33.39814,-82.05098
 
 134. Dawson Medical Center
 505 Forrester Dr SE, Dawson, GA, 39842-2006
@@ -1033,7 +903,6 @@
 🌐 https://www.aaphc.org
 🏥 Services: Primary Care
 📞 229-995-2990
-🗺 https://maps.google.com/?q=31.76461,-84.44662
 
 135. MAP @ Wrightsboro Road
 2300 Wrightsboro Rd, Augusta, GA, 30904-6220
@@ -1041,7 +910,6 @@
 🌐 https://www.mapbt.com
 🏥 Services: Primary Care
 📞 706-790-4440
-🗺 https://maps.google.com/?q=33.46795,-82.02079
 
 136. Christ Community Health: Peach Orchard Road CHC
 2604 Peach Orchard Rd Ste 200, Augusta, GA, 30906-2406
@@ -1049,7 +917,6 @@
 🌐 https://www.cchsaugusta.org
 🏥 Services: Primary Care
 📞 706-922-0600
-🗺 https://maps.google.com/?q=33.42546,-82.01814
 
 137. MAP @ 1580 Walton Way
 1580 Walton Way, Augusta, GA, 30904-3763
@@ -1057,7 +924,6 @@
 🌐 https://mapbt.com
 🏥 Services: Primary Care
 📞 706-790-4440
-🗺 https://maps.google.com/?q=33.47542,-81.99192
 
 138. Christ Community Health: Medical District CHC
 1226 Dantignac St, Augusta, GA, 30901-2788
@@ -1065,7 +931,6 @@
 🌐 https://www.cchsaugusta.org
 🏥 Services: Primary Care
 📞 706-922-0600
-🗺 https://maps.google.com/?q=33.46935,-81.97841
 
 139. East Georgia Healthcare Center, Inc.
 4357 E Louisiana Ave, Soperton, GA, 30457
@@ -1073,7 +938,6 @@
 🌐 https://www.eghc.org
 🏥 Services: Primary Care
 📞 478-488-4234
-🗺 https://maps.google.com/?q=32.37716,-82.58890
 
 140. EGSC Student Health Center
 131 College Cir, Swainsboro, GA, 30401-3643
@@ -1081,7 +945,6 @@
 🌐 https://www.eghc.org
 🏥 Services: Primary Care
 📞 912-678-5507
-🗺 https://maps.google.com/?q=32.59583,-82.31017
 
 141. Swainsboro Elementary School
 258 Tiger Trl, Swainsboro, GA, 30401-4850
@@ -1089,14 +952,12 @@
 🌐 https://eghc.org
 🏥 Services: Primary Care
 📞 478-237-6262
-🗺 https://maps.google.com/?q=32.57314,-82.30826
 
 142. MAP @ Burke County SBSS
 352 Southside Dr, Waynesboro, GA, 30830-4561
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 706-790-4440
-🗺 https://maps.google.com/?q=33.08098,-81.99384
 
 143. MAP @ Blakeney Elementary School
 100 Olympic Dr, Waynesboro, GA, 30830-4509
@@ -1104,28 +965,24 @@
 🌐 https://mapbt.com
 🏥 Services: Primary Care
 📞 706-790-4440
-🗺 https://maps.google.com/?q=33.07970,-81.99171
 
 144. CVC MOBILE HEALTH VAN 4
 106 E Broad St, Savannah, GA, 31401-2917
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 912-527-1000
-🗺 https://maps.google.com/?q=32.07630,-81.08422
 
 145. Curtis V. Cooper Primary Health Care
 349 W Bryan St, Savannah, GA, 31401-2356
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 912-527-2727
-🗺 https://maps.google.com/?q=32.08249,-81.10060
 
 146. Jackson Dental Center -CVC
 1501 Abercorn Street, Savannah, GA, 31401-7315
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 912-233-7970
-🗺 https://maps.google.com/?q=32.06106,-81.09647
 
 147. Pennsylvania Avenue Resource Center (PARC)
 425 Pennsylvania Ave, Savannah, GA, 31404-1239
@@ -1133,7 +990,6 @@
 🌐 https://www.jclewishealth.org
 🏥 Services: Primary Care
 📞 912-495-8887
-🗺 https://maps.google.com/?q=32.06265,-81.05990
 
 148. The Salvation Army Homeless Shelter & Services Agency
 3100 Montgomery St, Savannah, GA, 31405-3212
@@ -1141,7 +997,6 @@
 🌐 https://www.jclewishealth.org
 🏥 Services: Primary Care
 📞 912-495-8887
-🗺 https://maps.google.com/?q=32.05119,-81.10750
 
 149. Coastal Community Health - Savannah- Continuity Clinic
 1107 E 66th St, Savannah, GA, 31404-5701
@@ -1149,14 +1004,12 @@
 🌐 https://www.coastalchs.org
 🏥 Services: Primary Care
 📞 912-275-8028
-🗺 https://maps.google.com/?q=32.02829,-81.09202
 
 150. JCLPHCC 26ft Mobile Unit 3
 5 Mall Anx, Savannah, GA, 31406-4738
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 912-495-8887 x6701
-🗺 https://maps.google.com/?q=32.00076,-81.11913
 
 151. CCH – Pooler
 2321 Pooler Pkwy  STE 106-109, Pooler, GA, 31322-4422
@@ -1164,7 +1017,6 @@
 🌐 https://www.coastalchs.org
 🏥 Services: Primary Care
 📞 912-275-8028
-🗺 https://maps.google.com/?q=32.07478,-81.27869
 
 152. CCHS Richmond Hill
 10055 Ford Ave, Ste 4A, Richmond Hill, GA, 31324-3974
@@ -1172,7 +1024,6 @@
 🌐 https://www.coastalchs.org
 🏥 Services: Primary Care
 📞 912-623-4756
-🗺 https://maps.google.com/?q=31.94723,-81.31030
 
 153. CVCPHC at Effingham County High School
 1589 GA Highway 119 S, Springfield, GA, 31329-3008
@@ -1180,7 +1031,6 @@
 🌐 https://www.cvcphc.net
 🏥 Services: Primary Care
 📞 912-527-1000
-🗺 https://maps.google.com/?q=32.34725,-81.35125
 
 154. Diversity Health Center, Inc.-301 Fraser Dr.
 301 Fraser Dr, Hinesville, GA, 31313-3749
@@ -1188,7 +1038,6 @@
 🌐 https://diversityhc.org
 🏥 Services: Primary Care
 📞 912-318-3947 x83947
-🗺 https://maps.google.com/?q=31.84567,-81.59115
 
 155. CCHS Townsend
 1299 Ga Highway 57, Townsend, GA, 31331-8128
@@ -1196,14 +1045,12 @@
 🌐 https://www.coastalchs.org
 🏥 Services: Primary Care
 📞 912-275-8028
-🗺 https://maps.google.com/?q=31.52673,-81.43590
 
 156. Statesboro Pediatrics and Family Healthcare
 1570 BRAMPTON AVE, STATESBORO, GA, 30458-0855
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 912-764-9196
-🗺 https://maps.google.com/?q=32.40712,-81.77103
 
 157. Diversity Health Center, Inc.- Long County
 213 N McDonald Street STE A & B, Ludowici, GA, 31316
@@ -1211,7 +1058,6 @@
 🌐 https://www.diversityhc.org
 🏥 Services: Primary Care
 📞 912-545-3938
-🗺 https://maps.google.com/?q=31.71542,-81.74843
 
 158. Diversity Health Center, . – 213 N Mcdonald St Ste C
 213 N Mcdonald St Ste C, Ludowici, GA, 31316-6075
@@ -1219,7 +1065,6 @@
 🌐 https://diversityhc.org
 🏥 Services: Primary Care
 📞 912-545-9398
-🗺 https://maps.google.com/?q=31.71496,-81.74878
 
 159. Langston Chapel Schools
 150 Langston Chapel Rd, Statesboro, GA, 30458-3412
@@ -1227,7 +1072,6 @@
 🌐 https://www.eghc.org
 🏥 Services: Primary Care
 📞 478-494-9926
-🗺 https://maps.google.com/?q=32.39667,-81.80890
 
 160. CCHS Darien
 1022 Miller Ln SW, Darien, GA, 31305-3738
@@ -1235,7 +1079,6 @@
 🌐 https://www.coastalchs.org
 🏥 Services: Primary Care
 📞 912-623-4755
-🗺 https://maps.google.com/?q=31.38686,-81.43674
 
 161. Coastal Community Health TIGERS/Todd Grant Elementary School
 1102 CA Devillars Rd, Darien, GA, 31305-9750
@@ -1243,7 +1086,6 @@
 🌐 https://coastalchs.org
 🏥 Services: Primary Care
 📞 912-275-8028
-🗺 https://maps.google.com/?q=31.37936,-81.43527
 
 162. East Georgia Health Care Center - Reidsville
 117 Memorial Dr, Reidsville, GA, 30453-4641
@@ -1251,7 +1093,6 @@
 🌐 https://eastgeorgiahealthcarecenter.wildapricot.org/page-1075379
 🏥 Services: Primary Care
 📞 478-237-2638
-🗺 https://maps.google.com/?q=32.08152,-82.11005
 
 163. CCH – Glynn County Employee Health
 2747 4th St, Brunswick, GA, 31520-3714
@@ -1259,7 +1100,6 @@
 🌐 https://www.coastalchs.org
 🏥 Services: Primary Care
 📞 912-289-2617
-🗺 https://maps.google.com/?q=31.18176,-81.47970
 
 164. CCHS Downtown Brunswick
 1600 Ellis St, Brunswick, GA, 31520-6737
@@ -1267,7 +1107,6 @@
 🌐 https://www.coastalchs.org
 🏥 Services: Primary Care
 📞 912-289-2006
-🗺 https://maps.google.com/?q=31.15139,-81.49314
 
 165. Jenkins County Schools
 433 Barney Ave, Millen, GA, 30442-1903
@@ -1275,7 +1114,6 @@
 🌐 https://www.eghc.org
 🏥 Services: Primary Care
 📞 478-494-9928
-🗺 https://maps.google.com/?q=32.80896,-81.94169
 
 166. Emanuel County Institute
 102 N College St, Twin City, GA, 30471
@@ -1283,7 +1121,6 @@
 🌐 https://eghc.org
 🏥 Services: Primary Care
 📞 478-494-9926
-🗺 https://maps.google.com/?q=32.58069,-82.15499
 
 167. MMC Nahunta
 9355 Main St S, Nahunta, GA, 31553-6159
@@ -1291,14 +1128,12 @@
 🌐 https://www.mckinneymedicalcenter.com
 🏥 Services: Primary Care
 📞 912-462-6222
-🗺 https://maps.google.com/?q=31.19788,-81.98433
 
 168. Heron Health Center- School Based Clinic
 10804 Highway 82, Nahunta, GA, 31553
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 912-275-8028
-🗺 https://maps.google.com/?q=31.19715,-82.02811
 
 169. McKinney Community Health Center
 501 N Pierce St, Alma, GA, 31510-2445
@@ -1306,21 +1141,18 @@
 🌐 https://www.mckinneymedicalcenter.com
 🏥 Services: Primary Care
 📞 912-632-0872
-🗺 https://maps.google.com/?q=31.54438,-82.46140
 
 170. Family Health Center at Holly Hill
 1712 E. Broad Avenue, Ste A, ALBANY, GA, 31705-2611
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 803-759-3069
-🗺 https://maps.google.com/?q=33.32641,-80.41744
 
 171. Coffee County High School
 159 Trojan Way, Douglas, GA, 31533-8263
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 229-468-9166
-🗺 https://maps.google.com/?q=31.55383,-82.85991
 
 172. South Central Primary Care Center - Douglas
 1309 Ocilla Rd Ste A, Douglas, GA, 31533-2209
@@ -1328,28 +1160,24 @@
 🌐 https://www.scpccga.org/douglas-ga
 🏥 Services: Primary Care
 📞 912-384-2252
-🗺 https://maps.google.com/?q=31.51112,-82.86661
 
 173. SOUTH CENTRAL FAMILY MEDICINE
 640 Main St N, Pearson, GA, 31642
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 912-544-4569
-🗺 https://maps.google.com/?q=31.30679,-82.84942
 
 174. Hurricane Health Center #2
 553 Ocilla Hwy, Fitzgerald, GA, 31750-8921
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 229-468-9166
-🗺 https://maps.google.com/?q=31.67239,-83.24315
 
 175. South Central Family Health Care
 607 C  N. Irwin Ave., Ocilla, GA, 31774-5009
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 229-468-5020
-🗺 https://maps.google.com/?q=31.60237,-83.24990
 
 176. Betty Dupree Health Care Center
 201 N BARTOW ST, NASHVILLE, GA, 31639-1435
@@ -1357,14 +1185,12 @@
 🌐 https://scpccga.org
 🏥 Services: Primary Care
 📞 229-686-2774
-🗺 https://maps.google.com/?q=31.20814,-83.25068
 
 177. South Central Primary Care - Valdosta
 2707 N Barack Obama Boulevard, Valdosta, GA, 31602
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 229-316-8116
-🗺 https://maps.google.com/?q=30.87395,-83.26537
 
 178. Migrant Farmworkers Clinic, Inc
 2186 J Frank Culpepper Drive, LAKE PARK, GA, 31636-3347
@@ -1372,21 +1198,18 @@
 🌐 http://dch.georgia.gov/00/channel_title/0,2094,31446711_40951017,00.html
 🏥 Services: Primary Care
 📞 229-559-4552
-🗺 https://maps.google.com/?q=30.68476,-83.12927
 
 179. Valdosta Children's Healthcare
 105 W Cranford Ave, Valdosta, GA, 31602-2930
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 229-247-7350
-🗺 https://maps.google.com/?q=30.85498,-83.29032
 
 180. Colquitt Co. BOH - Ellenton Farmworker Clinic Mobile Clinic
 185 N BAKER STREET, ELLENTON, GA, 31747
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 229-401-3057
-🗺 https://maps.google.com/?q=31.17638,-83.58766
 
 181. Primary Care of Southwest Georgia - Quitman
 907 N Court St, Quitman, GA, 31643-1315
@@ -1394,7 +1217,6 @@
 🌐 http://www.pcswga.org/
 🏥 Services: Primary Care
 📞 229-263-4531
-🗺 https://maps.google.com/?q=30.79545,-83.55905
 
 182. Rural HIV Clinic
 2202 E Oglethorpe Blvd, Albany, GA, 31705-2940
@@ -1402,7 +1224,6 @@
 🌐 https://www.aaphc.org
 🏥 Services: Primary Care
 📞 229-431-1423
-🗺 https://maps.google.com/?q=31.57268,-84.09800
 
 183. Albany Middle School-Based Health Center
 1700 Cordell Ave, Albany, GA, 31705-1497
@@ -1410,7 +1231,6 @@
 🌐 https://www.aaphc.org
 🏥 Services: Primary Care
 📞 229-888-6559
-🗺 https://maps.google.com/?q=31.59153,-84.10944
 
 184. AAPHC Wellness Center
 512 Liberty Expressway, Albany, GA, 31705-5958
@@ -1418,7 +1238,6 @@
 🌐 https://www.aaphc.org
 🏥 Services: Primary Care
 📞 229-430-1274
-🗺 https://maps.google.com/?q=31.54894,-84.11084
 
 185. Ahf - Atlanta Peachtree
 1438 W Peachtree St NW, Atlanta, GA 30309-2998

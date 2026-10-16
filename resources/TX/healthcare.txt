@@ -5,7 +5,6 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 713-221-6219
-🗺 https://maps.google.com/?q=29.76777,-95.36450
 
 2. CATHEDRAL CLINIC
 1212 Prairie Street, HOUSTON, TX, 77002
@@ -13,7 +12,6 @@
 🌐 https://www.homeless-healthcare.org
 🏥 Services: Primary Care; Health Care for the Homeless
 📞 713-220-9730
-🗺 https://maps.google.com/?q=29.75923,-95.35981
 
 3. SALVATION ARMY ADULT REHAB CTR
 2118 Washington Ave, Houston, TX, 77007-6137
@@ -21,7 +19,6 @@
 🌐 https://www.salvationarmyhouston.org
 🏥 Services: Primary Care
 📞 713-869-3551
-🗺 https://maps.google.com/?q=29.76847,-95.37999
 
 4. CAROLINE STREET CLINIC
 1934 Caroline St, Houston, TX, 77002-8210
@@ -29,7 +26,6 @@
 🌐 https://www.homeless-healthcare.org
 🏥 Services: Primary Care; Health Care for the Homeless
 📞 713-286-6124
-🗺 https://maps.google.com/?q=29.74824,-95.36840
 
 5. STAR OF HOPE MEN'S SHELTER
 1811 Ruiz St, Houston, TX, 77002-1321
@@ -37,7 +33,6 @@
 🌐 https://www.sohmission.org
 🏥 Services: Primary Care
 📞 713-226-5424
-🗺 https://maps.google.com/?q=29.76056,-95.35133
 
 6. Avenue 360 Health and Wellness Midtown
 2920 Fannin St, Houston, TX, 77002-9222
@@ -45,14 +40,12 @@
 🌐 https://avenue360.org/
 🏥 Services: Primary Care
 📞 713-426-0027
-🗺 https://maps.google.com/?q=29.74264,-95.37536
 
 7. Legacy Wellness Bar
 120 Westheimer Rd  STE F, Houston, TX, 77006
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 832-548-5000
-🗺 https://maps.google.com/?q=29.74498,-95.38259
 
 8. Legacy Montrose Clinic
 1415 California St, Houston, TX, 77006-2602
@@ -60,7 +53,6 @@
 🌐 https://www.legacycommunityhealth.org
 🏥 Services: Ryan White HIV/AIDS Program; Primary Care; Migrant health center
 📞 713-830-3000
-🗺 https://maps.google.com/?q=29.74491,-95.39425
 
 9. Legacy Greater Third Ward Cleburne
 2222 Cleburne Street  # 108, Houston, TX, 77004
@@ -68,7 +60,6 @@
 🌐 https://legacycommunityhealth.org
 🏥 Services: Primary Care
 📞 832-548-5000
-🗺 https://maps.google.com/?q=29.72962,-95.37088
 
 10. Legacy North Irvington
 3517 Irvington Blvd  STE 200, Houston, TX, 77009
@@ -76,14 +67,12 @@
 🌐 https://legacycommunityhealth.org
 🏥 Services: Primary Care
 📞 832-548-5000
-🗺 https://maps.google.com/?q=29.79272,-95.36146
 
 11. Navigation Center
 2903 Jensen Dr, Houston, TX, 77026-6019
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 346-426-0691
-🗺 https://maps.google.com/?q=29.78787,-95.34230
 
 12. Legacy Fifth Ward Lyons
 3811 Lyons Ave, Houston, TX, 77020-8306
@@ -91,14 +80,12 @@
 🌐 https://www.legacycommunityhealth.org
 🏥 Services: Primary Care
 📞 832-548-5000
-🗺 https://maps.google.com/?q=29.77629,-95.33154
 
 13. YES Prep Fifth Ward
 1305 Benson St, Houston, TX, 77020-4044
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 832-548-5000
-🗺 https://maps.google.com/?q=29.77407,-95.33008
 
 14. OPEN DOOR MISSION
 5803 Harrisburg Blvd, Houston, TX, 77011-4323
@@ -106,7 +93,6 @@
 🌐 https://www.opendoorhouston.org
 🏥 Services: Primary Care
 📞 713-921-7520
-🗺 https://maps.google.com/?q=29.74067,-95.31682
 
 15. University of Houston Health Family Care Center
 4349 Martin Luther King Blvd  RM 1001E, Houston, TX, 77004
@@ -114,14 +100,12 @@
 🌐 https://uh.edu/medicine/patient-care/family-care-center/
 🏥 Services: Primary Care
 📞 713-743-9682
-🗺 https://maps.google.com/?q=29.71663,-95.33896
 
 16. Yes Prep - Northside
 5215 Jensen Dr, Houston, TX, 77026-2514
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 713-924-0400
-🗺 https://maps.google.com/?q=29.80756,-95.34348
 
 17. KIPP East End Campus
 5402 Lawndale St, Houston, TX, 77023-3743
@@ -129,14 +113,12 @@
 🌐 https://www.legacycommunityhealth.org
 🏥 Services: Primary Care
 📞 832-328-1051
-🗺 https://maps.google.com/?q=29.72698,-95.32208
 
 18. Pugh Elementary
 1147 Kress St, Houston, TX, 77020-7416
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 713-671-3820
-🗺 https://maps.google.com/?q=29.76830,-95.30686
 
 19. Denver Harbor Ancillary Services
 424 Hahlo St, Houston, TX, 77020-3022
@@ -144,7 +126,6 @@
 🌐 https://www.denverharborclinic.org
 🏥 Services: Primary Care; Migrant health center
 📞 713-674-3326
-🗺 https://maps.google.com/?q=29.78064,-95.30986
 
 20. Denver Harbor Family Health Center
 424B Hahlo St., Houston, TX, 77020
@@ -152,7 +133,6 @@
 🌐 https://www.denverharborclinic.org
 🏥 Services: Primary Care
 📞 713-674-3326
-🗺 https://maps.google.com/?q=29.78063,-95.30953
 
 21. Legacy Santa Clara Clinic
 5616 Lawndale St Ste A108, Houston, TX, 77023-3821
@@ -160,7 +140,6 @@
 🌐 https://www.legacycommunityhealth.org
 🏥 Services: Primary Care
 📞 832-548-5000
-🗺 https://maps.google.com/?q=29.72638,-95.31687
 
 22. EL CENTRO DE CORAZON - MAGNOLIA
 7037 Capitol St, Houston, TX, 77011-4643
@@ -168,7 +147,6 @@
 🌐 https://www.elcentrodecorazon,org
 🏥 Services: Primary Care; Migrant health center
 📞 713-660-1880
-🗺 https://maps.google.com/?q=29.73459,-95.30105
 
 23. KIPP Third Ward Campus
 5400 Martin Luther King Blvd, Houston, TX, 77021-3010
@@ -176,7 +154,6 @@
 🌐 https://www.legacycommunityhealth.org
 🏥 Services: Primary Care
 📞 832-328-1051
-🗺 https://maps.google.com/?q=29.70234,-95.33573
 
 24. El Centro de Corazon- John S. Dunn
 7635 Canal, Houston, TX, 77012-1143
@@ -184,14 +161,12 @@
 🌐 https://www.elcentrodecorazon.org
 🏥 Services: Primary Care; Migrant health center
 📞 713-660-1880
-🗺 https://maps.google.com/?q=29.73579,-95.28697
 
 25. Legacy Northside/Northline – North Freeway
 5598 North Fwy # A1, Houston, TX, 77076-4702
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 832-548-5000
-🗺 https://maps.google.com/?q=29.84796,-95.39364
 
 26. Airline Women and Children's Health Center
 5808 Airline Dr, Houston, TX, 77076-4923
@@ -199,14 +174,12 @@
 🌐 https://www.denverharborclinic.org
 🏥 Services: Primary Care; Migrant health center; Women's health
 📞 713-695-4013
-🗺 https://maps.google.com/?q=29.85036,-95.38398
 
 27. Yes Prep - East End (New Campus)
 8401 Lawndale St., Houston, TX, 77012
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 832-548-5000
-🗺 https://maps.google.com/?q=29.71634,-95.27307
 
 28. Legacy South Main St
 10021 Main St STE B3, Houston, TX, 77025-5254
@@ -214,14 +187,12 @@
 🌐 https://legacycommunityhealth.org
 🏥 Services: Primary Care
 📞 832-548-5000
-🗺 https://maps.google.com/?q=29.67548,-95.42769
 
 29. Star of Hope Cornerstone Community
 2575 Reed Rd, Houston, TX, 77051-2216
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 713-497-0930
-🗺 https://maps.google.com/?q=29.65952,-95.39309
 
 30. Legacy Mapleridge Clinic
 6550 Mapleridge St. STE 106, Houston, TX, 77081-4629
@@ -229,21 +200,18 @@
 🌐 https://www.legacycommunityhealth.org
 🏥 Services: Primary Care
 📞 713-779-7200
-🗺 https://maps.google.com/?q=29.70983,-95.47425
 
 31. Reed Family Clinic
 2605 Reed Rd, Houston, TX, 77051-2560
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 713-286-6125
-🗺 https://maps.google.com/?q=29.65772,-95.39053
 
 32. KIPP Nexus
 4211 Watonga Blvd, Houston, TX, 77092-5324
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 832-548-5000
-🗺 https://maps.google.com/?q=29.82939,-95.45975
 
 33. Legacy Gulfton Dashwood Ste 102
 5420 DASHWOOD DR  STE 102, Houston, TX, 77081-5333
@@ -251,7 +219,6 @@
 🌐 https://legacycommunityhealth.org
 🏥 Services: Primary Care
 📞 832-548-5000
-🗺 https://maps.google.com/?q=29.70798,-95.47504
 
 34. Spring Branch CHC -  WholeLife Clinic
 1905 Jacquelyn Dr Ste 101, Houston, TX, 77055-2502
@@ -259,7 +226,6 @@
 🌐 https://www.sbchc.net
 🏥 Services: Primary Care, Mental Health
 📞 713-462-6565
-🗺 https://maps.google.com/?q=29.80520,-95.48136
 🗣 Languages: Spanish
 
 35. J.W. Oates Elementary School
@@ -267,21 +233,18 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 713-671-3800
-🗺 https://maps.google.com/?q=29.79366,-95.25289
 
 36. YES Prep Northline Secondary
 441 Little York RD, Houston, TX, 77076
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 832-548-5000
-🗺 https://maps.google.com/?q=29.87154,-95.37572
 
 37. Galena Park Middle School
 400 Keene St, Galena Park, TX, 77547
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 832-548-5000
-🗺 https://maps.google.com/?q=29.73586,-95.23836
 
 38. Legacy Baker Ripley
 6500 Rookin St., Houston, TX, 77074-5014
@@ -289,7 +252,6 @@
 🌐 https://www.legacycommunityhealth.org
 🏥 Services: Primary Care
 📞 832-548-5000
-🗺 https://maps.google.com/?q=29.71053,-95.49830
 
 39. YES Prep Gulfton
 6565 De Moss Dr, Houston, TX, 77074-5099
@@ -297,7 +259,6 @@
 🌐 https://www.legacycommunityhealth.org
 🏥 Services: Primary Care
 📞 713-967-9800
-🗺 https://maps.google.com/?q=29.70674,-95.49818
 
 40. YES Prep - White Oak
 5620 W Tidwell Rd, Houston, TX, 77091-4638
@@ -305,7 +266,6 @@
 🌐 https://legacycommunityhealth.org
 🏥 Services: Primary Care
 📞 832-548-5000
-🗺 https://maps.google.com/?q=29.84901,-95.47163
 
 41. KIPP SHARP
 8430 Westglen Dr, Houston, TX, 77063-6312
@@ -313,7 +273,6 @@
 🌐 https://www.legacycommunityhealth.org
 🏥 Services: Primary Care
 📞 832-328-1051
-🗺 https://maps.google.com/?q=29.72468,-95.51239
 
 42. KIPP - Climb
 8805 Ferndale, Houston, TX, 77017-6515
@@ -321,14 +280,12 @@
 🌐 https://legacycommunityhealth.org
 🏥 Services: Primary Care
 📞 832-548-5000
-🗺 https://maps.google.com/?q=29.66712,-95.25986
 
 43. Medical Mobile Unit #2
 3550 Swingle Rd, Houston, TX, 77047-3763
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 346-426-0500
-🗺 https://maps.google.com/?q=29.61976,-95.36694
 
 44. Bee Busy Wellness Center - North
 13201 Northwest Freeway  SUITE 500, Houston, TX, 77040-6025
@@ -336,21 +293,18 @@
 🌐 https:\\mybbwc.org
 🏥 Services: Primary Care
 📞 713-771-2292
-🗺 https://maps.google.com/?q=29.84829,-95.50681
 
 45. YES Prep - North Forest
 6602 Winfield Rd, Houston, TX, 77050-4704
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 832-548-5000
-🗺 https://maps.google.com/?q=29.89835,-95.29168
 
 46. YES Prep North Central
 13703 Aldine Westfield Rd, Houston, TX, 77039
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 832-548-5000
-🗺 https://maps.google.com/?q=29.91364,-95.35616
 
 47. Spring Branch CHC - Memorial Clinic
 902 Frostwood Dr Ste 108, Houston, TX, 77024-2421
@@ -358,7 +312,6 @@
 🌐 https://www.sbchc.net
 🏥 Services: Primary Care
 📞 713-827-4744
-🗺 https://maps.google.com/?q=29.78026,-95.54685
 
 48. HACS: Bautista
 902 Frostwood Dr STE 142, Houston, TX, 77024-2401
@@ -366,42 +319,36 @@
 🌐 https://www.hacstxs.org
 🏥 Services: Primary Care
 📞 713-827-8266
-🗺 https://maps.google.com/?q=29.78026,-95.54685
 
 49. PHC Dental Clinic 320
 320 Southmore Ave, Ste 312B, Pasadena, TX, 77502-1135
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 713-473-7733
-🗺 https://maps.google.com/?q=29.69080,-95.20771
 
 50. Green Valley Elementary
 13350 Woodforest Blvd, Houston, TX, 77015
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 832-548-5000
-🗺 https://maps.google.com/?q=29.79147,-95.18854
 
 51. Pasadena Health Center, Inc-Admin
 908 Southmore Ave STE 180, Pasadena, TX, 77502-1119
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 713-554-0510
-🗺 https://maps.google.com/?q=29.69083,-95.20113
 
 52. KIPP Mosaic
 12751 Hillcroft St., Houston, TX, 77085
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 832-548-5000
-🗺 https://maps.google.com/?q=29.63513,-95.49160
 
 53. YES Prep West
 10535 Harwin Dr, Houston, TX, 77036-1505
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 832-548-5000
-🗺 https://maps.google.com/?q=29.71548,-95.55325
 
 54. Avenue 360 Mobile Clinic #1
 14095 Main St, Houston, TX, 77035-5447
@@ -409,14 +356,12 @@
 🌐 https://www.avenue360.org
 🏥 Services: Primary Care
 📞 713-426-0027
-🗺 https://maps.google.com/?q=29.63467,-95.49604
 
 55. AVENUE 360 Southwest
 14095 S. Main Street, Houston, TX, 77035
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 713-426-0027
-🗺 https://maps.google.com/?q=29.63467,-95.49604
 
 56. Asian American Health Coalition of the Greater Houston Area
 7001 Corporate Dr STE 120, Houston, TX, 77036-5139
@@ -424,7 +369,6 @@
 🌐 https://www.hopechc.org
 🏥 Services: Primary Care
 📞 713-773-0803
-🗺 https://maps.google.com/?q=29.70335,-95.55086
 
 57. Galena Park - ACT
 13940 Bonham St, Houston, TX, 77015-5108
@@ -432,7 +376,6 @@
 🌐 https://legacycommunityhealth.org
 🏥 Services: Primary Care
 📞 832-548-5000
-🗺 https://maps.google.com/?q=29.77612,-95.17684
 
 58. YES Prep - Southwest
 4411 Anderson Rd, Houston, TX, 77053-2307
@@ -440,7 +383,6 @@
 🌐 https://legacycommunityhealth.org
 🏥 Services: Primary Care
 📞 832-548-5000
-🗺 https://maps.google.com/?q=29.60112,-95.44364
 
 59. MyCHN at Westwood
 9700 Bissonnet St.  STE 1000W, Houston, TX, 77036-8001
@@ -448,7 +390,6 @@
 🌐 https://www.mychn.org
 🏥 Services: Primary Care
 📞 281-824-1480
-🗺 https://maps.google.com/?q=29.67738,-95.54565
 
 60. Legacy Pasadena Southmore
 1951 Southmore Ave, Pasadena, TX, 77502
@@ -456,14 +397,12 @@
 🌐 https://legacycommunityhealth.org
 🏥 Services: Primary Care
 📞 832-548-5000
-🗺 https://maps.google.com/?q=29.69172,-95.18556
 
 61. HOPE Aldine Meadows School Based Clinic
 2112 Aldine Meadows Rd, Houston, TX, 77032-3102
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 713-773-0803
-🗺 https://maps.google.com/?q=29.93464,-95.35286
 
 62. BBWC - Mobile Clinic
 8785 W BELLFORT ST, HOUSTON, TX, 77031-2403
@@ -471,28 +410,24 @@
 🌐 https:\\mybbwc.org
 🏥 Services: Primary Care
 📞 713-771-2292
-🗺 https://maps.google.com/?q=29.65525,-95.53111
 
 63. YES Prep - Brays Oaks
 9000 W Bellfort St, Houston, TX, 77031-2410
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 832-548-5000
-🗺 https://maps.google.com/?q=29.65717,-95.53426
 
 64. North Shore Senior High School
 353 N Castlegory Rd, Houston, TX, 77049
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 832-548-5000
-🗺 https://maps.google.com/?q=29.81097,-95.17458
 
 65. YES Prep Southeast Elementary
 507 Crenshaw Rd., Houston, TX, 77034
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 832-548-5000
-🗺 https://maps.google.com/?q=29.63993,-95.20502
 
 66. KIPP Southwest Campus
 10711 KIPP Way, Houston, TX, 77099-2675
@@ -500,7 +435,6 @@
 🌐 https://www.legacycommunityhealth.org
 🏥 Services: Primary Care
 📞 832-328-1051
-🗺 https://maps.google.com/?q=29.66999,-95.56557
 
 67. HOPE Clinic WEST
 12121 Westheimer Rd Ste 205, Houston, TX, 77077-6654
@@ -508,7 +442,6 @@
 🌐 https://ww.hopechc.org
 🏥 Services: Primary Care
 📞 281-558-2737
-🗺 https://maps.google.com/?q=29.73623,-95.59385
 
 68. Missouri City Center
 307 Texas Pkwy, Missouri City, TX, 77489
@@ -516,7 +449,6 @@
 🌐 https://www.myaccesshealth.org
 🏥 Services: Primary Care
 📞 281-969-1800
-🗺 https://maps.google.com/?q=29.61804,-95.53660
 
 69. MyCHN Pearland Silverlake
 9430 Broadway St STE 120, Pearland, TX, 77584-8075
@@ -524,7 +456,6 @@
 🌐 https://www..mychn.org
 🏥 Services: Primary Care
 📞 281-824-1480
-🗺 https://maps.google.com/?q=29.55687,-95.36717
 
 70. Stafford Center
 10435 Greenbough Dr STE 300, Stafford, TX, 77477-5034
@@ -532,7 +463,6 @@
 🌐 https://www.myaccesshealth.org
 🏥 Services: Primary Care
 📞 281-261-0182
-🗺 https://maps.google.com/?q=29.62079,-95.56268
 
 71. Legacy Bissonnet Street
 12667 Bissonnet St, Houston, TX, 77099-1331
@@ -540,7 +470,6 @@
 🌐 https://www.legacycommunityhealth.org
 🏥 Services: Primary Care
 📞 832-548-5000
-🗺 https://maps.google.com/?q=29.67680,-95.60185
 
 72. Scarsdale Integrated Health Clinic
 10851 Scarsdale Blvd Ste 160, Houston, TX, 77089-5737
@@ -548,14 +477,12 @@
 🌐 https://www..mychn.org
 🏥 Services: Primary Care
 📞 281-824-1480
-🗺 https://maps.google.com/?q=29.58473,-95.21600
 
 73. Legacy Sugardale Fountains
 12540 Sugardale Dr, Stafford, TX, 77477
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 832-548-5000
-🗺 https://maps.google.com/?q=29.64136,-95.58568
 
 74. Legacy Texas Parkway
 3021 Texas Parkway, Missouri City, TX, 77489
@@ -563,7 +490,6 @@
 🌐 https://legacycommunityhealth.org
 🏥 Services: Primary Care
 📞 832-548-5000
-🗺 https://maps.google.com/?q=29.58217,-95.52523
 
 75. MyCHN Pasasdena
 6243 Fairmont Parkway  STE 203, 204, Pasadena, TX, 77505-4047
@@ -571,14 +497,12 @@
 🌐 https://www.mychn.org
 🏥 Services: Primary Care
 📞 281-824-1480
-🗺 https://maps.google.com/?q=29.65099,-95.14427
 
 76. Pearland Family Health Center
 2552 E. Broadway, Suite 102, Pearland, TX, 77581-4904
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 281-824-1480
-🗺 https://maps.google.com/?q=29.55268,-95.25686
 
 77. HOPE Clinic Alief
 13930 Bellaire Blvd, Houston, TX, 77083-1719
@@ -586,7 +510,6 @@
 🌐 https://www.hopechc.org
 🏥 Services: Primary Care
 📞 713-773-0803
-🗺 https://maps.google.com/?q=29.70445,-95.62842
 
 78. KIPP West - Unity
 8500 S Texas 6, Houston, TX, 77083-5709
@@ -594,7 +517,6 @@
 🌐 https://www.legacycommunityhealth.org
 🏥 Services: Primary Care
 📞 832-548-5000
-🗺 https://maps.google.com/?q=29.68668,-95.64623
 
 79. Spring Branch CHC - Northwest Clinic
 15555 Kuykendahl Rd, Houston, TX, 77090-3651
@@ -602,14 +524,12 @@
 🌐 https://www.sbchc.net
 🏥 Services: Primary Care
 📞 713-462-6565
-🗺 https://maps.google.com/?q=30.00418,-95.46147
 
 80. St. Hope Community Health Center-Sugar Land
 14815 Southwest Fwy, Sugar Land, TX, 77478-5016
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 281-277-8571
-🗺 https://maps.google.com/?q=29.60932,-95.61004
 
 81. Fort Bend Community Church Site
 7707 Highway 6, Missouri City, TX, 77459-4150
@@ -617,7 +537,6 @@
 🌐 https://www.myaccesshealth.org
 🏥 Services: Primary Care
 📞 281-342-4530
-🗺 https://maps.google.com/?q=29.55027,-95.54874
 
 82. HACS: Spring-Cypress
 17010 SUGAR PINE DR, HOUSTON, TX, 77090-2213
@@ -625,7 +544,6 @@
 🌐 https://www.hacstxs.org
 🏥 Services: Primary Care
 📞 713-426-0027
-🗺 https://maps.google.com/?q=30.01075,-95.45961
 
 83. TOMAGWA - Champions
 14530 Wunderlich Dr.  STE 130, Houston, TX, 77069-2837
@@ -633,21 +551,18 @@
 🌐 https://www.tomagwa.org
 🏥 Services: Primary Care
 📞 281-357-0747
-🗺 https://maps.google.com/?q=29.99249,-95.51088
 
 84. St. Hope Community Health Clinic- Jersey Village
 20320 Northwest Fwy Ste 500, Jersey Village, TX, 77065-5644
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 713-778-1300
-🗺 https://maps.google.com/?q=29.92169,-95.61956
 
 85. Spring Branch CHC - Healthy Community Mobile Clinic
 19333 Clay Rd, Katy, TX, 77449-4001
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 713-462-6565
-🗺 https://maps.google.com/?q=29.83054,-95.70741
 
 86. Legacy San Jacinto
 4301 Garth Rd Ste 400, Baytown, TX, 77521-3159
@@ -655,7 +570,6 @@
 🌐 https://www.legacycommunityhealth.org
 🏥 Services: Primary Care
 📞 281-420-8400
-🗺 https://maps.google.com/?q=29.76700,-94.97999
 
 87. Legacy Baytown Garth
 3509 Garth Rd, Baytown, TX, 77521-3854
@@ -663,7 +577,6 @@
 🌐 https://legacycommunityhealth.org
 🏥 Services: Primary Care
 📞 832-548-5000
-🗺 https://maps.google.com/?q=29.76069,-94.97843
 
 88. MyCHN Egret Bay Women's Center
 651 N Egret Bay Blvd, League City, TX, 77573-2681
@@ -671,7 +584,6 @@
 🌐 https://www.mychn.org
 🏥 Services: Primary Care
 📞 281-824-1480
-🗺 https://maps.google.com/?q=29.52421,-95.08516
 
 89. League City Integrated Pediatrics
 2360 Gulf Freeway, Ste. 100, League City, TX, 77573-6448
@@ -679,7 +591,6 @@
 🌐 https://www.sfachn.org
 🏥 Services: Primary Care
 📞 281-824-1480
-🗺 https://maps.google.com/?q=29.47775,-95.09842
 
 90. Lone Star Family Health Center - Spring
 440 Rayford Rd Ste 150, Spring, TX, 77386-4169
@@ -687,7 +598,6 @@
 🌐 https://www.lonestarfamily.org
 🏥 Services: Primary Care
 📞 936-539-4004
-🗺 https://maps.google.com/?q=30.12627,-95.43663
 
 91. TOMAGWA at Tomball - Main Clinic
 455 School St Ste 30, Tomball, TX, 77375-4595
@@ -695,7 +605,6 @@
 🌐 https://tomagwa.org/
 🏥 Services: Primary Care
 📞 281-357-0747
-🗺 https://maps.google.com/?q=30.08725,-95.61861
 
 92. West Chambers Medical Center
 9825 Eagle Dr, Mont Belvieu, TX, 77523
@@ -703,7 +612,6 @@
 🌐 https://www.chambershealth.org
 🏥 Services: Primary Care
 📞 281-576-0670
-🗺 https://maps.google.com/?q=29.84038,-94.85404
 
 93. Coastal Health & Wellness - Texas City
 9850-C Emmett F. Lowry Expressway STE C103, Texas City, TX, 77591
@@ -711,14 +619,12 @@
 🌐 https://www.coastalhw.org
 🏥 Services: Primary Care
 📞 409-938-2401
-🗺 https://maps.google.com/?q=29.40190,-95.01985
 
 94. Health Center of Southeast Texas - Terrenos
 871 CR 3549, Cleveland, TX, 77327
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 281-592-2224
-🗺 https://maps.google.com/?q=30.17329,-95.07965
 
 95. Chambers Health School Based Health Center- Dayton High School
 3200 N Cleveland St, Dayton, TX, 77535-2306
@@ -726,7 +632,6 @@
 🌐 https://www.chambershealth.org
 🏥 Services: Primary Care
 📞 409-267-4126
-🗺 https://maps.google.com/?q=30.06462,-94.90561
 
 96. Coastal Health & Wellness - TCISD SBHC Calvin Vincent
 1805 13th Ave N, Texas City, TX, 77590-5498
@@ -734,14 +639,12 @@
 🌐 https://www.coastalhw.org/home-coastal
 🏥 Services: Primary Care
 📞 409-916-0264
-🗺 https://maps.google.com/?q=29.39712,-94.92108
 
 97. Angleton Internal Medicine and Primary Care
 2020 E Mulberry St, Angleton, TX, 77515-3923
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 281-824-1480
-🗺 https://maps.google.com/?q=29.18251,-95.40980
 
 98. MyCHN Angleton Oasis
 303 E Locust St, Angleton, TX, 77515-4620
@@ -749,7 +652,6 @@
 🌐 https://www.mychn.org
 🏥 Services: Primary Care
 📞 281-824-1480
-🗺 https://maps.google.com/?q=29.16787,-95.42906
 
 99. Bayside Clinic
 621 S. Ross Sterling, Anahuac, TX, 77514
@@ -757,7 +659,6 @@
 🌐 https://www.chambershealth.org
 🏥 Services: Primary Care
 📞 409-267-4126
-🗺 https://maps.google.com/?q=29.76771,-94.66969
 
 100. Coastal Health & Wellness - Galveston
 4700 BROADWAY STREET STE 100, GALVESTON, TX, 77551-4241
@@ -765,21 +666,18 @@
 🌐 https://www.coastalhw.org
 🏥 Services: Primary Care
 📞 409-938-2401
-🗺 https://maps.google.com/?q=29.29422,-94.82003
 
 101. HealthPoint Hempstead
 215 FM 1488 RD, HEMPSTEAD, TX, 77445-7866
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 979-595-1700
-🗺 https://maps.google.com/?q=30.09803,-96.06469
 
 102. CHN Brazos Mall
 100 Highway 332 West  STE 1404, Lake Jackson, TX, 77566-4039
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 281-844-1480
-🗺 https://maps.google.com/?q=29.05110,-95.46255
 
 103. MyCHN Kids  Way
 210 Lake Rd, Suite 800 B, Lake Jackson, TX, 77566-4983
@@ -787,14 +685,12 @@
 🌐 https://www.mychn.org
 🏥 Services: Primary Care
 📞 281-824-1480
-🗺 https://maps.google.com/?q=29.04081,-95.46129
 
 104. Brazoria County Dream Center Integrated Health Clinic
 792 North Hwy 288B, Clute, TX, 77531
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 979-388-0280
-🗺 https://maps.google.com/?q=29.03266,-95.39819
 
 105. MyCHN Specialties
 215 Oak Drive South  STE H, Lake Jackson, TX, 77566-5629
@@ -802,7 +698,6 @@
 🌐 https://www.mychn.org
 🏥 Services: Primary Care
 📞 281-824-1480
-🗺 https://maps.google.com/?q=29.03032,-95.45561
 
 106. MyCHN Lake Jackson
 120 Flag Lake Dr  STE 2, Lake Jackson, TX, 77566-6292
@@ -810,28 +705,24 @@
 🌐 https://www.mychn.org
 🏥 Services: Primary Care
 📞 281-824-1480
-🗺 https://maps.google.com/?q=29.01768,-95.42190
 
 107. MEHOP Health Services Wharton
 10119 US 59 Hwy, Wharton, TX, 77488
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 979-245-2008
-🗺 https://maps.google.com/?q=29.32971,-96.11621
 
 108. MEHOP Wharton Specialty
 2112 Regional Medical Dr Ste 1313, Wharton, TX, 77488-9719
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 979-245-2008
-🗺 https://maps.google.com/?q=29.32635,-96.11834
 
 109. Salvation Army Integrated Community Health Center
 1618 N Avenue J, Freeport, TX, 77541-3918
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 979-233-5420
-🗺 https://maps.google.com/?q=28.97635,-95.37271
 
 110. Coastal Gateway Health Center - Winnie
 2584 State Highway 124, Winnie, TX, 77665
@@ -839,28 +730,24 @@
 🌐 https://coastalgatewayhc.org/
 🏥 Services: Primary Care
 📞 409-296-4444
-🗺 https://maps.google.com/?q=29.79666,-94.38341
 
 111. HealthPoint Navasota
 8310 Highway 6, Navasota, TX, 77868
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 936-825-0000
-🗺 https://maps.google.com/?q=30.40199,-96.07663
 
 112. MEHOP Oral Health Clinic
 205 Ida, Bay City, TX, 77414-3144
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 979-245-2008
-🗺 https://maps.google.com/?q=29.00368,-95.97165
 
 113. MEHOP Administration and Outreach
 101 Ave. F. North, Bay City, TX, 77414-3144
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 979-245-2008
-🗺 https://maps.google.com/?q=29.00341,-95.97195
 
 114. MEHOP Primary and Behavioral Health
 1700 Golden Ave, Bay CIty, TX, 77414-164
@@ -868,7 +755,6 @@
 🌐 https://www.mehop.org
 🏥 Services: Primary Care
 📞 979-245-2008
-🗺 https://maps.google.com/?q=28.99412,-95.97020
 
 115. Legacy Central Beaumont Stagg Dr.
 3455 Stagg Dr, Beaumont, TX, 77701-4521
@@ -876,7 +762,6 @@
 🌐 https://legacycommunityhealth.org
 🏥 Services: Primary Care
 📞 832-548-5100
-🗺 https://maps.google.com/?q=30.06984,-94.12619
 
 116. The Lester Daigle Behavioral Health Center at TAN Healthcare
 2355 Interstate 10 E, Beaumont, TX, 77702-1320
@@ -884,7 +769,6 @@
 🌐 https://www.tanhealthcare.org
 🏥 Services: Primary Care
 📞 409-832-3377
-🗺 https://maps.google.com/?q=30.09568,-94.12100
 
 117. Triangle Area Network Mobile Healthcare
 1495 N 7th St, Beaumont, TX, 77702-1345
@@ -892,28 +776,24 @@
 🌐 https://www.tanhealthcare.org
 🏥 Services: Primary Care
 📞 409-550-1067
-🗺 https://maps.google.com/?q=30.09552,-94.12074
 
 118. HealthPoint ABC
 1602 Rock Prairie Rd Ste 300, College Station, TX, 77845-8309
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 979-693-7400
-🗺 https://maps.google.com/?q=30.58140,-96.29138
 
 119. HealthPoint Trinity
 315 Prospect Drive  STE 100, Trinity, TX, 75862-6202
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 936-744-1414
-🗺 https://maps.google.com/?q=30.95644,-95.38102
 
 120. HealthPoint Mobile Dental
 1615 Barak Lane, Bryan, TX, 77803
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 979-977-6390
-🗺 https://maps.google.com/?q=30.65151,-96.33881
 
 121. HealthPoint Memorial
 1301 Memorial Dr, Bryan, TX, 77802-5205
@@ -921,7 +801,6 @@
 🌐 https://www.bvcaa.org
 🏥 Services: Primary Care
 📞 979-595-1700
-🗺 https://maps.google.com/?q=30.65143,-96.34496
 
 122. GULF COAST HEALTH CENTER, INC. - WEST SIDE
 601 Rev Ransom Howard BLDG B, Port Arthur, TX, 77640
@@ -929,14 +808,12 @@
 🌐 https://WWW.GULFCOASTHC.ORG
 🏥 Services: Primary Care
 📞 409-983-1161
-🗺 https://maps.google.com/?q=29.87453,-93.93701
 
 123. HealthPoint Madisonville
 712 S May St, Madisonville, TX, 77864-2564
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 936-348-3418
-🗺 https://maps.google.com/?q=30.94535,-95.90939
 
 124. Tejas Health Care Medical Center
 890 E Travis St, La Grange, TX, 78945-2364
@@ -944,14 +821,12 @@
 🌐 https://www.tejashealthcare.org
 🏥 Services: Primary Care
 📞 979-968-2000
-🗺 https://maps.google.com/?q=29.90988,-96.86746
 
 125. HealthPoint Caldwell
 1103 Woodson Dr, Caldwell, TX, 77836-1052
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 979-567-7080
-🗺 https://maps.google.com/?q=30.52073,-96.71725
 
 126. Tejas Health Care Giddings: Decker Building
 185 Decker Dr, Giddings, TX, 78942-1451
@@ -959,28 +834,24 @@
 🌐 https://www.tejashealthcare.org
 🏥 Services: Primary Care
 📞 979-968-2000
-🗺 https://maps.google.com/?q=30.19118,-96.92659
 
 127. HealthPoint Centerville
 623 W Lassater, Centerville, TX, 75833
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 903-289-1070
-🗺 https://maps.google.com/?q=31.24677,-95.98177
 
 128. HealthPoint Franklin
 808 W. Highway 79, Franklin, TX, 77856
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 979-000-0000
-🗺 https://maps.google.com/?q=31.02019,-96.49500
 
 129. SBHC Franklin Middle School
 1098 W. Decherd Street  RM #MC2, Franklin, TX, 77856
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 979-977-5640
-🗺 https://maps.google.com/?q=31.02872,-96.48363
 
 130. Gulf Coast Health Center Inc. Mobile Unit
 561 State St, Jasper, TX, 75951-5134
@@ -988,7 +859,6 @@
 🌐 https://www.gulfcoasthc.org
 🏥 Services: Primary Care
 📞 409-983-1161
-🗺 https://maps.google.com/?q=30.90795,-93.99363
 
 131. Hope Community Medicine - Lufkin
 821 W Frank Ave, Lufkin, TX, 75904-3310
@@ -996,21 +866,18 @@
 🌐 https://www.hcmtx.org
 🏥 Services: Primary Care
 📞 936-591-8380
-🗺 https://maps.google.com/?q=31.33848,-94.73803
 
 132. Victoria Community Health Center
 4206 Retama Cir, Victoria, TX, 77901
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 361-576-2110
-🗺 https://maps.google.com/?q=28.83251,-96.99144
 
 133. Sayers Street Clinic
 1717 Sayers Street, Lufkin, TX, 75904
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 936-899-5368
-🗺 https://maps.google.com/?q=31.36190,-94.73422
 
 134. Bastrop Community Health Center
 275 S JACKSON ST, BASTROP, TX, 78602-4313
@@ -1018,14 +885,12 @@
 🌐 https://www.chcsct.com
 🏥 Services: Primary Care
 📞 512-321-7137
-🗺 https://maps.google.com/?q=30.09996,-97.30620
 
 135. CommUnityCare Bastrop
 301 Highway 71 W Ste 111, Bastrop, TX, 78602-4111
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 512-978-9015
-🗺 https://maps.google.com/?q=30.10653,-97.32990
 
 136. Lone Star Circle of Care at Bastrop
 605 OLD AUSTIN HWY, BASTROP, TX, 78602-5034
@@ -1033,14 +898,12 @@
 🌐 https://www.lonestarcares.org
 🏥 Services: Primary Care
 📞 877-800-5722
-🗺 https://maps.google.com/?q=30.11179,-97.33815
 
 137. Family Health Center at Elgin
 711 W 10th St., Elgin, TX, 78621
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 512-229-3334
-🗺 https://maps.google.com/?q=30.34745,-97.38054
 
 138. EAST TEXAS COMMUNITY HEALTH SERVICES
 1401 S University Dr, Nacogdoches, TX, 75961-6488
@@ -1048,7 +911,6 @@
 🌐 https://www.etchc.com
 🏥 Services: Primary Care
 📞 936-560-5668
-🗺 https://maps.google.com/?q=31.58824,-94.64666
 
 139. ETCHSI Mobile Unit
 1309 S University Drive, Nacogdoches, TX, 75961-6486
@@ -1056,7 +918,6 @@
 🌐 https://www.etchc.com
 🏥 Services: Primary Care
 📞 936-560-5668
-🗺 https://maps.google.com/?q=31.58890,-94.64651
 
 140. WESTSIDE COMMUNITY CLINIC
 1210 Douglass Rd, Nacogdoches, TX, 75964-4904
@@ -1064,7 +925,6 @@
 🌐 https://www.etchc.com
 🏥 Services: Primary Care
 📞 936-560-1122
-🗺 https://maps.google.com/?q=31.60735,-94.66759
 
 141. Luling Community Dental Center
 651 E Crockett St, Luling, TX, 78648-2602
@@ -1072,28 +932,24 @@
 🌐 https://www.chcsct.com
 🏥 Services: Primary Care
 📞 830-875-6603
-🗺 https://maps.google.com/?q=29.67978,-97.64830
 
 142. Hornsby Bend Health and Wellness Center
 3700 Gilbert Road, Austin, TX, 78725
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 512-978-9015
-🗺 https://maps.google.com/?q=30.24017,-97.59092
 
 143. ETCHS LittleJacks Pediatrics
 4604 NE Stallings Dr, Nacogdoches, TX, 75965-1608
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 936-205-5805
-🗺 https://maps.google.com/?q=31.65279,-94.64692
 
 144. Manor Mustang Health Center
 10335 US HIGHWAY 290 E, MANOR, TX, 78653-4686
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 512-278-4462
-🗺 https://maps.google.com/?q=30.34444,-97.57218
 
 145. Lockhart Family Practice Center
 2060 S Colorado St # 183, Lockhart, TX, 78644-3951
@@ -1101,42 +957,36 @@
 🌐 https://www.chcsct.com
 🏥 Services: Primary Care
 📞 830-494-4001
-🗺 https://maps.google.com/?q=29.85257,-97.66812
 
 146. CommUnityCare Del Valle
 7050 Elroy Rd, Del Valle, TX, 78617-3505
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 512-978-9760
-🗺 https://maps.google.com/?q=30.15652,-97.64189
 
 147. CommUnityCare Mobile Unit 1
 7112 Ed Bluestein Blvd, Austin, TX, 78723-2900
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 512-978-9015
-🗺 https://maps.google.com/?q=30.31256,-97.66380
 
 148. Springdale Women's Health Center
 7112 Ed Bluestein Blvd Ste 105, Austin, TX, 78723-2913
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 512-978-9015
-🗺 https://maps.google.com/?q=30.31256,-97.66380
 
 149. CommUnityCare Springdale Pediatrics
 7112 Ed Bluestein Blvd Ste 100, Austin, TX, 78723-2913
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Women's health; Pediatrics
 📞 512-978-9015
-🗺 https://maps.google.com/?q=30.31256,-97.66380
 
 150. CommUnityCare Southeast Health and Wellness Center
 2901 Montopolis Dr, Austin, TX, 78741-6411
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 512-978-9955
-🗺 https://maps.google.com/?q=30.21446,-97.70954
 
 151. BMHC
 1761 W Loop 281, Longview, TX, 75604-2734
@@ -1144,42 +994,36 @@
 🌐 https://communitycaretx.org/black-mens-health-clinic/
 🏥 Services: Primary Care
 📞 512-978-9015
-🗺 https://maps.google.com/?q=30.32039,-97.69291
 
 152. PCC - Camino
 1101 Camino La Costa, Austin, TX, 78752-3930
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 512-478-4939
-🗺 https://maps.google.com/?q=30.32414,-97.69941
 
 153. CommUnityCare Pflugerville
 2700 W Pecan St Ste 450, Pflugerville, TX, 78660-3154
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 512-978-9015
-🗺 https://maps.google.com/?q=30.45078,-97.65688
 
 154. CommUnityCare Riverside Pediatrics
 2237 E Riverside Dr Ste 101C, Austin, TX, 78741-3051
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Pediatrics
 📞 512-978-9015
-🗺 https://maps.google.com/?q=30.23843,-97.72602
 
 155. Capital Plaza - MAT Clinic
 5339 N Interstate 35, Ste 100, Austin, TX, 78723-2558
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 512-978-9015
-🗺 https://maps.google.com/?q=30.31233,-97.70779
 
 156. CommUnityCare Chalmers Court
 314 Chicon Street, Austin, TX, 78702
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 512-798-9015
-🗺 https://maps.google.com/?q=30.25952,-97.72371
 
 157. CommUnityCare East Austin
 211 Comal St, Austin, TX, 78702-4326
@@ -1187,28 +1031,24 @@
 🌐 http://www.communitycaretx.org
 🏥 Services: Primary Care; Migrant health center
 📞 512-978-9200
-🗺 https://maps.google.com/?q=30.25956,-97.72779
 
 158. CommUnityCare North Lamar Pediatrics
 9411 N Lamar Blvd Ste 120, Austin, TX, 78753-4179
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Pediatrics
 📞 512-978-9015
-🗺 https://maps.google.com/?q=30.36378,-97.69653
 
 159. CommUnityCare at Cady Lofts
 1004 E 39th St, Austin, TX, 78751-5210
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 512-978-9920
-🗺 https://maps.google.com/?q=30.29624,-97.72030
 
 160. Hancock Health Center
 1000 East 41st Street  STE 700A-700H, Austin, TX, 78751-4802
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 512-978-9940
-🗺 https://maps.google.com/?q=30.30047,-97.71965
 
 161. St. David’s Medical Center Pavilion
 1025 E 32nd St  STE 200, Austin, TX, 78705-2714
@@ -1216,7 +1056,6 @@
 🌐 https://www.austinpcc.org
 🏥 Services: Primary Care
 📞 512-478-4939
-🗺 https://maps.google.com/?q=30.28852,-97.72435
 
 162. CommUnityCare - North Central
 1210 W Braker Lane, Austin, TX, 78758
@@ -1224,14 +1063,12 @@
 🌐 http://www.communitycaretx.org
 🏥 Services: Ryan White HIV/AIDS Program; Primary Care; Migrant health center
 📞 512-978-9000
-🗺 https://maps.google.com/?q=30.38572,-97.69411
 
 163. CommUnityCare South Brook Pediatrics
 6425 S Interstate 35 Ste 100, Austin, TX, 78744-4230
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Pediatrics
 📞 512-744-6000
-🗺 https://maps.google.com/?q=30.19038,-97.76798
 
 164. CommUnityCare William Cannon
 6801 S. IH 35 STE 1-E, AUSTIN, TX, 78745-5741
@@ -1239,35 +1076,30 @@
 🌐 http://www.communitycaretx.org
 🏥 Services: Primary Care
 📞 512-978-9960
-🗺 https://maps.google.com/?q=30.18812,-97.77258
 
 165. CommUnityCare Mays Crossing
 1201 S Interstate 35 Ste 303, Round Rock, TX, 78664-6651
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 512-978-9015
-🗺 https://maps.google.com/?q=30.50032,-97.67849
 
 166. Care Connections Clinic
 3706 S 1st St, Austin, TX, 78704-7046
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 512-978-9015
-🗺 https://maps.google.com/?q=30.22872,-97.76884
 
 167. CommUnityCare at Balcones Terrace
 10024 N Capital of Texas Hwy, Austin, TX, 78759-4968
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 512-640-1220
-🗺 https://maps.google.com/?q=30.39145,-97.73729
 
 168. CommUnityCare at Sunrise Church
 4430 Manchaca Rd, Austin, TX, 78745-1604
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 512-978-9015
-🗺 https://maps.google.com/?q=30.22881,-97.78947
 
 169. CommuniCare Health Centers - Kyle
 2810 Dacy Ln, Kyle, TX, 78640-6322
@@ -1275,21 +1107,18 @@
 🌐 https://www.communicaresa.org
 🏥 Services: Primary Care
 📞 512-268-8900
-🗺 https://maps.google.com/?q=30.01468,-97.84002
 
 170. Waco Family Medicine – Temple Downtown
 409 W Adams Ave  STE 200, Temple, TX, 76501-4211
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 254-899-8650
-🗺 https://maps.google.com/?q=31.09836,-97.34540
 
 171. The Charlie Center
 12675 Research Blvd, Austin, TX, 78759-2218
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 512-978-9015
-🗺 https://maps.google.com/?q=30.43220,-97.76449
 
 172. FAMILY Circle of Care Jacksonville Clinic
 510 E Commerce St, Jacksonville, TX, 75766-4910
@@ -1297,14 +1126,12 @@
 🌐 https://www.tylercircleofcare.org
 🏥 Services: Primary Care
 📞 903-535-9041
-🗺 https://maps.google.com/?q=31.96533,-95.26973
 
 173. Mt. Enterprise Community Health Clinic
 106 W Rusk St, Mt Enterprise, TX, 75681-7581
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 903-822-3076
-🗺 https://maps.google.com/?q=31.91843,-94.68028
 
 174. CommUnityCare Oak Hill
 8656-A W HIGHWAY 71 W STE C, AUSTIN, TX, 78735-8004
@@ -1312,14 +1139,12 @@
 🌐 http://www.communitycaretx.org
 🏥 Services: Primary Care
 📞 512-978-9820
-🗺 https://maps.google.com/?q=30.24979,-97.89395
 
 175. San Antonio Specialty Health & Sports Medicine - San Marcos
 1941 S Interstate 35, Ste 113, San Marcos, TX, 78666-6169
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 210-233-7000
-🗺 https://maps.google.com/?q=29.85761,-97.95123
 
 176. Waco Family Medicine – Tom Oliver S. 18th
 1800 GURLEY LN, WACO, TX, 76706-4025
@@ -1327,7 +1152,6 @@
 🌐 https://wacofamilymedicine.org/
 🏥 Services: Primary Care
 📞 254-313-6000
-🗺 https://maps.google.com/?q=31.52488,-97.11860
 
 177. Waco Family Medicine - Imperial Drive
 6500 Imperial Dr.  STE 200, Waco, TX, 76712
@@ -1335,14 +1159,12 @@
 🌐 https://www.wacofamilymedicine.org
 🏥 Services: Primary Care
 📞 254-313-4110
-🗺 https://maps.google.com/?q=31.50322,-97.18496
 
 178. Waco Family Medicine - Cesar Chavez
 700 S 15th St, Waco, TX, 76706-1718
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 254-313-5790
-🗺 https://maps.google.com/?q=31.54303,-97.13305
 
 179. Waco Family Medicine – Elm Avenue
 609 ELM AVENUE, WACO, TX, 76704-2516
@@ -1350,7 +1172,6 @@
 🌐 https://wacofamilymedicine.org/
 🏥 Services: Primary Care
 📞 254-313-6900
-🗺 https://maps.google.com/?q=31.56604,-97.12297
 
 180. Waco Family Medicine – Central
 1600 PROVIDENCE DR, WACO, TX, 76707-2261
@@ -1358,21 +1179,18 @@
 🌐 https://wacofamilymedicine.org/
 🏥 Services: Primary Care
 📞 254-313-4200
-🗺 https://maps.google.com/?q=31.55889,-97.15284
 
 181. Waco Family Medicine – Parkdale
 6400 Edmond Ave, Waco, TX, 76710-4395
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 254-313-6631
-🗺 https://maps.google.com/?q=31.52511,-97.19853
 
 182. Waco Family Medicine – Bellmead
 556 N Loop 340, Waco, TX, 76705-2572
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 254-313-5400
-🗺 https://maps.google.com/?q=31.60394,-97.09932
 
 183. CentroMed SA Pediatrics
 955 Loop 337, New Braunfels, TX, 78130-3556
@@ -1380,7 +1198,6 @@
 🌐 https://www.CentroMedSA.com
 🏥 Services: Primary Care
 📞 210-922-7000
-🗺 https://maps.google.com/?q=29.71935,-98.10442
 
 184. Waco Family Medicine – MacArthur
 2201 MACARTHUR DR, WACO, TX, 76708-3161
@@ -1388,7 +1205,6 @@
 🌐 https://wacofamilymedicine.org/
 🏥 Services: Primary Care
 📞 254-313-5300
-🗺 https://maps.google.com/?q=31.55573,-97.17846
 
 185. The Hope Project, Inc.
 157 Wall Street, Tenaha, TX, 75974-0517
@@ -1396,7 +1212,6 @@
 🌐 https://www.hcmtx.org
 🏥 Services: Primary Care
 📞 936-248-4673
-🗺 https://maps.google.com/?q=31.94434,-94.24488
 
 186. CENTROMED FAMILY MEDICINE CLINIC
 226 N Union Ave, New Braunfels, TX, 78130-4450
@@ -1404,14 +1219,12 @@
 🌐 https://www.centromedsa.com
 🏥 Services: Primary Care
 📞 210-922-7000
-🗺 https://maps.google.com/?q=29.71123,-98.12034
 
 187. Amistad Health Aransas Pass Suite 3
 1711 W Wheeler Ave  STE 3, Aransas Pass, TX, 78336-4536
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 361-886-3025
-🗺 https://maps.google.com/?q=27.91500,-97.16254
 
 188. Waco Family Medicine – McGregor
 500 Johnson Dr, Mc Gregor, TX, 76657-1441
@@ -1419,14 +1232,12 @@
 🌐 https://wacofamilymedicine.org/
 🏥 Services: Primary Care
 📞 254-313-5200
-🗺 https://maps.google.com/?q=31.43138,-97.41748
 
 189. Crossroads Family Care
 1115 US Highway 259 S, Henderson, TX, 75654-3629
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 903-392-8203
-🗺 https://maps.google.com/?q=32.14019,-94.78721
 
 190. East Texas Community Clinic, Inc.
 115 Medical Cir Ste 100, Athens, TX, 75751-9004
@@ -1434,7 +1245,6 @@
 🌐 https://www.easttexascc.org
 🏥 Services: Primary Care
 📞 903-603-7067
-🗺 https://maps.google.com/?q=32.17180,-95.84632
 
 191. Community Action Health Center Beeville
 301 S Hillside Dr Ste 15, Beeville, TX, 78102-5324
@@ -1442,21 +1252,18 @@
 🌐 https://www.cacost.org
 🏥 Services: Primary Care
 📞 361-362-0307
-🗺 https://maps.google.com/?q=28.40677,-97.73176
 
 192. The Dr. Kent E. Rogers Clinic
 618 N Main St, Corsicana, TX, 75110-3028
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 903-874-6731
-🗺 https://maps.google.com/?q=32.09828,-96.46884
 
 193. Community Action Pediatric Center Sinton
 1133 E Sinton St, Sinton, TX, 78387-2928
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 361-364-4486
-🗺 https://maps.google.com/?q=28.03710,-97.49474
 
 194. Tyler Care Clinic Troup
 4519 Troup Hwy, Tyler, TX, 75703-2350
@@ -1464,7 +1271,6 @@
 🌐 https://www.specialhealth.org
 🏥 Services: Primary Care
 📞 903-597-7558
-🗺 https://maps.google.com/?q=32.30249,-95.26961
 
 195. Family Circle of Care - Chapel Hill Clinic
 13172 State Highway 64 E, Tyler, TX, 75707-5340
@@ -1472,7 +1278,6 @@
 🌐 https://tylercircleofcare.org
 🏥 Services: Primary Care
 📞 903-574-7186
-🗺 https://maps.google.com/?q=32.30960,-95.18919
 
 196. Family Circle of Care Family Dentistry
 110 East Ninth Street, Tyler, TX, 75701
@@ -1480,7 +1285,6 @@
 🌐 https://tylercircleofcare.org
 🏥 Services: Primary Care
 📞 903-991-4990
-🗺 https://maps.google.com/?q=32.32733,-95.30041
 
 197. Wellness Pointe - Women's Health Center at Tyler
 825 Medical Dr Ste A, Tyler, TX, 75701-2143
@@ -1488,7 +1292,6 @@
 🌐 https://www.wellnesspointe.org
 🏥 Services: Primary Care
 📞 903-758-2610
-🗺 https://maps.google.com/?q=32.33942,-95.28790
 
 198. Family Circle of Care Eye and Mental Health Clinic
 523 S. Fannin, Tyler, TX, 75702-8204
@@ -1496,14 +1299,12 @@
 🌐 https://www.tylercircleofcare.org
 🏥 Services: Primary Care
 📞 903-535-9041
-🗺 https://maps.google.com/?q=32.34408,-95.29891
 
 199. Wellness Pointe - Social Services - Tyler
 401 E Front St STE 183, Tyler, TX, 75702-8213
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 903-758-2610
-🗺 https://maps.google.com/?q=32.34660,-95.29670
 
 200. W. Gentry Clinic
 2231 W Gentry Pkwy, Tyler, TX, 75702-2809
@@ -1511,7 +1312,6 @@
 🌐 https://tylercircleofcare.org
 🏥 Services: Primary Care
 📞 903-535-9041
-🗺 https://maps.google.com/?q=32.36776,-95.32575
 
 201. CENTROMED NOEMI GALVAN ELING CLINIC
 5542 Walzem Rd, San Antonio, TX, 78218-2103
@@ -1519,7 +1319,6 @@
 🌐 https://www.centromedsa.com
 🏥 Services: Primary Care
 📞 210-922-7000
-🗺 https://maps.google.com/?q=29.50903,-98.37793
 
 202. CommuniCare at The MAC
 5210 Thousand Oaks Dr STE 1203, San Antonio, TX, 78233-6974
@@ -1527,7 +1326,6 @@
 🌐 https://www.communicaresa.org
 🏥 Services: Primary Care
 📞 210-233-7000
-🗺 https://maps.google.com/?q=29.53665,-98.39539
 
 203. Wellness Pointe - Kilgore
 1711 S Henderson Blvd STE 400, Kilgore, TX, 75662-3592
@@ -1535,28 +1333,24 @@
 🌐 https://www.longviewwellness.org
 🏥 Services: Primary Care
 📞 888-811-6648
-🗺 https://maps.google.com/?q=32.37280,-94.86998
 
 204. Waco Family Medicine - Hillsboro
 1323 E Franklin St.  STE 105, Hillsboro, TX, 76645-2621
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 254-582-7481
-🗺 https://maps.google.com/?q=32.01151,-97.09877
 
 205. Gloria Hicks Elementary School
 3602 McArdle Rd  RM WRm2, Corpus Christi, TX, 78415
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 361-878-2200
-🗺 https://maps.google.com/?q=27.72873,-97.40236
 
 206. Wellness Pointe - LISD - Ned E. Williams Elementary
 5230 Estes Pkwy, Longview, TX, 75603-9449
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 903-758-2610
-🗺 https://maps.google.com/?q=32.40341,-94.69309
 
 207. CentroMed City Center Clinic
 207 E Evergreen St, San Antonio, TX, 78212
@@ -1564,7 +1358,6 @@
 🌐 https://www.CentroMedSA.com
 🏥 Services: Primary Care
 📞 210-922-7000
-🗺 https://maps.google.com/?q=29.44310,-98.49260
 
 208. Amistad South Side Clinic
 7017 S Staples St Ste 101, Corpus Christi, TX, 78413-5632
@@ -1572,7 +1365,6 @@
 🌐 https:www.amistadchc.com
 🏥 Services: Primary Care
 📞 361-994-7255
-🗺 https://maps.google.com/?q=27.67436,-97.39130
 
 209. CENTROMED SARAH E DAVIDSON CLINIC
 1 Haven for Hope Way, Bldg 1 STE 300, San Antonio, TX, 78207
@@ -1580,7 +1372,6 @@
 🌐 https://www.centromedsa.com
 🏥 Services: Primary Care; Mental health; Migrant health center
 📞 210-922-7000
-🗺 https://maps.google.com/?q=29.43293,-98.50609
 
 210. Wellness Pointe - Longview - South
 2430 S HIGH ST, LONGVIEW, TX, 75602-3432
@@ -1588,7 +1379,6 @@
 🌐 https://www.wellnesspointe.org
 🏥 Services: Primary Care
 📞 903-758-2610
-🗺 https://maps.google.com/?q=32.46284,-94.73251
 
 211. Wellness Pointe - Mobberly Ave
 2131 S Mobberly Ave, Longview, TX, 75602-3563
@@ -1596,7 +1386,6 @@
 🌐 https://www.wellnesspointe.org
 🏥 Services: Primary Care
 📞 903-758-2610
-🗺 https://maps.google.com/?q=32.46738,-94.73106
 
 212. CENTROMED SOUTHSIDE MEDICAL CLINIC
 3750 Commercial Ave, San Antonio, TX, 78221-3117
@@ -1604,21 +1393,18 @@
 🌐 https://www.centromedsa.com
 🏥 Services: Ryan White HIV/AIDS Program; Primary Care; Migrant health center
 📞 210-922-7000
-🗺 https://maps.google.com/?q=29.33582,-98.51515
 
 213. Wellness Pointe - LISD - Foster Middle School
 1504 Mlk Bl, Longview, TX, 75602-3108
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 903-758-2610
-🗺 https://maps.google.com/?q=32.47455,-94.71477
 
 214. CentroMed Nogalitos Family Clinic
 3714 Nogalitos, San Antonio, TX, 78211-2027
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 210-922-7000
-🗺 https://maps.google.com/?q=29.37901,-98.52964
 
 215. Live Oak Community Health Center
 300 E Martin St, Three Rivers, TX, 78071
@@ -1626,14 +1412,12 @@
 🌐 https://www.atascosahealthcenter.org
 🏥 Services: Primary Care
 📞 361-786-3618
-🗺 https://maps.google.com/?q=28.46377,-98.17864
 
 216. Hope Health Ennis
 805 W LAMPASAS ST, ENNIS, TX, 75119-4535
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 972-923-2440
-🗺 https://maps.google.com/?q=32.31935,-96.63247
 
 217. CENTROMED SOUTH PARK DENTAL CLINIC
 910 Wagner Ave, San Antonio, TX, 78211-3213
@@ -1641,7 +1425,6 @@
 🌐 https://www.centromedsa.com
 🏥 Services: Primary Care; Dental; Migrant health center
 📞 210-922-7000
-🗺 https://maps.google.com/?q=29.36449,-98.53437
 
 218. Longview Care Clinic
 409 N. 6th Street, Longview, TX, 75601-6536
@@ -1649,14 +1432,12 @@
 🌐 https://specialhealth.org
 🏥 Services: Primary Care
 📞 903-501-1747
-🗺 https://maps.google.com/?q=32.49695,-94.72957
 
 219. INTUNE-- MOBILE CLINIC
 409 N. 6th Street, Longview, TX, 75601
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 903-501-1747
-🗺 https://maps.google.com/?q=32.49695,-94.72957
 
 220. Woman and Child Health Center of Longview
 402 N 7th St, Longview, TX, 75601-6704
@@ -1664,21 +1445,18 @@
 🌐 https://www.specialhealth.org
 🏥 Services: Primary Care
 📞 903-234-0776
-🗺 https://maps.google.com/?q=32.49694,-94.72747
 
 221. CentroMed Women's Health Clinic
 7386 Barlite Blvd, San Antonio, TX, 78224-1306
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Women's health
 📞 210-922-7000
-🗺 https://maps.google.com/?q=29.35463,-98.54611
 
 222. Wellness Pointe - East Texas Montessori Prep Academy
 400 N Eastman Rd, Longview, TX, 75601-6910
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 903-758-2610
-🗺 https://maps.google.com/?q=32.49982,-94.70958
 
 223. 1st Choice Pediatrics
 1205 N 6th Street, Longview, TX, 75601-5539
@@ -1686,14 +1464,12 @@
 🌐 https://www.1stchoicepedi.com/
 🏥 Services: Primary Care
 📞 903-230-0235
-🗺 https://maps.google.com/?q=32.50588,-94.73071
 
 224. Wellness Pointe - Pine Tree ISD High School Campus
 1001 W Fairmont St, Longview, TX, 75604-3511
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 903-758-2610
-🗺 https://maps.google.com/?q=32.51498,-94.78211
 
 225. Core Health Systems - Longview
 1300 N 6th St, Longview, TX, 75601-5567
@@ -1701,7 +1477,6 @@
 🌐 https://corehealthsystems.org
 🏥 Services: Primary Care
 📞 903-232-8928
-🗺 https://maps.google.com/?q=32.50716,-94.73040
 
 226. CommuniCare Blvd Dental
 5138 Utsa Blvd Ste 116, San Antonio, TX, 78249-3537
@@ -1709,14 +1484,12 @@
 🌐 https://www.communicaresa.org
 🏥 Services: Primary Care; Dental
 📞 210-233-7000
-🗺 https://maps.google.com/?q=29.57932,-98.58662
 
 227. Health Outcomes Centers
 4751 Hamilton Wolfe Rd  STE 200, San Antonio, TX, 78229-3354
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 210-233-7000
-🗺 https://maps.google.com/?q=29.52173,-98.58087
 
 228. Wellness Pointe - PTISD PACE
 1701 Pine Tree Rd, Longview, TX, 75604-1909
@@ -1724,7 +1497,6 @@
 🌐 https://www.wellnesspointe.org
 🏥 Services: Primary Care
 📞 903-758-2610
-🗺 https://maps.google.com/?q=32.52377,-94.80475
 
 229. Calderon Clinic Robstown
 710 E Main Ave, Robstown, TX, 78380-3133
@@ -1732,14 +1504,12 @@
 🌐 https://amistadchc.com/
 🏥 Services: Primary Care
 📞 361-886-3040
-🗺 https://maps.google.com/?q=27.78830,-97.65928
 
 230. Wellness Pointe - LISD - J.L. Everhart Elementary
 2919 Tryon Rd, Longview, TX, 75605-5069
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 903-758-2610
-🗺 https://maps.google.com/?q=32.53336,-94.71651
 
 231. Atascosa Health Center Inc.
 310 W Oaklawn Rd, Pleasanton, TX, 78064-4033
@@ -1747,7 +1517,6 @@
 🌐 https://atascosahealthcenter.org
 🏥 Services: Primary Care
 📞 830-569-2527
-🗺 https://maps.google.com/?q=28.95754,-98.48699
 
 232. CentroMed Berto Guerra Jr. Clinic
 5439 Ray Ellison Blvd, San Antonio, TX, 78242-2219
@@ -1755,7 +1524,6 @@
 🌐 https://www.centromedsa.com
 🏥 Services: Primary Care
 📞 210-922-7000
-🗺 https://maps.google.com/?q=29.35599,-98.60692
 
 233. The Bridge
 1818 Corsicana, Dallas, TX, 75201-6102
@@ -1763,14 +1531,12 @@
 🌐 http://www.parklandhospital.com/phhs/homeless-outreach.aspx
 🏥 Services: Primary Care; Health Care for the Homeless
 📞 214-670-1145
-🗺 https://maps.google.com/?q=32.77595,-96.79174
 
 234. Eddie Bernice Johnson Youth and Family Center
 2727 Al Lipscomb Way, Dallas, TX, 75215-2234
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 214-426-3645
-🗺 https://maps.google.com/?q=32.77107,-96.77331
 
 235. Prism Health North Texas East Dallas Dental Health Center
 3910 Gaston Ave, Ste 175, Dallas, TX, 75246-1501
@@ -1778,7 +1544,6 @@
 🌐 https://www.phntx.org
 🏥 Services: Primary Care; Dental
 📞 214-257-1082
-🗺 https://maps.google.com/?q=32.79244,-96.77809
 
 236. Martin Luther King, Jr. Family Clinic, Inc. d/b/a Foremost Family Health Centers
 2922B Martin Luther King Jr Blvd, Dallas, TX, 75215
@@ -1786,7 +1551,6 @@
 🌐 https://www.foremostfhc.org
 🏥 Services: Primary Care; Migrant health center
 📞 214-426-3645 x161
-🗺 https://maps.google.com/?q=32.76939,-96.76592
 
 237. Prism Health North Texas at Oak Lawn Health Center
 2801 Lemmon Ave  STE 200, Dallas, TX, 75204-2201
@@ -1794,14 +1558,12 @@
 🌐 https://www.phntx.org
 🏥 Services: Primary Care
 📞 469-687-3200
-🗺 https://maps.google.com/?q=32.80383,-96.79646
 
 238. HHM Health at Holmes St.
 3639 Holmes St, Dallas, TX, 75215-3605
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 972-354-8712
-🗺 https://maps.google.com/?q=32.75578,-96.77252
 
 239. LOS BARRIOS UNIDOS COMMUNITY CLINIC, INC.
 809 Singleton Blvd, Dallas, TX, 75212-4014
@@ -1809,7 +1571,6 @@
 🌐 https://www.losbarriosunidos.org
 🏥 Services: Primary Care
 📞 214-571-6132
-🗺 https://maps.google.com/?q=32.77904,-96.83643
 
 240. Healing Hands MInistries Women's Health Center
 5750 Pineland Dr Ste 240, Dallas, TX, 75231-5300
@@ -1817,21 +1578,18 @@
 🌐 https://www.hhmhealth.org
 🏥 Services: Primary Care; Women's health; Pediatrics
 📞 469-637-2777
-🗺 https://maps.google.com/?q=32.87792,-96.75817
 
 241. LBU South Oak Cliff
 5787 S Hampton Rd STE 365, Dallas, TX, 75232-6336
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 214-540-0300
-🗺 https://maps.google.com/?q=32.67827,-96.85713
 
 242. HHM Health at Mesquite - Pediatric Mobile Unit
 4550 Gus Thomasson Rd STE 40, Mesquite, TX, 75150-1758
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 972-354-8714
-🗺 https://maps.google.com/?q=32.82613,-96.64756
 
 243. HHM Health Mesquite Family Health Center
 4550 Gus Thomasson Rd, Mesquite, TX, 75150-1700
@@ -1839,7 +1597,6 @@
 🌐 https://hhmhealth.org
 🏥 Services: Primary Care
 📞 972-682-8917
-🗺 https://maps.google.com/?q=32.82618,-96.64739
 
 244. Foremost Family Health Center - Balch Springs
 3515 Shepherd Ln, Balch Springs, TX, 75180-2325
@@ -1847,28 +1604,24 @@
 🌐 https://www.foremostfhc.org
 🏥 Services: Primary Care
 📞 972-588-4532 x100
-🗺 https://maps.google.com/?q=32.72197,-96.61465
 
 245. HHM Pediatric Health Specialists
 7200 State Highway 161, Suite 100, Irving, TX, 75039-3800
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 214-221-0855 x2003
-🗺 https://maps.google.com/?q=32.90403,-96.95706
 
 246. HHM Health Arlington
 3201 Matlock Rd.  # 430, Arlington, TX, 76015
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 214-221-0855
-🗺 https://maps.google.com/?q=32.69343,-97.11420
 
 247. HSNT Wylie Children's Medical Clinic
 303 S Highway 78 Ste 106, Wylie, TX, 75098-3915
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 972-801-9689
-🗺 https://maps.google.com/?q=33.01021,-96.54230
 
 248. Hope Health Waxahachie
 572 Coleman St, Waxahachie, TX, 75165-2743
@@ -1876,14 +1629,12 @@
 🌐 https://hopehealthtx.org
 🏥 Services: Primary Care
 📞 972-923-2440 x200
-🗺 https://maps.google.com/?q=32.39455,-96.83125
 
 249. Women's Health Center of McKinney
 4510 Medical Center Dr Ste 201, Mckinney, TX, 75069-1605
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 214-618-5600
-🗺 https://maps.google.com/?q=33.15976,-96.63547
 
 250. Southeast Community Health Center
 2909 MITCHELL BLVD, FORT WORTH, TX, 76105-4642
@@ -1891,7 +1642,6 @@
 🌐 https://www.ntachc.org
 🏥 Services: Primary Care
 📞 817-916-4333
-🗺 https://maps.google.com/?q=32.71679,-97.28839
 
 251. HHM Lone Star Pediatrics
 1011 W Grove St, Kaufman, TX, 75142-1882
@@ -1899,14 +1649,12 @@
 🌐 https://www.hhmhealth.org
 🏥 Services: Primary Care
 📞 972-932-1319
-🗺 https://maps.google.com/?q=32.58958,-96.31861
 
 252. Family Health Center on Virginia
 1620 W Virginia St, Mckinney, TX, 75069-7862
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 214-618-5600
-🗺 https://maps.google.com/?q=33.19844,-96.63097
 
 253. HSNT Denton South Center
 3537 South I35E, Suite 210, Denton, TX, 76210
@@ -1914,7 +1662,6 @@
 🌐 https://www.healthntx.org
 🏥 Services: Primary Care
 📞 940-381-2313
-🗺 https://maps.google.com/?q=33.17534,-97.09179
 
 254. Carevide Pediatrics
 3005A Joe Ramsey Blvd., Greenville, TX, 75401
@@ -1922,7 +1669,6 @@
 🌐 https://carevide.org
 🏥 Services: Primary Care
 📞 903-455-4458
-🗺 https://maps.google.com/?q=33.12000,-96.11130
 
 255. Carevide Dental
 3005 B Joe Ramsey Blvd., Greenville, TX, 75401
@@ -1930,7 +1676,6 @@
 🌐 https://carevide.org
 🏥 Services: Primary Care
 📞 903-455-4458
-🗺 https://maps.google.com/?q=33.12056,-96.11122
 
 256. AccelHealth - Stephenville
 135 River North Blvd, Stephenville, TX, 76401-1804
@@ -1938,14 +1683,12 @@
 🌐 http://www.crosstimbersinc.org/
 🏥 Services: Primary Care
 📞 254-893-5895
-🗺 https://maps.google.com/?q=32.22756,-98.23167
 
 257. Paris Care Clinic
 3150 Clarksville St, Paris, TX, 75460-8076
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 903-785-0078
-🗺 https://maps.google.com/?q=33.64789,-95.51727
 
 258. Wellness Pointe - Gilmer
 602 Titus St STE 130, Gilmer, TX, 75644-1780
@@ -1953,14 +1696,12 @@
 🌐 https://www.longviewwellness.org
 🏥 Services: Primary Care
 📞 903-758-2610
-🗺 https://maps.google.com/?q=32.73420,-94.94481
 
 259. Wellness Pointe - Northeast Texas Family Health
 1901 Mulberry Ave Ste A, Mount Pleasant, TX, 75455-2369
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 903-758-2610
-🗺 https://maps.google.com/?q=33.17497,-94.97314
 
 260. AccelHealth - DeLeon
 1100 W Reynosa Ave, De Leon, TX, 76444-1630
@@ -1968,7 +1709,6 @@
 🌐 http://www.crosstimbersinc.org/
 🏥 Services: Primary Care
 📞 254-893-5895
-🗺 https://maps.google.com/?q=32.11191,-98.54735
 
 261. Core Health Systems - Clarksville
 106 N Martin Luther King Dr, Clarksville, TX, 75426-2928
@@ -1976,14 +1716,12 @@
 🌐 https://corehealthsystems.org
 🏥 Services: Primary Care
 📞 903-427-2226
-🗺 https://maps.google.com/?q=33.61063,-95.05733
 
 262. Pediatric Associates
 4420 Kimbell Dr, Wichita Falls, TX, 76302-3006
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 940-696-1600
-🗺 https://maps.google.com/?q=33.86390,-98.48881
 
 263. ResourceCare Breckenridge
 2802 W Walker St, Breckenridge, TX, 76424-4032
@@ -1991,7 +1729,6 @@
 🌐 http://www.resourcecare.org/
 🏥 Services: Primary Care
 📞 254-559-7215 x0
-🗺 https://maps.google.com/?q=32.75769,-98.93622
 
 264. Community Healthcare Center - Juarez Medical Clinic
 1000-A Juarez St., Wichita Falls, TX, 76301
@@ -1999,7 +1736,6 @@
 🌐 https://www.chcwf.com
 🏥 Services: Primary Care
 📞 940-766-6306
-🗺 https://maps.google.com/?q=33.91245,-98.47393
 
 265. NORTH CENTRAL TX COMMUNITY HEALTH CARE CENTER, INC.
 200 MARTIN LUTHER KING  JR., WICHITA FALLS, TX, 76301-0720
@@ -2007,7 +1743,6 @@
 🌐 https://www.chcwf.com
 🏥 Services: Primary Care
 📞 940-766-6306
-🗺 https://maps.google.com/?q=33.92020,-98.49127
 
 266. Jefferson Clinic
 1113 North Walcott Street  STE B, Jefferson, TX, 75657-1041
@@ -2015,14 +1750,12 @@
 🌐 https://corehealthsystems.org
 🏥 Services: Primary Care
 📞 903-578-9501
-🗺 https://maps.google.com/?q=32.77175,-94.35566
 
 267. East Texas Border Health Clinic-Genesis PrimeCare Marshall
 805 Lindsey Dr, Marshall, TX, 75670-5271
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 903-938-1146
-🗺 https://maps.google.com/?q=32.53704,-94.37031
 
 268. SHACKELFORD COUNTY COMMUNITY RESOURCE CENTER
 725 PATE STREET, ALBANY, TX, 76430-2435
@@ -2030,7 +1763,6 @@
 🌐 http://www.resourcecare.org/
 🏥 Services: Primary Care
 📞 325-762-2447
-🗺 https://maps.google.com/?q=32.73167,-99.28830
 
 269. ResourceCare Cross Plains
 301 S Main St, Cross Plains, TX, 76443-2581
@@ -2038,7 +1770,6 @@
 🌐 http://www.resourcecare.org/
 🏥 Services: Primary Care
 📞 254-725-4311
-🗺 https://maps.google.com/?q=32.12310,-99.16503
 
 270. AccelHealth - Brownwood Main
 2100 Crockett Dr, Brownwood, TX, 76801
@@ -2046,21 +1777,18 @@
 🌐 https://www.accelhealthcare.org
 🏥 Services: Primary Care
 📞 325-646-3900
-🗺 https://maps.google.com/?q=31.68648,-98.99775
 
 271. Genesis PrimeCare-Atlanta
 1011 S WILLIAM ST, ATLANTA, TX, 75551-3245
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 903-796-2868
-🗺 https://maps.google.com/?q=33.10510,-94.16407
 
 272. ResourceCare Clyde
 1712 North Access Road, Clyde, TX, 79510
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 325-893-4010
-🗺 https://maps.google.com/?q=32.41284,-99.48862
 
 273. Core Health Systems - Texarkana College
 2435 College Dr, Texarkana, TX, 75501-2788
@@ -2068,63 +1796,54 @@
 🌐 https://corehealthsystems.org
 🏥 Services: Primary Care
 📞 903-255-1240
-🗺 https://maps.google.com/?q=33.44722,-94.07340
 
 274. Genesis PrimeCare Texarkana-Pediatrics
 1411 College Drive, Texarkana, TX, 75503-3533
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 903-791-1110
-🗺 https://maps.google.com/?q=33.44847,-94.06166
 
 275. Texarkana Care Clinic - Texas Blvd
 1002 Texas Blvd  STE 320, 325, Texarkana, TX, 75501-5118
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 903-792-5924
-🗺 https://maps.google.com/?q=33.42867,-94.04903
 
 276. Club Health Center of Vernon
 2015 Yamparika St, Vernon, TX, 76384-6179
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 940-766-6306
-🗺 https://maps.google.com/?q=34.14888,-99.28683
 
 277. CHC at Wilbarger General
 920 Hillcrest Drive  STE 200, Vernon, TX, 76384-3132
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 940-766-6306
-🗺 https://maps.google.com/?q=34.15883,-99.31463
 
 278. FHN - Brady High
 2301 US Hwy 190, Brady, TX, 76825-7614
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 325-597-2491
-🗺 https://maps.google.com/?q=31.10742,-99.33908
 
 279. Frontera Healthcare Network Mason Clinic
 216 W College Ave, Mason, TX, 76856
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 325-347-5926
-🗺 https://maps.google.com/?q=30.74396,-99.23295
 
 280. Frontera Healthcare Fredericksburg Behavioral Health Clinic
 808 Reuben St, Fredericksburg, TX, 78624-4436
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 325-240-4598
-🗺 https://maps.google.com/?q=30.26645,-98.88068
 
 281. Frontera Healthcare Network Primary Care
 205 W Windcrest St STE 310, Fredericksburg, TX, 78624-4478
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 325-869-5500
-🗺 https://maps.google.com/?q=30.26320,-98.88114
 
 282. Apollo Wellness
 6511 West FM 1604 North  STE 105, San Antonio, TX, 78254
@@ -2132,7 +1851,6 @@
 🌐 https://www.communicaresa.org
 🏥 Services: Primary Care
 📞 210-233-7000
-🗺 https://maps.google.com/?q=29.49721,-98.70337
 
 283. CENTROMED MARIA CASTRO FLORES CLINIC
 7315 SOUTH LOOP 1604 WEST, SOMERSET, TX, 78069
@@ -2140,7 +1858,6 @@
 🌐 https://www.centromedsa.com
 🏥 Services: Primary Care
 📞 210-922-7000
-🗺 https://maps.google.com/?q=29.22889,-98.64496
 
 284. DEVINE CLINIC
 1010 W Hondo Ave, Devine, TX, 78016-1921
@@ -2148,14 +1865,12 @@
 🌐 https://tachc.org
 🏥 Services: Primary Care
 📞 830-663-5450
-🗺 https://maps.google.com/?q=29.14749,-98.91583
 
 285. Devine Behavioral Health
 1010 W Hondo Ave Bldg 100, Devine, TX, 78016-1921
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 830-663-9786
-🗺 https://maps.google.com/?q=29.14741,-98.91611
 
 286. PEARSALL CLINIC
 150 MEDICAL DR, PEARSALL, TX, 78061-6604
@@ -2163,14 +1878,12 @@
 🌐 https://tachc.org
 🏥 Services: Primary Care
 📞 830-334-4102
-🗺 https://maps.google.com/?q=28.89725,-99.11635
 
 287. Pearsall Behavioral Health
 158 Medical Dr, Pearsall, TX, 78061-6624
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 830-334-4102
-🗺 https://maps.google.com/?q=28.89741,-99.11682
 
 288. DILLEY CLINIC
 606 W Leona St, Dilley, TX, 78017-3705
@@ -2178,7 +1891,6 @@
 🌐 https://tachc.org
 🏥 Services: Primary Care
 📞 830-965-1797
-🗺 https://maps.google.com/?q=28.66917,-99.17800
 
 289. CHDI Ham Lane
 115 N. Ham Lane, Uvalde, TX, 78801-6223
@@ -2186,35 +1898,30 @@
 🌐 https://chdi4health.org
 🏥 Services: Primary Care
 📞 830-278-7105
-🗺 https://maps.google.com/?q=29.23342,-99.75573
 
 290. STRHS Uvalde Behavioral Health Site
 1815 Garner Field Rd., Uvalde, TX, 78801-6209
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 830-591-1822
-🗺 https://maps.google.com/?q=29.21790,-99.75443
 
 291. Rolling Hills Health
 140 W Ranch Road 337, Leakey, TX, 78873-3015
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 830-232-6985
-🗺 https://maps.google.com/?q=29.72487,-99.76548
 
 292. CHDI SBHC Uvalde
 901 N Getty St, Uvalde, TX, 78801-4203
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 830-278-7105
-🗺 https://maps.google.com/?q=29.22184,-99.79239
 
 293. STRHS, Inc. Mobile Clinic
 651 N Baylor, Cotulla, TX, 78014-3165
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 830-879-4702
-🗺 https://maps.google.com/?q=28.44340,-99.24336
 
 294. BIG WELLS CLINIC
 1502 GRAND AVE, BIG WELLS, TX, 78852
@@ -2222,7 +1929,6 @@
 🌐 https://tachc.org
 🏥 Services: Primary Care
 📞 830-457-9322
-🗺 https://maps.google.com/?q=28.57317,-99.56991
 
 295. LPISD-VSHSI COMMUNTY BASED & SCHOOL BASED HEALTH CLINIC
 117 E. Hwy 57, LA PRYOR, TX, 78872
@@ -2230,7 +1936,6 @@
 🌐 https://www.vidaysalud.org
 🏥 Services: Primary Care
 📞 830-365-4526
-🗺 https://maps.google.com/?q=28.94398,-99.84281
 
 296. CANYON HEALTH CENTER
 700 FRIO STREET, CAMP WOOD, TX, 78833-0455
@@ -2238,21 +1943,18 @@
 🌐 https://www.chdi4health.org
 🏥 Services: Primary Care
 📞 830-597-6424
-🗺 https://maps.google.com/?q=29.66417,-100.00939
 
 297. South Texas Rural Health Services, Inc
 1819 N 9th St, Carrizo Springs, TX, 78834
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 830-876-5263
-🗺 https://maps.google.com/?q=28.53568,-99.85385
 
 298. FHN - Junction ISD
 1700 College St, Junction, TX, 76849-4508
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 325-446-3999
-🗺 https://maps.google.com/?q=30.48810,-99.77723
 
 299. STRHS, ENCINAL CLINIC
 100 SOUTH MAIN, ENCINAL, TX, 78019
@@ -2260,7 +1962,6 @@
 🌐 https://tachc.org
 🏥 Services: Primary Care
 📞 956-948-7230
-🗺 https://maps.google.com/?q=28.03939,-99.35523
 
 300. UNITED MEDICAL CENTERS #2
 202 James Street, BRACKETTVILLE, TX, 78832
@@ -2268,21 +1969,18 @@
 🌐 https://www.umchealth.com
 🏥 Services: Primary Care
 📞 830-563-2434
-🗺 https://maps.google.com/?q=29.31228,-100.41751
 
 301. FHN -  Menard Elem-MIddle
 300 Gay St, Menard, TX, 76859-1046
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 325-396-4612
-🗺 https://maps.google.com/?q=30.91463,-99.78465
 
 302. Eagle Pass Behavioral Health Program
 2250 N. Veterans Blvd., Eagle Pass, TX, 78852-4160
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 830-757-0117
-🗺 https://maps.google.com/?q=28.72483,-100.47614
 
 303. El Indio Highway Clinic
 4018 El Indio Hwy, Eagle Pass, TX, 78852-6690
@@ -2290,7 +1988,6 @@
 🌐 https://www.umchealth.com
 🏥 Services: Primary Care
 📞 830-872-3460
-🗺 https://maps.google.com/?q=28.67379,-100.46015
 
 304. Eidson Road Clinic
 1175 Eidson Rd, Eagle Pass, TX, 78852-5403
@@ -2298,14 +1995,12 @@
 🌐 https://www.umchealth.com
 🏥 Services: Primary Care
 📞 830-757-6996
-🗺 https://maps.google.com/?q=28.69339,-100.48666
 
 305. Javelina Health Clinic
 1210 N. Retama, Kingsville, TX, 78363
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 361-239-0600
-🗺 https://maps.google.com/?q=27.52768,-97.88360
 
 306. Shiloh Clinic
 208 Shiloh Dr Ste 1, Laredo, TX, 78045-7402
@@ -2313,7 +2008,6 @@
 🌐 https://www.gatewaychc.com
 🏥 Services: Primary Care
 📞 956-795-8100
-🗺 https://maps.google.com/?q=27.58625,-99.49368
 
 307. GCHC-Dr Garza Clinic
 6801 Mcpherson Rd Ste 336, Laredo, TX, 78041-6417
@@ -2321,7 +2015,6 @@
 🌐 https://gatewaychc.com/
 🏥 Services: Primary Care
 📞 956-795-8100
-🗺 https://maps.google.com/?q=27.56526,-99.47254
 
 308. San Felipe Clinic
 1117 W De La Rosa St, Del Rio, TX, 78840-6224
@@ -2329,7 +2022,6 @@
 🌐 https://www.umchealth.com
 🏥 Services: Primary Care
 📞 830-768-4800
-🗺 https://maps.google.com/?q=29.36491,-100.88425
 
 309. East Academy Clinic
 119 E Academy St, Del Rio, TX, 78840-6072
@@ -2337,7 +2029,6 @@
 🌐 https://www.umchealth.com
 🏥 Services: Primary Care
 📞 830-774-5534
-🗺 https://maps.google.com/?q=29.35297,-100.89740
 
 310. Bedell Avenue Clinic
 2209 N Bedell Ave, Del Rio, TX, 78840-8007
@@ -2345,14 +2036,12 @@
 🌐 https://www.umchealth.com
 🏥 Services: Primary Care
 📞 830-775-8513
-🗺 https://maps.google.com/?q=29.39043,-100.90113
 
 311. Northside Clinic
 3809 Veterans Blvd, Del Rio, TX, 78840-2860
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 830-488-6961
-🗺 https://maps.google.com/?q=29.40863,-100.90376
 
 312. Gateway CHC South Clinic
 2007 S Zapata Hwy, Laredo, TX, 78046-6510
@@ -2360,7 +2049,6 @@
 🌐 https://GATEWAYCHC.COM
 🏥 Services: Primary Care
 📞 956-795-8101
-🗺 https://maps.google.com/?q=27.47853,-99.47296
 
 313. Hebbronville
 473 State Highway 285, Hebbronville, TX, 78361
@@ -2368,7 +2056,6 @@
 🌐 https://www.gatewaychc.com
 🏥 Services: Primary Care
 📞 956-523-3646
-🗺 https://maps.google.com/?q=27.29930,-98.67388
 
 314. Laredo College South Clinic
 5500 S Zapata Hwy, Laredo, TX, 78046-8919
@@ -2376,7 +2063,6 @@
 🌐 https://www.gatewaychc.com
 🏥 Services: Primary Care
 📞 956-795-8100
-🗺 https://maps.google.com/?q=27.43350,-99.48360
 
 315. Zapata
 210 North Rathmell Street, Zapata, TX, 78076
@@ -2384,7 +2070,6 @@
 🌐 https://www.gatewaychc.com
 🏥 Services: Primary Care
 📞 956-765-4367
-🗺 https://maps.google.com/?q=26.90153,-99.26896
 
 316. LA ESPERANZA CLINIC
 1610 S Chadbourne St, San Angelo, TX, 76903-8510
@@ -2392,14 +2077,12 @@
 🌐 http://www.esperanzahealth.org/
 🏥 Services: Primary Care
 📞 325-223-8129
-🗺 https://maps.google.com/?q=31.44458,-100.43421
 
 317. LEC Mobile Clinic 2
 35 E 31st St, San Angelo, TX, 76903-2207
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 325-947-5601
-🗺 https://maps.google.com/?q=31.49182,-100.45437
 
 318. Su Clinica - Raymondville
 131 Fm 3168, Raymondville, TX, 78580-3605
@@ -2407,7 +2090,6 @@
 🌐 https://www.suclinica.org
 🏥 Services: Primary Care
 📞 956-689-2196
-🗺 https://maps.google.com/?q=26.46725,-97.78453
 
 319. NUESTRA CLINICA DEL VALLE - ROMA CLINIC
 2891 E Grant St, Roma, TX, 78584-8914
@@ -2415,7 +2097,6 @@
 🌐 https://www.nuestraclinicadelvalle.org
 🏥 Services: Primary Care
 📞 956-849-2100
-🗺 https://maps.google.com/?q=26.40850,-98.97909
 
 320. NUESTRA CLINICA DEL VALLE - MEMORIAL
 201 S Los Ebanos Rd, Mission, TX, 78573-1139
@@ -2423,7 +2104,6 @@
 🌐 https://www.nuestraclinicadelvalle.org
 🏥 Services: Primary Care
 📞 956-519-1800
-🗺 https://maps.google.com/?q=26.28819,-98.33028
 
 321. NUESTRA CLINICA DEL VALLE - SAN CARLOS
 300 N 86th St, Edinburg, TX, 78542-1838
@@ -2431,7 +2111,6 @@
 🌐 https://www.nuestraclinicadelvalle.org
 🏥 Services: Primary Care
 📞 956-287-8850
-🗺 https://maps.google.com/?q=26.29654,-98.06865
 
 322. NUESTRA CLINICA DEL VALLE - WOMEN'S HEALTH CENTER
 806 West 3rd Street, San Juan, TX, 78589-2276
@@ -2439,7 +2118,6 @@
 🌐 https://www.nuestraclinicadelvalle.org
 🏥 Services: Primary Care
 📞 956-787-8846
-🗺 https://maps.google.com/?q=26.19434,-98.16581
 
 323. NUESTRA CLINICA DEL VALLE - MERCEDES
 1500 W    1st St, Mercedes, TX, 78570-2551
@@ -2447,35 +2125,30 @@
 🌐 https://www.nuestraclinicadelvalle.org
 🏥 Services: Primary Care
 📞 956-565-3191
-🗺 https://maps.google.com/?q=26.15193,-97.92534
 
 324. New Horizon Health Center
 723 Santa Isabel Blvd.  STE G, Laguna Vista, TX, 78578-2647
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 956-548-7400
-🗺 https://maps.google.com/?q=26.10163,-97.29109
 
 325. Yandell Satellite Clinic
 823 E. Yandell, El Paso, TX, 79902-5331
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 915-545-7205
-🗺 https://maps.google.com/?q=31.76703,-106.48535
 
 326. Centro San Vicente Homeless Health Care Center
 1225 Texas Ave, El Paso, TX, 79901-1637
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 915-859-7545
-🗺 https://maps.google.com/?q=31.76540,-106.47699
 
 327. La Fe Mobile unit
 1314 East Yandell Dr., El Paso, TX, 79902
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 915-534-7979
-🗺 https://maps.google.com/?q=31.77001,-106.47985
 
 328. CHILD & ADOLESCENT WELLNESS CENTER
 721 S Ochoa St, El Paso, TX, 79901-2935
@@ -2483,14 +2156,12 @@
 🌐 https://www.lafe-ep.org
 🏥 Services: Primary Care
 📞 915-545-7090
-🗺 https://maps.google.com/?q=31.75338,-106.48070
 
 329. Guillen Middle School
 900 S Cotton St, El Paso, TX, 79901-3527
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 915-236-4900
-🗺 https://maps.google.com/?q=31.75424,-106.47328
 
 330. JOSE ROMAN PEDIATRIC CLINIC
 125 W Hague Rd STE 390, El Paso, TX, 79902-5818
@@ -2498,14 +2169,12 @@
 🌐 https://www.lafe-ep.org
 🏥 Services: Primary Care
 📞 915-577-4111
-🗺 https://maps.google.com/?q=31.77016,-106.49960
 
 331. Mobile Medical Vann
 3607 RIVERA AVE, EL PASO, TX, 79905-2415
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 915-533-7057 x1
-🗺 https://maps.google.com/?q=31.77143,-106.45062
 
 332. NAFTZGER CLINIC
 3612 PERA STREET, EL PASO, TX, 79905-2412
@@ -2513,7 +2182,6 @@
 🌐 http://www.projectvidaelpaso.org/
 🏥 Services: Primary Care
 📞 915-533-7057 x2
-🗺 https://maps.google.com/?q=31.77216,-106.45041
 
 333. Lisbon Satellite Clinic
 200 Lisbon, El Paso, TX, 79905
@@ -2521,7 +2189,6 @@
 🌐 https://www.lafe-ep.org
 🏥 Services: Primary Care
 📞 915-778-9200
-🗺 https://maps.google.com/?q=31.76669,-106.42443
 
 334. Fernandez Health Clinic
 4304 Dyer St, El Paso, TX, 79930-6733
@@ -2529,14 +2196,12 @@
 🌐 https://www.pvida.net
 🏥 Services: Primary Care
 📞 915-533-7057
-🗺 https://maps.google.com/?q=31.81499,-106.44444
 
 335. Northeast Family Practice
 4875 Maxwell Ave, El Paso, TX, 79904-1559
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 915-533-7057
-🗺 https://maps.google.com/?q=31.86725,-106.42882
 
 336. Centro San Vicente at Pebble Hills
 PEBBLE VILLAGE SHOPPING CENTER10780 PEBBLE HILLS BLVD STE G1, EL PASO, TX, 79935-2039
@@ -2544,77 +2209,66 @@ PEBBLE VILLAGE SHOPPING CENTER10780 PEBBLE HILLS BLVD STE G1, EL PASO, TX, 79935
 🌐 http://www.sanvicente.org/
 🏥 Services: Primary Care
 📞 915-859-7545
-🗺 https://maps.google.com/?q=31.78308,-106.32618
 
 337. Reyes Elementary School
 7440 Northern Pass Dr, El Paso, TX, 79911-7400
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 915-465-1191
-🗺 https://maps.google.com/?q=31.88917,-106.56609
 
 338. Terrace Hills Middle School
 4835 Blossom Ave, El Paso, TX, 79924-3234
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 915-533-7057
-🗺 https://maps.google.com/?q=31.90449,-106.42631
 
 339. Andress High School
 5400 Sun Valley Dr, El Paso, TX, 79924-3418
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 915-533-7057
-🗺 https://maps.google.com/?q=31.91063,-106.41667
 
 340. Garcia Elementary
 6550 Westside Dr, El Paso, TX, 79932-2726
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 915-533-7057
-🗺 https://maps.google.com/?q=31.89194,-106.61159
 
 341. William Slider Middle School
 11700 School Ln, El Paso, TX, 79936-4418
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 915-533-7057
-🗺 https://maps.google.com/?q=31.76301,-106.28554
 
 342. Montwood Middle School
 11710 Pebble Hills Blvd, El Paso, TX, 79936-0802
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 915-533-7057
-🗺 https://maps.google.com/?q=31.78243,-106.28064
 
 343. Americas High School
 12101 Pellicano Dr, El Paso, TX, 79936-6862
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 915-533-7057
-🗺 https://maps.google.com/?q=31.72855,-106.27670
 
 344. Clarke Middle School
 1515 Bob Hope Dr, El Paso, TX, 79936-0204
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 915-465-1191
-🗺 https://maps.google.com/?q=31.73648,-106.27141
 
 345. Canutillo Middle School
 7311 Bosque Rd, Canutillo, TX, 79835
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 915-533-7057
-🗺 https://maps.google.com/?q=31.92676,-106.60994
 
 346. Hurshel Antwine Middle School
 3830 Rich Beem Blvd, El Paso, TX, 79938
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 915-465-1191
-🗺 https://maps.google.com/?q=31.80293,-106.24606
 
 347. WESTWAY SATELLITE CLINIC
 1713 BANKER RD., CANUTILLO, TX, 79835
@@ -2622,42 +2276,36 @@ PEBBLE VILLAGE SHOPPING CENTER10780 PEBBLE HILLS BLVD STE G1, EL PASO, TX, 79935
 🌐 https://www.lafe-ep.org
 🏥 Services: Primary Care
 📞 915-231-4370
-🗺 https://maps.google.com/?q=31.96138,-106.56934
 
 348. Socorro Middle School
 301 Bovee Rd, Socorro, TX, 79927-1220
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 915-533-7057
-🗺 https://maps.google.com/?q=31.63560,-106.28250
 
 349. Mission Ridge Elementary
 150 Nonap Rd, El Paso, TX, 79928-5115
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 915-938-2000
-🗺 https://maps.google.com/?q=31.68500,-106.24888
 
 350. Manuel Puentes Middle School
 3216 Tim Foster St, El Paso, TX, 79938
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 915-533-7057
-🗺 https://maps.google.com/?q=31.79125,-106.22288
 
 351. Pebble Hills High School
 14400 Pebble Hills Blvd, El Paso, TX, 79938-2652
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 915-533-7057
-🗺 https://maps.google.com/?q=31.78201,-106.22019
 
 352. Col. J. Ensor Middle School Clinic
 13600 Ryderwood Dr, Horizon City, TX, 79928-7218
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 915-533-7057
-🗺 https://maps.google.com/?q=31.69672,-106.21765
 
 353. San Elizario Satellite Clinic
 12101 Socorro Rd., San Elizario, TX, 79849-7393
@@ -2665,14 +2313,12 @@ PEBBLE VILLAGE SHOPPING CENTER10780 PEBBLE HILLS BLVD STE G1, EL PASO, TX, 79935
 🌐 https://www.lafe-ep.org
 🏥 Services: Primary Care
 📞 915-851-5519
-🗺 https://maps.google.com/?q=31.59657,-106.27345
 
 354. Desert Wind School
 1100 Colina De Paz, El Paso, TX, 79928-6064
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 915-937-7800
-🗺 https://maps.google.com/?q=31.64874,-106.22710
 
 355. Horizon Middle School
 400 N Kenazo Ave, Horizon City, TX, 79928-5419
@@ -2680,28 +2326,24 @@ PEBBLE VILLAGE SHOPPING CENTER10780 PEBBLE HILLS BLVD STE G1, EL PASO, TX, 79935
 🌐 https://www.pvida.net/
 🏥 Services: Primary Care
 📞 915-465-1191
-🗺 https://maps.google.com/?q=31.69335,-106.19245
 
 356. Alfonso Borrego Sr. Elementary School
 13300 Chicken Ranch Rd, San Elizario, TX, 79849
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 915-465-1191
-🗺 https://maps.google.com/?q=31.57538,-106.26270
 
 357. Clint Junior High School
 12625 Alameda Ave, Clint, TX, 79836-6303
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 915-465-1191
-🗺 https://maps.google.com/?q=31.59393,-106.23792
 
 358. Frank Macias Elementary School
 14400 Golden Eagle Dr, Horizon City, TX, 79928-7390
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 915-465-1191
-🗺 https://maps.google.com/?q=31.67106,-106.18649
 
 359. W. D. Surratt Elementary
 12675 Alameda Ave, Clint, TX, 79836-6303
@@ -2709,14 +2351,12 @@ PEBBLE VILLAGE SHOPPING CENTER10780 PEBBLE HILLS BLVD STE G1, EL PASO, TX, 79935
 🌐 https://79928
 🏥 Services: Primary Care
 📞 915-465-1191
-🗺 https://maps.google.com/?q=31.59202,-106.23591
 
 360. Family Planning Primary Care Mobile
 14674 Greg Dr, El Paso, TX, 79938-9241
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 915-533-7057 x248
-🗺 https://maps.google.com/?q=31.79789,-106.16777
 
 361. Montana Vista Health Center
 14900 Greg Dr, El Paso, TX, 79938-9241
@@ -2724,7 +2364,6 @@ PEBBLE VILLAGE SHOPPING CENTER10780 PEBBLE HILLS BLVD STE G1, EL PASO, TX, 79935
 🌐 http://www.projectvidaelpaso.org/
 🏥 Services: Primary Care
 📞 915-533-7057
-🗺 https://maps.google.com/?q=31.79810,-106.16279
 
 362. Mountain View High School
 14964 Greg Dr, El Paso, TX, 79938-9213
@@ -2732,21 +2371,18 @@ PEBBLE VILLAGE SHOPPING CENTER10780 PEBBLE HILLS BLVD STE G1, EL PASO, TX, 79935
 🌐 https://www.pvida.net
 🏥 Services: Primary Care
 📞 915-465-1191
-🗺 https://maps.google.com/?q=31.79812,-106.15864
 
 363. Tornillo High School
 430D Oil Mill Dr, Tornillo, TX, 79853
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 915-465-1191
-🗺 https://maps.google.com/?q=31.46107,-106.09018
 
 364. Ft. Hancock Clinic
 100 School Drive, Ft. Hancock, TX, 79839
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 915-465-1191
-🗺 https://maps.google.com/?q=31.29169,-105.85206
 
 365. Sierra Blanca Family Health Center
 422 Rm, Sierra Blanca, TX, 79851
@@ -2754,35 +2390,30 @@ PEBBLE VILLAGE SHOPPING CENTER10780 PEBBLE HILLS BLVD STE G1, EL PASO, TX, 79935
 🌐 http://www.projectvidaelpaso.org/
 🏥 Services: Primary Care
 📞 915-533-7057
-🗺 https://maps.google.com/?q=31.17089,-105.33592
 
 366. HMS Mining District Clinic
 611 THORNTON STREET, COTULLA, TX, 78014-2609
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 575-537-5068
-🗺 https://maps.google.com/?q=32.77313,-108.14880
 
 367. PCHS Alpine Dental Clinic
 1605 N Ft Davis Hwy, Alpine, TX, 79830-2244
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 432-729-1812
-🗺 https://maps.google.com/?q=30.36312,-103.68297
 
 368. Preventative Care Health Services, INC.
 1501 N Erma Ave, Presidio, TX, 79845-4464
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 432-229-3030
-🗺 https://maps.google.com/?q=29.57563,-104.36739
 
 369. Cactus Health Services, Inc.
 700 N. Main, Fort Stockton, TX, 79735
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 432-336-8110
-🗺 https://maps.google.com/?q=30.89142,-102.87894
 
 370. Chiricahua Community Health Centers, Inc. Sierra Vista Pediatrics
 527 Peyton St, Baird, TX, 79504-4735
@@ -2790,28 +2421,24 @@ PEBBLE VILLAGE SHOPPING CENTER10780 PEBBLE HILLS BLVD STE G1, EL PASO, TX, 79935
 🌐 https://www.cchci.org
 🏥 Services: Primary Care
 📞 520-459-0203
-🗺 https://maps.google.com/?q=31.55240,-110.26637
 
 371. Ector County Hospital District/MCH Family Health Clinic
 6030 W UNIVERSITY BLVD, ODESSA, TX, 79764-8530
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 432-640-6600
-🗺 https://maps.google.com/?q=31.85367,-102.44852
 
 372. PCHS Terlingua Clinic
 52990 S. Hwy.118, Terlingua, TX, 79852
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 432-837-4280 x600
-🗺 https://maps.google.com/?q=29.41482,-103.51131
 
 373. Grand Expectations Health Center
 2602 Avenue Q, Lubbock, TX, 79411-2444
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 806-743-2602
-🗺 https://maps.google.com/?q=33.57073,-101.85597
 
 374. CHCL Community Dental Clinic (Parkway Plaza Strip Center)
 1826 Parkway Dr, Suite 500, Lubbock, TX, 79403-4421
@@ -2819,7 +2446,6 @@ PEBBLE VILLAGE SHOPPING CENTER10780 PEBBLE HILLS BLVD STE G1, EL PASO, TX, 79935
 🌐 http://chclubbock.org/
 🏥 Services: Primary Care
 📞 806-687-6259
-🗺 https://maps.google.com/?q=33.59349,-101.81434
 
 375. Arnett Benson Medical and Dental Clinic
 3301 Clovis Road, Lubbock, TX, 79415-2318
@@ -2827,14 +2453,12 @@ PEBBLE VILLAGE SHOPPING CENTER10780 PEBBLE HILLS BLVD STE G1, EL PASO, TX, 79935
 🌐 http://chclubbock.org/
 🏥 Services: Primary Care
 📞 806-763-5557
-🗺 https://maps.google.com/?q=33.61288,-101.88539
 
 376. CHCL West Medical and Dental Clinic
 2423 Williams Dr, Georgetown, TX, 78628-3200
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 806-765-2611
-🗺 https://maps.google.com/?q=33.57853,-101.93075
 
 377. CHCL 96 West
 2401 Fulton Ave. #B, Lubbock, TX, 79407
@@ -2842,14 +2466,12 @@ PEBBLE VILLAGE SHOPPING CENTER10780 PEBBLE HILLS BLVD STE G1, EL PASO, TX, 79935
 🌐 http://chclubbock.org/
 🏥 Services: Primary Care
 📞 806-765-2611
-🗺 https://maps.google.com/?q=33.57227,-101.94113
 
 378. Regence Health Network, Inc. RMDA - PCS
 410 Canyon St, Plainview, TX, 79072-7508
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 806-291-0297
-🗺 https://maps.google.com/?q=34.18367,-101.73858
 
 379. South Plains Rural Health Outreach Center
 1005 N   16th St, Lamesa, TX, 79331-3151
@@ -2857,7 +2479,6 @@ PEBBLE VILLAGE SHOPPING CENTER10780 PEBBLE HILLS BLVD STE G1, EL PASO, TX, 79935
 🌐 https://www.sprhs.org
 🏥 Services: Primary Care
 📞 806-872-6310
-🗺 https://maps.google.com/?q=32.74543,-101.96389
 
 380. South Plains Dental - Lamesa
 1502 N. Ave K  REAR, Lamesa, TX, 79331
@@ -2865,7 +2486,6 @@ PEBBLE VILLAGE SHOPPING CENTER10780 PEBBLE HILLS BLVD STE G1, EL PASO, TX, 79935
 🌐 https://www.sprhs.org
 🏥 Services: Primary Care
 📞 806-872-6310
-🗺 https://maps.google.com/?q=32.74483,-101.97004
 
 381. LAMESA PRIMARY CARE CLINIC
 1502 N Avenue K, Lamesa, TX, 79331-3040
@@ -2873,7 +2493,6 @@ PEBBLE VILLAGE SHOPPING CENTER10780 PEBBLE HILLS BLVD STE G1, EL PASO, TX, 79935
 🌐 https://www.sprhs.org
 🏥 Services: Primary Care
 📞 806-872-3069
-🗺 https://maps.google.com/?q=32.74342,-101.96616
 
 382. Howard County Community Health Center
 103 W 11th St, Big Spring, TX, 79720-2913
@@ -2881,7 +2500,6 @@ PEBBLE VILLAGE SHOPPING CENTER10780 PEBBLE HILLS BLVD STE G1, EL PASO, TX, 79935
 🌐 https://www.sprhs.org
 🏥 Services: Primary Care
 📞 432-517-4557
-🗺 https://maps.google.com/?q=32.24416,-101.47263
 
 383. Midland Community Healthcare Services, PBCC Sattelite Clinic
 401 E ILLINOIS AVE, MIDLAND, TX, 79701-4803
@@ -2889,7 +2507,6 @@ PEBBLE VILLAGE SHOPPING CENTER10780 PEBBLE HILLS BLVD STE G1, EL PASO, TX, 79935
 🌐 https://www.midlandchs.org
 🏥 Services: Primary Care
 📞 432-570-0238 x43257
-🗺 https://maps.google.com/?q=32.00007,-102.07047
 
 384. Su Clinica - Brownsville
 105 E Alton Gloor Blvd, Brownsville, TX, 78526-3391
@@ -2897,7 +2514,6 @@ PEBBLE VILLAGE SHOPPING CENTER10780 PEBBLE HILLS BLVD STE G1, EL PASO, TX, 79935
 🌐 https://www.suclinica.org
 🏥 Services: Primary Care
 📞 956-831-8338
-🗺 https://maps.google.com/?q=25.98045,-97.51420
 
 385. NEW HORIZON MEDICAL
 95 E Price Rd, Bldg D, Brownsville, TX, 78521-3565
@@ -2905,7 +2521,6 @@ PEBBLE VILLAGE SHOPPING CENTER10780 PEBBLE HILLS BLVD STE G1, EL PASO, TX, 79935
 🌐 https://www.ebchc.org
 🏥 Services: Primary Care
 📞 956-546-3209
-🗺 https://maps.google.com/?q=25.93285,-97.47066
 
 386. BROWNSVILLE COMMUNITY HEALTH CLINIC
 2137 E   22nd St, Brownsville, TX, 78521-2908
@@ -2913,7 +2528,6 @@ PEBBLE VILLAGE SHOPPING CENTER10780 PEBBLE HILLS BLVD STE G1, EL PASO, TX, 79935
 🌐 https://www.ebchc.org
 🏥 Services: Primary Care
 📞 956-548-7400
-🗺 https://maps.google.com/?q=25.90253,-97.47783
 
 387. Ahf - Houston Fannin
 7400 Fannin St, Houston, TX 77054-1920

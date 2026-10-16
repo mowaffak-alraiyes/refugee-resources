@@ -6,7 +6,6 @@
 🌐 https://www.hchmd.org
 🏥 Services: Primary Care, Health Care for the Homeless, Ryan White HIV/AIDS Program
 📞 410-837-5533
-🗺 https://maps.google.com/?q=39.29373,-76.60950
 
 2. WHRC clinic
 620 Fallsway, Baltimore, MD, 21202-4117
@@ -14,7 +13,6 @@
 🌐 https://www.hchmd.org
 🏥 Services: Primary Care
 📞 410-855-5533
-🗺 https://maps.google.com/?q=39.29741,-76.61037
 
 3. Paul Laurence Dunbar High School
 1400 Orleans St., Baltimore, MD, 21231-1021
@@ -22,7 +20,6 @@
 🌐 http://www.baltimorecityschools.org/Domain/4275
 🏥 Services: Primary Care
 📞 443-703-3219
-🗺 https://maps.google.com/?q=39.29531,-76.59873
 
 4. Chase Brexton Health Services, Inc. - Mt. Vernon Center
 1111 North Charles Street, Baltimore, MD, 21201-5505
@@ -30,7 +27,6 @@
 🌐 https://www.chasebrexton.org
 🏥 Services: Primary Care
 📞 410-837-2050
-🗺 https://maps.google.com/?q=39.30286,-76.61553
 
 5. East Baltimore Medical Center
 1000 E Eager St, Baltimore, MD, 21202-5533
@@ -38,7 +34,6 @@
 🌐 https://www.bmsi.org
 🏥 Services: Primary Care
 📞 410-522-9800
-🗺 https://maps.google.com/?q=39.30175,-76.60321
 
 6. AbsoluteCare Inc.
 1040 Park Ave Ste 200, Baltimore, MD, 21201-5634
@@ -46,14 +41,12 @@
 🌐 https://absolutecarehealth.com/baltimore/
 🏥 Services: Primary Care
 📞 443-738-0300
-🗺 https://maps.google.com/?q=39.30353,-76.61971
 
 7. Open Gates Health Center
 1111 WASHINGTON BLVD, BALTIMORE, MD, 21230-1824
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 410-383-8300
-🗺 https://maps.google.com/?q=39.28248,-76.63285
 
 8. Division Health Center
 1501 Division St, Baltimore, MD, 21217-3121
@@ -61,7 +54,6 @@
 🌐 http://www.totalhealthcare.org
 🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 410-383-8300
-🗺 https://maps.google.com/?q=39.30301,-76.63158
 
 9. TENCH TILGHMAN K-8 SCHOOL
 600 N Patterson Park Ave, Baltimore, MD, 21205-2447
@@ -69,7 +61,6 @@
 🌐 https://www.bmsi.org
 🏥 Services: Primary Care
 📞 443-703-3664
-🗺 https://maps.google.com/?q=39.29778,-76.58524
 
 10. COLLINGTON SQUARE K-8 SCHOOL
 1409 N Collington Ave, Baltimore, MD, 21213-3418
@@ -77,7 +68,6 @@
 🌐 https://www.bmsi.org
 🏥 Services: Primary Care
 📞 443-703-3930
-🗺 https://maps.google.com/?q=39.30746,-76.58697
 
 11. Harford Heights Schools
 1919 N. Broadway, Baltimore, MD, 21213-1432
@@ -85,7 +75,6 @@
 🌐 https://www.bmsi.org
 🏥 Services: Primary Care
 📞 443-703-3901
-🗺 https://maps.google.com/?q=39.31352,-76.59466
 
 12. Kirk Health Center
 2400 Kirk Ave, Baltimore, MD, 21218-5507
@@ -93,14 +82,12 @@
 🌐 http://www.totalhealthcare.org
 🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 410-383-8300
-🗺 https://maps.google.com/?q=39.31777,-76.60336
 
 13. Health Care for the Homeless, West Baltimore
 2000 W Baltimore St Ste 3300, Baltimore, MD, 21223-1558
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Health Care for the Homeless
 📞 443-703-1400
-🗺 https://maps.google.com/?q=39.28823,-76.64888
 
 🌐 http://www.hchmd.org
 
@@ -109,7 +96,6 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 410-383-8300
-🗺 https://maps.google.com/?q=39.28121,-76.65456
 
 15. BELAIR EDISON FAMILY HEALTH CTR
 3120 Erdman Ave, Baltimore, MD, 21213-1720
@@ -117,14 +103,12 @@
 🌐 https://www.bmsi.org
 🏥 Services: Primary Care
 📞 443-558-4800
-🗺 https://maps.google.com/?q=39.32114,-76.57254
 
 16. BMS at Yard 56
 5525 Eastern Avenue  STE 201, Baltimore, MD, 21224-2796
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 410-703-3600
-🗺 https://maps.google.com/?q=39.28719,-76.54891
 
 17. South Baltimore Health Center
 3540 S Hanover St., Baltimore, MD, 21225-1772
@@ -132,7 +116,6 @@
 🌐 https://totalhealthcare.org
 🏥 Services: Primary Care
 📞 410-383-8300
-🗺 https://maps.google.com/?q=39.23937,-76.60940
 
 18. BMS AT ST. AGNES
 900 S Caton Ave, Baltimore, MD, 21229-5201
@@ -140,7 +123,6 @@
 🌐 https://www.bmsi.org
 🏥 Services: Primary Care
 📞 443-703-3200
-🗺 https://maps.google.com/?q=39.27176,-76.67432
 
 19. Patterson Senior High School
 100 Kane St., Baltimore, MD, 21224-1726
@@ -148,7 +130,6 @@
 🌐 http://www.baltimorecityschools.org/Domain/3940
 🏥 Services: Primary Care
 📞 443-703-3604
-🗺 https://maps.google.com/?q=39.29260,-76.53642
 
 20. Vanguard Collegiate Middle School
 5001 Sinclair Ln, Baltimore, MD, 21206-5937
@@ -156,21 +137,18 @@
 🌐 https://www.bmsi.org
 🏥 Services: Primary Care
 📞 443-703-3635
-🗺 https://maps.google.com/?q=39.32088,-76.54543
 
 21. Forest Park High School
 3701 Eldorado Ave, Baltimore, MD, 21207-7658
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 443-703-3694
-🗺 https://maps.google.com/?q=39.33274,-76.68991
 
 22. PARK WEST MEDICAL CENTER - BELVEDERE
 3319 W Belvedere Ave, Baltimore, MD, 21215-5143
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🏥 Services: Ryan White HIV/AIDS Program; Primary Care; Migrant health center
 📞 410-542-7800 x7305
-🗺 https://maps.google.com/?q=39.34794,-76.67708
 
 23. Baltimore County Eastern Family Resource Center, Dental Clinic
 9150 Franklin Square Dr  FL 3rd, Rosedale, MD, 21237-3903
@@ -178,7 +156,6 @@
 🌐 https://www.hchmd.org
 🏥 Services: Primary Care
 📞 443-703-1468
-🗺 https://maps.google.com/?q=39.35445,-76.47458
 
 24. BMS at Rosedale
 9520 Philadelphia Rd, Rosedale, MD, 21237-4106
@@ -186,14 +163,12 @@
 🌐 https://bmsi.org
 🏥 Services: Primary Care
 📞 410-732-8800
-🗺 https://maps.google.com/?q=39.35581,-76.46266
 
 25. Chase Brexton Health Services, Inc. at Way Station, Inc.
 9030 State Route 108 STE A, Columbia, MD, 21045-1990
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 410-740-1901
-🗺 https://maps.google.com/?q=39.22801,-76.82414
 
 26. Howard County Health Department - WIC - Dental
 8930 Stanford Blvd, Columbia, MD, 21045-5805
@@ -201,7 +176,6 @@
 🌐 https://www.chasebrexton.org
 🏥 Services: Primary Care
 📞 410-752-0954
-🗺 https://maps.google.com/?q=39.19267,-76.81728
 
 27. Odenton Health Center
 2288 Blue Water Boulevard  STE 440 &amp; 470, Odenton, MD, 21113
@@ -209,56 +183,48 @@
 🌐 https://www.totalhealthcare.org
 🏥 Services: Primary Care
 📞 410-383-8300
-🗺 https://maps.google.com/?q=39.10014,-76.71814
 
 28. Bond Mill Elementary School
 16001 Sherwood Avenue, Laurel, MD, 20707-5437
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 301-497-3600
-🗺 https://maps.google.com/?q=39.10898,-76.89596
 
 29. Rock Hall Elementary School
 21203 West Sharp Street, Rock Hall, MD, 21661
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 410-479-4306
-🗺 https://maps.google.com/?q=39.13512,-76.23765
 
 30. High Point High School (SBMH)
 3601 Powder Mill Road, Beltsville, MD, 20705-3502
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 301-572-6400
-🗺 https://maps.google.com/?q=39.04244,-76.94387
 
 31. CCI-Ora Glen
 7615 Ora Glen Dr, Greenbelt, MD, 20770-3642
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 866-877-7258
-🗺 https://maps.google.com/?q=38.99057,-76.87462
 
 32. College Park
 10001 Rhode Island Ave, College Park, MD, 20740-1141
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 301-441-1605
-🗺 https://maps.google.com/?q=39.01769,-76.91994
 
 33. CCI-Greenway
 7474 Greenway Center Dr Ste 300, Greenbelt, MD, 20770-3504
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 301-340-7525
-🗺 https://maps.google.com/?q=38.99159,-76.88252
 
 34. EECH Mobile - 1
 10101 Martin Luther King Junior Highway, Lanham, MD, 20706-4316
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 202-803-2340
-🗺 https://maps.google.com/?q=38.95487,-76.83013
 
 35. Mary's Center - Adelphi MD
 8908 Riggs Rd, Hyattsville, MD, 20783-1632
@@ -266,28 +232,24 @@
 🌐 http://www.maryscenter.org
 🏥 Services: Primary Care
 📞 202-483-8196
-🗺 https://maps.google.com/?q=39.00170,-76.97374
 
 36. University Park Elementary School
 4315 Underwood Street, University Park, MD, 20782-1199
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 301-985-1898
-🗺 https://maps.google.com/?q=38.97072,-76.94294
 
 37. Northwestern High School
 7000 Adelphi Rd, Hyattsville, MD, 20782-1454
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 301-985-1820
-🗺 https://maps.google.com/?q=38.97508,-76.95496
 
 38. Mary's Center - Silver Spring MD
 344 University Blvd W, Silver Spring, MD, 20901-1948
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 202-483-8196
-🗺 https://maps.google.com/?q=39.02430,-77.01935
 
 39. CCI-Takoma Park
 7676 New Hampshire Avenue STE 200, Takoma Park, MD, 20912-7514
@@ -295,14 +257,12 @@
 🌐 https://www.ccicares.org
 🏥 Services: Primary Care
 📞 866-877-7258
-🗺 https://maps.google.com/?q=38.98745,-76.98801
 
 40. Choptank Mobile Van #3
 601 High St, Chestertown, MD, 21620-1124
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 443-215-5353
-🗺 https://maps.google.com/?q=39.21254,-76.07210
 
 41. CCI-Wheaton
 2730 University Blvd W Ste ll10, Wheaton, MD, 20902-1905
@@ -310,14 +270,12 @@
 🌐 https://www.cciweb.org
 🏥 Services: Primary Care
 📞 866-877-7258
-🗺 https://maps.google.com/?q=39.03922,-77.05593
 
 42. Chestertown Health Center
 126 Philosophers Ter, Chestertown, MD, 21620-1612
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 410-479-4306
-🗺 https://maps.google.com/?q=39.21294,-76.06471
 
 43. CCI-Silver Spring Pharmacy
 8630 Fenton St, Suite 1106, Silver Spring, MD, 20910-3836
@@ -325,7 +283,6 @@
 🌐 https://www.ccicares.org
 🏥 Services: Primary Care
 📞 866-877-7258
-🗺 https://maps.google.com/?q=38.99792,-77.02850
 
 44. Owensville Primary Care, Inc.
 134 Owensville Rd, West River, MD, 20778-9998
@@ -333,7 +290,6 @@
 🌐 https://www.owensvillepc.org
 🏥 Services: Primary Care
 📞 410-867-4700
-🗺 https://maps.google.com/?q=38.84995,-76.59862
 
 45. CCI-Rockville
 2 Taft Ct, Rockville, MD, 20850-1390
@@ -341,14 +297,12 @@
 🌐 https://www.cciweb.org
 🏥 Services: Primary Care
 📞 866-877-7258
-🗺 https://maps.google.com/?q=39.09391,-77.13037
 
 46. FMCS-Seat Pleasant
 5936 Martin Luther King Jr Hwy, Capitol Heights, MD, 20743-1757
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 202-889-7900
-🗺 https://maps.google.com/?q=38.89819,-76.90527
 
 47. CCI-Gaithersburg
 220 Girard St Ste 100, Gaithersburg, MD, 20877-3467
@@ -356,7 +310,6 @@
 🌐 https://www.ccicares.org
 🏥 Services: Primary Care
 📞 866-877-7258
-🗺 https://maps.google.com/?q=39.14166,-77.18333
 
 48. Greater Baden Medical Service at Capitol Heights II
 1442 Addison Rd S, Capitol Heights, MD, 20743-4413
@@ -364,7 +317,6 @@
 🌐 https://www.gbms.org
 🏥 Services: Primary Care
 📞 301-324-1500
-🗺 https://maps.google.com/?q=38.86943,-76.89289
 
 49. MobileMed Gatihersburg/Ascension House Van
 202 S Summit Ave, Gaithersburg, MD, 20877-2316
@@ -372,14 +324,12 @@
 🌐 https://mobilemedicalcare.org
 🏥 Services: Primary Care
 📞 301-493-2400
-🗺 https://maps.google.com/?q=39.13742,-77.19458
 
 50. Queen Annes County High School
 125 Ruthsburg Rd, Centreville, MD, 21617-2095
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 410-479-5772
-🗺 https://maps.google.com/?q=39.03724,-76.05317
 
 51. Church Hill Elementary School
 631 Main St, Church Hill, MD, 21623-1201
@@ -387,7 +337,6 @@
 🌐 https://choptankhealth.org
 🏥 Services: Primary Care
 📞 410-479-4306
-🗺 https://maps.google.com/?q=39.14736,-75.98054
 
 52. MobileMed Germantown Clinic
 19735 Germantown Rd, Germantown, MD, 20874-1214
@@ -395,7 +344,6 @@
 🌐 https://mobilemedicalcare.org
 🏥 Services: Primary Care
 📞 301-634-9600
-🗺 https://maps.google.com/?q=39.17965,-77.26422
 
 53. Mobile Medical Outreach Van
 49 Rock Springs Rd, Conowingo, MD, 21918-1352
@@ -403,7 +351,6 @@
 🌐 https://www.westcecilhealth.org
 🏥 Services: Primary Care
 📞 410-378-9696
-🗺 https://maps.google.com/?q=39.67852,-76.16226
 
 54. ANGELICA NURSERY MIGRANT CAMP
 11365 Locust Grove Rd, Kennedyville, MD, 21645-3627
@@ -411,7 +358,6 @@
 🌐 https://www.choptankhealth.org
 🏥 Services: Primary Care
 📞 410-479-4306
-🗺 https://maps.google.com/?q=39.28916,-75.92440
 
 55. SEW FRIEL MIGRANT CAMP
 GRANGE HALL ROAD, QUEENSTOWN, MD, 21658
@@ -419,21 +365,18 @@ GRANGE HALL ROAD, QUEENSTOWN, MD, 21658
 🌐 https://www.choptankhealth.org
 🏥 Services: Primary Care
 📞 410-479-4306
-🗺 https://maps.google.com/?q=38.95641,-76.07281
 
 56. Greater Baden Medical Services at Oxon Hill WIC program
 6196 Oxon Hill Road, Oxon Hill, MD, 20745-3100
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 301-888-2233
-🗺 https://maps.google.com/?q=38.80351,-76.98270
 
 57. Sudlersville Elementary School
 300 S Church St, Sudlersville, MD, 21668-1503
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 410-479-4306
-🗺 https://maps.google.com/?q=39.18361,-75.85893
 
 58. St. Michaels Elementary
 100 Seymour Ave, St. Michaels, MD, 21663-2930
@@ -441,7 +384,6 @@ GRANGE HALL ROAD, QUEENSTOWN, MD, 21658
 🌐 https://www.choptankhealth.org
 🏥 Services: Primary Care
 📞 410-745-2882
-🗺 https://maps.google.com/?q=38.78086,-76.21807
 
 59. St. Michaels Middle/High School
 200 Seymour Ave, St. Michaels, MD, 21663-2932
@@ -449,7 +391,6 @@ GRANGE HALL ROAD, QUEENSTOWN, MD, 21658
 🌐 https://www.choptankhealth.org
 🏥 Services: Primary Care
 📞 410-745-2852
-🗺 https://maps.google.com/?q=38.78021,-76.21921
 
 60. Bay Hundred Medical and Dental Center
 933 S Talbot St, Saint Michaels, MD, 21663-2604
@@ -457,14 +398,12 @@ GRANGE HALL ROAD, QUEENSTOWN, MD, 21658
 🌐 https://www.choptankhealth.org
 🏥 Services: Primary Care
 📞 410-745-0200
-🗺 https://maps.google.com/?q=38.77694,-76.21581
 
 61. Mobile Unit
 111 Airport Dr E, Frederick, MD, 21701-3152
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 301-600-1393
-🗺 https://maps.google.com/?q=39.40741,-77.37746
 
 62. Easton Elementary School
 307 Glenwood Ave, Easton, MD, 21601-4104
@@ -472,7 +411,6 @@ GRANGE HALL ROAD, QUEENSTOWN, MD, 21658
 🌐 https://www.choptankhealth.org
 🏥 Services: Primary Care
 📞 410-822-0680
-🗺 https://maps.google.com/?q=38.77466,-76.08605
 
 63. Women, Infants, and Children (WIC) Talbot County
 215 Bay St, Easton, MD, 21601-2782
@@ -480,7 +418,6 @@ GRANGE HALL ROAD, QUEENSTOWN, MD, 21658
 🌐 https://www.choptankhealth.org
 🏥 Services: Primary Care
 📞 410-479-8060
-🗺 https://maps.google.com/?q=38.77820,-76.08032
 
 64. RIDGELY ELEMENTARY SCHOOL
 118 N Central Ave, Ridgely, MD, 21660-1345
@@ -488,7 +425,6 @@ GRANGE HALL ROAD, QUEENSTOWN, MD, 21658
 🌐 https://www.choptankhealth.org
 🏥 Services: Primary Care
 📞 410-634-2105
-🗺 https://maps.google.com/?q=38.95263,-75.88399
 
 65. Hillcrest Elementary School - School-Based Health Center
 1285 HILLCREST DR, FREDERICK, MD, 21703-1396
@@ -496,21 +432,18 @@ GRANGE HALL ROAD, QUEENSTOWN, MD, 21658
 🌐 https://www.cityoffrederick.com/fcaa
 🏥 Services: Primary Care
 📞 301-600-3275
-🗺 https://maps.google.com/?q=39.41085,-77.45066
 
 66. Waverly Elementary School
 201 Waverley Dr, Frederick, MD, 21702-3802
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 227-203-1160
-🗺 https://maps.google.com/?q=39.42763,-77.46109
 
 67. West Cecil Health Center-Cecil County Health Department
 401 Bow St, Elkton, MD, 21921-5501
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 410-378-9696
-🗺 https://maps.google.com/?q=39.61160,-75.83203
 
 68. GOLDSBORO MEDICAL and DENTAL CENTER
 316 Railroad Ave, Goldsboro, MD, 21636
@@ -518,7 +451,6 @@ GRANGE HALL ROAD, QUEENSTOWN, MD, 21658
 🌐 https://www.choptankhealth.org
 🏥 Services: Primary Care
 📞 410-634-2380
-🗺 https://maps.google.com/?q=39.03525,-75.78513
 
 69. LOCKERMAN MIDDLE SCHOOL
 410 Lockerman St, Denton, MD, 21629-1048
@@ -526,7 +458,6 @@ GRANGE HALL ROAD, QUEENSTOWN, MD, 21658
 🌐 https://www.choptankhealth.org
 🏥 Services: Primary Care
 📞 410-479-3277
-🗺 https://maps.google.com/?q=38.89059,-75.82817
 
 70. Migrant Camps on Upper Eastern Shore (15 Camps)
 301 Randolph St, Denton, MD, 21629-1243
@@ -534,21 +465,18 @@ GRANGE HALL ROAD, QUEENSTOWN, MD, 21658
 🌐 https://www.choptankhealth.org
 🏥 Services: Primary Care
 📞 410-479-4306
-🗺 https://maps.google.com/?q=38.88465,-75.83198
 
 71. Greater Baden Medical Service at Bryans Road
 8030 Matthews Road  UNIT 105-107, Bryans Road, MD, 20616
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 301-888-2233
-🗺 https://maps.google.com/?q=38.63170,-77.06517
 
 72. White Marsh Elementary School
 4322 Lovers Ln, Trappe, MD, 21673-1866
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 410-479-4306
-🗺 https://maps.google.com/?q=38.66837,-76.06722
 
 73. COLONEL RICHARDSON MIDDLE SCHOOL
 25390 Richardson Rd, Federalsburg, MD, 21632-2403
@@ -556,7 +484,6 @@ GRANGE HALL ROAD, QUEENSTOWN, MD, 21658
 🌐 https://www.choptankhealth.org
 🏥 Services: Primary Care
 📞 410-754-5854
-🗺 https://maps.google.com/?q=38.75482,-75.82560
 
 74. St. Clair Head Start Center
 824 Fairmount Ave, Cambridge, MD, 21613-2113
@@ -564,7 +491,6 @@ GRANGE HALL ROAD, QUEENSTOWN, MD, 21658
 🌐 https://www.choptankhealth.org
 🏥 Services: Primary Care
 📞 410-901-2015
-🗺 https://maps.google.com/?q=38.56822,-76.08500
 
 75. Federalsburg Health Center
 320 Hargraves Dr, Federalsburg, MD, 21632
@@ -572,7 +498,6 @@ GRANGE HALL ROAD, QUEENSTOWN, MD, 21658
 🌐 https://choptankhealth.org
 🏥 Services: Primary Care
 📞 410-754-9021
-🗺 https://maps.google.com/?q=38.69903,-75.78649
 
 76. FEDERALSBURG ELEMENTARY SCHOOL
 302 ACADEMY ST, FEDERALSBURG, MD, 21632-1205
@@ -580,7 +505,6 @@ GRANGE HALL ROAD, QUEENSTOWN, MD, 21658
 🌐 https://www.choptankhealth.org
 🏥 Services: Primary Care
 📞 410-754-5722
-🗺 https://maps.google.com/?q=38.69130,-75.77617
 
 77. Hurlock Head Start Center
 6210 Shiloh Church Road, Hurlock, MD, 21643-3933
@@ -588,14 +512,12 @@ GRANGE HALL ROAD, QUEENSTOWN, MD, 21658
 🌐 https://www.choptankhealth.org
 🏥 Services: Primary Care
 📞 410-943-1036
-🗺 https://maps.google.com/?q=38.62016,-75.86031
 
 78. FHH Behavioral Health Clinic - RAMPS
 1311 Yale Dr, Hagerstown, MD, 21742-6546
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 301-745-3777
-🗺 https://maps.google.com/?q=39.62288,-77.69134
 
 79. Walnut Street Community Health Center, Inc. D/B/A Family Healthcare of Hagerstown
 201 S Cleveland Ave, Hagerstown, MD, 21740-5745
@@ -603,7 +525,6 @@ GRANGE HALL ROAD, QUEENSTOWN, MD, 21658
 🌐 https://www.familyhch.org
 🏥 Services: Primary Care
 📞 301-745-3777
-🗺 https://maps.google.com/?q=39.63606,-77.71131
 
 80. Greater Baden Medical Service Dental at Lexington Park
 21921 Three Notch Rd, Lexington Park, MD, 20653-1599
@@ -611,7 +532,6 @@ GRANGE HALL ROAD, QUEENSTOWN, MD, 21658
 🌐 https://www.gbms.org
 🏥 Services: Primary Care
 📞 301-836-9645
-🗺 https://maps.google.com/?q=38.26936,-76.45966
 
 81. CHC - Riverside BH
 560 Riverside Drive, Suite A204, Salisbury, MD, 21801
@@ -619,7 +539,6 @@ GRANGE HALL ROAD, QUEENSTOWN, MD, 21658
 🌐 https://chesapeakehc.org
 🏥 Services: Primary Care
 📞 443-358-6193
-🗺 https://maps.google.com/?q=38.36114,-75.60796
 
 82. TidalHealth
 100 E CARROLL ST, SALISBURY, MD, 21801-5422
@@ -627,14 +546,12 @@ GRANGE HALL ROAD, QUEENSTOWN, MD, 21658
 🌐 https://www.tidalhealth.org
 🏥 Services: Primary Care
 📞 410-546-6400
-🗺 https://maps.google.com/?q=38.36219,-75.59772
 
 83. CHC - SBHC - East SBY
 1201 Old Ocean City Rd, Salisbury, MD, 21804-4560
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 443-754-1675
-🗺 https://maps.google.com/?q=38.37414,-75.57446
 
 84. CHC - HWD BH
 1104 HEALTHWAY DR, SALISBURY, MD, 21804-4469
@@ -642,21 +559,18 @@ GRANGE HALL ROAD, QUEENSTOWN, MD, 21658
 🌐 https://chesapeakehc.org
 🏥 Services: Primary Care
 📞 410-219-1100
-🗺 https://maps.google.com/?q=38.36986,-75.57893
 
 85. CHC - Power Street
 100 Power St, Salisbury, MD, 21804-6940
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 410-749-1022
-🗺 https://maps.google.com/?q=38.33989,-75.60003
 
 86. CHC - South Division
 1340 S Division St, Ste 301, Salisbury, MD, 21804-7095
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 410-749-1015
-🗺 https://maps.google.com/?q=38.33732,-75.59956
 
 87. CHC - PMD Peds
 223 Phillip Morris Dr, Salisbury, MD, 21804-1923
@@ -664,7 +578,6 @@ GRANGE HALL ROAD, QUEENSTOWN, MD, 21658
 🌐 https://chesapeakehc.org
 🏥 Services: Primary Care
 📞 410-548-1747
-🗺 https://maps.google.com/?q=38.36700,-75.55385
 
 88. CHC - Salisbury Dental
 1615 Tree Sap Ct Ste A, Salisbury, MD, 21804-9403
@@ -672,7 +585,6 @@ GRANGE HALL ROAD, QUEENSTOWN, MD, 21658
 🌐 https://chesapeakehc.org
 🏥 Services: Primary Care
 📞 443-944-9600
-🗺 https://maps.google.com/?q=38.36435,-75.55413
 
 89. CHC - Woodbrooke Adult
 1665 Woodbrooke Dr, Salisbury, MD, 21804
@@ -680,14 +592,12 @@ GRANGE HALL ROAD, QUEENSTOWN, MD, 21658
 🌐 https://chesapeakehc.org
 🏥 Services: Primary Care
 📞 410-546-6650
-🗺 https://maps.google.com/?q=38.36342,-75.55153
 
 90. CHC - Winterplace
 31413 Winterplace Pkwy, Salisbury, MD, 21804-1877
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 410-860-0100
-🗺 https://maps.google.com/?q=38.37317,-75.52437
 
 91. TRI-STATE COMMUNITY HEALTH CENTER, INC.
 130 W High St, Hancock, MD, 21750-1143
@@ -695,7 +605,6 @@ GRANGE HALL ROAD, QUEENSTOWN, MD, 21658
 🌐 https://www.tschc.com
 🏥 Services: Primary Care
 📞 301-678-7256
-🗺 https://maps.google.com/?q=39.70087,-78.18271
 
 92. CHC - PA Pharmacy
 12137 Elm St, Princess Anne, MD, 21853-1358
@@ -703,7 +612,6 @@ GRANGE HALL ROAD, QUEENSTOWN, MD, 21658
 🌐 https://chesapeakehc.org
 🏥 Services: Primary Care
 📞 410-651-1000
-🗺 https://maps.google.com/?q=38.21467,-75.69828
 
 93. CHC - PA 2 Story
 12145 Elm St, Princess Anne, MD, 21853-1358
@@ -711,21 +619,18 @@ GRANGE HALL ROAD, QUEENSTOWN, MD, 21658
 🌐 https://chesapeakehc.org/
 🏥 Services: Primary Care
 📞 410-651-1000
-🗺 https://maps.google.com/?q=38.21500,-75.69742
 
 94. CHC - SBHC - WHS
 10902 Old Princess Anne Rd, Princess Anne, MD, 21853-2940
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 410-651-4040
-🗺 https://maps.google.com/?q=38.18083,-75.68697
 
 95. Fair Hill Community Physicians- Northeastern
 1320 Yale Dr, Hagerstown, MD, 21742-6505
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 215-926-3535
-🗺 https://maps.google.com/?q=39.98986,-75.10594
 
 96. Johns Hopkins ViSION (Vision Screening in Our Neighborhoods)
 Wilmer Eye Institute, 600 N. Wolfe St, Baltimore, MD 21287

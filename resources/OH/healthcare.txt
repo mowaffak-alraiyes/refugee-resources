@@ -6,7 +6,6 @@
 🌐 http://www.southeastinc.com/
 🏥 Services: Primary Care, Ryan White HIV/AIDS Program
 📞 614-225-0990
-🗺 https://maps.google.com/?q=39.96507,-83.00176
 
 2. Health Center at Faith Mission
 245 N Grant Ave, Columbus, OH, 43215-2641
@@ -14,14 +13,12 @@
 🌐 https://www.lssnetworkofhope.org
 🏥 Services: Primary Care; Health Care for the Homeless
 📞 614-224-0747
-🗺 https://maps.google.com/?q=39.96842,-82.99229
 
 3. Franklin Station Health Center
 524 W BROAD ST, COLUMBUS, OH, 43215-2775
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 614-225-0980
-🗺 https://maps.google.com/?q=39.96066,-83.01466
 
 4. PrimaryOne Health 240 Parsons Avenue, Suite 233
 240 Parsons Ave, Columbus, OH, 43215-5331
@@ -29,7 +26,6 @@
 🌐 https://www.primaryonehealth.org
 🏥 Services: Primary Care, Ryan White HIV/AIDS Program
 📞 614-645-5500
-🗺 https://maps.google.com/?q=39.95933,-82.98083
 
 5. Equitas Health Pharmacy King Lincoln
 736 E Long St, Columbus, OH, 43203-1845
@@ -37,14 +33,12 @@
 🌐 https://www.equitashealth.com
 🏥 Services: Primary Care
 📞 614-300-2334
-🗺 https://maps.google.com/?q=39.96729,-82.98131
 
 6. Equitas Health Mobile #1
 750 E Long St, Columbus, OH, 43203-1846
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 614-340-6700
-🗺 https://maps.google.com/?q=39.96757,-82.98120
 
 7. The Nursing Center for Family Health
 777 W State St STE 201, Columbus, OH, 43222-1523
@@ -52,14 +46,12 @@
 🌐 https://www.llchc.org
 🏥 Services: Primary Care
 📞 614-274-1455
-🗺 https://maps.google.com/?q=39.95773,-83.02089
 
 8. FOH Men's Shelter- Dental Site
 924 E Main St, Columbus, OH, 43205-2338
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Dental
 📞 614-360-0251
-🗺 https://maps.google.com/?q=39.95799,-82.97482
 
 9. Equitas Health Short North
 1033 N High St, Columbus, OH, 43201-2409
@@ -67,28 +59,24 @@
 🌐 https://www.equitashealth.com
 🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 614-340-6777
-🗺 https://maps.google.com/?q=39.98353,-83.00512
 
 10. German Village
 1560 S HIGH ST, COLUMBUS, OH, 43207-1803
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 614-274-1455
-🗺 https://maps.google.com/?q=39.93018,-82.99526
 
 11. OSU Total Health Care Center Outpatient Care East
 543 Taylor Avenue  FL 2, Columbus, OH, 43203-1278
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 614-688-6490
-🗺 https://maps.google.com/?q=39.97860,-82.96093
 
 12. PrimaryOne Health Mobile Health Center East
 1180 E. Main Street E. Main Street, Columbus, OH, 43205
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 614-645-5535
-🗺 https://maps.google.com/?q=39.95736,-82.94289
 
 13. PrimaryOne Health 1500 East 17th Avenue
 1500 E   17th Ave, Columbus, OH, 43219-1002
@@ -96,7 +84,6 @@
 🌐 https://www.primaryonehealth.org
 🏥 Services: Primary Care
 📞 614-645-2700
-🗺 https://maps.google.com/?q=40.00067,-82.96791
 
 14. PrimaryOne Health 2300 West Broad Street
 2300 W Broad St, Columbus, OH, 43204-3783
@@ -104,7 +91,6 @@
 🌐 https://www.primaryonehealth.org
 🏥 Services: Primary Care
 📞 614-645-2300
-🗺 https://maps.google.com/?q=39.95572,-83.06163
 
 15. Lower Lights Linden
 2028 Cleveland Ave, Columbus, OH, 43211-2214
@@ -112,21 +98,18 @@
 🌐 https://llchc.org
 🏥 Services: Primary Care
 📞 614-274-1455
-🗺 https://maps.google.com/?q=40.00787,-82.97065
 
 16. PrimaryOne Health 1751 Alum Creek Drive
 1751 Alum Creek Dr, Columbus, OH, 43207
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 614-526-5420
-🗺 https://maps.google.com/?q=39.93083,-82.94236
 
 17. Columbus Neighborhood Health Center, . – 3480 Refugee Rd
 3480 Refugee Rd, Columbus, OH, 43232-4814
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 614-705-6981
-🗺 https://maps.google.com/?q=39.91879,-82.90791
 
 18. Capital Park Family Health Center at Innis Road
 2365 Innis Rd, Columbus, OH, 43224-3730
@@ -134,7 +117,6 @@
 🌐 https://www.heartofohiofamilyhealth.org
 🏥 Services: Primary Care
 📞 614-416-4325
-🗺 https://maps.google.com/?q=40.03684,-82.95174
 
 19. PrimaryOne Health 3433 Agler Road
 3433 AGLER RD STE 2800, COLUMBUS, OH, 43219-3389
@@ -142,7 +124,6 @@
 🌐 https://www.primaryonehealth.org
 🏥 Services: Primary Care
 📞 614-645-1600
-🗺 https://maps.google.com/?q=40.01968,-82.91980
 
 20. Heart of Ohio Family Health at Whitehall Yearling
 561 S Yearling Rd, Columbus, OH, 43213-2894
@@ -150,21 +131,18 @@
 🌐 https://www.heartofohiofamilyhealth.org/
 🏥 Services: Primary Care
 📞 614-235-5555
-🗺 https://maps.google.com/?q=39.96214,-82.88653
 
 21. Southeast, Inc. - Vista Village Health Center Site
 3869 Soldier St, Columbus, OH, 43232-4980
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 614-225-0990
-🗺 https://maps.google.com/?q=39.91523,-82.89521
 
 22. OSU Total Health Care Center Ohio Deaf and Blind Education Services
 500 Morse Rd, Columbus, OH, 43214-1833
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 614-685-9994
-🗺 https://maps.google.com/?q=40.06464,-83.00525
 
 23. Heart of Ohio Family Health at Canal Winchester
 3601 Gender Rd, Canal Winchester, OH, 43110-9739
@@ -172,28 +150,24 @@
 🌐 https://www.heartofohiofamilyhealth.org
 🏥 Services: Primary Care
 📞 614-235-5555
-🗺 https://maps.google.com/?q=39.90780,-82.82507
 
 24. Lower Lights Health Northland
 3000 Corporate Exchange Dr, Floor 5, Columbus, OH, 43231-7689
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 614-274-1455
-🗺 https://maps.google.com/?q=40.10300,-82.94098
 
 25. Reynoldsburg Clinic
 7335 East Livingston Avenue, Reynoldsburg, OH, 43068-3089
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 614-328-9200
-🗺 https://maps.google.com/?q=39.94475,-82.79704
 
 26. Southeast, Inc. - Delaware Health Center
 824 Bowtown Rd, Delaware, OH, 43015-9661
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 740-695-7795
-🗺 https://maps.google.com/?q=40.29691,-83.04019
 
 27. Rocking Horse Center - Madison County
 212 N MAIN ST, LONDON, OH, 43140-1115
@@ -201,28 +175,24 @@
 🌐 https://www.rockinghorsecenter.org
 🏥 Services: Primary Care
 📞 740-845-7286
-🗺 https://maps.google.com/?q=39.89418,-83.45427
 
 28. School Based Health Center-Amanda
 328 East Main Street  RM 2303, Amanda, OH, 43102-9330
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 740-969-7250
-🗺 https://maps.google.com/?q=39.64968,-82.73495
 
 29. FCHC Medical Mobile Clinic
 220 E Walnut St, Lancaster, OH, 43130-4464
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 740-277-6043
-🗺 https://maps.google.com/?q=39.71078,-82.59806
 
 30. Centerburg Health Center
 3782 Columbus Rd, Centerburg, OH, 43011-9475
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 740-399-8008
-🗺 https://maps.google.com/?q=40.29517,-82.70607
 
 31. Lower Lights Health Newark
 69 S Terrace Ave, Newark, OH, 43055
@@ -230,21 +200,18 @@
 🌐 https://lowerlightshealth.org
 🏥 Services: Primary Care
 📞 614-274-1455
-🗺 https://maps.google.com/?q=40.04342,-82.46028
 
 32. Behavioral Health of Mount Vernon Health Center
 206 S Mulberry St Ste C, Mount Vernon, OH, 43050-3331
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 740-399-8008
-🗺 https://maps.google.com/?q=40.39140,-82.48684
 
 33. KCCHC Walk-In Clinic
 207 W High St STE A, Mount Vernon, OH, 43050-2427
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 740-399-8008
-🗺 https://maps.google.com/?q=40.39403,-82.48830
 
 34. Hopewell Health Centers - Logan
 30381 Chieftain Dr, Logan, OH, 43138-9092
@@ -252,21 +219,18 @@
 🌐 https://www.hopewellhealth.org
 🏥 Services: Primary Care
 📞 740-385-2555
-🗺 https://maps.google.com/?q=39.55445,-82.45515
 
 35. Southeast, Inc. - Mt. Gilead Heatlh Center
 950 Meadow Dr.  STE D, Mount Gilead, OH, 43338-1389
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 419-949-2000
-🗺 https://maps.google.com/?q=40.54731,-82.84808
 
 36. Morrow Family Health Center
 76 S Main St, Mount Gilead, OH, 43338-1471
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 419-751-9010
-🗺 https://maps.google.com/?q=40.54703,-82.82862
 
 37. Urbana Community Health Center
 605 Miami St.  STE 100, Urbana, OH, 43078-1907
@@ -274,21 +238,18 @@
 🌐 https://www.chwpcares.org
 🏥 Services: Primary Care
 📞 937-599-1411
-🗺 https://maps.google.com/?q=40.10822,-83.75928
 
 38. Community Counseling and Wellness Centers-Marion
 320 Executive Dr, Marion, OH, 43302-6310
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 740-387-5210
-🗺 https://maps.google.com/?q=40.56964,-83.12922
 
 39. Center Street Community Clinic, Inc.
 125 Executive Dr, Ste 201, Marion, OH, 43302-6302
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 740-751-6380
-🗺 https://maps.google.com/?q=40.57039,-83.12532
 
 40. Chillicothe Dental
 624 Central Avenue, Chillicothe, OH, 45601-2248
@@ -296,7 +257,6 @@
 🌐 https://www.hopewellhealth.org
 🏥 Services: Primary Care
 📞 740-851-5575
-🗺 https://maps.google.com/?q=39.33601,-83.00092
 
 41. Rocking Horse Center - Mulberry Terrace
 120 W Mulberry St, Springfield, OH, 45506-1666
@@ -304,7 +264,6 @@
 🌐 https://www.rockinghorsecenter.org
 🏥 Services: Primary Care
 📞 937-328-7264
-🗺 https://maps.google.com/?q=39.92013,-83.81344
 
 42. Logan Hocking Middle School Behavioral Health Clinic
 13579 Maysville-Williams Road  OFC 287, Logan, OH, 43138-8971
@@ -312,7 +271,6 @@
 🌐 https://www.hopewellhealth.org
 🏥 Services: Primary Care
 📞 740-541-7468
-🗺 https://maps.google.com/?q=39.52820,-82.36890
 
 43. Community Health & Wellness Partners - Mobile Health Unit 1
 4879 US Highway 68 S, West Liberty, OH, 43357-9525
@@ -320,7 +278,6 @@
 🌐 https://www.CHWPcares.org
 🏥 Services: Primary Care
 📞 937-599-1411
-🗺 https://maps.google.com/?q=40.29176,-83.75981
 
 44. Highland Health Providers - Greenfield Medical Services
 1092 Jefferson St, Greenfield, OH, 45123-8319
@@ -328,14 +285,12 @@
 🌐 http://www.hhproviders.org
 🏥 Services: Primary Care
 📞 937-981-1121
-🗺 https://maps.google.com/?q=39.34773,-83.39949
 
 45. Muskingum Valley Health Centers - Mobile 2
 2725 Pinkerton Ln, Zanesville, OH, 43701-1513
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 740-891-9000
-🗺 https://maps.google.com/?q=39.89661,-82.04947
 
 46. Knox County Dental
 706 S Market St, Danville, OH, 43014
@@ -343,35 +298,30 @@
 🌐 https://www.knoxhealth.com
 🏥 Services: Primary Care
 📞 740-399-8008
-🗺 https://maps.google.com/?q=40.44360,-82.26043
 
 47. Muskingum Valley Health Center - Zane Grey Intermediate
 968 Pine Street  STE 75, Zanesville, OH, 43701-5362
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 740-891-9000
-🗺 https://maps.google.com/?q=39.92406,-82.01572
 
 48. Highland Health Providers-Leesburg Family Medicine
 11613 State Route 771, Leesburg, OH, 45135-8601
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 937-393-5062
-🗺 https://maps.google.com/?q=39.32755,-83.54333
 
 49. Five Rivers Xenia Campus
 34 S Allison Ave, Xenia, OH, 45385-3622
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 937-281-6800
-🗺 https://maps.google.com/?q=39.68319,-83.94377
 
 50. Galion Family Health
 126 Harding Way E, Galion, OH, 44833-1901
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 740-751-6614
-🗺 https://maps.google.com/?q=40.73401,-82.78830
 
 51. Nelsonville School-Based Health Clinic
 4 Buckeye Dr Ste E302, Nelsonville, OH, 45764-9591
@@ -379,7 +329,6 @@
 🌐 https://www.hopewellhealth.org
 🏥 Services: Primary Care
 📞 740-797-2352
-🗺 https://maps.google.com/?q=39.46440,-82.18798
 
 52. Tri-County Career Center School Behavioral Health Clinic
 15676 State Route 691  STE H, Nelsonville, OH, 45764
@@ -387,7 +336,6 @@
 🌐 https://www.hopewellhealth.org
 🏥 Services: Primary Care
 📞 740-517-5886
-🗺 https://maps.google.com/?q=39.43357,-82.21239
 
 53. Vinton County Middle School Behavioral Health Clinic
 63780 Locker Plant Road  OFC A100G, McArthur, OH, 45651-8000
@@ -395,14 +343,12 @@
 🌐 https://www.hopewellhealth.org
 🏥 Services: Primary Care
 📞 740-596-5243 x1011
-🗺 https://maps.google.com/?q=39.25197,-82.49532
 
 54. Valley View 23 North
 13800 US Highway 23, Waverly, OH, 45690-9402
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 740-947-2480
-🗺 https://maps.google.com/?q=39.14441,-82.97660
 
 55. HealthSource Wilmington
 140 W Main St, Wilmington, OH, 45177-2239
@@ -410,7 +356,6 @@
 🌐 https://www.healthsourceofohio.com
 🏥 Services: Primary Care
 📞 937-481-2930
-🗺 https://maps.google.com/?q=39.44537,-83.83109
 
 56. Wildcat Health Center
 751 Wildcat Way  RM 115, Kenton, OH, 43326
@@ -418,7 +363,6 @@
 🌐 https://www.hpwohio.org
 🏥 Services: Primary Care
 📞 419-673-1286
-🗺 https://maps.google.com/?q=40.66390,-83.59279
 
 57. Trimble High School Behavioral Health Clinic
 1 Tomcat Drive  OFC 230, Glouster, OH, 45732-9335
@@ -426,7 +370,6 @@
 🌐 https://www.hopewellhealth.org
 🏥 Services: Primary Care
 📞 740-517-4946
-🗺 https://maps.google.com/?q=39.49869,-82.08818
 
 58. FAMILY HEALTH -WAVERLY
 227 Valley View Dr, Waverly, OH, 45690-9135
@@ -434,7 +377,6 @@
 🌐 https://www.pikecac.org
 🏥 Services: Primary Care
 📞 740-947-7726
-🗺 https://maps.google.com/?q=39.11733,-83.00430
 
 59. Mobile Medical & Dental Unit
 2903 Park Avenue West, Mansfield, OH, 44906
@@ -442,7 +384,6 @@
 🌐 http://thirdstreetfamily.org/
 🏥 Services: Primary Care
 📞 419-522-6191
-🗺 https://maps.google.com/?q=40.75932,-82.61877
 
 60. Highland Health Providers - Rocky Fork Medical Center
 11130 N Shore Dr, Hillsboro, OH, 45133-9751
@@ -450,49 +391,42 @@
 🌐 http://www.hhproviders.org
 🏥 Services: Primary Care
 📞 937-402-5491
-🗺 https://maps.google.com/?q=39.19852,-83.48270
 
 61. Charles Huber Elementary
 7450 Taylorsville Rd, Dayton, OH, 45424-2356
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 937-535-5060
-🗺 https://maps.google.com/?q=39.85981,-84.10238
 
 62. Bucyrus Health and Wellness Center
 2458 Stetzer Rd Unit A, Bucyrus, OH, 44820-2066
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 419-834-8889
-🗺 https://maps.google.com/?q=40.81629,-82.93984
 
 63. Tom Cat Health Center
 18500 JACKSONVILLE RD, GLOUSTER, OH, 45732-9337
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 740-767-2810
-🗺 https://maps.google.com/?q=39.47113,-82.07980
 
 64. Cline Avenue Health & Wellness
 370 Cline Avenue  STE 6, Mansfield, OH, 44907
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 419-522-6191
-🗺 https://maps.google.com/?q=40.74865,-82.52931
 
 65. Monticello Elementary
 6523 Alter Rd, Dayton, OH, 45424-3406
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 937-535-5060
-🗺 https://maps.google.com/?q=39.85281,-84.11938
 
 66. Rushmore Elementary
 7701 Berchman Dr, Dayton, OH, 45424-2112
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 937-535-5060
-🗺 https://maps.google.com/?q=39.86578,-84.12528
 
 67. Mansfield Care Connect
 124 N. Linden Rd  RM 1104, Mansfield, OH, 44906-2616
@@ -500,21 +434,18 @@
 🌐 http://thirdstreetfamily.org/
 🏥 Services: Primary Care
 📞 419-522-6191
-🗺 https://maps.google.com/?q=40.76257,-82.54443
 
 68. Wright Brothers Elementary
 5701 Rosebury Dr, Dayton, OH, 45424-4351
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 937-535-5060
-🗺 https://maps.google.com/?q=39.83631,-84.12737
 
 69. Five Points Primary Care
 200 Park Ave W, Mansfield, OH, 44902-1608
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 419-522-2239
-🗺 https://maps.google.com/?q=40.75920,-82.52342
 
 70. HealthSource Hillsboro
 1108 Northview Dr, Hillsboro, OH, 45133-1184
@@ -522,28 +453,24 @@
 🌐 https://www.healthsourceofohio.com
 🏥 Services: Primary Care
 📞 937-393-5781
-🗺 https://maps.google.com/?q=39.21962,-83.60672
 
 71. Valley Forge Elementary
 7191 Troy Manor Rd, Dayton, OH, 45424-2614
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 937-535-5060
-🗺 https://maps.google.com/?q=39.85891,-84.13604
 
 72. Wayne High School
 5400 Chambersburg Rd, Dayton, OH, 45424-3700
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 937-535-5060
-🗺 https://maps.google.com/?q=39.84722,-84.13518
 
 73. Weisenborn Middle School
 6061 Troy Pike, Dayton, OH, 45424-3698
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 937-535-5060
-🗺 https://maps.google.com/?q=39.84374,-84.14071
 
 74. PIKETON FAMILY HEALTH CENTER
 7777 US HIGHWAY 23, PIKETON, OH, 45661-9102
@@ -551,105 +478,90 @@
 🌐 https://www.pikecac.org
 🏥 Services: Primary Care
 📞 740-289-3508
-🗺 https://maps.google.com/?q=39.06762,-83.01109
 
 75. Appalachian Family Life Center
 25 S Clinton St, The Plains, OH, 45780-1269
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 740-249-4318
-🗺 https://maps.google.com/?q=39.36712,-82.12972
 
 76. Wellston Intermediate Behavioral Health School Clinic
 225 Golden Rocket Drive  OFC E126, Wellston, OH, 45692-9605
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 740-517-9069
-🗺 https://maps.google.com/?q=39.13577,-82.53651
 
 77. Piketon High School
 1414 Piketon Rd, Piketon, OH, 45661-9801
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 740-947-7726
-🗺 https://maps.google.com/?q=39.06212,-83.02642
 
 78. Greenmont Elementary
 1 E Wren Cir, Dayton, OH, 45420-2955
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 937-535-5060
-🗺 https://maps.google.com/?q=39.72001,-84.12947
 
 79. Prass Elementary
 2601 Parklawn Dr, Dayton, OH, 45440-1251
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 937-535-5060
-🗺 https://maps.google.com/?q=39.67873,-84.11729
 
 80. Beavertown Elementary
 2700 Wilmington Pike, Dayton, OH, 45419-2141
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 937-535-5060
-🗺 https://maps.google.com/?q=39.70740,-84.14174
 
 81. Muskingum Valley Health Center - Coshocton UC
 450 Downtowner Plz, Coshocton, OH, 43812
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 740-891-9000
-🗺 https://maps.google.com/?q=40.26969,-81.87324
 
 82. Montgomery County ESC - Learning Center North
 2251 Timber Ln, Dayton, OH, 45414-4532
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 937-535-5060
-🗺 https://maps.google.com/?q=39.81509,-84.19271
 
 83. Orchard Park Elementary
 600 E Dorothy Ln, Dayton, OH, 45419-1923
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 937-535-5060
-🗺 https://maps.google.com/?q=39.70308,-84.15899
 
 84. Oakview Elementary
 4001 Ackerman Blvd, Dayton, OH, 45429
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 937-535-5060
-🗺 https://maps.google.com/?q=39.68851,-84.15507
 
 85. Equitas Health at The Greater Dayton School
 171 Deeds Park Dr, Dayton, OH, 45404
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 937-800-1234
-🗺 https://maps.google.com/?q=39.76918,-84.18549
 
 86. Van Buren Middle School
 3775 Shroyer Rd, Dayton, OH, 45429
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 937-535-5060
-🗺 https://maps.google.com/?q=39.69352,-84.16404
 
 87. Fairmont High School
 3301 Shroyer Rd, Dayton, OH, 45429
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 937-535-5060
-🗺 https://maps.google.com/?q=39.69831,-84.16621
 
 88. Primary Village North
 6450 Marshall Rd, Dayton, OH, 45459-2239
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 937-535-5060
-🗺 https://maps.google.com/?q=39.65042,-84.14676
 
 89. Five Rivers Samaritan Homeless Clinic
 921 S EDWIN C MOSES BLVD, DAYTON, OH, 45417-3464
@@ -657,77 +569,66 @@
 🌐 https://www.fiverivershealthcenters.org
 🏥 Services: Primary Care
 📞 937-461-1376
-🗺 https://maps.google.com/?q=39.74458,-84.19564
 
 90. Centerville High School
 500 E Franklin St, Dayton, OH, 45459-5714
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 937-535-5060
-🗺 https://maps.google.com/?q=39.62688,-84.14800
 
 91. Tower Heights Middle School
 195 N Johanna Dr, Dayton, OH, 45459-4625
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 937-535-5060
-🗺 https://maps.google.com/?q=39.63205,-84.15214
 
 92. Stingley Elementary
 95 Linden Dr, Dayton, OH, 45459
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 937-535-5060
-🗺 https://maps.google.com/?q=39.63204,-84.15468
 
 93. Dr. John Hole Elementary
 180 W Whipp Rd, Dayton, OH, 45459
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 937-535-5060
-🗺 https://maps.google.com/?q=39.65814,-84.16774
 
 94. Five Rivers Family Health Center
 2261 Philadelphia Dr, Dayton, OH, 45406-1814
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 937-734-4141
-🗺 https://maps.google.com/?q=39.78870,-84.23658
 
 95. Muskingum Valley Health Center- Morgan Local Schools
 800 Raider Dr  STE 100, McConnesville, OH, 43756-9299
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 740-891-9000
-🗺 https://maps.google.com/?q=39.61213,-81.81930
 
 96. Community Health Centers of Greater Dayton at MVCDC - Kings Highway
 3805 Kings Hwy  RM C, Dayton, OH, 45406-3577
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 937-256-9808
-🗺 https://maps.google.com/?q=39.78345,-84.24597
 
 97. Northwood Elementary
 6200 Noranda Dr, Dayton, OH, 45415-2023
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 937-535-5060
-🗺 https://maps.google.com/?q=39.83531,-84.27652
 
 98. Englewood Elementary
 702 Albert St, Englewood, OH, 45322-1702
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 937-535-5060
-🗺 https://maps.google.com/?q=39.87173,-84.30026
 
 99. Northmont Middle School
 4810 National Rd, Clayton, OH, 45315-9733
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 937-535-5060
-🗺 https://maps.google.com/?q=39.87225,-84.34203
 
 100. HealthSource Lebanon
 1231 Columbus Ave Unit A1, Lebanon, OH, 45036-8196
@@ -735,14 +636,12 @@
 🌐 https://www.healthsourceofohio.com
 🏥 Services: Primary Care
 📞 513-696-4495
-🗺 https://maps.google.com/?q=39.45136,-84.18299
 
 101. Ashland Health and Wellness
 309 Arthur St, Ashland, OH, 44805-3206
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 567-217-7778 x65497
-🗺 https://maps.google.com/?q=40.86747,-82.31139
 
 102. Mustang Health Center
 9105 Harding Hwy  RM K129, Harrod, OH, 45850-9485
@@ -750,14 +649,12 @@
 🌐 https://www.hpwohio.org
 🏥 Services: Primary Care
 📞 419-224-4250
-🗺 https://maps.google.com/?q=40.73362,-83.93312
 
 103. 9th Street Dental
 431 E 9th St, Ashland, OH, 44805-1903
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 567-217-7040
-🗺 https://maps.google.com/?q=40.87465,-82.30660
 
 104. Centerpoint Health Medical Franklin
 333 Conover Dr. STE B, Franklin, OH, 45005-1900
@@ -765,7 +662,6 @@
 🌐 https://In Progress
 🏥 Services: Primary Care
 📞 513-751-7747
-🗺 https://maps.google.com/?q=39.55627,-84.28038
 
 105. Federal Hocking School Health Center
 8461 State Route 144, Stewart, OH, 45778-9501
@@ -773,7 +669,6 @@
 🌐 https://www.hopewellhealth.org
 🏥 Services: Primary Care
 📞 740-662-6691
-🗺 https://maps.google.com/?q=39.31362,-81.88014
 
 106. Perry Health Center
 2770 E Breese Rd, Lima, OH, 45806-9743
@@ -781,35 +676,30 @@
 🌐 http://hpwohio.org
 🏥 Services: Primary Care
 📞 419-221-3072
-🗺 https://maps.google.com/?q=40.68721,-84.05269
 
 107. HealthSource Bright Local
 44 North High Street, Mowrystown, OH, 45155
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 937-306-1000
-🗺 https://maps.google.com/?q=39.04219,-83.74751
 
 108. Dixie Middle School
 200 S Fuls Rd, New Lebanon, OH, 45345-9119
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 937-535-5060
-🗺 https://maps.google.com/?q=39.74204,-84.40392
 
 109. Dixie Elementary
 100 Education Dr, West Alexandria, OH, 45381-1184
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 937-535-5060
-🗺 https://maps.google.com/?q=39.74476,-84.40781
 
 110. Valley View Primary School
 110 Comstock St, Germantown, OH, 45327-1097
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 937-535-5060
-🗺 https://maps.google.com/?q=39.62968,-84.37411
 
 111. HealthSource Seaman
 218 STERN DRIVE, SEAMAN, OH, 45679-9607
@@ -817,14 +707,12 @@
 🌐 https://www.healthsourceofohio.com
 🏥 Services: Primary Care
 📞 937-386-1379
-🗺 https://maps.google.com/?q=38.92998,-83.56451
 
 112. Centerpoint Health Middletown
 231 N Breiel Blvd, Middletown, OH, 45042-3807
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 513-318-1188
-🗺 https://maps.google.com/?q=39.51535,-84.35332
 
 113. Mobile Health Van #6
 1 Spartan Way, Lima, OH, 45801-4561
@@ -832,7 +720,6 @@
 🌐 https://www.hpwohio.org
 🏥 Services: Primary Care
 📞 419-221-3072
-🗺 https://maps.google.com/?q=40.74141,-84.09690
 
 114. Dr. Wilfred Ellis Building
 329 N. West St., Lima, OH, 45801-4332
@@ -840,7 +727,6 @@
 🌐 https://www.hpwohio.org
 🏥 Services: Primary Care
 📞 419-221-3072
-🗺 https://maps.google.com/?q=40.74361,-84.10795
 
 115. VERSAILLES MEDICAL CENTER SITE
 10484 Kley Rd, Versailles, OH, 45380-9561
@@ -848,14 +734,12 @@
 🌐 https://www.buildinghealthylives.org
 🏥 Services: Primary Care
 📞 937-526-3016
-🗺 https://maps.google.com/?q=40.22292,-84.46563
 
 116. Health Partners - Quick Care
 1550 N MAIN ST, LIMA, OH, 45801-2823
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 419-516-0327
-🗺 https://maps.google.com/?q=40.76241,-84.10444
 
 117. HealthSource Mt. Orab
 150 Health Partners Circle, Mt. Orab, OH, 45154
@@ -863,7 +747,6 @@
 🌐 https://www.healthsourceofohio.com
 🏥 Services: Primary Care
 📞 937-444-2514
-🗺 https://maps.google.com/?q=39.04514,-83.94149
 
 118. HealthSource Western Brown
 474 W Main St, Mount Orab, OH, 45154-9452
@@ -871,7 +754,6 @@
 🌐 https://www.healthsourceofohio.com
 🏥 Services: Primary Care
 📞 937-444-2528
-🗺 https://maps.google.com/?q=39.03493,-83.93381
 
 119. HealthSource Loveland
 6535 Charles Snider Rd, Loveland, OH, 45140-9588
@@ -879,7 +761,6 @@
 🌐 https://www.healthsourceofohio.com
 🏥 Services: Primary Care
 📞 513-575-1444
-🗺 https://maps.google.com/?q=39.21848,-84.19264
 
 120. ARCANUM
 702 N MAIN ST, ARCANUM, OH, 45304-1425
@@ -887,7 +768,6 @@
 🌐 https://www.buildinghealthylives.org
 🏥 Services: Primary Care
 📞 937-692-6601
-🗺 https://maps.google.com/?q=39.99965,-84.55454
 
 121. WEST PORTSMOUTH FAMILY PRACTICE
 23030 STATE ROUTE 73, PORTSMOUTH, OH, 45663-8861
@@ -895,7 +775,6 @@
 🌐 https://www.pikecac.org
 🏥 Services: Primary Care
 📞 740-858-6061
-🗺 https://maps.google.com/?q=38.76644,-83.01809
 
 122. Eastern School Based Clinic
 38900 Ohio State Route 7  STE 105-A, Reedsville, OH, 45772
@@ -903,7 +782,6 @@
 🌐 https://www.hopewellhealth.org
 🏥 Services: Primary Care
 📞 740-570-2002
-🗺 https://maps.google.com/?q=39.12577,-81.87958
 
 123. Compass Community Health - Admin
 1656A Coles Blvd, Portsmouth, OH, 45662-2632
@@ -911,14 +789,12 @@
 🌐 https://www.compasscommunityhealth.org
 🏥 Services: Primary Care
 📞 740-354-7102
-🗺 https://maps.google.com/?q=38.75837,-82.97872
 
 124. Cheshire REACH
 8323 State Route 7 N, Cheshire, OH, 45620-9001
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 740-753-9656
-🗺 https://maps.google.com/?q=38.94967,-82.10852
 
 125. Portsmouth Clinic
 901 Washington St, Portsmouth, OH, 45662-3944
@@ -926,7 +802,6 @@
 🌐 https://www.shawneemhc.org
 🏥 Services: Primary Care
 📞 704-354-7702
-🗺 https://maps.google.com/?q=38.73770,-82.99880
 
 126. Broadway Street Clinic
 621 Broadway St, Portsmouth, OH, 45662-4788
@@ -934,14 +809,12 @@
 🌐 https://www.pikecac.org
 🏥 Services: Primary Care
 📞 740-289-2371
-🗺 https://maps.google.com/?q=38.73474,-82.97478
 
 127. HealthSource Williamsburg
 500 S 5th St Ste 202, Williamsburg, OH, 45176-1017
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 513-536-5005
-🗺 https://maps.google.com/?q=39.05051,-84.06538
 
 128. HealthSource Wards Corner
 455 Wards Corner Rd, Loveland, OH, 45140-9062
@@ -949,7 +822,6 @@
 🌐 https://www.heatlhsourceofohio.com
 🏥 Services: Primary Care
 📞 513-688-8580
-🗺 https://maps.google.com/?q=39.22133,-84.28376
 
 129. West Union Clinic
 192 Chestnut Ridge Rd, West Union, OH, 45693-9584
@@ -957,7 +829,6 @@
 🌐 https://www.shawneemhc.org
 🏥 Services: Primary Care
 📞 937-544-5581
-🗺 https://maps.google.com/?q=38.79424,-83.53308
 
 130. Community Health Services - Fostoria
 502 Van Buren St, Fostoria, OH, 44830-1533
@@ -965,14 +836,12 @@
 🌐 https://www.chsohio.org
 🏥 Services: Primary Care
 📞 419-334-3869
-🗺 https://maps.google.com/?q=41.16410,-83.42323
 
 131. Campus Care
 1111 N. Ohio St  RM 304, Greenville, OH, 45331-2948
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 937-548-9680
-🗺 https://maps.google.com/?q=40.11556,-84.61514
 
 132. HealthSource Batavia Family Practice & Pharmacy
 2055 Hospital Dr STE 130, Batavia, OH, 45103-1978
@@ -980,14 +849,12 @@
 🌐 https://www.healthsourceofohio.com
 🏥 Services: Primary Care
 📞 513-732-0870
-🗺 https://maps.google.com/?q=39.08090,-84.14472
 
 133. Edgewood Local Schools SBHC
 3045 Busenbark Rd Ste B, Trenton, OH, 45067-7611
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 513-454-1111
-🗺 https://maps.google.com/?q=39.46658,-84.48994
 
 134. OVP - Wheelersburg, Ohio
 8991 Ohio River Rd, Wheelersburg, OH, 45694-1923
@@ -995,7 +862,6 @@
 🌐 https://ovphealthcare.org
 🏥 Services: Primary Care
 📞 740-716-7086
-🗺 https://maps.google.com/?q=38.71501,-82.85819
 
 135. FAMILY HEALTH SERVICES OF DARKE COUNTY
 5735 Meeker Rd, Greenville, OH, 45331-1180
@@ -1003,63 +869,54 @@
 🌐 https://www.buildinghealthylives.org
 🏥 Services: Primary Care
 📞 937-548-9680
-🗺 https://maps.google.com/?q=40.08453,-84.62648
 
 136. Hollingsworth East Elementary
 506 Aukerman St, Eaton, OH, 45320-1998
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 937-535-5060
-🗺 https://maps.google.com/?q=39.74912,-84.62672
 
 137. William Bruce Elementary
 506 Aukerman St, #B, Eaton, OH, 45320-1919
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 937-535-5060
-🗺 https://maps.google.com/?q=39.74992,-84.62733
 
 138. HealthSource Southern Hills
 9193 Hamer Rd, Georgetown, OH, 45121-9472
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 937-306-1005
-🗺 https://maps.google.com/?q=38.88949,-83.89124
 
 139. Eaton Middle School
 311 N Cherry St, Eaton, OH, 45320-1855
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 937-535-5060
-🗺 https://maps.google.com/?q=39.74706,-84.63557
 
 140. Garland Drive
 155 Garland Dr SW, New Philadelphia, OH, 44663
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 330-343-6631
-🗺 https://maps.google.com/?q=40.49182,-81.46844
 
 141. OVP Health Care Inc. - Gallipolis, OH
 936 State Route 160, Gallipolis, OH, 45631-8243
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 740-451-4000
-🗺 https://maps.google.com/?q=38.83113,-82.20801
 
 142. Southeast Healthcare -New Philadelphia Health Center
 344 W High Ave, New Philadelphia, OH, 44663-2152
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 330-339-7850
-🗺 https://maps.google.com/?q=40.49037,-81.45174
 
 143. Oxford St.
 335 Oxford St, Dover, OH, 44622-1970
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 330-343-6631
-🗺 https://maps.google.com/?q=40.51827,-81.46809
 
 144. HealthSource Georgetown
 631 E State St, Georgetown, OH, 45121-1437
@@ -1067,21 +924,18 @@
 🌐 https://www.healthsourceofohio.com
 🏥 Services: Primary Care
 📞 937-378-6387
-🗺 https://maps.google.com/?q=38.86399,-83.89483
 
 145. Gallia Intensive Outpatient Clinic
 200 Holly Ln, Gallipolis, OH, 45631-1670
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 740-794-6019
-🗺 https://maps.google.com/?q=38.82162,-82.19331
 
 146. Southern Local Wellness Center
 920 Elm St, Racine, OH, 45771-8902
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 740-949-2348
-🗺 https://maps.google.com/?q=38.97053,-81.90845
 
 147. Gallia Adult Crisis Stabilization Unit
 100 West Avenue, Gallipolis, OH, 45631-1191
@@ -1089,35 +943,30 @@
 🌐 https://www.hopewellhealth.org
 🏥 Services: Primary Care
 📞 740-446-5554
-🗺 https://maps.google.com/?q=38.80365,-82.23238
 
 148. Springvale Health Centers – 204 S Bellevue Ave
 204 S Bellevue Ave, Dover, OH, 44622-9405
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 330-343-6631
-🗺 https://maps.google.com/?q=40.51174,-81.45524
 
 149. FHS Norwalk - 265 Benedict Ave
 8143 State Route 9  RM 2208, Hanoverton, OH, 44423-8618
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 419-502-2800
-🗺 https://maps.google.com/?q=41.22680,-82.60131
 
 150. Administration - 201 Hospital Drive
 201 Hospital Dr, Dover, OH, 44622-2058
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 330-343-6631
-🗺 https://maps.google.com/?q=40.51535,-81.45435
 
 151. Norwalk Health Center
 34 Executive Dr Ste A, Norwalk, OH, 44857-2490
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 419-626-5623 x116
-🗺 https://maps.google.com/?q=41.23022,-82.59907
 
 152. New Madison Medical Center
 101 ANDERSON ST, NEW MADISON, OH, 45346-9715
@@ -1125,7 +974,6 @@
 🌐 http://buildinghealthylives.org/
 🏥 Services: Primary Care
 📞 937-996-0023
-🗺 https://maps.google.com/?q=39.97228,-84.70223
 
 153. FHS - BH @ Monroeville Local Schools
 101 West St.  RM 340, Monroeville, OH, 44847-9797
@@ -1133,14 +981,12 @@
 🌐 https://www.familyhs.org
 🏥 Services: Primary Care
 📞 419-502-2800
-🗺 https://maps.google.com/?q=41.24711,-82.70210
 
 154. Tri-Village School District
 315 S Main St, New Madison, OH, 45346-9797
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 937-996-1511
-🗺 https://maps.google.com/?q=39.96466,-84.71102
 
 155. HealthSource Eastgate Pediatrics
 4627 Aicholtz Rd, Cincinnati, OH, 45244-1447
@@ -1148,7 +994,6 @@
 🌐 https://www.healthsourceofohio.com
 🏥 Services: Primary Care; Pediatrics
 📞 513-753-2820
-🗺 https://maps.google.com/?q=39.10362,-84.29614
 
 156. Lincoln Heights Health Center
 1401 Steffen Ave, Cincinnati, OH, 45215-2338
@@ -1156,7 +1001,6 @@
 🌐 https://na
 🏥 Services: Primary Care
 📞 513-588-3263
-🗺 https://maps.google.com/?q=39.23881,-84.45264
 
 157. Hamilton West
 903 NW Washington Blvd STE A, Hamilton, OH, 45013-6367
@@ -1164,28 +1008,24 @@
 🌐 https://myprimaryhealthsolutions.org
 🏥 Services: Primary Care
 📞 513-737-6900
-🗺 https://maps.google.com/?q=39.42644,-84.58819
 
 158. Lockland School District
 210 N Cooper Ave, Lockland, OH, 45215-3011
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 513-563-5000
-🗺 https://maps.google.com/?q=39.22764,-84.45210
 
 159. Braxton F. Cann Memorial Medical Center
 5818 Madison Rd., Cincinnati, OH, 45227-1708
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 513-263-8750
-🗺 https://maps.google.com/?q=39.16105,-84.39338
 
 160. John P. Parker
 5051 ANDERSON PL, CINCINNATI, OH, 45227-1601
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 513-363-2921
-🗺 https://maps.google.com/?q=39.16304,-84.40038
 
 161. Manchester Family Health Center
 130 WAYNE FRYE DR, MANCHESTER, OH, 45144-9314
@@ -1193,7 +1033,6 @@
 🌐 https://www.pikecac.org
 🏥 Services: Primary Care
 📞 937-549-1286
-🗺 https://maps.google.com/?q=38.69495,-83.58873
 
 162. Forest Park Health Center
 924 WAYCROSS RD, CINCINNATI, OH, 45240-3022
@@ -1201,14 +1040,12 @@
 🌐 https://na
 🏥 Services: Primary Care
 📞 513-589-3014
-🗺 https://maps.google.com/?q=39.28524,-84.51103
 
 163. The Children's Home of Cincinnati
 5051 Duck Creek Rd, Cincinnati, OH, 45227-1440
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 513-357-2809
-🗺 https://maps.google.com/?q=39.16407,-84.40894
 
 164. Bogan Elementary School-Based Services
 5200 Hamilton Richmond Rd, Oxford, OH, 45056-9433
@@ -1216,35 +1053,30 @@
 🌐 https://www.myprimaryhealthsolutions.org
 🏥 Services: Primary Care
 📞 513-454-1111
-🗺 https://maps.google.com/?q=39.51651,-84.66910
 
 165. Winton Woods City School District
 147 Farragut Rd, Cincinnati, OH, 45218-1422
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 513-554-4100
-🗺 https://maps.google.com/?q=39.26517,-84.51564
 
 166. HealthSource Anderson Ob/Gyn
 8000 5 Mile Rd Ste 207, Cincinnati, OH, 45230-2163
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Women's health
 📞 513-474-2870
-🗺 https://maps.google.com/?q=39.08567,-84.35150
 
 167. FHS - BH @ Edison Elementary School
 140 S Main St Ofc Counselin, Milan, OH, 44846-9735
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 419-502-2800
-🗺 https://maps.google.com/?q=41.29271,-82.60174
 
 168. Woodward Career Technical High School
 7005 Reading Road, Cincinnati, OH, 45237
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 513-363-9300
-🗺 https://maps.google.com/?q=39.18911,-84.46439
 
 169. WinMed-Cincinnati-Hamilton County Community Action Agency
 1740 Langdon Farm Road, Cincinnati, OH, 45237
@@ -1252,21 +1084,18 @@
 🌐 https://winmedinc.org
 🏥 Services: Primary Care
 📞 513-631-7100
-🗺 https://maps.google.com/?q=39.18497,-84.46390
 
 170. Rock Hill Schools - Middle School Office
 2171 County Road 26 RM 112B, Ironton, OH, 45638-8386
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 740-532-7030
-🗺 https://maps.google.com/?q=38.61390,-82.66370
 
 171. Bond Hill Academy Elementary
 1510 California Ave, Cincinnati, OH, 45237-5621
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 513-363-7900
-🗺 https://maps.google.com/?q=39.17638,-84.47139
 
 172. Community Health Services - Main Site
 2221 Hayes Ave, Fremont, OH, 43420-2632
@@ -1274,21 +1103,18 @@
 🌐 https://www.chsohio.com
 🏥 Services: Primary Care
 📞 419-334-8943
-🗺 https://maps.google.com/?q=41.34045,-83.14314
 
 173. Withrow Community Learning Center
 2520 Madison Rd, Cincinnati, OH, 45208-1257
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 513-363-9023
-🗺 https://maps.google.com/?q=39.14134,-84.45115
 
 174. Academy of World Languages
 2030 Fairfax Ave, Cincinnati, OH, 45207-1943
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 513-363-7821
-🗺 https://maps.google.com/?q=39.13548,-84.46203
 
 175. WINTON HILLS ACADEMY ELEMENTARY
 5300 Winneste Ave, Cincinnati, OH, 45232-1133
@@ -1296,7 +1122,6 @@
 🌐 https://winmedinc.org
 🏥 Services: Primary Care
 📞 513-242-1033
-🗺 https://maps.google.com/?q=39.18578,-84.51329
 
 176. ST. BERNARD ELMWOOD PLACE HS SBH
 4615 Tower Ave, Cincinnati, OH, 45217-1724
@@ -1304,7 +1129,6 @@
 🌐 https://winmedinc.org
 🏥 Services: Primary Care
 📞 513-242-1033
-🗺 https://maps.google.com/?q=39.16683,-84.49694
 
 177. WINTON HILLS MEDICAL AND HEALTH CENTER, INC.
 5275 Winneste Ave, Cincinnati, OH, 45232-1130
@@ -1312,7 +1136,6 @@
 🌐 https://www.winmedinc.org
 🏥 Services: Primary Care
 📞 513-242-1033
-🗺 https://maps.google.com/?q=39.18523,-84.51486
 
 178. HealthSource New Richmond
 100 RIVER VALLEY BLVD, NEW RICHMOND, OH, 45157-8566
@@ -1320,14 +1143,12 @@
 🌐 https://www.healthsourceofohio.com
 🏥 Services: Primary Care
 📞 513-553-3114
-🗺 https://maps.google.com/?q=38.96932,-84.28519
 
 179. Ambrose H. Clement Health Center (Avondale)
 3559 Reading Rd Ste 101, Cincinnati, OH, 45229-2666
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 513-357-7300
-🗺 https://maps.google.com/?q=39.14662,-84.49033
 
 180. HealthSource Felicity
 105 Market Street  STE 100, Felicity, OH, 45120-9668
@@ -1335,28 +1156,24 @@
 🌐 https://www.healthsourceofohio.org
 🏥 Services: Primary Care
 📞 513-429-7330
-🗺 https://maps.google.com/?q=38.83673,-84.09841
 
 181. YWCA Cincinnati
 3565 Van Antwerp Place  RM A104/A105, Cincinnati, OH, 45229-2631
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 513-286-7899
-🗺 https://maps.google.com/?q=39.14710,-84.49395
 
 182. Crest Smile Shoppe
 612 Rockdale, Cincinnati, OH, 45229-2919
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 513-352-4072
-🗺 https://maps.google.com/?q=39.14484,-84.49476
 
 183. FHS - BH @ Edison Middle School
 20 Center St  RM Lib Conf., Berlin Heights, OH, 44814-9603
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 419-502-2800
-🗺 https://maps.google.com/?q=41.32460,-82.49127
 
 184. Equitas Health Cincinnati
 2805 Gilbert Ave, Cincinnati, OH, 45206-1210
@@ -1364,7 +1181,6 @@
 🌐 https://www.equitashealth.com
 🏥 Services: Primary Care
 📞 513-815-4475
-🗺 https://maps.google.com/?q=39.13006,-84.48881
 
 185. Aid Family Medical Center
 13804 State Route 141, Kitts Hill, OH, 45645-8848
@@ -1372,7 +1188,6 @@
 🌐 https://www.ilcao.org
 🏥 Services: Primary Care
 📞 740-643-2082
-🗺 https://maps.google.com/?q=38.59682,-82.49289
 
 186. Medina County - Wadsworth
 185 Wadsworth Rd Ste C, Wadsworth, OH, 44281-9585
@@ -1380,14 +1195,12 @@
 🌐 https://www.medinahealth.org
 🏥 Services: Primary Care
 📞 330-723-9688
-🗺 https://maps.google.com/?q=41.02717,-81.75445
 
 187. HealthPoint - First Step Home
 2203 Fulton Ave, Cincinnati, OH, 45206-2504
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 513-961-4663
-🗺 https://maps.google.com/?q=39.12086,-84.49200
 
 188. SHELTERHOUSE-Hatton Center for Women
 2499 Reading Rd, Cincinnati, OH, 45202-1464
@@ -1395,21 +1208,18 @@
 🌐 https://www.neighborhubhealth.org
 🏥 Services: Primary Care; Women's health
 📞 513-386-7899
-🗺 https://maps.google.com/?q=39.12613,-84.50192
 
 189. CARACOLE CLINIC
 4138 Hamilton Ave, Cincinnati, OH, 45223-2293
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care, Ryan White HIV/AIDS Program
 📞 513-386-7899
-🗺 https://maps.google.com/?q=39.16139,-84.53910
 
 190. Talawanda Middle School - School-Based Services
 4030 Oxford Reily Rd, Oxford, OH, 45056-8943
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 513-454-1111
-🗺 https://maps.google.com/?q=39.48877,-84.75775
 
 191. Crossroad Health Center - Taft
 270 Southern Ave, Cincinnati, OH, 45219-3023
@@ -1417,14 +1227,12 @@
 🌐 https://www.crossroadhc.org
 🏥 Services: Primary Care
 📞 513-381-2247
-🗺 https://maps.google.com/?q=39.12037,-84.50569
 
 192. Mt. Airy
 5730 Colerain, Cincinnati, OH, 45239-6714
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 513-363-3765
-🗺 https://maps.google.com/?q=39.19837,-84.57662
 
 193. Cincinnati Health Network, Inc.
 40 E MCMICKEN AVE, CINCINNATI, OH, 45202-6549
@@ -1432,7 +1240,6 @@
 🌐 https://www.neighborhubhealth.org
 🏥 Services: Primary Care; Dental
 📞 513-386-7899
-🗺 https://maps.google.com/?q=39.11599,-84.51559
 
 194. Enabling Servies Program- Freestore Foodbank
 112 E LIBERTY ST, CINCINNATI, OH, 45202-6510
@@ -1440,49 +1247,42 @@
 🌐 https://www.freestorefoodbank.org
 🏥 Services: Primary Care
 📞 513-357-4817
-🗺 https://maps.google.com/?q=39.11296,-84.51368
 
 195. CENTER FOR RESPITE CARE
 1615 Republic St, Cincinnati, OH, 45202-6464
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 513-621-1868
-🗺 https://maps.google.com/?q=39.11341,-84.51669
 
 196. Gloria's Place
 2000 Dunlap Street, Cincinnati, OH, 45214
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 513-386-7899
-🗺 https://maps.google.com/?q=39.11744,-84.52126
 
 197. Nancy's Place
 115 N 3rd St, Ironton, OH, 45638-1471
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 740-532-3534
-🗺 https://maps.google.com/?q=38.53582,-82.68586
 
 198. CINCINNATI MOBILE HEALTH CARE
 1525 Elm St, Cincinnati, OH, 45202-6957
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 513-386-7899
-🗺 https://maps.google.com/?q=39.11216,-84.51947
 
 199. Bobbie Sterne Health Center (formerly Elm Street)
 1525 Elm Street, Cincinnati, OH, 45202-6957
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 513-352-3092
-🗺 https://maps.google.com/?q=39.11216,-84.51947
 
 200. Ethel M. Taylor Academy
 1930 Fricke Rd, Cincinnati, OH, 45225-1200
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 513-363-3645
-🗺 https://maps.google.com/?q=39.14744,-84.55214
 
 201. Oberlin
 260 S MAIN ST, OBERLIN, OH, 44074-1773
@@ -1490,21 +1290,18 @@
 🌐 https://www.lorainhealth-dentistry.org
 🏥 Services: Primary Care
 📞 440-240-1655
-🗺 https://maps.google.com/?q=41.28409,-82.21796
 
 202. Taft High School
 420 Ezzard Charles Dr, Cincinnati, OH, 45214-2806
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 513-363-8257
-🗺 https://maps.google.com/?q=39.10958,-84.52251
 
 203. Roll Hill Academy
 2411 Baltimore Ave., Cincinnati, OH, 45225-1001
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 513-363-4018
-🗺 https://maps.google.com/?q=39.15368,-84.56458
 
 204. WinMed City West
 1019 LINN ST, CINCINNATI, OH, 45203-1314
@@ -1512,21 +1309,18 @@
 🌐 https://winmedinc.org
 🏥 Services: Primary Care
 📞 513-233-7100
-🗺 https://maps.google.com/?q=39.10635,-84.52858
 
 205. Roberts Paideia
 1702 Grand Ave, Cincinnati, OH, 45214-1502
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 513-363-4627
-🗺 https://maps.google.com/?q=39.11792,-84.55639
 
 206. FHS BH @ (Huron) McCormick Middle School
 325 Ohio St  RM 103, Huron, OH, 44839-2702
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 419-502-2800
-🗺 https://maps.google.com/?q=41.39462,-82.55910
 
 207. FHS BH @ Huron High School
 710 Cleveland Rd W, Huron, OH, 44839-1546
@@ -1534,21 +1328,18 @@
 🌐 https://www.familyhs.org/
 🏥 Services: Primary Care
 📞 419-502-2800
-🗺 https://maps.google.com/?q=41.39630,-82.56585
 
 208. Price Hill Health Center
 2136 W    8th St, Cincinnati, OH, 45204-2052
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 513-357-2700
-🗺 https://maps.google.com/?q=39.10565,-84.55244
 
 209. ECCHC @ OVH
 3416 Columbus Avenue  RM GIF202700, Sandusky, OH, 44870-5557
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 419-626-5623
-🗺 https://maps.google.com/?q=41.41952,-82.68376
 
 210. Coal Grove Clinic
 225 Carlton Davidson Ln, Coal Grove, OH, 45638-2924
@@ -1556,7 +1347,6 @@
 🌐 https://www.shawneemhc.org
 🏥 Services: Primary Care
 📞 740-533-0648
-🗺 https://maps.google.com/?q=38.50358,-82.64824
 
 211. 9th Street Family Health Center
 408 9th St SW, Canton, OH, 44707-4714
@@ -1564,14 +1354,12 @@
 🌐 https://www.LifecareFHDC.org
 🏥 Services: Primary Care
 📞 330-454-2000
-🗺 https://maps.google.com/?q=40.79147,-81.38030
 
 212. ECCHC @ Sandusky Career Center
 4501 Venice Heights Blvd  RM 17, Sandusky, OH, 44870-1630
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 419-626-5623 x5116
-🗺 https://maps.google.com/?q=41.43483,-82.71206
 
 213. FHS - Sandusky High School
 420 Superior St, Sandusky, OH, 44870-1849
@@ -1579,7 +1367,6 @@
 🌐 https://www.familyhs.org
 🏥 Services: Primary Care
 📞 419-984-1042
-🗺 https://maps.google.com/?q=41.43507,-82.71399
 
 214. St. Clair Clinic
 1530 Saint Clair Ave NE, Cleveland, OH, 44114-2004
@@ -1587,7 +1374,6 @@
 🌐 https://www.carealliance.org
 🏥 Services: Primary Care
 📞 216-781-6228
-🗺 https://maps.google.com/?q=41.50649,-81.68454
 
 215. CAHC Frontline Service
 1744 Payne Ave Fl 1, Cleveland, OH, 44114-2910
@@ -1595,7 +1381,6 @@
 🌐 https://www.carealliance.org/
 🏥 Services: Primary Care
 📞 216-781-6228 x622
-🗺 https://maps.google.com/?q=41.50468,-81.68007
 
 216. Health & Wellness at the Glick Recovery Campus
 2322 E 22nd St, Cleveland, OH, 44115-3176
@@ -1603,7 +1388,6 @@
 🌐 https://thecentersohio.org/
 🏥 Services: Primary Care
 📞 216-325-9355
-🗺 https://maps.google.com/?q=41.49669,-81.67442
 
 217. CAHC Mobile Dental Van
 2916 Central Ave, Cleveland, OH, 44115-3229
@@ -1611,21 +1395,18 @@
 🌐 https://www.carealliance.org
 🏥 Services: Primary Care; Dental
 📞 216-535-9100
-🗺 https://maps.google.com/?q=41.49676,-81.66681
 
 218. CHS at Near West Intergenerational School
 3805 Terrett Ave, Cleveland, OH, 44113-2847
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 216-961-4308
-🗺 https://maps.google.com/?q=41.48528,-81.71522
 
 219. Health and Wellness Gordon Square
 5209 Detroit Ave, Cleveland, OH, 44102-2224
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 216-651-2037
-🗺 https://maps.google.com/?q=41.48501,-81.72301
 
 220. The MetroHealth System
 2500 Metrohealth Dr, Cleveland, OH, 44109-1900
@@ -1633,28 +1414,24 @@
 🌐 https://www.metrohealth.org/community/community-health-centers
 🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 216-778-7800
-🗺 https://maps.google.com/?q=41.46189,-81.69752
 
 221. CHS at Constellation Schools - Stockyard Community Elementary and Middle School
 3200 West 65th Street  RM 110, Cleveland, OH, 44102-5510
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 216-651-5143
-🗺 https://maps.google.com/?q=41.46739,-81.73074
 
 222. CHS at Marion C. Seltzer Elementary School
 1468 W 98th St, Cleveland, OH, 44102-2616
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 216-838-6550
-🗺 https://maps.google.com/?q=41.47795,-81.75154
 
 223. NEON Health Svcs., Medical Mobile Unit
 8300 Hough Ave, Cleveland, OH, 44103-4247
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 216-231-7700
-🗺 https://maps.google.com/?q=41.50910,-81.62999
 
 224. Broadway Dental Clinic
 6835 Broadway Ave, Cleveland, OH, 44105-1313
@@ -1662,7 +1439,6 @@
 🌐 https://www.metrohealth.org/community/community-health-centers
 🏥 Services: Primary Care; Dental
 📞 216-957-1500
-🗺 https://maps.google.com/?q=41.46119,-81.64123
 
 225. Brooklyn Health Center
 5208 Memphis Ave, Cleveland, OH, 44144-2231
@@ -1670,7 +1446,6 @@
 🌐 https://www.metrohealth.org/community/community-health-centers
 🏥 Services: Primary Care
 📞 216-696-3876
-🗺 https://maps.google.com/?q=41.44004,-81.72243
 
 226. Buckeye Health Center
 2816 E 116th St, Cleveland, OH, 44120-2111
@@ -1678,7 +1453,6 @@
 🌐 https://www.metrohealth.org/community/community-health-centers
 🏥 Services: Primary Care
 📞 216-696-3876
-🗺 https://maps.google.com/?q=41.48264,-81.60326
 
 227. ST. CLAIR HEALTH CENTER
 10505 Saint Clair Ave Ste 101, Cleveland, OH, 44108-1973
@@ -1686,7 +1460,6 @@
 🌐 https://www.neonhealth.org
 🏥 Services: Primary Care
 📞 216-325-6556
-🗺 https://maps.google.com/?q=41.53990,-81.61509
 
 228. Miles Broadway Health Center
 9127 Miles Ave, Cleveland, OH, 44105-6136
@@ -1694,28 +1467,24 @@
 🌐 https://www.neonhealth.org
 🏥 Services: Primary Care
 📞 216-231-7700
-🗺 https://maps.google.com/?q=41.44541,-81.62264
 
 229. CHS at Glenville High School
 650 E 113th St, Cleveland, OH, 44108-2603
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 216-268-6000
-🗺 https://maps.google.com/?q=41.53902,-81.60597
 
 230. Signature Lakewood Health Center
 14701 Detroit Ave Ste 620, Lakewood, OH, 44107-4180
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 216-831-6466
-🗺 https://maps.google.com/?q=41.48506,-81.79866
 
 231. Health and Wellness - Northcliff
 7580 Northcliff Ave, Cleveland, OH, 44144-3270
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 216-651-5212
-🗺 https://maps.google.com/?q=41.42570,-81.73959
 
 232. EAST CLEVELAND HEALTH CENTER
 15201 Euclid Ave, Cleveland, OH, 44112-2803
@@ -1723,21 +1492,18 @@
 🌐 https://www.neonhealth.org
 🏥 Services: Primary Care
 📞 216-541-5600
-🗺 https://maps.google.com/?q=41.53691,-81.57580
 
 233. Heights Wellness Center
 13263 Cedar Rd, Cleveland Heights, OH, 44118-2926
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 216-320-2500
-🗺 https://maps.google.com/?q=41.50129,-81.56316
 
 234. Health and Wellness Southwest
 6696 Goshen Rd.  STE 324, Goshen, OH, 45122-9273
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 440-888-0300
-🗺 https://maps.google.com/?q=41.40084,-81.73456
 
 235. COLLINWOOD HEALTH CENTER
 15322 Saint Clair Ave, Cleveland, OH, 44110-3043
@@ -1745,7 +1511,6 @@
 🌐 https://www.neonhealth.org
 🏥 Services: Primary Care
 📞 216-851-1500
-🗺 https://maps.google.com/?q=41.55473,-81.57318
 
 236. Barth House for Wellness and Self - Sufficiency
 931 Nye Road, cleveland, OH, 44110-3321
@@ -1753,14 +1518,12 @@
 🌐 https://www.neonhealth.org
 🏥 Services: Primary Care
 📞 216-231-7700
-🗺 https://maps.google.com/?q=41.55440,-81.57295
 
 237. Signature Health Beachwood Clinic
 24755 Chagrin Blvd, Beachwood, OH, 44122-5682
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 216-831-6466
-🗺 https://maps.google.com/?q=41.46530,-81.50417
 
 238. Bedford Health Center
 19999 Rockside Rd, Bedford, OH, 44146-2074
@@ -1768,14 +1531,12 @@
 🌐 https://www.metrohealth.org/community/community-health-centers
 🏥 Services: Primary Care
 📞 216-696-3876
-🗺 https://maps.google.com/?q=41.40898,-81.53806
 
 239. Signature Health Maple Heights Health Center
 21100 Southgate Park Blvd, Maple Heights, OH, 44137-3004
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 216-663-6100
-🗺 https://maps.google.com/?q=41.41404,-81.53145
 
 240. Signature Health - Wickliffe
 2255 Rockefeller Rd Ste E, Wickliffe, OH, 44092-2020
@@ -1783,28 +1544,24 @@
 🌐 https://www.signaturehealthinc.org/
 🏥 Services: Primary Care
 📞 440-578-8200
-🗺 https://maps.google.com/?q=41.59906,-81.46441
 
 241. LCHD North Ridgeville
 35557 Center Ridge Rd, North Ridgeville, OH, 44039-3019
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 440-240-1655
-🗺 https://maps.google.com/?q=41.39095,-82.01338
 
 242. Signature Health New Willoughby Clinic
 38876 Mentor Ave, Willoughby, OH, 44094-7931
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 440-578-8200
-🗺 https://maps.google.com/?q=41.64602,-81.39037
 
 243. Lorain County Health and Dentistry
 3745 Grove Ave., Lorain, OH, 44055-2734
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 440-240-1655
-🗺 https://maps.google.com/?q=41.43647,-82.11885
 
 244. Crossroads Health Mentor Avenue
 9220 Mentor Ave, Mentor, OH, 44060-6412
@@ -1812,21 +1569,18 @@
 🌐 https://www.crossroadshealth.org
 🏥 Services: Primary Care
 📞 440-255-1700
-🗺 https://maps.google.com/?q=41.67661,-81.30778
 
 245. LCHD-Middle Ave
 801 Middle Ave, Elyria, OH, 44035
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 440-240-1655
-🗺 https://maps.google.com/?q=41.35964,-82.10762
 
 246. Wilkes Villa Public Housing
 105 LOUDEN CT, ELYRIA, OH, 44035-8027
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 440-240-1655
-🗺 https://maps.google.com/?q=41.34470,-82.10038
 
 247. Riveon Mental Health and Recovery Broadway Location
 6140 S Broadway RMS 101-103, 2242, 2243, 2246-2248, 2250, 2262, 2263, 2267, Lorain, OH, 44053-3821
@@ -1834,7 +1588,6 @@
 🌐 https://riveonhealth.org
 🏥 Services: Primary Care
 📞 440-233-7232
-🗺 https://maps.google.com/?q=41.41499,-82.16355
 
 248. Signature Health Painesville Health Center
 54 S State St, Painesville, OH, 44077-3445
@@ -1842,7 +1595,6 @@
 🌐 https://www.signaturehealthinc.org
 🏥 Services: Primary Care
 📞 440-853-1505
-🗺 https://maps.google.com/?q=41.72473,-81.24066
 
 249. AxessPointe Community Health Centers/Kent
 143 Gougler Ave, Kent, OH, 44240-2401
@@ -1850,14 +1602,12 @@
 🌐 https://axesspointe.org
 🏥 Services: Primary Care
 📞 330-673-1016
-🗺 https://maps.google.com/?q=41.15528,-81.35993
 
 250. ICHC - Akron
 370 E Market St, Akron, OH, 44304-1526
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 234-312-3607
-🗺 https://maps.google.com/?q=41.08064,-81.50590
 
 251. AxessPointe - Children's Advantage - Ravenna
 771 N Freedom St, Ravenna, OH, 44266-2470
@@ -1865,28 +1615,24 @@
 🌐 https://www.axessfamilyservices.org
 🏥 Services: Primary Care
 📞 330-577-3911
-🗺 https://maps.google.com/?q=41.16857,-81.23326
 
 252. Vermilion School
 1250 Sanford St Rm 733, Vermilion, OH, 44089-1577
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 440-963-9213
-🗺 https://maps.google.com/?q=41.41092,-82.35746
 
 253. Valley Health Services - Child & Adolescent
 318 Mahoning Ave NW, Warren, OH, 44483-4605
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 330-395-9563
-🗺 https://maps.google.com/?q=41.23900,-80.82135
 
 254. Meridian HealthCare - Warren Office
 320 High St NE, Warren, OH, 44481-1222
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 330-797-0070
-🗺 https://maps.google.com/?q=41.23745,-80.81500
 
 255. Kids 1st Pediatrics
 1950 STREET ROUTE 125, HAMERSVILLE, OH, 45130-9501
@@ -1894,7 +1640,6 @@
 🌐 https://www.onehealthohio.org
 🏥 Services: Primary Care
 📞 330-392-7000
-🗺 https://maps.google.com/?q=41.23682,-80.79381
 
 256. Premier Care Pediatrics
 2642 State Route 5, Cortland, OH, 44410-9393
@@ -1902,7 +1647,6 @@
 🌐 http://onehealthohio.org/
 🏥 Services: Primary Care
 📞 330-841-5500
-🗺 https://maps.google.com/?q=41.28850,-80.76277
 
 257. Alliance Family Health Center
 1401 S Arch Ave Ste A, Alliance, OH, 44601-4288
@@ -1910,21 +1654,18 @@
 🌐 https://www.alliancefamilyhealth.org
 🏥 Services: Primary Care
 📞 330-249-7011
-🗺 https://maps.google.com/?q=40.90793,-81.10137
 
 258. Refuge of Hope
 715 2nd St NE, Canton, OH, 44704-1128
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 330-454-2000
-🗺 https://maps.google.com/?q=40.79803,-81.36869
 
 259. Erie County Job & Family Services
 221 W Parish St, Sandusky, OH, 44870-4877
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 419-626-5623 x116
-🗺 https://maps.google.com/?q=41.43567,-82.70277
 
 260. KI Addison Road
 117 Addison St, Kelleys Island, OH, 43438-6500
@@ -1932,28 +1673,24 @@
 🌐 https://www.eriecohealthohio.org
 🏥 Services: Primary Care
 📞 419-626-5623 x5174
-🗺 https://maps.google.com/?q=41.59400,-82.70628
 
 261. FHS Behavioral Health - Hayes Avenue
 1912 Hayes Ave Ste E, Sandusky, OH, 44870-4736
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 419-557-6763
-🗺 https://maps.google.com/?q=41.43719,-82.71189
 
 262. Signature Health Ashtabula Health Center
 4726 Main Ave, Ashtabula, OH, 44004-6929
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 440-992-8552
-🗺 https://maps.google.com/?q=41.86403,-80.78236
 
 263. Meridian HealthCare - Meridian Road Campus
 527 N Meridian Rd, Youngstown, OH, 44509-1227
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 330-797-0070
-🗺 https://maps.google.com/?q=41.11221,-80.71039
 
 264. Valley Health Services - Liberty
 4970 Belmont Ave, Youngstown, OH, 44505-1018
@@ -1961,28 +1698,24 @@
 🌐 https://www.axessfamilyservices.org
 🏥 Services: Primary Care
 📞 330-759-8237
-🗺 https://maps.google.com/?q=41.17006,-80.66586
 
 265. RISE Recovery
 3132 Belmont Ave, Youngstown, OH, 44505-1838
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 330-747-9551
-🗺 https://maps.google.com/?q=41.13936,-80.66554
 
 266. CAA Health Center at Salem
 600 E 2nd St, Salem, OH, 44460-2916
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 234-575-6003
-🗺 https://maps.google.com/?q=40.90226,-80.85302
 
 267. Port Clinton Health Center
 333 Buckeye Blvd Ste B, Port Clinton, OH, 43452-2475
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 419-626-5623
-🗺 https://maps.google.com/?q=41.50909,-82.91232
 
 268. THE COMMUNITY DENTAL CENTER
 38722 Saltwell Rd, Lisbon, OH, 44432-8303
@@ -1990,21 +1723,18 @@
 🌐 https://www.caaofcc.org
 🏥 Services: Primary Care
 📞 330-424-4192
-🗺 https://maps.google.com/?q=40.78581,-80.77202
 
 269. CAA East Liverpool Campus Building #2
 16494 Saint Clair Ave, East Liverpool, OH, 43920-9142
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 330-424-5686
-🗺 https://maps.google.com/?q=40.66181,-80.57417
 
 270. FMC - SBHC Indian Creek High School
 200 Park Dr, Wintersville, OH, 43953-3944
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 740-264-2526
-🗺 https://maps.google.com/?q=40.37690,-80.71582
 
 271. Community Health Services - Stony Ridge
 5734 Fremont Pike, Stony Ridge, OH, 43463
@@ -2012,14 +1742,12 @@
 🌐 https://www.chsohio.org
 🏥 Services: Primary Care
 📞 419-318-8652
-🗺 https://maps.google.com/?q=41.51019,-83.50651
 
 272. FMC - SBHC Pugliese West Elementary School
 435 John Scott Hwy, Steubenville, OH, 43952-3026
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-797-7733
-🗺 https://maps.google.com/?q=40.37830,-80.66258
 
 273. Navarre Park Family Care Center
 1020 VARLAND AVE, TOLEDO, OH, 43605-3245
@@ -2027,14 +1755,12 @@
 🌐 https://nhainc.org
 🏥 Services: Primary Care
 📞 419-696-1515
-🗺 https://maps.google.com/?q=41.63082,-83.51469
 
 274. Waite Health Center
 301 Morrison Dr, Toledo, OH, 43605-2124
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 419-221-3072 x8203
-🗺 https://maps.google.com/?q=41.64915,-83.51813
 
 275. The Access Center
 117 Main St, Toledo, OH, 43605-2091
@@ -2042,14 +1768,12 @@
 🌐 https://www.nhainc.org
 🏥 Services: Primary Care
 📞 419-691-1322
-🗺 https://maps.google.com/?q=41.64809,-83.52276
 
 276. NHA Mobile Unit
 1127 E Central Ave, Toledo, OH, 43608
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 419-720-7883 x1033
-🗺 https://maps.google.com/?q=41.67925,-83.52132
 
 277. HURON STREET WOMEN'S CENTER
 923 N Huron St, Toledo, OH, 43604-1715
@@ -2057,7 +1781,6 @@
 🌐 https://www.nhainc.org
 🏥 Services: Primary Care; Women's health
 📞 419-242-6028
-🗺 https://maps.google.com/?q=41.65880,-83.52814
 
 278. Doc's Remedy Shoppe
 12 N Saint Clair St, Toledo, OH, 43604-1028
@@ -2065,7 +1788,6 @@
 🌐 https://nhainc.org/hensville-health
 🏥 Services: Primary Care
 📞 567-420-3100
-🗺 https://maps.google.com/?q=41.64770,-83.53754
 
 279. Michigan Street Healthcare Center
 237 N Michigan St, Toledo, OH, 43604-5613
@@ -2073,7 +1795,6 @@
 🌐 https://www.nhainc.org
 🏥 Services: Primary Care
 📞 419-214-0075
-🗺 https://maps.google.com/?q=41.65332,-83.54007
 
 280. Nexus Health Care
 1415 Jefferson Ave, Toledo, OH, 43604-5827
@@ -2081,14 +1802,12 @@
 🌐 https://www.nhainc.org
 🏥 Services: Primary Care
 📞 419-720-7883
-🗺 https://maps.google.com/?q=41.65458,-83.54571
 
 281. FMC - SBHC McKinley STEM Academy
 1400 Adams St, Steubenville, OH, 43952-2678
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-797-7733
-🗺 https://maps.google.com/?q=40.36009,-80.63004
 
 282. Jones Leadership Academy of Business
 615 Division St, Toledo, OH, 43604-8400
@@ -2096,7 +1815,6 @@
 🌐 https://www.nhainc.org
 🏥 Services: Primary Care
 📞 419-720-7883
-🗺 https://maps.google.com/?q=41.64574,-83.55280
 
 283. Cordelia Martin Health Center
 430 Nebraska Ave, Toledo, OH, 43604-8540
@@ -2104,7 +1822,6 @@
 🌐 https://www.nhainc.org
 🏥 Services: Primary Care
 📞 419-255-7883
-🗺 https://maps.google.com/?q=41.64536,-83.55354
 
 284. SOUTH SIDE COMMUNITY HEALTH CTR
 732 South Ave, Toledo, OH, 43609-2768
@@ -2112,7 +1829,6 @@
 🌐 https://www.nhainc.org
 🏥 Services: Primary Care
 📞 419-241-6106
-🗺 https://maps.google.com/?q=41.63112,-83.55734
 
 285. Compassion Health Toledo - Broadway
 1638 Broadway Street, Toledo, OH, 43609-3240
@@ -2120,7 +1836,6 @@
 🌐 https://www.compassionhealthtoledo.org/
 🏥 Services: Primary Care
 📞 567-661-0565
-🗺 https://maps.google.com/?q=41.63023,-83.55786
 
 286. NHA Senior Care Clinic
 1 Aurora L Gonzalez Dr, Toledo, OH, 43609-2783
@@ -2128,7 +1843,6 @@
 🌐 https://www.nhainc.org
 🏥 Services: Primary Care
 📞 419-241-4230
-🗺 https://maps.google.com/?q=41.63182,-83.56310
 
 287. Nebraska Primary Care
 905 Nebraska Ave, Toledo, OH, 43607-4222
@@ -2136,7 +1850,6 @@
 🌐 https://www.zepfcenter.org
 🏥 Services: Primary Care
 📞 419-841-7701
-🗺 https://maps.google.com/?q=41.64523,-83.56619
 
 288. Bowsher Health Center
 2200 Arlington Ave, Toledo, OH, 43614-2688
@@ -2144,7 +1857,6 @@
 🌐 https://hpwohio.org
 🏥 Services: Primary Care
 📞 419-221-3072
-🗺 https://maps.google.com/?q=41.62456,-83.59864
 
 289. Start Health Center
 2010 Tremainsville Rd, Toledo, OH, 43613-3947
@@ -2152,7 +1864,6 @@
 🌐 http://hpwohio.org
 🏥 Services: Primary Care
 📞 419-221-3072
-🗺 https://maps.google.com/?q=41.69929,-83.59182
 
 290. Vision Van #6
 222 Mctigue Dr, Toledo, OH, 43615-5164
@@ -2160,7 +1871,6 @@
 🌐 https://www.hpwohio.org
 🏥 Services: Primary Care
 📞 419-221-3072
-🗺 https://maps.google.com/?q=41.64472,-83.67342
 
 291. Springfield Health Center
 1470 S McCord Road  RM 126, Holland, OH, 43528-9414
@@ -2168,21 +1878,18 @@
 🌐 https://www.hpwohio.org
 🏥 Services: Primary Care
 📞 419-221-3072
-🗺 https://maps.google.com/?q=41.61595,-83.70481
 
 292. Central
 6605 W Central Ave, Toledo, OH, 43617-1000
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 419-841-7701
-🗺 https://maps.google.com/?q=41.67497,-83.70083
 
 293. Southeast Inc., Mobile Medical Unit - Eastern Ohio
 68353 Bannock Rd, Saint Clairsville, OH, 43950-9736
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 740-695-9344
-🗺 https://maps.google.com/?q=40.07954,-80.96915
 
 294. OHHC St. Clairsville
 68332 Bannock Rd, Saint Clairsville, OH, 43950-9736
@@ -2190,7 +1897,6 @@
 🌐 https://www.ohiohillshealth.org
 🏥 Services: Primary Care
 📞 740-238-6447
-🗺 https://maps.google.com/?q=40.07512,-80.97665
 
 295. OHHC Belmont Career Center
 68090 Hammond Road, St Clairsville, OH, 43950-9817
@@ -2198,7 +1904,6 @@
 🌐 https://www.ohiohills.org
 🏥 Services: Primary Care
 📞 740-239-6447
-🗺 https://maps.google.com/?q=40.07704,-80.96709
 
 296. OHHC Bellaire
 349 35th St, Bellaire, OH, 43906-1278
@@ -2206,21 +1911,18 @@
 🌐 https://www.ohiohills.org
 🏥 Services: Primary Care
 📞 740-239-6447
-🗺 https://maps.google.com/?q=40.01751,-80.74214
 
 297. Deaconess Health Check at Western Hills
 2146 Ferguson Rd, Cincinnati, OH, 45238-3720
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 513-363-8770
-🗺 https://maps.google.com/?q=39.12476,-84.59874
 
 298. Meridian Health Services Corp
 2002 Sunset Blvd, Steubenville, OH, 43952-1381
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 765-641-7499
-🗺 https://maps.google.com/?q=40.09972,-85.66977
 
 299. University Of Toledo Medical Center
 3000 Arlington Ave, Toledo, OH 43614-2595

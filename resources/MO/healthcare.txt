@@ -49,7 +49,6 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 816-474-4920
-🗺 https://maps.google.com/?q=39.10407,-94.55715
 
 8. Swope Health - Operation Breakthrough
 3039 Troost Ave, Kansas City, MO, 64109-1540
@@ -57,14 +56,12 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://www.swopehealth.org
 🏥 Services: Primary Care
 📞 816-321-3791
-🗺 https://maps.google.com/?q=39.07106,-94.57063
 
 9. Kansas City CARE Clinic
 3507 Broadway Blvd, Kansas City, MO, 64111
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 816-753-5411
-🗺 https://maps.google.com/?q=39.06360,-94.58996
 
 10. Swope Health - Emmanuel Family & Child Development Center
 4736 Prospect Ave, Kansas City, MO, 64130-2602
@@ -72,7 +69,6 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://www.swopehealth.org
 🏥 Services: Primary Care
 📞 816-923-5800
-🗺 https://maps.google.com/?q=39.03968,-94.55447
 
 11. SWOPE HEALTH SERVICES CENTRAL.
 3801 Dr Martin Luther King Jr Blvd, Kansas City, MO, 64130-2807
@@ -80,7 +76,6 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://WWW.SWOPEHEALTH.ORG
 🏥 Services: Primary Care
 📞 816-923-5800
-🗺 https://maps.google.com/?q=39.02881,-94.50755
 
 12. Swope Health Independence
 11320 East Truman Road, Independence, MO, 64050-2564
@@ -88,14 +83,12 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://www.swopehealth.org
 🏥 Services: Primary Care
 📞 816-599-5200
-🗺 https://maps.google.com/?q=39.09533,-94.44334
 
 13. Swope Health - Hickman Mills
 6406 E 87th St, Kansas City, MO, 64138-2800
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 816-321-3200
-🗺 https://maps.google.com/?q=38.96755,-94.51357
 
 14. Swope Health - Tenney Pediatrics
 6501 E 87th St, Kansas City, MO, 64138-2732
@@ -103,7 +96,6 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://www.swopehealth.org
 🏥 Services: Primary Care; Pediatrics
 📞 816-923-5800
-🗺 https://maps.google.com/?q=38.96677,-94.51313
 
 15. Swope Health Services - Maple Woods
 3100 NE 83rd St Ste 1001 # 140, Kansas City, MO, 64119-4460
@@ -111,7 +103,6 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://www.swopehealth.org
 🏥 Services: Primary Care
 📞 816-923-5800
-🗺 https://maps.google.com/?q=39.24358,-94.54152
 
 16. HCC Network - Independence
 17611 E US Highway 24  STE HCC, Independence, MO, 64056-1853
@@ -119,21 +110,18 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://hccnetwork.org/
 🏥 Services: Primary Care
 📞 877-344-3572
-🗺 https://maps.google.com/?q=39.12022,-94.36885
 
 17. Swope Health - Platte County
 7925 NW 110th St, Kansas City, MO, 64153-1288
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 816-923-5800
-🗺 https://maps.google.com/?q=39.29128,-94.67853
 
 18. Compass Health, Inc.
 901 NE Independence Ave, Lees Summit, MO, 64086-5544
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 816-966-0900
-🗺 https://maps.google.com/?q=38.92899,-94.36397
 
 19. HCC Network - Buckner
 324 S Hudson St, Buckner, MO, 64016-8142
@@ -141,7 +129,6 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://hccnetwork.org/
 🏥 Services: Primary Care
 📞 816-249-1521
-🗺 https://maps.google.com/?q=39.13288,-94.19924
 
 20. Swope Health - Excelsior Springs Pediatric Clinic
 500 N Jesse James Rd, Excelsior Springs, MO, 64024-3614
@@ -149,14 +136,12 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://www.swopehealth.org
 🏥 Services: Primary Care
 📞 816-923-5800
-🗺 https://maps.google.com/?q=39.34563,-94.24083
 
 21. Gower Family Medicine
 313 S US Highway 169, Gower, MO, 64454-9116
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 816-424-6427
-🗺 https://maps.google.com/?q=39.60865,-94.59273
 
 22. HCC Network - Mobile Dental II
 811 S Business Highway 13 Ste A, Lexington, MO, 64067-1572
@@ -164,7 +149,6 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://hccnetwork.org/
 🏥 Services: Primary Care
 📞 660-251-6440
-🗺 https://maps.google.com/?q=39.16813,-93.87829
 
 23. South Side Health Center
 5001 Lake Ave, Saint Joseph, MO, 64504-1170
@@ -172,21 +156,18 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 http://www.nwhealth-services.org/
 🏥 Services: Primary Care
 📞 816-238-7788
-🗺 https://maps.google.com/?q=39.72277,-94.86185
 
 24. Swope Health KidsCARE - St. Joseph
 711 N. 36th St.  STE A, St Joseph, MO, 64506-2976
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 816-923-5800
-🗺 https://maps.google.com/?q=39.77267,-94.80480
 
 25. Northwest Health Services Downtown Health Center
 503 S 6th St, Saint Joseph, MO, 64501-2224
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 816-271-8262
-🗺 https://maps.google.com/?q=39.76324,-94.85266
 
 26. Northwest Health Mobile Unit
 2303 Village Dr, Saint Joseph, MO, 64506-4954
@@ -194,21 +175,18 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://www.nwhealth-services.org
 🏥 Services: Primary Care
 📞 816-232-6818
-🗺 https://maps.google.com/?q=39.78813,-94.79885
 
 27. NHS North End Health Center
 1000 5th Ave # 1000, Saint Joseph, MO, 64505-2111
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 816-233-3338
-🗺 https://maps.google.com/?q=39.78749,-94.84789
 
 28. Katy Trail Dental Johnson County Health Dept
 723 Pca Rd, Warrensburg, MO, 64093-7913
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 660-826-4774
-🗺 https://maps.google.com/?q=38.77385,-93.71894
 
 29. Braymer Clinic
 109 MAIN STREET, BRAYMER, MO, 64624-0036
@@ -216,14 +194,12 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 http://www.nwhealth-services.org/
 🏥 Services: Primary Care
 📞 660-645-2218
-🗺 https://maps.google.com/?q=39.58681,-93.79525
 
 30. Hamilton Middle and High School Based Health Center
 419 S Hughes St, Hamilton, MO, 64644-1352
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 816-583-2173
-🗺 https://maps.google.com/?q=39.73792,-94.00048
 
 31. HCC Network  - Concordia
 206 N Bismark STE A, Concordia, MO, 64020-8101
@@ -231,7 +207,6 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://hccnetwork.org/
 🏥 Services: Primary Care
 📞 660-463-0234
-🗺 https://maps.google.com/?q=38.99121,-93.57068
 
 32. HCC Network - Waverly
 608 Missouri St, Waverly, MO, 64096-8241
@@ -239,7 +214,6 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://hccnetwork.org/
 🏥 Services: Primary Care
 📞 660-493-2262
-🗺 https://maps.google.com/?q=39.20615,-93.53018
 
 33. Savannah Medical Clinic
 803 Highway 71  W, SAVANNAH, MO, 64485-1151
@@ -247,7 +221,6 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 http://www.nwhealth-services.org/
 🏥 Services: Primary Care
 📞 816-324-3121
-🗺 https://maps.google.com/?q=39.94704,-94.83400
 
 34. HCC Network - Carrollton
 718 Harvest Hills Dr, Carrollton, MO, 64633-2412
@@ -255,14 +228,12 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://www.hccnetwork.org
 🏥 Services: Primary Care
 📞 660-322-7272
-🗺 https://maps.google.com/?q=39.36794,-93.48373
 
 35. Gallatin Elementary School Based Health Center
 502 S Olive St, Gallatin, MO, 64640-9470
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 660-663-2173
-🗺 https://maps.google.com/?q=39.91026,-93.97153
 
 36. King City Clinic
 305 Rhode Island St, King City, MO, 64463-9622
@@ -270,28 +241,24 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 http://www.nwhealth-services.org/
 🏥 Services: Primary Care
 📞 660-535-4347
-🗺 https://maps.google.com/?q=40.05403,-94.52649
 
 37. Northwest Health Services - Chillicothe
 300 W Business 36, Chillicothe, MO, 64601-3362
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 816-232-6818
-🗺 https://maps.google.com/?q=39.77473,-93.54571
 
 38. Marshall High School
 805 S Miami Ave, Marshall, MO, 65340-2438
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 660-826-4774
-🗺 https://maps.google.com/?q=39.11379,-93.20997
 
 39. Katy Trail Community Health Bueker Middle School
 565 S Odell Ave, Marshall, MO, 65340-2122
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 660-886-6833
-🗺 https://maps.google.com/?q=39.11617,-93.19536
 
 40. REGIONAL HEALTH CARE CLINIC, INC., dba Katy Trail Community Health
 821 Westwood Dr, Sedalia, MO, 65301-2102
@@ -299,21 +266,18 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://katyhealth.org
 🏥 Services: Primary Care
 📞 660-826-4774 x25
-🗺 https://maps.google.com/?q=38.70891,-93.27254
 
 41. Horace Mann Elementary School
 1100 W 16th St, Sedalia, MO, 65301-7010
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 660-826-4774
-🗺 https://maps.google.com/?q=38.69838,-93.24089
 
 42. Washington Elementary School
 610 S Engineer Ave, Sedalia, MO, 65301-4734
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 660-826-4774
-🗺 https://maps.google.com/?q=38.70501,-93.21381
 
 43. Mound City Clinic
 1303 State St, Mound City, MO, 64470
@@ -321,35 +285,30 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://www.nwhealth-services.org
 🏥 Services: Primary Care
 📞 816-596-4006
-🗺 https://maps.google.com/?q=40.13840,-95.23797
 
 44. Katy Trail Community Health Cole Camp R-1
 500 S Keeney St, Cole Camp, MO, 65325-1059
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 660-668-4427
-🗺 https://maps.google.com/?q=38.45660,-93.20978
 
 45. Warsaw North Elementary
 134 W Kosciusko St, Warsaw, MO, 65355
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 660-826-4774
-🗺 https://maps.google.com/?q=38.24529,-93.37791
 
 46. Katy Trail Community Health Warsaw Schools
 20363 Lane Of Champions, Warsaw, MO, 65355-6463
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 660-438-9079
-🗺 https://maps.google.com/?q=38.22030,-93.33598
 
 47. OCHC - Weaubleau Schools
 22320 Center St  RM 103, Weaubleau, MO, 65774-8250
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 417-428-3368
-🗺 https://maps.google.com/?q=37.89517,-93.54372
 
 48. Cainsville Medical Clinic
 707 VICTORY LANE, CAINSVILLE, MO, 64632-0000
@@ -357,56 +316,48 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 http://www.nwhealth-services.org/
 🏥 Services: Primary Care
 📞 660-893-5750
-🗺 https://maps.google.com/?q=40.43795,-93.77430
 
 49. OCHC - Wheatland School
 18808 State Hwy 83  RM 117, Wheatland, MO, 65779
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 417-282-5833
-🗺 https://maps.google.com/?q=37.94183,-93.40229
 
 50. Katy Trail Community Health Morgan County RII
 913 W Newton St, Versailles, MO, 65084-1811
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 573-378-4231
-🗺 https://maps.google.com/?q=38.43172,-92.85360
 
 51. Princeton School
 1008 E Coleman St, Princeton, MO, 64673-1210
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 660-748-3022
-🗺 https://maps.google.com/?q=40.39399,-93.58294
 
 52. OCHC - Humansville Schools
 300 N Oak St  RM 205, Humansville, MO, 65674-8715
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 417-754-2221
-🗺 https://maps.google.com/?q=37.79779,-93.57408
 
 53. OCHC - Hermitage Dental Clinic
 18627 Jackson St, Hermitage, MO, 65668-8204
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 417-745-2134
-🗺 https://maps.google.com/?q=37.94187,-93.31535
 
 54. OCHC - Hermitage School
 23824 Polk St  RM 306, Hermitage, MO, 65668-8213
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 417-745-6277
-🗺 https://maps.google.com/?q=37.94064,-93.31231
 
 55. OCHC - Stockton Dental Clinic
 201 W Smith Dr, Stockton, MO, 65785-7620
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 417-276-8884
-🗺 https://maps.google.com/?q=37.69072,-93.79824
 
 56. Northeast Family Health
 52334 Business Highway 5, Milan, MO, 63556-3040
@@ -414,14 +365,12 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://nmhcinc.org
 🏥 Services: Primary Care
 📞 660-265-1042
-🗺 https://maps.google.com/?q=40.18378,-93.13390
 
 57. OCHC - Hickory County R-I (Skyline)
 20663 US Hwy 65  RM 1, Urbana, MO, 65767
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 417-993-4226
-🗺 https://maps.google.com/?q=37.90985,-93.19250
 
 58. ACCESS Family Care Lamar Dental
 805 Broadway St, Lamar, MO, 64759-1224
@@ -429,7 +378,6 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://www.accessfamilycare.org
 🏥 Services: Primary Care
 📞 417-262-6070
-🗺 https://maps.google.com/?q=37.49722,-94.27641
 
 59. ACCESS Mobile BH Unit #2
 210 W 10th St, Lamar, MO, 64759-1405
@@ -437,14 +385,12 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://www.accessfamilycare.org
 🏥 Services: Primary Care
 📞 417-451-9450
-🗺 https://maps.google.com/?q=37.49603,-94.27889
 
 60. North Mercer School
 400 Main St, Mercer, MO, 64661-7523
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 660-382-4214
-🗺 https://maps.google.com/?q=40.51123,-93.52694
 
 61. Clarity Healthcare
 301 W Martin St, Cairo, MO, 65239-1006
@@ -459,28 +405,24 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 417-328-6334
-🗺 https://maps.google.com/?q=37.61426,-93.41072
 
 63. OCHC - Dadeville School
 17 Bearcat Trl  RM 1, Dadeville, MO, 65635
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 417-995-2201
-🗺 https://maps.google.com/?q=37.48166,-93.67435
 
 64. OCHC - Greenfield Dental Clinic
 3 N State Highway 39, Greenfield, MO, 65661-9401
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 417-637-5933
-🗺 https://maps.google.com/?q=37.41956,-93.84586
 
 65. COMC Hy-Vee Clinic
 931 Highway D, Osage Beach, MO, 65065-3169
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 877-406-2662
-🗺 https://maps.google.com/?q=38.16238,-92.60477
 
 66. COMC Camdenton School Site
 172 Dare Blvd, Camdenton, MO, 65020
@@ -488,21 +430,18 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://www.centralozarks.org
 🏥 Services: Primary Care
 📞 573-346-5651
-🗺 https://maps.google.com/?q=38.00566,-92.73527
 
 67. OCHC - Halfway Schools
 2150 MO-32  RM 24, Halfway, MO, 65663
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 417-445-2211
-🗺 https://maps.google.com/?q=37.61582,-93.24023
 
 68. OCHC - Marion C. Early School
 5305 S. Main St. RM #HS307/#MS205, Morrisville, MO, 65710
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 417-376-2215
-🗺 https://maps.google.com/?q=37.48056,-93.42792
 
 69. Jordan Valley Community Health Center - Buffalo
 119 N Ash St, Buffalo, MO, 65622-8590
@@ -510,56 +449,48 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://www.JordanValley.org
 🏥 Services: Primary Care
 📞 417-831-0150
-🗺 https://maps.google.com/?q=37.64500,-93.10478
 
 70. Northeast Pediatrics
 402 W. Jefferson STE A, Kirksville, MO, 63501-3407
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 660-627-2229
-🗺 https://maps.google.com/?q=40.19311,-92.58630
 
 71. OB/GYN Specialty Group
 402 W. Jefferson STE B, Kirksville, MO, 63501-3407
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 660-665-3555
-🗺 https://maps.google.com/?q=40.19311,-92.58627
 
 72. Mobile Van 1
 402 W. Jefferson, Kirksville, MO, 63501-3407
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 660-665-2741
-🗺 https://maps.google.com/?q=40.19325,-92.58583
 
 73. Kirksville Veteran's Clinic
 506 Rosewood Dr, Kirksville, MO, 63501-2437
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 660-627-8387
-🗺 https://maps.google.com/?q=40.20874,-92.57908
 
 74. CHCCMO- Medical Mobile Unit
 1511 Christy Dr, Jefferson City, MO, 65101-2854
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 573-632-2777
-🗺 https://maps.google.com/?q=38.55980,-92.18947
 
 75. ACCESS Family Care Carthage Clinic
 1335 E Fairview Ave, Carthage, MO, 64836-3125
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 417-674-2141
-🗺 https://maps.google.com/?q=37.15530,-94.29287
 
 76. New Bloomfield School
 307 Redwood Dr, New Bloomfield, MO, 65063-5417
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 573-632-2777
-🗺 https://maps.google.com/?q=38.72021,-92.08774
 
 77. Medical Mobile Clinic (Medical Van #1)
 530 S Maiden Ln, Joplin, MO, 64801-3084
@@ -567,7 +498,6 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://www.accessfamilycare.org
 🏥 Services: Primary Care
 📞 417-451-9450 x207
-🗺 https://maps.google.com/?q=37.08671,-94.53240
 
 78. Lafayette House
 1809 S Connor Ave, Joplin, MO, 64804-1837
@@ -575,14 +505,12 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://www.accessfamilycare.org
 🏥 Services: Primary Care
 📞 417-451-9450 x2337
-🗺 https://maps.google.com/?q=37.07172,-94.52275
 
 79. COMC Iberia School Site
 201 Pemberton Dr, Iberia, MO, 65486-9329
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 573-765-5131
-🗺 https://maps.google.com/?q=38.08679,-92.30027
 
 80. Lebanon R-III - Esther Elementary School
 1200 Clark Ave, Lebanon, MO, 65536-2331
@@ -590,35 +518,30 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://www.lebanon.k12.mo.us/esther
 🏥 Services: Primary Care
 📞 417-532-3961
-🗺 https://maps.google.com/?q=37.69608,-92.66468
 
 81. Arthur Center Community Behavioral Health
 581 Commons Dr, Fulton, MO, 65251-1408
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 573-642-3215
-🗺 https://maps.google.com/?q=38.83042,-91.95931
 
 82. Lebanon R-III - Hillcrest Education Center
 301 Hoover St, Lebanon, MO, 65536-2685
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 417-657-6008
-🗺 https://maps.google.com/?q=37.68204,-92.67758
 
 83. COMC Stoutland School Clinic
 7584 State Hwy T, Stoutland, MO, 65567
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 573-765-5141
-🗺 https://maps.google.com/?q=37.81644,-92.51549
 
 84. Mobile Dental Unit
 340 Kelley Pkwy, Mexico, MO, 65265-3811
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 573-582-1234
-🗺 https://maps.google.com/?q=39.14463,-91.88685
 
 85. COMC Administration and Behavioral Health
 112 W McClurg Ave, Richland, MO, 65556-7601
@@ -626,21 +549,18 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://www.centralozarks.org
 🏥 Services: Primary Care
 📞 620-765-5131
-🗺 https://maps.google.com/?q=37.85718,-92.40446
 
 86. COMC Richland School Clinic
 714 E Jefferson Ave, Richland, MO, 65556-8202
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 573-765-5141
-🗺 https://maps.google.com/?q=37.85940,-92.38722
 
 87. CHCCMO South Callaway School
 10135 State Road C, Mokane, MO, 65059-1213
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 573-632-2777
-🗺 https://maps.google.com/?q=38.68892,-91.89279
 
 88. JVCHC Mobile Unit 1 (June)
 618 N Benton Ave, Springfield, MO, 65806-1102
@@ -648,35 +568,30 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://www.jordanvalley.org
 🏥 Services: Primary Care
 📞 417-831-0150
-🗺 https://maps.google.com/?q=37.21455,-93.28711
 
 89. Central Ozarks Medical Center - Crocker
 101 12th St, Crocker, MO, 65452-9203
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 877-406-2662
-🗺 https://maps.google.com/?q=37.94630,-92.26486
 
 90. Republic R-III Sweeny Elementary School
 720 North Main Street, Republic, MO, 65738
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 417-732-3670
-🗺 https://maps.google.com/?q=37.12831,-93.47946
 
 91. Republic R- III Early Childhood Center
 318 E Hines St, Republic, MO, 65738-1144
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 417-735-3736
-🗺 https://maps.google.com/?q=37.12503,-93.47474
 
 92. Jordan Valley Health - ARC Primary Care Clinic
 2864 S Nettleton Ave, Springfield, MO, 65807-5970
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 417-605-7100
-🗺 https://maps.google.com/?q=37.16202,-93.31180
 
 93. Neosho Schools- Field Early Childhood Center
 302 Smith Ave, Neosho, MO, 64850
@@ -684,7 +599,6 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://www.accessfamilycare.org
 🏥 Services: Primary Care
 📞 417-451-9450 x207
-🗺 https://maps.google.com/?q=36.87858,-94.37189
 
 94. Neosho Schools- Central Campus
 301 Big Spring Dr, Neosho, MO, 64850
@@ -692,7 +606,6 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://www.accessfamilycare.org
 🏥 Services: Primary Care
 📞 417-451-9450 x3216
-🗺 https://maps.google.com/?q=36.86771,-94.37162
 
 95. Neosho High School
 511 S Neosho Blvd, Neosho, MO, 64850
@@ -700,14 +613,12 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://www.accessfamilycare.org
 🏥 Services: Primary Care
 📞 417-451-9450
-🗺 https://maps.google.com/?q=36.86377,-94.38059
 
 96. COMC Waynesville School Site
 200 Fleetwood Dr, Waynesville, MO, 65583-2266
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 573-842-2097
-🗺 https://maps.google.com/?q=37.81931,-92.21911
 
 97. Neosho Schools- South Elementary
 1111 Wornall St, Neosho, MO, 64850
@@ -715,7 +626,6 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://www.accessfamilycare.org
 🏥 Services: Primary Care
 📞 417-451-9450 x207
-🗺 https://maps.google.com/?q=36.85553,-94.38146
 
 98. Neosho Dental Clinic
 2209 Oak Ridge Dr, Neosho, MO, 64850-9092
@@ -723,14 +633,12 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://www.accessfamilycare.org
 🏥 Services: Primary Care
 📞 417-451-0977
-🗺 https://maps.google.com/?q=36.84516,-94.37803
 
 99. Memphis Community Health Center
 118 E Grand Ave, Memphis, MO, 63555
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 660-627-5757
-🗺 https://maps.google.com/?q=40.45145,-92.16842
 
 100. Other Activities: Portable Clinical Care Delivery Sites
 1059 BARTON DR, FORDLAND, MO, 65652-7350
@@ -738,7 +646,6 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 http://www.fordlandclinic.org
 🏥 Services: Primary Care
 📞 417-767-2273
-🗺 https://maps.google.com/?q=37.16221,-92.92500
 
 101. ACCESS Family Care of Anderson
 927 N. HIGHWAY 71 BUSINESS, ANDERSON, MO, 64831-0687
@@ -746,7 +653,6 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://www.accessfamilycare.org
 🏥 Services: Primary Care
 📞 417-845-8300
-🗺 https://maps.google.com/?q=36.66944,-94.44264
 
 102. ACCESS Family Care-- Cassville
 4016 North Main St, Cassville, MO, 65625-1118
@@ -754,21 +660,18 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://www.accessfamilycare.org
 🏥 Services: Primary Care
 📞 417-847-0057
-🗺 https://maps.google.com/?q=36.68711,-93.86425
 
 103. Four Rivers Community Health Center
 509 E 10th St, Rolla, MO, 65401-3302
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 573-426-4455
-🗺 https://maps.google.com/?q=37.95150,-91.76598
 
 104. RHCHC Evans Junior High
 165 Park Dr, Saint Robert, MO, 65584
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 641-684-6522
-🗺 https://maps.google.com/?q=41.00346,-92.43431
 
 105. MISSOURI OZARKS COMMUNITY HEALTH
 804 N HIGHWAY 5, MANSFIELD, MO, 65704-7301
@@ -776,7 +679,6 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://www.mo-ozarks.org
 🏥 Services: Primary Care
 📞 417-924-8809
-🗺 https://maps.google.com/?q=37.12682,-92.57299
 
 106. Reeds Spring Elementary School
 300 Wolves Ln, Reeds Spring, MO, 65737-9796
@@ -784,7 +686,6 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 http://es.rs-wolves.com/
 🏥 Services: Primary Care
 📞 417-272-1735
-🗺 https://maps.google.com/?q=36.72950,-93.39192
 
 107. White Rock School
 119 White Rock Rd, Pineville, MO, 64856
@@ -792,21 +693,18 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://www.accessfamilycare.org
 🏥 Services: Primary Care
 📞 417-782-6200 x115
-🗺 https://maps.google.com/?q=36.55119,-94.30117
 
 108. HWC Provider+ Bartlesville
 27600 Highway AA, Laquey, MO, 65534-7694
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 539-337-0006
-🗺 https://maps.google.com/?q=36.75094,-95.96465
 
 109. Gateway Classic
 2012 Dr Martin Luther King Dr, Saint Louis, MO, 63106-2819
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 314-367-7848
-🗺 https://maps.google.com/?q=38.63678,-90.20779
 
 110. Affinia Healthcare 1717 Biddle
 1717 Biddle St, Saint Louis, MO, 63106-3454
@@ -814,7 +712,6 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://www.affiniahealthcare.org
 🏥 Services: Primary Care, Ryan White HIV/AIDS Program
 📞 314-814-8585
-🗺 https://maps.google.com/?q=38.63936,-90.20172
 
 111. Affinia Healthcare at The St. Louis Dental Center
 1500 Park Ave, Saint Louis, MO, 63104-3024
@@ -822,14 +719,12 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://www.affiniahealthcare.org
 🏥 Services: Primary Care; Dental
 📞 314-898-1700
-🗺 https://maps.google.com/?q=38.61557,-90.20895
 
 112. Flance Early Learning Center
 1908 O&#39;Fallon St  STE 1, SAINT LOUIS, MO, 63106-3259
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 314-814-8698
-🗺 https://maps.google.com/?q=38.63722,-90.18289
 
 113. Vashon High School
 3035 Cass Ave, Saint Louis, MO, 63106-1533
@@ -837,14 +732,12 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://www.phcenters.org
 🏥 Services: Primary Care
 📞 314-533-9487
-🗺 https://maps.google.com/?q=38.64693,-90.22151
 
 114. Places for People
 1001 Lynch St, Saint Louis, MO, 63118-1818
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care, Ryan White HIV/AIDS Program
 📞 314-535-5600
-🗺 https://maps.google.com/?q=38.60000,-90.21116
 
 115. Family Care Health Centers at RUNG
 2717 Sidney St, Saint Louis, MO, 63104-2329
@@ -852,14 +745,12 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https:/rungforwomen.org
 🏥 Services: Primary Care
 📞 314-437-0364
-🗺 https://maps.google.com/?q=38.60620,-90.22589
 
 116. SIHF Healthcare – Windsor II
 3027 PROSPECT AVE, KANSAS CITY, MO, 64128-1530
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 618-332-0694
-🗺 https://maps.google.com/?q=38.62224,-90.15763
 
 117. FOREST PARK SOUTHEAST
 4352 MANCHESTER AVE, ST. LOUIS, MO, 63110-2138
@@ -867,7 +758,6 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://familycarehealthcenter.org
 🏥 Services: Primary Care
 📞 314-531-5444
-🗺 https://maps.google.com/?q=38.62658,-90.25796
 
 118. International Institute
 3654 S Grand Blvd, Saint Louis, MO, 63118-3404
@@ -875,7 +765,6 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://WWW.PHCENTERS.ORG
 🏥 Services: Primary Care
 📞 314-773-9090
-🗺 https://maps.google.com/?q=38.59028,-90.24376
 
 119. Health Care For Kids
 5647 Delmar Blvd, Saint Louis, MO, 63112-2615
@@ -883,7 +772,6 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://www.phcenters.org
 🏥 Services: Primary Care
 📞 314-367-7848
-🗺 https://maps.google.com/?q=38.65424,-90.28406
 
 120. Adult Services
 5669 Delmar Blvd, Saint Louis, MO, 63112-2615
@@ -891,7 +779,6 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://www.phcenters.org
 🏥 Services: Primary Care
 📞 314-367-7848 x1209
-🗺 https://maps.google.com/?q=38.65406,-90.28471
 
 121. Betty Jean Kerr People's Health Centers
 5701 Delmar Blvd, Saint Louis, MO, 63112-2617
@@ -899,7 +786,6 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://WWW.PHCENTERS.ORG
 🏥 Services: Primary Care
 📞 314-367-7848 x1209
-🗺 https://maps.google.com/?q=38.65441,-90.28548
 
 122. CARONDELET
 401 HOLLY HILLS AVE, ST LOUIS, MO, 63111-2410
@@ -907,7 +793,6 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://www.familycarehealthcenter.org
 🏥 Services: Primary Care
 📞 314-481-1615
-🗺 https://maps.google.com/?q=38.55842,-90.25092
 
 123. North Central Community Health Center
 4000 Jennings Station Rd, Saint Louis, MO, 63121-3323
@@ -915,7 +800,6 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://clinics.stlouiscountymo.gov/
 🏥 Services: Primary Care
 📞 314-615-9700
-🗺 https://maps.google.com/?q=38.69472,-90.27414
 
 124. Normandy High School
 6701 Saint Charles Rock Rd, Saint Louis, MO, 63133-1705
@@ -923,7 +807,6 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://www.phcenters.org
 🏥 Services: Primary Care
 📞 314-493-0600
-🗺 https://maps.google.com/?q=38.68183,-90.29759
 
 125. YWCA Head Start Program
 1911 Belt Way Dr, Saint Louis, MO, 63114-5825
@@ -931,7 +814,6 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://WWW.PHCENTERS.ORG
 🏥 Services: Primary Care
 📞 314-427-4940
-🗺 https://maps.google.com/?q=38.69048,-90.35051
 
 126. People's Healthcare Services
 49 N Florissant Rd Ste 101, Ferguson, MO, 63135-2312
@@ -939,7 +821,6 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://www.phcenters.org
 🏥 Services: Primary Care
 📞 314-633-8921
-🗺 https://maps.google.com/?q=38.74669,-90.30600
 
 127. Affinia Healthcare Ferguson
 3396 Pershall Rd, Ferguson, MO, 63135
@@ -947,7 +828,6 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://www. affiniahealthcare.org
 🏥 Services: Primary Care
 📞 314-898-1700
-🗺 https://maps.google.com/?q=38.76899,-90.28333
 
 128. John C Murphy Health Center
 6121 N Hanley Rd, Berkeley, MO, 63134-2003
@@ -955,21 +835,18 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://clinics.stlouiscountymo.gov/
 🏥 Services: Primary Care
 📞 314-615-0500
-🗺 https://maps.google.com/?q=38.74855,-90.33595
 
 129. Richwoods R-VII School District
 10788 State Highway A Rm 128, Richwoods, MO, 63071-2548
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 573-438-9355
-🗺 https://maps.google.com/?q=38.16100,-90.82715
 
 130. Kingston Elementary/Primary School
 10047 Diamond Road  RM 2, Cadet, MO, 63630-9581
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 573-438-9355
-🗺 https://maps.google.com/?q=38.06727,-90.74507
 
 131. Kingston K-14 School District
 10047 Diamond Rd Rm 809, Cadet, MO, 63630-9581
@@ -977,63 +854,54 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://GMHCENTER.ORG
 🏥 Services: Primary Care
 📞 573-438-9355
-🗺 https://maps.google.com/?q=38.06727,-90.74507
 
 132. North St. Francois County R-I NC Primary
 405 Hillcrest Drive  RM GM1, Bonne Terre, MO, 63628-1421
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 573-438-9355
-🗺 https://maps.google.com/?q=37.91693,-90.52946
 
 133. North St. Francois County R-I Intermediate
 801 Elm Street  RM GH3, Desloge, MO, 63601-3301
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 573-438-9355
-🗺 https://maps.google.com/?q=37.87413,-90.51611
 
 134. EMAA Head Start Clinic
 512 State St Rm 101, Mineral Point, MO, 63660-8208
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 573-438-9355
-🗺 https://maps.google.com/?q=37.94452,-90.72695
 
 135. Central Elementary
 900 Saint Francois Ave Rm A9, Park Hills, MO, 63601-1771
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 573-438-9355
-🗺 https://maps.google.com/?q=37.85923,-90.52626
 
 136. Central Middle School
 801 Columbia St Rm 216, Park Hills, MO, 63601-4300
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 573-438-9355
-🗺 https://maps.google.com/?q=37.84637,-90.49520
 
 137. West County High School
 768 Highway M  RM 200, Park Hills, MO, 63601-9321
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 573-438-9355
-🗺 https://maps.google.com/?q=37.86739,-90.60898
 
 138. Potosi High School
 1 Trojan Dr, Potosi, MO, 63664-1829
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 573-438-9355
-🗺 https://maps.google.com/?q=37.93523,-90.79049
 
 139. Trojan Intermediate School
 367 Intermediate Dr, Potosi, MO, 63664-1986
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 573-438-9355
-🗺 https://maps.google.com/?q=37.93602,-90.79300
 
 140. Great Mines Health Center
 1 Southtowne Dr, Potosi, MO, 63664
@@ -1041,7 +909,6 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://GMHCenter.org
 🏥 Services: Primary Care
 📞 573-438-9355
-🗺 https://maps.google.com/?q=37.91999,-90.77432
 
 141. Farmington R-VII - Jefferson Elementary
 9 Summit Dr, Farmington, MO, 63640-1641
@@ -1049,7 +916,6 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://www.gmhcenter.org
 🏥 Services: Primary Care
 📞 573-664-1221
-🗺 https://maps.google.com/?q=37.79582,-90.42061
 
 142. Farmington R-VII - Dayse Baker Learning Center
 9 Pine St # 608, Farmington, MO, 63640-1461
@@ -1057,14 +923,12 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://www.gmhcenter.org
 🏥 Services: Primary Care
 📞 573-664-1221
-🗺 https://maps.google.com/?q=37.79059,-90.42080
 
 143. Farmington R-VII High School
 1 Black Knight Dr Rm 1, Farmington, MO, 63640-2930
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 573-438-9355
-🗺 https://maps.google.com/?q=37.77812,-90.43616
 
 144. Farmington R-VII Lincoln Intermediate
 708 S Fleming St, Farmington, MO, 63640-1137
@@ -1072,28 +936,24 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://www.gmhcenter.org
 🏥 Services: Primary Care
 📞 573-664-1221
-🗺 https://maps.google.com/?q=37.77353,-90.41265
 
 145. Bismark R-5 School District
 165 Campus Drive  RM 199, Bismarck, MO, 63624
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 573-438-9355
-🗺 https://maps.google.com/?q=37.77252,-90.61867
 
 146. Bourbon Dental Clinic
 246 College St, Bourbon, MO, 65441-8308
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 573-265-8402
-🗺 https://maps.google.com/?q=38.15333,-91.24738
 
 147. Valley R-VI School District
 #1 Viking Drive  RM GM1, Caledonia, MO, 63631
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 573-438-9355
-🗺 https://maps.google.com/?q=37.77739,-90.78017
 
 148. Missouri Highlands Dental - Pilot Knob
 315 West MulberrySuite B, Pilot Knob, MO, 63663
@@ -1101,7 +961,6 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://www.mohigh.org
 🏥 Services: Primary Care
 📞 573-546-1001
-🗺 https://maps.google.com/?q=37.62376,-90.64504
 
 149. Missouri Highlands Health Care - Viburnum
 18 Viburnum Center Rd, Viburnum, MO, 65566-7802
@@ -1109,7 +968,6 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://www.mohigh.org
 🏥 Services: Primary Care
 📞 573-244-5406
-🗺 https://maps.google.com/?q=37.71454,-91.13342
 
 150. CROSS TRAILS MEDICAL CENTER
 408 S Broadview St, Cape Girardeau, MO, 63703-5725
@@ -1117,7 +975,6 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://www.crosstrails.us
 🏥 Services: Primary Care
 📞 573-332-0808
-🗺 https://maps.google.com/?q=37.29837,-89.55594
 
 151. Missouri Highlands Dental - Ellington
 115 WALNUT STREET, ELLINGTON, MO, 63638-0157
@@ -1125,7 +982,6 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://www.mohigh.org
 🏥 Services: Primary Care
 📞 573-663-3177
-🗺 https://maps.google.com/?q=37.24217,-90.97028
 
 152. Benton Medical Center
 6724 Hwy 77E, Benton, MO, 63736
@@ -1133,28 +989,24 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://www.semohealthnetwork.org
 🏥 Services: Primary Care
 📞 573-545-4200
-🗺 https://maps.google.com/?q=37.09511,-89.55119
 
 153. Sikeston High School Clinic
 200 Pine St, Sikeston, MO, 63801-3258
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 573-472-8887
-🗺 https://maps.google.com/?q=36.87923,-89.57245
 
 154. Sikeston Alternative Education Center Clinic
 835 W Murray Ln, Sikeston, MO, 63801-4056
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 573-472-8887
-🗺 https://maps.google.com/?q=36.86612,-89.60130
 
 155. Poplar Bluff Regional Medical Center
 3100 Oak Grove Rd, Poplar Bluff, MO, 63901-1573
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 573-663-2313
-🗺 https://maps.google.com/?q=36.78691,-90.44325
 
 156. Missouri Highlands Dental - Poplar Bluff
 1407 N. Westwood Blvd, Poplar Bluff, MO, 63901
@@ -1162,7 +1014,6 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://www.mohigh.org
 🏥 Services: Primary Care
 📞 573-778-3042
-🗺 https://maps.google.com/?q=36.77141,-90.41810
 
 157. Missouri Highlands Mobile Women's Clinic
 225 Physicians Park, Poplar Bluff, MO, 63901-3935
@@ -1170,14 +1021,12 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://www.mohigh.org
 🏥 Services: Primary Care
 📞 573-663-2313
-🗺 https://maps.google.com/?q=36.77274,-90.45717
 
 158. East Prairie Dental Center
 111 Prairie Dr, East Prairie, MO, 63845-1114
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 573-649-9311
-🗺 https://maps.google.com/?q=36.78484,-89.38705
 
 159. Bernie Medical and Dental Center
 741 S Walnut St, Bernie, MO, 63822-8900
@@ -1185,7 +1034,6 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://www.semohealthnetwork.org
 🏥 Services: Primary Care
 📞 573-293-6836
-🗺 https://maps.google.com/?q=36.65988,-89.96907
 
 160. Missouri Highlands Lone Star School Clinic
 3277 US Highway 160 W, Doniphan, MO, 63935-5710
@@ -1193,7 +1041,6 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://www.mohigh.org
 🏥 Services: Primary Care
 📞 573-996-7118
-🗺 https://maps.google.com/?q=36.63009,-90.86435
 
 161. Kahoka Dental
 22291 US Highway 136, Kahoka, MO, 63445
@@ -1201,14 +1048,12 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://www.nemohealthcouncil.com
 🏥 Services: Primary Care
 📞 660-727-5150
-🗺 https://maps.google.com/?q=40.39241,-91.59065
 
 162. Missouri Highlands Dental - Doniphan
 109 Plum Street  STE D, Doniphan, MO, 63935
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 573-663-2313
-🗺 https://maps.google.com/?q=36.62130,-90.82582
 
 163. Southeast Health on Wheels
 700 N Douglass St, Malden, MO, 63863-1510
@@ -1216,7 +1061,6 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://www.semohealthnetwork.org
 🏥 Services: Primary Care
 📞 573-748-2404
-🗺 https://maps.google.com/?q=36.56643,-89.96964
 
 164. New Madrid Medical Center
 655 US Highway 61, New Madrid, MO, 63869-1101
@@ -1224,7 +1068,6 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://semohealthnetwork.org
 🏥 Services: Primary Care
 📞 573-748-2592
-🗺 https://maps.google.com/?q=36.59127,-89.54223
 
 165. SMCHC Support Site:  1113-1119 Independence Drive
 1113 through 1119 Independence Drive, West Plains, MO, 65775-4221
@@ -1232,7 +1075,6 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 🌐 https://www.smchc.org
 🏥 Services: Primary Care
 📞 417-255-8464
-🗺 https://maps.google.com/?q=36.74503,-91.86960
 
 166. Washington University Infectious Diseases Clinic
 620 S Taylor Ave, Saint Louis, MO 63110-1035

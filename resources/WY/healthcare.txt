@@ -5,7 +5,6 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 307-635-3618
-🗺 https://maps.google.com/?q=41.13241,-104.81985
 
 2. University of Wyoming Family Medicine Residency Cheyenne
 821 E 18th St, Cheyenne, WY, 82001-4775
@@ -13,7 +12,6 @@
 🌐 https://www.uwfamilymedicine.com
 🏥 Services: Primary Care
 📞 307-777-7911
-🗺 https://maps.google.com/?q=41.13769,-104.80703
 
 3. Community Action of Laramie County, Inc.
 1700 Westland Rd, Cheyenne, WY, 82001-3322
@@ -21,14 +19,12 @@
 🌐 https://www.calc.net/
 🏥 Services: Primary Care
 📞 307-635-9291
-🗺 https://maps.google.com/?q=41.12530,-104.83955
 
 4. Crossroads Healthcare Clinic
 100 Central Ave Ste 173, Cheyenne, WY, 82007-1330
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Health Care for the Homeless
 📞 307-632-8064
-🗺 https://maps.google.com/?q=41.11997,-104.80784
 
 🌐 http://www.calc.net
 
@@ -38,7 +34,6 @@
 🌐 http://www.wyhealthworks.org
 🏥 Services: Primary Care
 📞 307-635-3618
-🗺 https://maps.google.com/?q=41.11726,-104.76945
 
 6. Healthcare for the Homeless - Mobile
 1514 E 12th St  UNIT 201, Casper, WY, 82601-4080
@@ -46,14 +41,12 @@
 🌐 https://www.capnc.org
 🏥 Services: Primary Care
 📞 307-235-6116
-🗺 https://maps.google.com/?q=42.84068,-106.30445
 
 7. Community Action Partnership of Natrona County
 1430 Wilkins Circle  STE A, Casper, WY, 82601-1336
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 307-235-6116
-🗺 https://maps.google.com/?q=42.86681,-106.34266
 
 8. Fremont County Pediatrics and Community Health
 8185 State Highway 789, Lander, WY, 82520-2942
@@ -61,7 +54,6 @@
 🌐 https://www.chccw.org
 🏥 Services: Primary Care
 📞 307-332-2185
-🗺 https://maps.google.com/?q=42.83468,-108.72182
 
 9. HEALTH WEST - ROCK SPRINGS CHC
 2620 Commercial Way, Rock Springs, WY, 82901-4671
@@ -69,7 +61,6 @@
 🌐 https://www.healthwestinc.org
 🏥 Services: Primary Care
 📞 307-212-5116
-🗺 https://maps.google.com/?q=41.58172,-109.25721
 
 10. One Health - Sheridan
 201 E 5th St, Sheridan, WY, 82801-3658
@@ -77,28 +68,24 @@
 🌐 https://www.onechc.org
 🏥 Services: Primary Care
 📞 406-665-4103
-🗺 https://maps.google.com/?q=44.80718,-106.95311
 
 11. One Health - Lovell
 229 E Main St, Lovell, WY, 82431-2101
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 307-764-4107
-🗺 https://maps.google.com/?q=44.83760,-108.38862
 
 12. One Health - Cody Clinic
 902 Blackburn St.  STE F, Cody, WY, 82414-8494
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 307-291-0447
-🗺 https://maps.google.com/?q=44.52853,-109.04252
 
 13. One Health - Mobile Medical Van
 128 N Bent St, Powell, WY, 82435-2712
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 307-764-4107
-🗺 https://maps.google.com/?q=44.75364,-108.75793
 
 14. Wyoming Department Of Health
 122 W 25th St, Cheyenne, WY 82001-3004

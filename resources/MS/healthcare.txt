@@ -6,7 +6,6 @@
 🌐 https://www.jackson-hinds.com
 🏥 Services: Primary Care
 📞 601-914-1789
-🗺 https://maps.google.com/?q=32.29788,-90.19273
 
 2. Jackson-Hinds Blackburn Middle School
 1311 W Pearl St, Jackson, MS, 39203-2841
@@ -14,7 +13,6 @@
 🌐 https://www.jacksonhinds.org
 🏥 Services: Primary Care
 📞 601-364-5142
-🗺 https://maps.google.com/?q=32.30024,-90.20584
 
 3. CENTRAL MISSISSIPPI HEALTH SERVICES, INC.
 1134 Winter St, Jackson, MS, 39204-2841
@@ -22,7 +20,6 @@
 🌐 https://www.centralmshealth.org
 🏥 Services: Primary Care
 📞 601-948-5572
-🗺 https://maps.google.com/?q=32.29112,-90.20513
 
 4. JACKSON-HINDS-ISABLE ELEMENTARY SCHOOL SBHC
 1716 Isable St, Jackson, MS, 39204-2352
@@ -30,7 +27,6 @@
 🌐 https://www.jackson-hinds.com
 🏥 Services: Primary Care
 📞 601-362-5321 x223
-🗺 https://maps.google.com/?q=32.29189,-90.21821
 
 5. Jackson-Hinds Comprehensive Health Center at the Jackson Medical Mall
 350 W Woodrow Wilson Ave, Jackson, MS, 39213-7681
@@ -38,7 +34,6 @@
 🌐 https://www.jackson-hinds.com
 🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 601-709-5130
-🗺 https://maps.google.com/?q=32.32717,-90.19315
 
 6. Jackson-Hinds Comprehensive Health Center Woodrow Wilson Clinic
 514 A-B East Woodrow Wilson, Jackson, MS, 39216
@@ -46,7 +41,6 @@
 🌐 https://www.jackson-hinds.com
 🏥 Services: Primary Care
 📞 601-321-2234
-🗺 https://maps.google.com/?q=32.32785,-90.17788
 
 7. Pecan Park Elementary School-Based Clinic
 415 CLAIBORNE AVE, JACKSON, MS, 39209-5321
@@ -54,14 +48,12 @@
 🌐 https://www.jhchc.org
 🏥 Services: Primary Care
 📞 601-364-5142
-🗺 https://maps.google.com/?q=32.31413,-90.22311
 
 8. Jackson-Hinds CHC - The Pearl
 2649 Highway 80 W, Jackson, MS, 39204-2216
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 601-362-5321
-🗺 https://maps.google.com/?q=32.29165,-90.23094
 
 9. The Lakeland Clinic
 2050 Treetops Blvd, Flowood, MS, 39232-7612
@@ -69,7 +61,6 @@
 🌐 https://www.jhchc.org
 🏥 Services: Primary Care
 📞 601-362-5321
-🗺 https://maps.google.com/?q=32.32919,-90.11925
 
 10. JACKSON-HINDS VAN WINKLE ELEM SCHOOLBASE CLINIC
 1655 Whiting Rd, Jackson, MS, 39209-5826
@@ -77,14 +68,12 @@
 🌐 https://www.jackson-hinds.com
 🏥 Services: Primary Care
 📞 601-922-6642
-🗺 https://maps.google.com/?q=32.30012,-90.26589
 
 11. Jackson-Hinds Dental Mobile Unit 7
 3502 W Northside Dr, Jackson, MS, 39213-4454
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🏥 Services: Ryan White HIV/AIDS Program; Primary Care; Dental
 📞 601-364-5142
-🗺 https://maps.google.com/?q=32.35678,-90.23420
 
 🌐 https://www.jackson-hinds.com
 
@@ -93,7 +82,6 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 601-362-5321
-🗺 https://maps.google.com/?q=32.38089,-90.17036
 
 13. Family Health Care Clinic, Inc.- - Flowood
 1307 Airport Rd N, Flowood, MS, 39232-8897
@@ -101,7 +89,6 @@
 🌐 https://familyhealthcareclinic.com
 🏥 Services: Primary Care
 📞 601-936-3485
-🗺 https://maps.google.com/?q=32.33017,-90.09197
 
 14. JACKSON-HINDS TOUGALOO CLINIC
 500 W County Line Rd, Tougaloo, MS, 39174-9700
@@ -109,7 +96,6 @@
 🌐 https://www.jackson-hinds.com
 🏥 Services: Primary Care
 📞 601-948-4395
-🗺 https://maps.google.com/?q=32.40546,-90.16173
 
 15. CENTRAL MS HLTH SVS - TOUGALOO
 500 W County Line Rd, JACKSON, MS, 39174-9700
@@ -117,21 +103,18 @@
 🌐 https://www.centralmshealth.org
 🏥 Services: Primary Care
 📞 601-957-6776
-🗺 https://maps.google.com/?q=32.40546,-90.16173
 
 16. Gary Road Elementary School
 7241 Gary Rd, Byram, MS, 39272-8947
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 601-364-5142
-🗺 https://maps.google.com/?q=32.18980,-90.29818
 
 17. Gary Road Intermediate School
 7255 Gary Rd, Byram, MS, 39272-8947
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 601-364-5142
-🗺 https://maps.google.com/?q=32.18404,-90.29676
 
 18. Raymond Elementary School
 417 Palestine St, Raymond, MS, 39154-7618
@@ -139,7 +122,6 @@
 🌐 https://www.jhchc.org
 🏥 Services: Primary Care
 📞 601-364-5142
-🗺 https://maps.google.com/?q=32.25532,-90.42015
 
 19. Carver Middle School
 560 Port Gibson St, Raymond, MS, 39154-9746
@@ -147,14 +129,12 @@
 🌐 https://www.jhchc.org
 🏥 Services: Primary Care
 📞 601-364-5142
-🗺 https://maps.google.com/?q=32.24976,-90.43837
 
 20. Terry High School-based Clinic
 235 W BEASLEY ST, TERRY, MS, 39170-8154
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 601-364-5142
-🗺 https://maps.google.com/?q=32.09490,-90.30254
 
 21. BOLTON-EDWARDS ELEM/MIDDLE SBC
 9700 I-20 WEST FRONTAGE RD, BOLTON, MS, 39213
@@ -162,7 +142,6 @@
 🌐 https://www.jackson-hinds.com
 🏥 Services: Primary Care
 📞 601-866-7943
-🗺 https://maps.google.com/?q=32.36201,-90.50131
 
 22. Family Health Care Clinic, Piney Woods--School
 5096 US Hwy 49 South, Piney Woods, MS, 39148
@@ -170,7 +149,6 @@
 🌐 https://www.familyhealthcareclinic.com
 🏥 Services: Primary Care
 📞 601-845-2214
-🗺 https://maps.google.com/?q=32.06390,-90.00375
 
 23. Mallory CHC - Women's and Family Health Center
 276 Nissan Parkway BLDG C, Canton, MS, 39046
@@ -178,7 +156,6 @@
 🌐 https://www.mallorychc.org
 🏥 Services: Primary Care
 📞 601-859-1798
-🗺 https://maps.google.com/?q=32.58871,-90.08117
 
 24. G. A. CARMICHAEL FAMILY HEALTH CENTER
 1668 W Peace St, Canton, MS, 39046-5332
@@ -186,7 +163,6 @@
 🌐 https://www.gacfhc.org
 🏥 Services: Primary Care
 📞 601-859-5213
-🗺 https://maps.google.com/?q=32.61168,-90.05277
 
 25. Bentonia Gibbs Elementary Schools
 10340 Highway 433 W, Bentonia, MS, 39040-9416
@@ -194,7 +170,6 @@
 🌐 https://www.gacfhc.org
 🏥 Services: Primary Care
 📞 662-746-6532
-🗺 https://maps.google.com/?q=32.63979,-90.40331
 
 26. UTICA ELEMENTARY SCHOOL
 260 HIGHWAY 18 AND 27, UTICA, MS, 39175
@@ -202,7 +177,6 @@
 🌐 https://www.jackson-hinds.com
 🏥 Services: Primary Care
 📞 601-885-9684
-🗺 https://maps.google.com/?q=32.10252,-90.61805
 
 27. Copiah Comprehensive Health Complex
 550 Caldwell Dr, Hazlehurst, MS, 39083-2304
@@ -210,7 +184,6 @@
 🌐 https://www.jackson-hinds.com
 🏥 Services: Primary Care
 📞 601-894-1448
-🗺 https://maps.google.com/?q=31.87143,-90.39411
 
 28. LINWOOD ELEMENTARY SCHOOL
 3439 Vaughan Rd, Vaughan, MS, 39179-9506
@@ -218,7 +191,6 @@
 🌐 https://www.gacfhc.org
 🏥 Services: Primary Care
 📞 662-673-0373
-🗺 https://maps.google.com/?q=32.79678,-90.15271
 
 29. G.A. CARMICHAEL FHC-YAZOO CITY
 110 N Jerry Clower Blvd, Yazoo City, MS, 39194-8669
@@ -226,7 +198,6 @@
 🌐 https://www.gacfhc.org
 🏥 Services: Primary Care
 📞 662-746-0907
-🗺 https://maps.google.com/?q=32.84104,-90.38551
 
 30. MCCOY ELEMENTARY SCHOOL
 1835 School Dr, Yazoo City, MS, 39194-2676
@@ -234,7 +205,6 @@
 🌐 https://www.gacfhc.org
 🏥 Services: Primary Care
 📞 662-746-7749
-🗺 https://maps.google.com/?q=32.87569,-90.41572
 
 31. YAZOO COUNTY HIGH SCHOOL
 6789 HIGHWAY 49 FRON, YAZOO CITY, MS, 39194-4476
@@ -242,14 +212,12 @@
 🌐 https://www.gacfhc.org
 🏥 Services: Primary Care
 📞 662-746-6200
-🗺 https://maps.google.com/?q=32.93491,-90.37187
 
 32. CCFHC Mobile Site
 2045 Highway 61 N, Port Gibson, MS, 39150-4262
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 601-437-3050
-🗺 https://maps.google.com/?q=31.97706,-90.97823
 
 33. Family Health Care Clinic, Brookhaven
 215 U. S. 51 South, Brookhaven, MS, 39601
@@ -257,7 +225,6 @@
 🌐 https://www.familyhealthcareclinic.com
 🏥 Services: Primary Care
 📞 601-825-7280
-🗺 https://maps.google.com/?q=31.57818,-90.45707
 
 34. CCFHC-A.W. WATSON SBH
 880 Anthony St, Port Gibson, MS, 39150-2050
@@ -265,14 +232,12 @@
 🌐 https://www.claibornecountyfhc.com
 🏥 Services: Primary Care
 📞 601-437-5583
-🗺 https://maps.google.com/?q=31.97186,-90.99326
 
 35. Family Health Care Clinic, Prentiss-Head Start
 150 J E Johnson Rd, Prentiss, MS, 39474-3101
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 601-825-7280
-🗺 https://maps.google.com/?q=31.58763,-89.83826
 
 36. Family Health Center Taylorsville
 531 Highway 28 E, Taylorsville, MS, 39168-5635
@@ -280,7 +245,6 @@
 🌐 https://www.lfhc.net
 🏥 Services: Primary Care
 📞 601-785-9580
-🗺 https://maps.google.com/?q=31.82976,-89.42529
 
 37. DR ARENIA C. MALLORY CHC, INC.
 17280 Highway 17, Lexington, MS, 39095-6614
@@ -288,7 +252,6 @@
 🌐 https://www.mallorychc.org
 🏥 Services: Primary Care
 📞 662-834-1857
-🗺 https://maps.google.com/?q=33.10348,-90.05312
 
 38. Lexington Pediatric Complex
 300 Yazoo St, Lexington, MS, 39095-3623
@@ -296,7 +259,6 @@
 🌐 https://www.mallorychc.org
 🏥 Services: Primary Care
 📞 662-834-5000
-🗺 https://maps.google.com/?q=33.10907,-90.05289
 
 39. Mallory Community Health Center School Based Clinics - William Dean Elementary School
 96 Rockport Rd, Lexington, MS, 39095-5166
@@ -304,7 +266,6 @@
 🌐 https://sites.google.com/a/holmes.k12.ms.us/william-dean-jr-elementary-school/
 🏥 Services: Primary Care
 📞 662-834-1333
-🗺 https://maps.google.com/?q=33.11283,-90.03876
 
 40. DURANT CLINIC
 33795 Highway 12 East, DURANT, MS, 39063
@@ -312,14 +273,12 @@
 🌐 https://www.mallorychc.org
 🏥 Services: Primary Care
 📞 662-653-0505
-🗺 https://maps.google.com/?q=33.08459,-89.85194
 
 41. Newton Health Care
 9431 Eastside Drive Ext Ste E, Newton, MS, 39345-8072
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 601-635-3435
-🗺 https://maps.google.com/?q=32.35664,-89.12916
 
 42. SEMINARY FAMILY HEALTH CENTER
 100 Highway 535, Seminary, MS, 39479-8809
@@ -327,28 +286,24 @@
 🌐 https://www.semrhi.com
 🏥 Services: Primary Care
 📞 601-722-3208
-🗺 https://maps.google.com/?q=31.56184,-89.49238
 
 43. Jefferson Comprehensive Health Center
 405 Main St, Fayette, MS, 39069-5576
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 601-786-3475 x1001
-🗺 https://maps.google.com/?q=31.70448,-91.07623
 
 44. JEFFERSON CNTY MID SCHOOL CLINIC
 RR 2 BOX 35C, FAYETTE, MS, 39069
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 601-786-8207
-🗺 https://maps.google.com/?q=31.69771,-91.07654
 
 45. PHILADELPHIA HEALTH CENTER
 10330 ROAD 375, PHILADELPHIA, MS, 39350-3249
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 601-656-0226
-🗺 https://maps.google.com/?q=32.76405,-89.13851
 
 46. SUMRALL FAMILY HEALTH CENTER
 1016 HIGHWAY 42, SUMRALL, MS, 39482
@@ -356,21 +311,18 @@ RR 2 BOX 35C, FAYETTE, MS, 39069
 🌐 https://www.semrhi.com
 🏥 Services: Primary Care
 📞 601-758-4214
-🗺 https://maps.google.com/?q=31.41332,-89.55672
 
 47. Sumrall Middle School
 1217 Highway 42, Sumrall, MS, 39482-9612
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 601-758-4416
-🗺 https://maps.google.com/?q=31.41944,-89.54442
 
 48. Hollandale Satellite
 100 E Washington St, Hollandale, MS, 38748-3842
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 662-827-7400
-🗺 https://maps.google.com/?q=33.16909,-90.85381
 
 49. New OB/GYN Clinic at Family Health Center, Inc.
 135 S. 11th Ave., Laurel, MS, 39440
@@ -378,63 +330,54 @@ RR 2 BOX 35C, FAYETTE, MS, 39069
 🌐 https://www.lfhc.net
 🏥 Services: Primary Care
 📞 601-425-3033 x2123
-🗺 https://maps.google.com/?q=31.68911,-89.13993
 
 50. Pike County Medical Services
 303 Llewellyn Ave, Mccomb, MS, 39648-2703
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 601-249-3541
-🗺 https://maps.google.com/?q=31.25163,-90.47656
 
 51. Oak Grove Longleaf
 5279 W 4th St, Hattiesburg, MS, 39402-9700
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 601-264-3858
-🗺 https://maps.google.com/?q=31.34108,-89.38912
 
 52. Bellevue Elementary
 1760 Old Highway 24, Hattiesburg, MS, 39402-8235
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 601-264-6724
-🗺 https://maps.google.com/?q=31.28058,-89.47309
 
 53. Oak Grove Elementary
 70 Leaf Ln, Hattiesburg, MS, 39402-9549
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 601-264-9764
-🗺 https://maps.google.com/?q=31.29001,-89.42081
 
 54. DHC-Itta Bena
 102 Basket St, Itta Bena, MS, 38941-2802
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 662-254-7801
-🗺 https://maps.google.com/?q=33.49460,-90.31990
 
 55. Oak Grove Middle School
 2543 Old Highway 24, Hattiesburg, MS, 39402-8349
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 601-264-4634
-🗺 https://maps.google.com/?q=31.28494,-89.41907
 
 56. DHC - Carver Elementary School
 404 Jefferson St, Indianola, MS, 38751-3265
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 662-884-1250
-🗺 https://maps.google.com/?q=33.44164,-90.64969
 
 57. Minor Care Clinic
 123 S 27th Ave, Hattiesburg, MS, 39401-7136
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 601-450-3030
-🗺 https://maps.google.com/?q=31.32312,-89.33012
 
 58. DHC-Indianola
 118 Front Ave, Indianola, MS, 38751-2461
@@ -442,7 +385,6 @@ RR 2 BOX 35C, FAYETTE, MS, 39069
 🌐 https://www.deltahealthcenter.org
 🏥 Services: Primary Care
 📞 662-445-0900
-🗺 https://maps.google.com/?q=33.45149,-90.65154
 
 59. Greenwood Clinic
 201 E. Washington St., Greenwood, MS, 38930-4407
@@ -450,7 +392,6 @@ RR 2 BOX 35C, FAYETTE, MS, 39069
 🌐 https://www.mallorychc.org
 🏥 Services: Primary Care
 📞 662-453-4522
-🗺 https://maps.google.com/?q=33.52023,-90.17991
 
 60. HATTIESBURG High School & COMMUNITY CLIN.
 605 Stadium Dr, Hattiesburg, MS, 39401-4156
@@ -458,42 +399,36 @@ RR 2 BOX 35C, FAYETTE, MS, 39069
 🌐 https://www.semrhi.com
 🏥 Services: Primary Care
 📞 601-450-0310
-🗺 https://maps.google.com/?q=31.33180,-89.30666
 
 61. Student Health Services Center, Dorothy Bowen Place
 14000 Highway 82 W, Itta Bena, MS, 38941-1401
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 662-644-6465
-🗺 https://maps.google.com/?q=33.51321,-90.34177
 
 62. DHC-MVSU
 14000 Highway 82 W, Itta Bena, MS, 38941-1400
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 662-254-3331
-🗺 https://maps.google.com/?q=33.51436,-90.34090
 
 63. Morgantown Middle School
 101 Cottage Home Dr, Natchez, MS, 39120-2753
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 601-445-4806
-🗺 https://maps.google.com/?q=31.57524,-91.35416
 
 64. Winston County Family Medical Center
 14130 Highway 15  S Ste D, Louisville, MS, 39339-6452
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 662-779-1175
-🗺 https://maps.google.com/?q=33.12032,-89.08515
 
 65. Petal Upper Elementary School
 400 Hillcrest Loop, Petal, MS, 39465-2634
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 601-545-8700
-🗺 https://maps.google.com/?q=31.33632,-89.25654
 
 66. Natchez Elementary and High school Clinic
 1445 George F West Sr Blvd, Natchez, MS, 39120-2557
@@ -501,14 +436,12 @@ RR 2 BOX 35C, FAYETTE, MS, 39069
 🌐 https://www.jeffersoncomprehensivehealthcenter.com
 🏥 Services: Primary Care
 📞 601-786-3475
-🗺 https://maps.google.com/?q=31.57111,-91.37816
 
 67. LIBERTY DENTAL SERVICES
 102 FREEDOM DRIVE, LIBERTY, MS, 39645-0302
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 601-657-1236
-🗺 https://maps.google.com/?q=31.16318,-90.79744
 
 68. ACMS Mobile Medical/Dental Unit 2
 102 West Freedom Drive, Liberty, MS, 39645
@@ -516,28 +449,24 @@ RR 2 BOX 35C, FAYETTE, MS, 39069
 🌐 https://www.acms.org
 🏥 Services: Primary Care
 📞 601-657-4326
-🗺 https://maps.google.com/?q=31.16318,-90.79744
 
 69. GMHC Mobile Access Unit
 2701 Davis St, Meridian, MS, 39301-5708
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 601-693-0150
-🗺 https://maps.google.com/?q=32.36213,-88.70504
 
 70. Petal Primary School
 60 Herrington Rd, Petal, MS, 39465-8842
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 601-554-7244
-🗺 https://maps.google.com/?q=31.35456,-89.21330
 
 71. JCHC – Thompson Head Start School-Based Clinic
 1038 N Union St, Natchez, MS, 39120-2875
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 601-442-3956
-🗺 https://maps.google.com/?q=31.57114,-91.38862
 
 72. Mobile Medical Clinic
 201 Baker Blvd, Leland, MS, 38756-3401
@@ -545,28 +474,24 @@ RR 2 BOX 35C, FAYETTE, MS, 39069
 🌐 https://lelandmedicalclinic.org
 🏥 Services: Primary Care
 📞 662-686-4121
-🗺 https://maps.google.com/?q=33.39894,-90.90209
 
 73. N.R. Burger School and Community Clinic
 180 WSF TATUM DRIVE EXT, HATTIESBURG, MS, 39401-7723
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 601-450-0806
-🗺 https://maps.google.com/?q=31.29479,-89.29681
 
 74. DHC-Leland
 801 N Broad St, Leland, MS, 38756-2546
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 662-741-8800
-🗺 https://maps.google.com/?q=33.40881,-90.89466
 
 75. ADAMS COUNTY FAMILY HLTH CTR
 145 HOMOCHITTO ST, NATCHEZ, MS, 39120-3906
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 601-442-4863
-🗺 https://maps.google.com/?q=31.54584,-91.39796
 
 76. HATTIESBURG FAMILY HEALTH CENTER
 66 Old Airport Rd, Hattiesburg, MS, 39401-8382
@@ -574,7 +499,6 @@ RR 2 BOX 35C, FAYETTE, MS, 39069
 🌐 https://www.semrhi.com
 🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 601-544-7500
-🗺 https://maps.google.com/?q=31.27690,-89.28374
 
 77. SEMRHI Support Services Center
 64 Old Airport Road, Hattiesburg, MS, 39401
@@ -582,21 +506,18 @@ RR 2 BOX 35C, FAYETTE, MS, 39069
 🌐 https://www.semrhi.com
 🏥 Services: Primary Care
 📞 601-545-8700
-🗺 https://maps.google.com/?q=31.27735,-89.28166
 
 78. South Greenville Satellite
 2363 HIGHWAY 1 S, GREENVILLE, MS, 38701-8337
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 662-334-1253
-🗺 https://maps.google.com/?q=33.35478,-91.04136
 
 79. SEMRHI Mobile Unit
 72 Old Airport Rd, Hattiesburg, MS, 39401
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 601-602-5518
-🗺 https://maps.google.com/?q=31.27735,-89.28141
 
 80. SEMRHI Pharmacy Assistance Center
 70 Old Airport Rd, Hattiesburg, MS, 39401-8382
@@ -604,14 +525,12 @@ RR 2 BOX 35C, FAYETTE, MS, 39069
 🌐 https://www.semrhi.com
 🏥 Services: Primary Care
 📞 601-545-8700
-🗺 https://maps.google.com/?q=31.27735,-89.28147
 
 81. Baxterville School
 1201 Bilbo Rd, Lumberton, MS, 39455-8670
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 601-796-4483
-🗺 https://maps.google.com/?q=31.08246,-89.59134
 
 82. SHUBUTA MEDICAL/DENTAL CLINIC
 130 N HIGH ST., SHUBUTA, MS, 39360-0527
@@ -619,28 +538,24 @@ RR 2 BOX 35C, FAYETTE, MS, 39069
 🌐 https://www.outreachhs.org
 🏥 Services: Primary Care
 📞 601-687-1391
-🗺 https://maps.google.com/?q=31.86102,-88.69998
 
 83. Purvis Middle School
 213 School St, Purvis, MS, 39475-9004
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 601-704-1068
-🗺 https://maps.google.com/?q=31.14014,-89.40649
 
 84. Lamar County School Clinic
 424 Martin Luther King Dr, Purvis, MS, 39475-5028
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 601-794-5982
-🗺 https://maps.google.com/?q=31.13682,-89.41107
 
 85. Lumberton Elementary School
 16 ADA Bounds Lane, Lumberton, MS, 39455-0511
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 601-796-3721
-🗺 https://maps.google.com/?q=31.04388,-89.41516
 
 86. LUMBERTON FAMILY HEALTH CENTER
 598 W   11th Ave, Lumberton, MS, 39455-2350
@@ -648,14 +563,12 @@ RR 2 BOX 35C, FAYETTE, MS, 39069
 🌐 https://www.semrhi.com
 🏥 Services: Primary Care
 📞 601-796-4215
-🗺 https://maps.google.com/?q=31.00006,-89.45824
 
 87. DHC-Ruleville Middle School
 250 Oscar St, Ruleville, MS, 38771
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 662-331-8894
-🗺 https://maps.google.com/?q=33.72364,-90.54852
 
 88. BROOKLYN FAMILY HEALTH CENTER
 44 Brooklyn Janice Rd, Brooklyn, MS, 39425-9731
@@ -663,21 +576,18 @@ RR 2 BOX 35C, FAYETTE, MS, 39069
 🌐 https://www.semrhi.com
 🏥 Services: Primary Care
 📞 601-582-1188
-🗺 https://maps.google.com/?q=31.05970,-89.18152
 
 89. Delta Health Center Searcy Medical Center Satellite
 548 Rosemary Rd, Cleveland, MS, 38732-2075
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 662-843-7183
-🗺 https://maps.google.com/?q=33.76220,-90.72778
 
 90. SBHC - Sand Hill
 39455 Highway 63 N, Richton, MS, 39476-2604
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 601-989-3105
-🗺 https://maps.google.com/?q=31.34977,-88.76237
 
 91. BEAUMONT FAMILY HEALTH CENTER
 1411 BRADLEY AVENUE, BEAUMONT, MS, 39423
@@ -685,7 +595,6 @@ RR 2 BOX 35C, FAYETTE, MS, 39069
 🌐 https://www.semrhi.com
 🏥 Services: Primary Care
 📞 601-784-3922
-🗺 https://maps.google.com/?q=31.16619,-88.91994
 
 92. Shuqualak-Noxubee Health Center
 167 Millers Chapel Church Rd, Macon, MS, 39341
@@ -693,7 +602,6 @@ RR 2 BOX 35C, FAYETTE, MS, 39069
 🌐 https://gmhcinc.org
 🏥 Services: Primary Care
 📞 601-693-0151
-🗺 https://maps.google.com/?q=33.13488,-88.55282
 
 93. Delta Health Center Mobile Health Unit #1 (DHC MHU1)
 702 Martin Luther King St, Mound Bayou, MS, 38762-9314
@@ -701,56 +609,48 @@ RR 2 BOX 35C, FAYETTE, MS, 39069
 🌐 https://www.deltahealthcenter.org
 🏥 Services: Primary Care
 📞 662-741-8800
-🗺 https://maps.google.com/?q=33.87961,-90.72617
 
 94. SBHC - McLain
 300 Shows St, Mc Lain, MS, 39456-5201
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 601-753-2334
-🗺 https://maps.google.com/?q=31.11080,-88.82770
 
 95. State Line Health Center
 256 Main St, State Line, MS, 39362-9499
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 601-848-7912
-🗺 https://maps.google.com/?q=31.43899,-88.47658
 
 96. DHC-Rosedale
 1302 Main St, Rosedale, MS, 38769
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 662-741-8800
-🗺 https://maps.google.com/?q=33.84987,-91.02759
 
 97. SBHC - Greene County High
 4336 High School Rd, Leakesville, MS, 39451-2584
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 601-989-3105
-🗺 https://maps.google.com/?q=31.14142,-88.60059
 
 98. SBHC - Leakesville Jr High
 620 Main St, Leakesville, MS, 39451
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 601-394-4507
-🗺 https://maps.google.com/?q=31.15739,-88.55581
 
 99. ARcare - 144
 7474 Hwy 45 Alt N, West Point, MS, 39773
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 870-347-2534
-🗺 https://maps.google.com/?q=33.61475,-88.65853
 
 100. Infinity Care Solutions - 10
 27363 E Main St, West Point, MS, 39773-2774
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 870-347-2534
-🗺 https://maps.google.com/?q=33.60743,-88.63332
 
 101. Saucier Health Center
 23453 Central Dr, Saucier, MS, 39574-7521
@@ -758,7 +658,6 @@ RR 2 BOX 35C, FAYETTE, MS, 39069
 🌐 https://www.coastalfamilyhealth.org
 🏥 Services: Primary Care
 📞 228-832-7223
-🗺 https://maps.google.com/?q=30.62954,-89.13318
 
 102. AARON E. HENRY - MOBILE MEDICAL UNIT #1 (Old)
 510 HIGHWAY 322, CLARKSDALE, MS, 38614-4717
@@ -766,7 +665,6 @@ RR 2 BOX 35C, FAYETTE, MS, 39069
 🌐 https://www.aehcommunityhealth.org
 🏥 Services: Primary Care
 📞 662-645-6008
-🗺 https://maps.google.com/?q=34.18990,-90.59562
 
 103. Aurelia Jones-Taylor Administrative Complex
 600 Ohio Ave, Clarksdale, MS, 38614-6020
@@ -774,42 +672,36 @@ RR 2 BOX 35C, FAYETTE, MS, 39069
 🌐 http://www.aehchc.org
 🏥 Services: Primary Care
 📞 662-624-4292
-🗺 https://maps.google.com/?q=34.19797,-90.54935
 
 104. SBHC - LT Taylor Intermediate
 159 Maple St, Lucedale, MS, 39452-6712
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 228-374-2494
-🗺 https://maps.google.com/?q=30.92935,-88.59513
 
 105. SBHC - Central Elementary
 14159 MS-26, Lucedale, MS, 39452-3755
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 228-374-2494
-🗺 https://maps.google.com/?q=30.88035,-88.65406
 
 106. Children's Clinic
 2245 N State St, Clarksdale, MS, 38614-6102
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 662-627-4131
-🗺 https://maps.google.com/?q=34.20144,-90.54771
 
 107. SBHC - LC Hatcher Elementary
 689 Church St, Lucedale, MS, 39452-5956
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 228-374-2494
-🗺 https://maps.google.com/?q=30.91861,-88.59051
 
 108. Lucedale Health Center
 11231 Old 63 S, Lucedale, MS, 39452-4941
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 601-947-8268
-🗺 https://maps.google.com/?q=30.90224,-88.59793
 
 109. Aaron E Henry - Quitman School Base Clinic
 1362 Marin Luther King Drive, MARKS, MS, 38646-1802
@@ -817,14 +709,12 @@ RR 2 BOX 35C, FAYETTE, MS, 39069
 🌐 http://www.aehchc.org
 🏥 Services: Primary Care
 📞 662-483-1329
-🗺 https://maps.google.com/?q=34.24169,-90.27753
 
 110. SBHC - Rocky Creek Elementary
 2183 Rocky Creek Rd, Lucedale, MS, 39452-6338
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 228-374-2494
-🗺 https://maps.google.com/?q=30.95648,-88.52739
 
 111. Access Family Health Services - Houlka
 106 WALKER ST, HOULKA, MS, 38850-9453
@@ -832,7 +722,6 @@ RR 2 BOX 35C, FAYETTE, MS, 39069
 🌐 https://www.accessfamilyhealth.com
 🏥 Services: Primary Care
 📞 662-568-3316
-🗺 https://maps.google.com/?q=34.03769,-89.02280
 
 112. SBHC - East Hancock Elementary
 4221 Kiln-Delisle Rd, Kiln, MS, 39556-6695
@@ -840,7 +729,6 @@ RR 2 BOX 35C, FAYETTE, MS, 39069
 🌐 https://www.coastalfamilyhealth.org
 🏥 Services: Primary Care
 📞 228-374-2494
-🗺 https://maps.google.com/?q=30.40912,-89.39544
 
 113. AARON E. HENRY - BATESVILLE AMBULATORY CARE CLINIC
 216 Highway 51  N, Batesville, MS, 38606-2311
@@ -848,35 +736,30 @@ RR 2 BOX 35C, FAYETTE, MS, 39069
 🌐 https://www.aehchc.org
 🏥 Services: Primary Care
 📞 662-563-1858
-🗺 https://maps.google.com/?q=34.31675,-89.94261
 
 114. RKM at French Settlement Elementary
 1823 Highway 24 West, Woodville, MS, 39669
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 225-683-5292 x30304
-🗺 https://maps.google.com/?q=30.29774,-90.79582
 
 115. Access School Health-Hamilton
 40201 Hamilton Rd, Hamilton, MS, 39746-8648
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 662-343-9148
-🗺 https://maps.google.com/?q=33.74200,-88.41068
 
 116. Access School Health-Okolona Elementary
 411 W Main St, Okolona, MS, 38860-1307
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 662-447-2918
-🗺 https://maps.google.com/?q=34.00376,-88.75483
 
 117. Coastal Family Pharmacy - Gulfport
 9113 Highway 49, Gulfport, MS, 39503-4301
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 228-374-2476
-🗺 https://maps.google.com/?q=30.41556,-89.09312
 
 118. CFHC Mobile Unit
 10467 Corporate Dr, Gulfport, MS, 39503-4634
@@ -884,7 +767,6 @@ RR 2 BOX 35C, FAYETTE, MS, 39069
 🌐 https://www.coastalfamilyhealth.org
 🏥 Services: Primary Care
 📞 228-374-2494
-🗺 https://maps.google.com/?q=30.44062,-89.04323
 
 119. Pass Christian Health Center
 257 Davis Ave, Pass Christian, MS, 39571-4541
@@ -892,7 +774,6 @@ RR 2 BOX 35C, FAYETTE, MS, 39069
 🌐 https://www.coastalfamilyhealth.org
 🏥 Services: Primary Care
 📞 228-452-6284
-🗺 https://maps.google.com/?q=30.31887,-89.24314
 
 120. Biloxi Pediatric Health Center
 735 Division Street, Biloxi, MS, 39530
@@ -900,7 +781,6 @@ RR 2 BOX 35C, FAYETTE, MS, 39069
 🌐 https://www.coastalfamilyhealth.org
 🏥 Services: Primary Care
 📞 228-386-1192
-🗺 https://maps.google.com/?q=30.40312,-88.88688
 
 121. SBHC - Gorenflo Elementary
 771 Elder St, Biloxi, MS, 39530-2126
@@ -908,7 +788,6 @@ RR 2 BOX 35C, FAYETTE, MS, 39069
 🌐 https://www.coastalfamilyhealth.org
 🏥 Services: Primary Care
 📞 228-374-2494
-🗺 https://maps.google.com/?q=30.40810,-88.88795
 
 122. D'Iberville Health Center
 3446 Popp's Ferry Rd, Diberville, MS, 39540
@@ -916,7 +795,6 @@ RR 2 BOX 35C, FAYETTE, MS, 39069
 🌐 https://www.coastalfamilyhealth.org
 🏥 Services: Primary Care
 📞 228-392-4153
-🗺 https://maps.google.com/?q=30.44701,-88.89747
 
 123. SBHC - St. Martin North Elementary
 16308 Lemoyne Blvd, Biloxi, MS, 39532-5017
@@ -924,7 +802,6 @@ RR 2 BOX 35C, FAYETTE, MS, 39069
 🌐 https://www.coastalfamilyhealth.org
 🏥 Services: Primary Care
 📞 228-386-1143
-🗺 https://maps.google.com/?q=30.43720,-88.88298
 
 124. SBHC - Bay Waveland Middle
 600 Pine St, Bay St Louis, MS, 39520-3017
@@ -932,7 +809,6 @@ RR 2 BOX 35C, FAYETTE, MS, 39069
 🌐 https://www.coastalfamilyhealth.org
 🏥 Services: Primary Care
 📞 228-386-1145
-🗺 https://maps.google.com/?q=30.32235,-89.34815
 
 125. Bay St. Louis Health Center
 109 Hospital Dr, Bay Saint Louis, MS, 39520-1604
@@ -940,14 +816,12 @@ RR 2 BOX 35C, FAYETTE, MS, 39069
 🌐 https://www.coastalfamilyhealth.org
 🏥 Services: Primary Care
 📞 228-463-9666
-🗺 https://maps.google.com/?q=30.31568,-89.35367
 
 126. Coastal Family Pharmacy - Bay St. Louis
 1015 Highway 90, Bay Saint Louis, MS, 39520-1524
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 228-374-2494
-🗺 https://maps.google.com/?q=30.31348,-89.35771
 
 127. SBHC - Waveland Elementary
 1101 Saint Joseph St, Waveland, MS, 39576-2528
@@ -955,7 +829,6 @@ RR 2 BOX 35C, FAYETTE, MS, 39069
 🌐 https://www.coastalfamilyhealth.org
 🏥 Services: Primary Care
 📞 228-386-1145
-🗺 https://maps.google.com/?q=30.29929,-89.38028
 
 128. Vancleave Health Center
 10828 Highway 57, Vancleave, MS, 39565-8264
@@ -963,49 +836,42 @@ RR 2 BOX 35C, FAYETTE, MS, 39069
 🌐 https://www.coastalfamilyhealth.org
 🏥 Services: Primary Care
 📞 228-826-4711
-🗺 https://maps.google.com/?q=30.50050,-88.70299
 
 129. SBHC - Vancleave High
 12424 Highway 57, Vancleave, MS, 39565-8608
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 228-386-1142
-🗺 https://maps.google.com/?q=30.52327,-88.68864
 
 130. SBHC - Moss Point High
 4913 Weems Street, Moss Point, MS, 39563-2649
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 228-386-1140
-🗺 https://maps.google.com/?q=30.41305,-88.55308
 
 131. SBHC - Magnolia
 4630 Magnolia St, Moss Point, MS, 39563-2659
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 228-386-1140
-🗺 https://maps.google.com/?q=30.40840,-88.54620
 
 132. SBHC - Escatawpa
 4208 Jamestown Rd, Moss Point, MS, 39563-9540
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 228-475-9284
-🗺 https://maps.google.com/?q=30.43696,-88.54199
 
 133. Coastal Family Health Center Convenient Care and Pharmacy
 7312 Highway 63, Moss Point, MS, 39563
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 228-475-0524
-🗺 https://maps.google.com/?q=30.44802,-88.53021
 
 134. SBHC - Kreole
 6312 Martin Luther King Blvd, Moss Point, MS, 39563-6126
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 228-474-3982
-🗺 https://maps.google.com/?q=30.40154,-88.50436
 
 135. SBHC - East Central High
 5500 Hurley Wade Rd, Moss Point, MS, 39562-8548
@@ -1013,7 +879,6 @@ RR 2 BOX 35C, FAYETTE, MS, 39069
 🌐 https://www.coastalfamilyhealth.org
 🏥 Services: Primary Care
 📞 228-386-1141
-🗺 https://maps.google.com/?q=30.65561,-88.51579
 
 136. Aids Healthcare Foundation
 766 Lakeland Dr STE A, Jackson, MS 39216-4610

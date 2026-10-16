@@ -5,7 +5,6 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 206-464-1570 x3223
-🗺 https://maps.google.com/?q=47.60227,-122.33122
 
 2. Jefferson Terrace (Respite Floor)
 800 Jefferson St., Seattle, WA, 98104-2473
@@ -13,7 +12,6 @@
 🌐 http://www.kingcounty.gov/healthservices/health/personal/HCHN.aspx
 🏥 Services: Primary Care
 📞 206-296-5091
-🗺 https://maps.google.com/?q=47.60466,-122.32540
 
 3. Harborview Max Clinic
 908 Jefferson St, #11, Seattle, WA, 98104-2433
@@ -21,7 +19,6 @@
 🌐 https://kingcounty.gov/en/dept/dph/health-safety/disease-illness/hiv-sti-hcv/max-clinic
 🏥 Services: Primary Care
 📞 206-477-9479
-🗺 https://maps.google.com/?q=47.60536,-122.32362
 
 4. STD Program Public Health
 908 Jefferson St FL 11th, Seattle, WA, 98104
@@ -29,14 +26,12 @@
 🌐 http://www.kingcounty.gov/healthservices/health/communicable/hiv/resources/testing.aspx
 🏥 Services: Primary Care
 📞 206-744-3590
-🗺 https://maps.google.com/?q=47.60536,-122.32362
 
 5. PIONEER SQUARE CLINIC
 206 3RD AVE S, SEATTLE, WA, 98104-2697
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 206-744-1500
-🗺 https://maps.google.com/?q=47.60058,-122.32990
 
 6. Neighborcare Health at Pike Place Market
 1930 POST ALY, SEATTLE, WA, 98101-1015
@@ -44,14 +39,12 @@
 🌐 https://www.neighborcare.org
 🏥 Services: Primary Care
 📞 206-728-4143
-🗺 https://maps.google.com/?q=47.61060,-122.34267
 
 7. Robert Clewis Center
 2124 4th Ave, Seattle, WA, 98121-2308
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Health Care for the Homeless
 📞 206-521-1855
-🗺 https://maps.google.com/?q=47.61460,-122.34217
 
 🌐 http://www.kingcounty.gov/depts/health/locations/downtown.aspx
 
@@ -61,7 +54,6 @@
 🌐 https://www.ichs.com
 🏥 Services: Primary Care; Dental
 📞 206-788-3700
-🗺 https://maps.google.com/?q=47.59613,-122.32218
 
 9. Neighborcare Health at Bailey Gatzert Elementary
 1301 E Yesler Way, Seattle, WA, 98122-5430
@@ -69,7 +61,6 @@
 🌐 https://www.neighborcare.org
 🏥 Services: Primary Care
 📞 206-461-6935
-🗺 https://maps.google.com/?q=47.60109,-122.31563
 
 10. SEATTLE INDIAN HEALTH BOARD
 611 12th Ave S, Seattle, WA, 98144-2007
@@ -77,7 +68,6 @@
 🌐 https://www.sihb.org
 🏥 Services: Primary Care
 📞 206-324-9360
-🗺 https://maps.google.com/?q=47.59724,-122.31780
 
 11. New Horizons
 2709 3rd Ave  FL 2, Seattle, WA, 98121-1217
@@ -85,21 +75,18 @@
 🌐 https://nhmin.org/event/drop-in-neighborcare-youth-clinic/
 🏥 Services: Primary Care
 📞 206-374-0866
-🗺 https://maps.google.com/?q=47.61717,-122.34953
 
 12. Seattle Roots at Step Clinic
 1621 S Jackson St STE 201  RM 1, SEATTLE, WA, 98144-2277
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care, Ryan White HIV/AIDS Program
 📞 206-732-0311
-🗺 https://maps.google.com/?q=47.59903,-122.31058
 
 13. Teresita Batayola Health Clinic
 939 Golf Drive South  STE 110, Seattle, WA, 98144-4013
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 206-462-7162
-🗺 https://maps.google.com/?q=47.59327,-122.31657
 
 14. Neighborcare Health at Pacific Tower
 1200 12th Ave S Ste 401, Seattle, WA, 98144-2730
@@ -107,14 +94,12 @@
 🌐 https://www.neighborcare.org
 🏥 Services: Primary Care
 📞 206-548-3058
-🗺 https://maps.google.com/?q=47.59290,-122.31723
 
 15. Seattle World School
 1700 E Union St, Seattle, WA, 98122-4140
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 206-332-7160
-🗺 https://maps.google.com/?q=47.61337,-122.30929
 
 16. Seattle Roots at Carolyn Downs
 2101 E Yesler Way, Seattle, WA, 98122-5959
@@ -122,21 +107,18 @@
 🌐 http://www.cdchc.org
 🏥 Services: Primary Care
 📞 206-299-1900
-🗺 https://maps.google.com/?q=47.60133,-122.30466
 
 17. UW Homeless Youth Clinic
 500 19TH AVE E, SEATTLE, WA, 98112-4007
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 206-299-1636
-🗺 https://maps.google.com/?q=47.62342,-122.30698
 
 18. ACRS
 3639 M L King Jr Way S, Seattle, WA, 98144-6847
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 206-788-3700
-🗺 https://maps.google.com/?q=47.57078,-122.29726
 
 19. Neighborcare Health at West Seattle High School
 3000 CALIFORNIA AVE SW, SEATTLE, WA, 98116-3302
@@ -144,7 +126,6 @@
 🌐 https://www.neighborcare.org
 🏥 Services: Primary Care
 📞 206-658-8048
-🗺 https://maps.google.com/?q=47.57697,-122.38527
 
 20. COLUMBIA PUBLIC HEALTH CTR
 4400 37th Ave S, Seattle, WA, 98118-1609
@@ -152,7 +133,6 @@
 🌐 http://www.kingcounty.gov/healthservices/health/locations/columbia.aspx
 🏥 Services: Primary Care
 📞 206-296-4650
-🗺 https://maps.google.com/?q=47.56390,-122.28575
 
 21. Neighborcare Health at Columbia City
 4400 37th Ave S  FL 1, Seattle, WA, 98118-1609
@@ -160,7 +140,6 @@
 🌐 https://www.neighborcare.org
 🏥 Services: Primary Care
 📞 206-461-6957
-🗺 https://maps.google.com/?q=47.56390,-122.28575
 
 22. Neighborcare Health at 45th Street - Dental
 1629 N 45TH ST, SEATTLE, WA, 98103-6701
@@ -168,7 +147,6 @@
 🌐 https://www.neighborcare.org
 🏥 Services: Primary Care; Dental
 📞 206-633-3350
-🗺 https://maps.google.com/?q=47.66109,-122.33774
 
 23. Neighborcare Health at Dearborn Park International School
 1516 S   11th St, Tacoma, WA, 98405-3332
@@ -176,7 +154,6 @@
 🌐 https://www.neighborcare.org
 🏥 Services: Primary Care
 📞 206-548-3166
-🗺 https://maps.google.com/?q=47.55224,-122.29657
 
 24. Mobile Van 01
 7272 W Marginal Way S, Seattle, WA, 98108
@@ -184,21 +161,18 @@
 🌐 https://www.kingcounty.gov/health/mobilemed
 🏥 Services: Primary Care
 📞 206-369-3489
-🗺 https://maps.google.com/?q=47.53687,-122.33316
 
 25. Neighborcare Health Ballard Homeless Clinic at Nyer Urness House
 1753 NW 56th St Ste 200, Seattle, WA, 98107-5279
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 206-782-5939
-🗺 https://maps.google.com/?q=47.66923,-122.38129
 
 26. Neighborcare Health at Highland Park Elementary
 1012 SW Trenton St., Seattle, WA, 98106-2421
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 206-455-9025
-🗺 https://maps.google.com/?q=47.52527,-122.34846
 
 27. Sea Mar CHC - Seattle 8720 14th Ave. S.
 8720 14th Ave S, Seattle, WA, 98108-4807
@@ -206,7 +180,6 @@
 🌐 https://www.seamar.org
 🏥 Services: Primary Care; Migrant health center
 📞 206-762-3730
-🗺 https://maps.google.com/?q=47.52490,-122.31472
 
 28. Neighborcare Health at Magnuson
 7101 62nd Ave NE Ste 4, Seattle, WA, 98115-7168
@@ -214,7 +187,6 @@
 🌐 https://neighborcare.org/clinics/
 🏥 Services: Primary Care
 📞 206-548-5710
-🗺 https://maps.google.com/?q=47.68060,-122.26224
 
 29. Neighborcare Health at Robert Eagle Staff Middle School
 1330 N 90th St Rm M111, Seattle, WA, 98103-4016
@@ -222,7 +194,6 @@
 🌐 https://neighborcare.org/clinics
 🏥 Services: Primary Care
 📞 206-548-5770
-🗺 https://maps.google.com/?q=47.69419,-122.34023
 
 30. Sea Mar CHC - White Center 15th Ave. SW
 9650 15TH AVE SW # 100, SEATTLE, WA, 98106-2816
@@ -230,14 +201,12 @@
 🌐 https://www.seamar.org
 🏥 Services: Primary Care; Dental; Mental health; Migrant health center
 📞 206-965-1000
-🗺 https://maps.google.com/?q=47.51586,-122.35398
 
 31. White Center Public Health Center
 9934 8TH AVE SW, SEATTLE, WA, 98106-3036
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 206-477-0000
-🗺 https://maps.google.com/?q=47.51430,-122.34518
 
 32. Sea Mar CHC - Seattle 17th Place S.
 10001 17TH PLACE S  LOWER LEVL, SEATTLE, WA, 98168-1615
@@ -245,14 +214,12 @@
 🌐 https://www.seamar.org
 🏥 Services: Primary Care
 📞 206-766-6976
-🗺 https://maps.google.com/?q=47.51419,-122.31017
 
 33. Rainier Beach School-Based Health Center
 8815 Seward Park Ave S, Seattle, WA, 98118-4743
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 206-296-4639
-🗺 https://maps.google.com/?q=47.52387,-122.26465
 
 34. Neighborcare Health at Rainier Beach
 9245 Rainier Ave S, Seattle, WA, 98118-5569
@@ -260,7 +227,6 @@
 🌐 https://www.neighborcare.org
 🏥 Services: Primary Care
 📞 206-721-2326
-🗺 https://maps.google.com/?q=47.51966,-122.26918
 
 35. Ryther South Seattle Youth Center
 9416 Rainier Ave S, Seattle, WA, 98118-5504
@@ -268,7 +234,6 @@
 🌐 https://youthcare.org/homeless-youth-services/engagement-services/south-seattle-shelter/
 🏥 Services: Primary Care
 📞 206-331-2363
-🗺 https://maps.google.com/?q=47.52020,-122.26436
 
 36. Meridian Center for Health
 10521 MERIDIAN AVE N, SEATTLE, WA, 98133-9509
@@ -276,14 +241,12 @@
 🌐 https://www.neighborcare.org
 🏥 Services: Primary Care
 📞 206-782-8660
-🗺 https://maps.google.com/?q=47.70598,-122.33477
 
 37. Sea Mar CHC - Bellevue 116th Ave. NE
 2000 116th Ave. NE, Bellevue, WA, 98004-3047
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 425-998-5090
-🗺 https://maps.google.com/?q=47.62837,-122.18507
 
 38. ICHS Bellevue Medical and Dental Clinic
 1050 140TH AVE NE, BELLEVUE, WA, 98005-2972
@@ -291,21 +254,18 @@
 🌐 https://www.ichs.com
 🏥 Services: Primary Care
 📞 425-373-3000
-🗺 https://maps.google.com/?q=47.61961,-122.15306
 
 39. Peninsula Community Health Services - Bainbridge Island Clinic
 162 Winslow Way W, Bainbridge Island, WA, 98110-2512
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 360-377-3776
-🗺 https://maps.google.com/?q=47.62520,-122.52220
 
 40. Highland SBHC
 15027 NE Bel Red Rd  RM 111, Bellevue, WA, 98007
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 425-373-3135
-🗺 https://maps.google.com/?q=47.62604,-122.14033
 
 41. Sea Mar CHC - Burien Ambaum Blvd. SW
 14434 Ambaum Blvd SW, Burien, WA, 98166-1438
@@ -313,21 +273,18 @@
 🌐 https://www.seamar.org
 🏥 Services: Primary Care
 📞 206-812-6140
-🗺 https://maps.google.com/?q=47.47294,-122.34666
 
 42. HealthPoint Highline Campus Health Center
 225 S 152nd St, Burien, WA, 98148
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 425-277-1311
-🗺 https://maps.google.com/?q=47.46649,-122.33016
 
 43. HealthPoint at Sunset Neighborhood Center
 2902 NE 12th St Ste 102, Renton, WA, 98056-3126
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 425-682-6000
-🗺 https://maps.google.com/?q=47.50348,-122.18090
 
 44. HealthPoint Renton
 200 S    2nd St, Renton, WA, 98057-2011
@@ -335,14 +292,12 @@
 🌐 https://www.healthpointchc.org
 🏥 Services: Primary Care
 📞 425-226-5536
-🗺 https://maps.google.com/?q=47.48160,-122.21488
 
 45. HealthPoint Specialty Services Clinic
 947 Powell Ave SW  STE 100B, Renton, WA, 98057
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 425-277-1311
-🗺 https://maps.google.com/?q=47.47030,-122.23167
 
 46. Friends of Youth The Landing
 12735 Willows Road NE, Kirkland, WA, 98034-8717
@@ -350,7 +305,6 @@
 🌐 https://www.friendsofyouth.org/services
 🏥 Services: Primary Care
 📞 425-449-3868
-🗺 https://maps.google.com/?q=47.71518,-122.15404
 
 47. HealthPoint SeaTac
 4040 S  188th St STE 201, Seatac, WA, 98188-5070
@@ -358,14 +312,12 @@
 🌐 https://www.healthpointchc.org
 🏥 Services: Primary Care
 📞 206-277-7200
-🗺 https://maps.google.com/?q=47.43446,-122.28246
 
 48. HealthPoint at Family First Community Center
 16200 116th Ave SE, Renton, WA, 98058
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 425-400-1899
-🗺 https://maps.google.com/?q=47.45792,-122.18501
 
 49. Peninsula Community Health Services – Esquire Hills Elementary School Based Health Center
 2650 NE John Carlson Rd, Bremerton, WA, 98311-3928
@@ -373,7 +325,6 @@
 🌐 https://www.pchsweb.org
 🏥 Services: Primary Care
 📞 360-377-3776
-🗺 https://maps.google.com/?q=47.63308,-122.61497
 
 50. PCHS-KMHS-Almira Dr
 5455 Almira Dr NE, Bremerton, WA, 98311-8330
@@ -381,49 +332,42 @@
 🌐 https://www.pchsweb.org
 🏥 Services: Primary Care
 📞 360-377-3776
-🗺 https://maps.google.com/?q=47.61191,-122.62412
 
 51. Mountlake Terrace High School
 21801 44th Ave W, Mountlake Terrace, WA, 98043-3515
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 425-835-5227
-🗺 https://maps.google.com/?q=47.80174,-122.28852
 
 52. Peninsula Community Health Services - Family Dental Care
 3102 Wheaton Way, Bremerton, WA, 98310
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 360-377-3776
-🗺 https://maps.google.com/?q=47.59172,-122.62707
 
 53. Peninsula Community Health Services - Cedar House 231
 231 5th St, Bremerton, WA, 98337-1814
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 360-377-3776
-🗺 https://maps.google.com/?q=47.56640,-122.62450
 
 54. Sea Mar CHC - Vashon Island
 10030 SW 210th St, Vashon, WA, 98070-6584
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 206-763-5277
-🗺 https://maps.google.com/?q=47.41724,-122.46318
 
 55. Sea Mar CHC - Lynnwood Alderwood Mall Blvd.
 4111 Alderwood Mall Blvd, Lynnwood, WA, 98036-6765
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 425-977-2560
-🗺 https://maps.google.com/?q=47.81780,-122.28906
 
 56. Sea Mar CHC - Lynnwood Crisis Center
 19321 44th Ave W  STE A, Lynnwood, WA, 98036-5664
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 425-616-4145
-🗺 https://maps.google.com/?q=47.82329,-122.29097
 
 57. Lynnwood Clinic
 4111 194th St SW, Lynnwood, WA, 98036-4604
@@ -431,7 +375,6 @@
 🌐 https://chcsno.org
 🏥 Services: Primary Care
 📞 425-835-5200
-🗺 https://maps.google.com/?q=47.82327,-122.28870
 
 58. Sea Mar CHC - Des Moines S. 242nd St.
 2781 S 242nd St, Des Moines, WA, 98198-5166
@@ -439,7 +382,6 @@
 🌐 https://www.seamar.org
 🏥 Services: Primary Care
 📞 206-212-4500
-🗺 https://maps.google.com/?q=47.38410,-122.29746
 
 59. PCHS-Kingston Clinic
 25989 Barber Cut Off Rd NE, Kingston, WA, 98346-8455
@@ -447,7 +389,6 @@
 🌐 https://www.pchsweb.org
 🏥 Services: Primary Care
 📞 360-377-3776
-🗺 https://maps.google.com/?q=47.79796,-122.50885
 
 60. PCHS-Port Orchard Clinic
 320 S. KITSAP BLVD, PORT ORCHARD, WA, 98366-3778
@@ -455,7 +396,6 @@
 🌐 https://www.pchsweb.org
 🏥 Services: Primary Care
 📞 360-377-3776
-🗺 https://maps.google.com/?q=47.52215,-122.65407
 
 61. HealthPoint Kent Urgent Care
 219 State Ave N, Kent, WA, 98030-4543
@@ -463,21 +403,18 @@
 🌐 https://www.healthpointchc.org
 🏥 Services: Primary Care
 📞 253-372-3602
-🗺 https://maps.google.com/?q=47.38271,-122.23010
 
 62. Sea Mar CHC - Kent 233 2nd Ave. S.
 233 2nd Ave. S., Kent, WA, 98032-5852
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 206-436-6380
-🗺 https://maps.google.com/?q=47.38000,-122.23519
 
 63. Meadowdale High School
 6002 168th St SW, Lynnwood, WA, 98037-2730
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 425-835-5225
-🗺 https://maps.google.com/?q=47.84556,-122.31340
 
 64. HealthPoint Midway
 26401 Pacific Hwy S, Des Moines, WA, 98198-9247
@@ -485,7 +422,6 @@
 🌐 https://www.healthpointchc.org
 🏥 Services: Primary Care
 📞 206-870-3590
-🗺 https://maps.google.com/?q=47.36513,-122.30625
 
 65. Peninsula Community Health Services - Pendleton Place
 5454 Kitsap Way RM 343, Bremerton, WA, 98312-2240
@@ -493,14 +429,12 @@
 🌐 https://www.pchweb.org
 🏥 Services: Primary Care
 📞 360-377-3776
-🗺 https://maps.google.com/?q=47.57199,-122.68734
 
 66. Sea Mar CHC - Kent 104th Ave SE
 25028 104th Ave SE, Kent, WA, 98030-9310
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 206-764-8019
-🗺 https://maps.google.com/?q=47.37713,-122.20181
 
 67. PCHS- Silverdale
 3100 NW Bucklin Hill Rd Ste 202, Silverdale, WA, 98383-8362
@@ -508,7 +442,6 @@
 🌐 https://www.pchsweb.org
 🏥 Services: Primary Care
 📞 360-377-3776
-🗺 https://maps.google.com/?q=47.65133,-122.69118
 
 68. Peninsula Community Health Services - Central Kitsap High School Based Health Center
 10182 Frontier Place NW  OFC 5010, Silverdale, WA, 98383
@@ -516,7 +449,6 @@
 🌐 https://www.pchsweb.org
 🏥 Services: Primary Care
 📞 360-377-3776
-🗺 https://maps.google.com/?q=47.65555,-122.70342
 
 69. Thomas Jefferson Health Center
 4248 S 288th St, Auburn, WA, 98001-2820
@@ -524,7 +456,6 @@
 🌐 https://www.healthpointchc.org/
 🏥 Services: Primary Care
 📞 425-277-1311
-🗺 https://maps.google.com/?q=47.34341,-122.28059
 
 70. ICHS at Sound Auburn
 4238 Auburn Way N, Auburn, WA, 98002-1311
@@ -532,14 +463,12 @@
 🌐 https://www.ichs.com
 🏥 Services: Primary Care
 📞 253-444-0106
-🗺 https://maps.google.com/?q=47.34548,-122.22165
 
 71. Sea Mar CHC - Auburn Mountainview High School
 28900 124th Ave. SE, Auburn, WA, 98092
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 206-763-5277
-🗺 https://maps.google.com/?q=47.34198,-122.17187
 
 72. Sea Mar CHC - Federal Way 18th Ave S
 31405 18th Ave S, Federal Way, WA, 98003-5433
@@ -547,7 +476,6 @@
 🌐 http://www.seamar.org
 🏥 Services: Primary Care
 📞 253-681-6600
-🗺 https://maps.google.com/?q=47.32027,-122.31115
 
 73. Everett-South Clinic
 1019 112th St SW, Everett, WA, 98204-4875
@@ -555,7 +483,6 @@
 🌐 https://chcsno.org
 🏥 Services: Primary Care
 📞 425-551-6001
-🗺 https://maps.google.com/?q=47.89727,-122.24787
 
 74. HealthPoint Auburn North
 923 Auburn Way N, Auburn, WA, 98002-4117
@@ -563,7 +490,6 @@
 🌐 https://www.healthpointchc.org
 🏥 Services: Primary Care
 📞 425-277-1311
-🗺 https://maps.google.com/?q=47.31709,-122.22238
 
 75. HealthPoint Federal Way
 33431 13th Pl S, Federal Way, WA, 98003-6357
@@ -571,28 +497,24 @@
 🌐 https://www.healthpointchc.org
 🏥 Services: Primary Care
 📞 253-874-7634
-🗺 https://maps.google.com/?q=47.30195,-122.31786
 
 76. Catholic Community Services Federal Way Day Center
 33505 13th Pl S, Federal Way, WA, 98003-6337
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 206-323-6366
-🗺 https://maps.google.com/?q=47.30139,-122.31720
 
 77. Sea Mar CHC - Auburn N. Division St.
 202 N Division St Ste 300, Auburn, WA, 98001-4939
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 253-876-8088
-🗺 https://maps.google.com/?q=47.30856,-122.22912
 
 78. Sea Mar CHC - Everett Mall Way
 15 SW Everett Mall Way, Suite A, Everett, WA, 98204-2715
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 425-348-6727
-🗺 https://maps.google.com/?q=47.90691,-122.23431
 
 79. Cascade High School
 801 E Casino Rd, Everett, WA, 98203-6534
@@ -600,7 +522,6 @@
 🌐 https://www.chcsno.org
 🏥 Services: Primary Care
 📞 425-385-6000
-🗺 https://maps.google.com/?q=47.92334,-122.22100
 
 80. Sea Mar CHC - Monroe Fryelands Blvd. SE
 14090 Fryelands Blvd SE, Monroe, WA, 98272-2693
@@ -608,35 +529,30 @@
 🌐 https://www.seamarchc.org
 🏥 Services: Primary Care
 📞 360-805-3122
-🗺 https://maps.google.com/?q=47.86976,-122.01040
 
 81. Sea Mar CHC - Monroe W. Main St.
 800 W Main St, Monroe, WA, 98272-2125
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 360-805-3122
-🗺 https://maps.google.com/?q=47.85227,-121.98079
 
 82. Sea Mar CHC - Gig Harbor 50th St Ct NW
 3208 50th Street Ct Ste 202-203, Gig Harbor, WA, 98335-8590
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 253-280-9888
-🗺 https://maps.google.com/?q=47.30391,-122.58281
 
 83. Mobile Site - Stability Clinic
 1148 Broadway Ste 100, Tacoma, WA, 98402-3518
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care, Ryan White HIV/AIDS Program
 📞 253-722-2161
-🗺 https://maps.google.com/?q=47.25152,-122.44013
 
 84. Sea Mar CHC - Tacoma 1215 S. 11th St.
 1215 S 11TH ST, TACOMA, WA, 98405-4020
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Dental; Migrant health center
 📞 253-280-9840
-🗺 https://maps.google.com/?q=47.25200,-122.45437
 
 🌐 http://www.seamar.org
 
@@ -645,14 +561,12 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 253-597-3813
-🗺 https://maps.google.com/?q=47.25071,-122.45185
 
 86. Everett Central Clinic
 4201 Rucker Ave, Everett, WA, 98203-2237
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 425-382-4000
-🗺 https://maps.google.com/?q=47.96175,-122.21030
 
 87. Peninsula Community Health Services - Mason Quick Response Team
 31 NE State Route 300 Ste 200, Belfair, WA, 98528-8668
@@ -660,21 +574,18 @@
 🌐 https://www.pchsweb.org
 🏥 Services: Primary Care
 📞 360-377-3776
-🗺 https://maps.google.com/?q=47.45117,-122.82825
 
 88. Cocoon House
 3530 Colby Ave, Everett, WA, 98201-5111
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 425-789-3700
-🗺 https://maps.google.com/?q=47.97030,-122.20867
 
 89. Wound Care Clinic
 3629 S D St, Tacoma, WA, 98418-6813
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 253-798-6500
-🗺 https://maps.google.com/?q=47.22517,-122.43504
 
 90. Everett High School
 2416 Colby Ave, Everett, WA, 98201-2914
@@ -682,21 +593,18 @@
 🌐 https://www.chcsno.org
 🏥 Services: Primary Care
 📞 425-385-4400
-🗺 https://maps.google.com/?q=47.98528,-122.20910
 
 91. Sea Mar CHC - Tacoma Lincoln High School
 701 S 37th St, Tacoma, WA, 98418-6745
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 253-240-2160
-🗺 https://maps.google.com/?q=47.22473,-122.44112
 
 92. Kimi & George Tanbara, MD Health Center
 1708 E   44th St, Tacoma, WA, 98404-4611
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 253-471-4553
-🗺 https://maps.google.com/?q=47.21707,-122.40547
 
 93. New Puyallup Clinic
 201 W Main, Puyallup, WA, 98371-5327
@@ -704,14 +612,12 @@
 🌐 https://www.commhealth.org
 🏥 Services: Primary Care
 📞 253-597-4550
-🗺 https://maps.google.com/?q=47.19212,-122.29526
 
 94. Sea Mar CHC - Lakewood Bridgeport Way W
 7424 Bridgeport Way W, Lakewood, WA, 98499-8120
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 253-581-2111
-🗺 https://maps.google.com/?q=47.18975,-122.51982
 
 95. PARKLAND CLINIC
 11225 Pacific Ave S, Tacoma, WA, 98444-5525
@@ -719,7 +625,6 @@
 🌐 https://www.commhealth.org
 🏥 Services: Primary Care
 📞 253-536-2020
-🗺 https://maps.google.com/?q=47.15431,-122.43380
 
 96. LAKEWOOD CLINIC
 10510 Gravelly Lake Dr SW, Lakewood, WA, 98499-5036
@@ -727,7 +632,6 @@
 🌐 https://www.commhealth.org
 🏥 Services: Primary Care
 📞 253-589-7030
-🗺 https://maps.google.com/?q=47.16132,-122.52151
 
 97. Sea Mar CHC - Puyallup 101st Avenue Ct. E.
 12812 101st Avenue Ct E, Puyallup, WA, 98373-9101
@@ -735,56 +639,48 @@
 🌐 https://www.seamar.org
 🏥 Services: Primary Care
 📞 253-864-4770
-🗺 https://maps.google.com/?q=47.13965,-122.29428
 
 98. Sea Mar CHC - Marysville Grove St. NE
 4922 Grove St, Marysville, WA, 98270-4427
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 360-657-3091
-🗺 https://maps.google.com/?q=48.06105,-122.16387
 
 99. Spanaway Middle School SBHC
 15701 B St E, Tacoma, WA, 98445-1163
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 253-722-1566
-🗺 https://maps.google.com/?q=47.11544,-122.42787
 
 100. Sea Mar CHC - Tillicum Community Center
 14916 Washington Ave. SW, Lakewood, WA, 98498-2271
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 253-280-9890
-🗺 https://maps.google.com/?q=47.12383,-122.55426
 
 101. Granite Falls High School
 1401 100th St NE, Granite Falls, WA, 98252-8643
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 360-691-7717
-🗺 https://maps.google.com/?q=48.08705,-121.96250
 
 102. SBHC at Bethel Middle School
 22001 38th Ave E Rm 111, Spanaway, WA, 98387-6875
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 253-722-1718
-🗺 https://maps.google.com/?q=47.05820,-122.37927
 
 103. Graham-Kapowsin SBHC
 22100 108th Ave E, Graham, WA, 98338-8871
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 253-354-4315
-🗺 https://maps.google.com/?q=47.05751,-122.28677
 
 104. Sea Mar CHC - Olympia Ensign Rd NE
 3622 Ensign Rd NE, Olympia, WA, 98506-5081
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Migrant health center
 📞 360-742-5000
-🗺 https://maps.google.com/?q=47.05165,-122.84325
 
 🌐 http://www.seamarchc.org/
 
@@ -794,7 +690,6 @@
 🌐 https://www.seamar.org
 🏥 Services: Primary Care
 📞 360-359-4840
-🗺 https://maps.google.com/?q=47.04296,-122.82357
 
 106. Peninsula Community Health Services - Franklin Street
 627 W Franklin St, Shelton, WA, 98584-3504
@@ -802,14 +697,12 @@
 🌐 https://www.pchsweb.org
 🏥 Services: Primary Care
 📞 360-377-3776
-🗺 https://maps.google.com/?q=47.21396,-123.10698
 
 107. Valley View Health Center - Olympia
 3775 Martin Way E Ste A, Olympia, WA, 98506-5007
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 360-236-7166
-🗺 https://maps.google.com/?q=47.04746,-122.84055
 
 108. Sea Mar CHC - Yelm Cullens St. NW
 202 Cullens St. NW, Yelm, WA, 98597-9417
@@ -817,7 +710,6 @@
 🌐 https://www.seamar.org
 🏥 Services: Primary Care
 📞 360-400-4800
-🗺 https://maps.google.com/?q=46.94706,-122.61273
 
 109. Sea Mar CHC - Olympia 3030 Limited Lane NW
 3030 LIMITED LN NW, OLYMPIA, WA, 98502-2704
@@ -825,28 +717,24 @@
 🌐 https://www.seamar.org
 🏥 Services: Primary Care; Migrant health center
 📞 360-491-1399
-🗺 https://maps.google.com/?q=47.04881,-122.93936
 
 110. Sea Mar CHC - Oak Harbor SE Ireland St.
 830 SE Ireland St, Oak Harbor, WA, 98277-5502
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 360-679-7676
-🗺 https://maps.google.com/?q=48.29158,-122.64612
 
 111. Sea Mar CHC - Oak Harbor E. Whidbey Ave.
 926 E Whidbey Ave, Oak Harbor, WA, 98277-2674
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 360-679-9216
-🗺 https://maps.google.com/?q=48.29850,-122.64662
 
 112. Sea Mar CHC - Tumwater 6336 Littlerock Rd. SW
 6336 Littlerock Rd SW, Tumwater, WA, 98512-7332
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 360-704-7590
-🗺 https://maps.google.com/?q=46.99185,-122.92352
 
 113. Sea Mar CHC - Skagit Valley Women's Health Center
 125 N 18th St Ste A, Mount Vernon, WA, 98273-3902
@@ -854,7 +742,6 @@
 🌐 http://www.seamar.org
 🏥 Services: Primary Care
 📞 206-588-5550
-🗺 https://maps.google.com/?q=48.42186,-122.31930
 
 114. Eastside Health Center
 1026 E 1st St, Port Angeles, WA, 98362-4020
@@ -862,28 +749,24 @@
 🌐 https://www.nohn-pa.org
 🏥 Services: Primary Care
 📞 360-460-7891
-🗺 https://maps.google.com/?q=48.11146,-123.41583
 
 115. North Olympic Healthcare Network First Street
 933 E 1st St, Port Angeles, WA, 98362-4012
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 360-452-7891
-🗺 https://maps.google.com/?q=48.11267,-123.41712
 
 116. Sea Mar CHC - Port Angeles W. 1st St.
 228 W    1st St STE K & L, Port Angeles, WA, 98362-2639
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 360-406-5260
-🗺 https://maps.google.com/?q=48.12026,-123.43656
 
 117. Sea Mar CHC - Concrete
 7438 S D AVE, CONCRETE, WA, 98237-9642
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 360-853-8183
-🗺 https://maps.google.com/?q=48.53690,-121.75245
 
 118. UCNW Carl Cozier Elementary School
 1330 Lincoln St, Bellingham, WA, 98229-6238
@@ -891,7 +774,6 @@
 🌐 https://www.unitycarenw.org
 🏥 Services: Primary Care
 📞 360-676-6410
-🗺 https://maps.google.com/?q=48.74605,-122.46185
 
 119. UCNW The Way Station
 1500 N State St, Ste 101, Bellingham, WA, 98225-4551
@@ -899,7 +781,6 @@
 🌐 https://www.unitycarenw.org
 🏥 Services: Primary Care
 📞 360-676-6177
-🗺 https://maps.google.com/?q=48.75073,-122.47361
 
 120. UCNW 218 Unity
 218 Unity St, Bellingham, WA, 98225-4420
@@ -907,7 +788,6 @@
 🌐 https://www.unitycarenw.org
 🏥 Services: Primary Care
 📞 360-752-7406
-🗺 https://maps.google.com/?q=48.75344,-122.47642
 
 121. UCNW Portable Clinical Care
 220 Unity St, Bellingham, WA, 98225-4429
@@ -915,14 +795,12 @@
 🌐 http://www.unitycarenw.org
 🏥 Services: Primary Care
 📞 360-676-6177
-🗺 https://maps.google.com/?q=48.75358,-122.47621
 
 122. Sea Mar CHC - Options High School
 2015 Franklin St, Bellingham, WA, 98225-4220
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 360-722-7720
-🗺 https://maps.google.com/?q=48.75745,-122.47099
 
 123. UCNW Roosevelt Elementary School
 2900 Yew Street, Room 24, Bellingham, WA, 98226-6127
@@ -930,14 +808,12 @@
 🌐 https://www.unitycarenw.org
 🏥 Services: Primary Care
 📞 360-676-6440
-🗺 https://maps.google.com/?q=48.76812,-122.44253
 
 124. Sea Mar CHC - Bellingham Behavioral Health
 3350 AIRPORT DR, BELLINGHAM, WA, 98226-7696
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 360-734-5458
-🗺 https://maps.google.com/?q=48.78633,-122.52274
 
 125. Sea Mar CHC - Bellingham Cordata Parkway
 4455 CORDATA PKWY, BELLINGHAM, WA, 98226-8037
@@ -945,7 +821,6 @@
 🌐 https://www.seamar.org
 🏥 Services: Primary Care
 📞 360-671-3225
-🗺 https://maps.google.com/?q=48.80159,-122.49685
 
 126. Sea Mar CHC - Aberdeen Sumner Ave.
 1813 SUMNER AVE, ABERDEEN, WA, 98520-4600
@@ -953,7 +828,6 @@
 🌐 https://www.seamar.org
 🏥 Services: Primary Care
 📞 360-538-1293
-🗺 https://maps.google.com/?q=46.97570,-123.83849
 
 127. Sea Mar CHC - Everson Hannegan Rd.
 6884 Hannegan Rd, Everson, WA, 98247-9637
@@ -961,7 +835,6 @@
 🌐 https://www.seamar.org
 🏥 Services: Primary Care
 📞 360-354-0776
-🗺 https://maps.google.com/?q=48.89155,-122.44213
 
 128. CVCH Youth Behavioral Health
 140 Easy Way, Wenatchee, WA, 98801-8108
@@ -969,7 +842,6 @@
 🌐 https://www.cvch.org
 🏥 Services: Primary Care
 📞 509-662-4296
-🗺 https://maps.google.com/?q=47.46919,-120.33368
 
 129. CVCH West Side High School Health Center
 1510 9th St, Wenatchee, WA, 98801-1656
@@ -977,7 +849,6 @@
 🌐 https://www.cvch.org
 🏥 Services: Primary Care
 📞 509-663-7947
-🗺 https://maps.google.com/?q=47.43275,-120.34010
 
 130. CHCW - Ellensburg Medical and Dental Services
 521 E Mountain View Avenue, Ellensburg, WA, 98926-3865
@@ -985,7 +856,6 @@
 🌐 https://www.chcw.org
 🏥 Services: Primary Care
 📞 509-962-1414
-🗺 https://maps.google.com/?q=46.98494,-120.54036
 
 131. CVCH New Path
 819 N Miller St Ste 1B, Wenatchee, WA, 98801-6604
@@ -993,7 +863,6 @@
 🌐 https://www.cvch.org
 🏥 Services: Primary Care
 📞 509-664-4592
-🗺 https://maps.google.com/?q=47.43270,-120.32478
 
 132. CVCH Connect Van
 600 Orondo Ave, Wenatchee, WA, 98801-2800
@@ -1001,7 +870,6 @@
 🌐 https://cvch.org/our-locations/connect
 🏥 Services: Primary Care
 📞 509-662-6000
-🗺 https://maps.google.com/?q=47.41898,-120.31815
 
 133. CVCH WIC
 502 Orondo Ave, Wenatchee, WA, 98801-2830
@@ -1009,7 +877,6 @@
 🌐 https://cvch.org/WIC
 🏥 Services: Primary Care
 📞 509-664-3771
-🗺 https://maps.google.com/?q=47.42010,-120.31613
 
 134. Sea Mar CHC - Ocean Shores Point Brown Ave.
 597 Point Brown Ave NW, Ocean Shores, WA, 98569-9632
@@ -1017,7 +884,6 @@
 🌐 https://www.seamar.org
 🏥 Services: Primary Care
 📞 360-289-2427
-🗺 https://maps.google.com/?q=47.00189,-124.16130
 
 135. Castle Rock Clinic
 139 1st Avenue, Castle Rock, WA, 98611
@@ -1025,14 +891,12 @@
 🌐 https://www.cowlitzfamilyhealth.org
 🏥 Services: Primary Care
 📞 360-274-2353
-🗺 https://maps.google.com/?q=46.27474,-122.90926
 
 136. CVCH East Wenatchee Clinic
 940 Eastmont Ave, East Wenatchee, WA, 98802
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 509-662-6000
-🗺 https://maps.google.com/?q=47.41982,-120.28275
 
 137. CVCH Sterling Middle School Health Center
 600 N James Ave, East Wenatchee, WA, 98802-4629
@@ -1040,7 +904,6 @@
 🌐 https://www.cvch.org
 🏥 Services: Primary Care
 📞 509-662-6000
-🗺 https://maps.google.com/?q=47.41436,-120.26926
 
 138. Naches Medical Center
 102 E    2nd St, Naches, WA, 98937-9743
@@ -1048,7 +911,6 @@
 🌐 https://www.chcw.org
 🏥 Services: Primary Care
 📞 509-653-2235
-🗺 https://maps.google.com/?q=46.73073,-120.69892
 
 139. CVCH Manson Elementary School Health Center
 950 Totem Pole Rd, Manson, WA, 98831-9418
@@ -1056,14 +918,12 @@
 🌐 https://www.cvch.org
 🏥 Services: Primary Care
 📞 509-662-6000
-🗺 https://maps.google.com/?q=47.89032,-120.15393
 
 140. Sea Mar CHC - Kelso Allen St.
 1710 Allen St, Kelso, WA, 98626-4907
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 206-763-5277
-🗺 https://maps.google.com/?q=46.14453,-122.89376
 
 141. FHC Kelso Clinic
 300 Oak Street STE B, Kelso, WA, 98626-2304
@@ -1071,7 +931,6 @@
 🌐 https://www.cowlitzfamilyhealth.org
 🏥 Services: Primary Care
 📞 360-353-5511
-🗺 https://maps.google.com/?q=46.14357,-122.91025
 
 142. Grade Street Campus
 621 Grade St, Kelso, WA, 98626-2606
@@ -1079,7 +938,6 @@
 🌐 https://cowlitzfamilyhealth.org
 🏥 Services: Primary Care
 📞 360-501-6131
-🗺 https://maps.google.com/?q=46.14222,-122.90686
 
 143. FHC Olympia Way Clinic
 1717 Olympia Way Ste 206, Longview, WA, 98632-3929
@@ -1087,7 +945,6 @@
 🌐 https://www.cowlitzfamilyhealth.oeg
 🏥 Services: Primary Care
 📞 360-423-7740
-🗺 https://maps.google.com/?q=46.14045,-122.94007
 
 144. 14th Avenue Clinic
 784 14th Ave, Longview, WA, 98632-2315
@@ -1095,14 +952,12 @@
 🌐 https://cowlitzfamilyhealth.org
 🏥 Services: Primary Care
 📞 360-703-6400
-🗺 https://maps.google.com/?q=46.12834,-122.93889
 
 145. West Valley Family Health & OB/GYN
 5109 Summitview Ave, Yakima, WA, 98908-2858
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 509-575-1234
-🗺 https://maps.google.com/?q=46.60053,-120.57974
 
 146. CHILDREN'S VILLAGE-UPPER VALLEY
 3801 Kern Rd, Yakima, WA, 98902-6340
@@ -1110,7 +965,6 @@
 🌐 https://www.yvfwc.com
 🏥 Services: Primary Care
 📞 509-574-3200
-🗺 https://maps.google.com/?q=46.61203,-120.55867
 
 147. CVCH Chelan MS/HS School Health Center
 215 Webster Ave, Chelan, WA, 98816-9806
@@ -1118,7 +972,6 @@
 🌐 https://www.cvch.org
 🏥 Services: Primary Care
 📞 509-662-6000
-🗺 https://maps.google.com/?q=47.83581,-120.02070
 
 148. Cathlamet Clinic
 355 Una Ave, Cathlamet, WA, 98612-9583
@@ -1126,7 +979,6 @@
 🌐 https://www.cowlitzfamilyhealth.org
 🏥 Services: Primary Care
 📞 360-795-3201
-🗺 https://maps.google.com/?q=46.20574,-123.38473
 
 149. LINCOLN AVE Medical-Dental Clinic
 915 Auburn Way N  STE B, Auburn, WA, 98002
@@ -1134,7 +986,6 @@
 🌐 https://wwww.yvfwc.com
 🏥 Services: Primary Care
 📞 509-469-6305
-🗺 https://maps.google.com/?q=46.60390,-120.53918
 
 150. Behavioral Health Services on 12th Avenue
 307 S. 12th Avenue, Suites 4A-C, Yakima, WA, 98902-3100
@@ -1142,7 +993,6 @@
 🌐 https://www.yvfwc.com
 🏥 Services: Primary Care
 📞 509-453-1344
-🗺 https://maps.google.com/?q=46.59427,-120.52482
 
 151. Yakima Pediatrics
 402 S 12th Ave, Yakima, WA, 98902-3115
@@ -1150,14 +1000,12 @@
 🌐 https://www.chcw.org
 🏥 Services: Primary Care
 📞 509-575-0114
-🗺 https://maps.google.com/?q=46.59365,-120.52540
 
 152. 11th Avenue Family Medicine Clinic
 314 S 11th Ave  STE A, Yakima, WA, 98902-3212
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 509-865-6175
-🗺 https://maps.google.com/?q=46.59342,-120.52242
 
 153. Mobile Unit
 501 S 5th Ave, Yakima, WA, 98902-3550
@@ -1165,7 +1013,6 @@
 🌐 https://chcw.org
 🏥 Services: Primary Care
 📞 509-494-6700
-🗺 https://maps.google.com/?q=46.59368,-120.51204
 
 154. YNHS Training and Patient Education Center
 9 S 6th St, Yakima, WA, 98901-2963
@@ -1173,7 +1020,6 @@
 🌐 https://www.ynhs.org
 🏥 Services: Primary Care
 📞 509-454-4143
-🗺 https://maps.google.com/?q=46.60344,-120.49742
 
 155. Yakima Neighborhood Health Services - Anita Monoian Campus
 12 SOUTH EIGHT STREET, YAKIMA, WA, 98901
@@ -1181,7 +1027,6 @@
 🌐 https://www.ynhs.org
 🏥 Services: Primary Care
 📞 509-454-4143
-🗺 https://maps.google.com/?q=46.60374,-120.49553
 
 156. Rhonda D Hauff Resource Center
 201 S 6th St, Yakima, WA, 98901-2928
@@ -1189,28 +1034,24 @@
 🌐 https://www.ynhs.org
 🏥 Services: Primary Care
 📞 509-853-2385
-🗺 https://maps.google.com/?q=46.60133,-120.49649
 
 157. YVFWC MOBILE MEDICAL-DENTAL
 601 N Keys Rd, Yakima, WA, 98901-1172
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 509-877-3243
-🗺 https://maps.google.com/?q=46.61225,-120.46614
 
 158. Neighborhood Health Services - Terrace Heights - Dental
 2501 Business Ln  STE B, Yakima, WA, 98901-1167
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 509-856-2339
-🗺 https://maps.google.com/?q=46.60921,-120.46657
 
 159. Yakima Valley Farm Workers Dental Clinic at the YV-Tech Campus
 1120 South 18th Street RM 150, Yakima, WA, 98901-3654
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 509-573-5530
-🗺 https://maps.google.com/?q=46.58950,-120.47869
 
 160. FHC Twisp Medical
 541 W 2ND AVE, TWISP, WA, 98856-9863
@@ -1218,7 +1059,6 @@
 🌐 https://www.familyhealth.org
 🏥 Services: Primary Care
 📞 509-997-2011
-🗺 https://maps.google.com/?q=48.36506,-120.13046
 
 161. Quincy Student Health & Wellness Center
 403 Jackrabbit St NE, Quincy, WA, 98848-2008
@@ -1226,7 +1066,6 @@
 🌐 https://www.mlchc.org
 🏥 Services: Primary Care
 📞 509-787-6423
-🗺 https://maps.google.com/?q=47.24933,-119.84643
 
 162. WOODLAND CLINIC
 1251 Lewis River Rd STE D, Woodland, WA, 98674-9203
@@ -1234,7 +1073,6 @@
 🌐 https://cowlitzfamilyhealth.org
 🏥 Services: Primary Care
 📞 360-225-4310
-🗺 https://maps.google.com/?q=45.90857,-122.74078
 
 163. Wapato Mid-Valley Clinic
 620 West 1st Street, Wapato, WA, 98951
@@ -1242,14 +1080,12 @@
 🌐 https://www.yvfwc.com
 🏥 Services: Primary Care
 📞 509-877-4111
-🗺 https://maps.google.com/?q=46.44830,-120.42720
 
 164. FHC - Brewster School District
 503 S 7th St, Brewster, WA, 98812
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 509-689-3418
-🗺 https://maps.google.com/?q=48.09418,-119.78780
 
 165. FHC Brewster Dental Clinic
 101 North 6th Street, Brewster, WA, 98812
@@ -1257,7 +1093,6 @@
 🌐 http://www.myfamilyhealth.org/
 🏥 Services: Primary Care
 📞 509-422-7601
-🗺 https://maps.google.com/?q=48.09959,-119.78557
 
 166. FHC - Bridgeport School District
 1400 Tacoma Ave, Bridgeport, WA, 98813
@@ -1265,14 +1100,12 @@
 🌐 https://fhc.us
 🏥 Services: Primary Care
 📞 509-686-5656
-🗺 https://maps.google.com/?q=48.00561,-119.67477
 
 167. Sea Mar CHC - Battle Ground
 118 S Parkway Ave, Battle Ground, WA, 98604-9215
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 206-763-5277
-🗺 https://maps.google.com/?q=45.77942,-122.53809
 
 168. YVFWC - TOPPENISH
 510 W 1st Ave, Toppenish, WA, 98948-1564
@@ -1280,7 +1113,6 @@
 🌐 https://www.yvfwc.com
 🏥 Services: Primary Care
 📞 509-865-5600
-🗺 https://maps.google.com/?q=46.37475,-120.31686
 
 169. MCMC WIC & PSS
 215 1st St, Mattawa, WA, 99349-0112
@@ -1288,14 +1120,12 @@
 🌐 https://mattawacommunitymedicalclinic.org
 🏥 Services: Primary Care
 📞 509-932-5373
-🗺 https://maps.google.com/?q=46.73697,-119.90481
 
 170. MCMC Mobile Clinic
 210 Government Rd, Mattawa, WA, 99349
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 509-932-4499
-🗺 https://maps.google.com/?q=46.73755,-119.90422
 
 171. Mattawa Community Medical Clinic
 210 Government Road, Mattawa, WA, 99349-0000
@@ -1303,7 +1133,6 @@
 🌐 https://mattawacommunitymedicalclinic.org
 🏥 Services: Primary Care
 📞 509-932-4499
-🗺 https://maps.google.com/?q=46.73755,-119.90422
 
 172. WAHLUKE CLINIC
 601 GOVERNMENT WAY, MATTAWA, WA, 99349-0000
@@ -1311,7 +1140,6 @@
 🌐 https://www.cbha.org
 🏥 Services: Primary Care
 📞 509-932-3535
-🗺 https://maps.google.com/?q=46.73848,-119.89891
 
 173. Ephrata Community Dental Clinic
 457 1st Ave NW, Ephrata, WA, 98823
@@ -1319,7 +1147,6 @@
 🌐 https://www.mlchc.org
 🏥 Services: Primary Care
 📞 509-754-6199
-🗺 https://maps.google.com/?q=47.32281,-119.55425
 
 174. Granger Family Medicine Clinic
 115 Sunnyside Ave Ste A, Granger, WA, 98932-9348
@@ -1327,7 +1154,6 @@
 🌐 https://www.yvfwc.org
 🏥 Services: Primary Care
 📞 509-865-5898
-🗺 https://maps.google.com/?q=46.34352,-120.19561
 
 175. Yakima Neighborhood Health Services - Granger Medical
 111 MAIN ST, GRANGER, WA, 98932-9306
@@ -1335,7 +1161,6 @@
 🌐 https://www.ynhs.org
 🏥 Services: Primary Care
 📞 509-317-2182
-🗺 https://maps.google.com/?q=46.34126,-120.19554
 
 176. Sea Mar CHC - Vancouver NE 88th St.
 1412 NE 88TH ST, VANCOUVER, WA, 98665-9620
@@ -1343,21 +1168,18 @@
 🌐 https://www.seamar.org
 🏥 Services: Primary Care; Dental; Migrant health center
 📞 360-574-4074
-🗺 https://maps.google.com/?q=45.68627,-122.65708
 
 177. One Community Health - Stevenson
 875 SW Rock Creek Dr, Stevenson, WA, 98648-4404
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 509-493-2133
-🗺 https://maps.google.com/?q=45.69219,-121.89704
 
 178. Sea Mar CHC - Vancouver Fourth Plain
 6100 NE Fourth Plain Blvd, Vancouver, WA, 98661-6830
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Migrant health center
 📞 206-763-5277
-🗺 https://maps.google.com/?q=45.64369,-122.60944
 
 🌐 http://www.seamar.org
 
@@ -1366,7 +1188,6 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 360-123-4567
-🗺 https://maps.google.com/?q=45.63662,-122.52545
 
 180. Sea Mar CHC - Vancouver Delaware Lane
 7410 Delaware Ln, Vancouver, WA, 98664-1408
@@ -1374,7 +1195,6 @@
 🌐 https://www.seamar.org
 🏥 Services: Primary Care; Migrant health center
 📞 360-566-4402
-🗺 https://maps.google.com/?q=45.62447,-122.59470
 
 181. Immediate Care
 2680 Yakima Valley Hwy Ste B, Sunnyside, WA, 98944-1242
@@ -1382,14 +1202,12 @@
 🌐 https://www.yvfwc.org
 🏥 Services: Primary Care
 📞 509-882-3444
-🗺 https://maps.google.com/?q=46.31745,-119.98489
 
 182. Family Health Centers Omak
 1003 Koala Ave., Omak, WA, 98841-9576
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 509-422-5700
-🗺 https://maps.google.com/?q=48.42411,-119.50356
 
 183. YVFWC GRANDVIEW CLINIC
 1000 WALLACE WAY, GRANDVIEW, WA, 98930-8805
@@ -1397,7 +1215,6 @@
 🌐 https://www.yvfwc.com
 🏥 Services: Primary Care
 📞 509-882-3444
-🗺 https://maps.google.com/?q=46.26611,-119.92249
 
 184. MOSES LAKE COMMUNITY HEALTH CENTER
 605 S Coolidge St, Moses Lake, WA, 98837-1893
@@ -1405,7 +1222,6 @@
 🌐 https://www.mlchc.org
 🏥 Services: Primary Care
 📞 509-765-0674
-🗺 https://maps.google.com/?q=47.12917,-119.26182
 
 185. FHC Tonasket Medical Clinic
 106 S Whitcomb Ave, Tonasket, WA, 98855-9286
@@ -1413,7 +1229,6 @@
 🌐 http://www.myfamilyhealth.org/
 🏥 Services: Primary Care
 📞 509-486-0114
-🗺 https://maps.google.com/?q=48.70704,-119.43795
 
 186. Denny Murphy Clinic
 1001 W    2nd Ave, Spokane, WA, 99201-4503
@@ -1421,7 +1236,6 @@
 🌐 https://www.chas.org/
 🏥 Services: Primary Care
 📞 509-444-8200
-🗺 https://maps.google.com/?q=47.65418,-117.42676
 
 187. NATIVE Project
 1803 W Maxwell Ave, Spokane, WA, 99201-2831
@@ -1429,7 +1243,6 @@
 🌐 https://www.nativeproject.org
 🏥 Services: Primary Care
 📞 509-483-7535
-🗺 https://maps.google.com/?q=47.67061,-117.43865
 
 188. Unify Community Health
 120 W Mission Ave, Spokane, WA, 99201-2322
@@ -1437,7 +1250,6 @@
 🌐 https://www.yvfwc.com
 🏥 Services: Primary Care; Migrant health center
 📞 509-326-4343
-🗺 https://maps.google.com/?q=47.67197,-117.41370
 
 189. North Central Clinic
 914 W Carlisle Ave, Spokane, WA, 99205-3309
@@ -1445,14 +1257,12 @@
 🌐 https://chas.org/
 🏥 Services: Primary Care
 📞 509-444-8200
-🗺 https://maps.google.com/?q=47.67973,-117.42579
 
 190. Iron Bridge Health Center
 731 N Iron Bridge Way, Spokane, WA, 99202
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 509-444-8200
-🗺 https://maps.google.com/?q=47.66403,-117.39075
 
 191. Perry Street Clinic
 817 S Perry St Unit B, Spokane, WA, 99202-3443
@@ -1460,7 +1270,6 @@
 🌐 https://chas.org/
 🏥 Services: Primary Care
 📞 509-444-8200
-🗺 https://maps.google.com/?q=47.64778,-117.38913
 
 192. East Central Dental
 2211 E Hartson Ave, Spokane, WA, 99202-4152
@@ -1468,7 +1277,6 @@
 🌐 https://www.chas.org
 🏥 Services: Primary Care; Dental
 📞 509-444-8200
-🗺 https://maps.google.com/?q=47.65023,-117.37771
 
 193. Maple Street Clinic
 3919 N Maple St, Spokane, WA, 99205-1349
@@ -1476,14 +1284,12 @@
 🌐 http://www.chas.org/
 🏥 Services: Primary Care
 📞 509-444-8200
-🗺 https://maps.google.com/?q=47.69381,-117.43563
 
 194. CHAS Health at Shadle Park High School
 4327 N Ash Street  RM B115, Spokane, WA, 99205-1498
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 509-444-8888
-🗺 https://maps.google.com/?q=47.69884,-117.43715
 
 195. CHAS Health Parkside Clinic
 3002 E Mission Ave, Spokane, WA, 99202-3627
@@ -1491,14 +1297,12 @@
 🌐 https://chas.org/
 🏥 Services: Primary Care
 📞 509-444-8200
-🗺 https://maps.google.com/?q=47.67164,-117.36644
 
 196. CHAS WA Mobile 1
 5901 N Lidgerwood St, Spokane, WA, 99208-5095
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 509-444-8888
-🗺 https://maps.google.com/?q=47.71203,-117.40679
 
 197. Spokane Urgent Care-North
 5901 N. Lidgerwood St. STE 126, Spokane, WA, 99208-1122
@@ -1506,14 +1310,12 @@
 🌐 http://www.chas.org/
 🏥 Services: Primary Care
 📞 866-907-8200
-🗺 https://maps.google.com/?q=47.71203,-117.40679
 
 198. CHAS Health Lidgerwood Clinic
 5901 N Lidgerwood St  STE 128, Spokane, WA, 99208-1123
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 509-444-8200
-🗺 https://maps.google.com/?q=47.71204,-117.40680
 
 199. Southgate Clinic
 5620 S Regal St Ste 11, Spokane, WA, 99223-7957
@@ -1521,7 +1323,6 @@
 🌐 https://chas.org/
 🏥 Services: Primary Care
 📞 509-444-8200
-🗺 https://maps.google.com/?q=47.60293,-117.36941
 
 200. CHAS Health at Shiloh Hills Elementary
 505 E Stonewall Ave, Spokane, WA, 99208-5747
@@ -1529,7 +1330,6 @@
 🌐 https://chas.org/
 🏥 Services: Primary Care
 📞 509-444-8200
-🗺 https://maps.google.com/?q=47.73402,-117.40126
 
 201. NEW Health Lake Spokane Medical
 5952 Blackstone Way, Nine Mile Falls, WA, 99026-4900
@@ -1537,7 +1337,6 @@
 🌐 https://www.newhealth.org
 🏥 Services: Primary Care
 📞 509-464-3627
-🗺 https://maps.google.com/?q=47.81258,-117.56811
 
 202. Cheney Health Center
 1720 2ND ST, CHENEY, WA, 99004-1910
@@ -1545,14 +1344,12 @@
 🌐 https://www.chas.org
 🏥 Services: Primary Care
 📞 509-444-8200
-🗺 https://maps.google.com/?q=47.49750,-117.56571
 
 203. Heritage Health SBHC Post Falls High School
 1051 S. Columbia Avenue, Connell, WA, 99326
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 208-292-0292
-🗺 https://maps.google.com/?q=47.73037,-116.90899
 
 204. NEW Health Springdale Medical
 114 S Main St, Springdale, WA, 99173-0126
@@ -1560,7 +1357,6 @@
 🌐 https://www.newhealth.org
 🏥 Services: Primary Care
 📞 509-258-4234
-🗺 https://maps.google.com/?q=48.05511,-117.74190
 
 205. NEW Health Newport
 435 W Walnut St, Newport, WA, 99156-9033
@@ -1568,7 +1364,6 @@
 🌐 https://www.newhealth.org
 🏥 Services: Primary Care
 📞 509-935-6004
-🗺 https://maps.google.com/?q=48.18345,-117.04509
 
 206. NEW Health Chewelah Medical
 518 E Clay Ave, Chewelah, WA, 99109-8947
@@ -1576,7 +1371,6 @@
 🌐 https://www.newhealth.org
 🏥 Services: Primary Care
 📞 509-935-8424
-🗺 https://maps.google.com/?q=48.27724,-117.71146
 
 207. INCHELIUM COMMUNITY HLTH CENTER
 39 SHORT CUT ROAD, INCHELIUM, WA, 99138
@@ -1584,7 +1378,6 @@
 🌐 https://www.colvilletribes.com
 🏥 Services: Primary Care
 📞 509-722-7006
-🗺 https://maps.google.com/?q=48.29866,-118.20487
 
 208. NEW Health Colville Medical
 358 N MAIN ST, COLVILLE, WA, 99114-2310
@@ -1592,7 +1385,6 @@
 🌐 https://www.newhealth.org
 🏥 Services: Primary Care
 📞 509-684-1440
-🗺 https://maps.google.com/?q=48.54722,-117.90491
 
 209. NEW Health Selkirk Medical
 208 CEDAR CREEK TERRACE, IONE, WA, 99139-0197
@@ -1600,7 +1392,6 @@
 🌐 https://www.newhealth.org
 🏥 Services: Primary Care
 📞 509-442-3514
-🗺 https://maps.google.com/?q=48.74466,-117.41872
 
 210. Lewis and Clark Dental Clinic
 844 6th St, Clarkston, WA, 99403-2013
@@ -1608,7 +1399,6 @@
 🌐 http://www.chas.org/
 🏥 Services: Primary Care
 📞 208-848-8300
-🗺 https://maps.google.com/?q=46.41284,-117.04595
 
 211. Othello Clinic
 1515 E Columbia St, Othello, WA, 99344-1846
@@ -1616,7 +1406,6 @@
 🌐 https://www.cbha.org
 🏥 Services: Primary Care
 📞 509-488-5256
-🗺 https://maps.google.com/?q=46.81413,-119.15302
 
 212. TCCH Basin City - WIC
 6950 Road 170, BASIN CITY, WA, 99343-9737
@@ -1624,7 +1413,6 @@
 🌐 http://www.mytcch.org/
 🏥 Services: Primary Care
 📞 509-269-4115
-🗺 https://maps.google.com/?q=46.58980,-119.15538
 
 213. FAMILY MEDICAL CENTER
 1120 W Rose St, Walla Walla, WA, 99362-1662
@@ -1632,7 +1420,6 @@
 🌐 https://www.yvfwc.com
 🏥 Services: Primary Care
 📞 509-525-6695
-🗺 https://maps.google.com/?q=46.06194,-118.35607
 
 214. TCCH Pasco – Medical, Pharmacy & Optometry
 515 W Court St, Pasco, WA, 99301-3737
@@ -1640,7 +1427,6 @@
 🌐 http://www.mytcch.org/
 🏥 Services: Primary Care
 📞 509-547-2204
-🗺 https://maps.google.com/?q=46.24156,-119.09613
 
 215. TCCH Pasco – Dental, Behavioral Health & WIC
 715 W Court St, Pasco, WA, 99301-4153
@@ -1648,7 +1434,6 @@
 🌐 https://www.mytcch.org
 🏥 Services: Primary Care
 📞 509-547-2204
-🗺 https://maps.google.com/?q=46.24149,-119.09755
 
 216. West Pasco Clinic
 7405 Three Rivers Dr, Pasco, WA, 99301
@@ -1656,7 +1441,6 @@
 🌐 https://www.cbha.org
 🏥 Services: Primary Care
 📞 509-488-5256
-🗺 https://maps.google.com/?q=46.28189,-119.18664
 
 217. MIRAMAR HEALTH CENTER
 1608 N Road 44, Pasco, WA, 99301-2667
@@ -1664,7 +1448,6 @@
 🌐 https://www.yvfwc.com
 🏥 Services: Primary Care
 📞 509-543-9280
-🗺 https://maps.google.com/?q=46.24278,-119.14919
 
 218. FHC Oroville Dental Clinic
 1321 Main St, Oroville, WA, 98844-9384
@@ -1672,21 +1455,18 @@
 🌐 https://www.myfamilyhealth.org
 🏥 Services: Primary Care
 📞 509-486-4400
-🗺 https://maps.google.com/?q=48.93800,-119.43569
 
 219. TCCH Kennewick – Pediatric Endocrinology & Primary Care
 721 S Auburn St, Kennewick, WA, 99336-5629
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 509-547-2204
-🗺 https://maps.google.com/?q=46.20033,-119.11816
 
 220. TCCH - Richland Medical
 761 Williams Blvd, Richland, WA, 99354-3221
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 509-547-2204
-🗺 https://maps.google.com/?q=46.28513,-119.28220
 
 221. TCCH Kennewick – Medical & Dental
 3180 W Clearwater Ave Ste A, Kennewick, WA, 99336-2765
@@ -1694,35 +1474,30 @@
 🌐 https://www.mytcch.org
 🏥 Services: Primary Care
 📞 509-547-2204
-🗺 https://maps.google.com/?q=46.21396,-119.16497
 
 222. TCCH Richland – Endocrinology & Diabetes Center
 915 Goethals Dr, Richland, WA, 99352-3527
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 509-547-2204 x50954
-🗺 https://maps.google.com/?q=46.27878,-119.28044
 
 223. Miramar Dental
 6335 W Rio Grande Ave, Kennewick, WA, 99336-7634
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 509-581-6854
-🗺 https://maps.google.com/?q=46.22435,-119.20610
 
 224. Dentistry for Kids
 2611 S Quillan Pl, Suite 110, Kennewick, WA, 99338-1899
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 509-585-5437
-🗺 https://maps.google.com/?q=46.18576,-119.17594
 
 225. Columbia Basin Pediatric Dentistry
 7501 W Deschutes Pl, Kennewick, WA, 99336-7719
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 509-783-1960
-🗺 https://maps.google.com/?q=46.21142,-119.22234
 
 226. Uw Medical Center - Montlake
 1959 NE Pacific St, Seattle, WA 98195-0001

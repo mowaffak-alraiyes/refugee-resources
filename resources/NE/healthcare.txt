@@ -6,7 +6,6 @@
 🌐 https://www.oneworldomaha.org
 🏥 Services: Primary Care
 📞 402-505-8180
-🗺 https://maps.google.com/?q=41.25392,-95.94284
 
 2. Charles Drew Health Center, Inc. at Jackson Tower
 600 S   27th St, Omaha, NE, 68105-1502
@@ -14,7 +13,6 @@
 🌐 https://www.CharlesDrew.com
 🏥 Services: Primary Care; Public housing primary care
 📞 402-457-1243
-🗺 https://maps.google.com/?q=41.25395,-95.95218
 
 3. Charles Drew Health Center, Inc. at Kellom Elementary School
 1311 N   24th St, Omaha, NE, 68102-4010
@@ -22,7 +20,6 @@
 🌐 https://www.CharlesDrew.com
 🏥 Services: Primary Care
 📞 402-505-5451
-🗺 https://maps.google.com/?q=41.27144,-95.94661
 
 4. Charles Drew Health Center, Inc. Dental Mobile Unit - Tooth Mobile
 2915 Grant St, Omaha, NE, 68111-3863
@@ -30,7 +27,6 @@
 🌐 https://www.CharlesDrew.com
 🏥 Services: Primary Care; Dental
 📞 402-453-1433
-🗺 https://maps.google.com/?q=41.27953,-95.95636
 
 5. Charles Drew Health Center, Inc. at King Science and Technology Magnet School
 3720 Florence Blvd, Omaha, NE, 68110-1737
@@ -38,21 +34,18 @@
 🌐 https://www.CharlesDrew.com
 🏥 Services: Primary Care
 📞 402-502-5644
-🗺 https://maps.google.com/?q=41.29343,-95.94337
 
 6. OneWorld Teen and Young Adult Health Center South
 4310 S 24th St, Omaha, NE, 68107-1805
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 402-502-8880
-🗺 https://maps.google.com/?q=41.21693,-95.94735
 
 7. OneWorld Community Health Centers South High School-Based Health Center
 4519 S 24th St, Omaha, NE, 68107-1817
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 402-734-4110
-🗺 https://maps.google.com/?q=41.21403,-95.94701
 
 8. OneWorld Livestock Campus North Building
 4910 S   30th St, Omaha, NE, 68107
@@ -60,7 +53,6 @@
 🌐 https://www.oneworldomaha.org
 🏥 Services: Primary Care
 📞 402-734-4110
-🗺 https://maps.google.com/?q=41.21064,-95.95550
 
 9. OneWorld Mobile Dental Clinic - OneWorld Smiles Mobile
 4920 S   30th St, Omaha, NE, 68107-1590
@@ -68,7 +60,6 @@
 🌐 https://www.oneworldomaha.org
 🏥 Services: Primary Care; Dental
 📞 402-932-7204
-🗺 https://maps.google.com/?q=41.20989,-95.95577
 
 10. Charles Drew Health Center Inc. at Benson SBHC
 5120 Maple St.  STE 101, Omaha, NE, 68104-3555
@@ -76,7 +67,6 @@
 🌐 https://charlesdrew.com/
 🏥 Services: Primary Care
 📞 402-451-3553
-🗺 https://maps.google.com/?q=41.28685,-95.99327
 
 11. OneWorld Bellevue
 2207 Georgia Avenue, Bellevue, NE, 68005-4524
@@ -84,14 +74,12 @@
 🌐 https://www.oneworldomaha.org
 🏥 Services: Primary Care
 📞 402-502-8855
-🗺 https://maps.google.com/?q=41.16774,-95.92426
 
 12. OneWorld Ralston
 5310 S 84th St, Omaha, NE, 68127-3775
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 402-502-5837
-🗺 https://maps.google.com/?q=41.20427,-96.04354
 
 13. OneWorld Plattsmouth aka Cass Family Medicine
 122 S 6TH ST, PLATTSMOUTH, NE, 68048-1934
@@ -99,35 +87,30 @@
 🌐 https://www.oneworldomaha.org
 🏥 Services: Primary Care
 📞 402-296-2345
-🗺 https://maps.google.com/?q=41.01073,-95.88654
 
 14. Good Neighbor Fremont Clinic Permanent Site
 2740 N Clarkson St, Fremont, NE, 68025-7703
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 402-721-0951
-🗺 https://maps.google.com/?q=41.45589,-96.48940
 
 15. Bluestem Health: Kreshel Clinic
 3100 N 14th St, Lincoln, NE, 68521-2134
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 402-477-6600
-🗺 https://maps.google.com/?q=40.84330,-96.70080
 
 16. Midtown Health Center, Inc. West Point
 303 Plaza Dr Lot 7, West Point, NE, 68788-2611
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 402-371-8000 x4100
-🗺 https://maps.google.com/?q=41.85731,-96.70801
 
 17. Schuyler Middle School
 200 W 10th St, Schuyler, NE, 68661-2016
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 402-352-5514
-🗺 https://maps.google.com/?q=41.44579,-97.06062
 
 18. East Central District Health Department/Good Neighbor Community Health Center
 4321 41st Ave, Columbus, NE, 68601-7233
@@ -135,7 +118,6 @@
 🌐 https://www.ecdhd.com
 🏥 Services: Primary Care
 📞 402-562-7500
-🗺 https://maps.google.com/?q=41.45816,-97.37669
 
 19. Siouxland Community Health of Nebraska
 3410 Futures Dr, South Sioux City, NE, 68776-3917
@@ -143,14 +125,12 @@
 🌐 https://slandchc.com
 🏥 Services: Primary Care
 📞 402-412-7242
-🗺 https://maps.google.com/?q=42.45816,-96.43118
 
 20. Midtown Health Center - Wayne State College
 1200 Providence Rd, Wayne, NE, 68787
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 402-375-3800
-🗺 https://maps.google.com/?q=42.24189,-97.00902
 
 21. Midtown On The Move
 222 S Main St, Madison, NE, 68748-6485
@@ -158,7 +138,6 @@
 🌐 https://midtownhealthne.org
 🏥 Services: Primary Care
 📞 402-860-5195
-🗺 https://maps.google.com/?q=41.82811,-97.45465
 
 22. Midtown Health Center - Madison
 222 south Main Street, Madison, NE, 68748-6485
@@ -166,56 +145,48 @@
 🌐 https://www.norfolkchcc.org
 🏥 Services: Primary Care
 📞 402-454-3304
-🗺 https://maps.google.com/?q=41.82811,-97.45465
 
 23. Midtown Health Center - Woodland Park Elementary School
 611 Meadow Ln, Norfolk, NE, 68701-7215
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 402-644-2565
-🗺 https://maps.google.com/?q=42.05621,-97.34606
 
 24. Midtown Xpress
 210 S 3rd St, Norfolk, NE, 68701-5204
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 402-371-8000
-🗺 https://maps.google.com/?q=42.03070,-97.41050
 
 25. Midtown Plaza
 423 W Madison Ave., Norfolk, NE, 68701-5260
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 402-649-7289
-🗺 https://maps.google.com/?q=42.03116,-97.41336
 
 26. Midtown NECC
 801 E Benjamin Ave, Norfolk, NE, 68701-6831
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 402-371-8000
-🗺 https://maps.google.com/?q=42.04959,-97.39669
 
 27. Midtown Health Center - Little Panthers Preschool
 2500 W Norfolk Ave, Norfolk, NE, 68701-4427
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 402-644-2550
-🗺 https://maps.google.com/?q=42.03258,-97.44702
 
 28. Lincoln Elementary School
 805 Beal St, Grand Island, NE, 68801-2715
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 308-675-4223
-🗺 https://maps.google.com/?q=40.93633,-98.33498
 
 29. Barr Middle School
 602 W Stolley Park Rd, Grand Island, NE, 68801-7465
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 308-385-5875
-🗺 https://maps.google.com/?q=40.90217,-98.34440
 
 30. Heartland Health Center - Grand Island
 2116 W Faidley Ave Ste 2100, Grand Island, NE, 68803-4678
@@ -223,14 +194,12 @@
 🌐 https://www.heartlandhealthcenter.org
 🏥 Services: Primary Care
 📞 308-382-4376
-🗺 https://maps.google.com/?q=40.92453,-98.36365
 
 31. Walnut Middle School
 1600 N Custer Ave, Grand Island, NE, 68803-2550
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 308-675-4223
-🗺 https://maps.google.com/?q=40.93511,-98.36855
 
 32. West Lawn Elementary
 3022 College St, Grand Island, NE, 68803-1749
@@ -238,35 +207,30 @@
 🌐 https://www.gips.org/westlawn
 🏥 Services: Primary Care
 📞 308-385-5930
-🗺 https://maps.google.com/?q=40.94097,-98.37448
 
 33. O'Connor Learning Center
 2208 N Webb Rd, Grand Island, NE, 68803-1754
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 308-385-5655
-🗺 https://maps.google.com/?q=40.94187,-98.37873
 
 34. Heartland Health Center - Hastings
 223 E 14th St, Ste 100, Hastings, NE, 68901-3240
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 308-382-4297
-🗺 https://maps.google.com/?q=40.60148,-98.37861
 
 35. Heartland Health Center - Ravenna Clinic
 104 W Seneca St, Ravenna, NE, 68869-1363
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 308-375-4223
-🗺 https://maps.google.com/?q=41.02647,-98.91327
 
 36. Midtown Health Center - O'Neill
 422 E Douglas St, Oneill, NE, 68763-1852
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 402-336-2406
-🗺 https://maps.google.com/?q=42.45803,-98.64678
 
 37. Nebraska Medicine Specialty Care Center
 804 S 52nd St, Omaha, NE 68106-1802

@@ -6,7 +6,6 @@
 🌐 https://www.kphc.org
 🏥 Services: Primary Care; Migrant health center
 📞 808-792-5566
-🗺 https://maps.google.com/?q=21.30931,-157.86237
 
 2. Waikiki Health at Lili'uokalani Center
 932 Ward Ave  RM 124, Honolulu, HI, 96814-2131
@@ -14,14 +13,12 @@
 🌐 https://www.waikikihealth.org/
 🏥 Services: Primary Care
 📞 808-922-4787
-🗺 https://maps.google.com/?q=21.30178,-157.85081
 
 3. KPHC Punawai Clinic
 431 Kuwili Street, Mezzanine, Honolulu, HI, 96817-5081
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 808-791-6315
-🗺 https://maps.google.com/?q=21.31668,-157.86710
 
 4. KAAAHI CLINIC
 546 Kaaahi St, Honolulu, HI, 96817-4630
@@ -29,7 +26,6 @@
 🌐 https://www.kphc.org
 🏥 Services: Primary Care
 📞 808-853-1700
-🗺 https://maps.google.com/?q=21.31787,-157.86594
 
 5. Kalihi Palama Health Center – 710 N King St
 710 N King St, Honolulu, HI, 96817-5769
@@ -37,7 +33,6 @@
 🌐 https://www.kphc.org
 🏥 Services: Primary Care
 📞 808-791-6315
-🗺 https://maps.google.com/?q=21.32054,-157.86590
 
 6. OPTOMETRY/ADMIN
 888 N King St, Honolulu, HI, 96817-4553
@@ -45,7 +40,6 @@
 🌐 https://www.kphc.org
 🏥 Services: Primary Care
 📞 808-841-0011
-🗺 https://maps.google.com/?q=21.32289,-157.86730
 
 7. BEHAVIORAL HEALTH/MEDICAL/HEALTH EDUCATION/ADMINISTRATION
 952 N King St, Honolulu, HI, 96817-4556
@@ -53,7 +47,6 @@
 🌐 https://www.kphc.org
 🏥 Services: Primary Care; Mental health
 📞 808-841-7981
-🗺 https://maps.google.com/?q=21.32363,-157.86795
 
 8. KOHOU CLINIC
 904 KOHOU ST, HONOLULU, HI, 96817-4420
@@ -61,7 +54,6 @@
 🌐 https://www.kphc.org
 🏥 Services: Primary Care; Health Care for the Homeless
 📞 808-791-6370
-🗺 https://maps.google.com/?q=21.32483,-157.87091
 
 9. Waikiki Health Mobile Medical Unit  1
 1414 Kalakaua Ave, Honolulu, HI, 96826-1910
@@ -69,7 +61,6 @@
 🌐 https://www.waikikihc.org
 🏥 Services: Primary Care
 📞 808-922-4787
-🗺 https://maps.google.com/?q=21.29764,-157.83708
 
 10. Waikiki Health Makahiki
 935 Makahiki Way, Honolulu, HI, 96826-2896
@@ -77,7 +68,6 @@
 🌐 https://www.waikikihealth.org
 🏥 Services: Primary Care
 📞 808-922-4787
-🗺 https://maps.google.com/?q=21.29338,-157.82730
 
 11. KUHIO PARK TERRACE PUB. HOUSING
 1475 Linapuni St BLDG A, Honolulu, HI, 96819-3569
@@ -85,7 +75,6 @@
 🌐 https://www.kkv.net
 🏥 Services: Primary Care; Migrant health center
 📞 808-845-3130
-🗺 https://maps.google.com/?q=21.33821,-157.87745
 
 12. KKV Wellness Center
 2229 N School St, Honolulu, HI, 96819-2588
@@ -93,14 +82,12 @@
 🌐 https://www.kkv.net
 🏥 Services: Primary Care; Migrant health center
 📞 808-791-9400
-🗺 https://maps.google.com/?q=21.34031,-157.87442
 
 13. KKV Mobile Clinic 1
 2239 N School St, Honolulu, HI, 96819-2539
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Migrant health center
 📞 808-791-9400
-🗺 https://maps.google.com/?q=21.34068,-157.87453
 
 🌐 http://www.kkv.net
 
@@ -110,7 +97,6 @@
 🌐 https://www.kkv.net
 🏥 Services: Primary Care
 📞 808-848-6687
-🗺 https://maps.google.com/?q=21.34426,-157.87746
 
 15. KALIHI VALLEY HOMES PUB. HOUSING
 2243 Kalaunu St, Honolulu, HI, 96819-2784
@@ -118,7 +104,6 @@
 🌐 https://www.kkv.net
 🏥 Services: Primary Care
 📞 808-845-0585
-🗺 https://maps.google.com/?q=21.34831,-157.86591
 
 16. Waikiki Health - Jarrett Middle School
 1903 Palolo Ave, Honolulu, HI, 96816-2928
@@ -126,28 +111,24 @@
 🌐 https://waikikihc.org/
 🏥 Services: Primary Care
 📞 808-922-4787
-🗺 https://maps.google.com/?q=21.29744,-157.79700
 
 17. Waimanalo Health Center Hale Ola `Akolu-Luluku
 45-600 Kamehameha Hwy, Kaneohe, HI, 96744-2065
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 808-235-8442
-🗺 https://maps.google.com/?q=21.40072,-157.79999
 
 18. Waipahu Family Health Center
 94-428 Mokuola St.  STE 213, Waipahu, HI, 96797-3396
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 808-697-3839
-🗺 https://maps.google.com/?q=21.38762,-158.00594
 
 19. Ewa - West O`ahu Community Health Center
 91-1841 Ft. Weaver Rd., Ewa Beach, HI, 96706-1909
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 808-697-3300
-🗺 https://maps.google.com/?q=21.35416,-158.02952
 
 20. Wahiawa Health - Pediatrics
 302 California Ave Ste 215, Wahiawa, HI, 96786-1841
@@ -155,7 +136,6 @@
 🌐 https://www.wahiawahealth.org
 🏥 Services: Primary Care
 📞 808-622-1618
-🗺 https://maps.google.com/?q=21.49538,-158.03118
 
 21. Wahiawa Health - Behavioral Health
 302 California Ave Ste 214, Wahiawa, HI, 96786-1841
@@ -163,7 +143,6 @@
 🌐 https://www.wahiawahealth.org
 🏥 Services: Primary Care
 📞 808-622-1618
-🗺 https://maps.google.com/?q=21.49582,-158.03136
 
 22. Wahiawa Health - Ka'ala Elementary School
 130 California Ave, Wahiawa, HI, 96786-1554
@@ -171,14 +150,12 @@
 🌐 https://www.wahiawahealth.org
 🏥 Services: Primary Care
 📞 808-622-6366
-🗺 https://maps.google.com/?q=21.49404,-158.03670
 
 23. Nanakuli High & Intermediate School
 89-980 Nanakuli Ave, Waianae, HI, 96792-3999
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 808-697-3457
-🗺 https://maps.google.com/?q=21.38795,-158.13200
 
 24. MALAMA RECOVERY SERVICES
 89-188 Farrington Hwy, Waianae, HI, 96792-4101
@@ -186,14 +163,12 @@
 🌐 https://www.wcchc.com
 🏥 Services: Primary Care
 📞 808-697-3300
-🗺 https://maps.google.com/?q=21.37996,-158.14381
 
 25. Nanaikapono Elementary School
 89-153 Mano Ave, Waianae, HI, 96792-4036
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 808-697-3457
-🗺 https://maps.google.com/?q=21.38300,-158.14442
 
 26. LEEWARD PEDIATRICS
 87-2070 Farrington Hwy, Waianae, HI, 96792-3757
@@ -201,7 +176,6 @@
 🌐 https://www.wcchc.com
 🏥 Services: Primary Care
 📞 808-697-3300
-🗺 https://maps.google.com/?q=21.38743,-158.15074
 
 27. WAIANAE COAST COMPREHENSIVE HEALTH CTR
 86-260 Farrington Hwy, Waianae, HI, 96792-3128
@@ -209,7 +183,6 @@
 🌐 https://www.wcchc.com
 🏥 Services: Primary Care
 📞 808-697-3300
-🗺 https://maps.google.com/?q=21.43022,-158.17972
 
 28. WAIOLA CLINIC
 86-120 Farrington Hwy Ste C305A, Waianae, HI, 96792-3072
@@ -217,7 +190,6 @@
 🌐 https://www.wcchc.com
 🏥 Services: Primary Care
 📞 808-697-3300
-🗺 https://maps.google.com/?q=21.43629,-158.18366
 
 29. Waianae Vision Care
 86-120 Farrington Hwy Ste C301, Waianae, HI, 96792-3072
@@ -225,14 +197,12 @@
 🌐 https://www.wcchc.com
 🏥 Services: Primary Care
 📞 808-696-7021
-🗺 https://maps.google.com/?q=21.43629,-158.18366
 
 30. The Comp at Tamura Super Market
 86-032 Farrington Hwy Ste 101, Waianae, HI, 96792-3099
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 808-697-3438
-🗺 https://maps.google.com/?q=21.43981,-158.18616
 
 31. Kamaile Olakino Maika'i Health Center
 85-180 Ala Akau St, Waianae, HI, 96792-2323
@@ -240,7 +210,6 @@
 🌐 https://www.wcchc.com
 🏥 Services: Primary Care
 📞 808-697-3496
-🗺 https://maps.google.com/?q=21.45697,-158.19490
 
 32. Waianae High School School-based Health Center
 85-251 Farrington Hwy, Waianae, HI, 96792-2113
@@ -248,14 +217,12 @@
 🌐 https://wcchc@wcchc.com
 🏥 Services: Primary Care
 📞 808-697-3457
-🗺 https://maps.google.com/?q=21.45381,-158.19971
 
 33. Makaha Health
 84-225 Ala Naauao Pl, Waianae, HI, 96792-1840
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 808-697-3457
-🗺 https://maps.google.com/?q=21.46966,-158.21103
 
 34. Red Raider Health Center
 56-490 Kamehameha Hwy., Kahuku, HI, 96731-2200
@@ -263,7 +230,6 @@
 🌐 https://www.koolauloachc.org
 🏥 Services: Primary Care
 📞 808-293-9231
-🗺 https://maps.google.com/?q=21.67535,-157.94780
 
 35. Kahuku
 56-119 Pualalea St, Kahuku, HI, 96731-2052
@@ -271,7 +237,6 @@
 🌐 https://www.koolauloachc.org
 🏥 Services: Primary Care
 📞 808-293-9231
-🗺 https://maps.google.com/?q=21.67612,-157.95352
 
 36. MCHC Temporary Dental Location
 10 Mohala St, Suite 5, Kaunakakai, HI, 96748
@@ -279,7 +244,6 @@
 🌐 https://molokaichc.org/dental-services/
 🏥 Services: Primary Care
 📞 808-553-4511
-🗺 https://maps.google.com/?q=21.08726,-157.02108
 
 37. Molokai Community Health Center
 30 Oki Place, Kaunakakai, HI, 96748
@@ -287,7 +251,6 @@
 🌐 https://www.molokaichc.org
 🏥 Services: Primary Care
 📞 808-553-5038
-🗺 https://maps.google.com/?q=21.08599,-157.01934
 
 38. Community Clinic of Maui
 1881 Nani St, Wailuku, HI, 96793-1811
@@ -295,14 +258,12 @@
 🌐 https://www.ccmaui.org
 🏥 Services: Primary Care
 📞 808-871-7772
-🗺 https://maps.google.com/?q=20.88876,-156.49985
 
 39. Lokelani Intermediate School
 1401 Liloa Dr, Kihei, HI, 96753
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 808-875-6800
-🗺 https://maps.google.com/?q=20.74579,-156.44830
 
 40. Hoola Lahui Hawaii Pharmacy
 4491 Rice St Ste 105A, Lihue, HI, 96766-1805
@@ -310,7 +271,6 @@
 🌐 https://www.hoolalahui.org
 🏥 Services: Primary Care
 📞 808-240-0200
-🗺 https://maps.google.com/?q=21.97529,-159.37000
 
 41. HO'OLA LAHUI HAWAI'I
 4800 Kawaihau Rd STE D, Kapaa, HI, 96746-1964
@@ -318,14 +278,12 @@
 🌐 https://www.hoolalahui.org
 🏥 Services: Primary Care
 📞 808-240-0170
-🗺 https://maps.google.com/?q=22.08351,-159.31291
 
 42. HLH West Mobile 1
 4475f Nuhou St, Lihue, HI, 96766
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 808-240-0100
-🗺 https://maps.google.com/?q=21.96746,-159.38762
 
 43. KAUAI COMMUNITY HEALTH CTR-WEST
 4643-B WAIMEA CANYON, WAIMEA, HI, 96796
@@ -333,14 +291,12 @@
 🌐 https://www.hoolalahui.org
 🏥 Services: Primary Care
 📞 808-240-0100
-🗺 https://maps.google.com/?q=21.96089,-159.67093
 
 44. Hamakua-Kohala Health in Kapaau
 54-3793 Akoni Pule Hwy, Kapaau, HI, 96755
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 808-930-2734
-🗺 https://maps.google.com/?q=20.23230,-155.80555
 
 45. KOHALA FAMILY HEALTH CENTER
 53-3925 AKONI PULE HIGHWAY, KAPAAU, HI, 96755
@@ -348,21 +304,18 @@
 🌐 https://www.hamakua-health.org
 🏥 Services: Primary Care
 📞 808-889-6236
-🗺 https://maps.google.com/?q=20.23091,-155.79671
 
 46. WHCHC - Waikoloa Family Medical
 68-1845 Waikoloa Rd, Suite 207, Waikoloa, HI, 96738-5581
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 808-769-5160
-🗺 https://maps.google.com/?q=19.92759,-155.78747
 
 47. School Based Mobile Health West
 74-5214 Keanalehu Dr, Kailua Kona, HI, 96740
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 808-326-5629
-🗺 https://maps.google.com/?q=19.66605,-155.99403
 
 48. WHCHC Kealakehe Intermediate SBHC
 74-5062 Onipaa St, Kailua Kona, HI, 96740-1484
@@ -370,7 +323,6 @@
 🌐 https://www.westhawaiichc.org
 🏥 Services: Primary Care
 📞 808-326-5629
-🗺 https://maps.google.com/?q=19.66964,-155.98440
 
 49. WHCHC -- Kuakini Family Medical
 75-5751 Kuakini Hwy STE 101A, Kailua Kona, HI, 96740-1705
@@ -378,28 +330,24 @@
 🌐 https://www.westhawaiichc.org
 🏥 Services: Primary Care
 📞 808-326-5629
-🗺 https://maps.google.com/?q=19.63872,-155.99014
 
 50. Mauna Kea Waimea 1st floor
 65-1190 Mamalahoa Hwy.  STE 1,2,3,12, Kamuela, HI, 96743
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 808-930-2746
-🗺 https://maps.google.com/?q=20.02091,-155.66860
 
 51. WHCHC -- Kealakekua Family Heath and Dental Clinic
 81-980 Halekii St  STE 108, Kealakekua, HI, 96750-8177
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 808-322-0420
-🗺 https://maps.google.com/?q=19.51852,-155.92180
 
 52. WHCHC -- Kealakekua Adult Health
 81-980 Halekii St Ste 107, Kealakekua, HI, 96750-8177
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 808-324-0703
-🗺 https://maps.google.com/?q=19.51769,-155.92164
 
 53. Mobile Dental Van
 45-549 Plumeria St, Honokaa, HI, 96727-6902
@@ -407,14 +355,12 @@
 🌐 https://www.hamakua-health.org
 🏥 Services: Primary Care
 📞 808-333-8410
-🗺 https://maps.google.com/?q=20.07610,-155.47038
 
 54. Hamakua-Kohala Health, Bank of Hawaii building
 45-3568 Mamane St, Honokaa, HI, 96727-6973
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 808-775-7204
-🗺 https://maps.google.com/?q=20.07900,-155.46755
 
 55. Konawaena High School
 81-1043 Konawaena School Rd, Kealakekua, HI, 96750-8121
@@ -422,7 +368,6 @@
 🌐 https://www.hicommunityhealthcenter.org
 🏥 Services: Primary Care
 📞 808-326-5629
-🗺 https://maps.google.com/?q=19.50961,-155.91451
 
 56. WHCHC Honaunau SBHC
 83-5360 Mamalahoa Hwy, Captain Cook, HI, 96704-8302
@@ -430,70 +375,60 @@
 🌐 https://www.westhawaiichc.org
 🏥 Services: Primary Care
 📞 808-326-5629
-🗺 https://maps.google.com/?q=19.45181,-155.87344
 
 57. Laupahoehoe Community Public Charter School
 35-2065 Old Mamalahoa Hwy, Laupahoehoe, HI, 96764
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 808-962-2200
-🗺 https://maps.google.com/?q=19.97926,-155.22782
 
 58. HICHC Mobile Health1
 92-8606 Paradise Mauka Cir,, Ocean View, HI, 96737
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 808-333-3600
-🗺 https://maps.google.com/?q=19.08796,-155.76280
 
 59. Kalanianaole Elementary and Intermediate School
 27-330 Mamalahoa Hwy, Papaikou, HI, 96781
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 808-326-5629
-🗺 https://maps.google.com/?q=19.78990,-155.09434
 
 60. Hilo Pediatrics
 450 Kilauea Ave  STE 103, Hilo, HI, 96720-3089
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Pediatrics
 📞 808-333-3600
-🗺 https://maps.google.com/?q=19.71927,-155.08234
 
 61. Administration Office
 450 Kilauea Ave  STE 105, Hilo, HI, 96720
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 808-961-4071
-🗺 https://maps.google.com/?q=19.71910,-155.08259
 
 62. Hilo Family Dental Center
 1257 Kilauea Ave STE 100, Hilo, HI, 96720-4205
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Dental
 📞 808-333-3600
-🗺 https://maps.google.com/?q=19.71080,-155.07584
 
 63. Kea'au Family Health and Dental
 16-192 Pili Mua St., keaau, HI, 97649
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 808-333-3600
-🗺 https://maps.google.com/?q=19.62057,-155.03957
 
 64. Pahoa Women and Children's Health Center
 15-2866 Pahoa Village Road, Pahoa, HI, 96778
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 808-333-3600
-🗺 https://maps.google.com/?q=19.49485,-154.94907
 
 65. Keonepoko Elementary - School-Based Health Center
 15-890 Kahakai Blvd, Pahoa, HI, 96778-9653
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 808-326-5629
-🗺 https://maps.google.com/?q=19.52557,-154.92660
 
 66. Waikiki Health - Ohua Clinic
 277 Ohua Ave, Honolulu, HI 96815-6612

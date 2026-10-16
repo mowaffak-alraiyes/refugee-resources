@@ -6,7 +6,6 @@
 🌐 https://www.alabamaarms.org
 🏥 Services: Primary Care
 📞 205-407-6900
-🗺 https://maps.google.com/?q=33.52377,-86.80299
 
 2. Hayes K-8 Elementary School
 505 43rd St N, Birmingham, AL, 35222-1417
@@ -14,7 +13,6 @@
 🌐 http://alabamaarms.org/
 🏥 Services: Primary Care
 📞 205-407-6984
-🗺 https://maps.google.com/?q=33.53149,-86.77272
 
 3. Northern Health Center
 2817 30th Ave N, Birmingham, AL, 35207-4541
@@ -22,7 +20,6 @@
 🌐 https://www.alabamaarms.org
 🏥 Services: Primary Care
 📞 205-407-5600
-🗺 https://maps.google.com/?q=33.55270,-86.81415
 
 4. Behavioral Health Wellness Center
 3200 27th St N Ste C, Birmingham, AL, 35207-4554
@@ -30,14 +27,12 @@
 🌐 https://www.alabamaarms.org
 🏥 Services: Primary Care; Mental health; Dental
 📞 205-322-8288
-🗺 https://maps.google.com/?q=33.55430,-86.81785
 
 5. Cahaba Medical Care - Birmingham Dental Office
 623 8th Ave W, Birmingham, AL, 35204-3604
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Dental
 📞 205-545-7696
-🗺 https://maps.google.com/?q=33.51153,-86.84707
 
 6. Cahaba Medical Care - Princeton
 801 Princeton Ave SW Ste 505, Birmingham, AL, 35211-1308
@@ -45,7 +40,6 @@
 🌐 https://www.cahabamedicalcare.com
 🏥 Services: Primary Care
 📞 205-928-8430
-🗺 https://maps.google.com/?q=33.49830,-86.84672
 
 7. Crestwood Medical Center
 7001 Crestwood Blvd Ste 822, BIRMINGHAM, AL, 35210-2344
@@ -53,7 +47,6 @@
 🌐 https://www.alabamaarms.org
 🏥 Services: Primary Care
 📞 205-421-9615
-🗺 https://maps.google.com/?q=33.52993,-86.72537
 
 8. Ensley Health Center
 417 19TH STREET ENSLEY, BIRMINGHAM, AL, 35218-1601
@@ -61,7 +54,6 @@
 🌐 https://www.alabamaarms.org
 🏥 Services: Primary Care
 📞 205-783-9300
-🗺 https://maps.google.com/?q=33.51312,-86.89745
 
 9. Cahaba Medical Care - CJ Donald Elementary
 715 Valley Rd, Fairfield, AL, 35064-2666
@@ -69,7 +61,6 @@
 🌐 https://www.cahabamedicalcare.com
 🏥 Services: Primary Care
 📞 205-791-5045
-🗺 https://maps.google.com/?q=33.49048,-86.90590
 
 10. Cahaba Medical Care - Fairfield High Preparatory School
 610 Valley Rd, Fairfield, AL, 35064-2232
@@ -77,7 +68,6 @@
 🌐 https://www.cahabamedicalcare.com
 🏥 Services: Primary Care
 📞 205-791-5024
-🗺 https://maps.google.com/?q=33.49119,-86.90825
 
 11. Wenonah Health Center
 2800 Wilson Rd SW, Birmingham, AL, 35221-1303
@@ -85,49 +75,42 @@
 🌐 https://www.alabamaarms.org
 🏥 Services: Primary Care
 📞 205-407-6986
-🗺 https://maps.google.com/?q=33.45410,-86.88533
 
 12. ARMS Smith Middle School
 1124 Five Mile Rd, Birmingham, AL, 35215-7216
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 205-407-6900
-🗺 https://maps.google.com/?q=33.61040,-86.70100
 
 13. CHC - Roebuck
 628 Joseph Hollis Drive STE 300, Birmingham, AL, 35215
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 205-946-0725
-🗺 https://maps.google.com/?q=33.63713,-86.68596
 
 14. Mobile Dental Unit
 2201 Arlington Ave, Bessemer, AL, 35020-4221
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 205-277-6878
-🗺 https://maps.google.com/?q=33.40336,-86.94564
 
 15. CHC - Chalkville
 2152 Old Springville Rd, Center Point, AL, 35215-4005
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 205-838-6000
-🗺 https://maps.google.com/?q=33.64121,-86.65773
 
 16. Cahaba Medical Care - Bessemer
 975 9th Ave SW Ste 310, Bessemer, AL, 35022-7839
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 205-277-2358
-🗺 https://maps.google.com/?q=33.37250,-86.99043
 
 17. Cahaba Medical Care - Alabaster
 1010 1st St N  STE 350, Alabaster, AL, 35007-8619
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 205-679-6326
-🗺 https://maps.google.com/?q=33.25379,-86.81279
 
 18. Capstone-Summit
 1351 Summitt Drive, Jasper, AL, 35501-0114
@@ -135,14 +118,12 @@
 🌐 https://capstoneclinic.org
 🏥 Services: Primary Care
 📞 205-686-5113
-🗺 https://maps.google.com/?q=33.83778,-87.23689
 
 19. Cahaba Medical Care - West Blocton
 319 Magnolia St, West Blocton, AL, 35184
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 205-928-3365
-🗺 https://maps.google.com/?q=33.11888,-87.12005
 
 20. Capstone Viking Health
 1501 Viking Dr, Jasper, AL, 35501-4942
@@ -150,7 +131,6 @@
 🌐 https://capstoneclinic.org
 🏥 Services: Primary Care
 📞 205-832-3489
-🗺 https://maps.google.com/?q=33.83393,-87.25785
 
 21. BLOUNT COUNTY QUALITY HEALTH CARE
 1000 Lincoln Ave, Oneonta, AL, 35121-2534
@@ -158,7 +138,6 @@
 🌐 https://www.qolhs.org
 🏥 Services: Primary Care
 📞 205-274-9799
-🗺 https://maps.google.com/?q=33.95739,-86.46648
 
 22. TALLADEGA QUALITY HEALTH CARE
 110 Spring St N, Talladega, AL, 35160-2040
@@ -166,7 +145,6 @@
 🌐 https://www.qolhs.org
 🏥 Services: Primary Care
 📞 256-315-1697
-🗺 https://maps.google.com/?q=33.43572,-86.10543
 
 23. CULLMAN QUALITY HEALTH CARE
 2016 MAIN AVE SW, CULLMAN, AL, 35055-5239
@@ -174,7 +152,6 @@
 🌐 https://www.qolhs.org
 🏥 Services: Primary Care
 📞 256-775-0230
-🗺 https://maps.google.com/?q=34.14699,-86.84788
 
 24. Cahaba Medical Care - Centreville Office
 405 Belcher St, Centreville, AL, 35042-2946
@@ -182,7 +159,6 @@
 🌐 http://www.cahabamedicalcare.com
 🏥 Services: Primary Care
 📞 205-926-2992
-🗺 https://maps.google.com/?q=32.95024,-87.14708
 
 25. W. T. SCRUGGS MEDICAL CENTER
 4350 CLEVELAND AVENUE, WALNUT GROVE, AL, 35990-0147
@@ -190,7 +166,6 @@
 🌐 https://www.qolhs.org
 🏥 Services: Primary Care
 📞 205-589-6361
-🗺 https://maps.google.com/?q=34.06632,-86.30220
 
 26. Capstone Hilltop Health
 217 Bulldog Blvd, Carbon Hill, AL, 35549-3734
@@ -198,14 +173,12 @@
 🌐 https://www.capstoneclinic.org
 🏥 Services: Primary Care
 📞 205-724-9041
-🗺 https://maps.google.com/?q=33.90415,-87.50551
 
 27. Capstone-Nauvoo
 532 4th St, Nauvoo, AL, 35578
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 205-686-5113
-🗺 https://maps.google.com/?q=33.99035,-87.48622
 
 28. Douglas Medical Center
 8225 Highway 75, Horton, AL, 35980-8473
@@ -213,7 +186,6 @@
 🌐 https://www.qolhs.org
 🏥 Services: Primary Care
 📞 256-593-3804
-🗺 https://maps.google.com/?q=34.18082,-86.31482
 
 29. Accordia Health - Rockford
 9518 US Highway 231, Rockford, AL, 35136-5214
@@ -221,7 +193,6 @@
 🌐 https://accordia-health.org
 🏥 Services: Primary Care
 📞 256-377-8008
-🗺 https://maps.google.com/?q=32.88698,-86.22048
 
 30. Canterberry Family Practice
 502 N   27th St, Gadsden, AL, 35904-1580
@@ -229,14 +200,12 @@
 🌐 https://www.qolhs.org
 🏥 Services: Primary Care
 📞 256-546-0073
-🗺 https://maps.google.com/?q=34.02427,-86.04615
 
 31. Capstone-Double Springs
 25734 Highway 195, Double Springs, AL, 35553-2308
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 205-686-5113
-🗺 https://maps.google.com/?q=34.15382,-87.40790
 
 32. ANNISTON QUALITY HEALTH CARE
 1316 NOBLE STREET, ANNISTON, AL, 36201-4643
@@ -244,7 +213,6 @@
 🌐 https://www.qolhs.org
 🏥 Services: Primary Care
 📞 256-236-0221
-🗺 https://maps.google.com/?q=33.66180,-85.83007
 
 33. ROBERTA O. WATTS MEDICAL CENTER
 1020 TUSCALOOSA AVE, GADSDEN, AL, 35901-3005
@@ -252,7 +220,6 @@
 🌐 https://www.qolhs.org
 🏥 Services: Primary Care
 📞 256-546-4606
-🗺 https://maps.google.com/?q=34.02380,-86.01336
 
 34. PROCARE - COLLEY HOMES
 420 N 6TH ST, GADSDEN, AL, 35901-3244
@@ -260,7 +227,6 @@
 🌐 https://www.qolhs.org
 🏥 Services: Primary Care
 📞 256-546-9907
-🗺 https://maps.google.com/?q=34.01948,-86.00605
 
 35. Gadsden Family and Student Health Solutions
 1216 Wilbanks Avenue, Gadsden, AL, 35903-2032
@@ -268,7 +234,6 @@
 🌐 https://www.qolhs.org
 🏥 Services: Primary Care
 📞 256-439-6384
-🗺 https://maps.google.com/?q=34.00157,-85.96576
 
 36. J.W. STEWART NEIGHBORHOOD HEALTH CENTER
 1409 Springfield Ave, Gadsden, AL, 35903-2819
@@ -276,7 +241,6 @@
 🌐 https://www.qolhs.org
 🏥 Services: Primary Care
 📞 256-439-6383
-🗺 https://maps.google.com/?q=33.99501,-85.95909
 
 37. Quality Health Express
 1411 Piedmont Cutoff, Gadsden, AL, 35903-2708
@@ -284,7 +248,6 @@
 🌐 https://www.qolhs.org
 🏥 Services: Primary Care
 📞 256-390-8474
-🗺 https://maps.google.com/?q=33.99831,-85.95593
 
 38. SARDIS CITY MEDICAL CENTER
 1989 Sardis Dr, Boaz, AL, 35956-2344
@@ -292,7 +255,6 @@
 🌐 https://www.qolhs.org
 🏥 Services: Primary Care
 📞 256-593-2371
-🗺 https://maps.google.com/?q=34.17991,-86.11008
 
 39. Pickens County Family Practice Center
 27340 Highway 86, Gordo, AL, 35466-3578
@@ -300,7 +262,6 @@
 🌐 https://www.whatleyhealth.org
 🏥 Services: Primary Care
 📞 205-364-7135
-🗺 https://maps.google.com/?q=33.30237,-87.88415
 
 40. Rural Health Medical Program, Inc. - Marion Health Center
 1310 Washington St, Marion, AL, 36756-3218
@@ -308,7 +269,6 @@
 🌐 https://www.rhmpi.com
 🏥 Services: Primary Care
 📞 334-683-2073
-🗺 https://maps.google.com/?q=32.61946,-87.31752
 
 41. Cleburne Quality Health Care
 64 Giles Street, Heflin, AL, 36264-1738
@@ -316,7 +276,6 @@
 🌐 https://www.qolhs.org
 🏥 Services: Primary Care
 📞 256-463-2021
-🗺 https://maps.google.com/?q=33.63775,-85.59166
 
 42. LaBridgette R. Ellis Medical and Dental Center
 800 Hall St, Greensboro, AL, 36744-2517
@@ -324,7 +283,6 @@
 🌐 https://www.whatleyhealth.org
 🏥 Services: Primary Care
 📞 334-624-7270
-🗺 https://maps.google.com/?q=32.69280,-87.59086
 
 43. Family Health Care Clinic, Inc., --Decatur
 1304 13th Ave SE STE A, Decatur, AL, 35601-4316
@@ -332,7 +290,6 @@
 🌐 https://www.familyhealthcareclinic.com
 🏥 Services: Primary Care
 📞 256-340-1251
-🗺 https://maps.google.com/?q=34.58740,-86.97088
 
 44. Autaugaville Family Health Center
 203 N Taylor St, Autaugaville, AL, 36003-2663
@@ -340,7 +297,6 @@
 🌐 https://www.hservinc.org
 🏥 Services: Primary Care
 📞 334-365-4524 x423
-🗺 https://maps.google.com/?q=32.43235,-86.65829
 
 45. Wadley Cornerstone Clinic
 203 Tallapoosa Street, Wadley, AL, 36276
@@ -348,14 +304,12 @@
 🌐 https://www.qolhs.org
 🏥 Services: Primary Care
 📞 256-395-4157
-🗺 https://maps.google.com/?q=33.12062,-85.56366
 
 46. Whatley Health Services at Carrollton
 376 Commerce Ave, Carrollton, AL, 35447-2253
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 205-614-6228
-🗺 https://maps.google.com/?q=33.25629,-88.09438
 
 47. Chisholm Family Health Center
 100 E Vandiver Blvd, Montgomery, AL, 36110-1812
@@ -363,35 +317,30 @@
 🌐 https://www.hservinc.org
 🏥 Services: Primary Care
 📞 334-832-4338 x401
-🗺 https://maps.google.com/?q=32.41723,-86.28391
 
 48. Thrive Alabama Pharmacy
 2010 South Point Park Cir.  STE 140, Huntsville, AL, 35801
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 256-536-4700
-🗺 https://maps.google.com/?q=34.69568,-86.58547
 
 49. Thrive Alabama - Social Work
 2010 South Point Park Cir.  STE 150, Huntsville, AL, 35801
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 256-536-4700
-🗺 https://maps.google.com/?q=34.69590,-86.58471
 
 50. Northeast Alabama Health Services, Inc. - Woodville
 13624 County Road 8, Woodville, AL, 35776-6162
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 256-776-5615
-🗺 https://maps.google.com/?q=34.62718,-86.27258
 
 51. Whatley Health Services at Aliceville
 432 5th St NW, Aliceville, AL, 35442
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 205-758-6647
-🗺 https://maps.google.com/?q=33.13112,-88.15638
 
 52. HAPPI Health - 813
 813 Franklin St SE, Huntsville, AL, 35801-4311
@@ -399,28 +348,24 @@
 🌐 https://www.happihealth.org
 🏥 Services: Primary Care
 📞 256-519-3650
-🗺 https://maps.google.com/?q=34.72220,-86.57769
 
 53. Behavioral Health-DEN plus Admin  Church Street
 415 Church St NW Building E  STE 4, Huntsville, AL, 35801-5577
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Mental health
 📞 256-536-4700
-🗺 https://maps.google.com/?q=34.73456,-86.59171
 
 54. Thrive Alabama Health Education Location
 4825 University Square  STE 14, Huntsville, AL, 35816-1826
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 256-536-4700
-🗺 https://maps.google.com/?q=34.74118,-86.65520
 
 55. Mobile Health Clinic
 751 Pleasant Row, Huntsville, AL, 35816
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 256-533-6311
-🗺 https://maps.google.com/?q=34.73694,-86.60012
 
 56. River Region Health Center
 1845 Cherry St, Montgomery, AL, 36107-2613
@@ -428,7 +373,6 @@
 🌐 https://www.hservinc.org
 🏥 Services: Primary Care
 📞 334-420-5001
-🗺 https://maps.google.com/?q=32.37051,-86.28373
 
 57. Montgomery Primary Healthcare Center
 3058 Mobile Hwy, Montgomery, AL, 36108-4027
@@ -436,7 +380,6 @@
 🌐 https://www.hservinc.org
 🏥 Services: Primary Care
 📞 334-293-6670
-🗺 https://maps.google.com/?q=32.34866,-86.33856
 
 58. Living Well Specialty Clinic
 4178 Lomac St, Montgomery, AL, 36106-3606
@@ -444,14 +387,12 @@
 🌐 https://www.hservinc.org
 🏥 Services: Primary Care
 📞 334-420-5024
-🗺 https://maps.google.com/?q=32.35724,-86.23421
 
 59. Montgomery East Family Health Center
 309 Saint Lukes Dr, Montgomery, AL, 36117-7109
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 334-356-3608
-🗺 https://maps.google.com/?q=32.37665,-86.17055
 
 60. Gateway Family Health Center
 2905 E South Blvd, Montgomery, AL, 36116-2501
@@ -459,7 +400,6 @@
 🌐 https://www.hserrvinc.org
 🏥 Services: Primary Care
 📞 334-288-0009
-🗺 https://maps.google.com/?q=32.32926,-86.24556
 
 61. Hayneville Family Health Center
 511 E Tuskeena St, Hayneville, AL, 36040-2666
@@ -467,7 +407,6 @@
 🌐 https://www.hservinc.org
 🏥 Services: Primary Care
 📞 844-503-0996
-🗺 https://maps.google.com/?q=32.18391,-86.57498
 
 62. New Market Clinic
 110 CLINIC ST, NEW MARKET, AL, 35761-8507
@@ -475,21 +414,18 @@
 🌐 https://www.cnahsi.com
 🏥 Services: Primary Care
 📞 256-379-2101
-🗺 https://maps.google.com/?q=34.90646,-86.42805
 
 63. Familly Health Care Clinic, Inc.--Muscle Shoals
 102 Physicians Drive, Suite B, Muscle Shoals, AL, 35662-2504
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 256-389-9797
-🗺 https://maps.google.com/?q=34.74654,-87.67859
 
 64. Sumter County Health Center
 107 Hospital Drive, Livingston, AL, 35470
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 205-392-9656
-🗺 https://maps.google.com/?q=32.60091,-88.18195
 
 65. Chambers Quality Health Care
 34 Veterans Memorial Pkwy, Lanett, AL, 36863-2840
@@ -497,70 +433,60 @@
 🌐 https://www.qolhs.org
 🏥 Services: Primary Care
 📞 334-864-8659
-🗺 https://maps.google.com/?q=32.85466,-85.19376
 
 66. Physicians Care of Camden
 24B Camden Byp, Camden, AL, 36726-1770
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 334-882-1919
-🗺 https://maps.google.com/?q=31.99518,-87.27777
 
 67. Cahaba Medical Care - Camden
 321 Whiskey Run Rd, Camden, AL, 36726-2303
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 334-682-4128
-🗺 https://maps.google.com/?q=31.99854,-87.30262
 
 68. Physicians Care of Sweet Water
 31431 Alabama Hwy 10, Sweet Water, AL, 36782-4936
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 334-994-6300
-🗺 https://maps.google.com/?q=32.09326,-87.87037
 
 69. Physicians Care of Butler
 315 E. Pushmataha St., Butler, AL, 36904
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 205-278-4315
-🗺 https://maps.google.com/?q=32.09024,-88.21822
 
 70. SARHA Mobile Health Center
 1412 ELBA HWY, TROY, AL, 36079-6020
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 334-566-8822
-🗺 https://maps.google.com/?q=31.76533,-85.96055
 
 71. Fulton Family Medical
 218 Main St, Fulton, AL, 36446-0065
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 334-636-4823
-🗺 https://maps.google.com/?q=31.78146,-87.72424
 
 72. Physicians Care of Grove Hill
 127 Clark St Ste C, Grove Hill, AL, 36451-3050
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 334-636-5311
-🗺 https://maps.google.com/?q=31.70739,-87.77751
 
 73. CLAYTON FAMILY HEALTH CENTER
 7 Western Byp, Clayton, AL, 36016-2013
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 334-775-3235
-🗺 https://maps.google.com/?q=31.87073,-85.45990
 
 74. DOZIER FAMILY HEALTH CENTER
 18131 Dozier Hwy, Dozier, AL, 36028
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 334-496-3521
-🗺 https://maps.google.com/?q=31.49545,-86.36758
 
 75. GILBERTOWN MEDICAL/DENTAL CENTER
 140 FRONT STREET STE 4, GILBERTOWN, AL, 36908-2206
@@ -568,7 +494,6 @@
 🌐 https://www.franklinprimary.org
 🏥 Services: Primary Care
 📞 251-843-5537
-🗺 https://maps.google.com/?q=31.87651,-88.32227
 
 76. Evergreen Family Medical Center
 316 S MAIN ST, EVERGREEN, AL, 36401-3325
@@ -576,7 +501,6 @@
 🌐 https://www.franklinprimary.org
 🏥 Services: Primary Care
 📞 251-578-2507
-🗺 https://maps.google.com/?q=31.43105,-86.94325
 
 77. Frisco City Family Medical Center
 53 Mulberry St, Frisco City, AL, 36445-4484
@@ -584,28 +508,24 @@
 🌐 https://www.franklinprimary.org
 🏥 Services: Primary Care
 📞 251-267-2880
-🗺 https://maps.google.com/?q=31.43197,-87.40407
 
 78. Eufaula Family Health Center
 23 Veterans Blvd, Eufaula, AL, 36027-4444
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 334-687-8051
-🗺 https://maps.google.com/?q=31.84225,-85.17020
 
 79. Andalusia Family Health Center
 1021 Sanford Rd, Andalusia, AL, 36420
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 334-670-6726
-🗺 https://maps.google.com/?q=31.31880,-86.44321
 
 80. ENTERPRISE CHILDREN'S CENTER AND FAMILY MEDICINE
 105 E Watts St, Enterprise, AL, 36330-2511
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 334-393-5437
-🗺 https://maps.google.com/?q=31.31893,-85.85663
 
 81. Brewton Family Dental Center
 1115 AZALEA PL, BREWTON, AL, 36426-1318
@@ -613,7 +533,6 @@
 🌐 https://www.franklinprimary.org
 🏥 Services: Primary Care
 📞 251-867-8020
-🗺 https://maps.google.com/?q=31.12430,-87.07380
 
 82. SOUTHWEST ALABAMA HEALTH SERVICE
 7777 HIGHWAY 43 NORTH, MCINTOSH, AL, 36553
@@ -621,14 +540,12 @@
 🌐 https://mostellarmedical.org
 🏥 Services: Primary Care
 📞 251-944-2842
-🗺 https://maps.google.com/?q=31.26479,-88.03215
 
 83. Slocomb Family Health Center
 162 South Dalton Street, Slocomb, AL, 36375
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 334-886-3023
-🗺 https://maps.google.com/?q=31.10626,-85.59393
 
 84. Mobile Medical Unit II
 251 N Bayou St, Mobile, AL, 36603-5827
@@ -636,21 +553,18 @@
 🌐 https://mchd.org/family-health/
 🏥 Services: Primary Care
 📞 251-690-8823
-🗺 https://maps.google.com/?q=30.69184,-88.05466
 
 85. Franklin's Wellness, Smiles and Vision Express
 1303 Dr Martin L King Jr Ave, Mobile, AL, 36603-5341
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 251-432-4117
-🗺 https://maps.google.com/?q=30.69939,-88.06576
 
 86. J.R. Thomas Wellness Center
 1361 Dr Martin L King Jr Ave, Mobile, AL, 36603-5341
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 251-432-7189
-🗺 https://maps.google.com/?q=30.69985,-88.06605
 
 87. Women's Health Center
 248 Cox St, Mobile, AL, 36604-3303
@@ -658,7 +572,6 @@
 🌐 https://mchd.org/family-health/
 🏥 Services: Primary Care
 📞 251-690-8930
-🗺 https://maps.google.com/?q=30.69853,-88.07640
 
 88. THE HADLEY MEDICAL CENTER
 572 Stanton Rd, Mobile, AL, 36617-2324
@@ -666,7 +579,6 @@
 🌐 https://www.franklinprimary.org
 🏥 Services: Primary Care
 📞 251-444-1000
-🗺 https://maps.google.com/?q=30.70770,-88.09601
 
 89. DR. ALBERT THOMAS MEDICAL CENTER
 510 S Wilson Ave, Prichard, AL, 36610-3912
@@ -674,7 +586,6 @@
 🌐 https://www.franklinprimary.org
 🏥 Services: Primary Care
 📞 251-301-7011
-🗺 https://maps.google.com/?q=30.73001,-88.08306
 
 90. MAYSVILLE MEDICAL CENTER
 1956 Duval St, Mobile, AL, 36606-1145
@@ -682,7 +593,6 @@
 🌐 https://www.franklinprimary.org
 🏥 Services: Primary Care
 📞 251-471-3747
-🗺 https://maps.google.com/?q=30.66412,-88.08677
 
 91. AIELLO/BUSKEY MEDICAL CENTER
 424 S Wilson Ave, Prichard, AL, 36610-3910
@@ -690,7 +600,6 @@
 🌐 https://www.franklinprimary.org
 🏥 Services: Primary Care
 📞 251-452-1442
-🗺 https://maps.google.com/?q=30.73078,-88.08290
 
 92. Dauphin Island Parkway Health Center
 2601 Dauphin Island Pkwy, Mobile, AL, 36605-3472
@@ -698,7 +607,6 @@
 🌐 https://mchd.org/family-health/
 🏥 Services: Primary Care
 📞 251-445-3450
-🗺 https://maps.google.com/?q=30.61998,-88.07519
 
 93. Eight Mile Health Center
 4009 Saint Stephens Rd, Mobile, AL, 36612-1231
@@ -706,7 +614,6 @@
 🌐 https://mchd.org/family-health/.org
 🏥 Services: Primary Care
 📞 251-456-1399
-🗺 https://maps.google.com/?q=30.75821,-88.12231
 
 94. Accordia Health – Midtown
 4013 Airport Blvd  STE C, Mobile, AL, 36608-2201
@@ -714,7 +621,6 @@
 🌐 https://accordia-health.org/
 🏥 Services: Primary Care
 📞 251-450-5901
-🗺 https://maps.google.com/?q=30.67466,-88.14966
 
 95. Accordia Health - Saraland
 801 Saraland Blvd S  STE 9,10, Saraland, AL, 36571-3601
@@ -722,21 +628,18 @@
 🌐 https://accordia-health.org/
 🏥 Services: Primary Care
 📞 251-450-5901
-🗺 https://maps.google.com/?q=30.80427,-88.07296
 
 96. West Mobile Family Medical Center
 801 University Boulevard BLDG D, Mobile, AL, 36609-2949
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 251-344-1964
-🗺 https://maps.google.com/?q=30.66414,-88.16668
 
 97. Accordia Pediatrics and Pediatric Psychiatry
 6908 Providence Park Drive, Mobile, AL, 36695-4600
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 251-660-3490
-🗺 https://maps.google.com/?q=30.67768,-88.20403
 
 98. The Charles White Family Health Center
 990 Cody Rd N, Mobile, AL, 36608-4833
@@ -744,14 +647,12 @@
 🌐 https://www.franklinprimary.org
 🏥 Services: Primary Care
 📞 251-434-8177
-🗺 https://maps.google.com/?q=30.71099,-88.20713
 
 99. North Baldwin Family Health Center
 201 D'Olive Street, Bay Minette, AL, 36507-3226
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 251-706-8700
-🗺 https://maps.google.com/?q=30.88179,-87.77597
 
 100. BAYOU LA BATRE AREA HEALTH DEVELOPMENT B
 12701 PADGETT SWITCH RD, IRVINGTON, AL, 36544-4011
@@ -759,7 +660,6 @@
 🌐 https://mostellarmedical.org
 🏥 Services: Primary Care
 📞 251-824-2174
-🗺 https://maps.google.com/?q=30.42631,-88.23708
 
 101. MOSTELLAR MEDICAL CENTER
 12701 Padgett Switch Rd Ste A, Irvington, AL, 36544-4011
@@ -767,7 +667,6 @@
 🌐 https://mostellarmedical.org
 🏥 Services: Primary Care
 📞 251-824-2174
-🗺 https://maps.google.com/?q=30.42693,-88.23844
 
 102. MOSTELLAR SUPPORT SERVICES ANNEX
 13040 N Wintzell Ave, Bayou La Batre, AL, 36509-2110
@@ -775,7 +674,6 @@
 🌐 https://mostellarmedical.org
 🏥 Services: Primary Care
 📞 251-824-2174
-🗺 https://maps.google.com/?q=30.42008,-88.24460
 
 103. Accordia Health - Bayou
 13833 Tapia Ave, Bayou La Batre, AL, 36509-2515
@@ -783,7 +681,6 @@
 🌐 https://accordia-health.org
 🏥 Services: Primary Care
 📞 251-824-8320
-🗺 https://maps.google.com/?q=30.40348,-88.24719
 
 104. Citronelle Health Center
 19250 N Mobile St, Citronelle, AL, 36522-2122
@@ -791,7 +688,6 @@
 🌐 https://mchd.org/family-health/
 🏥 Services: Primary Care
 📞 251-866-9126
-🗺 https://maps.google.com/?q=31.09277,-88.22852
 
 105. Citronelle Dental
 19260 N Mobile St, Citronelle, AL, 36522-2122
@@ -799,7 +695,6 @@
 🌐 https://mchd.org/family-health/
 🏥 Services: Primary Care
 📞 251-866-5585
-🗺 https://maps.google.com/?q=31.09295,-88.22862
 
 106. Accordia Health - Citronelle
 19140 S 3rd St, Citronelle, AL, 36522-2306
@@ -807,14 +702,12 @@
 🌐 https://accordia-health.org/
 🏥 Services: Primary Care
 📞 251-866-0086
-🗺 https://maps.google.com/?q=31.09032,-88.23756
 
 107. RKM at Independence Leadership Academy
 5422 State Highway 94, Ramer, AL, 36069-5008
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 225-683-5292 x51201
-🗺 https://maps.google.com/?q=30.63506,-90.49643
 
 108. Theodore Hendrix Dental Center
 2731 Ml King Jr Blvd, Tuscaloosa, AL 35401-5235

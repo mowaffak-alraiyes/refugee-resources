@@ -5,7 +5,6 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Health Care for the Homeless
 📞 617-371-1772
-🗺 https://maps.google.com/?q=42.35928,-71.05835
 
 🌐 http://www.bhchp.org/
 
@@ -14,7 +13,6 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program; Health Center Service Delivery Site. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Mental health; Health Care for the Homeless
 📞 617-626-8500
-🗺 https://maps.google.com/?q=42.36211,-71.06350
 
 🌐 http://www.bhchp.org/
 
@@ -23,14 +21,12 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 857-654-1000
-🗺 https://maps.google.com/?q=42.35536,-71.05863
 
 4. Bridge Over Troubled Waters
 47 WEST ST, BOSTON, MA, 02111-1219
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 857-654-1000
-🗺 https://maps.google.com/?q=42.35513,-71.06300
 
 5. NORTH END WATERFRONT HEALTH
 332 Hanover St, Boston, MA, 02113-1901
@@ -38,14 +34,12 @@
 🌐 https://www.northendwaterfronthealth.org
 🏥 Services: Primary Care
 📞 617-643-8085
-🗺 https://maps.google.com/?q=42.36472,-71.05371
 
 6. Kingston House
 39 Kingston St, Boston, MA, 02111-2208
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Health Care for the Homeless
 📞 617-482-8819
-🗺 https://maps.google.com/?q=42.35355,-71.05945
 
 🌐 http://www.bhchp.org/
 
@@ -54,7 +48,6 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Health Care for the Homeless
 📞 617-524-4704
-🗺 https://maps.google.com/?q=42.35254,-71.06351
 
 🌐 http://www.bhchp.org/
 
@@ -64,21 +57,18 @@
 🌐 https://www.scchc.org
 🏥 Services: Primary Care
 📞 617-521-6760
-🗺 https://maps.google.com/?q=42.35096,-71.05764
 
 9. SCCHC Pharmacy
 256 Harrison Avenue, Boston, MA, 02111-1835
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 617-482-7419
-🗺 https://maps.google.com/?q=42.34771,-71.06267
 
 10. Women's Lunch Place
 67 Newbury St, Boston, MA, 02116-3010
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program; Health Center Service Delivery Site. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Women's health; Health Care for the Homeless
 📞 617-267-0200
-🗺 https://maps.google.com/?q=42.35212,-71.07418
 
 🌐 http://www.bhchp.org/
 
@@ -88,14 +78,12 @@
 🌐 https://www.ebnhc.org
 🏥 Services: Primary Care
 📞 617-569-5800
-🗺 https://maps.google.com/?q=42.36860,-71.03944
 
 12. PINE STREET INN Women's Clinic
 363 Albany St, Boston, MA, 02118-2503
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program; Health Center Service Delivery Site. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Women's health; Health Care for the Homeless
 📞 857-654-1865
-🗺 https://maps.google.com/?q=42.34259,-71.06316
 
 🌐 http://www.bhchp.org
 
@@ -105,21 +93,18 @@
 🌐 https://www.northendwaterfront.org
 🏥 Services: Primary Care
 📞 617-643-8000
-🗺 https://maps.google.com/?q=42.37787,-71.05681
 
 14. Seaport
 505 Congress St, Boston, MA, 02210-2902
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 617-464-7620
-🗺 https://maps.google.com/?q=42.34804,-71.04120
 
 15. The Dr. Gerald Hass Center
 400 Shawmut Ave, Boston, MA, 02118-2006
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 617-425-2000
-🗺 https://maps.google.com/?q=42.34039,-71.07302
 
 16. South Boston Community Health Center
 386 WEST BROADWAY STREET, SOUTH BOSTON, MA, 02127-2245
@@ -127,14 +112,12 @@
 🌐 https://www.shchc.org
 🏥 Services: Primary Care
 📞 617-464-7509
-🗺 https://maps.google.com/?q=42.33761,-71.04852
 
 17. Engagement Center
 26 Atkinson St, Boston, MA, 02118-2702
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 617-534-3036 x85765
-🗺 https://maps.google.com/?q=42.33321,-71.06850
 
 18. Mobile Van #1
 780 Albany St, Boston, MA, 02118-2755
@@ -149,7 +132,6 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Health Care for the Homeless
 📞 617-534-7101
-🗺 https://maps.google.com/?q=42.33346,-71.07237
 
 🌐 http://www.bhchp.org/
 
@@ -158,7 +140,6 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Health Care for the Homeless
 📞 617-534-2881
-🗺 https://maps.google.com/?q=42.33237,-71.06927
 
 🌐 http://www.bhchp.org/
 
@@ -167,7 +148,6 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Health Care for the Homeless
 📞 617-442-9322
-🗺 https://maps.google.com/?q=42.33408,-71.07669
 
 🌐 http://www.bhchp.org/
 
@@ -177,49 +157,42 @@
 🌐 http://www.wshc.org
 🏥 Services: Primary Care
 📞 617-427-1000
-🗺 https://maps.google.com/?q=42.33274,-71.09197
 
 23. Boston Day and Evening Academy
 20 Kearsarge Ave, Boston, MA, 02119-2318
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 617-427-1000
-🗺 https://maps.google.com/?q=42.32693,-71.08182
 
 24. St. Mary's Center for Women & Children (Bridge Home, Margaret's House, Mary's Home)
 90 Cushing Ave, Dorchester, MA, 02125-2028
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 617-436-8600
-🗺 https://maps.google.com/?q=42.31390,-71.06340
 
 25. Y2Y Harvard Square
 1 Church St, Cambridge, MA, 02138-3715
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 857-654-1600
-🗺 https://maps.google.com/?q=42.37449,-71.11896
 
 26. Whittier North Dorchester Clinic
 278-292 Blue Hill Ave, Roxbury, MA, 02119
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 617-858-2550
-🗺 https://maps.google.com/?q=42.31474,-71.07839
 
 27. Savin Hill
 1140 Dorchester Ave, Dorchester, MA, 02125-3305
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 617-287-8000
-🗺 https://maps.google.com/?q=42.31205,-71.05739
 
 28. BHCHP Family Care Clinic
 1785 Columbus Ave, Roxbury, MA, 02119-1041
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 857-654-6610
-🗺 https://maps.google.com/?q=42.31994,-71.09843
 
 29. Charles River Community Health at Gardner School
 30 Athol St, Allston, MA, 02134-1124
@@ -227,7 +200,6 @@
 🌐 https://www.charlesriverhealth.org
 🏥 Services: Primary Care
 📞 617-783-0500
-🗺 https://maps.google.com/?q=42.36076,-71.13411
 
 30. DORCHESTER HOUSE MULTI SVS/WIC
 1353 Dorchester Ave, Dorchester, MA, 02122-2932
@@ -235,14 +207,12 @@
 🌐 https://www.hhsi.us
 🏥 Services: Primary Care
 📞 617-288-3230
-🗺 https://maps.google.com/?q=42.30443,-71.05945
 
 31. Neighborhealth Corporation – 801 Broadway
 801 Broadway, Everett, MA, 02149-3035
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 617-569-5800
-🗺 https://maps.google.com/?q=42.41702,-71.04597
 
 32. Commercial Street Clinic
 277 Commercial St, Malden, MA, 02148-6708
@@ -250,7 +220,6 @@
 🌐 https://www.scchc.org
 🏥 Services: Primary Care
 📞 781-912-2500
-🗺 https://maps.google.com/?q=42.41796,-71.07629
 
 33. Harvard Street Neighborhood Health Center
 632 Blue Hill Ave, Dorchester, MA, 02121-3213
@@ -258,7 +227,6 @@
 🌐 https://www.harvardstreet.org
 🏥 Services: Primary Care
 📞 617-825-3400
-🗺 https://maps.google.com/?q=42.30260,-71.08507
 
 34. Charles River Community Health at 495 Western Ave
 495 Western Ave, Brighton, MA, 02135-1007
@@ -266,14 +234,12 @@
 🌐 http://www.charlesriverhealth.org
 🏥 Services: Primary Care
 📞 617-783-0500
-🗺 https://maps.google.com/?q=42.36205,-71.14378
 
 35. Pine Street Inn at the Shattuck
 170 Morton St, Jamaica Plain, MA, 02130-3735
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 617-971-3787
-🗺 https://maps.google.com/?q=42.29960,-71.10194
 
 36. Codman Square WIC
 637 Washington, Dorchester, MA, 02124-3510
@@ -281,14 +247,12 @@
 🌐 https://www.hhsi.us
 🏥 Services: Primary Care
 📞 617-825-9660
-🗺 https://maps.google.com/?q=42.28936,-71.07201
 
 37. Element Care PACE – Chestnut Hill Ave/Brighton
 130 Chestnut Hill Avenue, Brighton, MA, 02135-4731
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 857-299-0371
-🗺 https://maps.google.com/?q=42.34348,-71.15339
 
 38. Daniel Driscoll – Neponset Health Center
 398 Neponset Ave, Dorchester, MA, 02122-3134
@@ -296,14 +260,12 @@
 🌐 https://www.hhsi.us
 🏥 Services: Primary Care
 📞 617-282-3200
-🗺 https://maps.google.com/?q=42.28671,-71.04409
 
 39. Neighborhealth Corporation – 10 Garofola St
 10 Garofola St, Revere, MA, 02151-1441
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 617-569-5800
-🗺 https://maps.google.com/?q=42.42098,-70.99895
 
 40. TechBoston Academy Clinic
 9 Peacevale Rd., Dorchester, MA, 02124-4417
@@ -311,42 +273,36 @@
 🌐 https://www.codman.org
 🏥 Services: Primary Care
 📞 617-822-8272
-🗺 https://maps.google.com/?q=42.28525,-71.07590
 
 41. EMPath
 10 Perthshire Rd, Brighton, MA, 02135-1723
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 617-782-7600
-🗺 https://maps.google.com/?q=42.35322,-71.16611
 
 42. Young Achievers Science and Math Pilot School
 20 Outlook Rd, Mattapan, MA, 02126-1510
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 857-267-4168
-🗺 https://maps.google.com/?q=42.28232,-71.09500
 
 43. Elder Service Plan
 1135 Morton St FL 2, Mattapan, MA, 02126-2834
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 617-533-2400
-🗺 https://maps.google.com/?q=42.27579,-71.07489
 
 44. Entre Familia
 209 River St, Mattapan, MA, 02126-2727
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 617-536-7969
-🗺 https://maps.google.com/?q=42.27382,-71.08133
 
 45. Transitions
 211 River Street BLDG M, Mattapan, MA, 02126
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 617-354-2646
-🗺 https://maps.google.com/?q=42.27346,-71.08179
 
 46. MANET North Quincy
 110 W Squantum St, Quincy, MA, 02171-2122
@@ -354,14 +310,12 @@
 🌐 https://www.manetchc.org
 🏥 Services: Primary Care
 📞 617-376-3000
-🗺 https://maps.google.com/?q=42.27255,-71.03081
 
 47. HOLMES STREET CLINIC
 88 Holmes, Quincy, MA, 02171-2431
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 617-318-3200
-🗺 https://maps.google.com/?q=42.27242,-71.02545
 
 48. Mattapan Community Health Center
 1575 Blue Hill Ave, Mattapan, MA, 02126-2122
@@ -369,7 +323,6 @@
 🌐 https://www.mattapanchc.org
 🏥 Services: Primary Care
 📞 617-296-0061
-🗺 https://maps.google.com/?q=42.26980,-71.09403
 
 49. CLASSICAL HIGH SCHOOL
 235 Ocallaghan Way, Lynn, MA, 01905-1599
@@ -377,14 +330,12 @@
 🌐 https://lchcnet.org/aboutus
 🏥 Services: Primary Care
 📞 781-592-8634
-🗺 https://maps.google.com/?q=42.46525,-70.98528
 
 50. Drewicz Elementary School - School Based Health Center
 34 Hood St, Lynn, MA, 01905-2330
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 781-596-2502 x2701
-🗺 https://maps.google.com/?q=42.46063,-70.96932
 
 51. MANET CHC AT HOUGH'S NECK
 1193 Sea St, Quincy, MA, 02169-3544
@@ -392,7 +343,6 @@
 🌐 https://www.manetchc.org
 🏥 Services: Primary Care
 📞 617-471-8683
-🗺 https://maps.google.com/?q=42.26882,-70.95263
 
 52. BREED MIDDLE SCHOOL
 90 Ocallaghan Way, Lynn, MA, 01905-1532
@@ -400,7 +350,6 @@
 🌐 https://lchcnet.org/aboutus/
 🏥 Services: Primary Care
 📞 781-598-0287
-🗺 https://maps.google.com/?q=42.47055,-70.98471
 
 53. Lynn Vocational Technical High School, School Based Health Center, Annex
 90 Commercial St, Lynn, MA, 01905-2906
@@ -408,7 +357,6 @@
 🌐 https://www.lchcnet.org/aboutus/
 🏥 Services: Primary Care
 📞 781-477-7431
-🗺 https://maps.google.com/?q=42.45972,-70.95918
 
 54. MARKET SQUARE FAMILY HLTH SVCS
 29 Market Sq, Lynn, MA, 01905-2420
@@ -416,7 +364,6 @@
 🌐 http://lchcnet.org/aboutus/
 🏥 Services: Primary Care
 📞 781-596-3500
-🗺 https://maps.google.com/?q=42.46282,-70.96411
 
 55. MSFHS AT WESTERN AVENUE
 694 Western Ave, Lynn, MA, 01905-2229
@@ -424,7 +371,6 @@
 🌐 http://lchcnet.org/aboutus/
 🏥 Services: Primary Care
 📞 781-595-7348
-🗺 https://maps.google.com/?q=42.46348,-70.96409
 
 56. MANET CHC AT SNUG HARBOR
 9 Bicknell St, Quincy, MA, 02169-6003
@@ -432,7 +378,6 @@
 🌐 https://www.manetchc.org
 🏥 Services: Primary Care
 📞 617-471-4715
-🗺 https://maps.google.com/?q=42.25222,-70.96587
 
 57. Program for All-Inclusive Care for the Elderly (PACE) Site
 62 Market St, Lynn, MA, 01901-1005
@@ -440,7 +385,6 @@
 🌐 http://www.lchcnet.org/AboutUs/
 🏥 Services: Primary Care
 📞 781-595-4713
-🗺 https://maps.google.com/?q=42.46368,-70.94965
 
 58. Lynn Multiservice Center
 100 WILLOW ST, LYNN, MA, 01901-1139
@@ -448,28 +392,24 @@
 🌐 http://lchcnet.org/aboutus/
 🏥 Services: Primary Care
 📞 781-581-0739
-🗺 https://maps.google.com/?q=42.46494,-70.94753
 
 59. RAW Art Works
 37 Central Sq, Lynn, MA, 01901-1379
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 781-593-5515
-🗺 https://maps.google.com/?q=42.46396,-70.94460
 
 60. Medical Outreach Clinic
 73 Buffum St, Lynn, MA, 01902-3965
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 781-581-3900
-🗺 https://maps.google.com/?q=42.46586,-70.94496
 
 61. LCHC Medical Outreach Program
 269 Union St, Lynn, MA, 01901-1314
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 781-581-3900
-🗺 https://maps.google.com/?q=42.46526,-70.94363
 
 62. INGALLS ELEMENTARY SCHOOL
 1 Collins Street Ter, Lynn, MA, 01902-2205
@@ -477,14 +417,12 @@
 🌐 http://lchcnet.org/aboutus/
 🏥 Services: Primary Care
 📞 781-593-0734
-🗺 https://maps.google.com/?q=42.47160,-70.93662
 
 63. Pickering Middle School SBHC
 70 Conomo Avenue, Lynn, MA, 01904-1999
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 781-477-7440
-🗺 https://maps.google.com/?q=42.48690,-70.95803
 
 64. MANET CHC AT HULL
 180 George Washington Blvd, Hull, MA, 02045-3069
@@ -492,7 +430,6 @@
 🌐 https://www.manetchc.org
 🏥 Services: Primary Care
 📞 781-925-4550
-🗺 https://maps.google.com/?q=42.26305,-70.86061
 
 65. Horace Mann Laboratory School
 79 Willson St, Salem, MA, 01970-2829
@@ -500,7 +437,6 @@
 🌐 https://www.nschi.org
 🏥 Services: Primary Care
 📞 978-740-8388
-🗺 https://maps.google.com/?q=42.50759,-70.90888
 
 66. Peabody FAMILY HEALTH CENTER
 89 Foster St, Peabody, MA, 01960-5933
@@ -508,7 +444,6 @@
 🌐 https://www.nschi.org
 🏥 Services: Primary Care
 📞 978-532-4903
-🗺 https://maps.google.com/?q=42.52296,-70.93047
 
 67. Collins Middle School
 29 Highland Ave, Salem, MA, 01970-2116
@@ -516,28 +451,24 @@
 🌐 https://www.nschi.org
 🏥 Services: Primary Care
 📞 978-740-8388
-🗺 https://maps.google.com/?q=42.51478,-70.90611
 
 68. Peabody Veteran Memorial High School SBHC
 485 LOWELL ST, PEABODY, MA, 01960-1329
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 978-744-8388
-🗺 https://maps.google.com/?q=42.54418,-70.97495
 
 69. Mayor Jean A. Levesque Community Life Center
 401 Bridge St, Salem, MA, 01970-2276
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 978-744-0388
-🗺 https://maps.google.com/?q=42.52030,-70.90707
 
 70. LifeBridge
 56 Margin St, Salem, MA, 01970-3341
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 978-744-8388 x97882
-🗺 https://maps.google.com/?q=42.51827,-70.89665
 
 71. Peabody Learning Academy
 300 Ocean Ave, Revere, MA, 02151-3675
@@ -545,7 +476,6 @@
 🌐 https://www.nschi.org
 🏥 Services: Primary Care
 📞 978-740-8388
-🗺 https://maps.google.com/?q=42.54044,-70.94236
 
 72. Bates Elementary School
 53 Liberty Hill Ave, Salem, MA, 01970-1621
@@ -553,7 +483,6 @@
 🌐 https://www.nschi.org
 🏥 Services: Primary Care
 📞 978-740-8388
-🗺 https://maps.google.com/?q=42.53455,-70.90578
 
 73. Bentley Academy Charter
 25 Memorial Dr, Salem, MA, 01970-5651
@@ -561,14 +490,12 @@
 🌐 https://www.nschi.org
 🏥 Services: Primary Care
 📞 978-740-8388
-🗺 https://maps.google.com/?q=42.52841,-70.88076
 
 74. BNHC Pharmacy
 63 Main Street  STE 100, Brockton, MA, 02301-4042
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 508-559-6699
-🗺 https://maps.google.com/?q=42.08454,-71.02015
 
 75. BROCKTON NEIGHBORHOOD HEALTH CENTER
 63 Main St, Brockton, MA, 02301
@@ -576,21 +503,18 @@
 🌐 https://www.bnhc.org
 🏥 Services: Primary Care
 📞 508-559-6699
-🗺 https://maps.google.com/?q=42.08454,-71.02015
 
 76. BNHC Manley Street site
 124 Manley Street, Brockton, MA, 02301-5509
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 508-559-6699
-🗺 https://maps.google.com/?q=42.06035,-71.05805
 
 77. Heading Home
 555 South Union Street, Lawrence, MA, 01843-2815
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 978-725-7400
-🗺 https://maps.google.com/?q=42.68789,-71.15326
 
 78. GLFHC-SOUTH
 73 D WINTHROP AVE, LAWRENCE, MA, 01843-3716
@@ -598,7 +522,6 @@
 🌐 https://www.glfhc.org
 🏥 Services: Primary Care
 📞 978-686-3017
-🗺 https://maps.google.com/?q=42.68949,-71.15054
 
 79. DAYBREAK SHELTER
 75 N Parish Rd, Lawrence, MA, 01843-2930
@@ -606,14 +529,12 @@
 🌐 https://www.glfhc.org
 🏥 Services: Primary Care
 📞 978-975-4547
-🗺 https://maps.google.com/?q=42.69108,-71.14402
 
 80. Lawrence High School
 70-71 North Parish Road, Lawrence, MA, 01843
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 978-725-7400
-🗺 https://maps.google.com/?q=42.69125,-71.14499
 
 81. Lowell Transitional Living Center
 205 MIDDLESEX ST, LOWELL, MA, 01852-2155
@@ -621,7 +542,6 @@
 🌐 http://www.ltlc.org/
 🏥 Services: Primary Care
 📞 978-458-9888
-🗺 https://maps.google.com/?q=42.64096,-71.31238
 
 82. LCHC Consolidated Site
 161 Jackson St, Lowell, MA, 01852-2103
@@ -629,7 +549,6 @@
 🌐 https://www.lchealth.org
 🏥 Services: Primary Care
 📞 978-937-9700
-🗺 https://maps.google.com/?q=42.64224,-71.31038
 
 83. Lowell CHC - 101 Jackson Street
 101 Jackson St, Lowell, MA, 01852-2103
@@ -637,7 +556,6 @@
 🌐 https://www.lchealth.org
 🏥 Services: Primary Care
 📞 978-937-9700
-🗺 https://maps.google.com/?q=42.64230,-71.31130
 
 84. GLFHC-WEST
 700 Essex St, Lawrence, MA, 01841-4396
@@ -645,7 +563,6 @@
 🌐 https://www.glfhc.org
 🏥 Services: Primary Care
 📞 978-689-2400
-🗺 https://maps.google.com/?q=42.70195,-71.17213
 
 85. GLFHC at Lawrence General Hospital
 1 General St., Lawrence, MA, 01841-2961
@@ -653,7 +570,6 @@
 🌐 https://www.glfhc.org
 🏥 Services: Primary Care
 📞 978-725-7400
-🗺 https://maps.google.com/?q=42.70964,-71.14926
 
 86. GLFHC Mobile Unit
 401 Griffin Brook Dr, Methuen, MA, 01844-1883
@@ -661,7 +577,6 @@
 🌐 https://www.glfhc.org
 🏥 Services: Primary Care
 📞 978-725-7400
-🗺 https://maps.google.com/?q=42.69127,-71.23624
 
 87. YWCA
 38 Lawrence St, Lawrence, MA, 01840-1409
@@ -669,7 +584,6 @@
 🌐 https://www.glfhc.org
 🏥 Services: Primary Care
 📞 978-725-7400
-🗺 https://maps.google.com/?q=42.70875,-71.16254
 
 88. GREATER LAWRENCE FAMILY HEALTH
 34 HAVERHILL STRET, LAWRENCE, MA, 01841-2884
@@ -677,14 +591,12 @@
 🌐 https://www.glfhc.org
 🏥 Services: Primary Care
 📞 978-686-0090
-🗺 https://maps.google.com/?q=42.71186,-71.15198
 
 89. Mobile Health Unit 3
 34 Haverhill Street, Lawrence, MA, 01841-2884
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 978-686-0090
-🗺 https://maps.google.com/?q=42.71186,-71.15198
 
 90. MARY IMMACULATE/RESTORATIVE CTR
 172 Lawrence St, Lawrence, MA, 01841-3849
@@ -692,7 +604,6 @@
 🌐 https://www.glfhc.org
 🏥 Services: Primary Care
 📞 978-725-7400
-🗺 https://maps.google.com/?q=42.71337,-71.16472
 
 91. GLFHC-NORTH
 150 Park St, Lawrence, MA, 01841-2517
@@ -700,21 +611,18 @@
 🌐 https://www.glfhc.org
 🏥 Services: Primary Care
 📞 978-685-1770
-🗺 https://maps.google.com/?q=42.71589,-71.16616
 
 92. GLFHC at Element Care
 14 Ingalls Ct, Methuen, MA, 01844-3712
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 978-686-0090
-🗺 https://maps.google.com/?q=42.72010,-71.18418
 
 93. Methuen Family Health Center
 147 Pelham St Ste 1, Methuen, MA, 01844-2060
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 978-686-0090
-🗺 https://maps.google.com/?q=42.72882,-71.20223
 
 94. Gloucester Family Health Center
 302 Washington St, Gloucester, MA, 01930-4836
@@ -722,7 +630,6 @@
 🌐 https://www.nschi.org
 🏥 Services: Primary Care
 📞 978-744-8388
-🗺 https://maps.google.com/?q=42.62644,-70.68060
 
 95. Edward M. Kennedy Community Health Center Milford
 41 Cape Road, Milford, MA, 01757-3276
@@ -730,7 +637,6 @@
 🌐 https://www.kennedychc.org
 🏥 Services: Primary Care
 📞 800-853-2258
-🗺 https://maps.google.com/?q=42.12807,-71.51886
 
 96. MITCH'S PLACE
 127 How St, Haverhill, MA, 01830-5615
@@ -738,7 +644,6 @@
 🌐 https://www.glfhc.org
 🏥 Services: Primary Care
 📞 978-725-7400
-🗺 https://maps.google.com/?q=42.77703,-71.08093
 
 97. EMMAUS HOUSE
 150 How St, Haverhill, MA, 01830-5616
@@ -746,21 +651,18 @@
 🌐 https://www.glfhc.org
 🏥 Services: Primary Care
 📞 978-725-7400
-🗺 https://maps.google.com/?q=42.77727,-71.08166
 
 98. Community Action Drop-In Center
 16 Ashland St, Haverhill, MA, 01830-4129
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 978-725-7400
-🗺 https://maps.google.com/?q=42.78138,-71.07612
 
 99. Haverhill Family Health Center
 755 Main St, Haverhill, MA, 01830-2166
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 978-686-0900
-🗺 https://maps.google.com/?q=42.79783,-71.08753
 
 100. Manet at the Taunton Public Schools
 60 Williams Street, P101, Taunton, MA, 02780-5411
@@ -768,7 +670,6 @@
 🌐 https://www.manetchc.org
 🏥 Services: Primary Care
 📞 857-358-7260
-🗺 https://maps.google.com/?q=41.90120,-71.06982
 
 101. ROOSEVELT SCHOOL HEALTH CENTER
 1006 Grafton St, Worcester, MA, 01604-2034
@@ -776,7 +677,6 @@
 🌐 https://www.kennedychc.org
 🏥 Services: Primary Care
 📞 508-798-3229
-🗺 https://maps.google.com/?q=42.24318,-71.75713
 
 102. NORTH HIGH SCHOOL HLTH CENTER-112-A,I,K,M
 140 Harrington Way, Worcester, MA, 01604-2100
@@ -784,14 +684,12 @@
 🌐 https://www.kennedychc.org
 🏥 Services: Primary Care
 📞 508-791-5789
-🗺 https://maps.google.com/?q=42.26105,-71.76699
 
 103. Leominster Community Health and Urgent Care Center
 165 Mill St, Leominster, MA, 01453-3289
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 978-878-8510
-🗺 https://maps.google.com/?q=42.53200,-71.74754
 
 104. WORCESTER TECHNICAL HIGH SCHOOL-B124-125
 1 Officer Manny Familia Way, Worcester, MA, 01605-1660
@@ -799,7 +697,6 @@
 🌐 https://www.kennedychc.org
 🏥 Services: Primary Care
 📞 508-791-4326
-🗺 https://maps.google.com/?q=42.27664,-71.77742
 
 105. BURNCOAT SCHOOL BASED  HEALTH CENTER-507
 135 Burncoat St, Worcester, MA, 01606-2405
@@ -807,7 +704,6 @@
 🌐 https://www.kennedychc.org
 🏥 Services: Primary Care
 📞 508-854-3266
-🗺 https://maps.google.com/?q=42.29652,-71.78796
 
 106. UMass Memorial Health, Belmont Campus
 119 Belmont St., Worcester, MA, 01605-2903
@@ -815,7 +711,6 @@
 🌐 https://www.umassmemorial.org
 🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 508-860-7700
-🗺 https://maps.google.com/?q=42.27294,-71.79225
 
 107. Family Health Center of Worcester, Inc.
 26 Queen St, Worcester, MA, 01610-2473
@@ -823,7 +718,6 @@
 🌐 http://www.fhcw.org
 🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 508-860-7700
-🗺 https://maps.google.com/?q=42.25925,-71.81497
 
 108. Worcester Health Care for the Homeless
 199 Chandler St  FL 4, Worcester, MA, 01609
@@ -831,7 +725,6 @@
 🌐 https://www.FHCW.org
 🏥 Services: Ryan White HIV/AIDS Program; Primary Care; Health Care for the Homeless
 📞 508-860-7888
-🗺 https://maps.google.com/?q=42.26087,-71.81682
 
 109. Goddard Health Center
 14 RICHARDS ST, WORCESTER, MA, 01603-2609
@@ -839,7 +732,6 @@
 🌐 http://www.fhcw.org
 🏥 Services: Primary Care
 📞 508-757-3401
-🗺 https://maps.google.com/?q=42.24765,-71.82438
 
 110. SSTAR Integrated Health Services Center
 75 Weaver St, Fall River, MA, 02720-1309
@@ -847,7 +739,6 @@
 🌐 https://www.sstar.org
 🏥 Services: Primary Care
 📞 508-675-1054
-🗺 https://maps.google.com/?q=41.72760,-71.14440
 
 111. The Family HealthCare Center at SSTAR
 400 Stanley St, Fall River, MA, 02720-6009
@@ -855,7 +746,6 @@
 🌐 https://www.sstar.org
 🏥 Services: Primary Care
 📞 508-675-1054
-🗺 https://maps.google.com/?q=41.71462,-71.13546
 
 112. HealthFirst Family Care Center Inc.
 387 Quarry St Ste 100, Fall River, MA, 02723-1026
@@ -863,7 +753,6 @@
 🌐 https://www.healthfirstfr.org
 🏥 Services: Primary Care
 📞 508-679-8111
-🗺 https://maps.google.com/?q=41.69332,-71.14021
 
 113. SSTAR’s South End Services
 1010 South Main Street, Fall River, MA, 02724-2820
@@ -871,7 +760,6 @@
 🌐 https://www.sstar.org
 🏥 Services: Primary Care
 📞 508-675-1054
-🗺 https://maps.google.com/?q=41.69079,-71.16515
 
 114. Community Health Center of Cape Cod, Sandwich
 90 Route 6A Ste 4C, Sandwich, MA, 02563-5301
@@ -879,7 +767,6 @@
 🌐 https://www.chcofcapecod.org
 🏥 Services: Primary Care
 📞 508-477-7090
-🗺 https://maps.google.com/?q=41.76441,-70.50095
 
 115. GREATER NEW BEDFORD COMMUNITY HEALTH CENTER
 874 Purchase St, New Bedford, MA, 02740-6232
@@ -887,7 +774,6 @@
 🌐 https://www.gnbchc.org
 🏥 Services: Primary Care
 📞 508-992-6553
-🗺 https://maps.google.com/?q=41.63620,-70.92564
 
 116. WELLFLEET HEALTH CENTER
 3130 State Hwy Rte 6, Wellfleet, MA, 02667-7402
@@ -895,7 +781,6 @@
 🌐 https://OUTERCAPE.ORG
 🏥 Services: Primary Care
 📞 508-349-3131
-🗺 https://maps.google.com/?q=41.94610,-70.03089
 
 117. Centerville Recreation Building
 524 Main St, Centerville, MA, 02632-2918
@@ -903,7 +788,6 @@
 🌐 https://outercape.org
 🏥 Services: Primary Care
 📞 508-905-2800
-🗺 https://maps.google.com/?q=41.64688,-70.34705
 
 118. Duffy Health Center
 94 Main St, Hyannis, MA, 02601-3146
@@ -911,7 +795,6 @@
 🌐 https://www.duffyhealthcenter.org
 🏥 Services: Primary Care
 📞 508-771-9599
-🗺 https://maps.google.com/?q=41.65630,-70.27445
 
 119. North Quabbin Health Center- Dental
 119 New Athol Rd, Building 1  STE 120, Orange, MA, 01364-9603
@@ -919,7 +802,6 @@
 🌐 https://www.chcfc.org
 🏥 Services: Primary Care
 📞 978-544-7800
-🗺 https://maps.google.com/?q=42.58439,-72.26419
 
 120. Ellen Jones Community Dental Clinic
 516 Route 134, South Dennis, MA, 02660-3451
@@ -927,14 +809,12 @@
 🌐 https://www.hhsi.us
 🏥 Services: Primary Care
 📞 508-778-5400
-🗺 https://maps.google.com/?q=41.69434,-70.15008
 
 121. Monomoy Regional High School
 75 Oak Street, Harwich, MA, 02645-2701
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 508-430-7200
-🗺 https://maps.google.com/?q=41.69046,-70.06707
 
 122. Harwich Port Health Center
 710 Route 28, Harwich Port, MA, 02646-1931
@@ -942,14 +822,12 @@
 🌐 https://www.outercape.org
 🏥 Services: Primary Care
 📞 508-905-2800
-🗺 https://maps.google.com/?q=41.67066,-70.06030
 
 123. Island Health Care
 245 Vineyard Haven Road, Edgartown, MA, 02539
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 508-627-5797 x110
-🗺 https://maps.google.com/?q=41.39538,-70.53036
 
 124. John P. Musante Health Center
 70 Boltwood Walk, Amherst, MA, 01002-2271
@@ -957,14 +835,12 @@
 🌐 https://www.hchcweb.org
 🏥 Services: Primary Care
 📞 413-835-4980
-🗺 https://maps.google.com/?q=42.37692,-72.51839
 
 125. Caring Health Center, . – 1235 Boston Rd
 1235 Boston Rd, Springfield, MA, 01119-1328
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 413-739-1100
-🗺 https://maps.google.com/?q=42.13990,-72.50279
 
 126. Burnham Street
 8 Burnham Street, Turners Falls, MA, 01376
@@ -972,7 +848,6 @@
 🌐 https://www.chcfc.org
 🏥 Services: Primary Care
 📞 413-325-8500
-🗺 https://maps.google.com/?q=42.58932,-72.57417
 
 127. Baystate Franklin Hospital
 164 High St, Greenfield, MA, 01301-2613
@@ -980,14 +855,12 @@
 🌐 https://www.chcfc.org
 🏥 Services: Primary Care
 📞 413-325-8700
-🗺 https://maps.google.com/?q=42.59590,-72.59229
 
 128. OPEN DOOR SOCIAL SERVICES
 287 STATE ST, SPRINGFIELD, MA, 01105-1812
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Health Care for the Homeless
 📞 413-737-7062
-🗺 https://maps.google.com/?q=42.10463,-72.58223
 
 🌐 http://www.springfieldcityhall.com
 
@@ -996,7 +869,6 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 413-420-2200
-🗺 https://maps.google.com/?q=42.20648,-72.60823
 
 130. HOLYOKE HEALTH CENTER, INC.
 230 Maple St, Holyoke, MA, 01040-5144
@@ -1004,14 +876,12 @@
 🌐 https://www.hhcinc.org/
 🏥 Services: Primary Care
 📞 413-420-2111
-🗺 https://maps.google.com/?q=42.20718,-72.60835
 
 131. HSH Health Center & Dental Clinic
 755 Worthington St, Springfield, MA, 01105
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program; Health Center Service Delivery Site. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Health Care for the Homeless; Dental
 📞 413-337-9100
-🗺 https://maps.google.com/?q=42.10990,-72.58489
 
 🌐 http://www3.springfield-ma.gov/hhs/
 
@@ -1020,14 +890,12 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 413-732-0808
-🗺 https://maps.google.com/?q=42.09025,-72.57886
 
 133. The Salvation Army
 327 Liberty St, Springfield, MA, 01104-3733
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 413-785-1921
-🗺 https://maps.google.com/?q=42.11226,-72.58742
 
 134. Caring Health Center Main Street Clinic
 1049 Main St, Springfield, MA, 01103-2114
@@ -1035,7 +903,6 @@
 🌐 https://www.caringhealth.org
 🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 413-739-1100
-🗺 https://maps.google.com/?q=42.09970,-72.58478
 
 135. Community Health Center of Franklin County
 102 Main St STE, Greenfield, MA, 01301-3275
@@ -1043,7 +910,6 @@
 🌐 https://www.chcfc.org
 🏥 Services: Primary Care
 📞 413-325-8500
-🗺 https://maps.google.com/?q=42.58794,-72.60554
 
 136. Baystate Brightwood Health Center
 380 PLAINFIELD ST, SPRINGFIELD, MA, 01107-1524
@@ -1051,14 +917,12 @@
 🌐 http://www.baystatehealth.com/Baystate/Main+Nav/About+Us/Locations
 🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 413-794-4458
-🗺 https://maps.google.com/?q=42.11725,-72.61442
 
 137. East Hampton High School SBHC
 123 Waterhouse Rd UNIT 201, Bourne, MA, 02532-3890
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-365-4030
-🗺 https://maps.google.com/?q=41.58220,-72.51338
 
 138. GATEWAY SCHOOL BASED HLTH CENTER
 12 Littleville Rd, Huntington, MA, 01050-9761
@@ -1066,7 +930,6 @@
 🌐 https://www.hchcweb.org
 🏥 Services: Primary Care
 📞 413-667-0142
-🗺 https://maps.google.com/?q=42.25074,-72.87022
 
 139. HUNTINGTON HEALTH CENTER
 73 Russell Rd, Huntington, MA, 01050-9777
@@ -1074,7 +937,6 @@
 🌐 https://www.hchcweb.org
 🏥 Services: Primary Care
 📞 413-667-3009
-🗺 https://maps.google.com/?q=42.22442,-72.87096
 
 140. CHP Lee Family Practice
 11 Quarry Hill Rd, Lee, MA, 01238-9645
@@ -1082,7 +944,6 @@
 🌐 https://www.chpberkshires.org/
 🏥 Services: Primary Care
 📞 413-243-0536
-🗺 https://maps.google.com/?q=42.28199,-73.25272
 
 141. CHP Great Barrington Family Health and Dental Center
 444 Stockbridge Rd, Great Barrington, MA, 01230-1295
@@ -1090,14 +951,12 @@
 🌐 https://www.chpberkshires.org/
 🏥 Services: Primary Care
 📞 413-528-8580
-🗺 https://maps.google.com/?q=42.21944,-73.34236
 
 142. CHP Berkshire Pediatrics
 777 North St, Pittsfield, MA, 01201-4147
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 413-499-8531
-🗺 https://maps.google.com/?q=42.46062,-73.24894
 
 143. CHP Adams Family Medicine
 19 Depot Street, Adams, MA, 01220-1856
@@ -1105,14 +964,12 @@
 🌐 https://www.chpberkshires.org
 🏥 Services: Primary Care
 📞 413-307-6044
-🗺 https://maps.google.com/?q=42.62369,-73.11847
 
 144. Fair Haven Community Health Care at 374 Grand Avenue Building B
 43 Foundry Ave Ste 110, Waltham, MA, 02453-8313
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-777-7411
-🗺 https://maps.google.com/?q=41.30830,-72.90224
 
 145. Zinberg Clinic
 1493 Cambridge Street, Cambridge, MA 02139-1099

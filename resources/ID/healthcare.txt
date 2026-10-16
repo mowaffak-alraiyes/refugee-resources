@@ -6,7 +6,6 @@
 🌐 https://www.trhs.org
 🏥 Services: Primary Care
 📞 208-466-7869
-🗺 https://maps.google.com/?q=43.61202,-116.20379
 
 2. Boise Medical/ Mental Health (Downtown)
 300 S   23rd St, Boise, ID, 83702-4901
@@ -14,14 +13,12 @@
 🌐 https://www.trhs.org
 🏥 Services: Primary Care; Mental health
 📞 208-344-3512
-🗺 https://maps.google.com/?q=43.61970,-116.21722
 
 3. New Path Community Housing
 2200 W Fairview Ave, Boise, ID, 83702-6808
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 208-344-3512
-🗺 https://maps.google.com/?q=43.62076,-116.21718
 
 4. Shaw Mountain of Cascadia
 909 E Reserve St, Boise, ID, 83712-6508
@@ -29,7 +26,6 @@
 🌐 https://www.trhs.org
 🏥 Services: Primary Care
 📞 208-466-7869
-🗺 https://maps.google.com/?q=43.61535,-116.18246
 
 5. Terry Reilly Latah Clinic
 848 LA CASSIA DR, BOISE, ID, 83705-2253
@@ -37,7 +33,6 @@
 🌐 https://www.trhs.org
 🏥 Services: Primary Care
 📞 208-344-3512
-🗺 https://maps.google.com/?q=43.59579,-116.22819
 
 6. Boise Dental
 2301 N   36th St, Boise, ID, 83703-5207
@@ -45,7 +40,6 @@
 🌐 https://www.trhs.org
 🏥 Services: Primary Care; Dental
 📞 208-336-8801
-🗺 https://maps.google.com/?q=43.64117,-116.23459
 
 7. Skyline Transitional Care Center
 1001 S Hilton St, Boise, ID, 83705-1925
@@ -53,14 +47,12 @@
 🌐 https://www.trhs.org
 🏥 Services: Primary Care
 📞 208-466-7869 x7
-🗺 https://maps.google.com/?q=43.59578,-116.24615
 
 8. Interfaith Sanctuary TR Offices 1, 2, 3
 4306 W State Street, Boise, ID, 83703
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 208-466-7869
-🗺 https://maps.google.com/?q=43.64533,-116.24202
 
 9. Full Circle Health - Emerald
 6565 W Emerald St, Boise, ID, 83704-8737
@@ -68,7 +60,6 @@
 🌐 https://www.fullcircleidaho.org
 🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 208-514-2510
-🗺 https://maps.google.com/?q=43.61175,-116.26304
 
 10. Allumbaugh House
 400 N Allumbaugh St, Boise, ID, 83704-9209
@@ -76,7 +67,6 @@
 🌐 https://www.trhs.org
 🏥 Services: Primary Care
 📞 208-921-4821
-🗺 https://maps.google.com/?q=43.60784,-116.26598
 
 11. Full Circle Health - Boise Pediatrics
 8610 W Overland Rd, Boise, ID, 83709-1645
@@ -84,7 +74,6 @@
 🌐 https://www.fullcircleidaho.org/patients/
 🏥 Services: Primary Care; Pediatrics
 📞 208-954-8711
-🗺 https://maps.google.com/?q=43.59079,-116.29015
 
 12. INDIAN CREEK CENTER
 1504 3rd St N, Nampa, ID, 83687-4035
@@ -92,7 +81,6 @@
 🌐 https://www.trhs.org
 🏥 Services: Primary Care
 📞 208-467-7869
-🗺 https://maps.google.com/?q=43.57987,-116.55200
 
 13. Mobile Van 1
 211 16th Ave N, Nampa, ID, 83687-4058
@@ -100,7 +88,6 @@
 🌐 https://www.trhs.org
 🏥 Services: Primary Care; Migrant health center
 📞 208-467-7654
-🗺 https://maps.google.com/?q=43.57917,-116.55217
 
 14. Nampa Trauma and Resilience Center
 156 McClure Ave, Nampa, ID, 83651-2025
@@ -108,7 +95,6 @@
 🌐 https://www.trhs.org
 🏥 Services: Primary Care
 📞 208-323-9600
-🗺 https://maps.google.com/?q=43.58866,-116.57947
 
 15. CANYON DENTAL
 11136 Moss Ln, Nampa, ID, 83651-8015
@@ -116,21 +102,18 @@
 🌐 https://www.trhs.org
 🏥 Services: Primary Care; Dental
 📞 208-466-0515
-🗺 https://maps.google.com/?q=43.61272,-116.61562
 
 16. Middleton Middle School, Annex A Room 21A
 511 W Main St, Middleton, ID, 83644-5545
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 208-467-4431
-🗺 https://maps.google.com/?q=43.70586,-116.62880
 
 17. Middleton Heights Elementary School, Office 2
 611 Cemetery Rd, Middleton, ID, 83644-5185
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 208-466-7869
-🗺 https://maps.google.com/?q=43.71411,-116.63400
 
 18. Valley Family Health Care - Emmett Medical Clinic and Pharmacy
 207 E   12th St, Emmett, ID, 83617-3626
@@ -138,7 +121,6 @@
 🌐 https://www.vfhc.org
 🏥 Services: Primary Care
 📞 208-365-1065
-🗺 https://maps.google.com/?q=43.86421,-116.49799
 
 19. Melba Elementary, Jr and Sr High School
 521 Carrie Rex Ave, Melba, ID, 83641-5198
@@ -146,7 +128,6 @@
 🌐 https://www.trhs.org
 🏥 Services: Primary Care
 📞 208-495-1011
-🗺 https://maps.google.com/?q=43.37833,-116.52958
 
 20. Melba Medical Dental and Behavioral Health Clinic
 150 2nd St, Melba, ID, 83641-5199
@@ -154,7 +135,6 @@
 🌐 https://www.trhs.org
 🏥 Services: Primary Care
 📞 208-495-1011
-🗺 https://maps.google.com/?q=43.37346,-116.53162
 
 21. Caldwell Cleveland Clinic
 808 Cleveland Blvd, Caldwell, ID, 83605-4149
@@ -162,7 +142,6 @@
 🌐 https://www.trhs.org
 🏥 Services: Primary Care
 📞 208-467-4431
-🗺 https://maps.google.com/?q=43.66384,-116.68972
 
 22. Dearborn Clinic
 524 Cleveland Blvd, Ste 180, Caldwell, ID, 83605-4076
@@ -170,7 +149,6 @@
 🌐 https://www.trhs.org
 🏥 Services: Primary Care
 📞 208-323-9600
-🗺 https://maps.google.com/?q=43.66561,-116.69253
 
 23. Full Circle Health - Caldwell
 315 E Elm St  # 201, Caldwell, ID, 83605-4857
@@ -178,7 +156,6 @@
 🌐 https://www.fullcircleidaho.org
 🏥 Services: Primary Care
 📞 208-514-2528
-🗺 https://maps.google.com/?q=43.65389,-116.69481
 
 24. Farmway Village
 22730 Farmway Rd, Caldwell, ID, 83607-8888
@@ -186,7 +163,6 @@
 🌐 https://www.trhs.org
 🏥 Services: Primary Care
 📞 208-467-4431
-🗺 https://maps.google.com/?q=43.70214,-116.71268
 
 25. MARSING CLINIC
 201 MAIN STREET, MARSING, ID, 83639-5003
@@ -194,14 +170,12 @@
 🌐 https://www.trhs.org
 🏥 Services: Primary Care
 📞 208-896-4159
-🗺 https://maps.google.com/?q=43.54586,-116.80551
 
 26. Hacker Middle School
 550 E Jackson St, Mountain Home, ID, 83647-2824
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 208-587-3988
-🗺 https://maps.google.com/?q=43.13326,-115.68950
 
 27. BENNETT MOUNTAIN HIGH SCHOOL
 560 E Jackson St, Mountain Home, ID, 83647-2824
@@ -209,7 +183,6 @@
 🌐 https://www.desesrtsagehealthcenters.org
 🏥 Services: Primary Care
 📞 208-587-3988
-🗺 https://maps.google.com/?q=43.13327,-115.68812
 
 28. Desert Sage Health Centers
 120 Desert Sage Way, Mountain Home, ID, 83647
@@ -225,7 +198,6 @@
 🌐 https://www.vfhc.org
 🏥 Services: Primary Care
 📞 208-642-9379
-🗺 https://maps.google.com/?q=44.05811,-116.92418
 
 30. Adams County Health Center
 205 NORTH BERKLEY, COUNCIL, ID, 83612
@@ -233,7 +205,6 @@
 🌐 https://www.achcid.org
 🏥 Services: Primary Care
 📞 208-253-4242
-🗺 https://maps.google.com/?q=44.73119,-116.42940
 
 31. Outreach/Enabling and Administration Building
 205 N Berkley St, Council, ID, 83612-5015
@@ -241,21 +212,18 @@
 🌐 https://www.achcid.org
 🏥 Services: Primary Care
 📞 208-253-4242
-🗺 https://maps.google.com/?q=44.73119,-116.42940
 
 32. ACHC Mobile Medical/BH Unit
 205 N Berkley, Council, ID, 83612
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 208-253-4242
-🗺 https://maps.google.com/?q=44.73119,-116.42940
 
 33. FHS BELLEVUE CO. RESPONSE OFFICE
 117 Ash St, Bellevue, ID, 83313-5226
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 208-788-4335
-🗺 https://maps.google.com/?q=43.47029,-114.26245
 
 34. FAMILY HEALTH SERVICES - BUHL HIGH SCHOOL
 1 Indian Territory  RM CR 1, Buhl, ID, 83316
@@ -263,7 +231,6 @@
 🌐 https://www.fhsid.org
 🏥 Services: Primary Care
 📞 208-543-8262
-🗺 https://maps.google.com/?q=42.60656,-114.76150
 
 35. FAMILY HEALTH SERVICES - JEROME MIDDLE SCHOOL
 43 W 2nd S St, Dubois, ID, 83423-7700
@@ -271,7 +238,6 @@
 🌐 https://www.fhsid.org
 🏥 Services: Primary Care
 📞 208-324-8134
-🗺 https://maps.google.com/?q=42.73395,-114.52600
 
 36. FAMILY HEALTH SERVICES - JEROME PIONEER MEDICAL & ADVANCED DENTAL DELIVERY CLINIC
 114 Pioneer Ct, Jerome, ID, 83338-5193
@@ -279,7 +245,6 @@
 🌐 https://www.fhsid.org
 🏥 Services: Primary Care
 📞 208-732-7125
-🗺 https://maps.google.com/?q=42.70692,-114.51717
 
 37. FAMILY HEALTH SERVICES - I.B. PERRINE ELEMENTARY SCHOOL
 452 Caswell Ave W, Twin Falls, ID, 83301-3700
@@ -287,7 +252,6 @@
 🌐 https://www.fhsid.org
 🏥 Services: Primary Care
 📞 208-733-4288
-🗺 https://maps.google.com/?q=42.57556,-114.48790
 
 38. FAMILY HEALTH SERVICES - TWIN FALLS 388 MEDICAL CLINIC
 388 MARTIN ST, TWIN FALLS, ID, 83301-4544
@@ -295,7 +259,6 @@
 🌐 https://www.fhsid.org
 🏥 Services: Primary Care
 📞 208-734-0451
-🗺 https://maps.google.com/?q=42.56904,-114.49160
 
 39. FAMILY HEALTH SERVICES - ADMINISTRATION
 794 Eastland Dr, Twin Falls, ID, 83301-6856
@@ -303,7 +266,6 @@
 🌐 https://www.fhsid.org
 🏥 Services: Primary Care
 📞 208-734-3312 x213
-🗺 https://maps.google.com/?q=42.55792,-114.43938
 
 40. FAMILY HEALTH SERVICES - BRIDGE ACADEMY
 616 Eastland Drive  RM C, Twin Falls, ID, 83301-6846
@@ -311,7 +273,6 @@
 🌐 https://www.fhsid.org
 🏥 Services: Primary Care
 📞 208-737-5282
-🗺 https://maps.google.com/?q=42.55611,-114.44010
 
 41. Challis Elementary SBHC
 1000 E Bluff Ave  RM 25, Challis, ID, 83226
@@ -319,7 +280,6 @@
 🌐 https://www.d181.k12.id.us/
 🏥 Services: Primary Care
 📞 208-879-2439
-🗺 https://maps.google.com/?q=44.50717,-114.22927
 
 42. HEALTH WEST - ABERDEEN CHC
 330 N Main Street, Aberdeen, ID, 83210
@@ -327,7 +287,6 @@
 🌐 https://www.healthwestinc.org
 🏥 Services: Primary Care
 📞 208-397-4126
-🗺 https://maps.google.com/?q=42.94765,-112.83842
 
 43. AMERICAN FALLS ACADEMY
 598 Lincoln St, American Falls, ID, 83211
@@ -335,7 +294,6 @@
 🌐 https://www.healthwestinc.org
 🏥 Services: Primary Care
 📞 208-226-5008
-🗺 https://maps.google.com/?q=42.77316,-112.85950
 
 44. HEALTH WEST - CHUBBUCK CHC
 880 W Quinn Rd, Chubbuck, ID, 83202-2454
@@ -343,7 +301,6 @@
 🌐 https://www.healthwestinc.org
 🏥 Services: Primary Care
 📞 208-238-2000
-🗺 https://maps.google.com/?q=42.90605,-112.46853
 
 45. HAWTHORNE MIDDLE SCHOOL
 1025 W. Eldredge Rd, Pocatello, ID, 83201-5527
@@ -351,7 +308,6 @@
 🌐 https://www.healthwestinc.org
 🏥 Services: Primary Care
 📞 208-425-2489
-🗺 https://maps.google.com/?q=42.89448,-112.47186
 
 46. NEW HORIZON HIGH SCHOOL
 955 W. Alameda Rd, Pocatello, ID, 83201
@@ -359,7 +315,6 @@
 🌐 https://www.healthwestinc.org
 🏥 Services: Primary Care
 📞 208-425-2489
-🗺 https://maps.google.com/?q=42.89087,-112.47033
 
 47. LEWIS AND CLARK ELEMENTARY SCHOOL
 800 Grace Dr, Pocatello, ID, 83201-4918
@@ -367,7 +322,6 @@
 🌐 https://www.healthwestinc.org
 🏥 Services: Primary Care
 📞 208-425-2489
-🗺 https://maps.google.com/?q=42.88951,-112.45999
 
 48. JEFFERSON ELEMENTARY SCHOOL
 1455 Gwen Dr Rm 31, Pocatello, ID, 83204-4860
@@ -375,7 +329,6 @@
 🌐 https://www.healthwestinc.org
 🏥 Services: Primary Care
 📞 208-425-2489
-🗺 https://maps.google.com/?q=42.86183,-112.47022
 
 49. IRVING MIDDLE SCHOOL
 911 N Grant Ave, Pocatello, ID, 83204-2847
@@ -383,7 +336,6 @@
 🌐 https://www.healthwestinc.org
 🏥 Services: Primary Care
 📞 208-425-2489
-🗺 https://maps.google.com/?q=42.86532,-112.46207
 
 50. HEALTH WEST - CITY CENTER CHC
 1001 N 7th Ave Ste 135, Pocatello, ID, 83201-5761
@@ -391,7 +343,6 @@
 🌐 https://www.healthwestinc.org
 🏥 Services: Primary Care
 📞 208-425-2489
-🗺 https://maps.google.com/?q=42.87469,-112.44997
 
 51. POCATELLO HIGH SCHOOL
 325 N Arthur Ave, Pocatello, ID, 83204-3101
@@ -399,7 +350,6 @@
 🌐 https://www.healthwestinc.org
 🏥 Services: Primary Care
 📞 208-425-2489
-🗺 https://maps.google.com/?q=42.86276,-112.45398
 
 52. HEALTH WEST - POCATELLO CHC
 1000 N 8th Ave, Pocatello, ID, 83201-5757
@@ -407,7 +357,6 @@
 🌐 https://www.healthwestinc.org
 🏥 Services: Primary Care
 📞 208-232-6260
-🗺 https://maps.google.com/?q=42.87556,-112.44848
 
 53. GREENACRES ELEMENTARY SCHOOL
 1250 E Oak St, Pocatello, ID, 83201-3940
@@ -415,14 +364,12 @@
 🌐 https://www.healthwestinc.org
 🏥 Services: Primary Care
 📞 208-425-2489
-🗺 https://maps.google.com/?q=42.87737,-112.43725
 
 54. CHAS Behavioral Health Center – Lewiston
 1534 Idaho St, Lewiston, ID, 83501-2573
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 208-848-8300
-🗺 https://maps.google.com/?q=46.41521,-117.00984
 
 55. CHAS North Idaho Mobile Medical.
 2337 3rd Ave N, Lewiston, ID, 83501-1625
@@ -430,7 +377,6 @@
 🌐 https://www.chas.org
 🏥 Services: Primary Care
 📞 208-848-8300
-🗺 https://maps.google.com/?q=46.42358,-116.99755
 
 56. CENTURY HIGH SCHOOL
 5830 W Blackwell Blvd, Spirit Lake, ID, 83869-0138
@@ -438,35 +384,30 @@
 🌐 https://www.healthwestinc.org
 🏥 Services: Primary Care
 📞 208-425-2489
-🗺 https://maps.google.com/?q=42.80781,-112.37230
 
 57. Grand Peaks Medical - Dubois
 332 W Main St, Dubois, ID, 83423
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 208-374-5216
-🗺 https://maps.google.com/?q=44.17662,-112.23431
 
 58. Grand Peaks Behavioral Health - Idaho Falls
 2454 N 25th E  STE 102, Idaho Falls, ID, 83401
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Mental health; Dental
 📞 208-612-6100
-🗺 https://maps.google.com/?q=43.51774,-112.03346
 
 59. Grand Peaks Behavioral Health-Jefferson High School
 529 N 3470 E, Menan, ID, 83434-5027
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 208-754-4550
-🗺 https://maps.google.com/?q=43.70284,-112.00726
 
 60. Grand Peaks Behavioral Health-Harwood Elementary
 200 W 3rd N, Rigby, ID, 83442-1107
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 208-745-7613
-🗺 https://maps.google.com/?q=43.67842,-111.91765
 
 61. Community Family Clinic Rigby
 4002 E. 397 N. STE 3, Rigby, ID, 83442
@@ -474,7 +415,6 @@
 🌐 https://communitycouncilofidaho.org
 🏥 Services: Primary Care
 📞 208-454-1652
-🗺 https://maps.google.com/?q=43.68391,-111.90335
 
 62. Latah Community Health
 803 S Main St Ste 120, Moscow, ID, 83843-2695
@@ -482,35 +422,30 @@
 🌐 https://chas.org/
 🏥 Services: Primary Care
 📞 208-848-8300
-🗺 https://maps.google.com/?q=46.72778,-117.00143
 
 63. Grand Peaks Behavioral Health-Madison Middle School
 575 W 7th S, Rexburg, ID, 83440-9681
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 208-359-3320
-🗺 https://maps.google.com/?q=43.81163,-111.80107
 
 64. Grand Peaks Behavioral Health-Kershaw Intermediate School
 610 E 3rd N, Sugar City, ID, 83448-1309
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 208-356-0241
-🗺 https://maps.google.com/?q=43.87643,-111.73967
 
 65. Grand Peaks Behavioral Health-South Fremont Junior High
 550 N 1st W, Saint Anthony, ID, 83445-1151
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 208-624-7880
-🗺 https://maps.google.com/?q=43.97220,-111.68450
 
 66. Grand Peaks Medical, Behavioral Health, Pharmacy-St. Anthony
 335 E Main St.  STE 1,3,4, Saint Anthony, ID, 83445-1546
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 208-624-4100
-🗺 https://maps.google.com/?q=43.96670,-111.67775
 
 67. Eastern Idaho Public Health
 1250 Hollipark Dr, Idaho Falls, ID 83401-6217

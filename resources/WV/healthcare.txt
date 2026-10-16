@@ -5,21 +5,18 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-342-8513
-🗺 https://maps.google.com/?q=38.34669,-81.62853
 
 2. Valley Health SCP Charleston 108
 830 Pennsylvania Ave, Ste 108, Charleston, WV, 25302-3389
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-982-7031
-🗺 https://maps.google.com/?q=38.35918,-81.63672
 
 3. FamilyCare Health Centers - Pennsylvania Ave
 830 Pennsylvania Ave STE 402, Charleston, WV, 25302-3390
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-760-6336
-🗺 https://maps.google.com/?q=38.35919,-81.63673
 
 4. FamilyCare Health Center - Children's Medicine Center
 800 Pennsylvania Ave, Charleston, WV, 25302-3351
@@ -27,14 +24,12 @@
 🌐 https://www.familycarewv.org
 🏥 Services: Primary Care
 📞 304-414-1880
-🗺 https://maps.google.com/?q=38.35905,-81.63818
 
 5. FamilyCare Health Centers - West Side Middle School
 812 Park Ave Rm 035, Charleston, WV, 25302-2524
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 681-265-5085
-🗺 https://maps.google.com/?q=38.36784,-81.64936
 
 6. FamilyCare Health Center - Mary C. Snow West Side Elementary
 100 Florida St, Charleston, WV, 25302
@@ -42,7 +37,6 @@
 🌐 https://www.familycarewv.org
 🏥 Services: Primary Care
 📞 304-414-4015
-🗺 https://maps.google.com/?q=38.36462,-81.66128
 
 7. Recovery Point of Charleston
 501 Stockton St, Charleston, WV, 25387-2429
@@ -50,28 +44,24 @@
 🌐 https://www.familycarewv.org
 🏥 Services: Primary Care
 📞 304-633-5993
-🗺 https://maps.google.com/?q=38.36991,-81.66302
 
 8. Valley Health- Kanawha City
 4407 Maccorkle Ave SE Bldg, Charleston, WV, 25304-2541
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-925-0392
-🗺 https://maps.google.com/?q=38.32321,-81.58505
 
 9. CCHS Mobile Health Clinic
 104 Alex Ln, Charleston, WV, 25304-2952
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 681-341-4014
-🗺 https://maps.google.com/?q=38.30432,-81.56566
 
 10. FamilyCare Health Centers - South Charleston
 4513 Maccorkle Ave SW, South Charleston, WV, 25309-1408
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-757-6999
-🗺 https://maps.google.com/?q=38.35581,-81.72514
 
 11. Indian Health Center
 6100 Sissonville Dr, Sissonville, WV, 25312-9444
@@ -79,14 +69,12 @@
 🌐 https://www.cabincreekhealth.com
 🏥 Services: Primary Care
 📞 304-984-1576
-🗺 https://maps.google.com/?q=38.46701,-81.66893
 
 12. FamilyCare Health Center - Cross Lanes
 5161 Washington St W, Cross Lanes, WV, 25313-1535
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-757-6999
-🗺 https://maps.google.com/?q=38.42039,-81.79023
 
 13. Southern West Virginia Health System
 1563 Sand Plant Rd, Charleston, WV, 25309-6120
@@ -94,14 +82,12 @@
 🌐 https://swvhs.org
 🏥 Services: Primary Care
 📞 304-824-5806
-🗺 https://maps.google.com/?q=38.27263,-81.78601
 
 14. FamilyCare Health Center - St. Albans Mobile
 12 Kanawha Ter, Saint Albans, WV, 25177-2750
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-201-1130
-🗺 https://maps.google.com/?q=38.38588,-81.83869
 
 15. RIVERSIDE HEALTH CENTER
 1 Warrior Way STE 103, Belle, WV, 25015-1356
@@ -109,7 +95,6 @@
 🌐 https://www.cabincreekhealth.com
 🏥 Services: Primary Care
 📞 304-949-3591
-🗺 https://maps.google.com/?q=38.20689,-81.51214
 
 16. Mustang Health Center
 267 Midway Rd, Alum Creek, WV, 25003-9591
@@ -117,14 +102,12 @@
 🌐 https://swvhs.org
 🏥 Services: Primary Care
 📞 304-756-1500
-🗺 https://maps.google.com/?q=38.26055,-81.83691
 
 17. Pioneer Health Center
 1st and Brannon Street, East Bank, WV, 25067-9752
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.cabincreekhealth.com
 🏥 Services: Primary Care
-🗺 https://maps.google.com/?q=38.21420,-81.44990
 📞 304-583-7295
 
 18. Cubs Wellness Center/Sharon Dawes Elementary
@@ -132,7 +115,6 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-595-3323
-🗺 https://maps.google.com/?q=38.15202,-81.44780
 
 19. Cabin Creek Health Center, Inc
 5722 Cabin Creek Road, Dawes, WV, 25054
@@ -140,14 +122,12 @@
 🌐 https://www.cabincreekhealth.com
 🏥 Services: Primary Care
 📞 304-595-5006
-🗺 https://maps.google.com/?q=38.14114,-81.45323
 
 20. Valley Health- Teays Pediatrics
 111 Great Teays Blvd, Scott Depot, WV, 25560-9548
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-757-8459
-🗺 https://maps.google.com/?q=38.45196,-81.93625
 
 21. Clendenin Health Center
 107 Koontz Avenue STE 200, Clendenin, WV, 25045
@@ -155,7 +135,6 @@
 🌐 https://www.cabincreekhealth.com
 🏥 Services: Primary Care
 📞 304-548-7272
-🗺 https://maps.google.com/?q=38.48950,-81.34628
 
 22. FamilyCare Health Center - Hurricane
 3911 TEAYS VALLEY RD, HURRICANE, WV, 25526-9604
@@ -163,7 +142,6 @@
 🌐 https://www.familycarewv.org
 🏥 Services: Primary Care
 📞 304-757-4845
-🗺 https://maps.google.com/?q=38.44718,-81.95034
 
 23. FamilyCare Health Center SBHC - Winfield High School
 11268 Winfield Rd, Winfield, WV, 25213-7935
@@ -171,7 +149,6 @@
 🌐 https://www.familycarewv.org
 🏥 Services: Primary Care
 📞 304-586-0001
-🗺 https://maps.google.com/?q=38.53715,-81.87845
 
 24. FamilyCare Health Center - Putnam Career & Technical Center
 300 Roosevelt Blvd., Eleanor, WV, 25070
@@ -179,7 +156,6 @@
 🌐 https://www.familycarewv.org
 🏥 Services: Primary Care
 📞 304-586-0001
-🗺 https://maps.google.com/?q=38.53507,-81.92358
 
 25. FamilyCare HealthCenter SBHC - George Washington Elementary
 Eleanor Cir, Eleanor, WV, 25070
@@ -187,14 +163,12 @@ Eleanor Cir, Eleanor, WV, 25070
 🌐 https://www.familycarewv.org
 🏥 Services: Primary Care
 📞 304-586-0001
-🗺 https://maps.google.com/?q=38.53784,-81.92521
 
 26. FamilyCare Health Centers - Poca School Mobile Unit
 503 Roosevelt Blvd, Eleanor, WV, 25070-0163
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-586-0001
-🗺 https://maps.google.com/?q=38.53595,-81.92855
 
 27. Duval Middle School Health Center
 5304 Straight Fork Rd., Griffithsville, WV, 25521-9504
@@ -202,7 +176,6 @@ Eleanor Cir, Eleanor, WV, 25070
 🌐 https://swvhs.org
 🏥 Services: Primary Care
 📞 304-524-9241
-🗺 https://maps.google.com/?q=38.23876,-81.99303
 
 28. Herbert Hoover Health Center
 275 Elk River Road, Clendenin, WV, 25045
@@ -210,28 +183,24 @@ Eleanor Cir, Eleanor, WV, 25070
 🌐 https://www.cabincreekhealth.com
 🏥 Services: Primary Care
 📞 304-548-3264
-🗺 https://maps.google.com/?q=38.50367,-81.25633
 
 29. Bobcat Health Center
 8130 Court Ave, Hamlin, WV, 25523-1434
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-648-1564
-🗺 https://maps.google.com/?q=38.27902,-82.10095
 
 30. FamilyCare Health Center SBHC - Buffalo Elementary School
 19366 Buffalo Rd, Buffalo, WV, 25033-7468
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-586-0001
-🗺 https://maps.google.com/?q=38.61017,-81.98786
 
 31. VALLEY HEALTH- MILTON
 220 Johns Creek Rd, Milton, WV, 25541
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-743-1407 x1701
-🗺 https://maps.google.com/?q=38.43691,-82.12155
 
 32. Clay High School Wellness Center
 1 Panther Drive, Clay, WV, 25043-0729
@@ -239,7 +208,6 @@ Eleanor Cir, Eleanor, WV, 25070
 🌐 https://www.ccwv.org
 🏥 Services: Primary Care
 📞 304-587-2867
-🗺 https://maps.google.com/?q=38.44589,-81.09287
 
 33. Guyan Valley Wellness Center
 5322 Mcclellan Hwy, Branchland, WV, 25506-8725
@@ -247,7 +215,6 @@ Eleanor Cir, Eleanor, WV, 25070
 🌐 https://swvhs.org
 🏥 Services: Primary Care
 📞 304-824-5707
-🗺 https://maps.google.com/?q=38.24970,-82.18998
 
 34. Community Care of Clay
 122 Center St, Clay, WV, 25043-7046
@@ -255,7 +222,6 @@ Eleanor Cir, Eleanor, WV, 25070
 🌐 https://www.ccwv.org
 🏥 Services: Primary Care
 📞 304-587-7301
-🗺 https://maps.google.com/?q=38.47460,-81.07920
 
 35. VALLEY HEALTH - CABELL MIDLAND HIGH SCHOOL
 11315 US Route 60, Ona, WV, 25545-7050
@@ -263,14 +229,12 @@ Eleanor Cir, Eleanor, WV, 25070
 🌐 https://www.valleyhealth.org
 🏥 Services: Primary Care
 📞 304-743-7495
-🗺 https://maps.google.com/?q=38.42678,-82.20669
 
 36. Ripley Family Care
 512A Church St S, Ripley, WV, 25271
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-372-1033
-🗺 https://maps.google.com/?q=38.80349,-81.69860
 
 37. Salt Rock Medical Center
 5490 State Route 10, Salt Rock, WV, 25559-9736
@@ -278,21 +242,18 @@ Eleanor Cir, Eleanor, WV, 25070
 🌐 https://swvhs.org
 🏥 Services: Primary Care
 📞 304-824-2073
-🗺 https://maps.google.com/?q=38.32336,-82.22257
 
 38. Jackson County School Based Wellness Center
 562 Charleston Dr, Ripley, WV, 25271-1533
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-372-7341
-🗺 https://maps.google.com/?q=38.81015,-81.70261
 
 39. Camden Family Health - Ansted
 101 Florence St, Ansted, WV, 25812
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-226-5725 x131
-🗺 https://maps.google.com/?q=38.13671,-81.09860
 
 40. CRHS Tiger Center for Health
 200 Vance Street, Chapmanville, WV, 25508-9422
@@ -300,14 +261,12 @@ Eleanor Cir, Eleanor, WV, 25070
 🌐 https://swvhs.org
 🏥 Services: Primary Care
 📞 304-855-0245
-🗺 https://maps.google.com/?q=37.97551,-82.01950
 
 41. Coalfield Health Center - Main Street
 555 Main St, Chapmanville, WV, 25508
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-688-9901
-🗺 https://maps.google.com/?q=37.97267,-82.01723
 
 42. FamilyCare Health Center - Barboursville
 #2 Chateau Lane, Barboursville, WV, 25504-1626
@@ -315,7 +274,6 @@ Eleanor Cir, Eleanor, WV, 25070
 🌐 https://www.familycarewv.org
 🏥 Services: Primary Care
 📞 304-736-9662
-🗺 https://maps.google.com/?q=38.41718,-82.25602
 
 43. VALLEY HEALTH - HARTS INTERMEDIATE SCHOOL
 1246 Mcclellan Hwy, Harts, WV, 25524-9524
@@ -323,21 +281,18 @@ Eleanor Cir, Eleanor, WV, 25070
 🌐 https://www.valleyhealth.org
 🏥 Services: Primary Care
 📞 304-855-4881
-🗺 https://maps.google.com/?q=38.03745,-82.13486
 
 44. New River Health SBHC - Fayetteville
 515 W Maple Ave, Fayetteville, WV, 25840-1419
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-465-2258
-🗺 https://maps.google.com/?q=38.04524,-81.11366
 
 45. NRHA Mobile Unit #1
 497 Mall Rd, Oak Hill, WV, 25901-6115
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-574-2076
-🗺 https://maps.google.com/?q=38.01300,-81.12688
 
 46. Big Otter Elementary Wellness Center
 59 Ossia Rd, Duck, WV, 25063-8500
@@ -345,7 +300,6 @@ Eleanor Cir, Eleanor, WV, 25070
 🌐 https://www.primcaresys.org
 🏥 Services: Primary Care
 📞 304-286-3111
-🗺 https://maps.google.com/?q=38.58701,-81.03419
 
 47. New River Health SBHC - New River Intermediate
 262 Oyler Ave, Oak Hill, WV, 25901-2639
@@ -353,7 +307,6 @@ Eleanor Cir, Eleanor, WV, 25070
 🌐 http://www.nrhawv.org/
 🏥 Services: Primary Care
 📞 304-465-1378
-🗺 https://maps.google.com/?q=37.98797,-81.14594
 
 48. Camden Family Health Zela Elementary School
 165 Country Rd, Summersville, WV, 26651-4018
@@ -361,14 +314,12 @@ Eleanor Cir, Eleanor, WV, 25070
 🌐 https://www.camdenfamilyhealth.com
 🏥 Services: Primary Care
 📞 304-226-5725
-🗺 https://maps.google.com/?q=38.28596,-80.95064
 
 49. Midland Trail Elementary School
 246 Ronceverte Elementary School Dr, Ronceverte, WV, 24970-9740
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-658-3929
-🗺 https://maps.google.com/?q=38.11387,-80.99651
 
 50. Midland Trail Health Center
 26737 Midland Trl, Hico, WV, 25854
@@ -376,7 +327,6 @@ Eleanor Cir, Eleanor, WV, 25070
 🌐 http://www.rmchealth.org/
 🏥 Services: Primary Care
 📞 304-438-6188
-🗺 https://maps.google.com/?q=38.11168,-80.99705
 
 51. Gilmore Elementary School
 7412 Parkersburg Rd, Sandyville, WV, 25275-7508
@@ -384,7 +334,6 @@ Eleanor Cir, Eleanor, WV, 25070
 🌐 https://coplinhealth.com/
 🏥 Services: Primary Care
 📞 304-273-3511
-🗺 https://maps.google.com/?q=38.91298,-81.65959
 
 52. Mountain Laurel Integrated Health-Logan
 174 LMAMH Center Road, Logan, WV, 25601
@@ -392,7 +341,6 @@ Eleanor Cir, Eleanor, WV, 25070
 🌐 https://www.mlih.org
 🏥 Services: Primary Care
 📞 304-792-7130
-🗺 https://maps.google.com/?q=37.84238,-81.97189
 
 53. Logan Wildcat Health Center
 1 Wildcat Way, Logan, WV, 25601
@@ -400,14 +348,12 @@ Eleanor Cir, Eleanor, WV, 25070
 🌐 https://swvhs.org
 🏥 Services: Primary Care
 📞 304-688-9949
-🗺 https://maps.google.com/?q=37.85186,-81.99571
 
 54. Valley Health Pea Ridge
 4270 US Route 60, Huntington, WV, 25705
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-525-3334
-🗺 https://maps.google.com/?q=38.41205,-82.36544
 
 55. VALLEY HEALTH - EAST HUNTINGTON
 85 Donohoe Dr, Huntington, WV, 25705
@@ -415,14 +361,12 @@ Eleanor Cir, Eleanor, WV, 25070
 🌐 https://www.valleyhealth.org
 🏥 Services: Primary Care
 📞 304-525-3334
-🗺 https://maps.google.com/?q=38.41056,-82.37266
 
 56. Minnie Hamilton Health System - Arnoldsburg
 80 Spring Run Rd, Arnoldsburg, WV, 25234-7096
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-354-5995
-🗺 https://maps.google.com/?q=38.78790,-81.13182
 
 57. MHHCC ARNOLDSBURG SCHOOL SBH
 90 Spring Run Rd, Arnoldsburg, WV, 25234-7096
@@ -430,7 +374,6 @@ Eleanor Cir, Eleanor, WV, 25070
 🌐 https://www.mhhcc.com
 🏥 Services: Primary Care
 📞 304-655-8616
-🗺 https://maps.google.com/?q=38.78769,-81.13032
 
 58. VALLEY HEALTH - CARL JOHNSON
 307 5th Ave, Huntington, WV, 25702-1815
@@ -438,7 +381,6 @@ Eleanor Cir, Eleanor, WV, 25070
 🌐 https://www.valleyhealth.org
 🏥 Services: Primary Care; Migrant health center
 📞 304-529-4734
-🗺 https://maps.google.com/?q=38.42748,-82.38721
 
 59. Ravenswood Grade School
 1 Grade School Road, Ravenswood, WV, 26164-5349
@@ -446,21 +388,18 @@ Eleanor Cir, Eleanor, WV, 25070
 🌐 https://coplinhealth.com/
 🏥 Services: Primary Care
 📞 304-273-5391
-🗺 https://maps.google.com/?q=38.94406,-81.73691
 
 60. AccessHealth Liberty High School-Based Clinic
 700 Coal River Rd, Glen Daniel, WV, 25844-9570
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-252-8555
-🗺 https://maps.google.com/?q=37.79465,-81.33502
 
 61. Coalfield Health Center Holden Road
 1690 Holden Rd  STE C, Logan, WV, 25601-7026
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-239-2147
-🗺 https://maps.google.com/?q=37.83317,-82.03640
 
 62. VALLEY HEALTH - HIGHLAWN
 2585 3rd Ave, Huntington, WV, 25703-1642
@@ -468,14 +407,12 @@ Eleanor Cir, Eleanor, WV, 25070
 🌐 https://www.valleyhealth.org
 🏥 Services: Primary Care
 📞 304-781-5138
-🗺 https://maps.google.com/?q=38.42767,-82.40989
 
 63. River Valley Family Care
 606 Washington St, Ravenswood, WV, 26164-1730
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-273-1033
-🗺 https://maps.google.com/?q=38.95552,-81.76769
 
 64. Henry J. Kaiser Elementary School
 803 Kaiser Ave, Ravenswood, WV, 26164-1224
@@ -483,14 +420,12 @@ Eleanor Cir, Eleanor, WV, 25070
 🌐 https://coplinhealth.com/
 🏥 Services: Primary Care
 📞 304-273-2692
-🗺 https://maps.google.com/?q=38.96058,-81.76143
 
 65. OVP Huntington
 601 20th St, Huntington, WV, 25703-1512
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 740-451-4000
-🗺 https://maps.google.com/?q=38.42143,-82.42236
 
 66. VALLEY HEALTH - A WOMAN'S PLACE
 1630 13th Ave, Huntington, WV, 25701-3812
@@ -498,21 +433,18 @@ Eleanor Cir, Eleanor, WV, 25070
 🌐 https://www.valleyhealth.org
 🏥 Services: Primary Care
 📞 304-697-2014
-🗺 https://maps.google.com/?q=38.41106,-82.42701
 
 67. New River Health - Summersville
 315 Fairview Heights Rd, Summersville, WV, 26651-1086
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-469-2905
-🗺 https://maps.google.com/?q=38.29324,-80.83491
 
 68. AccessHealth Cranberry Prosperity School-Based Clinic
 4575 Robert C Byrd Dr, Beckley, WV, 25801-8141
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-252-8324
-🗺 https://maps.google.com/?q=37.82123,-81.19122
 
 69. Valley Health - Wayne
 42 Mcginnis Dr, Wayne, WV, 25570-9553
@@ -520,7 +452,6 @@ Eleanor Cir, Eleanor, WV, 25070
 🌐 http://valleyhealth.org/
 🏥 Services: Primary Care
 📞 304-272-5136
-🗺 https://maps.google.com/?q=38.25283,-82.43137
 
 70. MHHCC CALHOUN MIDDLE/ HIGH SBH
 50 Underwood Cir, Mount Zion, WV, 26151-8556
@@ -528,7 +459,6 @@ Eleanor Cir, Eleanor, WV, 25070
 🌐 https://www.mhhcc.com
 🏥 Services: Primary Care
 📞 304-354-6851
-🗺 https://maps.google.com/?q=38.83746,-81.11317
 
 71. VALLEY HEALTH - 10TH STREET
 540 10th St, Huntington, WV, 25701-2217
@@ -536,7 +466,6 @@ Eleanor Cir, Eleanor, WV, 25070
 🌐 https://www.valleyhealth.org
 🏥 Services: Primary Care
 📞 304-399-3366
-🗺 https://maps.google.com/?q=38.41866,-82.44116
 
 72. VALLEY HEALTH - SOUTHSIDE
 723 9th Ave, Huntington, WV, 25701-2718
@@ -544,28 +473,24 @@ Eleanor Cir, Eleanor, WV, 25070
 🌐 https://www.valleyhealth.org
 🏥 Services: Primary Care
 📞 304-529-0645
-🗺 https://maps.google.com/?q=38.41282,-82.44439
 
 73. Valley Health Seventh Avenue
 703 7th Avenue  STE 124, Huntington, WV, 25701
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-526-3387
-🗺 https://maps.google.com/?q=38.41562,-82.44572
 
 74. Kathleen & John Faltis Child Shelter
 477 Scenic Highway, Summersville, WV, 26651-4320
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-872-8190
-🗺 https://maps.google.com/?q=38.36683,-80.81433
 
 75. VALLEY HEALTH - HARMONY HOUSE
 627 4th Ave, Huntington, WV, 25701-1320
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Health Care for the Homeless
 📞 304-523-2764
-🗺 https://maps.google.com/?q=38.41980,-82.44777
 
 🌐 http://www.valleyhealth.org
 
@@ -574,28 +499,24 @@ Eleanor Cir, Eleanor, WV, 25070
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-525-3334
-🗺 https://maps.google.com/?q=38.86870,-82.12612
 
 77. New River Health Association - Sunset
 211 Sunset Dr, Beckley, WV, 25801-2825
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-469-2905
-🗺 https://maps.google.com/?q=37.79135,-81.20456
 
 78. AccessHealth Stanaford Elementary Clinic
 950 Stanaford Rd, Beckley, WV, 25801-8047
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-252-8324
-🗺 https://maps.google.com/?q=37.81243,-81.15392
 
 79. AccessHealth IT Building
 350 Carriage Dr, Beckley, WV, 25801-2891
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-252-8555
-🗺 https://maps.google.com/?q=37.78813,-81.19966
 
 80. AccessHealth Speciality Services
 410 Carriage Dr, Beckley, WV, 25801-2806
@@ -603,49 +524,42 @@ Eleanor Cir, Eleanor, WV, 25070
 🌐 http://www.accesshealthwv.com
 🏥 Services: Primary Care
 📞 304-255-1541
-🗺 https://maps.google.com/?q=37.78828,-81.19860
 
 81. COMMUNITY HEALTH SYSTEMS
 252 Rural Acres Dr, Beckley, WV, 25801-3503
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-255-6800
-🗺 https://maps.google.com/?q=37.79146,-81.17905
 
 82. Woodrow Wilson School-Based Clinic
 400 Stanaford Rd, Beckley, WV, 25801-3144
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-461-3341
-🗺 https://maps.google.com/?q=37.79862,-81.16404
 
 83. AccessHealth Professional Park Clinic
 224 Professional Park, Beckley, WV, 25801-3624
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-252-8551
-🗺 https://maps.google.com/?q=37.79425,-81.17072
 
 84. AccessHealth Beckley Pediatrics
 30 Mallard Ct, Beckley, WV, 25801-3664
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-252-8555
-🗺 https://maps.google.com/?q=37.79932,-81.16028
 
 85. Frametown Elementary School Wellness Center
 65 Jeannie Ellis Drive, Frametown, WV, 26623
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-364-5526
-🗺 https://maps.google.com/?q=38.63814,-80.85375
 
 86. Beckley Stratton School-Based Clinic
 401 Grey Flats Rd, Beckley, WV, 25801-5876
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-461-3304
-🗺 https://maps.google.com/?q=37.78347,-81.15399
 
 87. New River Health - Sophia
 302 West Main Street, Sophia, WV, 25921
@@ -653,7 +567,6 @@ Eleanor Cir, Eleanor, WV, 25070
 🌐 https://www.newriverhealthwv.com/
 🏥 Services: Primary Care
 📞 304-683-4304
-🗺 https://maps.google.com/?q=37.70769,-81.25310
 
 88. MINNIE HAMILTON HEALTH CARE CENTER
 186 Hospital Dr, Grantsville, WV, 26147-7100
@@ -661,7 +574,6 @@ Eleanor Cir, Eleanor, WV, 25070
 🌐 https://www.mhhcc.com
 🏥 Services: Primary Care
 📞 304-354-9244
-🗺 https://maps.google.com/?q=38.92255,-81.09367
 
 89. CALHOUN MEDICAL/DENTAL CLINIC
 186 Hospital Dr BLDG 3, Grantsville, WV, 26147-7100
@@ -669,14 +581,12 @@ Eleanor Cir, Eleanor, WV, 25070
 🌐 https://www.mhhcc.com
 🏥 Services: Primary Care
 📞 304-354-6144
-🗺 https://maps.google.com/?q=38.92352,-81.09205
 
 90. New River Health SBHC - Independence Middle School
 800 Independence Rd, Sophia, WV, 25920
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-469-2905
-🗺 https://maps.google.com/?q=37.69722,-81.22573
 
 91. Calhoun Gilmer Career Center
 5260 E Little Kanawha Hwy, Grantsville, WV, 26147-8167
@@ -684,21 +594,18 @@ Eleanor Cir, Eleanor, WV, 25070
 🌐 https://www.mhhcc.com
 🏥 Services: Primary Care
 📞 304-354-6151
-🗺 https://maps.google.com/?q=38.89973,-81.01404
 
 92. Wirt County Schools Wellness Center
 461 School View St, Elizabeth, WV, 26143
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-275-3117
-🗺 https://maps.google.com/?q=39.05772,-81.39235
 
 93. Wirt County High School
 431 Mulberry St., Elizabeth, WV, 26143
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-275-4241
-🗺 https://maps.google.com/?q=39.06223,-81.39157
 
 94. AccessHealth Daniels Clinic
 RT 3 & 19 2157 RITTER DR, DANIELS, WV, 25832-9371
@@ -706,14 +613,12 @@ RT 3 & 19 2157 RITTER DR, DANIELS, WV, 25832-9371
 🌐 http://www.accesshealthwv.com
 🏥 Services: Primary Care
 📞 304-763-4326
-🗺 https://maps.google.com/?q=37.72840,-81.10466
 
 95. Tug Fork Clinic
 27 Route 65, Williamson, WV, 25661
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-235-1844
-🗺 https://maps.google.com/?q=37.79390,-82.27713
 
 96. Gilbert Health Center
 2475 US Route 52, Gilbert, WV, 25621
@@ -721,7 +626,6 @@ RT 3 & 19 2157 RITTER DR, DANIELS, WV, 25832-9371
 🌐 https://www.williamsonhealthwellness.com
 🏥 Services: Primary Care
 📞 304-664-8924
-🗺 https://maps.google.com/?q=37.61108,-81.87642
 
 97. Tug River Catterson Center
 662 Appalachian Hwy, Pineville, WV, 24874
@@ -729,14 +633,12 @@ RT 3 & 19 2157 RITTER DR, DANIELS, WV, 25832-9371
 🌐 https://www.tugrivermedical.org
 🏥 Services: Primary Care
 📞 304-732-7069
-🗺 https://maps.google.com/?q=37.58981,-81.53435
 
 98. Camden Family Health Nicholas County Career and Technical Center
 215 Milam Addition Rd, Craigsville, WV, 26205-8569
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-226-5725
-🗺 https://maps.google.com/?q=38.32663,-80.65030
 
 99. Rainelle Dental Center
 205 Medical Center Dr, Rainelle, WV, 25962
@@ -744,21 +646,18 @@ RT 3 & 19 2157 RITTER DR, DANIELS, WV, 25832-9371
 🌐 https://www.rmchealth.org
 🏥 Services: Primary Care
 📞 304-438-6188
-🗺 https://maps.google.com/?q=37.96884,-80.77899
 
 100. MEADOW BRIDGE SCH. BASED CLINIC
 870 Meadow Bridge Rd, Meadow Bridge, WV, 25976-9503
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-484-7571
-🗺 https://maps.google.com/?q=37.86622,-80.85932
 
 101. AccessHealth School Based Shady Spring Elementary School
 600 Flat Top Rd, Shady Spring, WV, 25918-8618
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-252-8555
-🗺 https://maps.google.com/?q=37.69048,-81.10150
 
 102. VALLEY HEALTH - STEPPTOWN
 3 ADENA DRIVE, KERMIT, WV, 25674-0716
@@ -766,14 +665,12 @@ RT 3 & 19 2157 RITTER DR, DANIELS, WV, 25832-9371
 🌐 https://www.valleyhealth.org
 🏥 Services: Primary Care
 📞 304-393-4090
-🗺 https://maps.google.com/?q=37.86374,-82.41564
 
 103. Greenbrier West High School Clinic
 278 Cavalier Dr, Charmco, WV, 25958-6700
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-484-7893
-🗺 https://maps.google.com/?q=38.00298,-80.73283
 
 104. VALLEY HEALTH - FORT GAY
 71 Wayne St, Fort Gay, WV, 25514-8518
@@ -781,14 +678,12 @@ RT 3 & 19 2157 RITTER DR, DANIELS, WV, 25832-9371
 🌐 https://www.valleyhealth.org
 🏥 Services: Primary Care
 📞 304-648-5544
-🗺 https://maps.google.com/?q=38.11877,-82.59808
 
 105. WHWC Burch School-based Health Center
 275 Bulldog Blvd, Delbarton, WV, 25670-6000
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-235-4475
-🗺 https://maps.google.com/?q=37.67731,-82.17916
 
 106. CAMDEN-ON-GAULEY MEDICAL CENTER
 10003 Webster Rd, Camden On Gauley, WV, 26208-7713
@@ -796,14 +691,12 @@ RT 3 & 19 2157 RITTER DR, DANIELS, WV, 25832-9371
 🌐 https://www.camden-medical.com
 🏥 Services: Primary Care
 📞 304-226-5725 x130
-🗺 https://maps.google.com/?q=38.36531,-80.61080
 
 107. Braxton County Middle School Wellness Center
 100 Carter Braxton Dr, Sutton, WV, 26601-9773
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-765-9312
-🗺 https://maps.google.com/?q=38.69443,-80.66363
 
 108. Coplin Health Systems Mineral Wells Elementary School
 1776 Elizabeth Pike, Mineral Wells, WV, 26150-6739
@@ -811,14 +704,12 @@ RT 3 & 19 2157 RITTER DR, DANIELS, WV, 25832-9371
 🌐 https://coplinhealth.com/
 🏥 Services: Primary Care
 📞 304-489-1670
-🗺 https://maps.google.com/?q=39.17773,-81.51255
 
 109. Smithville Elementary School-based Health Center
 157 Main Street  RM 105, Smithville, WV, 26178-0030
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-643-4005 x0
-🗺 https://maps.google.com/?q=39.07406,-81.09196
 
 110. Alderson Clinic - Suite 1000
 859 Alderson St, Williamson, WV, 25661-3215
@@ -826,7 +717,6 @@ RT 3 & 19 2157 RITTER DR, DANIELS, WV, 25832-9371
 🌐 https://www.williamsonhealthwellness.org
 🏥 Services: Primary Care
 📞 304-236-5902
-🗺 https://maps.google.com/?q=37.67888,-82.27264
 
 111. Rupert Health Center
 458 Greenbrier St, Rupert, WV, 25984
@@ -834,7 +724,6 @@ RT 3 & 19 2157 RITTER DR, DANIELS, WV, 25832-9371
 🌐 https://www.communityhealthcenter.net
 🏥 Services: Primary Care
 📞 304-438-6188
-🗺 https://maps.google.com/?q=37.95909,-80.68388
 
 112. WHWC SUD Clinic
 104 Logan St, Williamson, WV, 25661-3606
@@ -842,7 +731,6 @@ RT 3 & 19 2157 RITTER DR, DANIELS, WV, 25832-9371
 🌐 https://www.williamsonhealthwellness.com
 🏥 Services: Primary Care
 📞 304-236-5902
-🗺 https://maps.google.com/?q=37.67325,-82.27601
 
 113. Williamson Dental Clinic
 180 E 2nd Ave, Williamson, WV, 25661-3602
@@ -850,21 +738,18 @@ RT 3 & 19 2157 RITTER DR, DANIELS, WV, 25832-9371
 🌐 https://www.williamsonhealthwellness.com
 🏥 Services: Primary Care
 📞 304-236-5902
-🗺 https://maps.google.com/?q=37.67181,-82.27725
 
 114. WHWC - Mobile Medical
 184 E 2nd Ave STE 210, Williamson, WV, 25661-3602
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-236-5902
-🗺 https://maps.google.com/?q=37.67165,-82.27738
 
 115. Williamson Health and Wellness Center
 184 E. 2nd Avenue, Suite 210, Williamson, WV, 25661-3602
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-236-5902
-🗺 https://maps.google.com/?q=37.67165,-82.27738
 
 116. WHW - Pharmacy
 182 E    2nd Ave, Williamson, WV, 25661-3602
@@ -872,7 +757,6 @@ RT 3 & 19 2157 RITTER DR, DANIELS, WV, 25832-9371
 🌐 https://www.williamsonhealthwellness.com
 🏥 Services: Primary Care
 📞 304-236-5902
-🗺 https://maps.google.com/?q=37.67162,-82.27769
 
 117. Camden Family Health - Cowen Office
 56 Park Street, Cowen, WV, 26206
@@ -880,14 +764,12 @@ RT 3 & 19 2157 RITTER DR, DANIELS, WV, 25832-9371
 🌐 https://camdenfamilyhealth.com
 🏥 Services: Primary Care
 📞 304-226-5527
-🗺 https://maps.google.com/?q=38.40660,-80.55357
 
 118. Western Greenbrier Middle School
 315 Timberwolf Dr, Crawley, WV, 25984
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-392-6446
-🗺 https://maps.google.com/?q=37.95573,-80.66781
 
 119. MHHCC GLENVILLE STATE COLLEGE
 200 High St, Glenville, WV, 26351-1200
@@ -895,56 +777,48 @@ RT 3 & 19 2157 RITTER DR, DANIELS, WV, 25832-9371
 🌐 https://www.mhhcc.com
 🏥 Services: Primary Care
 📞 304-462-7361
-🗺 https://maps.google.com/?q=38.93490,-80.83326
 
 120. Camden Family Health - Cherry River
 100 Lumberjack Loop  STE C, Richwood, WV, 26261
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-226-5725
-🗺 https://maps.google.com/?q=38.21893,-80.55367
 
 121. Kanawha Elementary School
 6465 Staunton Tpke, Davisville, WV, 26142-8220
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-643-4005
-🗺 https://maps.google.com/?q=39.19938,-81.45927
 
 122. Glenville Elementary SBH
 99 Fairground Rd, Glenville, WV, 26351-1305
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-462-7322
-🗺 https://maps.google.com/?q=38.93576,-80.81853
 
 123. Glenville Medical Office
 376 WV Highway 5 E, Glenville, WV, 26351-7602
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-462-7322
-🗺 https://maps.google.com/?q=38.93659,-80.81567
 
 124. Summers County Wellness Center
 181 Bobcat Dr, Hinton, WV, 25951
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-438-6188
-🗺 https://maps.google.com/?q=37.70769,-80.88901
 
 125. Coplin Health Systems WVUP Behavioral Health
 300 Campus Drive  OFC I, Parkersburg, WV, 26104-8656
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Mental health
 📞 304-424-8000
-🗺 https://maps.google.com/?q=39.21654,-81.50577
 
 126. West Virginia University at Parkersburg Health and Wellness Center
 73 Nicolette Rd, Parkersburg, WV, 26104
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-861-4141
-🗺 https://maps.google.com/?q=39.21959,-81.50709
 
 127. Webster County School Based Community Health Center
 1 Highlander Dr, Upperglade, WV, 26266-9400
@@ -952,28 +826,24 @@ RT 3 & 19 2157 RITTER DR, DANIELS, WV, 25832-9371
 🌐 https://www.camdenfamilyhealth.com
 🏥 Services: Primary Care
 📞 304-226-3993
-🗺 https://maps.google.com/?q=38.40912,-80.50787
 
 128. Martin Elementary School
 1301 Hillcrest St.  RM A2, Parkersburg, WV, 26101
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-643-4005
-🗺 https://maps.google.com/?q=39.23224,-81.52967
 
 129. Fairplains Elementary School
 6350 US Route 60 E, Barboursville, WV, 25504-1232
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-643-4005
-🗺 https://maps.google.com/?q=39.24426,-81.53221
 
 130. Parkersburg Family Care
 2610 Camden Ave, Parkersburg, WV, 26101-5652
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-917-3733
-🗺 https://maps.google.com/?q=39.25451,-81.54718
 
 131. Coplin Health Systems Blennerhassett Elementary
 448 Jewell Rd, Parkersburg, WV, 26101-7287
@@ -981,7 +851,6 @@ RT 3 & 19 2157 RITTER DR, DANIELS, WV, 25832-9371
 🌐 https://coplinhealth.com/
 🏥 Services: Primary Care
 📞 304-863-5128
-🗺 https://maps.google.com/?q=39.26168,-81.61639
 
 132. JEFFERSON HEALTH & WELLNESS CTR
 1200 Stephenson Ave, Parkersburg, WV, 26101-4889
@@ -989,14 +858,12 @@ RT 3 & 19 2157 RITTER DR, DANIELS, WV, 25832-9371
 🌐 https://www.rcpca.org
 🏥 Services: Primary Care
 📞 304-643-4005
-🗺 https://maps.google.com/?q=39.26691,-81.54188
 
 133. Hamilton Middle School
 3501 Cadillac Drive  RM 112, Parkersburg, WV, 26104
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-643-4005
-🗺 https://maps.google.com/?q=39.28520,-81.52148
 
 134. MOUNT VIEW MIDDLE HIGH SCHOOL HC
 950 Mt View High School Rd, Welch, WV, 24801-2810
@@ -1004,14 +871,12 @@ RT 3 & 19 2157 RITTER DR, DANIELS, WV, 25832-9371
 🌐 https://www.tugrivermedical.org
 🏥 Services: Primary Care
 📞 304-436-4798
-🗺 https://maps.google.com/?q=37.40376,-81.54269
 
 135. AccessHealth Northern Greenbrier Clinic
 8965 Shoestring Trl, Williamsburg, WV, 24991-9743
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-252-8324
-🗺 https://maps.google.com/?q=37.96024,-80.51336
 
 136. TUG RIVER HEALTH CENTER
 5883 Black Diamond Highway, Gary, WV, 24836
@@ -1019,14 +884,12 @@ RT 3 & 19 2157 RITTER DR, DANIELS, WV, 25832-9371
 🌐 https://www.tugrivermedical.org
 🏥 Services: Primary Care
 📞 304-448-2101
-🗺 https://maps.google.com/?q=37.36656,-81.55280
 
 137. Hacker Valley Elementary School
 11 School Loop Road, Hacker Valley, WV, 26222-8463
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-226-5725
-🗺 https://maps.google.com/?q=38.65142,-80.38886
 
 138. Bluestone Health Association Inc. _Bluestone Health Center
 3997 Beckley Rd, Princeton, WV, 24740-7660
@@ -1034,7 +897,6 @@ RT 3 & 19 2157 RITTER DR, DANIELS, WV, 25832-9371
 🌐 http://www.bluestonehealth.net
 🏥 Services: Primary Care
 📞 304-431-5499
-🗺 https://maps.google.com/?q=37.40111,-81.14084
 
 139. PRUDICH MEDICAL CENTER
 5451 SIMMONS RIVER ROAD, MONTCALM, WV, 24737-0736
@@ -1042,21 +904,18 @@ RT 3 & 19 2157 RITTER DR, DANIELS, WV, 25832-9371
 🌐 http://www.bluestonehealth.net
 🏥 Services: Primary Care
 📞 304-589-3251
-🗺 https://maps.google.com/?q=37.34730,-81.25251
 
 140. AccessHealth Princeton
 904 Harrison St, Princeton, WV, 24740-3011
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-252-8324
-🗺 https://maps.google.com/?q=37.36892,-81.09545
 
 141. Belmont Elementary School
 512 Riverview Dr.  RM 19, Belmont, WV, 26134
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-643-4005
-🗺 https://maps.google.com/?q=39.37948,-81.26453
 
 142. Tug River Heatlh --Princeton
 200 12th  STE 101, Princeton, WV, 24740
@@ -1064,21 +923,18 @@ RT 3 & 19 2157 RITTER DR, DANIELS, WV, 25832-9371
 🌐 https://www.tugrivermedical.org
 🏥 Services: Primary Care
 📞 304-431-1400
-🗺 https://maps.google.com/?q=37.36248,-81.11323
 
 143. Bluestone Primary Care
 106 Thorn St, Princeton, WV, 24740-3560
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 681-282-5609
-🗺 https://maps.google.com/?q=37.37018,-81.08291
 
 144. Eastern Greenbrier Health Center
 595 Spartan Ln, Lewisburg, WV, 24901
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-645-1052
-🗺 https://maps.google.com/?q=37.77502,-80.47172
 
 145. Maxwelton Health Center
 390 Industrial Park Rd, Maxwelton, WV, 24957-8073
@@ -1086,49 +942,42 @@ RT 3 & 19 2157 RITTER DR, DANIELS, WV, 25832-9371
 🌐 https://www.rmchealth.org
 🏥 Services: Primary Care
 📞 304-438-6188
-🗺 https://maps.google.com/?q=37.85918,-80.40300
 
 146. RMC Lewisburg Pediatrics and Family Health Center
 2140 N Jefferson St, Lewisburg, WV, 24901
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-438-6188
-🗺 https://maps.google.com/?q=37.81425,-80.42982
 
 147. Integrated Health Centers of West Virginia-St. Marys
 111 Lafayette St, Ste 201, Saint Marys, WV, 26170-1059
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-643-4005
-🗺 https://maps.google.com/?q=39.38946,-81.20770
 
 148. Peterstown Wellness Center
 5414 Ballard Red Sulphur Pkwy, Peterstown, WV, 24963
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-753-6960
-🗺 https://maps.google.com/?q=37.46731,-80.78014
 
 149. St. Marys High School
 2330 N Pleasants Hwy  RM 119, Saint Marys, WV, 26170-5008
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 855-552-8907
-🗺 https://maps.google.com/?q=39.42433,-81.17986
 
 150. Ritchie Regional Health Center Doddridge High School Campus
 79 Bulldog Dr.  RM 113, West Union, WV, 26456-8000
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-873-2521
-🗺 https://maps.google.com/?q=39.27746,-80.78450
 
 151. Robert Bland Middle School Wellness Center
 358 Court Ave, Weston, WV, 26452-2008
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-269-8325
-🗺 https://maps.google.com/?q=39.03952,-80.46234
 
 152. MONROE COUNTY HEALTH CENTER
 200 HEALTH CENTER DRIVE, UNION, WV, 24983-0590
@@ -1136,7 +985,6 @@ RT 3 & 19 2157 RITTER DR, DANIELS, WV, 25832-9371
 🌐 https://www.monroehealthcenter.com
 🏥 Services: Primary Care
 📞 304-772-3064
-🗺 https://maps.google.com/?q=37.58803,-80.54751
 
 153. MOUNTAIN VIEW WELLNESS CENTER
 620 SCHOOL STREET, UNION, WV, 24983
@@ -1144,7 +992,6 @@ RT 3 & 19 2157 RITTER DR, DANIELS, WV, 25832-9371
 🌐 https://www.monroehealthcenter.com
 🏥 Services: Primary Care
 📞 304-772-3064
-🗺 https://maps.google.com/?q=37.59129,-80.53028
 
 154. Doddridge County Primary Care
 190 Marie St, West Union, WV, 26456-1132
@@ -1152,7 +999,6 @@ RT 3 & 19 2157 RITTER DR, DANIELS, WV, 25832-9371
 🌐 https://ritchieregional.org
 🏥 Services: Primary Care
 📞 304-873-1401
-🗺 https://maps.google.com/?q=39.29677,-80.77674
 
 155. CareXpress of Weston
 149 Staunton Dr, Weston, WV, 26452-5604
@@ -1160,21 +1006,18 @@ RT 3 & 19 2157 RITTER DR, DANIELS, WV, 25832-9371
 🌐 https://www.ccwv.org
 🏥 Services: Primary Care
 📞 304-269-2022
-🗺 https://maps.google.com/?q=39.02209,-80.41868
 
 156. Lewisburg Behavioral Health
 38378 Midland Trail East  UNIT B, Caldwell, WV, 24925-2101
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-438-6188
-🗺 https://maps.google.com/?q=37.77366,-80.34912
 
 157. White Sulphur Springs Health Center
 128 Community Ln, White Sulphur Springs, WV, 24986-1105
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-438-6188
-🗺 https://maps.google.com/?q=37.80585,-80.28707
 
 158. Marlinton Middle School Center Wellness Center
 1 Copperhead Way, Buckeye, WV, 24924-9036
@@ -1182,21 +1025,18 @@ RT 3 & 19 2157 RITTER DR, DANIELS, WV, 25832-9371
 🌐 https://www.ccwv.org
 🏥 Services: Primary Care
 📞 304-799-4179
-🗺 https://maps.google.com/?q=38.20031,-80.11109
 
 159. CommunityCare Mobile Health 1
 77 W Main St, Buckhannon, WV, 26201-2236
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-924-6262
-🗺 https://maps.google.com/?q=38.99373,-80.23314
 
 160. Upshur County PALS Wellness Center
 33 E Victoria St, Buckhannon, WV, 26201-2671
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 304-924-6262
-🗺 https://maps.google.com/?q=38.98848,-80.22410
 
 161. West Virginia University
 1 Medical Center Dr, Morgantown, WV 26505

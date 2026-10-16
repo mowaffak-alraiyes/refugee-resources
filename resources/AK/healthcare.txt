@@ -5,7 +5,6 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Health Care for the Homeless
 📞 907-272-1255
-🗺 https://maps.google.com/?q=61.21488,-149.88155
 
 🌐 http://www.covenanthouseak.org/
 
@@ -15,7 +14,6 @@
 🌐 https://www.ykhc.org
 🏥 Services: Primary Care
 📞 907-675-4556
-🗺 https://maps.google.com/?q=61.21854,-149.87602
 
 3. Anchorage Neighborhood Health Center, Inc.
 4951 Business Park Blvd, Anchorage, AK, 99503-7174
@@ -23,7 +21,6 @@
 🌐 https://www.anhc.org
 🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 907-743-7200
-🗺 https://maps.google.com/?q=61.17594,-149.88766
 
 4. SCF Detox
 4330 Elmore Rd, Anchorage, AK, 99508-5907
@@ -31,14 +28,12 @@
 🌐 https://www.southcentralfoundation.com/detox/
 🏥 Services: Primary Care
 📞 907-729-6690
-🗺 https://maps.google.com/?q=61.18124,-149.80935
 
 5. Big Lake Clinic
 3261 S. Big Lake Rd.  STE F, E7, E8, Big Lake, AK, 99654
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 907-376-2411
-🗺 https://maps.google.com/?q=61.54547,-149.81796
 
 6. Mat-Su Health Services, Inc.
 1363 W Spruce Ave, Wasilla, AK, 99654-5327
@@ -46,7 +41,6 @@
 🌐 https://www.mshsak.org
 🏥 Services: Primary Care
 📞 907-376-2411
-🗺 https://maps.google.com/?q=61.60142,-149.48571
 
 7. Girdwood Health Clinic
 131 Lindblad Ave, Girdwood, AK, 99587
@@ -54,7 +48,6 @@
 🌐 https://www.girdwoodhealthclinic.org
 🏥 Services: Primary Care
 📞 907-783-1355
-🗺 https://maps.google.com/?q=60.96358,-149.13407
 
 8. Willow Community Health Center
 24091 W. Long Lake Rd, Willow, AK, 99688
@@ -62,7 +55,6 @@
 🌐 https://www.sunshineclinic.org
 🏥 Services: Primary Care
 📞 907-495-4100
-🗺 https://maps.google.com/?q=61.73703,-150.05869
 
 9. Palmer Clinic
 425 Dahlia St  STE L &amp; M, Palmer, AK, 99645-6463
@@ -70,21 +62,18 @@
 🌐 https://mshsak.org
 🏥 Services: Primary Care
 📞 907-376-2411
-🗺 https://maps.google.com/?q=61.60012,-149.10642
 
 10. Indian Creek Health Center
 73 C St, Tyonek, AK, 99682
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 907-583-2461
-🗺 https://maps.google.com/?q=61.06708,-151.13937
 
 11. SuValley Jr./Sr. High Shool
 42728 S Parks Hwy, Talkeetna, AK, 99676
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 907-733-9300
-🗺 https://maps.google.com/?q=62.13116,-150.04390
 
 12. Peninsula Community Health Services of Alaska
 230 E Marydale Ave, Soldotna, AK, 99669-7648
@@ -92,7 +81,6 @@
 🌐 https://www.pchsak.org
 🏥 Services: Primary Care
 📞 907-262-3119
-🗺 https://maps.google.com/?q=60.49548,-151.06444
 
 13. PCHS - KENAI MEDICAL AND BEHAVIORAL HEALTH CENTER
 805 Frontage Rd, Kenai, AK, 99611-9104
@@ -100,14 +88,12 @@
 🌐 https://WWW.PCHSAK.ORG
 🏥 Services: Primary Care
 📞 907-260-7300
-🗺 https://maps.google.com/?q=60.55394,-151.25805
 
 14. SCHC Mobile Clinic1
 417 First Avenue, Seward, AK, 99664
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 907-224-2273
-🗺 https://maps.google.com/?q=60.10536,-149.44650
 
 15. SVT Health & Wellness
 880 E End Rd, Homer, AK, 99603-7201
@@ -115,7 +101,6 @@
 🌐 https://www.svthw.org
 🏥 Services: Primary Care
 📞 907-226-2228 x106
-🗺 https://maps.google.com/?q=59.65041,-151.52185
 
 16. Cross Road Medical Center
 Mile 187 Glenn Hwy, Building B, Glennallen, AK, 99588
@@ -123,7 +108,6 @@ Mile 187 Glenn Hwy, Building B, Glennallen, AK, 99588
 🌐 https://www.crossroadmc.org
 🏥 Services: Primary Care
 📞 907-822-3203
-🗺 https://maps.google.com/?q=62.10792,-145.53287
 
 17. Glennallen School
 1976 Aurora Dr., Glennallen, AK, 99588
@@ -131,7 +115,6 @@ Mile 187 Glenn Hwy, Building B, Glennallen, AK, 99588
 🌐 https://crnative.org
 🏥 Services: Primary Care
 📞 907-822-5268
-🗺 https://maps.google.com/?q=62.11295,-145.52670
 
 18. Robert Marshall Building
 111.5 Richardson Hwy, Tazlina, AK, 99573
@@ -139,7 +122,6 @@ Mile 187 Glenn Hwy, Building B, Glennallen, AK, 99588
 🌐 https://crnative.org
 🏥 Services: Primary Care
 📞 907-822-5241
-🗺 https://maps.google.com/?q=62.01340,-145.35935
 
 19. NILAVENA SUBREGIONAL CLINIC
 101 AIRPORT RD, ILIAMNA, AK, 99606-0000
@@ -147,7 +129,6 @@ Mile 187 Glenn Hwy, Building B, Glennallen, AK, 99588
 🌐 http://www.scf.cc
 🏥 Services: Primary Care
 📞 907-729-5400
-🗺 https://maps.google.com/?q=59.79197,-154.10557
 
 20. Pedro Bay Clinic
 2516 Mountain Circle, Pedro Bay, AK, 99647
@@ -155,7 +136,6 @@ Mile 187 Glenn Hwy, Building B, Glennallen, AK, 99588
 🌐 https://www.scf.cc
 🏥 Services: Primary Care
 📞 907-850-2229
-🗺 https://maps.google.com/?q=59.78872,-154.10310
 
 21. Nondalton Clinic
 1 Nondalton Street, Nondalton, AK, 99640
@@ -163,7 +143,6 @@ Mile 187 Glenn Hwy, Building B, Glennallen, AK, 99588
 🌐 https://www.scf.cc
 🏥 Services: Primary Care
 📞 907-294-2238
-🗺 https://maps.google.com/?q=59.96262,-154.85580
 
 22. Nikolai Clinic
 2 Salmonberry Road, Nikolai, AK, 99691
@@ -171,7 +150,6 @@ Mile 187 Glenn Hwy, Building B, Glennallen, AK, 99588
 🌐 https://www.scf.cc
 🏥 Services: Primary Care
 📞 907-293-2328
-🗺 https://maps.google.com/?q=63.01575,-154.37365
 
 23. Top of the Kuskokwim School
 9190 Main Street, Nikolai, AK, 99691
@@ -179,7 +157,6 @@ Mile 187 Glenn Hwy, Building B, Glennallen, AK, 99588
 🌐 https://www.southcentralfoundation.com/services/primary-care-clinics/nikolai-clinic/
 🏥 Services: Primary Care
 📞 907-293-2328
-🗺 https://maps.google.com/?q=63.02077,-154.37687
 
 24. LIME VILLIAGE CLINIC
 #1 CLINIC ROAD GENERAL DELIVE., LIME VILLIAGE, AK, 99627
@@ -187,7 +164,6 @@ Mile 187 Glenn Hwy, Building B, Glennallen, AK, 99588
 🌐 https://WWW.YKHC.ORG
 🏥 Services: Primary Care
 📞 907-675-4556
-🗺 https://maps.google.com/?q=62.90772,-155.27764
 
 25. McGrath School
 90 Takotna Ave, McGrath, McGrath, AK, 99627
@@ -195,7 +171,6 @@ Mile 187 Glenn Hwy, Building B, Glennallen, AK, 99588
 🌐 https://www.southcentralfoundation.com/services/primary-care-clinics/mcgrath-regional-health-center/
 🏥 Services: Primary Care
 📞 907-524-3805
-🗺 https://maps.google.com/?q=62.95321,-155.59590
 
 26. STONY RIVER CLINIC
 #1 CLINIC ROAD GENERAL DELV., STONY RIVER, AK, 99557
@@ -203,7 +178,6 @@ Mile 187 Glenn Hwy, Building B, Glennallen, AK, 99588
 🌐 https://www.ykhc.org
 🏥 Services: Primary Care
 📞 907-675-4556
-🗺 https://maps.google.com/?q=61.78710,-156.58700
 
 27. CHUATHBALUK CLINIC
 #1 CLINIC ROAD, GEN. DELIVERY, CHUATHBALUK, AK, 99557
@@ -211,7 +185,6 @@ Mile 187 Glenn Hwy, Building B, Glennallen, AK, 99588
 🌐 https://WWW.YKHC.ORG
 🏥 Services: Primary Care
 📞 907-675-4556
-🗺 https://maps.google.com/?q=61.49700,-156.70386
 
 28. Takotna Community School
 1 River Road, Takotna, AK, 99675
@@ -219,7 +192,6 @@ Mile 187 Glenn Hwy, Building B, Glennallen, AK, 99588
 🌐 https://www.southcentralfoundation.com/services/primary-care-clinics/takotna-clinic/
 🏥 Services: Primary Care
 📞 907-298-2214
-🗺 https://maps.google.com/?q=62.98778,-156.06290
 
 29. Takotna Clinic
 200 Old Airport Way, Takotna, AK, 99675
@@ -227,14 +199,12 @@ Mile 187 Glenn Hwy, Building B, Glennallen, AK, 99588
 🌐 https://www.southcentralfoundation.com/services/primary-care-clinics/takotna-clinic/
 🏥 Services: Primary Care
 📞 907-298-2214
-🗺 https://maps.google.com/?q=62.97097,-156.12234
 
 30. Cross Road Health Ministries, Inc.
 Mile 1420.5 Alaska Highway  UNIT 1-C, Delta Junction, AK, 99737
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 907-895-6233
-🗺 https://maps.google.com/?q=64.03774,-145.73213
 
 31. Interior Alaska Medical Clinic
 2730 Alaska Highway, Delta Junction, AK, 99737-0000
@@ -242,7 +212,6 @@ Mile 1420.5 Alaska Highway  UNIT 1-C, Delta Junction, AK, 99737
 🌐 https://www.crossroadmc.org
 🏥 Services: Primary Care
 📞 907-895-6233
-🗺 https://maps.google.com/?q=64.03223,-145.70781
 
 32. SLEETMUTE CLINIC
 #1 CLINC ROAD GENERAL DELIV., SLEETMUTE, AK, 99668
@@ -250,7 +219,6 @@ Mile 1420.5 Alaska Highway  UNIT 1-C, Delta Junction, AK, 99737
 🌐 https://WWW.YKHC.ORG
 🏥 Services: Primary Care
 📞 907-675-4556
-🗺 https://maps.google.com/?q=61.59887,-157.18192
 
 33. Ouzinkie Health Clinic
 3rd and C Street, Ouzinkie, AK, 99644
@@ -258,7 +226,6 @@ Mile 1420.5 Alaska Highway  UNIT 1-C, Delta Junction, AK, 99737
 🌐 https://www.kodiakhealthcare.org
 🏥 Services: Primary Care
 📞 907-680-2265
-🗺 https://maps.google.com/?q=57.92215,-152.50529
 
 34. Red Devil Clinic
 #1 Clinic Road, Red Devil, AK, 99656
@@ -266,7 +233,6 @@ Mile 1420.5 Alaska Highway  UNIT 1-C, Delta Junction, AK, 99737
 🌐 https://www.ykhc.org
 🏥 Services: Primary Care
 📞 907-447-3223
-🗺 https://maps.google.com/?q=61.75977,-157.32234
 
 35. Chignik Lagoon Clinic
 Main Street, Chignik Lagoon, AK, 99656-0565
@@ -274,7 +240,6 @@ Main Street, Chignik Lagoon, AK, 99656-0565
 🌐 https://bbahc.org
 🏥 Services: Primary Care
 📞 907-749-2282
-🗺 https://maps.google.com/?q=61.75977,-157.32234
 
 36. Evelyn Alexander "To Draak" Health Clinic
 203 Lakeview St., minto, AK, 99758
@@ -282,7 +247,6 @@ Main Street, Chignik Lagoon, AK, 99656-0565
 🌐 https://www.tananachiefs.org
 🏥 Services: Primary Care
 📞 907-452-8251 x3402
-🗺 https://maps.google.com/?q=65.14958,-149.34643
 
 37. Rampart Health Clinic
 10 Wiehl Way, Rampart, AK, 99767
@@ -290,7 +254,6 @@ Main Street, Chignik Lagoon, AK, 99656-0565
 🌐 https://www.tananachiefs.org
 🏥 Services: Primary Care
 📞 907-452-8251 x3402
-🗺 https://maps.google.com/?q=65.43191,-150.07337
 
 38. Manley Hot Springs Health Clinic
 mile 160 Elliot Hwy, Manley Hot Springs, AK, 99756
@@ -298,7 +261,6 @@ mile 160 Elliot Hwy, Manley Hot Springs, AK, 99756
 🌐 https://www.tananachiefs.org
 🏥 Services: Primary Care
 📞 907-452-8251 x3402
-🗺 https://maps.google.com/?q=65.01405,-150.56004
 
 39. BEAVER HEALTH CLINIC
 General Delivery, Beaver, AK, 99724-9999
@@ -306,7 +268,6 @@ General Delivery, Beaver, AK, 99724-9999
 🌐 https://www.catg.org
 🏥 Services: Primary Care
 📞 907-628-6228
-🗺 https://maps.google.com/?q=66.38113,-147.32511
 
 40. Alice Carroll Health Clinic
 161 Steese Hwy, Circle, AK, 99733-9800
@@ -314,7 +275,6 @@ General Delivery, Beaver, AK, 99724-9999
 🌐 https://www.tananachiefs.org
 🏥 Services: Primary Care
 📞 907-452-8251 x3402
-🗺 https://maps.google.com/?q=65.79773,-144.08766
 
 41. Dot Lake Clinic
 8 Charles Street, Dot Lake, AK, 99737
@@ -322,7 +282,6 @@ General Delivery, Beaver, AK, 99724-9999
 🌐 https://www.tananachiefs.org
 🏥 Services: Primary Care
 📞 907-452-8251
-🗺 https://maps.google.com/?q=63.66094,-144.06114
 
 42. YUKON FLATS HEALTH CENTER
 1 SPRUCE STREET, FORT YUKON, AK, 99740-0000
@@ -330,7 +289,6 @@ General Delivery, Beaver, AK, 99724-9999
 🌐 https://www.catg.org
 🏥 Services: Primary Care
 📞 907-662-2460
-🗺 https://maps.google.com/?q=66.56750,-145.24224
 
 43. MYRA ROBERTS CLINIC
 101 MAIN STREET, VENETIE, AK, 99781-0000
@@ -338,7 +296,6 @@ General Delivery, Beaver, AK, 99724-9999
 🌐 https://www.catg.org
 🏥 Services: Primary Care
 📞 907-849-8712
-🗺 https://maps.google.com/?q=67.02753,-146.40946
 
 44. Chalkyitsik Health Clinic
 #8 Kutchin Rd., Chalkyitsik, AK, 99788
@@ -346,14 +303,12 @@ General Delivery, Beaver, AK, 99724-9999
 🌐 https://www.tananachiefs.org
 🏥 Services: Primary Care
 📞 907-452-8251 x3402
-🗺 https://maps.google.com/?q=66.64108,-143.74664
 
 45. Frank Tobuk Sr. Health Center
 102 Hickle Highway, Evansville, AK, 99726
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 907-692-5036
-🗺 https://maps.google.com/?q=66.90649,-151.55557
 
 46. ALLAKAKET HEALTH CLINIC
 15 Main Rd, Allakaket, AK, 99720
@@ -361,7 +316,6 @@ General Delivery, Beaver, AK, 99724-9999
 🌐 https://www.tananachiefs.org
 🏥 Services: Primary Care
 📞 907-452-8251
-🗺 https://maps.google.com/?q=66.56011,-152.64325
 
 47. BO ZT OW ZHO Eagle Health Clinic
 134 Long Lake Road, Eagle, AK, 99738
@@ -369,7 +323,6 @@ General Delivery, Beaver, AK, 99724-9999
 🌐 https://www.tananachiefs.org
 🏥 Services: Primary Care
 📞 907-452-8251
-🗺 https://maps.google.com/?q=64.78662,-141.20152
 
 48. Tetlin Health Clinic
 303 Easton Road, Tetlin, AK, 99779
@@ -377,7 +330,6 @@ General Delivery, Beaver, AK, 99724-9999
 🌐 https://www.tananachiefs.org
 🏥 Services: Primary Care
 📞 907-452-8251
-🗺 https://maps.google.com/?q=63.13712,-142.52424
 
 49. Marilyn E. Koyukuk Evans Health Center
 829 CHIEF EDDIE HOFFMAN HWY., BETHEL, AK, 99559-0528
@@ -385,14 +337,12 @@ General Delivery, Beaver, AK, 99724-9999
 🌐 https://www.tananachiefs.org
 🏥 Services: Primary Care
 📞 907-452-8251 x3544
-🗺 https://maps.google.com/?q=66.04330,-154.25445
 
 50. Northway Health Clinic
 1 Northway Road, Northway, AK, 99764
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 907-452-8251
-🗺 https://maps.google.com/?q=62.96679,-141.85463
 
 51. Upper Tanana Health Center
 124.4 Glen Highway, Tok, AK, 99780
@@ -400,7 +350,6 @@ General Delivery, Beaver, AK, 99724-9999
 🌐 https://WWW.tananachiefs.org
 🏥 Services: Primary Care
 📞 907-883-5855
-🗺 https://maps.google.com/?q=62.85298,-141.45690
 
 52. ARCTIC VILLAGE HEALTH CLINIC
 100 MAIN STREET, ARCTIC VILLAGE, AK, 99722-0000
@@ -408,42 +357,36 @@ General Delivery, Beaver, AK, 99724-9999
 🌐 https://www.catg.org
 🏥 Services: Primary Care
 📞 907-587-5229
-🗺 https://maps.google.com/?q=68.12365,-145.52102
 
 53. Front Street Clinic Juneau
 225 Front St, Juneau, AK, 99801-1251
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 907-463-4201
-🗺 https://maps.google.com/?q=58.30048,-134.40643
 
 54. Lemon Creek Clinic
 1944 Allen Ct STE A, Juneau, AK, 99801-9598
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 907-463-0650
-🗺 https://maps.google.com/?q=58.35444,-134.48975
 
 55. Pt Protection Clinic
 Community Building Port Protection, Excursion Inlet, AK, 99850
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 907-874-7000
-🗺 https://maps.google.com/?q=58.37176,-134.58866
 
 56. Excursion Inlet Clinic
 Cannery Site, Excursion Inlet, AK, 99850
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 907-697-3008
-🗺 https://maps.google.com/?q=58.37176,-134.58866
 
 57. Hoonah Health Center
 490 GARTINA HIGHWAY, HOONAH, AK, 99829
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 907-945-3235
-🗺 https://maps.google.com/?q=58.11417,-135.44761
 
 58. Tenakee Health Center
 D STREET, TENAKEE SPRINGS, AK, 99841-0000
@@ -451,7 +394,6 @@ D STREET, TENAKEE SPRINGS, AK, 99841-0000
 🌐 https://www.searhc.org
 🏥 Services: Primary Care
 📞 907-736-2347
-🗺 https://maps.google.com/?q=57.78005,-135.21601
 
 59. Jesse Norma Jim Health Center
 725 RELAY ROAD, ANGOON, AK, 99820-0000
@@ -459,7 +401,6 @@ D STREET, TENAKEE SPRINGS, AK, 99841-0000
 🌐 https://www.searhc.org
 🏥 Services: Primary Care
 📞 907-788-4600
-🗺 https://maps.google.com/?q=57.49937,-134.57875
 
 60. Pelican Health Center
 101 SALMON WAY, PELICAN, AK, 99832-0000
@@ -467,21 +408,18 @@ D STREET, TENAKEE SPRINGS, AK, 99841-0000
 🌐 https://www.searhc.org
 🏥 Services: Primary Care
 📞 907-735-2250
-🗺 https://maps.google.com/?q=57.96121,-136.23380
 
 61. Haines Dental Clinic
 230 Dalton St  STE 135, Haines, AK, 99827
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 907-766-6372
-🗺 https://maps.google.com/?q=59.23627,-135.44641
 
 62. DAHL MEMORIAL CLINIC
 350 14th Avenue, Skagway, AK, 99840
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 907-983-2255
-🗺 https://maps.google.com/?q=59.46071,-135.30655
 
 63. Klukwan Health Center
 37 CHILKAT AVE, KLUKWAN, AK, 99827-0000
@@ -489,35 +427,30 @@ D STREET, TENAKEE SPRINGS, AK, 99841-0000
 🌐 https://www.searhc.org
 🏥 Services: Primary Care
 📞 907-767-5699
-🗺 https://maps.google.com/?q=59.39849,-135.89160
 
 64. Pt Baker Clinic
 Community Building, Point Baker, AK, 99927
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 907-874-7000
-🗺 https://maps.google.com/?q=56.25861,-133.34037
 
 65. Wrangell Dental Clinic
 22 Front St, Wrangell, AK, 99929
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 907-874-2373
-🗺 https://maps.google.com/?q=56.47195,-132.38590
 
 66. Wrangell Behavioral Health
 110 Lynch St, Wrangell, AK, 99929
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 907-874-3375
-🗺 https://maps.google.com/?q=56.47107,-132.38418
 
 67. Whale Pass Clinic
 Community Building, Whale Pass, AK, 99950
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 907-874-7000
-🗺 https://maps.google.com/?q=56.11810,-133.13500
 
 68. Thorne Bay Health Center
 120 FREEMAN DRIVE, THORNE BAY, AK, 99919-1929
@@ -525,14 +458,12 @@ Community Building, Whale Pass, AK, 99950
 🌐 https://www.searhc.org
 🏥 Services: Primary Care
 📞 907-828-8848
-🗺 https://maps.google.com/?q=55.68664,-132.52310
 
 69. Craig Health Clinic
 333 Cold Storage Road  STE 203, Craig, AK, 99921
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 907-755-4986
-🗺 https://maps.google.com/?q=55.47747,-133.14034
 
 70. Alma Cook Health Center
 8 8TH STREET EXTENSION, HYDABURG, AK, 99922-0333
@@ -540,14 +471,12 @@ Community Building, Whale Pass, AK, 99950
 🌐 https://www.searhc.org
 🏥 Services: Primary Care
 📞 907-285-3462
-🗺 https://maps.google.com/?q=55.20528,-132.82127
 
 71. Edna Bay Clinic
 Sunrise Lodge, Edna Bay, AK, 99901
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 907-874-7000
-🗺 https://maps.google.com/?q=55.41048,-131.75941
 
 72. Kasaan Health Center
 103 First Street, Kasaan, AK, 99950
@@ -555,7 +484,6 @@ Sunrise Lodge, Edna Bay, AK, 99901
 🌐 https://www.searhc.org
 🏥 Services: Primary Care
 📞 907-542-2222
-🗺 https://maps.google.com/?q=55.35505,-131.68790
 
 73. Alaska Native Tribal Health Consortium
 3900 Ambassador Dr STE 401, Anchorage, AK 99508-5922

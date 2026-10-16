@@ -6,7 +6,6 @@
 🌐 https://www.thecharteroak.org
 🏥 Services: Primary Care
 📞 860-550-7500
-🗺 https://maps.google.com/?q=41.75897,-72.67964
 
 2. OPEN HEARTH
 437 Sheldon St, Hartford, CT, 06106-1939
@@ -14,7 +13,6 @@
 🌐 https://www.thecharteroak.org
 🏥 Services: Primary Care; Health Care for the Homeless
 📞 860-525-3447
-🗺 https://maps.google.com/?q=41.75832,-72.66616
 
 3. HOUSE OF BREAD
 27 Chestnut St, Hartford, CT, 06120-2810
@@ -22,7 +20,6 @@
 🌐 https://www.thecharteroak.org
 🏥 Services: Primary Care; Health Care for the Homeless
 📞 860-724-1061
-🗺 https://maps.google.com/?q=41.77336,-72.68082
 
 4. SOUTH PARK INN
 75 Main St, Hartford, CT, 06106-1806
@@ -30,7 +27,6 @@
 🌐 https://www.thecharteroak.org
 🏥 Services: Primary Care; Public housing primary care
 📞 860-724-0071
-🗺 https://maps.google.com/?q=41.75652,-72.67617
 
 5. YWCA OF THE HARTFORD REGION, INC
 135 Broad St, Hartford, CT, 06105-3701
@@ -38,7 +34,6 @@
 🌐 https://www.thecharteroak.org
 🏥 Services: Primary Care; Migrant health center
 📞 860-525-1163
-🗺 https://maps.google.com/?q=41.76751,-72.68658
 
 6. Charter Oak Health Center Annex at 39 Grand Street
 39 Grand St, Hartford, CT, 06106-4607
@@ -46,7 +41,6 @@
 🌐 https://www.thecharteroak.org
 🏥 Services: Primary Care
 📞 860-550-7500
-🗺 https://maps.google.com/?q=41.75941,-72.68653
 
 7. IMMACULATE CONCEPTION SHELTER
 574 Park St, Hartford, CT, 06106-4617
@@ -54,7 +48,6 @@
 🌐 https://www.thecharteroak.org
 🏥 Services: Primary Care; Health Care for the Homeless
 📞 860-724-4823
-🗺 https://maps.google.com/?q=41.75816,-72.68637
 
 8. COMMUNITY HEALTH SERVICES, INC.
 500 Albany Ave, Hartford, CT, 06120-2508
@@ -62,14 +55,12 @@
 🌐 https://www.chshartford.org
 🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 860-249-9625
-🗺 https://maps.google.com/?q=41.77789,-72.68498
 
 9. Jumoke Academy Hartford Conservatory SBHC
 875 Asylum Ave.  RM 305, Hartford, CT, 06105-1906
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-527-0575
-🗺 https://maps.google.com/?q=41.77022,-72.69385
 
 10. Hartford Youth Scholars
 129 Allen Pl, Hartford, CT, 06106-3102
@@ -77,7 +68,6 @@
 🌐 https://www.thecharteroak.org
 🏥 Services: Primary Care
 📞 860-297-5116
-🗺 https://maps.google.com/?q=41.75214,-72.68899
 
 11. First Choice Health Centers
 110 Connecticut Blvd, East Hartford, CT, 06108-3057
@@ -85,14 +75,12 @@
 🌐 https://WWW.FIRSTCHC.ORG
 🏥 Services: Primary Care
 📞 860-610-6157
-🗺 https://maps.google.com/?q=41.76949,-72.64916
 
 12. FCHC Mobile Medical Services (2)
 94 Connecticut Blvd, East Hartford, CT, 06108-3013
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-528-1359
-🗺 https://maps.google.com/?q=41.77045,-72.64832
 
 13. CONNECTICUT PEDIATRICS  @ CHC
 76 NEW BRITAIN AVE, HARTFORD, CT, 06106-3305
@@ -100,7 +88,6 @@
 🌐 https://www.chc1.com
 🏥 Services: Primary Care; Pediatrics
 📞 860-547-0970
-🗺 https://maps.google.com/?q=41.74657,-72.68600
 
 14. First Choice@809 Main Street
 809 Main St, East Hartford, CT, 06108-3117
@@ -108,7 +95,6 @@
 🌐 https://www.firstchc.org
 🏥 Services: Primary Care
 📞 860-528-1359
-🗺 https://maps.google.com/?q=41.76839,-72.64487
 
 15. Wheeler Family Health and Wellness Center - 49
 49 Woodland St, Hartford, CT, 06105-2337
@@ -116,63 +102,54 @@
 🌐 https://www.wheelerclinic.org
 🏥 Services: Primary Care
 📞 860-793-3500
-🗺 https://maps.google.com/?q=41.77101,-72.70235
 
 16. High Roads School of Hartford: High School
 245 Locust St, Hartford, CT, 06114-2008
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-856-6511
-🗺 https://maps.google.com/?q=41.74238,-72.66598
 
 17. Thomas J. McDonough Middle School
 111 Hillside Ave., Hartford, CT, 06106
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-695-4260
-🗺 https://maps.google.com/?q=41.74975,-72.69839
 
 18. CREC South
 269 Locust Street Room #29, Hartford, CT, 06114-2008
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-524-4063
-🗺 https://maps.google.com/?q=41.74113,-72.66622
 
 19. Parkville Community School
 47 New Park Ave, Hartford, CT, 06106-2168
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-695-4720
-🗺 https://maps.google.com/?q=41.75637,-72.70666
 
 20. InterCommunity's School Based Health Center at Silver Lane School
 15 Mercer Ave, East Hartford, CT, 06118-1517
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-569-5900 x158
-🗺 https://maps.google.com/?q=41.76058,-72.63505
 
 21. Thelma Ellis Dickerson's Jumoke Academy Elementary SBHC
 250 Blue Hills Ave  RM conf, Hartford, CT, 06112-1836
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-527-0575
-🗺 https://maps.google.com/?q=41.79116,-72.69807
 
 22. Sunset Ridge Middle School Based Health Center
 450 Forbes St, East Hartford, CT, 06118-1716
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-569-5900 x158
-🗺 https://maps.google.com/?q=41.76471,-72.60005
 
 23. InterCommunity Woodland K-12 SBHC
 110 Long Hill Dr BLDG, East Hartford, CT, 06108-3809
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-569-5900
-🗺 https://maps.google.com/?q=41.78546,-72.59464
 
 24. First Choice @ Howell Cheney Technical High School
 791 West Middle Turnpike, Manchester, CT, 06040-1819
@@ -180,21 +157,18 @@
 🌐 https://www.firstchc.org
 🏥 Services: Primary Care
 📞 860-528-1359 x183
-🗺 https://maps.google.com/?q=41.78164,-72.56171
 
 25. Odyssey Community School SBHC
 579 Middlesex Tnpk  RM 149, Manchester, CT, 06040-2728
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-645-1234
-🗺 https://maps.google.com/?q=41.78109,-72.55053
 
 26. Holmes Elementary School SBHC
 2150 Stanley St, New Britain, CT, 06053-1566
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-223-8984
-🗺 https://maps.google.com/?q=41.70415,-72.77570
 
 27. InterCommunity SBHC Illing Middle School
 227 Middle Tpke E BLDG, Manchester, CT, 06040-4261
@@ -202,63 +176,54 @@
 🌐 https://www.intercommunityct.org/
 🏥 Services: Primary Care
 📞 860-569-5900 x158
-🗺 https://maps.google.com/?q=41.78206,-72.53375
 
 28. Pulaski Middle School
 757 Farmington Ave, New Britain, CT, 06053-1364
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-347-6971
-🗺 https://maps.google.com/?q=41.69956,-72.78777
 
 29. InterCommunity South Windsor
 828 Sullivan Ave BLDG 1ST, South Windsor, CT, 06074-2093
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-569-5900
-🗺 https://maps.google.com/?q=41.84799,-72.56859
 
 30. Smalley Academy SBHC
 175 West St, New Britain, CT, 06051-1415
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-225-8647
-🗺 https://maps.google.com/?q=41.67682,-72.77125
 
 31. New Britain Consolidated School
 221 Farmington Ave Rm 103, New Britain, CT, 06053-2979
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-832-5691
-🗺 https://maps.google.com/?q=41.68357,-72.78758
 
 32. Roosevelt Middle School SBHC
 40 Goodwin St, New Britain, CT, 06051-2814
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.chc1.com
 🏥 Services: Primary Care
-🗺 https://maps.google.com/?q=41.66542,-72.76163
 
 33. EC Goodwin Technical High School SBHC
 735 Slater Rd, New Britain, CT, 06053-2200
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-347-6971
-🗺 https://maps.google.com/?q=41.68668,-72.80561
 
 34. W.Y.A. Community Mental Health Associates (CMHA)
 233 Main St, New Britain, CT, 06051-4204
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-347-6971
-🗺 https://maps.google.com/?q=41.66749,-72.78139
 
 35. FRIENDSHIP SERVICE CENTER OF NEW BRITAIN
 241 Arch, New Britain, CT, 06051-2518
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-225-0211
-🗺 https://maps.google.com/?q=41.66246,-72.78277
 
 36. New Britain High School - SBHC
 110 Mill St, New Britain, CT, 06051-3413
@@ -266,21 +231,18 @@
 🌐 https://www.chc1.com
 🏥 Services: Primary Care
 📞 860-826-8845
-🗺 https://maps.google.com/?q=41.64994,-72.77809
 
 37. East Windsor High School SBHC
 76 S Main St, East Windsor, CT, 06088-9741
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-623-3361
-🗺 https://maps.google.com/?q=41.90106,-72.61154
 
 38. Slade Middle School The Catalyst Academy SBHC
 183 STEELE ST, NEW BRITAIN, CT, 06052-1555
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-225-6325
-🗺 https://maps.google.com/?q=41.66016,-72.80675
 
 39. Wheeler Mobile Health & Wellness #1
 91 Northwest Drive, Plainville, CT, 06062
@@ -288,7 +250,6 @@
 🌐 https://www.wheelerclinic.org
 🏥 Services: Primary Care
 📞 860-793-3500
-🗺 https://maps.google.com/?q=41.69249,-72.87988
 
 40. Plainville Family Health and Wellness Center
 91 Northwest Drive, Plainville, CT, 06062-1534
@@ -296,14 +257,12 @@
 🌐 https://www.wheelerclinic.org
 🏥 Services: Primary Care
 📞 860-793-3500
-🗺 https://maps.google.com/?q=41.69249,-72.87988
 
 41. Broad Brook Elementary SBHC
 14 Rye St, Broad Brook, CT, 06016-9552
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-623-2433
-🗺 https://maps.google.com/?q=41.91084,-72.54639
 
 42. Ivy Drive School
 160 Ivy Dr, Bristol, CT, 06010-3303
@@ -311,7 +270,6 @@
 🌐 https://www.wheelerclinic.org
 🏥 Services: Primary Care
 📞 860-793-3500
-🗺 https://maps.google.com/?q=41.70450,-72.90117
 
 43. Northeast Middle School
 530 Stevens St, Bristol, CT, 06010-2587
@@ -319,7 +277,6 @@
 🌐 https://www.wheelerclinic.org
 🏥 Services: Primary Care
 📞 860-793-3500
-🗺 https://maps.google.com/?q=41.71265,-72.90827
 
 44. Middletown High School SBHC
 200 La Rosa Ln, Middletown, CT, 06457-2148
@@ -327,21 +284,18 @@
 🌐 https://www.chc1.com
 🏥 Services: Primary Care
 📞 860-704-4500
-🗺 https://maps.google.com/?q=41.57680,-72.67959
 
 45. Portland Middle and High School SBHC
 93 - 95 High Street, Portland, CT, 06480-1656
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-342-1720
-🗺 https://maps.google.com/?q=41.58030,-72.62208
 
 46. Brownstone Intermediate School SBHC
 314 Main St, Portland, CT, 06480-1877
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-342-6765
-🗺 https://maps.google.com/?q=41.57736,-72.63796
 
 47. Greene-Hills School
 718 Pine St, Bristol, CT, 06010-6923
@@ -349,7 +303,6 @@
 🌐 https://www.wheelerclinic.org
 🏥 Services: Primary Care
 📞 860-793-3884
-🗺 https://maps.google.com/?q=41.66751,-72.89579
 
 48. Hubbell School
 90 W Washington St, Bristol, CT, 06010-5485
@@ -357,42 +310,36 @@
 🌐 https://www.wheelerclinic.org
 🏥 Services: Primary Care
 📞 960-793-3500
-🗺 https://maps.google.com/?q=41.67883,-72.90818
 
 49. Edgar H Parkman School SBHC
 165 Weymouth Rd, Enfield, CT, 06082-6218
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-253-6574
-🗺 https://maps.google.com/?q=41.94900,-72.57020
 
 50. CHC MOBILE DENTAL UNIT B (MDU B)
 800 Old Colchester Rd, Oakdale, CT, 06370-2608
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-347-6971
-🗺 https://maps.google.com/?q=41.56505,-72.65289
 
 51. Bristol Eastern High School
 632 King Street  RM 100A, Bristol, CT, 06010-9202
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-584-7876
-🗺 https://maps.google.com/?q=41.68553,-72.92243
 
 52. Middletown Expulsion Program SBHC
 398 Main St, Middletown, CT, 06457-3310
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-638-1401
-🗺 https://maps.google.com/?q=41.56171,-72.65048
 
 53. Bristol Preparatory Academy/Adult Education Center SBHC
 210 Redstone Hill Rd  RM BPA #5, Bristol, CT, 06010-7740
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-584-7865
-🗺 https://maps.google.com/?q=41.65766,-72.90707
 
 54. John F Kennedy Middle School SBHC
 155 Raffia Rd, Enfield, CT, 06082-5691
@@ -400,14 +347,12 @@
 🌐 https://www.chc1.com
 🏥 Services: Primary Care
 📞 860-763-8855
-🗺 https://maps.google.com/?q=41.95687,-72.56362
 
 55. Enfield Street School SBHC
 1318 Enfield St, Enfield, CT, 06082-4942
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-253-6567
-🗺 https://maps.google.com/?q=41.97612,-72.59355
 
 56. Bristol Arts and Innovation Magnet School
 70 Memorial Blvd, Bristol, CT, 06010-6568
@@ -415,35 +360,30 @@
 🌐 https://www.wheelerclinic.org
 🏥 Services: Primary Care
 📞 860-793-3500
-🗺 https://maps.google.com/?q=41.66892,-72.93880
 
 57. Eagle Academy SBHC
 1270 Enfield St, Enfield, CT, 06082-4919
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-253-6323
-🗺 https://maps.google.com/?q=41.97881,-72.59224
 
 58. COMMUNITY HEALTH CENTER OF BRISTOL
 395 N Main St, Bristol, CT, 06010-4924
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-585-5000
-🗺 https://maps.google.com/?q=41.67934,-72.94780
 
 59. Edison Middle School SBHC
 1355 N Broad St, Meriden, CT, 06450-2438
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-639-8403
-🗺 https://maps.google.com/?q=41.55504,-72.77716
 
 60. East Hampton Middle School SBHC
 19 Childs Rd, East Hampton, CT, 06424-1709
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-365-4060
-🗺 https://maps.google.com/?q=41.56818,-72.52277
 
 61. Chippens Hill Middle School
 551 Peacedale St, Bristol, CT, 06010-8939
@@ -451,14 +391,12 @@
 🌐 https://www.wheelerclinic.org
 🏥 Services: Primary Care
 📞 860-793-4778
-🗺 https://maps.google.com/?q=41.69913,-72.96523
 
 62. Farm Hill Elementary SBHC
 398 Ridge Rd, Middletown, CT, 06457-4437
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-347-1225
-🗺 https://maps.google.com/?q=41.53811,-72.64230
 
 63. South Side School
 21 Tuttle Rd, Bristol, CT, 06010-9475
@@ -466,21 +404,18 @@
 🌐 https://www.wheelerclinic.org
 🏥 Services: Primary Care
 📞 860-793-3046
-🗺 https://maps.google.com/?q=41.66136,-72.95251
 
 64. Eli Whitney School SBHC
 94 Middle Rd, Enfield, CT, 06082-4594
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-763-7544
-🗺 https://maps.google.com/?q=41.98563,-72.55580
 
 65. Memorial School SBHC
 20 Smith St, East Hampton, CT, 06424-1677
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-365-4020
-🗺 https://maps.google.com/?q=41.57054,-72.48565
 
 66. MERI CARE DENTAL CENTER
 165 MILLER ST, MERIDEN, CT, 06450-4256
@@ -488,14 +423,12 @@
 🌐 https://www.chc1.com
 🏥 Services: Primary Care
 📞 203-639-3500
-🗺 https://maps.google.com/?q=41.53732,-72.79445
 
 67. Henry Barnard School SBHC
 27 Shaker Rd, Enfield, CT, 06082-3100
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-253-6544
-🗺 https://maps.google.com/?q=42.00291,-72.56229
 
 68. Platt High School - SBHC
 220 COE AVE, MERIDEN, CT, 06451-3812
@@ -503,35 +436,30 @@
 🌐 https://www.chc1.com
 🏥 Services: Primary Care
 📞 203-235-7963
-🗺 https://maps.google.com/?q=41.53395,-72.82623
 
 69. Prudence Crandall School SBHC
 150 Brainard Rd, Enfield, CT, 06082-2649
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-253-6466
-🗺 https://maps.google.com/?q=42.01614,-72.56905
 
 70. Frank Ward Strong SBHC
 191 Main St, Durham, CT, 06422-2108
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-349-7222
-🗺 https://maps.google.com/?q=41.47633,-72.67900
 
 71. Nathan Hale Ray Middle School SBHC
 73 Clark Gates Rd, Moodus, CT, 06469-1222
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-873-5065
-🗺 https://maps.google.com/?q=41.52003,-72.44494
 
 72. Torrington Intermediate School
 200 Middle School Dr, Torrington, CT, 06790-3168
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-496-4050
-🗺 https://maps.google.com/?q=41.83379,-73.07006
 
 73. UCFS Behavioral Health Center - Colchester
 212 Upton Rd, Colchester, CT, 06415-2712
@@ -539,14 +467,12 @@
 🌐 https://www.ucfs.org
 🏥 Services: Primary Care
 📞 860-537-7676
-🗺 https://maps.google.com/?q=41.57870,-72.34848
 
 74. Wilby High School SBHC
 568 Bucks Hill Rd, Waterbury, CT, 06704-1270
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-574-8100
-🗺 https://maps.google.com/?q=41.60433,-73.02696
 
 75. Waterbury Health & Wellness Center
 855 Lakewood Rd, Waterbury, CT, 06704-2483
@@ -554,7 +480,6 @@
 🌐 https://www.wheelerclinic.org
 🏥 Services: Primary Care
 📞 860-793-3500
-🗺 https://maps.google.com/?q=41.57120,-73.00626
 
 76. Torringford Elementary School
 800 Charles St, Torrington, CT, 06790-3495
@@ -562,49 +487,42 @@
 🌐 https://www.chwctorr.org
 🏥 Services: Primary Care
 📞 860-489-2300
-🗺 https://maps.google.com/?q=41.81888,-73.09287
 
 77. Torrington Middle School and High School
 50 Major Besse Dr, Torrington, CT, 06790-3721
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-489-2294
-🗺 https://maps.google.com/?q=41.81591,-73.11052
 
 78. Oliver Wolcott Vocational Technical School
 75 OLIVER ST, TORRINGTON, CT, 06790-3859
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-496-5300
-🗺 https://maps.google.com/?q=41.81146,-73.11176
 
 79. Sullivan Senior Center
 88 E Albert St, Torrington, CT, 06790-6522
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-489-2211
-🗺 https://maps.google.com/?q=41.79490,-73.11789
 
 80. Community Health and Wellness Center
 10 Center St, Winsted, CT, 06098-1623
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-238-4211
-🗺 https://maps.google.com/?q=41.92135,-73.07018
 
 81. The Isabelle Pearson School SBHC
 2 Wetmore Ave, Winchester, CT, 06094
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-379-7588
-🗺 https://maps.google.com/?q=41.92659,-73.06747
 
 82. FISH Torrington Emergency Shelter
 332 S Main St, Torrington, CT, 06790-6767
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-496-1648
-🗺 https://maps.google.com/?q=41.79362,-73.12068
 
 83. Generations Family Health Center
 1315 Main St, Willimantic, CT, 06226-1948
@@ -612,7 +530,6 @@
 🌐 http://www.genhealth.org
 🏥 Services: Primary Care
 📞 860-450-7471
-🗺 https://maps.google.com/?q=41.71612,-72.22801
 
 84. Vogel Whetmore Elementary School
 68 Church St, Torrington, CT, 06790-5217
@@ -620,7 +537,6 @@
 🌐 https://www.chwctorr.org
 🏥 Services: Primary Care
 📞 860-489-2570
-🗺 https://maps.google.com/?q=41.80357,-73.12328
 
 85. GFHC Mobile Health Unit
 40 Mansfield Ave, Willimantic, CT, 06226-2018
@@ -628,14 +544,12 @@
 🌐 https://www.genhealth.org
 🏥 Services: Primary Care
 📞 860-450-7471
-🗺 https://maps.google.com/?q=41.71539,-72.22564
 
 86. Mary P. Hinsdale - SBHC
 15 Hinsdale Avenue, Winsted, CT, 06098-1107
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-379-5956
-🗺 https://maps.google.com/?q=41.92740,-73.07463
 
 87. StayWell Health Center
 402 E MAIN ST, WATERBURY, CT, 06702-1701
@@ -643,35 +557,30 @@
 🌐 https://staywellhealth.org
 🏥 Services: Primary Care
 📞 203-755-1143
-🗺 https://maps.google.com/?q=41.55416,-73.03401
 
 88. Stafford Elementary School
 11 LEVINTHAL RUN, STAFFORD SPRINGS, CT, 06076-3744
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-347-6971 x3720
-🗺 https://maps.google.com/?q=41.97198,-72.30421
 
 89. Stafford Middle School
 21 Levinthal Run, Stafford, CT
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-347-6971
-🗺 https://maps.google.com/?q=41.97152,-72.30187
 
 90. Brass City School SBHC
 289 Willow St, Waterbury, CT, 06710-1515
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-527-5942
-🗺 https://maps.google.com/?q=41.56565,-73.04950
 
 91. Arts at the Capitol Theater SBHC
 896 Main St, Willimantic, CT, 06226-2310
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-465-5636
-🗺 https://maps.google.com/?q=41.71233,-72.21612
 
 92. FAST Academy
 500 Migeon Ave, Torrington, CT, 06790-4644
@@ -679,77 +588,66 @@
 🌐 https://www.chwctorr.org
 🏥 Services: Primary Care
 📞 860-610-8705
-🗺 https://maps.google.com/?q=41.81301,-73.13273
 
 93. Mobile Medical Unit
 469 Migeon Avenue  BLDG, Torrington, CT, 06790-4643
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-489-0931
-🗺 https://maps.google.com/?q=41.81152,-73.13326
 
 94. Aces Chase Academy SBHC
 565 Chase Pkwy Rm 116-118, Waterbury, CT, 06708-3303
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-580-6569
-🗺 https://maps.google.com/?q=41.54746,-73.06573
 
 95. Ashford School SBHC
 440 Westford Rd, Ashford, CT, 06278-2538
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-429-6419
-🗺 https://maps.google.com/?q=41.89249,-72.17013
 
 96. North Haven High School SBHC
 221 Elm St, North Haven, CT, 06473-3251
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-239-1641
-🗺 https://maps.google.com/?q=41.37236,-72.86264
 
 97. Hamden Middle School SBHC
 2623 Dixwell Ave, Hamden, CT, 06518-3304
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-407-3140
-🗺 https://maps.google.com/?q=41.37979,-72.91190
 
 98. CS-HHC at the Ridge Hill Elementary School
 120 Carew Road  SBHC Room, Hamden, CT, 06517-2906
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-503-3000
-🗺 https://maps.google.com/?q=41.34645,-72.89759
 
 99. Deer Run School SBHC
 311 Foxon Rd, East Haven, CT, 06513-2017
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-468-3324
-🗺 https://maps.google.com/?q=41.32667,-72.83549
 
 100. Fair Haven Community Health Care at Bishop Woods School
 1481 Quinnipiac Ave, New Haven, CT, 06513-1520
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-777-7714
-🗺 https://maps.google.com/?q=41.32721,-72.86920
 
 101. CS-HHC at Helen Street Elementary School
 285 Helen Street  SBHC Room, Hamden, CT, 06514-4326
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-503-3000
-🗺 https://maps.google.com/?q=41.34966,-72.94368
 
 102. Ross Woodward School Based Health Center
 185 Barnes Ave, New Haven, CT, 06513-1707
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-777-7411
-🗺 https://maps.google.com/?q=41.32381,-72.87770
 
 103. Wilmont Crossing Health Center
 122 Wilmot Rd, New Haven, CT, 06515-1007
@@ -757,14 +655,12 @@
 🌐 https://www.cornellscott.org
 🏥 Services: Primary Care
 📞 203-503-3000
-🗺 https://maps.google.com/?q=41.34266,-72.95848
 
 104. Lewin G Joel School SBHC
 137A Glenwood Rd, Clinton, CT, 06413-1425
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-664-6501
-🗺 https://maps.google.com/?q=41.30439,-72.52476
 
 105. Fair Haven Medical Group at Bella Vista
 339 Eastern St, New Haven, CT, 06513-2463
@@ -772,7 +668,6 @@
 🌐 https://www.fhchc.org
 🏥 Services: Primary Care
 📞 203-469-5331
-🗺 https://maps.google.com/?q=41.31508,-72.87241
 
 106. KING ROBINSON SBHC
 150 FOURNIER ST, NEW HAVEN, CT, 06511-1763
@@ -780,7 +675,6 @@
 🌐 https://www.cornellscott.org
 🏥 Services: Primary Care; School-based health care for children and adolescents
 📞 203-691-2791
-🗺 https://maps.google.com/?q=41.33422,-72.93945
 
 107. Wilbur Cross High School Body Shop
 181 MITCHELL DR, NEW HAVEN, CT, 06511-2515
@@ -788,28 +682,24 @@
 🌐 https://www.fhchc.org
 🏥 Services: Primary Care
 📞 203-946-8742
-🗺 https://maps.google.com/?q=41.32405,-72.90813
 
 108. The Morgan School SBHC
 71 Killingworth Tpke, Clinton, CT, 06413-1359
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-664-6544
-🗺 https://maps.google.com/?q=41.30031,-72.53317
 
 109. Grand Pharmacy at 111 Grand Avenue
 111 Grand Ave, New Haven, CT, 06513-3907
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-777-7411
-🗺 https://maps.google.com/?q=41.30942,-72.89175
 
 110. UCFS Beyond Healthcare
 55 Town St, Norwich, CT, 06360-2332
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-892-7042
-🗺 https://maps.google.com/?q=41.54725,-72.09259
 
 111. Family Academy of Multi-Lingual Exploration (FAME)
 255 Blatchley Ave, New Haven, CT, 06513-3509
@@ -817,21 +707,18 @@
 🌐 https://www.fhchc.org
 🏥 Services: Primary Care
 📞 203-777-7411
-🗺 https://maps.google.com/?q=41.30962,-72.89887
 
 112. Leonard J. Tyl Middle School - School Based Health Center
 166 Chesterfield Rd, Oakdale, CT, 06370-1698
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-848-2822
-🗺 https://maps.google.com/?q=41.45748,-72.16925
 
 113. CS-HHC at L.W. Beecher Museum Magnet School of Arts and Sciences
 100 Jewell St, New Haven, CT, 06515-1323
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-503-3000
-🗺 https://maps.google.com/?q=41.32607,-72.95373
 
 114. Dixwell Child & Family Guidance
 226 Dixwell Ave STE ESP, New Haven, CT, 06511-3456
@@ -839,7 +726,6 @@
 🌐 https://www.cornellscott.org
 🏥 Services: Primary Care
 📞 203-503-3440
-🗺 https://maps.google.com/?q=41.31927,-72.93398
 
 115. Cornell Scott-Hill Health Center at “Q” House 1st Floor
 197 Dixwell Avenue, 1st Floor, New Haven, CT, 06511-3415
@@ -847,7 +733,6 @@
 🌐 http://www.cornellscott.org
 🏥 Services: Primary Care
 📞 203-503-3000
-🗺 https://maps.google.com/?q=41.31881,-72.93278
 
 116. Health Care for the Homeless Team
 226 Dixwell Ave, New Haven, CT, 06511-3456
@@ -855,14 +740,12 @@
 🌐 https://www.cornellscott.org
 🏥 Services: Primary Care
 📞 203-503-3420
-🗺 https://maps.google.com/?q=41.31907,-72.93462
 
 117. Multicultural Ambulatory Addictions Services
 426 East St, New Haven, CT, 06511-5018
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Mental health
 📞 203-495-7710
-🗺 https://maps.google.com/?q=41.31055,-72.90991
 
 🌐 http://www.casaincct.org
 
@@ -871,14 +754,12 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-483-1826
-🗺 https://maps.google.com/?q=41.28442,-72.78877
 
 119. CS-HHC at Dr. Reginald Mayo Early Learning Center
 185 Goffe St, New Haven, CT, 06511-3307
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-503-3000
-🗺 https://maps.google.com/?q=41.31687,-72.93647
 
 120. GENERATIONS FHC - NORWICH
 330 Washington St STE 510, Norwich, CT, 06360-2733
@@ -886,28 +767,24 @@
 🌐 https://www.genhealth.org
 🏥 Services: Primary Care
 📞 860-885-1308
-🗺 https://maps.google.com/?q=41.54313,-72.08842
 
 121. Fair Haven Community Health Care at 645 Grand Avenue
 645 Grand Ave, New Haven, CT, 06511-5011
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-777-7411
-🗺 https://maps.google.com/?q=41.30883,-72.91186
 
 122. UCFS at Global Studies Magnet Middle School
 15 Teachers Dr, Norwich, CT, 06360-4029
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-823-4212
-🗺 https://maps.google.com/?q=41.52897,-72.09671
 
 123. UCFS at Stanton Network Elementary School
 386 New London Tpke, Norwich, CT, 06360-5337
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-823-4207
-🗺 https://maps.google.com/?q=41.52214,-72.10109
 
 124. COMMUNITY SOUP KITCHEN-BROADWAY
 84 BROADWAY STREET, NEW HAVEN, CT, 06511-3412
@@ -915,7 +792,6 @@
 🌐 https://www.cornellscott.org
 🏥 Services: Primary Care
 📞 203-624-4594
-🗺 https://maps.google.com/?q=41.31199,-72.93227
 
 125. FELLOWSHIP PLACE HOMELESS OUTREA
 441 Elm St, New Haven, CT, 06511-4523
@@ -923,7 +799,6 @@
 🌐 https://www.cornellscott.org
 🏥 Services: Primary Care
 📞 203-865-3719
-🗺 https://maps.google.com/?q=41.31264,-72.93545
 
 126. Norwich Technical High School - School Based Health Center
 7 MAHAN DR, NORWICH, CT, 06360-2425
@@ -931,14 +806,12 @@
 🌐 https://www.ucfs.org
 🏥 Services: Primary Care
 📞 860-822-4909
-🗺 https://maps.google.com/?q=41.54974,-72.07786
 
 127. CS-HHC at Augusta Lewis Troup School
 259 EDGEWOOD AVE, NEW HAVEN, CT, 06511-4106
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Community Outpatient Facility, School Based Clinic. Source: data.hrsa.gov.
 🏥 Services: Primary Care; School-based health care for children and adolescents
 📞 203-691-3000
-🗺 https://maps.google.com/?q=41.31317,-72.94230
 
 🌐 https://augustalewistroupschool.weebly.com/
 
@@ -947,7 +820,6 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-481-5386
-🗺 https://maps.google.com/?q=41.27932,-72.81206
 
 129. Metropolitan Business Academy
 115 Water St, New Haven, CT, 06511-5758
@@ -955,7 +827,6 @@
 🌐 https://www.metropolitanbusinessacademy.org
 🏥 Services: Primary Care
 📞 475-220-7700
-🗺 https://maps.google.com/?q=41.30097,-72.91891
 
 130. CS-HHC at CMHC
 34 Park St, New Haven, CT, 06519-1109
@@ -963,28 +834,24 @@
 🌐 https://www.cornellscott.org
 🏥 Services: Primary Care
 📞 203-503-3000
-🗺 https://maps.google.com/?q=41.30557,-72.93685
 
 131. Joseph Melillo Middle School SBHC
 67 Hudson St, East Haven, CT, 06512-1524
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-468-3226
-🗺 https://maps.google.com/?q=41.28630,-72.86674
 
 132. UCFS Eldercare Health Center
 165 Mckinley Ave, Norwich, CT, 06360-3509
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-887-5005
-🗺 https://maps.google.com/?q=41.53538,-72.07777
 
 133. Cornell Scott-Hill Health Center at the Recovery and Wellness Center
 149 Minor St, New Haven, CT, 06519-1623
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-503-3000
-🗺 https://maps.google.com/?q=41.29922,-72.93307
 
 134. SOUTH CENTRAL REHAB CENTER
 232 Cedar St, New Haven, CT, 06519-1610
@@ -992,14 +859,12 @@
 🌐 https://www.cornellscott.org
 🏥 Services: Primary Care
 📞 203-503-3300
-🗺 https://maps.google.com/?q=41.29901,-72.93272
 
 135. Shoreline Family Health Care
 221 W Main St, Branford, CT, 06405-4022
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-777-7411
-🗺 https://maps.google.com/?q=41.27737,-72.85499
 
 136. ROBERTO CLEMENTE SCHOOL CLINIC
 360 COLUMBUS AVE, NEW HAVEN, CT, 06519-1516
@@ -1007,7 +872,6 @@
 🌐 https://www.cornellscott.org
 🏥 Services: Primary Care
 📞 203-497-7617
-🗺 https://maps.google.com/?q=41.29739,-72.93580
 
 137. CS-HHC at Sargent Drive
 150 Sargent Drive  STE 1-200, New Haven, CT, 06511-6100
@@ -1015,7 +879,6 @@
 🌐 https://www.cornellscott.org
 🏥 Services: Primary Care
 📞 203-503-3000
-🗺 https://maps.google.com/?q=41.29290,-72.92193
 
 138. Martha's Place
 559 Howard Ave, New Haven, CT, 06519-2139
@@ -1023,14 +886,12 @@
 🌐 https://www.cornellscott.org
 🏥 Services: Primary Care
 📞 203-624-5798
-🗺 https://maps.google.com/?q=41.29644,-72.93363
 
 139. Overbrook Early Learning Center SBHC
 54 Gerrish Ave, East Haven, CT, 06512-2725
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-468-3305
-🗺 https://maps.google.com/?q=41.28046,-72.88096
 
 140. HILL CENTRAL SCHOOL CLINIC
 140 Dewitt St, New Haven, CT, 06519-2133
@@ -1038,14 +899,12 @@
 🌐 https://www.cornellscott.org
 🏥 Services: Primary Care
 📞 203-499-6119
-🗺 https://maps.google.com/?q=41.29504,-72.93566
 
 141. Pathways Academy SBHC
 35 Bishop St, East Haven, CT, 06512-2939
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 475-238-7932
-🗺 https://maps.google.com/?q=41.27723,-72.87549
 
 142. COLUMBUS HOUSE SHELTER CLINIC
 586 ELLA T. GRASSO BLVD, NEW HAVEN, CT, 06519-1806
@@ -1053,14 +912,12 @@
 🌐 https://www.cornellscott.org
 🏥 Services: Primary Care
 📞 203-401-4400 x106
-🗺 https://maps.google.com/?q=41.29497,-72.94644
 
 143. Emmett O'Brien Technical High School SBHC
 141 PRINDLE AVE, ANSONIA, CT, 06401-2561
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-732-1800
-🗺 https://maps.google.com/?q=41.33501,-73.06433
 
 144. CS-HHC SBHC at Carrigan Intermediate School
 2 Tetlow St, West Haven, CT, 06516-1819
@@ -1068,63 +925,54 @@
 🌐 https://www.cornellscott.org
 🏥 Services: Primary Care
 📞 203-503-3000
-🗺 https://maps.google.com/?q=41.29113,-72.97124
 
 145. CS-HHC at Washington Elementary School
 369 Washington Ave, West Haven, CT, 06516-5346
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-503-3000
-🗺 https://maps.google.com/?q=41.26873,-72.94569
 
 146. West Haven Health Center
 410 Campbell Ave, West Haven, CT, 06516-5014
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-503-3000
-🗺 https://maps.google.com/?q=41.26987,-72.94984
 
 147. Momauguin Elementary School
 99 COSEY BEACH RD, EAST HAVEN, CT, 06512-4621
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-347-6971 x3720
-🗺 https://maps.google.com/?q=41.24820,-72.87273
 
 148. CS-HHC at the Savin Rock Community School
 50 Park St, West Haven, CT, 06516-6052
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-503-3000
-🗺 https://maps.google.com/?q=41.26124,-72.94031
 
 149. CS-HHC at West Haven High School
 1 McDonough Plz  RM SBHC Room, West Haven, CT, 06516
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-503-3000
-🗺 https://maps.google.com/?q=41.26089,-72.95784
 
 150. Shelton High School - SBHC
 120 Meadow St  RM 407A, Shelton, CT, 06484-2276
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-521-5978
-🗺 https://maps.google.com/?q=41.32129,-73.11713
 
 151. Schaghticoke Middle School
 23 Hipp Rd, New Milford, CT, 06776-2223
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-354-2204
-🗺 https://maps.google.com/?q=41.62024,-73.39256
 
 152. Northville Elementary School
 22 Hipp Rd, New Milford, CT, 06776-2221
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-354-3713
-🗺 https://maps.google.com/?q=41.61847,-73.39414
 
 153. CS-HHC SBHC at Bailey Middle School
 106 Morgan Ln, West Haven, CT, 06516-6217
@@ -1132,35 +980,30 @@
 🌐 https://www.cornellscott.org
 🏥 Services: Primary Care
 📞 203-503-3000
-🗺 https://maps.google.com/?q=41.25438,-72.97785
 
 154. Plainfield Central School SBHC
 75 Canterbury Rd, Plainfield, CT, 06374-1563
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-564-6437
-🗺 https://maps.google.com/?q=41.68373,-71.93016
 
 155. Optimus at Shelton Intermediate School
 675 Constitution Blvd N  RM 250, Shelton, CT, 06484-6304
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-696-3260
-🗺 https://maps.google.com/?q=41.31453,-73.12049
 
 156. UCFS Behavioral Health Center - New London
 351 N Frontage Rd Ste 24, New London, CT, 06320-2628
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-442-4319
-🗺 https://maps.google.com/?q=41.37037,-72.11952
 
 157. UCFS School Based Health Center at Clark Lane Middle School
 105 Clark Ln, Waterford, CT, 06385-2120
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-822-2803
-🗺 https://maps.google.com/?q=41.35158,-72.12618
 
 158. UCFS Health Center - Plainfield
 120-122 Plainfield Road, Moosup, CT, 06354-1632
@@ -1168,14 +1011,12 @@
 🌐 https://www.ucfs.org
 🏥 Services: Primary Care
 📞 860-564-2198
-🗺 https://maps.google.com/?q=41.71037,-71.89473
 
 159. WYA NEW LONDON HOMELESS HOSPITALAILTY CENTER
 327 HUNTINGTON ST, NEW LONDON, CT, 06320-6214
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-347-6971
-🗺 https://maps.google.com/?q=41.36345,-72.10173
 
 160. The Interdistrict School for Arts and Communication (ISAAC) - SBHC
 190 GOVERNOR WINTHROP BLVD, NEW LONDON, CT, 06320-6633
@@ -1183,7 +1024,6 @@
 🌐 https://www.chc1.com
 🏥 Services: Primary Care
 📞 860-447-1003
-🗺 https://maps.google.com/?q=41.35575,-72.09819
 
 161. Sharon Center School
 80 Hilltop Rd, Sharon, CT, 06069-2150
@@ -1191,14 +1031,12 @@
 🌐 https://www.chwctorr.org
 🏥 Services: Primary Care
 📞 860-364-5153
-🗺 https://maps.google.com/?q=41.88188,-73.47297
 
 162. New Milford High School
 388 Danbury Rd, New Milford, CT, 06776-4317
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-350-6647
-🗺 https://maps.google.com/?q=41.52710,-73.42477
 
 163. CS-HHC at Beth-El Center Homeless Clinic
 90 New Haven Ave, Milford, CT, 06460-4827
@@ -1206,70 +1044,60 @@
 🌐 https://www.cornellscott.org
 🏥 Services: Primary Care
 📞 203-503-3000
-🗺 https://maps.google.com/?q=41.22316,-73.05341
 
 164. Marine Science Magnet High School of Southeastern CT SBHC
 130 Shennecossett Rd, Groton, CT, 06340-5117
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-446-9380
-🗺 https://maps.google.com/?q=41.33745,-72.07170
 
 165. Harry B. Flood Middle School - SBHC
 490 Chapel St, Stratford, CT, 06614-1690
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-385-4289 x3704
-🗺 https://maps.google.com/?q=41.23882,-73.11940
 
 166. Eli Whitney Elementary SBHC
 1130 Huntington Road, Rm# PDLC, Stratford, CT, 06614-2738
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-385-4198
-🗺 https://maps.google.com/?q=41.22238,-73.13420
 
 167. Ralph M.T. Johnson School SBHC
 500 Whittlesey Dr Rm 124F, Bethel, CT, 06801-1518
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-794-8700
-🗺 https://maps.google.com/?q=41.38342,-73.39237
 
 168. Bethel Middle School SBHC
 600 Whittlesey Dr, Bethel, CT, 06801-1531
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-794-8670
-🗺 https://maps.google.com/?q=41.38138,-73.39243
 
 169. Fairchild Wheeler Interdistrict Magnet Campus - SBHC
 840 Old Town Rd, Bridgeport, CT, 06606-1448
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-275-3324
-🗺 https://maps.google.com/?q=41.22512,-73.18449
 
 170. Frank A. Berry School SBHC
 200 Whittlesey Dr Rm 34, Bethel, CT, 06801-1528
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-794-8686
-🗺 https://maps.google.com/?q=41.37949,-73.39625
 
 171. Stratford High School SBHC
 245 King St, Stratford, CT, 06615-5832
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-385-4230
-🗺 https://maps.google.com/?q=41.19704,-73.13478
 
 172. Bullard-Havens Technical High School - SBHC
 500 Palisade Ave, Bridgeport, CT, 06610-3458
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-275-6424
-🗺 https://maps.google.com/?q=41.20034,-73.16350
 
 173. OPTIMUS on Boston Avenue
 305 Boston Ave, Stratford, CT, 06614-5246
@@ -1277,21 +1105,18 @@
 🌐 https://optimushealthcare.org/opthc/
 🏥 Services: Primary Care
 📞 203-375-7242
-🗺 https://maps.google.com/?q=41.19225,-73.15367
 
 174. Broadview Middle School
 72 Hospital Ave, Danbury, CT, 06810-6021
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-731-8272
-🗺 https://maps.google.com/?q=41.40664,-73.44117
 
 175. Liberation Programs
 399 Mill Hill Ave, Bridgeport, CT, 06610-2865
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Mental health
 📞 203-384-9301
-🗺 https://maps.google.com/?q=41.19195,-73.16570
 
 🌐 http://liberationprograms.org
 
@@ -1300,28 +1125,24 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-797-4460
-🗺 https://maps.google.com/?q=41.41279,-73.45402
 
 177. Stratford Academy Johnson House SBHC
 719 Birdseye St, Stratford, CT, 06615-6827
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-385-4180
-🗺 https://maps.google.com/?q=41.17922,-73.13917
 
 178. Ellsworth Avenue Elementary School
 53 Ellsworth Ave, Danbury, CT, 06810-5948
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-797-4740
-🗺 https://maps.google.com/?q=41.40382,-73.44980
 
 179. OPTIMUS Main Street Pediatrics
 3715 Main St, Bridgeport, CT, 06606-3618
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Pediatrics
 📞 203-371-7111
-🗺 https://maps.google.com/?q=41.21177,-73.21023
 
 180. PIVOT MINISTRIES
 495 Jane St, Bridgeport, CT, 06608-1707
@@ -1329,7 +1150,6 @@
 🌐 https://www.swchc.org
 🏥 Services: Primary Care; Health Care for the Homeless
 📞 203-336-9263
-🗺 https://maps.google.com/?q=41.19008,-73.17674
 
 181. CASA
 690 Arctic St, Bridgeport, CT, 06608-2008
@@ -1337,14 +1157,12 @@
 🌐 https://www.swchc.org
 🏥 Services: Primary Care; Mental health; Health Care for the Homeless
 📞 203-339-4112
-🗺 https://maps.google.com/?q=41.18887,-73.17647
 
 182. Rogers Park Middle School
 21 Memorial Drive, Danbury, CT, 06810
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-778-7479
-🗺 https://maps.google.com/?q=41.38284,-73.44064
 
 183. CIFC Health
 120 Main St, Danbury, CT, 06810-7834
@@ -1352,7 +1170,6 @@
 🌐 https://www.cifc.org
 🏥 Services: Primary Care
 📞 203-743-0100
-🗺 https://maps.google.com/?q=41.39197,-73.44982
 
 184. Florance Blackham School, School Based Health Centr
 425 Thorme St, Bridgeport, CT, 06606-3418
@@ -1360,7 +1177,6 @@
 🌐 https://www.swchc.org
 🏥 Services: Primary Care
 📞 203-396-8532
-🗺 https://maps.google.com/?q=41.20558,-73.21353
 
 185. OPTIMUS on East Main
 246 Warren Tpke, Falls Village, CT, 06031-1600
@@ -1368,21 +1184,18 @@
 🌐 https://www.optimushealthcare.org
 🏥 Services: Primary Care
 📞 203-696-3260
-🗺 https://maps.google.com/?q=41.18806,-73.18022
 
 186. Danbury High School
 43 Clapboard Ridge, Danbury, CT, 06811-4529
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-790-2886
-🗺 https://maps.google.com/?q=41.41600,-73.47103
 
 187. Optimus Wellness Clinic
 975 E Main St, Bridgeport, CT, 06608-1914
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-584-9320
-🗺 https://maps.google.com/?q=41.18797,-73.18100
 
 188. OPTIMUS on Barnum Avenue
 471 Barnum Ave, Bridgeport, CT, 06608-2409
@@ -1390,28 +1203,24 @@
 🌐 https://www.optimushealthcare.org
 🏥 Services: Ryan White HIV/AIDS Program; Primary Care
 📞 203-333-3030
-🗺 https://maps.google.com/?q=41.18725,-73.18019
 
 189. Hall Neighborhood House
 52 George E Pipkins Way, Bridgeport, CT, 06608-2425
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-330-6000
-🗺 https://maps.google.com/?q=41.18376,-73.17943
 
 190. Lordship Elementary SBHC
 254 Crown Street, RM # Library, Stratford, CT, 06615-7511
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-385-4170
-🗺 https://maps.google.com/?q=41.15442,-73.12642
 
 191. Geraldine W. Johnson School
 475 Lexington Ave  STE 123Health, Bridgeport, CT, 06604-2604
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-275-2500
-🗺 https://maps.google.com/?q=41.18478,-73.20385
 
 192. HARRISON APARTMENTS
 651 State St, Bridgeport, CT, 06604-4507
@@ -1419,7 +1228,6 @@
 🌐 https://www.swchc.org
 🏥 Services: Primary Care; Health Care for the Homeless
 📞 203-579-7612
-🗺 https://maps.google.com/?q=41.17396,-73.19720
 
 193. PROSPECT HOUSE
 392 Prospect St, Bridgeport, CT, 06604-4625
@@ -1427,21 +1235,18 @@
 🌐 https://www.swchc.org
 🏥 Services: Primary Care; Health Care for the Homeless
 📞 203-576-9041
-🗺 https://maps.google.com/?q=41.17200,-73.19604
 
 194. James J. Curiale School
 300 Laurel Ave, Bridgeport, CT, 06605-1103
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-576-8437
-🗺 https://maps.google.com/?q=41.17603,-73.20481
 
 195. Roosevelt School School Based Health Center
 680 Park Ave, Bridgeport, CT, 06604-4610
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-330-6000
-🗺 https://maps.google.com/?q=41.17094,-73.19514
 
 196. SOUTHWEST COMMUNITY HLTH CTR, INC
 968 Fairfield Ave, Bridgeport, CT, 06605-1116
@@ -1449,14 +1254,12 @@
 🌐 https://www.swchc.org
 🏥 Services: Primary Care
 📞 203-332-3500
-🗺 https://maps.google.com/?q=41.17452,-73.20317
 
 197. Bassick High School, School Based Health Clinic
 205 Broad St, Bridgeport, CT, 06604-5702
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-275-3083
-🗺 https://maps.google.com/?q=41.16636,-73.18678
 
 198. OPTIMUS Park City Primary Care
 64 BLACK ROCK AVE, BRIDGEPORT, CT, 06605-1200
@@ -1464,7 +1267,6 @@
 🌐 https://www.optimushealthcare.org
 🏥 Services: Primary Care
 📞 203-579-5000
-🗺 https://maps.google.com/?q=41.17131,-73.19737
 
 199. Westside Middle School Academy
 1 School Ridge Rd, Danbury, CT, 06811-5254
@@ -1472,35 +1274,30 @@
 🌐 https://www.cifc.org
 🏥 Services: Primary Care
 📞 203-743-0100
-🗺 https://maps.google.com/?q=41.38775,-73.48052
 
 200. Windward Apartments
 509 Park Ave, Bridgeport, CT, 06604-5859
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-330-6000
-🗺 https://maps.google.com/?q=41.16882,-73.19592
 
 201. Cesar Batalla, School Based Health Center
 606 Howard Ave, Bridgeport, CT, 06605-2016
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-579-8500
-🗺 https://maps.google.com/?q=41.17031,-73.20779
 
 202. Thomas Merton Family Center
 1406 State Street  STE 221, Bridgeport, CT, 06605-2005
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-367-9036
-🗺 https://maps.google.com/?q=41.17043,-73.21009
 
 203. OPTIMUS at Kinsella
 1862 Commerce Dr, Bridgeport, CT, 06605-2230
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Mental health
 📞 203-696-3260
-🗺 https://maps.google.com/?q=41.16827,-73.21814
 
 🌐 http://www.recovery-programs.org
 
@@ -1510,7 +1307,6 @@
 🌐 https://www.swchc.org
 🏥 Services: Primary Care
 📞 203-254-2935
-🗺 https://maps.google.com/?q=41.13936,-73.25749
 
 205. Kendall Elementary School
 57 Fillow St, Norwalk, CT, 06850-2839
@@ -1518,98 +1314,84 @@
 🌐 https://www.norwalkps.org
 🏥 Services: Primary Care
 📞 203-851-1010
-🗺 https://maps.google.com/?q=41.11865,-73.43295
 
 206. Ponus Ridge Middle School SBHC
 21 Hunters Ln, Norwalk, CT, 06850-2430
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-851-1010
-🗺 https://maps.google.com/?q=41.12336,-73.44061
 
 207. Norwalk Community Health Center, . – 120 Connecticut Ave
 120 Connecticut Ave, Norwalk, CT, 06854-1525
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-899-1770
-🗺 https://maps.google.com/?q=41.10607,-73.42823
 
 208. Toquam Magnet School
 123 Ridgewood Ave, Stamford, CT, 06907-2620
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-977-4556
-🗺 https://maps.google.com/?q=41.08012,-73.52400
 
 209. Dolan Middle School
 51 Toms Rd., Stamford, CT, 06906-1022
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-977-5278
-🗺 https://maps.google.com/?q=41.07880,-73.52405
 
 210. Turn of River MS SBHC
 117 Vine Rd, Stamford, CT, 06905-2016
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-977-5669
-🗺 https://maps.google.com/?q=41.09871,-73.54143
 
 211. Newfield School SBHC
 345 Pepper Ridge Rd, Stamford, CT, 06905-2801
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-977-4282
-🗺 https://maps.google.com/?q=41.09110,-73.53968
 
 212. CGC Maple Avenue CGC-SBHC
 90 Maple Ave, Stamford, CT, 06902-4040
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-324-6127
-🗺 https://maps.google.com/?q=41.05321,-73.52323
 
 213. Strawberry Hill SBHC
 200 Strawberry Hill Ave, Stamford, CT, 06902-2519
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-977-6600
-🗺 https://maps.google.com/?q=41.06705,-73.53443
 
 214. Rippowam MS/AITE HS
 381 High Ridge Rd., Stamford, CT, 06905-3018
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-977-5130
-🗺 https://maps.google.com/?q=41.08419,-73.54623
 
 215. Stamford High School
 55 Strawberry Hill Ave., Stamford, CT, 06902-2608
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-977-5512
-🗺 https://maps.google.com/?q=41.06204,-73.53238
 
 216. Anchor Alternative High School SBHC
 299 North St, Stamford, CT, 06901-1112
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-977-6156
-🗺 https://maps.google.com/?q=41.05915,-73.53544
 
 217. CHILD GUIDANCE CENTER OF SOUTHEREN CONNECTICUT
 401 Shippan Ave, Stamford, CT, 06902-6075
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-324-6127
-🗺 https://maps.google.com/?q=41.04554,-73.52516
 
 218. Family Centers Health Care at 986 Bedford
 986 Bedford St, Stamford, CT, 06905-5610
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Public Housing Program. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Mental health; Public housing primary care
 📞 203-324-3167
-🗺 https://maps.google.com/?q=41.06144,-73.53849
 
 🌐 http://www.familycenters.org
 
@@ -1618,7 +1400,6 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-323-8160
-🗺 https://maps.google.com/?q=41.06628,-73.54343
 
 220. Franklin Street Community Health Center
 141 Franklin St, Stamford, CT, 06901-1014
@@ -1626,7 +1407,6 @@
 🌐 https://www.chc1.com
 🏥 Services: Primary Care
 📞 203-969-0802
-🗺 https://maps.google.com/?q=41.05986,-73.54187
 
 221. OPTIMUS on the Boulevard
 1351 WASHINGTON BLVD, STAMFORD, CT, 06902-2419
@@ -1634,91 +1414,78 @@
 🌐 https://www.optimushealthcare.org
 🏥 Services: Primary Care
 📞 203-621-3700
-🗺 https://maps.google.com/?q=41.05822,-73.54255
 
 222. Westhill High School
 125 Roxbury Rd., Stamford, CT, 06902-1215
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-977-5581
-🗺 https://maps.google.com/?q=41.09203,-73.56520
 
 223. J.M. Wright Technical High School SBHC
 120 BRIDGE ST, STAMFORD, CT, 06905-4401
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-324-6323
-🗺 https://maps.google.com/?q=41.06198,-73.54811
 
 224. W.Y.A. Liberations
 119 Main St, Stamford, CT, 06901-2818
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-347-6971
-🗺 https://maps.google.com/?q=41.05254,-73.54346
 
 225. CGC Lathon Wider
 137 Henry St, Stamford, CT, 06902-5835
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-324-6127
-🗺 https://maps.google.com/?q=41.04449,-73.53867
 
 226. OPTIMUS at Inspirica
 710 Pacific St, Stamford, CT, 06902-6923
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-348-3333
-🗺 https://maps.google.com/?q=41.04300,-73.53765
 
 227. Stillmeadow Elementary SBHC
 800 Stillwater Rd, Stamford, CT, 06902-1800
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-977-4866
-🗺 https://maps.google.com/?q=41.06957,-73.55904
 
 228. OPTIMUS Harbor Point
 805 Atlantic Street, Stamford, CT, 06902
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-327-5111
-🗺 https://maps.google.com/?q=41.04347,-73.54184
 
 229. CGC Palmers Hill CGC
 64 Palmers Hill Rd  OFC Admin Ste, Stamford, CT, 06902-2113
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 860-347-6971
-🗺 https://maps.google.com/?q=41.05913,-73.56308
 
 230. LISH at Central Islip
 69 FAIRY DELL RD, CLINTON, CT, 06413-2403
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 631-439-4300
-🗺 https://maps.google.com/?q=40.77527,-73.19974
 
 231. FCHC SBHC at Greenwich High School
 10 Hillside Rd Rm 632, Greenwich, CT, 06830-4835
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-625-8021
-🗺 https://maps.google.com/?q=41.04006,-73.61296
 
 232. Family Centers Health Care at Wilbur Peck Court
 111 Wilbur Peck Ct, Greenwich, CT, 06830-6323
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-717-1760
-🗺 https://maps.google.com/?q=41.02460,-73.61886
 
 233. FCHC at 20 Bridge Street
 20 Bridge St, Greenwich, CT, 06830-5238
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
 📞 203-629-2822
-🗺 https://maps.google.com/?q=41.02182,-73.63289
 
 234. HAVEN Free Clinic (Yale)
 Yale Physicians Building, 800 Howard Ave, 1st Floor, New Haven, CT 06519
