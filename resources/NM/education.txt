@@ -3,7 +3,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Workforce skills
 ⏰ Hours: 8-5 M-F/By appt only
 📞 (575) 313-7738
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/hidalgo-county-literacy-program Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 2. Literacy Link-Leamos
 515 W College Ave, Silver City NM 88061
@@ -11,7 +11,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Technology skills, Workforce skills
 ⏰ Hours: Tuesday -Friday 10am-12 and 2pm-5pm Mountain Time
 📞 (575) 388-0892
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/literacy-link-leamos Directory cost field: no.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no.
 
 3. Socorro Public Library Literacy Program
 401 Park St., Socorro NM 87801
@@ -19,7 +19,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Help my child learn, Math, Technology skills, Workforce skills
 ⏰ Hours: Monday - Thursday 9 a.m. - 6 p.m. Fridays 9 a.m. - 5 p.m., Saturdays 9 a.m. - 2 p.m.
 📞 (575) 835-1114
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/socorro-public-library-literacy-program Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 4. Center for Educational Opportunity & Career Pathways
 2010 Bridge Blvd SW, Albuquerque NM 87105
@@ -27,7 +27,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills, Workforce skills
 ⏰ Hours: 9-5
 📞 (505) 304-0672
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/center-for-educational-opportunity-career-pathways Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 5. ReadWest, Inc Adult Literacy Center
 4131 Barbara Loop SE, Suite 1-D, Rio Rancho NM 87124
@@ -35,7 +35,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills, Workforce skills
 ⏰ Hours: Mon & Tues 8 am - 5 pm, Wed & Thurs 8am -8 pm, Fri 8 am -6 pm, Sat 9 am - 3pm
 📞 (505) 892-1131
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/readwest-inc-adult-literacy-center Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 6. La Plaza de Encuentro Gathering Place
 714 4th St SW, Albuquerque NM 87102
@@ -43,7 +43,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills
 ⏰ Hours: M-TH 8-8
 📞 (505) 297-2920
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/la-plaza-de-encuentro-gathering-place Instruction type: Classroom,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Instruction in Spanish.
 
 7. Ethos Literacy
 400 Gold Ave. SW, Suite 210, Albuquerque NM 87102
@@ -51,7 +51,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills
 ⏰ Hours: Monday to Friday, 9:00 am to 5:00 pm
 📞 (505) 321-9620
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/reading-works-inc-nm Directory cost field: no.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no.
 
 8. Valencia County Literacy Council
 309 El Cerro Mission Blvd, Los Lunas NM 87031
@@ -59,20 +59,20 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Help my child learn, Math, Technology skills, Workforce skills
 ⏰ Hours: 9-5, M-F
 📞 (505) 737-3523
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/valencia-county-literacy-council Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
 
 9. ESL and Citizenship Learning Community
 3701 Carlisle NE, Albuquerque NM 87110
 🏥 Services: Citizenship preparation, English classes, Reading and writing
 ⏰ Hours: 6:30 to 8:00 p.m. Monday
 📞 (505) 514-2857
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/esl-and-citizenship-learning-community Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Computer-aided.
 
 10. Kha'p'o Community School
 625 Kee Street, Espanola NM 87532
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Help my child learn, Math, Technology skills
 📞 (505) 753-4406
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/kha-p-o-community-school
+📝 Source: National Literacy Directory, retrieved 2026-11-08.
 
 11. Rio Arriba Adult Literacy Program
 812 Vietnam Veterans Memorial Park Road, Espanola NM 87532
@@ -80,7 +80,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Help my child learn, Workforce skills
 ⏰ Hours: M-Th 9am-5pm
 📞 (505) 303-6437
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/rio-arriba-adult-literacy-program-1 Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 12. Enmu-Ruidoso
 709 Mechem Drive, Ruidoso NM 88345
@@ -88,14 +88,14 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Help my child learn, Math, Technology skills, Workforce skills
 ⏰ Hours: 8-5 M-F
 📞 (575) 258-1730
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/enmu-ruidoso Directory cost field: no. Instruction type: Classroom,Computer-aided,Distance learning.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided,Distance learning.
 
 13. Roswell Literacy Council Learning Center
 609 W. 10th Street, Roswell NM 88201
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills, Workforce skills
 ⏰ Hours: 9:00a.m. -5:00 p.m.
 📞 (575) 625-1369
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/roswell-literacy-council-learning-center Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 14. Northwest New Mexico Arts Council
 3421 Monterey Circle, Trujillo, FARMINGTON NM 87499
@@ -103,7 +103,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Help my child learn, Math, Technology skills
 ⏰ Hours: Varies
 📞 (505) 320-0615
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/northwest-new-mexico-arts-council Instruction type: Classroom,Computer-aided,Distance learning,Family literacy program,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Computer-aided,Distance learning,Family literacy program,Instruction in Spanish.
 
 15. Taos Education and Career Center at UNM-Taos
 115 Civic Plaza Dr., Taos NM 87571
@@ -111,4 +111,4 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math
 ⏰ Hours: 8:00am-5:00pm
 📞 (575) 737-3730
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/taos-education-career-center Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.

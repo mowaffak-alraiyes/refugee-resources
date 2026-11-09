@@ -45,13 +45,13 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills, Workforce skills
 ⏰ Hours: Monday - Thursday 8:30 - 3:30
 📞 (812) 602-4100
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/vu-adult-education Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
 
 7. Area 30 Career Center Adult Education Program
 1 North Calbert Way, Suite A, Greencastle IN 46135
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation
 📞 (765) 653-3515
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/area-30-career-center-adult-education-program
+📝 Source: National Literacy Directory, retrieved 2026-11-08.
 
 8. Ben Davis University
 1155 S. High School Road, Door #2, Indianapolis IN 46241
@@ -59,7 +59,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills, Workforce skills
 ⏰ Hours: M-TH, 8:30 AM – 8:30 PM & Friday, 9:00 AM – 12:00 PM
 📞 (317) 988-7975
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/ben-davis-university Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 9. Pathway to Literacy
 2049 N. Meridian St., Indianapolis IN 46202
@@ -67,7 +67,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing
 ⏰ Hours: 8:00-5:00 M-F
 📞 (317) 408-8660
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/pathway-to-literacy Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Computer-aided.
 
 10. Central Nine Career Center Adult Education
 1999 US 31 South, Greenwood IN 46143
@@ -75,7 +75,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math
 ⏰ Hours: 9 am - 5 pm Mon - Thu, 9 am - 4 pm Fri
 📞 (317) 888-4401
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/central-nine-career-center-adult-education Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Computer-aided.
 
 11. Adult Learning Center
 350 Clearwater Blvd., Whiteland IN 46184
@@ -83,7 +83,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Workforce skills
 ⏰ Hours: 9am-5:30pm Monday-Friday
 📞 (317) 738-4677
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/adult-learning-center-2-142514 Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 12. Warren Township Adult Education
 10502 E 21st St, Indianapolis IN 46229
@@ -91,7 +91,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills, Workforce skills
 ⏰ Hours: 9:00 AM -8:30 PM
 📞 (317) 532-3000
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/warren-township-adult-education Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 13. River Valley Resources
 100 E 2nd St, Suite E, Madison IN 47250
@@ -99,7 +99,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills, Workforce skills
 ⏰ Hours: 8:00 am - 4:30 pm
 📞 (812) 265-2652
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/river-valley-resources-3 Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 14. River Valley Resources
 734 Main Street, 3rd Floor, Brookville IN 47012
@@ -107,7 +107,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Math, Technology skills, Workforce skills
 ⏰ Hours: 11-7 Tues/Thurs
 📞 (765) 265-4129
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/river-valley-resources-2 Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 15. English Language Learning Program
 100 W Main St, Brook IN 47922
@@ -115,7 +115,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing
 ⏰ Hours: 9:00 am to 7:00 pm M,T,W,F
 📞 (219) 275-2471
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/english-language-learning-program Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom.
 
 16. English Classes at Lake County Public Library
 1919 West 81st Ave., Merrillville IN 46410
@@ -123,7 +123,7 @@
 🏥 Services: Citizenship preparation, English classes
 ⏰ Hours: Monday and Thursday 6 pm-8 pm (10 weeks, 3 times per year with breaks in between)
 📞 (219) 769-3541
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/english-classes-at-lake-county-public-library Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 17. Citizenship Classes
 1111 South Jackson St, Frankfort IN 46041
@@ -131,7 +131,7 @@
 🏥 Services: Citizenship preparation
 ⏰ Hours: Monday-Thursday 9am-8pm
 📞 (765) 659-6380
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/citizenship-classes-2 Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
 
 18. EL for Citizenship
 2015 W Western Ave, Marycrest Building, South Bend IN 46619
@@ -139,7 +139,7 @@
 🏥 Services: Citizenship preparation, English classes
 ⏰ Hours: Tuesdays and Thursdays from 11am-1pm and 5-7pm
 📞 (574) 233-2120
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/el-for-citizenship Directory cost field: no. Instruction type: Classroom,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Instruction in Spanish.
 
 19. One More Citizen Citizenship Classes
 1302 W. Dunham St., South Bend IN 46619
@@ -147,7 +147,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing
 ⏰ Hours: Program assistance available Monday -Friday, 9:00am-5:00pm. Bilingual Citizenship Classes Held Mondays and Wednesdays from 5:30pm-7:30pm (at St. Casimir parish school building). Three Semesters of 10 weeks each (Fall, Spring, Summer).
 📞 (574) 366-0101
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/one-more-citizen-citizenship-classes Instruction type: Classroom,Computer-aided,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
 
 20. Literacy Coalition of Kokomo-Howard Counties, Inc.
 901 South Courtland Avenue, Kokomo IN 46901
@@ -155,7 +155,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math
 ⏰ Hours: Monday through Thursday 8 am to 4 pm
 📞 (765) 450-8532
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/literacy-coalition-kokomo-howard-counties-inc Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Computer-aided.
 
 21. Westfield Washington Public Library
 333 West Hoover St., Westfield IN 46074
@@ -163,7 +163,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Help my child learn, Math, Technology skills, Workforce skills
 ⏰ Hours: Mon Tues Wed 10am-8pm, Thurs Fri 10am-6pm, Sat 10am-5pm, Sun 1pm-5pm
 📞 (317) 896-9391
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/westfield-washington-public-library Instruction type: Classroom,Computer-aided,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
 
 22. Elkhart Com Schools - Adult Education
 2424 California Road, Elkhart IN 46514
@@ -171,7 +171,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Math, Technology skills
 ⏰ Hours: 9am - 8pm, M-TH
 📞 (574) 262-5678
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/elkhart-com-schools-adult-education Directory cost field: no. Instruction type: Classroom,Computer-aided,Family literacy program.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided,Family literacy program.
 
 23. Hinds Adult Education - Elwood
 1105 N. 19th Street, Elwood IN 46036
@@ -179,7 +179,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills, Workforce skills
 ⏰ Hours: 7:00 a.m. - 9:00 p.m.
 📞 (765) 552-4122
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/hinds-adult-education-elwood Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 24. ABE/HSE/ELL Program
 1240 S. Adams Street, Marion IN 46953
@@ -187,14 +187,14 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Help my child learn, Math, Technology skills
 ⏰ Hours: Monday - Thursday 9:00 AM to 5:00 PM
 📞 765-662-2546
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/abe-hse-ell-and-job-career-preparation-programs Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 25. Tutor Services at Huntington City-Township Public Library
 255 West Park Drive, Huntington IN 46750
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math
 ⏰ Hours: Library Hours Mon-Fri. 9:00-8:00, Sat. 9:00-5:00, Sun. Closed
 📞 (260) 356-0824
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/huntington-county-literacy-coalition Directory cost field: no.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no.
 
 26. Muncie Area Career Center Adult Education
 4301 S. Cowan Rd., Muncie IN 47302
@@ -202,4 +202,4 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills, Workforce skills
 ⏰ Hours: 8:00 a.m. to 3:00 p.m.
 📞 (765) 747-5250
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/muncie-area-career-center-adult-education Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.

@@ -4,14 +4,14 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Help my child learn, Technology skills, Workforce skills
 ⏰ Hours: 8-5
 📞 (801) 402-5186
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/davis-community-schools Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom.
 
 2. Citizenship - Weber County Library
 2464 Jefferson Ave, Ogden UT 84401
 🌐 https://www.weberpl.lib.ut.us/research-and-learn/citizenship
 🏥 Services: Citizenship preparation
 📞 (801) 337-2646
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/citizenship-weber-county-library Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 3. Adult Education
 1385 North 1200 West, Salt Lake City UT 84116
@@ -19,7 +19,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, Family literacy, Technology skills, Workforce skills
 ⏰ Hours: Monday-Thursday 9am-9pm
 📞 (801) 531-6100
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/adult-education-8 Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 4. Project Read Salt Lake County
 501 East 3900 South, 141 East 5600 South, Suite 312, Salt Lake City UT 84107
@@ -27,7 +27,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills, Workforce skills
 ⏰ Hours: Monday - Thursday, 10-7; Friday, 10-2
 📞 (801) 448-7323
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/project-read-salt-lake-county Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Computer-aided.
 
 5. Family Learning Center-Plazas Comunitarias
 9150 South 500 East, Sandy UT 84070
@@ -35,7 +35,7 @@
 🏥 Services: Citizenship preparation, Reading and writing, High school equivalency preparation, Family literacy, Help my child learn, Math, Technology skills
 ⏰ Hours: 8AM-12AM 5PM-7PM (MONDAYS-THURSDAYS)
 📞 (801) 979-0833
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/family-learning-center-plazas-comunitarias Instruction type: Classroom,Computer-aided,Family literacy program,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Computer-aided,Family literacy program,Instruction in Spanish.
 
 6. English Skills Learning Center
 650 East 4500 South, Suite 220, Salt Lake City UT 84107
@@ -43,7 +43,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, Family literacy, Help my child learn, Technology skills, Workforce skills
 ⏰ Hours: By Appointment
 📞 (801) 328-5608
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/english-skills-learning-center-1 Directory cost field: no. Instruction type: Classroom,Computer-aided,Family literacy program.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided,Family literacy program.
 
 7. Project Read
 550 North University Avenue, #215, Provo UT 84601
@@ -51,4 +51,4 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills, Workforce skills
 ⏰ Hours: T-Th 10 am - 7 pm / F 10 am - 4 pm
 📞 (801) 448-7323
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/project-read-4-63601 Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Computer-aided.

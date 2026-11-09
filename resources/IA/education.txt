@@ -19,14 +19,14 @@
 🌐 https://nwicc.edu/academics/high-school-diploma-options/
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills
 📞 (712) 631-5657
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/northwest-iowa-community-college-adult-education-and-literacy Instruction type: Classroom,Computer-aided,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
 
 4. Iowa Lakes Community College AEL Program
 300 South 18th Street, Estherville IA 51334
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Workforce skills
 ⏰ Hours: 7:30 am - 5:00 pm
 📞 (712) 852-5226
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/iowa-lakes-community-college-ael-program Instruction type: Classroom,Computer-aided,Distance learning,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Computer-aided,Distance learning,Instruction in Spanish.
 
 5. All Cultures Equal
 1440 East Second Street, Webster City IA 50595
@@ -34,7 +34,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Workforce skills
 ⏰ Hours: 10:00am-4:00pm Monday-Thursday; by appointment
 📞 515-832-4153
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/all-cultures-equal Instruction type: Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Instruction in Spanish.
 
 6. WDMCS Community Education
 3550 Mills Civic Parkway, West Des Moines IA 50265
@@ -42,7 +42,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, Family literacy, Help my child learn, Technology skills
 ⏰ Hours: M-F 8 a.m.-4:30; T-Th 5-8 p.m.
 📞 (515) 633-5001
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/wdmcs-community-education Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom.
 
 7. Shalom Community Impact Center
 3600 75th St, Urbandale IA 50322
@@ -50,7 +50,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, Help my child learn, Math, Technology skills, Workforce skills
 ⏰ Hours: Mon - Fri 8-4:30
 📞 (515) 525-7801
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/shalom-community-impact-center Instruction type: Classroom,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Instruction in Spanish.
 
 8. Indian Hills Community College
 525 Grandview, North Campus: CEC, Ottumwa IA 52501
@@ -58,7 +58,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills
 ⏰ Hours: Monday - Thursday
 📞 (641) 683-5189
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/indian-hills-community-college-ia Directory cost field: no.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no.
 
 9. PaTi's Libelulas
 400 Broadway St., Waterloo IA 50703
@@ -66,7 +66,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, Family literacy, Technology skills, Workforce skills
 ⏰ Hours: Monday and Wednesday 1pm to 7pm Tuesday and Thursday 9am to 3pm
 📞 (319) 343-7018
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/pati-s-libelulas Instruction type: Classroom,Computer-aided,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
 
 10. Catherine McAuley Center Adult Basic Education Program
 1220 5th Avenue SE, Cedar Rapids IA 52403
@@ -74,7 +74,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills
 ⏰ Hours: Monday and Wednesday:8:00 a.m. to 8:00 p.m., Tuesday and Thursday: 8:00 a.m. to 7:00 p.m., Friday: 8:00 a.m. to noon, Saturday: 9:00 a.m. to noon
 📞 (319) 731-0444
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/catherine-mcauley-center-adult-basic-education-program Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 11. Presentation Lantern Center
 900 Jackson St., Suite LL5-1 (Lower Level), Dubuque IA 52001
@@ -82,7 +82,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Technology skills
 ⏰ Hours: Monday, Wednesday, Friday 10 am - 3 pm; Tuesday, Thursday 1 pm - 7 pm
 📞 (563) 557-7134
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/presentation-lantern-center Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 12. Eastern Iowa Community Colleges Adult Education and Literacy Program
 2950 N Fairmount St, Davenport IA 52804
@@ -90,4 +90,4 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Help my child learn, Math, Technology skills, Workforce skills
 ⏰ Hours: 8:00 a.m. - 9:00 p.m.
 📞 (563) 328-7682
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/eastern-iowa-community-colleges-adult-education-and-literacy-program Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.

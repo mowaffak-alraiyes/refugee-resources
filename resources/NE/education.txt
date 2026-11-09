@@ -13,7 +13,7 @@
 🏥 Services: Citizenship preparation, Technology skills, Workforce skills
 ⏰ Hours: Mon-Thurs. 8:30 am to 4:30 pm Fri 8:30 AM - 12:30PM
 📞 (308) 385-5242
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/mc-learning-center Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
 
 3. Literacy Council of Grand Island
 115 W Charles, Grand Island NE 68801
@@ -21,7 +21,7 @@
 🏥 Services: Citizenship preparation, English classes, Workforce skills
 ⏰ Hours: 8:30 - 4:30
 📞 (308) 675-3292
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/literacy-council-of-grand-island Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 4. Northeast Community College
 801 East Benjamin Ave, Maclay Building, Norfolk NE 68701
@@ -29,7 +29,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Math, Technology skills
 ⏰ Hours: varies
 📞 (402) 844-7255
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/northeast-community-college-3 Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 5. Platte Valley Literacy Association
 3020 18th Street, Suite 4, Columbus NE 68601
@@ -37,7 +37,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Math
 ⏰ Hours: 8:00-8:00
 📞 (402) 562-1463
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/platte-valley-literacy-association-1 Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 6. Lincoln Literacy
 1023 Lincoln Mall, Ste. 104, Lincoln NE 68508
@@ -45,14 +45,14 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Help my child learn, Math, Technology skills, Workforce skills
 ⏰ Hours: 9am-5pm, Monday-Friday and by appointment
 📞 (402) 476-7323
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/lincoln-literacy-2 Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
 
 7. CareerLadder Resource Hub
 144 N. 44th Street Ste. A, Lincoln NE 68503
 🌐 https://www.careerladderne.org
 🏥 Services: Citizenship preparation, English classes, Technology skills, Workforce skills
 📞 (402) 413-0163
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/careerladder-resource-hub Instruction type: Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Computer-aided.
 
 8. Unity in Action Literacy Program
 3900 Dakota Avenue, Suite 11, South Sioux City NE 66776
@@ -60,14 +60,14 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, Workforce skills
 ⏰ Hours: Mon - Thu 9am - 5pm
 📞 (402) 412-3333
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/unity-in-action-literacy-program Directory cost field: no. Instruction type: Classroom,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Instruction in Spanish.
 
 9. Language & Culture School of Omaha
 5726 S 119th Plaza, Omaha NE 68137
 🌐 http://www.languagecultureschoolomaha.org
 🏥 Services: Citizenship preparation, English classes
 📞 (402) 895-0766
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/language-culture-school-omaha-67749 Directory cost field: no. Instruction type: Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Computer-aided.
 
 10. ESL and Skill Building: Refugee Career Pathways
 7315 Maple Street, Omaha NE 68134
@@ -75,7 +75,7 @@
 🏥 Services: Citizenship preparation, English classes, Family literacy, Help my child learn, Math, Technology skills, Workforce skills
 ⏰ Hours: Monday to Friday 9 to 5
 📞 (515) 779-7532
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/esl-and-skill-building-refugee-career-pathways Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
 
 11. English as a Second or Other Language
 3260 Davenport St, Omaha NE 68131
@@ -83,7 +83,7 @@
 🏥 Services: Citizenship preparation, English classes
 ⏰ Hours: Monday - Thursday: 8:30 to 4:30, Friday: 8:30 to 4:00
 📞 (402) 915-2808
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/english-as-a-second-or-other-language Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Computer-aided.
 
 12. Completely KIDS
 2566 St. Mary's Avenue, Omaha NE 68105
@@ -91,7 +91,7 @@
 🏥 Services: Citizenship preparation, English classes, High school equivalency preparation
 ⏰ Hours: Mondays 6:00 - 8:00 PM
 📞 (402) 397-5809
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/completely-kids Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 13. Latino Center Adult Education Program
 4821 S. 24th St., Omaha NE 68107
@@ -99,11 +99,11 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Technology skills, Workforce skills
 ⏰ Hours: 8 am - 5 pm
 📞 (402) 733-2720
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/latino-center-adult-education-program Instruction type: Classroom,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Instruction in Spanish.
 
 14. Bellevue Public Schools Family Literacy Center
 2600 Arboretum Dr, Bellevue NE 68005
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Help my child learn, Technology skills, Workforce skills
 ⏰ Hours: Monday-Friday, 8:00-4:30 pm
 📞 (402) 293-4854
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/bellevue-public-schools-family-literacy-center Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.

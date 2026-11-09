@@ -19,7 +19,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Help my child learn, Math, Technology skills, Workforce skills
 ⏰ Hours: Monday-Thrusday 8:30 to 8:30 Friday 9:30-4
 📞 (928) 341-6714
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/somerton-adult-education Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 4. Adult Education Program
 14414 N. El Mirage Road, El Mirage AZ 85335
@@ -27,7 +27,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Help my child learn, Math
 ⏰ Hours: Monday through Thursday 10.00 - 8.00
 📞 (623) 249-3812
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/adult-education-program-4 Instruction type: Classroom,Computer-aided,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
 
 5. Poter INC
 3421 W. Dunlap Ave., Phoenix AZ 85051
@@ -35,7 +35,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, Family literacy, Technology skills
 ⏰ Hours: 9:00am-5:00pm
 📞 (480) 540-0687
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/serrano-village-ed-program Instruction type: Classroom,Computer-aided,Family literacy program.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Computer-aided,Family literacy program.
 
 6. Literacy Phoenix (a DBA of Literacy Volunteers of Maricopa County)
 729 East Hatcher Road, Sunnyslope Learning Center, Phoenix AZ 85020
@@ -43,7 +43,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills, Workforce skills
 ⏰ Hours: 8 AM - 5 PM
 📞 (602) 943-7332
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/literacy-phoenix-dba-literacy-volunteers-of-maricopa-county Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 7. Literacy Phoenix (a DBA of Literacy Volunteers of Maricopa County)
 1150 E. Jefferson Street, Phoenix AZ 85034
@@ -51,7 +51,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills, Workforce skills
 ⏰ Hours: 8 AM - 5 PM
 📞 (602) 274-3430
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/literacy-phoenix-dba-literacy-volunteers-of-maricopa-county-1 Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 8. MOSAIC
 1366 East Thomas Road, Suite 108, Phoenix AZ 85014
@@ -59,21 +59,21 @@
 🏥 Services: Citizenship preparation, English classes
 ⏰ Hours: Monday-Friday 8:00-4:30
 📞 (602) 264-2255
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/mosaic Instruction type: Classroom,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Instruction in Spanish.
 
 9. Rio Salado College - Tempe
 2323 W. 14th Street, STE 4, Tempe AZ 85281
 🌐 https://www.riosalado.edu/adult-education
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills
 📞 (480) 517-8110
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/rio-salado-college-tempe-2 Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 10. CARE Classroom Adult Education
 5345 E. Van Buren St, 178, Phoenix AZ 85008
 🌐 https://www.careclassroom.org
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation
 📞 (314) 363-8412
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/care-classroom-adult-education Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Computer-aided.
 
 11. Camp Verde Adult Reading Program
 130 Black Bridge Road, Camp Verde AZ 86322
@@ -81,14 +81,14 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills
 ⏰ Hours: 9:00 AM-2:00 PM, 5:30 PM-7:30 PM Mon-Thurs
 📞 (928) 554-8398
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/camp-verde-adult-reading-program-1 Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 12. Adult Literacy Program
 22 S. Delaware St., Chandler AZ 85225
 🌐 https://www.chandlerlibrary.org
 🏥 Services: Citizenship preparation, English classes, Technology skills
 📞 (480) 782-2810
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/adult-literacy-program-154441 Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 13. Salt River Schools- Family and Child Education Program
 11514 E HIGHLAND AVE, Scottsdale AZ 85256
@@ -96,7 +96,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Help my child learn, Math, Technology skills, Workforce skills
 ⏰ Hours: 7:45 AM- 4:00 PM
 📞 (480) 362-2400
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/salt-river-schools-family-and-child-education-program Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 14. Mesa Adult Education
 155 N. Center, Mesa AZ 85201
@@ -104,7 +104,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Math, Technology skills, Workforce skills
 ⏰ Hours: 8:00 a.m. to 4:30 p.m. (evening classes 5:30 p.m. to 8:30 p.m.)
 📞 (480) 472-7263
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/mesa-adult-education Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 15. Frank Gordon Education Center - English Classes (ESOL) - Mesa AZ - Maricopa County Adult Probation Department Adult Education Program
 222 E Javelina Ave, SouthEast Justice Center Multipurpose Room 5-6, Mesa AZ 85210
@@ -112,7 +112,7 @@
 🏥 Services: Citizenship preparation, English classes, High school equivalency preparation, Technology skills, Workforce skills
 ⏰ Hours: Monday, Tuesday, Wednesday, Thursday; class times vary. Virtual, in-person and online curriculum and classes available.
 📞 (602) 506-0053
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/frank-gordon-education-center-english-classes-esol-central-phoenix-az-maricopa-county-adult-probation-department-adult-education-program Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 16. Grace Adult Learning Center
 2024 E. University Drive, MESA AZ 85213
@@ -120,7 +120,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Math, Technology skills
 ⏰ Hours: Monday - Thursday 6:30-8:30 PM; Monday 9-12 am
 📞 (480) 295-1195
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/grace-adult-learning-center Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Computer-aided.
 
 17. Gilbert Adult Learning Program
 55 N. Greenfield Road, Gilbert AZ 85234
@@ -128,14 +128,14 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills, Workforce skills
 ⏰ Hours: Morning and Evening Classes
 📞 (480) 497-3334
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/gilbert-adult-learning-program-152026 Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 18. Grad Solutions
 1440 S Clearview Ave., Suite 104, Mesa AZ 85209
 🌐 https://www.iwantmydiploma.com/
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Math, Technology skills, Workforce skills
 📞 (480) 206-5909
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/grad-solutions-2 Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
 
 19. The Literacy Center
 2500 N. Rose St., Ste. 102, Flagstaff AZ 86004
@@ -143,11 +143,11 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Technology skills
 ⏰ Hours: M-F; Daily Hours vary
 📞 (928) 556-0313
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/the-literacy-center Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 20. Coconino Community College Adult Education
 3000 N. Fourth Street, Flagstaff AZ 86004
 🌐 https://www.coconino.edu/adult-education
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills, Workforce skills
 📞 (928) 526-7639
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/coconino-community-college-adult-education Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.

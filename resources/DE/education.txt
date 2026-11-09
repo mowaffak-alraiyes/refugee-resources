@@ -12,7 +12,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, Technology skills
 ⏰ Hours: Monday-Thursday 9-1 AM and 5:30-8:30 PM
 📞 (302) 454-2101
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/christina-esl-program Directory cost field: no. Instruction type: Classroom,Computer-aided,Distance learning.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided,Distance learning.
 
 3. NCCVT Adult Education Division
 1703 School Lane, Wilmington DE 19804
@@ -20,7 +20,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills, Workforce skills
 ⏰ Hours: 7:30 am -3:30 pm
 📞 (302) 683-3642
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/nccvt-adult-education-division Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 4. Latin American Community Center Adult Basic Education Program
 403 North Van Buren Street, Wilmington DE 19805
@@ -28,7 +28,7 @@
 🏥 Services: Citizenship preparation, English classes, Technology skills, Workforce skills
 ⏰ Hours: Monday to Friday from 9:00 AM-12:00 PM and 7:00 PM-9:50 PM
 📞 (302) 494-9545
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/latin-american-community-center-adult-basic-education-program Directory cost field: no. Instruction type: Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Computer-aided.
 
 5. La Esperanza Opciones and Education Program
 216 N Race St, Georgetown DE 19947
@@ -36,4 +36,4 @@
 🏥 Services: Citizenship preparation, English classes, High school equivalency preparation, Technology skills
 ⏰ Hours: 8am-4:30pm
 📞 (302) 854-9262
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/la-esperanza-opciones-and-education-program Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.

@@ -38,7 +38,7 @@
 🌐 https://kclibrary.org/RISE
 🏥 Services: Citizenship preparation, English classes
 📞 (816) 701-3766
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/english-for-citizenship Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 7. New American Welcome Center
 1999 Iron Street, North Kansas City MO 64116
@@ -46,7 +46,7 @@
 🏥 Services: Citizenship preparation, English classes
 ⏰ Hours: Monday - Friday 5am-9pm Saturday 7am-5pm Sunday 8am-5pm
 📞 (816) 300-0531
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/new-american-welcome-center-2 Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 8. ISD AEL: Don Bosco
 309 Benton Blvd, Kansas City MO 64124
@@ -54,7 +54,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills
 ⏰ Hours: Monday - Friday 8:30 am - 4:30 pm
 📞 (816) 231-2700
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/isd-ael-don-bosco Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 9. Joplin Nala Read
 123 S Main St, Joplin MO 64801
@@ -62,7 +62,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Math
 ⏰ Hours: Monday - Wednesday 8:30 a.m. to 5:00 p.m. and Thursday & Friday 8:30 a.m. to 12:00 p.m.
 📞 (417) 782-2646
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/joplin-nala-read Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 10. Noel ELL
 403 Gratz St, Family Life Center, Noel MO 64854
@@ -70,7 +70,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, Help my child learn, Technology skills
 ⏰ Hours: Mon-Thurs 10;00 AM-2:00 PM
 📞 (417) 455-5521
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/noel-esl Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 11. Crowder College AEL and ELL
 601 Laclede Ave, 300A and 300C Newton Hall, Neosho MO 64850
@@ -78,7 +78,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Help my child learn, Math, Technology skills, Workforce skills
 ⏰ Hours: Neosho AEL Day Monday - Friday 8:00 AM-12:00 PMNeosho AEL NIght Monday- Thursday 3:00 PM-7:30 PM Neosho ESL Day Mon,Wed,Fri 8:30 AM -12:30PM Neosho ESL Night Tues and Thursday 5:30-8:30
 📞 (417) 455-5521
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/crowder-college-ael-and-ell Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 12. Nevada Adult Education and Literacy/GED Prep
 600 W. Edwards Place, Nevada MO 64772
@@ -86,14 +86,14 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Help my child learn, Math, Technology skills, Workforce skills
 ⏰ Hours: 9:00 am to 5:00 pm
 📞 (417) 455-5521
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/nevada-adult-education-and-literacy-ged-prep Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 13. Carthage R-9 Adult Education & Literacy (AEL)
 609 S River Street, Carthage MO 64836
 🌐 https://ctc.carthagetigers.org/ael
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Help my child learn, Math, Technology skills, Workforce skills
 📞 (417) 359-7095
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/carthage-r-9-adult-education-literacy-ael Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 14. El Dorado Springs
 808 S. Main, El Dorado Springs MO 64744
@@ -101,7 +101,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Help my child learn, Math, Technology skills, Workforce skills
 ⏰ Hours: AEL Office - Monday - Friday 8:30 am to 5:00 pm
 📞 (417) 455-5521
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/el-dorado-springs Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 15. Monett AEL/ESL
 801 N Lincoln, Monett MO 65708
@@ -109,7 +109,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, Technology skills
 ⏰ Hours: Monett AEL Day M- Th 8:30 am-12:00 pm Monett AEL Night Mon and Wed 4:30PM-8:30PM Monett ESL Day Mon and Wed 1:30 PM-4:30 PMMonett ESL Night Tues and Thurs 5:30PM-8:30 PM
 📞 (417) 455-5521
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/monett-ael-esl Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 16. Stockton AEL/GED
 717 East Street, Stockton, MO 65785, Stockton MO 65785
@@ -117,7 +117,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Help my child learn, Math, Technology skills, Workforce skills
 ⏰ Hours: AEL Office - Monday - Friday 8:30 am to 5:00 pm
 📞 (417) 455-5521
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/stockton-ael-ged Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 17. Johnson County Adult Literacy Program - JCALP
 432 North Holden Street, Warrensburg MO 64093
@@ -125,7 +125,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Math, Technology skills, Workforce skills
 ⏰ Hours: 11:00-2:30 Tuesday through Friday plus Appointments
 📞 (660) 429-5442
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/johnson-county-adult-literacy-program-jcalp-1 Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 18. OTC English as a Second Language
 1001 E Chestnut Expressway, Graff Hall, Springfield MO 65802
@@ -133,7 +133,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, Help my child learn, Technology skills, Workforce skills
 ⏰ Hours: Monday-Thursday, 9:00 am-12:00 pm or Monday & Thursday, 5:30-8:30 pm
 📞 (417) 447-8860
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/otc-english-as-a-second-language Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 19. OTC AEL Richwood Valley Campus
 3369 West Jackson, Room 126, Nixa MO 65714
@@ -141,7 +141,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Help my child learn, Math, Technology skills
 ⏰ Hours: Monday - Thursday, 9:00 am - 1:00 pm
 📞 (417) 447-7474
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/otc-ael-richwood-valley-campus Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 20. OTC AEL Table Rock Campus
 10698 Historic Highway 165, Room 107, Hollister MO 65672
@@ -149,7 +149,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Help my child learn, Math, Technology skills
 ⏰ Hours: Monday - Thursday, 9 am - 1 pm or Tuesday and Wednesday, 5:30-8:30 pm
 📞 (417) 447-8924
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/otc-ael-table-rock-campus Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 21. Laclede Literacy Council Literacy Volunteers of America
 539 E Elm, Suite A, Lebanon MO 65536
@@ -157,7 +157,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Help my child learn, Math, Technology skills, Workforce skills
 ⏰ Hours: 9-4 Monday through Thursday
 📞 (417) 532-6697
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/laclede-literacy-council-literacy-volunteers-of-america Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
 
 22. Refugee Services
 10 N Garth Ave, Columbia MO 65203
@@ -165,7 +165,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, Technology skills, Workforce skills
 ⏰ Hours: 9-4
 📞 (719) 200-0826
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/refugee-services Directory cost field: no. Instruction type: Classroom,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Instruction in Spanish.
 
 23. ECC Adult Education and Literacy-Rolla English Language
 803 N. Main St., First United Methodist Church, Rolla MO 65401
@@ -173,7 +173,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, Family literacy, Help my child learn, Technology skills, Workforce skills
 ⏰ Hours: 8:30 am-4:30 pm
 📞 (844) 322-4235
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/ecc-adult-education-and-literacy-rolla-english-language Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 24. East Central Area Literacy Council
 2303 N Bishop, PO Box 1336, Rolla MO 65402
@@ -181,7 +181,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Help my child learn, Math, Technology skills, Workforce skills
 ⏰ Hours: 8:00 a.m.-4:30 p.m.
 📞 (844) 322-4235
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/east-central-area-literacy-council Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 25. ECC Adult Education and Literacy-Washington
 1108 Washington Square, Missouri Job Center, Washington MO 63090
@@ -189,7 +189,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Help my child learn, Math, Technology skills
 ⏰ Hours: 8:30 am-4:30 pm
 📞 (844) 322-4235
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/ecc-adult-education-and-literacy-washington Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 26. East Central College Adult Education and Literacy
 1964 Prairie Dell Rd, Hansen Hall, Suite 270, Union MO 63084
@@ -197,7 +197,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Help my child learn, Math, Technology skills, Workforce skills
 ⏰ Hours: 8:00 a.m.-4:30 p.m.
 📞 (844) 322-4235
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/east-central-college-adult-education-and-literacy Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 27. St. Louis County Library
 1640 S. Lindbergh Blvd., Saint Louis MO 63131
@@ -205,7 +205,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Help my child learn, Technology skills, Workforce skills
 ⏰ Hours: Sunday 1:00 p.m. – 5:00 p.m. Monday - Thursday 9:00 a.m. – 9:00 p.m. Friday - Saturday 9:00 a.m. – 5:00 p.m.
 📞 (314) 994-3300
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/st-louis-county-library Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 28. Ritenour Adult Education and Literacy
 3312 Ashby Road, North Wing, St. Ann MO 63074
@@ -213,7 +213,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Help my child learn, Math, Technology skills, Workforce skills
 ⏰ Hours: 9 am to 8:00 pm M-Th
 📞 (314) 493-6412
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/ritenour-adult-education-and-literacy Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 29. Kindness Begins with Me English Class
 6740 Loughborough Ave., St. Louis MO 63123
@@ -221,14 +221,14 @@
 🏥 Services: Citizenship preparation, English classes, Family literacy, Help my child learn
 ⏰ Hours: Tuesday 1-8pm; Thursday 5-8pm
 📞 (314) 591-1101
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/kindness-begins-with-me-english-class Directory cost field: no. Instruction type: Classroom,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Instruction in Spanish.
 
 30. English Language Learning/ELL Program
 5035 Gravois Avenue, Saint Louis MO 63116
 🌐 http://www.oasis4refugees.org/
 🏥 Services: Citizenship preparation, English classes, Reading and writing, Help my child learn, Technology skills
 📞 (314) 353-3800
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/english-language-learning-ell-program Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 31. Immigrant Home English Learning Program (formerly Immigrant & Refugee Women's Program)
 5021 Adkins Ave., Saint Louis MO 63116
@@ -236,7 +236,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing
 ⏰ Hours: 9:00am - 5:00pm, Monday - Friday
 📞 (314) 771-1104
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/immigrant-refugee-womens-program Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 32. Hazelwood Doors To Success: High School Equivalency & Adult Ed Classes
 12079 Bellefontaine Rd, Center for Youth on the Rise, Spanish Lake MO 63138
@@ -244,7 +244,7 @@
 🏥 Services: Citizenship preparation, Reading and writing, High school equivalency preparation
 ⏰ Hours: M/T/W 9:00am-12:00pm
 📞 (314) 415-4940
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/hazelwood-doors-to-success-high-school-equivalency-adult-ed-classes Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 33. Cape Girardeau Adult Education and Literacy
 409 N. Clark St., Cape Girardeau MO 63701
@@ -252,4 +252,4 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Help my child learn, Math, Technology skills, Workforce skills
 ⏰ Hours: M-F 8:30-3:30
 📞 (573) 334-3669
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/cape-girardeau-adult-education-and-literacy-2 Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.

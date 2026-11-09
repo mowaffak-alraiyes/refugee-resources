@@ -21,7 +21,7 @@ ESL Program - Murray State University 452 Blackburn, Murray, KY 42071
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills, Workforce skills
 ⏰ Hours: 8:00am - 4:30pm Monday thru Thursday; 8:00am - 2:00pm on Friday
 📞 (270) 534-3451
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/wkctc-adult-education-ged Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 4. The Adult Learning Center
 2660 S GREEN ST, Henderson KY 42420
@@ -29,7 +29,7 @@ ESL Program - Murray State University 452 Blackburn, Murray, KY 42071
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Workforce skills
 ⏰ Hours: 8am to 4:30pm Monday thru Thursday and appointment only on Friday
 📞 (270) 831-9649
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/the-adult-learning-center Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 5. Dyslexia Reading Tutoring
 552 E Center Street, Madisonville KY 42431
@@ -37,7 +37,7 @@ ESL Program - Murray State University 452 Blackburn, Murray, KY 42071
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Help my child learn, Math
 ⏰ Hours: 10-6pm
 📞 (270) 245-2600
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/dyslexia-tutoring Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom.
 
 6. OCTC Adult Education - Daviess
 1501 Frederica St, Owensboro KY 42301
@@ -45,7 +45,7 @@ ESL Program - Murray State University 452 Blackburn, Murray, KY 42071
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills, Workforce skills
 ⏰ Hours: Mon/Wed 8 AM- 4:30 PM, Tues/Thurs 8 AM- 7:00 PM
 📞 (270) 686-4409
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/octc-adult-education-daviess Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 7. OCTC Adult Education - McLean County
 1501 Fredercica Street, Owensboro KY 42301
@@ -53,7 +53,7 @@ ESL Program - Murray State University 452 Blackburn, Murray, KY 42071
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills, Workforce skills
 ⏰ Hours: By appointment
 📞 (270) 686-4409
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/octc-adult-education-mclean-county Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 8. Simpson County Adult Education
 175 Davis Drive, Southcentral Kentucky Community & Technical College (Franklin-Simpson Campus), Franklin KY 42134
@@ -61,14 +61,14 @@ ESL Program - Murray State University 452 Blackburn, Murray, KY 42071
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Math, Technology skills, Workforce skills
 ⏰ Hours: 8-4 p.m. M-F
 📞 (270) 901-1181
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/simpson-county-adult-education Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 9. Warren County Adult Education
 1127 Morgantown Rd, Bowling Green KY 42101
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Help my child learn, Math, Technology skills, Workforce skills
 ⏰ Hours: Monday - Thursday 8am-8pm; Friday 8am-4pm; Saturday by appointment
 📞 (270) 901-1017
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/warren-county-adult-education Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 10. Breckinridge County with Heartland Adult Education Consortium
 116 Old Highway 60, Hardinsburg KY 40143
@@ -76,14 +76,14 @@ ESL Program - Murray State University 452 Blackburn, Murray, KY 42071
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills, Workforce skills
 ⏰ Hours: M/T/W 8 am - 3 pm R 8 am - 12 noon
 📞 (270) 756-1730
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/breckinridge-county-with-heartland-adult-education-program Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 11. Refuge BG
 601 Graham Drive, Bowling Green KY 42101
 🌐 https://refugebg.com
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Help my child learn, Technology skills
 📞 (270) 296-0063
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/refuge-bg Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom.
 
 12. Grayson County with Heartland Adult Education Consortium
 125 E White Oak St., Leitchfield KY 42754
@@ -91,7 +91,7 @@ ESL Program - Murray State University 452 Blackburn, Murray, KY 42071
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills, Workforce skills
 ⏰ Hours: M/W 9 am - 7 pm T/R 9 am - 5 pm
 📞 (270) 259-9038
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/grayson-county-with-heartland-adult-education-program Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 13. Barren County Adult Education
 129 State Ave, Building F, Glasgow KY 42141
@@ -99,7 +99,7 @@ ESL Program - Murray State University 452 Blackburn, Murray, KY 42071
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math
 ⏰ Hours: 8:00 -4:00
 📞 (270) 629-2061
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/barren-county-adult-education Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 14. Hart County with Heartland Adult Education Consortium
 230 Interstate Plaza Rd, Munfordville KY 42765
@@ -107,7 +107,7 @@ ESL Program - Murray State University 452 Blackburn, Murray, KY 42071
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills, Workforce skills
 ⏰ Hours: 8 am - 4 pm Monday through Friday
 📞 (270) 524-1267
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/hart-county-with-heartland-adult-education-consortium Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 15. Hardin/LaRue County with Heartland Adult Education Consortium
 600 College Street Rd., OTB 300 Room 310, Elizabethtown KY 42701
@@ -115,7 +115,7 @@ ESL Program - Murray State University 452 Blackburn, Murray, KY 42071
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills, Workforce skills
 ⏰ Hours: 8:30 am- 4:30 pm (MWF) and until 8 pm (T/TH)
 📞 (270) 769-8866
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/hardin-county-adult-and-community-education Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 16. Iroquois Citizenship Class
 601 W. Woodlawn Ave., Louisville KY 40215
@@ -123,7 +123,7 @@ ESL Program - Murray State University 452 Blackburn, Murray, KY 42071
 🏥 Services: Citizenship preparation, English classes, Reading and writing
 ⏰ Hours: Thursdays, 11:00 am - 1:00 pm
 📞 502-938-0614
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/iroquois-citizenship-class Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 17. Americana Citizenship Class
 4801 Southside Dr., Louisville KY 40214
@@ -131,21 +131,21 @@ ESL Program - Murray State University 452 Blackburn, Murray, KY 42071
 🏥 Services: Citizenship preparation, English classes, Reading and writing
 ⏰ Hours: Mondays and Wednesdays 6:30 pm - 8:30 pm
 📞 502-938-0614
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/americana-citizenship-class Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 18. Hope Collaborative - Hope Place Adult Programs
 5007 Southside Drive, Louisville KY 40269
 🌐 https://www.hopeccd.org
 🏥 Services: Citizenship preparation, English classes
 📞 (502) 333-0004
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/hope-place-adult-programs Directory cost field: no.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no.
 
 19. JCTC- Adult Education Bullitt County
 505 Buffalo Run Road, Shepherdsville KY 40165
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills
 ⏰ Hours: Monday - Friday 9a.m 6p.m
 📞 (502) 213-7908
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/jctc-adult-education-bullitt-county Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 20. South Central Citizenship Class
 7300 Jefferson Blvd, Louisville KY 40219
@@ -153,56 +153,56 @@ ESL Program - Murray State University 452 Blackburn, Murray, KY 42071
 🏥 Services: Citizenship preparation, English classes, Reading and writing
 ⏰ Hours: Tuesdays and Thursdays, 6:00 pm - 8:00 pm
 📞 502-938-0614
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/buechel-citizenship-class Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 21. JCTC- Adult Education Oldham County
 307 W. Jefferson Street, Second Floor, LaGrange KY 40031
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills
 ⏰ Hours: Monday-Friday 9a.m to 4p.m Evenings available also. Crestwood site available Monday to Thursday 1p.m to 9p.m. Call for more information and directions.
 📞 (502) 255-9191
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/jctc-adult-education-oldham-county Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 22. JCTC- Spencer County Adult Education
 168 Taylorsville Rd,, Taylorsville KY 40074
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills
 ⏰ Hours: Monday and Wednesday at Taylorsville Public Library 9a.m to 3p.m
 📞 (502) 213-5212
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/jctc-spencer-county-adult-education Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 23. JCTC-Trimble County Adult Education
 168 Wentworth Av., Bedford KY 40006
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills
 ⏰ Hours: Tuesdays and Thursdays 8.30a.m to 12p.m
 📞 (502) 213-5212
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/jctc-trimble-county-adult-education-2 Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 24. JCTC-Shelby County Adult Education
 1361 Frankfort Road, Shelbyville KY 40095
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills
 ⏰ Hours: Monday-Thursday 9:00a.m. to 5:00p.m and Monday and Wednesday 5p.m to 8p.m
 📞 (502) 213-3669
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/jctc-shelby-county-adult-education Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 25. JCTC-Henry County Adult Education
 5333 S. Main Street, Eminence KY 40019
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Help my child learn, Math, Technology skills
 ⏰ Hours: Monday and Thursday 10a.m to 6p.m
 📞 (502) 667-6149
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/jctc-henry-county-adult-education Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 26. JCTC- Carroll County Adult Education
 1607 US HWY 227, Carrollton KY 41008
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills
 ⏰ Hours: Monday-Thursday 9:00a.m. to 4:00p.m and Monday and Wednesday 5p.m to 8p.m
 📞 (502) 732-7102
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/jctc-carroll-county-adult-education-142642 Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 27. JCTC- Gallatin County Adult Education
 209 W Market St,, Warsaw KY 41095
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills
 ⏰ Hours: Thursdays 11a.m to 1p.m- Connection Point
 📞 (502) 213-5212
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/jctc-gallatin-county-adult-education-142644 Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 28. BCTC Adult Education - Woodford County
 300 N. Main Street, Versailles KY 40383
@@ -210,14 +210,14 @@ ESL Program - Murray State University 452 Blackburn, Murray, KY 42071
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Workforce skills
 ⏰ Hours: 9:00 - 4:00 (Monday - Thursday)
 📞 (859) 256-3765
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/bctc-adult-education-woodford-county Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 29. Gateway Community and Technical College- Adult Education
 510 Technology Way, Room 126, Florence KY 41042
 🌐 https://www.nkyae.org/
 🏥 Services: Citizenship preparation, English classes, High school equivalency preparation
 📞 (859) 442-1186
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/gateway-community-and-technical-college-adult-education Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 30. Jessamine County Adult Education
 847 Wilmore Road, Nicholasville KY 40356
@@ -225,14 +225,14 @@ ESL Program - Murray State University 452 Blackburn, Murray, KY 42071
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Help my child learn, Math, Technology skills, Workforce skills
 ⏰ Hours: Monday, Wednesday, Friday : 9 AM- 5 PM; Tuesday and Thursday 9 AM- 7:30 PM
 📞 (859) 887-9509
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/jessamine-county-adult-education Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
 
 31. Gateway Adult Education- Covington
 516 Madison Ave, Covington KY 41011
 🌐 https://www.nkyae.org/home
 🏥 Services: Citizenship preparation, English classes, High school equivalency preparation
 📞 (859) 442-1186
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/gateway-adult-education-covington Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 32. FACE (Family and Community Engagement) Fayette County Public Schools
 450 Park Place, Lexington KY 40511
@@ -240,41 +240,41 @@ ESL Program - Murray State University 452 Blackburn, Murray, KY 42071
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Help my child learn, Math, Technology skills, Workforce skills
 ⏰ Hours: 8-5pm
 📞 (859) 629-2293
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/face-family-and-community-engagement-fayette-county-public-schools Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 33. Powell County Adult Education
 640 Woodford Drive, Mt Sterling KY 40353
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills, Workforce skills
 ⏰ Hours: Tuesdays and Thursdays
 📞 (859) 499-0760
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/powell-county-adult-education Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 34. Bath County Adult Learning Center
 19 Water Street, Owingsville KY 40360
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills, Workforce skills
 ⏰ Hours: M/W 8:00a -4:00p, T/TH 8:00a - 7:30p
 📞 (606) 674-2210
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/bath-county-adult-learning-center Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 35. Menifee Adult Education Skills U
 826 Hwy 36, Frenchburg KY 40322
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Help my child learn, Math, Technology skills
 ⏰ Hours: Monday-Thursday 8-2
 📞 (606) 768-9741
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/menifee-adult-education-skills-u Instruction type: Classroom,Computer-aided,Family literacy program.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Computer-aided,Family literacy program.
 
 36. MSU Adult Education Program
 627 E Main Street, 206A Education Services Building, Morehead KY 40351
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills, Workforce skills
 📞 (606) 783-9531
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/msu-adult-education-program Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 37. Rowan County Adult Learning Center
 627 East Main Street, Morehead KY 40351
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills, Workforce skills
 ⏰ Hours: Monday - Friday
 📞 (606) 783-2871
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/msu-adult-learning-center-145161 Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 38. Morgan County Adult Learning Center
 150 University Drive, West Liberty KY 41472
@@ -282,11 +282,11 @@ ESL Program - Murray State University 452 Blackburn, Murray, KY 42071
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills, Workforce skills
 ⏰ Hours: Monday - Friday
 📞 (606) 743-1500
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/morgan-county-adult-learning-center Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 39. KEDC/Lawrence County Skills U
 235 E Powhatan Street, Louisa KY 41230
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math
 ⏰ Hours: 8 a.m. to 4:00 p.m.
 📞 (606) 638-0601
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/kedc-lawrence-county-skills-u Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.

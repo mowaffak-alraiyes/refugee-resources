@@ -88,7 +88,7 @@ Classes at 14 CUNY campuses across New York City
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy
 ⏰ Hours: Monday - Thursday 5:00pm - 7:00pm
 📞 (716) 874-8400
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/english-as-a-new-language Directory cost field: no. Instruction type: Classroom,Computer-aided,Family literacy program.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided,Family literacy program.
 
 15. Catholic Charities of Buffalo, NY, Inc.
 1001 E Deleven Ave, BUFFALO NY 14215
@@ -96,13 +96,13 @@ Classes at 14 CUNY campuses across New York City
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills
 ⏰ Hours: 8:45 am-4:45 pm
 📞 (716) 893-3500
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/catholic-charities-of-buffalo-ny-inc Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 16. Literacy New York
 132 Cayuga Road, Suite 1B, Cheektowaga NY 14225
 🏥 Services: Citizenship preparation, Reading and writing, High school equivalency preparation, Math
 📞 (716) 276-3230
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/literacy-new-york-2 Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 17. Literacy New York
 303 Cayuga Rd, Suite 180, Cheektowaga NY 14225
@@ -110,7 +110,7 @@ Classes at 14 CUNY campuses across New York City
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Help my child learn, Math, Technology skills, Workforce skills
 ⏰ Hours: 8:30 to 4:30
 📞 (716) 651-0465
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/literacy-new-york-1 Instruction type: Classroom,Computer-aided,Family literacy program.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Computer-aided,Family literacy program.
 
 18. CORE The Learning Center
 1 Blue Bird Square, Lower Level, Olean NY 14760
@@ -118,7 +118,7 @@ Classes at 14 CUNY campuses across New York City
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills
 ⏰ Hours: 8:30-4:00 pm
 📞 (844) 969-2673
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/core-the-learning-center-4 Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 19. CORE The Learning Center
 1 Mill Street, Batavia NY 14020
@@ -126,7 +126,7 @@ Classes at 14 CUNY campuses across New York City
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills
 ⏰ Hours: 8:30-4:00 pm
 📞 (844) 969-2673
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/core-the-learning-center-2 Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 20. CORE The Learning Center
 29 North Main Street, Warsaw NY 14569
@@ -134,7 +134,7 @@ Classes at 14 CUNY campuses across New York City
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Math, Technology skills
 ⏰ Hours: 8:30-4:00 pm
 📞 (844) 969-2673
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/core-the-learning-center-3 Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 21. Literacy West New York, Inc.
 5455 State Route 19 North, Belmont NY 14813
@@ -142,7 +142,7 @@ Classes at 14 CUNY campuses across New York City
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills
 ⏰ Hours: 8:30-4:00 pm
 📞 (585) 268-5213
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/literacy-west-new-york-inc Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Computer-aided.
 
 22. CORE The Learning Center
 22 Chapel Street, Mt Morris NY 14510
@@ -150,14 +150,14 @@ Classes at 14 CUNY campuses across New York City
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills
 ⏰ Hours: 8:30-4:00 pm
 📞 (844) 969-2673
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/core-the-learning-center-1 Directory cost field: no. Instruction type: Classroom,Computer-aided,Family literacy program.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided,Family literacy program.
 
 23. Monroe 2 BOCES Center for Workforce Development
 3589 Big Ridge Road, Spencerport NY 14559
 🌐 https://www.monroe2boces.org/AdultLiteracy.aspx
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Help my child learn, Math, Technology skills, Workforce skills
 📞 (585) 349-9100
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/monroe-2-boces-center-for-workforce-development Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 24. Maplewood Public Library
 414 Lexington Avenue, Rochester NY 14613
@@ -165,7 +165,7 @@ Classes at 14 CUNY campuses across New York City
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Help my child learn
 ⏰ Hours: Thursday 2-6pm in person, various times online
 📞 (585) 428-8233
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/maplewood-public-library Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 25. RCSD/ OACES - Office of Adult & Career Education Services
 30 Hart Street, 218C, Rochester NY 14605
@@ -173,7 +173,7 @@ Classes at 14 CUNY campuses across New York City
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills
 ⏰ Hours: 9:00am - 8:00pm
 📞 (585) 324-9901
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/rcsd-oaces-office-of-adult-career-education-services Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 26. Pro Action of Steuben & Yates, Inc.
 117 East Steuben Street, Bath NY 14810
@@ -181,7 +181,7 @@ Classes at 14 CUNY campuses across New York City
 🏥 Services: Citizenship preparation, English classes, Math
 ⏰ Hours: M-F 8:30-4:30
 📞 (607) 776-2125
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/pro-action-of-steuben-yates-inc Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 27. Literacy Volunteers Ontario-Yates
 208 South Main Street, Canandaigua NY 14424
@@ -189,7 +189,7 @@ Classes at 14 CUNY campuses across New York City
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills
 ⏰ Hours: 9-4
 📞 (585) 396-1686
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/literacy-volunteers-ontario-yates-1 Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 28. GST BOCES Adult Education Literacy Programs
 303 North Main Street, Langdon Plaza, Elmira NY 14901
@@ -197,14 +197,14 @@ Classes at 14 CUNY campuses across New York City
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Math, Technology skills, Workforce skills
 ⏰ Hours: Monday - Friday, 8:00AM - 4:30PM
 📞 (607) 739-7684
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/gst-boces-adult-education-literacy-programs Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 29. Literacy Volunteers Cayuga County
 17 Nelson St. Suite 4, Willard Chapel Bldg, Auburn NY 13021
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math
 ⏰ Hours: Tuesday, Wednesday, Thursday 9:00-12:00
 📞 (315) 253-5241
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/literacy-volunteers-cayuga-county-142255 Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 30. Tompkins Learning Partners
 124 W. Buffalo Street, Ithaca NY 14850
@@ -212,7 +212,7 @@ Classes at 14 CUNY campuses across New York City
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills
 ⏰ Hours: 9:00am - 4:30pm
 📞 (607) 277-6442
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/tompkins-learning-partners-1 Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 31. Syracuse City Schools Adult Education
 573 E. Genesee St., Syracuse NY 13202
@@ -220,7 +220,7 @@ Classes at 14 CUNY campuses across New York City
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Help my child learn, Math, Technology skills, Workforce skills
 ⏰ Hours: 8am to 4om, Monday through Friday
 📞 (315) 980-1337
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/syracuse-city-schools-adult-education Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 32. InterFaith Works
 1010 James Street, Syracuse NY 13035
@@ -228,7 +228,7 @@ Classes at 14 CUNY campuses across New York City
 🏥 Services: Citizenship preparation, English classes, Family literacy
 ⏰ Hours: 8;30 am - 5:00
 📞 (315) 449-3552
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/interfaith-works Directory cost field: no. Instruction type: Classroom,Family literacy program.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Family literacy program.
 
 33. Literacy Volunteers of Otsego and Delaware Counties
 31 Maple St, Mailing Address: PO Box 722, Oneonta NY 13820
@@ -236,14 +236,14 @@ Classes at 14 CUNY campuses across New York City
 🏥 Services: Citizenship preparation, English classes, Reading and writing, Math
 ⏰ Hours: Call for available times.
 📞 (607) 441-3093
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/literacy-volunteers-of-otsego-and-delaware-counties-2 Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 34. Hamilton-Fulton-Montgomery BOCES
 2755 State Hwy 67, Johnstown NY 12095
 🌐 https://hfmboces.org/programs-services/adult-education
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills, Workforce skills
 📞 (518) 736-4340
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/hamilton-fulton-montgomery-boces Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 35. ULSTER LITERACY ASSOCIATION INC
 480 Aaron Court, Kingston NY 12401
@@ -251,7 +251,7 @@ Classes at 14 CUNY campuses across New York City
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Help my child learn, Math, Technology skills
 ⏰ Hours: M-F 9-5
 📞 (845) 331-6837
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/ulster-literacy-association-inc-1 Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
 
 36. BMCC Adult Basic Education Program
 25 Broadway, 8th Floor, New York NY 10004
@@ -259,14 +259,14 @@ Classes at 14 CUNY campuses across New York City
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Help my child learn, Math, Technology skills, Workforce skills
 ⏰ Hours: Monday - Friday 9-9
 📞 (212) 346-8890
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/bmcc-adult-basic-education-program Directory cost field: no.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no.
 
 37. Orange-Ulster BOCES
 3 Washington Center, 1st Floor Maple Building, Newburgh NY 12550
 🌐 https://www.ouboces.org/students-of-all-ages/adult-education/adult-literacy
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills, Workforce skills
 📞 (845) 781-6715
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/orange-ulster-boces Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
 
 38. International Center- Catholic Charities Community Services
 80 Maiden Lane, 14th Floor, New York NY 10038
@@ -274,7 +274,7 @@ Classes at 14 CUNY campuses across New York City
 🏥 Services: Citizenship preparation, English classes
 ⏰ Hours: 9:30 AM- 7 PM
 📞 (646) 794-3750
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/international-center-catholic-charities-community-services Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 39. Arab-American Family Support Center
 150 Court Street, 3rd Fl, Brooklyn NY 11201
@@ -282,21 +282,21 @@ Classes at 14 CUNY campuses across New York City
 🏥 Services: Citizenship preparation, English classes, Reading and writing, Help my child learn, Math
 ⏰ Hours: 9am-6pm
 📞 (718) 643-8000
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/arab-american-family-support-center-adult-education-and-literacy Directory cost field: no. Instruction type: Classroom,Computer-aided,Family literacy program.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided,Family literacy program.
 
 40. Office of Adult and Continuing Education School 4
 269 West 35th Street, 10th Floor, New York NY 10018
 🏥 Services: Citizenship preparation, English classes, High school equivalency preparation, Math
 ⏰ Hours: 9:00 am -8:30 pm
 📞 (212) 868-1650
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/office-of-adult-and-continuing-education-school-4 Directory cost field: no. Instruction type: Classroom,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Instruction in Spanish.
 
 41. The New York Public Library
 455 5th Ave, NY NY 10016
 🌐 https://www.nypl.org/education
 🏥 Services: Citizenship preparation, English classes, Reading and writing, Family literacy, Help my child learn, Math, Technology skills, Workforce skills
 📞 (212) 930-0797
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/the-new-york-public-library Instruction type: Classroom,Computer-aided,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
 
 42. Brooklyn Public Library Adult Learning
 25 4th Ave., 2nd Floor, Brooklyn NY 11217
@@ -304,14 +304,14 @@ Classes at 14 CUNY campuses across New York City
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Help my child learn, Math, Technology skills
 ⏰ Hours: Mon.-Sat. 10am-6pm
 📞 (718) 622-4460
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/brooklyn-public-library-adult-learning Directory cost field: no. Instruction type: Classroom,Computer-aided,Distance learning,Family literacy program.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided,Distance learning,Family literacy program.
 
 43. Felt Education
 1350 Avenue of the Americas, FL2-1053, NY NY 10019
 🌐 https://www.feltnyc.org/classes
 🏥 Services: Citizenship preparation, English classes, Reading and writing, Technology skills, Workforce skills
 📞 (718) 514-4103
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/felt-education Directory cost field: no. Instruction type: Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Computer-aided.
 
 44. New-York Historical Society: Citizenship Project
 170 Central Park West at Richard Gilder Way, New York NY 10024
@@ -319,7 +319,7 @@ Classes at 14 CUNY campuses across New York City
 🏥 Services: Citizenship preparation
 ⏰ Hours: 9 AM - 5 PM
 📞 (212) 873-3400
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/new-york-historical-society-the-citizenship-project Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
 
 45. Central Adult Learning Center
 10 Grand Army Plaza, Brooklyn NY 11238
@@ -327,20 +327,20 @@ Classes at 14 CUNY campuses across New York City
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills
 ⏰ Hours: Monday & Wednesday 1p-8p; Tuesday & Thursday 10a-5p; Saturday 10a-2p
 📞 (718) 230-2731
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/central-adult-learning-center Directory cost field: no. Instruction type: Classroom,Computer-aided,Distance learning.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided,Distance learning.
 
 46. Literacy Solutions NY - Rockland
 61 New Main Street, Haverstraw NY 10927
 🌐 https://literacysolutionsny.org/
 🏥 Services: Citizenship preparation, English classes
 📞 (845) 499-5464
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/literacy-volunteers-rockland-county Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
 
 47. Sacred Heart Center for New Americans
 2085 Rte 9W, PO Box 244, West Park NY 12493
 🏥 Services: Citizenship preparation, English classes, Reading and writing, Technology skills
 📞 (646) 342-4177
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/sacred-heart-center-new-americans
+📝 Source: National Literacy Directory, retrieved 2026-11-08.
 
 48. Flatbush Adult Learning Center
 22 Linden Blvd., Brooklyn NY 11226
@@ -348,7 +348,7 @@ Classes at 14 CUNY campuses across New York City
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills
 ⏰ Hours: Monday & Wednesday 1p-8p; Tuesday & Thursday 10a-5p; Saturday 10a-2p
 📞 (718) 856-2631
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/flatbush-adult-learning-center-1 Directory cost field: no. Instruction type: Classroom,Computer-aided,Distance learning.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided,Distance learning.
 
 49. CAMBA Education Center
 10 Snyder Avenue, 3rd Floor (Behind the TD Bank at the corner of Flatbush and Snyder), Brooklyn NY 11226
@@ -356,7 +356,7 @@ Classes at 14 CUNY campuses across New York City
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Technology skills, Workforce skills
 ⏰ Hours: 8:30am - 9:00pm
 📞 (718) 940-3453
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/camba-education-center Directory cost field: no.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no.
 
 50. Bedford Adult Learning Center
 496 Franklin Ave., 2nd Floor, Brooklyn NY 11238
@@ -364,7 +364,7 @@ Classes at 14 CUNY campuses across New York City
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills
 ⏰ Hours: Monday & Wednesday 1p-8p; Tuesday & Thursday 10a-5p; Saturday 10a-2p
 📞 (718) 623-2134
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/bedford-adult-learning-center-1 Directory cost field: no. Instruction type: Classroom,Computer-aided,Distance learning.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided,Distance learning.
 
 51. Riis Settlement ESOL Program
 10-25 41st Avenue, Queens NY 11101
@@ -372,7 +372,7 @@ Classes at 14 CUNY campuses across New York City
 🏥 Services: Citizenship preparation, English classes, Reading and writing, Workforce skills
 ⏰ Hours: 9:00 am – 12:00 pm Tuesday, Wednesday, Thursday
 📞 (718) 784-7447
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/riis-settlement-esol-program Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Computer-aided.
 
 52. YMCA New Americans Initiative
 180 West 135th Street, New York NY 10030
@@ -380,7 +380,7 @@ Classes at 14 CUNY campuses across New York City
 🏥 Services: Citizenship preparation, English classes, Reading and writing, Help my child learn, Math, Technology skills, Workforce skills
 ⏰ Hours: Monday-Thursday 9am-9pm; Friday 9am-5pm
 📞 (212) 912-2100
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/ymca-new-americans-initiative Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 53. CREA
 158 East 115th Street, 212 East 106th Street, third floor, New York NY 10029
@@ -388,14 +388,14 @@ Classes at 14 CUNY campuses across New York City
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills
 ⏰ Hours: W-T 9 am to 2:15 pm and 6 to 9 pm. S 9 am to 1 pm
 📞 (929) 270-7741
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/crea Instruction type: Classroom,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Instruction in Spanish.
 
 54. Citizenship Classes
 3901 Church Avenue, Store # 4, Entrance on E 39th Street, Brooklyn NY 11203
 🏥 Services: Citizenship preparation
 ⏰ Hours: 9am - 5pm
 📞 (718) 304-5064
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/citizenship-classes-1 Instruction type: Classroom,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Instruction in Spanish.
 
 55. Jeanne Elmezzi ALC
 37-44 21st Street, Second Floor, Long Island City NY 11101
@@ -403,7 +403,7 @@ Classes at 14 CUNY campuses across New York City
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Technology skills
 ⏰ Hours: Monday: 10:00 AM to 8:00 PM Tuesday: 1:00 PM to 6:00 PM Wednesday: 10:00 AM to 6:00 PM Thursday: 10:00 AM to 8:00 PM Friday: 10:00 AM to 6:00 PM Saturday: 10:00 AM to 5:00 PM
 📞 (718) 752-3723
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/queens-public-library-jeanne-elmezzi-alc Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 56. NMIC
 45 Wadsworth Ave., New York NY 10033
@@ -411,7 +411,7 @@ Classes at 14 CUNY campuses across New York City
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Workforce skills
 ⏰ Hours: M-F, 9-9
 📞 (212) 822-8343
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/nmic Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 57. LaGuardia Community College
 31-10 Thomson Ave., Building C/Room C223, Long Island City NY 11101
@@ -419,7 +419,7 @@ Classes at 14 CUNY campuses across New York City
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Help my child learn, Math, Technology skills, Workforce skills
 ⏰ Hours: Weekday, weeknight and Saturday courses.
 📞 (718) 482-5385
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/laguardia-community-college Instruction type: Classroom,Computer-aided,Distance learning,Family literacy program,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Computer-aided,Distance learning,Family literacy program,Instruction in Spanish.
 
 58. Eastern Parkway Adult Learning Center
 1044 Eastern Parkway, Brooklyn NY 11213
@@ -427,7 +427,7 @@ Classes at 14 CUNY campuses across New York City
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills
 ⏰ Hours: Monday & Wednesday 1p-8p; Tuesday & Thursday 10a-5p; Saturday 10a-2p
 📞 (718) 778-9330
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/eastern-parkway-adult-learning-center Directory cost field: no. Instruction type: Classroom,Computer-aided,Distance learning.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided,Distance learning.
 
 59. Make the Road New York
 301 Grove Street, Brooklyn NY 11237
@@ -435,7 +435,7 @@ Classes at 14 CUNY campuses across New York City
 🏥 Services: Citizenship preparation, English classes
 ⏰ Hours: 9am-6pm
 📞 (718) 418-7690
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/make-the-road-new-york Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 60. Ansob Center for Refugees (and Immigrants)
 2819 Steinway Street, 2nd Floor, Astoria NY 11103
@@ -443,7 +443,7 @@ Classes at 14 CUNY campuses across New York City
 🏥 Services: Citizenship preparation, English classes, Reading and writing, Workforce skills
 ⏰ Hours: 10 am to 5:30 pm Mondays , Tuesdays, Wednesdays and Thursdays
 📞 (718) 278-4303
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/ansob-center-for-refugees-and-immigrants Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 61. Word of Life Community Education Center
 830 Union Ave., Bronx NY 10459
@@ -451,14 +451,14 @@ Classes at 14 CUNY campuses across New York City
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Math, Technology skills
 ⏰ Hours: Mondays - Saturdays, 9 Am - 5 Pm
 📞 (718) 861-5678
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/word-of-life-community-education-center Instruction type: Classroom,Computer-aided,Family literacy program,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Computer-aided,Family literacy program,Instruction in Spanish.
 
 62. US Citizenship Examination Preparation
 1123 East 100th Street, Basement, Brooklyn NY 11239
 🏥 Services: Citizenship preparation
 ⏰ Hours: Weekdays
 📞 (631) 546-8746
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/us-citizenship-examination-preparation Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Computer-aided.
 
 63. New Lots Adult Learning Center
 665 New Lots Ave., Brooklyn NY 11207
@@ -466,7 +466,7 @@ Classes at 14 CUNY campuses across New York City
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills
 ⏰ Hours: Monday & Wednesday 1p-8p; Tuesday & Thursday 10a-5p; Saturday 10a-2p
 📞 (718) 257-0260
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/new-lots-adult-learning-center Directory cost field: no. Instruction type: Classroom,Computer-aided,Distance learning.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided,Distance learning.
 
 64. Jackson Heights Adult Learning Center (JH ALC)
 35-51 81st Street, Lower Level, Jackson Heights NY 11372
@@ -474,13 +474,13 @@ Classes at 14 CUNY campuses across New York City
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation
 ⏰ Hours: Monday: 9:00AM to 8:00PM Tuesday: 1:00PM to 6:00PM Wednesday: 10:00AM to 6:00PM Thursday: 12:00PM to 8:00PM Friday: 10:00AM to 6:00PM Saturday: 10:00AM to 5:00PM
 📞 (718) 899-2500
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/jackson-heights-adult-learning-center-jh-alc Directory cost field: no.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no.
 
 65. BACDYS Adult Education Program
 1101B Liberty Ave, Brooklyn NY 11208
 🏥 Services: Citizenship preparation, English classes
 📞 (718) 235-1700
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/bacdys-adult-education-program Instruction type: Classroom,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Instruction in Spanish.
 
 66. GED Prep; ESOL (6 levels); Citizenship Preparation; Digital Literacy
 8704 88th Ave, Woodhaven NY 11421
@@ -488,7 +488,7 @@ Classes at 14 CUNY campuses across New York City
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills, Workforce skills
 ⏰ Hours: 8am-4pm
 📞 (718) 738-0588
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/ged-prep-esol-6-levels-citizenship-preparation-digital-literacy Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom.
 
 67. Flushing Adult Learning Program
 41-17 Main Street, Lower Level, Flushing NY 11355
@@ -496,14 +496,14 @@ Classes at 14 CUNY campuses across New York City
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation
 ⏰ Hours: Monday: 9:00AM to 9:00PM Tuesday: 9:00AM to 9:00PM Wednesday: 9:00AM to 9:00PM Thursday: 9:00AM to 9:00PM Friday: 9:00AM to 7:00PM Saturday: 10:00AM to 5:00PM
 📞 (718) 661-1241
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/flushing-adult-learning-program Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 68. Language and Literacy Skills Classes
 300 Tarrytown Road, Elmsford NY 10523
 🏥 Services: Citizenship preparation, English classes, Family literacy, Technology skills, Workforce skills
 ⏰ Hours: 9:30-5:00
 📞 (914) 721-8225
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/language-and-literacy-skills-classes Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
 
 69. English Language Learners (ELL) & Citizenship Classes
 475 Moe Road, Clifton Park NY 12065
@@ -511,7 +511,7 @@ Classes at 14 CUNY campuses across New York City
 🏥 Services: Citizenship preparation, English classes, Reading and writing, Technology skills, Workforce skills
 ⏰ Hours: Monday-Thursday 9am - 9pm; Friday 9am - 6pm; Saturday 9am - 5pm; Sunday 12pm - 5pm
 📞 (518) 371-8622
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/english-language-learners-ell-citizenship-classes Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 70. ESOL, Computer Training, Coding Classes
 169-18 Hillside Avenue, Fl-2, Jamaica NY 11432
@@ -519,7 +519,7 @@ Classes at 14 CUNY campuses across New York City
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Help my child learn, Math, Technology skills, Workforce skills
 ⏰ Hours: Monday-Friday, 10am to 5pm
 📞 (718) 737-2398
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/adult-literacy-and-after-school-programs Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 71. KCS ESOL Program
 203-05 32nd Ave., Bayside NY 11361
@@ -527,7 +527,7 @@ Classes at 14 CUNY campuses across New York City
 🏥 Services: Citizenship preparation, English classes, Reading and writing
 ⏰ Hours: Monday - Friday, 9 AM - 5 PM
 📞 (718) 939-6137
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/kcs-esol-program Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Computer-aided.
 
 72. Learning Success
 1 Library Plaza, New Rochelle NY 10801
@@ -535,13 +535,13 @@ Classes at 14 CUNY campuses across New York City
 🏥 Services: Citizenship preparation, English classes, High school equivalency preparation, Technology skills, Workforce skills
 ⏰ Hours: MONDAY 9 am - 8 pm; TUESDAY 9 am - 8 pm; WEDNESDAY 10 am - 6 pm; THURSDAY 9 am - 8 pm; FRIDAY 9 am - 5 pm; SATURDAY 9 am - 5 pm; SUNDAY 1 pm - 5 pm
 📞 (914) 813-3703
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/learning-and-growing Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 73. Great Neck Adult Learning Center
 105 Clover Dr., Great Neck NY 11021
 🏥 Services: Citizenship preparation, English classes, High school equivalency preparation
 📞 (516) 441-4958
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/great-neck-adult-learning-center Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 74. Language Skills Classes
 84 Bedford Road, Katonah NY 10536
@@ -549,7 +549,7 @@ Classes at 14 CUNY campuses across New York City
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Help my child learn, Technology skills
 ⏰ Hours: 9-5
 📞 (914) 232-6572
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/language-skills-classes Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 75. Tri-County Literacy Center, Inc
 251 Glen Street, Glens Falls NY 12801
@@ -557,7 +557,7 @@ Classes at 14 CUNY campuses across New York City
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math
 ⏰ Hours: Monday through Friday 9:00 am to 5:00 pm
 📞 (518) 793-7414
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/tri-county-literacy-center-inc Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 76. CARECEN Pathway to English
 91 N. Franklin St., Suite 208, Hempstead NY 11550
@@ -565,7 +565,7 @@ Classes at 14 CUNY campuses across New York City
 🏥 Services: Citizenship preparation, English classes, Reading and writing, Technology skills, Workforce skills
 ⏰ Hours: 9am-5pm
 📞 (516) 489-8330
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/carecen-pathway-to-english Directory cost field: no. Instruction type: Computer-aided,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Computer-aided,Instruction in Spanish.
 
 77. Hempstead Adult & Community Education Program
 70 Greenwich St., Hempstead NY 11550
@@ -573,7 +573,7 @@ Classes at 14 CUNY campuses across New York City
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Technology skills
 ⏰ Hours: 6:30-9:30pm
 📞 (516) 434-4047
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/hempstead-adult-community-education-program Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom.
 
 78. The Opening Word Program
 1434 Straight Path, Wyandanch NY 11798
@@ -581,7 +581,7 @@ Classes at 14 CUNY campuses across New York City
 🏥 Services: Citizenship preparation, English classes, Reading and writing, Math, Technology skills
 ⏰ Hours: 9AM-2PM
 📞 (631) 643-0541
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/the-opening-word-program Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom.
 
 79. Brentwood Public Library
 34 Second Avenue, Brentwood NY 11717
@@ -589,7 +589,7 @@ Classes at 14 CUNY campuses across New York City
 🏥 Services: Citizenship preparation, English classes, Reading and writing, Technology skills
 ⏰ Hours: Monday- Friday, 9am-5pm
 📞 (631) 273-7883
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/brentwood-public-library Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 80. The Literacy Center
 101 Eastwood Blvd., Centereach NY 11720
@@ -597,7 +597,7 @@ Classes at 14 CUNY campuses across New York City
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Help my child learn, Technology skills, Workforce skills
 ⏰ Hours: Mon-Fri 9:30am-9pm, Sat 9:30am-5pm, Sun 1pm-5pm (closed Sundays, July & August)
 📞 (631) 585-9393
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/the-literacy-center-tlc Directory cost field: no. Instruction type: Classroom,Computer-aided,Family literacy program,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided,Family literacy program,Instruction in Spanish.
 
 81. Literacy Suffolk, Inc.
 627 N. Sunrise Service Road, Bellport NY 11713
@@ -605,7 +605,7 @@ Classes at 14 CUNY campuses across New York City
 🏥 Services: Citizenship preparation, English classes, Reading and writing
 ⏰ Hours: 9:00am to 5:00pm
 📞 (631) 286-1649
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/literacy-suffolk Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 82. Mastics Moriches Shirley Community Library
 407 William Floyd Parkway, Shirley NY 11967
@@ -613,7 +613,7 @@ Classes at 14 CUNY campuses across New York City
 🏥 Services: Citizenship preparation, English classes, Reading and writing, Family literacy, Help my child learn, Technology skills
 ⏰ Hours: M-Th 9-9 Fr 9-6 Sat 9-5 Sun 12-4
 📞 (631) 399-1511
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/mastics-moriches-shirley-community-library Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
 
 83. Basic English for Spanish Speakers / Clases de Conversación en Ingles para Hablantes de Español
 7 Library Ave, Westhampton Beach NY 11978
@@ -621,32 +621,32 @@ Classes at 14 CUNY campuses across New York City
 🏥 Services: Citizenship preparation, English classes
 ⏰ Hours: Monday-Friday: 9:30am-9:00pm Saturday: 9:30am-5:00pm Sunday: 12:00-4:00pm
 📞 (631) 288-3335
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/basic-english-for-spanish-speakers-clases-de-conversacion-en-ingles-para-hablantes-de-espanol Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 84. Literacy of Northern New York
 7640 N. State Street, Lowville NY 13367
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills, Workforce skills
 ⏰ Hours: By appointment
 📞 (315) 376-8188
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/literacy-of-northern-new-york Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 85. Literacy of Northern New York, Inc.
 200 Washington St, Suite 303, Watertown NY 13601
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills, Workforce skills
 ⏰ Hours: 8:30 a.m. to 4:30 p.m. Monday - Friday
 📞 (315) 782-4270
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/literacy-northern-new-york-inc Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 86. English Language and Beyond! Literacy and Continuing Adult Education
 220 John St, Clayton NY NY 13624
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Help my child learn, Math, Technology skills, Workforce skills
 ⏰ Hours: Monday - Friday 9am to 5pm
 📞 (315) 686-3762
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/english-language-and-beyond-literacy-and-continuing-adult-education Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
 
 87. Literacy Volunteers of Clinton, Essex and Franklin Counties
 101 Broad Street, 052 Hawkins Hall, Plattsburgh NY 12901
 🌐 https://www.lvcef.org
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills
 📞 (518) 564-5332
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/literacy-volunteers-of-clinton-county Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Computer-aided.

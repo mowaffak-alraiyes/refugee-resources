@@ -62,7 +62,7 @@
 3676 Hwy 61 South, Memphis TN 38109
 🏥 Services: Citizenship preparation, High school equivalency preparation, Technology skills, Workforce skills
 📞 (901) 415-2773
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/levi-library-classes-in-partnership-with-hope-works Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 10. Memphis Public Library
 3030 Polar Avenue, Memphis TN 38111
@@ -70,13 +70,13 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Help my child learn, Math, Technology skills, Workforce skills
 ⏰ Hours: 10 AM - 8 PM
 📞 (901) 415-2869
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/memphis-public-library Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 11. ESL Classes at Memphis Public Libraries
 3030 Poplar Ave., Memphis TN 38111
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Help my child learn, Technology skills, Workforce skills
 📞 (901) 415-2709
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/esl-classes-at-memphis-public-libraries Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
 
 12. Shelby Literacy Center
 9315 E Shelby Dr, Peace Tree UMC Building, Collierville TN 38017
@@ -84,7 +84,7 @@
 🏥 Services: Citizenship preparation, English classes, High school equivalency preparation, Workforce skills
 ⏰ Hours: T/TH 10am-12pm, by appointment
 📞 (901) 854-0288
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/shelby-literacy-center Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Computer-aided.
 
 13. ESL and Citizenship Preparation Classes
 1784 Northfield Blvd 354, Murfreesboro TN 37129
@@ -92,7 +92,7 @@
 🏥 Services: Citizenship preparation, English classes
 ⏰ Hours: 8pm-4pm
 📞 (615) 605-6340
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/esl-and-citizenship-preparation-classes Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom.
 
 14. Read To Succeed, Inc
 910-A Ridgely Road, Murfreesboro TN 37129
@@ -100,7 +100,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Math, Workforce skills
 ⏰ Hours: Monday-Thursday 8-3 Friday by appointment only
 📞 (615) 738-7323
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/read-to-succeed Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 15. Adult Education Services
 1402 Bailey Ave., Chattanooga TN 37404
@@ -108,7 +108,7 @@
 🏥 Services: Citizenship preparation, English classes, Technology skills
 ⏰ Hours: 9am-4pm
 📞 (423) 624-8414
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/adult-education-services-2 Instruction type: Classroom,Computer-aided,Family literacy program,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Computer-aided,Family literacy program,Instruction in Spanish.
 
 16. International Literacy Center
 1918 Union Ave, Room 105, Chattanooga TN 37404
@@ -116,7 +116,7 @@
 🏥 Services: Citizenship preparation, English classes
 ⏰ Hours: Mon - Thurs
 📞 (706) 944-1546
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/international-literacy-center Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 17. La Paz Chattanooga Community Education
 809 South Willow Street, Chattanooga TN 37404
@@ -124,14 +124,14 @@
 🏥 Services: Citizenship preparation, English classes, High school equivalency preparation, Family literacy, Technology skills, Workforce skills
 ⏰ Hours: 9:00-4:00
 📞 (423) 624-8414
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/la-paz-chattanooga-community-education
+📝 Source: National Literacy Directory, retrieved 2026-11-08.
 
 18. Tennessee Adult Education District 4
 5401 School Drive, Hixson Community Center, Hixson TN 37343
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation
 ⏰ Hours: 8am-5pm M-F
 📞 (844) 688-7944
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/tennessee-adult-education-district-4-4 Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 19. Southeast Tennessee Adult Education
 4501 Amnicola Highway, Chattanooga State Comm. College-CBIH bldg. suite 218, Chattanooga TN 37407
@@ -139,7 +139,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills, Workforce skills
 ⏰ Hours: 8am-4:30PM M_F
 📞 (423) 682-7059
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/southeast-tennessee-adult-education Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Computer-aided.
 
 20. Youth literacy
 2410 Tunnel Blvd, Chattanooga TN 37406
@@ -147,34 +147,34 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Technology skills
 ⏰ Hours: 9-5pm
 📞 (423) 967-0673
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/youth-literacy-2 Directory cost field: no. Instruction type: Classroom,Computer-aided,Family literacy program.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided,Family literacy program.
 
 21. Rhea County Adult Literacy Council
 200 4th Avenue, Dayton TN 37321
 🌐 https://www.setnadulteducation.com/
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills, Workforce skills
 📞 (423) 208-5793
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/rhea-county-adult-literacy-council Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 22. Lenoir City Adult Education Center
 634 MARTEL ROAD, LENOIR CITY TN 37771
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills
 ⏰ Hours: 2:00 PM - 5:00 & 6:00 PM - 8:00 PM
 📞 (865) 770-0888
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/lenoir-city-adult-education-center Instruction type: Classroom,Computer-aided,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
 
 23. Free English Classes - North Knoxville (East Tennessee Adult Education)
 2720 Dayton St NW, West Lonsdale Baptist Church, Knoxville TN 37921
 🌐 https://tcatknoxville.edu/future-students/adult-education
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Help my child learn, Math, Technology skills, Workforce skills
 📞 (865) 264-3578
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/free-english-classes-north-knoxville-east-tennessee-adult-education Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 24. Free English Classes - Knoxville (EAST TENNESSEE ADULT EDUCATION)
 3435 Division Street, Knoxville TN 37919
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Help my child learn, Math, Technology skills, Workforce skills
 📞 (865) 264-3578
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/free-english-classes-knoxville-east-tennessee-adult-education Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
 
 25. Nashville Public Library
 615 Church Street, Nashville TN 37209
@@ -182,7 +182,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Help my child learn, Technology skills
 ⏰ Hours: Mon-Fri 9-6 Sat 9-5 Sun 2-5
 📞 (615) 880-2264
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/nashville-public-library Directory cost field: no. Instruction type: Classroom,Computer-aided,Family literacy program,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided,Family literacy program,Instruction in Spanish.
 
 26. The Front Porch -- Welcoming Refugee Elders
 406 Welshwood Drive, Nashville TN 37211
@@ -190,14 +190,14 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing
 ⏰ Hours: 9AM-5PM
 📞 (615) 828-9664
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/the-front-porch-welcoming-refugee-elders Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 27. Thrive South Nashville Adult Education
 520 McMurray Drive, Nashville TN 37211
 🌐 https://www.thrivesouthnashville.org
 🏥 Services: Citizenship preparation, English classes, Reading and writing
 📞 (615) 481-0117
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/thrive-south-nashville-adult-education Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 28. Legacy Mission Village
 5211 Linbar Drive, Suite 505, Nashville TN 37211
@@ -205,7 +205,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Help my child learn, Technology skills, Workforce skills
 ⏰ Hours: 9:00am-5:00pm
 📞 (615) 649-8858
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/legacy-mission-village Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 29. TIRRC
 3310 Ezell Road, Nashville TN 37211
@@ -213,41 +213,41 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, Technology skills
 ⏰ Hours: 9 a.m. to 5 p.m.
 📞 (615) 833-0384
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/tirrc Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Computer-aided.
 
 30. Pentecostal Church of All Nations
 1410 Donelson Pike, B15, B15, Nashville TN 37217
 🌐 https://pentecostalsofallnations.com
 🏥 Services: Citizenship preparation, English classes, Reading and writing, Family literacy, Workforce skills
 📞 (615) 678-5446
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/pentecostal-church-of-all-nations Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 31. Community Achieves at Antioch Middle School
 5050 Bluehole Road, Antioch TN 37013
 🌐 https://Community Achieves - Antioch Middle School
 🏥 Services: Citizenship preparation, English classes, Reading and writing, Family literacy, Help my child learn, Math, Technology skills
 📞 (615)333-5642
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/community-achieves-at-antioch-middle-school Instruction type: Classroom,Computer-aided,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
 
 32. ESL for Arabic speaking adults
 5260 Hickory Hollow Blvd, #201, Antioch TN 37013
 🏥 Services: Citizenship preparation, English classes
 📞 (615) 567-3215
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/esl-for-arabic-speaking-adults Instruction type: Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Computer-aided.
 
 33. Free English Classes - Oak Ridge (East Tennessee Adult Education)
 161 Robertsville Road, Oak Ridge TN 37830
 🌐 https://sites.google.com/view/aestudent
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills, Workforce skills
 📞 (865) 264-3578
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/free-english-classes-oak-ridge-east-tennessee-adult-education Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 34. Winter Wonder Land Story Hour Program
 3133 West Old Andrew Johnson Highway, Strawberry Plains TN 37871
 🌐 https://jcpls.org
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Help my child learn, Math, Technology skills
 📞 (865) 933-1311
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/winter-wonder-land-story-hour-program Instruction type: Computer-aided,Family literacy program.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Computer-aided,Family literacy program.
 
 35. Science Club
 3133 W. Old A.J. Hwy., P. O. Box 399, Strawberry Plains TN 37871
@@ -255,7 +255,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Help my child learn, Math, Technology skills, Workforce skills
 ⏰ Hours: Mondays & Tuesdays 12:00-7:30 pm, Wednesdays 9:00-5:30 pm, Thursdays 12:00 6:30 pm, Fridays 9:00 2:00 pm, Closed Sundays & Saturdays
 📞 (865) 933-1311
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/science-club Directory cost field: no. Instruction type: Classroom,Computer-aided,Distance learning,Family literacy program.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided,Distance learning,Family literacy program.
 
 36. Literacy Council of Kingsport
 247 Broad Street, Suite 300, Kingsport TN 37660
@@ -263,4 +263,4 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, Math
 ⏰ Hours: Monday - Thursday, 9:30 a.m. - 5:30 p.m. & Friday, By appointment only
 📞 (423) 392-4643
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/literacy-council-kingsport-inc Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.

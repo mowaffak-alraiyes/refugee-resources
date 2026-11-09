@@ -13,7 +13,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills
 ⏰ Hours: 9:00-7:30
 📞 (479) 783-2665
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/literacy-council-of-western-arkansas Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
 
 3. Crawford County Volunteers of Literacy
 2925 Alma Hwy., Ste. 9, Van Buren AR 72956
@@ -21,7 +21,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Help my child learn, Math, Technology skills, Workforce skills
 ⏰ Hours: Monday - Thursday 10:00 am to 3:00 pm
 📞 (479) 474-4594
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/crawford-county-volunteers-literacy-142005 Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 4. Prescott Nevada County Library And Educational Facility
 121 West Main Street, Prescott AR 71857
@@ -29,21 +29,21 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Help my child learn, Math, Technology skills, Workforce skills
 ⏰ Hours: Tuesday-Friday 9:30am-5:30pm
 📞 (870) 887-5846
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/prescott-nevada-county-library-and-educational-facility Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 5. Magnolia /Columbia County Literacy Council
 104 Harvey Couch Blvd, PO Box 1440, Magnolia AR 71753
 🌐 https://www.facebook.com/magnoliacolumbiacountyliteracycouncil
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills
 📞 (870) 901-6028
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/magnolia-columbia-counties-literacy-council Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Computer-aided.
 
 6. River Valley Adult Learning Alliance
 209 Cedar Street, Dardanelle AR 72834
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Help my child learn, Math, Technology skills
 ⏰ Hours: 8-5 Monday-Thursday 8-12 Friday
 📞 (479) 477-3910
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/river-valley-literacy-council-inc Directory cost field: no. Instruction type: Classroom,Computer-aided,Family literacy program,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided,Family literacy program,Instruction in Spanish.
 
 7. Literacy Council of the Ouachitas
 119 Hobson Avenue, Hot Springs AR 71901
@@ -51,7 +51,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills, Workforce skills
 ⏰ Hours: Monday 8:00-4:00, Tuesday 8:00-4:00, Wednesday 8:00-noon, Thursday 8:00-4:00
 📞 (501) 624-7323
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/literacy-council-of-the-ouachitas Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
 
 8. Van Buren County Literacy Council
 100 Success Dr., Room 52, Clinton AR 72031
@@ -59,7 +59,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, Help my child learn, Math, Technology skills, Workforce skills
 ⏰ Hours: 10:00 - 6:00 Monday, Tuesday, Wednesday - hours vary depending on needs of the community
 📞 (501) 745-6440
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/van-buren-county-literacy-council-1 Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
 
 9. Van Buren County Library
 289 Factory Rd, Clinton AR 72031
@@ -67,7 +67,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Help my child learn, Math, Technology skills, Workforce skills
 ⏰ Hours: Monday: 10am - 6pm Tuesday - Friday 9am - 5pm Saturday 10am - 2pm
 📞 (501) 745-2100
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/van-buren-county-library Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 10. Literacy Action of Central Arkansas
 100 S. Rock Street, Suite 132, Little Rock AR 72201
@@ -75,21 +75,21 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Technology skills, Workforce skills
 ⏰ Hours: Monday - Thursday, 9-4; Fridays by appointment
 📞 (501) 372-7323
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/literacy-action-of-central-arkansas Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 11. Ozark Foothills Literacy Project
 184 N 5th St, Batesville AR 72501
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Help my child learn, Math, Technology skills, Workforce skills
 ⏰ Hours: 10:00 a.m.-2:00 p.m. M-Th
 📞 (870) 793-5912
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/ozark-foothills-literacy-project-3 Directory cost field: no. Instruction type: Classroom,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Instruction in Spanish.
 
 12. Literacy Council of Monroe County
 234 West Cedar, Brinkley AR 72021
 🏥 Services: Citizenship preparation, English classes, Reading and writing, Math, Technology skills
 ⏰ Hours: 8707343333
 📞 (870) 734-3333
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/literacy-council-of-monroe-county Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 13. Arkansas State University - Newport
 7648 Victory Blvd., Newport AR 72112
@@ -97,7 +97,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Help my child learn, Math, Technology skills, Workforce skills
 ⏰ Hours: Monday through Thursday, 8 AM to 4:30 PM
 📞 (870) 512-7824
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/arkansas-state-university-newport-1 Directory cost field: no. Instruction type: Classroom,Computer-aided,Family literacy program.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided,Family literacy program.
 
 14. Adult Education at Arkansas Northeastern College
 2501 S. Division St., Blytheville AR 72315
@@ -105,7 +105,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Help my child learn, Math, Technology skills
 ⏰ Hours: Monday through Friday, 8:00 - 4:30
 📞 (870) 780-1280
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/adult-education-at-arkansas-northeastern-college Instruction type: Computer-aided,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Computer-aided,Instruction in Spanish.
 
 15. Dogwood Literacy Council, Inc.
 325 E. Twin Springs, Suite 200, Siloam Springs AR 72761
@@ -113,14 +113,14 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills, Workforce skills
 ⏰ Hours: Monday - Thursday 9am to 12 noon and Monday, Tuesday, Thursday 5pm - 8pm
 📞 (501) 524-4009
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/dogwood-literacy-council-inc Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 16. Fayetteville Adult Education
 612 S. College Ave., Fayetteville AR 72703
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills
 ⏰ Hours: 8:30 A.M. - 7:00 P.M. Mon. - Thurs and 8:00 - noon on Friday
 📞 (479) 444-3041
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/fayetteville-adult-education Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 17. Twin Lakes Literacy Council
 1318 Bradley Dr., #14, Mountain Home AR 72653
@@ -128,7 +128,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Help my child learn, Math, Technology skills, Workforce skills
 ⏰ Hours: 10:00 - 5:00 Monday - Thursday, call for tutoring needs outside of these hours
 📞 (870) 425-7323
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/twin-lakes-literacy-council-1 Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 18. Black River Technical College Adult Education
 1410 Hwy 304 E, Pocahontas AR 72455
@@ -136,4 +136,4 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Workforce skills
 ⏰ Hours: Monday - Thursday 8 am to 4:30 pm
 📞 (870) 248-4130
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/black-river-technical-college-adult-education Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.

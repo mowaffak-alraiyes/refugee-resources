@@ -292,34 +292,34 @@ White Oaks Mall, Lower Level, 2500 Wabash Avenue, D02, Springfield IL 62704
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills
 ⏰ Hours: Saturdays: 11:30am - 4pm CST Thursdays: 6 - 9pm CST, Sundays:2pm - 7:30 CST
 📞 (217) 741-2432
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/j-m-institute-home-high-school Instruction type: Classroom,Computer-aided,Distance learning,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Computer-aided,Distance learning,Instruction in Spanish.
 
 36. United With Immigrants - English Language Instruction
 209 W. 3rd St., Metropolis IL 62960
 🌐 https://www.unitedwithimmigrants.org
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Workforce skills
 📞 (618) 638-4673
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/united-with-immigrants-english-language-instruction Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 37. Paris Alternative Learning Site
 300 South Eads Avenue, Paris IL 61944
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Help my child learn, Math, Technology skills, Workforce skills
 📞 (217) 264-0835
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/paris-alternative-learning-site-2 Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
 
 38. ROE Adult Literacy
 2611 N. Sheridan Road, Suite A, Peoria IL 61604
 🌐 https://peoriaroe.org
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Workforce skills
 📞 (309) 472-2468
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/roe-adult-literacy Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 39. World Relief Aurora
 73 South LaSalle Street, Aurora IL 60505
 🌐 https://worldrelief.org/chicagoland/
 🏥 Services: Citizenship preparation, English classes, Reading and writing, Help my child learn, Math, Technology skills, Workforce skills
 📞 (630) 906-9546
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/world-relief-aurora Instruction type: Family literacy program.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Family literacy program.
 
 40. The Literacy Connection
 270 N. Grove Avenue, 2nd floor, Elgin IL 60120
@@ -327,7 +327,7 @@ White Oaks Mall, Lower Level, 2500 Wabash Avenue, D02, Springfield IL 62704
 🏥 Services: Citizenship preparation, English classes, Reading and writing, Family literacy, Help my child learn, Technology skills, Workforce skills
 ⏰ Hours: Mon-Thurs. 9-4, Friday/Evenings/Weekend by appt. only
 📞 (847) 742-6565
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/literacy-connection-elgin Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Computer-aided.
 
 41. Dominican Literacy Center
 260 Vermont Ave, Aurora IL 60505
@@ -335,14 +335,14 @@ White Oaks Mall, Lower Level, 2500 Wabash Avenue, D02, Springfield IL 62704
 🏥 Services: Citizenship preparation, English classes, Reading and writing
 ⏰ Hours: Monday through Friday, 9:00 a.m. to 3:30 p.m. Evenings on Monday and Tuesday, 7:00-8:30 p.m.
 📞 (630) 898-4636
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/dominican-literacy-center-62276 Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Computer-aided.
 
 42. West Chicago Community High School Adult Education Program
 326 Joliet Street, West Chicago IL 60185
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math
 ⏰ Hours: Classes Meet in the Evening: 6:30 - 9:20 p.m.
 📞 (630) 876-6578
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/west-chicago-community-high-school-adult-education-program Directory cost field: no. Instruction type: Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Instruction in Spanish.
 
 43. World Relief DuPage
 191 S Gary Ave, Suite 130, Carol Stream IL 60188
@@ -350,47 +350,47 @@ White Oaks Mall, Lower Level, 2500 Wabash Avenue, D02, Springfield IL 62704
 🏥 Services: Citizenship preparation, English classes, Reading and writing, Help my child learn, Math, Technology skills, Workforce skills
 ⏰ Hours: 9:30-11:30 a.m., M,T,Th,F
 📞 (630) 462-7566
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/world-relief-adult-esl-program Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 44. ESL- Literacy - Citizenship Study Classes
 130 S. Roselle Rd, Schaumburg IL 60193
 🏥 Services: Citizenship preparation, English classes, Reading and writing
 📞 (847) 923-3387
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/esl-literacy-citizenship-study-classes Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 45. Lisle Library District
 777 Front St, Lisle IL 60532
 🌐 https://www.lislelibrary.org/programs/literacyenglish-language-development-eld
 🏥 Services: Citizenship preparation, English classes, Reading and writing, Technology skills, Workforce skills
 📞 (630) 971-1675
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/lisle-library-district Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 46. College of Lake County, Adult Education & ESL Division
 19351 W. Washington Street, Building K, Grayslake IL 60030
 🌐 https://www.clcillinois.edu/programs-and-classes/adult-education-and-esl
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills, Workforce skills
 📞 (847) 543-2485
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/college-of-lake-county-adult-education-esl-division Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
 
 47. U.S. Citizenship Test Preparation
 2121 S. Goebbert Road, Arlington Heights IL 60005
 🌐 https://www.ce.d214.org/citizenship
 🏥 Services: Citizenship preparation
 📞 (847) 718-7730
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/u-s-citizenship-test-preparation Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 48. PEACE La Grange School District 102
 333 N Park Rd, La Grange Park IL 60526
 🏥 Services: Citizenship preparation, English classes
 📞 (708) 215-6254
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/peace-la-grange-school-district-102 Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom.
 
 49. Tutoring English to Advance Change TEACH
 100 South 6th Avenue, La Grange IL 60525
 🌐 https://www.teachempowers.org
 🏥 Services: Citizenship preparation, English classes
 📞 (708) 603-2963
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/tutoring-english-to-advance-change-teach Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 50. Adult Literacy and Learning @ Waukegan Public Library
 128 N. County St, Waukegan IL 60085
@@ -398,7 +398,7 @@ White Oaks Mall, Lower Level, 2500 Wabash Avenue, D02, Springfield IL 62704
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Help my child learn, Math, Technology skills
 ⏰ Hours: M - W 10 am - 8 pm, Th and Fri 10 am - 6 pm, Sat and Sun 1 pm - 5 pm
 📞 (847) 623-2041
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/adult-learning-center-waukegan-public-library-0 Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
 
 51. English/Spanish Book Club
 2400 S. Des Plaines Ave., North Riverside IL 60546
@@ -406,14 +406,14 @@ White Oaks Mall, Lower Level, 2500 Wabash Avenue, D02, Springfield IL 62704
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Help my child learn, Technology skills, Workforce skills
 ⏰ Hours: 10-6
 📞 (708) 447-0869
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/english-spanish-conversation Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
 
 52. Berwyn Public Library
 2701 S. Harlem Ave., Berwyn IL 60402
 🌐 http://www.berwynlibrary.org/events
 🏥 Services: Citizenship preparation, English classes
 📞 (708) 795-8000
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/berwyn-public-library Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Computer-aided.
 
 53. Adult Education Classes (GED & ESL)
 5413 W Diversey Ave, Chicago IL 60639
@@ -421,14 +421,14 @@ White Oaks Mall, Lower Level, 2500 Wabash Avenue, D02, Springfield IL 62704
 🏥 Services: Citizenship preparation, English classes, High school equivalency preparation, Technology skills
 ⏰ Hours: 7 am- 7 pm Mon-Fri, Closed Weekends
 📞 (773) 622-7723
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/adult-education-classes-ged-esl Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 54. Literacy Works
 ​5401 W. Lawrence Ave., #30223,, Chicago IL 60630
 🌐 https://www.litworks.org/
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills
 📞 (773) 387-5902
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/literacy-works Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
 
 55. ELL Parent Center Classes and Programs
 9440 Kenton Ave, Skokie IL 60076
@@ -436,7 +436,7 @@ White Oaks Mall, Lower Level, 2500 Wabash Avenue, D02, Springfield IL 62704
 🏥 Services: Citizenship preparation, English classes, Reading and writing, Family literacy, Help my child learn, Technology skills
 ⏰ Hours: 9:00 - 5:00
 📞 (847) 568-7613
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/ell-parent-center-classes-and-programs Directory cost field: no. Instruction type: Classroom,Computer-aided,Family literacy program.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided,Family literacy program.
 
 56. Trellus
 2838 W Peterson Ave, Chicago IL 60659
@@ -444,7 +444,7 @@ White Oaks Mall, Lower Level, 2500 Wabash Avenue, D02, Springfield IL 62704
 🏥 Services: Citizenship preparation, English classes, Reading and writing, Family literacy, Help my child learn, Technology skills, Workforce skills
 ⏰ Hours: 9:00am - 5:00pm
 📞 (773) 564-4944
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/trellus Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 57. St. Joseph Services- Adult Education
 1510 N. Claremont Ave., Chicago IL 60622
@@ -452,14 +452,14 @@ White Oaks Mall, Lower Level, 2500 Wabash Avenue, D02, Springfield IL 62704
 🏥 Services: Citizenship preparation, English classes, Reading and writing, Help my child learn, Technology skills
 ⏰ Hours: 9:00-6:00 pm
 📞 (773) 278-0485
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/st-joseph-services Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 58. Instituto del Progreso Latino
 2555 S Western Ave, Chicago IL 60608
 🌐 https://www.InstitutoChicago.org
 🏥 Services: Citizenship preparation, English classes, Reading and writing, Family literacy, Help my child learn, Math, Technology skills
 📞 (773) 890-0055
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/instituto-del-progreso-latino Directory cost field: no. Instruction type: Classroom,Family literacy program.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Family literacy program.
 
 59. Interactive Family Literacy
 1919 W. Cullerton Street, Chicago IL 60608
@@ -467,7 +467,7 @@ White Oaks Mall, Lower Level, 2500 Wabash Avenue, D02, Springfield IL 62704
 🏥 Services: Citizenship preparation, English classes, Reading and writing, Family literacy, Help my child learn
 ⏰ Hours: 8:00-5:00
 📞 (312) 226-0963
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/interactive-family-literacy-3 Instruction type: Classroom,Computer-aided,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
 
 60. Madonna Mission ESL Program for Refugee Women
 1706 W. Morse Ave., Chicago IL 60626
@@ -475,7 +475,7 @@ White Oaks Mall, Lower Level, 2500 Wabash Avenue, D02, Springfield IL 62704
 🏥 Services: Citizenship preparation, English classes
 ⏰ Hours: 9-5 M-Th, 9-12 F
 📞 (773) 558-5914
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/madonna-mission-esl-program-for-refugee-women Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom.
 
 61. Literacy Chicago
 641 West Lake Street, Suite 104, Chicago IL 60661
@@ -483,14 +483,14 @@ White Oaks Mall, Lower Level, 2500 Wabash Avenue, D02, Springfield IL 62704
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills, Workforce skills
 ⏰ Hours: Classes are avaialbel Monday - Thursday
 📞 (312) 858-6020
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/literacy-chicago Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 62. Adult Education and Literacy
 202 S. Halsted St., Chicago Heights IL 60411
 🌐 https://prairiestate.edu/community/adult-education/index.aspx
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Workforce skills
 📞 (708) 709-3722
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/adult-education-and-literacy Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
 
 63. CASL: Chinese American Service League
 2141 S. Tan Ct., Chicago IL 60616
@@ -498,7 +498,7 @@ White Oaks Mall, Lower Level, 2500 Wabash Avenue, D02, Springfield IL 62704
 🏥 Services: Citizenship preparation, English classes, Reading and writing, Family literacy, Help my child learn, Technology skills, Workforce skills
 ⏰ Hours: 9:00-5:00
 📞 (312) 791-0418
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/casl-chinese-american-service-league Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
 
 64. Refugee Women's Literacy & Education/GED Prep
 1333 South Wabash Avenue, Suite 1503, Chicago IL 60605
@@ -506,4 +506,4 @@ White Oaks Mall, Lower Level, 2500 Wabash Avenue, D02, Springfield IL 62704
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Technology skills
 ⏰ Hours: Monday-Saturday 0800-1800
 📞 (407) 949-8568
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/refugee-women-s-literacy-education-ged-prep Instruction type: Classroom,Computer-aided,Family literacy program.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Computer-aided,Family literacy program.

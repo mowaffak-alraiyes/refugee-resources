@@ -33,7 +33,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Help my child learn, Technology skills, Workforce skills
 ⏰ Hours: Monday, Tuesday, Wednesday 9-4, Thursday & Friday by appointment.
 📞 (231) 747-7273
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/read-muskegon Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
 
 6. Zeeland Adult Education-Midtown Center
 96 W 15 Street, Suite 101, Holland MI 49423
@@ -41,14 +41,14 @@
 🏥 Services: Citizenship preparation, English classes, High school equivalency preparation, Math
 ⏰ Hours: Monday - Thursday
 📞 (616) 494-8803
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/zeeland-adult-education-midtown-center Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 7. READ Ottawa
 430 E 8th St., Suite 140, Holland MI 49423
 🌐 https://www.readottawa.org
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Workforce skills
 📞 (616) 843-1470
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/r-e-a-d-ottawa Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 8. Van Buren Intermediate School District Adult Multilingual Education
 555 Cedar Street, Door 12, Paw Paw MI 49079
@@ -56,7 +56,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing
 ⏰ Hours: 9am-7pm
 📞 (269) 281-4041
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/van-buren-intermediate-school-district-adult-multilingual-education Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
 
 9. Connecting Communities
 2019 Porter St SW, Wyoming MI 49519
@@ -64,7 +64,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, Technology skills
 ⏰ Hours: Saturdays: 9:30 am - 11:30 am; Sundays: 8:30 am - 11:00 am
 📞 (616) 920-0284
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/connecting-communities Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 10. Literacy Center of West Michigan
 207 Fulton St E, Suite 4000, Grand Rapids MI 49503
@@ -72,14 +72,14 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Help my child learn, Math, Technology skills, Workforce skills
 ⏰ Hours: Mon - Fri 9am - 5pm
 📞 (616) 459-5151
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/literacy-center-west-michigan Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 11. Branch County Adult Education Program
 275 N. Fremont Street, Coldwater MI 49036
 🏥 Services: Citizenship preparation, English classes, Reading and writing, Family literacy, Math, Technology skills, Workforce skills
 ⏰ Hours: Tuesday, Wednesday, Thursday, 3:30 to 6:30
 📞 (269) 580-6399
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/branch-county-adult-education-program Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 12. Family Literacy
 600 W. Maple St., Lansing MI 48906
@@ -87,7 +87,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, Family literacy, Help my child learn, Technology skills
 ⏰ Hours: Mon-Fri 9-5, Saturday 9-1
 📞 (517) 999-5090
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/english-classes-bridges Directory cost field: no. Instruction type: Classroom,Computer-aided,Family literacy program.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided,Family literacy program.
 
 13. Capital Area District Libraries
 401 S Capitol Ave, Lansing MI 48933
@@ -95,7 +95,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Help my child learn, Technology skills
 ⏰ Hours: 9a-9p
 📞 (517) 367-0810
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/capital-area-district-libraries Directory cost field: no.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no.
 
 14. Capital Area Literacy Coalition GED Preparation
 1028 E. Saginaw, Lansing MI 48906
@@ -103,14 +103,14 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation
 ⏰ Hours: M - F, 9AM - 5PM
 📞 (517) 485-4949
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/ged-preparation-1 Directory cost field: no.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no.
 
 15. C.O.F.Y. Center New Beginnings Literacy Program
 1015 East Carpenter Road, Flint MI 48505
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Help my child learn, Math, Technology skills
 ⏰ Hours: Monday through Thursday, 9:00 a.m.-1:00 p.m. / 4:00-6:00 p.m.
 📞 (810) 458-3784
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/c-o-f-y-center-new-beginnings-literacy-program Directory cost field: no.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no.
 
 16. Plymouth-Canton Community Literacy Council
 39750 Joy Road, Plymouth MI 48170
@@ -118,7 +118,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing
 ⏰ Hours: by appointment
 📞 (734) 589-0011
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/plymouth-canton-community-literacy-council Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Computer-aided.
 
 17. Family Literacy Center
 311 Higgins Street, Lapeer MI 48446
@@ -126,7 +126,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Help my child learn, Math, Technology skills, Workforce skills
 ⏰ Hours: 8 a.m.- 6p.m., Monday through Thursday, 9am -2pm Friday, and other hours by appointment
 📞 (810) 664-2737
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/family-literacy-center-4 Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 18. Centro Multicultural La Familia
 35 W. Huron, Suite 100, Pontiac MI 48342
@@ -134,7 +134,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, Technology skills
 ⏰ Hours: Monday to Thursday 9:00 am to 5:00 pm, Fridays 9-3 pm
 📞 (248) 858-7800
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/centro-multicultural-la-familia Instruction type: Classroom,Family literacy program,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Family literacy program,Instruction in Spanish.
 
 19. ZAMAN INTERNATIONAL LITERACY PROGRAM
 26091 Trowbridge St., Inkster MI 48141
@@ -142,14 +142,14 @@
 🏥 Services: Citizenship preparation, English classes
 ⏰ Hours: Monday through Thursday 9:30 am - 1:30 pm
 📞 (313) 551-3994
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/boost-literacy-program Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 20. Troy Public Library
 510 W Big Beaver Rd, Troy MI 48084
 🌐 https://www.troypl.org
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Help my child learn
 📞 (248) 680-7297
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/troy-public-library Directory cost field: no. Instruction type: Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Computer-aided.
 
 21. ACCESS Adult and Family Learning
 2651 Saulino Ct, Dearborn MI 48120
@@ -157,7 +157,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, Technology skills
 ⏰ Hours: 9:00 am - 5:00 pm
 📞 (313) 203-3406
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/access-adult-and-family-learning Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 22. Wayne Metro LEAPS - Southeast Detroit
 5675 Larkins Street, Detroit MI 48210
@@ -165,7 +165,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Help my child learn, Math, Technology skills
 ⏰ Hours: 9am-3pm
 📞 (313) 463-5514
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/wayne-metro-leaps-southeast-detroit Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 23. Troy School District
 1522 E Big Beaver, Troy MI 48083
@@ -173,14 +173,14 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math
 ⏰ Hours: Bldg hours 8am-10pm, Office hours 8am-4pm
 📞 (248) 823-5151
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/troy-school-district Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Computer-aided.
 
 24. IIMD ESL Program
 111 East Kirby Street, Detroit MI 48202
 🌐 https://iimd.org
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Technology skills
 📞 (313) 871-8600
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/iimd-esl-program Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 25. Adult Literacy Program
 12500 Mitchell Street, Detroit MI 48212
@@ -188,7 +188,7 @@
 🏥 Services: Citizenship preparation, English classes, Technology skills, Workforce skills
 ⏰ Hours: M-Th 9:00- 4:00
 📞 (313) 366-6800
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/adult-literacy-program-5 Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Computer-aided.
 
 26. Wayne Metro LEAPS - Hamtramck
 12031 Mitchell Street, Hamtramck MI 48212
@@ -196,13 +196,13 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Help my child learn, Math, Technology skills
 ⏰ Hours: 9am-3pm
 📞 (313) 463-5514
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/wayne-metro-leaps-hamtramck Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 27. Oceana Hispanic Center
 11 Washington St., Hart MI 49420
 🏥 Services: Citizenship preparation, English classes, High school equivalency preparation, Technology skills
 📞 (231) 301-8300
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/oceana-hispanic-center Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
 
 28. Mason-Lake Baldwin
 2626 US 37 N, Baldwin MI 49304
@@ -210,7 +210,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills
 ⏰ Hours: noon to 4:00pm
 📞 231-745- 2703
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/mason-lake-baldwin Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 29. Michigan Works! Learning Lab - Manistee
 400 River Street, Manistee MI 49660
@@ -218,7 +218,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills, Workforce skills
 ⏰ Hours: Monday - Thursday (Daytime and Evening Hours)
 📞 (231) 398-3172
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/michigan-works-learning-lab-manistee Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 30. Michigan Works! Learning Lab - Cadillac
 401 North Lake Street, Cadillac MI 49601
@@ -226,7 +226,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills, Workforce skills
 ⏰ Hours: Monday - Thursday (Daytime & Evening Hours)
 📞 (231) 876-1648
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/michigan-works-learning-lab-cadillac Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 31. MIchigan Works! Learning Lab - Benzonia @ BACN
 2804 Benzie Highway, Benzonia MI 49616
@@ -234,7 +234,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills, Workforce skills
 ⏰ Hours: Monday & Wednesdays (9:00 - 5:00)
 📞 (231) 882-9544
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/michigan-works-learning-lab-benzonia-bacn-0 Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 32. Michigan Works! Learning Lab - Kalkaska
 103 3rd Street, Kalkaska MI 49646
@@ -242,7 +242,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills, Workforce skills
 ⏰ Hours: Monday - Thursday (Daytime & Evening Hours)
 📞 (231) 258-9304
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/michigan-works-learning-lab-kalkaska Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 33. Michigan Works! Learning Lab - Traverse City
 1209 S Garfield - Suite C, Traverse City MI 49686
@@ -250,7 +250,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Help my child learn, Math, Technology skills, Workforce skills
 ⏰ Hours: Monday - Thursday (Daytime and Evening Hours)
 📞 (231) 922-3761
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/michigan-works-learning-lab-traverse-city Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 34. Michigan Works! Learning Lab - Petoskey
 2240 Mitchell Park Drive, Petoskey MI 49770
@@ -258,7 +258,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills, Workforce skills
 ⏰ Hours: Monday - Thursday (Daytime and Evening Hours)
 📞 (231) 439-5204
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/michigan-works-learning-lab-petoskey Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 35. READ Adult Literacy
 211 N First St, Alpena MI 49707
@@ -266,4 +266,4 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation
 ⏰ Hours: 9:00 -12:00 Tuesday-Thursday
 📞 (989) 356-6188
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/read-adult-literacy Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.

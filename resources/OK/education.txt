@@ -13,7 +13,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Math, Technology skills, Workforce skills
 ⏰ Hours: Tuesday and Thursday 9:00 am to 2:00 pm and 5:00 pm to 8:00 pm
 📞 (580) 480-4730
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/southwest-technology-center-aefl-program Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
 
 3. Great Plains Literacy Council
 421 N Hudson St, Altus OK 73521
@@ -21,7 +21,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Math, Technology skills, Workforce skills
 ⏰ Hours: 10:00 am -6:00 pm
 📞 (580) 477-2890
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/great-plains-literacy-council Directory cost field: no. Instruction type: Classroom,Computer-aided,Family literacy program,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided,Family literacy program,Instruction in Spanish.
 
 4. Department of Adult Basic Education at Great Plains Technology Center
 4500 W Lee Blvd., Building 100, Lawton OK 73507
@@ -29,7 +29,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math
 ⏰ Hours: 8:00-4:00
 📞 (580) 250-5685
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/department-of-adult-basic-education-at-great-plains-technology-center Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 5. Lawton Adult Literacy Center
 110 SW 4th Street, Lawton OK 73501
@@ -37,7 +37,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Help my child learn, Math, Technology skills, Workforce skills
 ⏰ Hours: 9:00-6:00
 📞 (918) 344-1415
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/lawton-adult-literacy-center-2 Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
 
 6. Duncan Area Literacy Council
 7 North 11th Street, Duncan OK 73533
@@ -45,7 +45,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills
 ⏰ Hours: Call anytime for appointment
 📞 (580) 736-1170
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/duncan-area-literacy-council Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 7. Chickasha Adult Learning Center
 1208 S. 17th St., Chickasha OK 73018
@@ -53,7 +53,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math
 ⏰ Hours: ABE Classes M-Th 8:00- 3:00 pm; Tu/Th 5:30-8:00 pm; ESL Tu/Th 5:30-8:00 pm
 📞 (405) 222-6562
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/chickasha Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Computer-aided.
 
 8. Mustang Community Education
 909 S Mustang Rd, Mustang OK 73064
@@ -61,14 +61,14 @@
 🏥 Services: Citizenship preparation, English classes
 ⏰ Hours: M-F 8:00-4:30
 📞 (405) 376-7996
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/mustang-community-education Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom.
 
 9. Language Learning Fellowship
 3030 NW 23rd Street, Oklahoma City OK 73107
 🏥 Services: Citizenship preparation, English classes
 ⏰ Hours: Wednesdays 6-7:30 pm. No classes during the summer.
 📞 (405) 834-3269
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/language-learning-fellowship Directory cost field: no. Instruction type: Classroom,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Instruction in Spanish.
 
 10. Opportunities Industrialization Center of Oklahoma County, Inc. (OIC) dba OIC of Oklahoma County
 3033 N. Walnut Avenue, Building East, Oklahoma City OK 73105
@@ -76,7 +76,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills, Workforce skills
 ⏰ Hours: 8:00am to 4:00pm (later some evenings)
 📞 (405) 235-2651
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/opportunities-industrialization-center-of-oklahoma-county-inc-oic Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Computer-aided.
 
 11. Ardmore Public Library
 320 E St NW, Ardmore OK 73401
@@ -84,7 +84,7 @@
 🏥 Services: Citizenship preparation, English classes, Technology skills
 ⏰ Hours: Monday - Friday: 9 am to 6 pm
 📞 (580) 221-3236
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/ardmore-public-library Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
 
 12. Pontotoc County Literacy Coalition
 124 S Rennie St, Ada OK 74820
@@ -92,7 +92,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Help my child learn, Math
 ⏰ Hours: Monday - Wednesday 9am - 2pm. Thursday 9am - 12:30pm. Friday Closed.
 📞 (580) 436-5443
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/pontotoc-county-literacy-coalition Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 13. The Literacy Program at the Bristow Public Library
 111 W 7th Ave., Bristow OK 74010
@@ -100,14 +100,14 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Technology skills, Workforce skills
 ⏰ Hours: M-F: 9 AM - 6PM, Sa: 9AM - NOON
 📞 (918) 367-6562
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/the-literacy-program-at-the-bristow-public-library Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
 
 14. Coal County Public Library Adult Literacy
 115 West Ohio, Coalgate OK 74538
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Help my child learn, Math, Technology skills
 ⏰ Hours: M - F 9:30 a.m. to 5:30 p.m.
 📞 (580) 927-3103
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/coal-county-public-library-adult-literacy Directory cost field: no. Instruction type: Classroom,Computer-aided,Distance learning,Family literacy program.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided,Distance learning,Family literacy program.
 
 15. Muskogee Public Library Literacy
 801 W Okmulgee St, Muskogee OK 74401
@@ -115,7 +115,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills, Workforce skills
 ⏰ Hours: Mon. 9-6; Tues. 12 pm - 9; Wed. 9-6; Thur. 10 - 7; Fri. 9-6
 📞 (918) 682-6657
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/muskogee-public-library-literacy Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 16. Marland's Landing
 1300 Summers Place, Ponca City OK 74604
@@ -123,7 +123,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Math, Technology skills, Workforce skills
 ⏰ Hours: 8am-4pm Mondays-Thursdays, 8am-12pm Fridays
 📞 (580) 762-4156
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/marland-s-landing Instruction type: Classroom,Computer-aided,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
 
 17. Ruth G. Hardman Adult Literacy Services
 2901 S Harvard, Suite A, Tulsa OK 74114
@@ -131,7 +131,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Technology skills
 ⏰ Hours: M-F 9-5
 📞 (918) 549-7400
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/ruth-hardman-adult-literacy-services Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 18. IST English Language Learning
 4630 S Irvington Ave, Tulsa OK 74135
@@ -139,7 +139,7 @@
 🏥 Services: Citizenship preparation, English classes
 ⏰ Hours: 8:00 a.m. - 5:00 p.m.
 📞 (918) 622-6797
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/ist-english-language-learning Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom.
 
 19. Rogers County Literacy Council
 1515 N Florence Ave, Claremore OK 74017
@@ -147,7 +147,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Math, Technology skills, Workforce skills
 ⏰ Hours: Office Hours Monday and Wednesday 9.30 to 4.30
 📞 (918) 277-4331
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/rogers-county-literacy-council-151815 Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
 
 20. ESL/ABE
 200 N. Main St., Miami OK 74354
@@ -155,4 +155,4 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Math, Workforce skills
 ⏰ Hours: Mon-Fri 11:00-5:00
 📞 (918) 541-2292
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/esl-abe Directory cost field: no. Instruction type: Computer-aided,Family literacy program.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Computer-aided,Family literacy program.

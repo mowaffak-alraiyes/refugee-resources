@@ -53,7 +53,7 @@
 🏥 Services: Citizenship preparation, High school equivalency preparation, Family literacy, Technology skills
 ⏰ Hours: 08:00 AM - 9:00 PM
 📞 (714) 241-5700
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/remington-education-center-free-high-school-equivalency-test-preparation-ged-hiset Directory cost field: no. Instruction type: Classroom,Family literacy program,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Family literacy program,Instruction in Spanish.
 
 8. Mesa County Libraries Adult Learning Center
 443 N. 6th Street, Grand Junction CO 81501
@@ -61,7 +61,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills
 ⏰ Hours: 9am - 5pm, Monday - Friday
 📞 (970) 683-2443
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/mesa-county-libraries-literacy-center Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
 
 9. Delta County Libraries Literacy Programs
 124 E 6th St., Delta CO 81416
@@ -69,14 +69,14 @@
 🏥 Services: Citizenship preparation, English classes, High school equivalency preparation
 ⏰ Hours: Tuesday-Friday 10-6 / Saturday 10-4
 📞 (970) 874-9630
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/delta-county-libraries-literacy-programs Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 10. Durango Adult Education Center
 701 Camino del Rio, Suite 301, Durango CO 81301
 🌐 https://www.durangoadulted.org
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills, Workforce skills
 📞 (970) 385-4354
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/durango-education-center Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 11. Montrose Adult Education Center
 701 S. Junction Avenue, Montrose CO 81401
@@ -84,7 +84,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills
 ⏰ Hours: varies
 📞 (970) 787-0281
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/montrose-adult-education-center Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Computer-aided.
 
 12. Literacy Outreach
 1127 School Street, Glenwood Springs CO 81601
@@ -92,7 +92,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, Math, Technology skills
 ⏰ Hours: Monday through Thursday, 8:00 a.m. - 5:00 p.m.
 📞 (970) 945-5282
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/literacy-outreach-0 Instruction type: Classroom,Computer-aided,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
 
 13. Littleton Immigrant Resources Center
 6014 S Datura St, Littleton CO 80120
@@ -100,7 +100,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, Workforce skills
 ⏰ Hours: 9am-5pm
 📞 (303) 795-3968
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/littleton-immigrant-resources-center Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Computer-aided.
 
 14. GED at Restoration Outreach Programs
 1540 Boston Street, Aurora CO 80010
@@ -108,7 +108,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills, Workforce skills
 ⏰ Hours: 1-3pm Monday and Thursday; 1-6:00pm Tuesday and Wednesday
 📞 (720) 859-2513
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/ged-restoration-outreach-programs Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 15. Parent Education at Aurora Community Connection
 9801 E Colfax Ave, Suite 200, Aurora CO 80010
@@ -116,7 +116,7 @@
 🏥 Services: Citizenship preparation, English classes
 ⏰ Hours: 9:00am - 5:30pm; Mon - Thurs
 📞 (720) 975-0147
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/citizenship-2 Instruction type: Classroom,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Instruction in Spanish.
 
 16. English as a second language
 2600 S Parker RD, Ste. 1-211, Aurora CO 80014
@@ -124,7 +124,7 @@
 🏥 Services: Citizenship preparation, English classes
 ⏰ Hours: Monday-Thursday 5pm-9pm and Saturday 9am-1pm
 📞 (720) 285-8652
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/english-as-a-second-language-14 Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom.
 
 17. Adult Literacy Program @PCCLD
 100 E. Abriendo, 100 E. Abriendo, Pueblo CO 81004
@@ -132,42 +132,42 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills, Workforce skills
 ⏰ Hours: 9 am - 5 pm
 📞 (719) 553-0206
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/adult-learning-program-atpccld Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 18. Intercambio Uniting Communities
 4735 Walnut Street, Suite B, Boulder CO 80301
 🌐 https://www.intercambio.org
 🏥 Services: Citizenship preparation, English classes
 📞 (303) 996-0275
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/intercambio-uniting-communities-1 Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 19. El Comité Adult Education
 402 Kimbark St., CENTRALongmont Presbyterian Church, Longmont CO 80501
 🌐 https://www.elcomitedelongmont.org
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation
 📞 (303) 651-6125
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/st-vrain-community-adult-education Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 20. High Plains Library District
 2650 W 29th St., Greeley CO 80631
 🌐 http://www.mylibrary.us
 🏥 Services: Citizenship preparation, High school equivalency preparation, Help my child learn, Technology skills, Workforce skills
 📞 (888) 861-7323
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/high-plains-library-district Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 21. The Grove Neighborhood Network
 119 14th Ave., Greeley CO 80631
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills
 ⏰ Hours: M-Th 9AM to 1 PM. T&TH 5:30 to 8 PM
 📞 (970) 304-9636
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/the-grove-neighborhood-network Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 22. Citizenship Classes at the Immigrant and Refugee Center
 3001 8th Ave, Suite 170, Evans CO 80620
 🌐 https://www.mylibrary.us/citizenship/
 🏥 Services: Citizenship preparation
 📞 (970) 324-3670
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/citizenship-classes-at-the-immigrant-and-refugee-center Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom.
 
 23. Rising Up Morgan County
 527 State St., Fort Morgan CO 80701
@@ -175,4 +175,4 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Workforce skills
 ⏰ Hours: Tuesday & Thursday 10 a.m. - 1 p.m.
 📞 (970) 370-8880
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/rising-up-morgan-county Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.

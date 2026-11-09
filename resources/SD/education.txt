@@ -4,7 +4,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, Technology skills
 ⏰ Hours: 8 AM - 8 PM, Mondays, Tuesdays and Thursdays; 8 AM - 5 PM Fridays and Wednesdays
 📞 (605) 731-2000
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/center-new-americans-lutheran-social-services-south-dakota Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom.
 
 2. Caminando Juntos
 311 E 14th Street, Sioux Falls SD 57104
@@ -12,7 +12,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, Technology skills, Workforce skills
 ⏰ Hours: 9-5 Mon - Thur, 9-4 Fri
 📞 (605) 274-3735
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/caminando-juntos Instruction type: Classroom,Computer-aided,Family literacy program,Instruction in Spanish.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Computer-aided,Family literacy program,Instruction in Spanish.
 
 3. Cornerstones Career Learning Center, Huron
 33 3rd St. SE, Suite 201, Huron SD 57350
@@ -20,7 +20,7 @@
 🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills, Workforce skills
 ⏰ Hours: Monday-Wednesday 8:00AM-7:30PM, Thursday 8:00AM-5:00PM, Friday by appointment
 📞 (605) 353-7175
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/cornerstones-career-learning-center-huron Directory cost field: no. Instruction type: Classroom,Computer-aided.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 4. Britton Public Library
 755 7th St., PO Box 299, Britton SD 57430
@@ -28,4 +28,4 @@
 🏥 Services: Citizenship preparation, Reading and writing, Help my child learn, Technology skills
 ⏰ Hours: Monday to Friday 8:30 to 5:30
 📞 (605) 448-2800
-📝 Source: National Literacy Directory, retrieved 2026-11-08. https://www.nld.org/britton-public-library Directory cost field: no. Instruction type: Classroom.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
