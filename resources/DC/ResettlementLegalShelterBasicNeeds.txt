@@ -238,3 +238,56 @@
 🏥 Services: Shelter
 📝 Type: Non-Congregate Housing Men & Women. Source: DC Geographic Information System Homeless Shelter Locations, Department of Human Services, retrieved 2026-10-16. https://opendata.dc.gov/datasets/DCGIS::homeless-shelter-locations Row is marked Active and already public. Bed count is not current availability. Access: Coordinated Assessment & Housing Placement (CAHP) Process
 
+38. AsylumWorks
+1718 Connecticut Avenue NW, Suite 300, Washington, DC 20009
+🏥 Services: Immigration legal help
+📞 (202) 567-7980
+📝 Source: U.S. Department of Justice, Recognition and Accreditation roster, report updated November 1, 2026, retrieved 2026-11-09.
+
+39. Catholic Immigration Service, Inc.
+1720 I Street, NW, Suite 607A, Washington, DC 20006
+🏥 Services: Immigration legal help
+📞 (202) 466-6611
+📝 Source: U.S. Department of Justice, Recognition and Accreditation roster, report updated November 1, 2026, retrieved 2026-11-09.
+
+40. Human Rights First — Washington, DC Extension Office
+805 15th Street, NW, Suite 900, Washington, DC 20005
+🏥 Services: Immigration legal help
+📞 (202) 547-5692
+📝 Source: U.S. Department of Justice, Recognition and Accreditation roster, report updated November 1, 2026, retrieved 2026-11-09.
+
+41. Kids in Need of Defense (KIND)
+1750 H Street NW, Suite 600, Box #24, Washington, DC 20006
+🏥 Services: Immigration legal help
+📞 (202) 824-8690
+📝 Source: U.S. Department of Justice, Recognition and Accreditation roster, report updated November 1, 2026, retrieved 2026-11-09.
+
+42. Nigerian Center Inc.
+1231 Marion Barry Ave SE, Washington, DC 20020
+🏥 Services: Immigration legal help
+📞 (202) 330-0352
+📝 Source: U.S. Department of Justice, Recognition and Accreditation roster, report updated November 1, 2026, retrieved 2026-11-09.
+
+43. Torture Abolition and Survivors Support Coalition International (TASSC International)
+4121 Harewood Road NE, Suite B, Washington, DC 20017
+🏥 Services: Immigration legal help
+📞 (703) 720-9264
+📝 Source: U.S. Department of Justice, Recognition and Accreditation roster, report updated November 1, 2026, retrieved 2026-11-09.
+
+44. Trabajadores Unidos de Washington D.C. (Workers United of Washington D.C.)
+1419 V Street NW, Suite 305, Washington, DC 20009
+🏥 Services: Immigration legal help
+📞 (202) 299-0162
+📝 Source: U.S. Department of Justice, Recognition and Accreditation roster, report updated November 1, 2026, retrieved 2026-11-09.
+
+45. Whitman-Walker Clinic, Inc. d/b/a Whitman-Walker Health — 14th Street NW / Washington, DC Extension Office
+1525 14th Street NW, Washington, DC 20005
+🏥 Services: Immigration legal help
+📞 (202) 745-7000
+📝 Source: U.S. Department of Justice, Recognition and Accreditation roster, report updated November 1, 2026, retrieved 2026-11-09.
+
+46. Whitman-Walker Clinic, Inc. d/b/a Whitman-Walker Health — Martin Luther King Jr. Avenue SE / Washington, D.C. Extension Office
+2301 Martin Luther King Jr. Avenue SE, Washington, DC 20020
+🏥 Services: Immigration legal help
+📞 (202) 745-7000
+📝 Source: U.S. Department of Justice, Recognition and Accreditation roster, report updated November 1, 2026, retrieved 2026-11-09.
