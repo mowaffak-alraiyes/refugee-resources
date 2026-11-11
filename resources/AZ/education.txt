@@ -341,7 +341,7 @@ Yuma Elementary School District One, 450 W Sixth Street, Yuma, AZ 85364
 📝 Source: National Literacy Directory, retrieved 2026-11-09. Listing updated November 9, 2026. Directory cost field: no. Instruction type: Online, Instruction in multiple languages.
 
 46. Phoenix Public Library
-1221. N Central Ave, Phoenix, AZ 85004
+1221 N Central Ave, Phoenix, AZ 85004
 🌐 https://www.phoenixpubliclibrary.org
 🏥 Services: Family literacy, Help my child learn
 ⏰ Hours: M/W/F/Sa 9am-5pm; Tu/Thu 9am-6pm
