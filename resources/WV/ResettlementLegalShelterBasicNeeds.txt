@@ -3,7 +3,7 @@
 1. Catholic Charities WV Eastern Panhandle Immigration and Rural Outreach Office
 224 S. Queen St., Martinsburg, WV 25401
 🌐 http://www.catholiccharitieswv.org
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (304) 267-3071
 📝 Areas of legal assistance: Adjustment of Status, Asylum applications, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, NACARA, Naturalization/Citizenship, Removal hearings, Special Immigrant Juvenile Status, T visas, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
@@ -17,7 +17,46 @@
 3. Mountain State Justice
 1029 University Ave., Suite 101, Morgantown, WV 26505
 🌐 https://mountainstatejustice.org/
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 304-841-0792
 📝 Areas of legal assistance: Adjustment of Status, Asylum applications, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, Humanitarian Parole, NACARA, Naturalization/Citizenship, Removal hearings, Special Immigrant Juvenile Status, T visas, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
+4. American Job Center - Paden City
+425 South 4th Ave., Room 21B, Paden City, WV 26159
+🌐 https://www.npworkforcewv.org/paden-city-job-center
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 304-337-4029
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=39.600931,-80.940313
+
+5. WorkForce WV - Clarksburg
+153 W. Main St., Suite B, Clarksburg, WV 26301
+🌐 https://regionviwv.org/job-seekers/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 1-800-252-5627
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=39.278713,-80.336665
+
+6. Career One Stop
+202 Viking Way, Martinsburg, WV 25401
+🌐 https://wvregion7workforce.org/career-centers/job-seekers/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 304-264-6133
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=39.462720,-77.988240
+
+7. Region 7 Workforce Development Board/Career One Stop
+151 Robert C Byrd Industrial Park Rd., Suite 2, Moorefield, WV 26836
+🌐 https://wvregion7workforce.org/career-centers/job-seekers/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 304-530-3917
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=39.071347,-78.938843
+
+8. Workforce WV - Wheeling
+355 Wharton Circle, Suite 200, Triadelphia, WV 26059
+🌐 https://www.npworkforcewv.org
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 304-232-6280
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=40.053508,-80.603534

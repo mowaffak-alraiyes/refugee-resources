@@ -3,14 +3,14 @@
 1. Catholic Charities of Jackson - Immigration Clinic
 731 S Pear Orchard Rd., Suite 51, Ridgeland, MS 39157
 🌐 https://www.facebook.com/CCJacksonMSC/
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (601) 948-2635
 📝 Areas of legal assistance: Adjustment of Status, Asylum applications, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, NACARA, Naturalization/Citizenship, Removal hearings, Special Immigrant Juvenile Status, T visas, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 2. El Pueblo
 425 B Division, Biloxi, MS 39530
 🌐 http://www.elpueblo-ms.org
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (228) 436-3986
 📝 Areas of legal assistance: Adjustment of Status, Asylum applications, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, Naturalization/Citizenship, Removal hearings, Special Immigrant Juvenile Status, T visas, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
@@ -37,3 +37,203 @@
 🏥 Services: Immigration legal help
 📞 (228) 222-5593
 📝 Source: U.S. Department of Justice, Recognition and Accreditation roster, report updated November 1, 2026, retrieved 2026-11-09.
+
+7. Corinth WIN Job Center
+2759 South Harper Road, Corinth, MS 38834
+🌐 https://mdes.ms.gov/win-job-centers/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 662-696-2336, 662-696-2332
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=34.908892,-88.532758
+
+8. Hattiesburg WIN Job Center
+1911 Arcadia Street, Hattiesburg, MS 39401
+🌐 https://mdes.ms.gov/win-job-centers/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 601-584-1202
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=31.314800,-89.307600
+
+9. Lexington WIN Job Center - Holmes County
+303 Yazoo Street, PO Box 385, Lexington, MS 39095
+🌐 https://mdes.ms.gov/win-job-centers/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 662-834-2426
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=33.108451,-90.052766
+
+10. Picayune WIN Job Center
+2005 Wildwood Road, Picayune, MS 39466
+🌐 https://mdes.ms.gov/win-job-centers/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center. Programs for ex-offenders: Yes.
+📞 601-798-3472
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=30.547297,-89.651138
+
+11. Batesville WIN Job Center
+325 Lakewood Dr, The ConCourse;  PO Box 1511, Batesville, MS 38606
+🌐 https://mdes.ms.gov/win-job-centers/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 662-360-1236
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=34.313411,-89.921376
+
+12. Carthage WIN Job Center
+202 C.O. Brooks Street, Carthage, MS 39051
+🌐 https://mdes.ms.gov/win-job-centers/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 601-267-9282
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=32.736589,-89.522098
+
+13. Clarksdale WIN Job Center
+236 Sharkey Avenue, 3rd Floor; PO Box 640, Clarksdale, MS 38614
+🌐 https://mdes.ms.gov/win-job-centers/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 662-624-9001
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=34.202104,-90.570865
+
+14. Cleveland WIN Job Center
+604 1/2 North Davis Avenue, P O Box 1750, Cleveland, MS 38732
+🌐 https://mdes.ms.gov/win-job-centers/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 662-843-2704
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=33.753422,-90.714297
+
+15. Columbia WIN Job Center
+1111 US Highway 98, Suite A, Columbia, MS 39429
+🌐 https://mdes.ms.gov/win-job-centers/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 601-736-2628
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=31.243712,-89.808699
+
+16. Forest WIN Job Center
+536 Deer Field Drive, Forest, MS 39074
+🌐 https://mdes.ms.gov/win-job-centers/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 601-469-2851
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=32.519000,-89.483800
+
+17. Greenville WIN Job Center
+1746 Highway 1 Suite C, Greenville, MS 38701
+🌐 https://mdes.ms.gov/win-job-centers/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 662-332-8101
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=33.371215,-91.037685
+
+18. Greenwood WIN Job Center
+812 West Park Ave., PO Box 554, Greenwood, MS 38930
+🌐 https://mdes.ms.gov/win-job-centers/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 662-459-4600
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=33.527584,-90.202410
+
+19. Grenada WIN Job Center
+1229-A Sunset Drive, Grenada, MS 38901
+🌐 https://mdes.ms.gov/win-job-centers/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 662-226-2911
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=33.768998,-89.810842
+
+20. Gulfport WIN Job Center
+10162 Southpark Drive, PO Box 2849, Gulfport, MS 39503
+🌐 https://mdes.ms.gov/win-job-centers/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 228-897-6900
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=30.431983,-89.035648
+
+21. Houston WIN Job Center
+210 South Monroe Street, Houston, MS 38851
+🌐 https://mdes.ms.gov/win-job-centers/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 662-407-1219
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=33.895728,-88.997945
+
+22. Iuka WIN Job Center
+1107 Maria Lane, Iuka, MS 38852
+🌐 https://mdes.ms.gov/win-job-centers/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 662-423-9231
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=34.805657,-88.202072
+
+23. Laurel WIN Job Center
+Highway 15 North, 2139 Suite D, Laurel, MS 39440
+🌐 https://mdes.ms.gov/win-job-centers/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 601-399-4000
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=31.701957,-89.147588
+
+24. Louisville WIN Job Center
+600 N Court Ave B, Louisville, MS 39339
+🌐 https://mdes.ms.gov/win-job-centers/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 662-773-5051
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=33.132078,-89.054228
+
+25. Marshall County WIN Job Center
+4700 Cayce Rd., Byhalia, MS 38611
+🌐 https://mdes.ms.gov/win-job-centers/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 662-851-4191
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=34.970055,-89.617825
+
+26. McComb WIN Job Center
+1400 A Harrison Ave., McComb, MS 39648
+🌐 https://mdes.ms.gov/win-job-centers/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 601-684-4421
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=31.249731,-90.470053
+
+27. Meridian WIN Job Center
+5313 Old Hwy 80 West, Meridian, MS 39307
+🌐 https://mdes.ms.gov/win-job-centers/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 601-553-9511
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=32.365300,-88.732800
+
+28. Oxford WIN Job Center
+1310 Belk Boulevard, Suite 1, Oxford, MS 38655
+🌐 https://mdes.ms.gov/win-job-centers/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 662-236-7201
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=34.346466,-89.516787
+
+29. Pascagoula WIN Job Center
+1604 Denny Avenue, PO Box 1058 (39568), Pascagoula, MS 39567
+🌐 https://mdes.ms.gov/win-job-centers/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 228-762-4713
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=30.370552,-88.545655
+
+30. Pearl WIN Job Center
+3805 Highway 80E, Pearl, MS 39208
+🌐 https://mdes.ms.gov/win-job-centers/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 601-936-1903
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=32.280122,-90.089039
+
+31. Tupelo WIN Job Center
+3200 Adams Farm Road, Suite 200, Belden, MS 38826
+🌐 https://mdes.ms.gov/win-job-centers/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 662-842-4371
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=34.305800,-88.780100

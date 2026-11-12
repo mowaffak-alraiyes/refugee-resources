@@ -13,14 +13,14 @@
 3. Catholic Charities Maine - Refugee and Immigration Services (Portland Office)
 80 Sherman St, Portland, ME 04101
 🌐 http://www.ccmaine.org
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (207) 871-7437
 📝 Areas of legal assistance: Adjustment of Status, Employment authorization, Family-based petitions, Naturalization/Citizenship Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 4. Immigrant Legal Advocacy Project
 489 Congress St., Third Floor , Portland, ME 04101
 🌐 http://www.ilapmaine.org
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (207) 780-1593
 📝 Areas of legal assistance: Adjustment of Status, Asylum applications, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, Humanitarian Parole, NACARA, Naturalization/Citizenship, Removal hearings, Special Immigrant Juvenile Status, T visas, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
@@ -41,3 +41,11 @@
 🏥 Services: Immigration legal help
 📞 (207) 782-0260
 📝 Source: U.S. Department of Justice, Recognition and Accreditation roster, report updated November 1, 2026, retrieved 2026-11-09.
+
+8. Augusta CareerCenter
+45 Commerce Drive, Suite 109, Augusta, ME 04333-0109
+🌐 https://www1.maine.gov/labor/careerctr/locations/augusta.shtml
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 207-623-7981
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=44.366700,-69.800740

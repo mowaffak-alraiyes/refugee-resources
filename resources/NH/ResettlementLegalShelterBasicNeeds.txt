@@ -13,14 +13,14 @@
 3. Catholic Charities New Hampshire - Immigration and Refugee Legal Services (Manchester Office)
 100 William Loeb Drive, Unit 3, Manchester, NH 03109
 🌐 http://www.nh-cc.org
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (603) 669-3030
 📝 Areas of legal assistance: Adjustment of Status, Asylum applications, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, NACARA, Naturalization/Citizenship, Removal hearings, Special Immigrant Juvenile Status, T visas, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 4. Catholic Charities New Hampshire - Immigration and Refugee Legal Services (Nashua Office)
 3 Crown Street, Nashua, NH 03060
 🌐 http://www.cc-nh.org
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (603) 889-9431
 📝 Areas of legal assistance: Adjustment of Status, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, NACARA, Naturalization/Citizenship, Removal hearings, Special Immigrant Juvenile Status, T visas, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
@@ -35,3 +35,99 @@
 🏥 Services: Immigration legal help
 📞 (603) 668-2900
 📝 Source: U.S. Department of Justice, Recognition and Accreditation roster, report updated November 1, 2026, retrieved 2026-11-09.
+
+7. NH WORKS - Littleton
+646 Union Street, Suite 100, Littleton, NH 03561-0318
+🌐 https://www.nheconomy.com/nhworks
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center. Programs for ex-offenders: Yes.
+📞 603-444-2971
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=44.308480,-71.748208
+
+8. NH WORKS - Portsmouth
+2000 Lafayette Road, Portsmouth, NH 03801-5673
+🌐 https://www.nheconomy.com/nhworks
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center. Programs for ex-offenders: Yes.
+📞 603-436-3702
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=43.038102,-70.776986
+
+9. NH WORKS - Salem
+29 South Broadway, Salem, NH 03079
+🌐 https://www.nheconomy.com/nhworks
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 603-893-9185
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=42.778253,-71.226761
+
+10. NH WORKS - Somersworth
+6 Marsh Brook Drive, Somersworth, NH 03878
+🌐 https://www.nheconomy.com/nhworks
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center. Programs for ex-offenders: Yes.
+📞 603-742-3600
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=43.249016,-70.900054
+
+11. NH WORKS  - Concord
+45 South Fruit Street, PO Box 1140, Concord, NH 03301-1140
+🌐 https://www.nheconomy.com/nhworks
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 603-228-4100, ext. 24100
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=43.197148,-71.547963
+
+12. NH WORKS - Berlin
+151 Pleasant Street, Berlin, NH 03570-0159
+🌐 https://www.nheconomy.com/nhworks
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 603-752-5500
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=44.469696,-71.182348
+
+13. NH WORKS - Claremont
+404 Washington Street, PO Box 180, Claremont, NH 03743-0180
+🌐 https://www.nheconomy.com/nhworks
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 603-543-3111, Ext. 93201
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=43.363169,-72.315888
+
+14. NH WORKS - Conway
+518 White Mountain Highway, Conway, NH 03818-4205
+🌐 https://www.nheconomy.com/nhworks
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 603-447-5924 ext. 71422
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=43.980167,-71.116098
+
+15. NH WORKS - Keene
+149 Emerald Street, Suite Y, Keene, NH 03431
+🌐 https://www.nheconomy.com/nhworks
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 603-352-1904
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=42.930569,-72.283268
+
+16. NH WORKS - Laconia
+426 Union Avenue, Laconia, NH 03246
+🌐 https://www.nhes.nh.gov/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 603-271-7700
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=43.537464,-71.464251
+
+17. NH WORKS - Manchester
+300 Hanover Street, Manchester, NH 03104
+🌐 https://www.nhes.nh.gov/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 603-656-6505
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=42.990996,-71.454517
+
+18. NH WORKS - Nashua
+6 Townsend West, Nashua, NH 03063
+🌐 https://www.nheconomy.com/nhworks
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 603-882-5177
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=42.789980,-71.517914

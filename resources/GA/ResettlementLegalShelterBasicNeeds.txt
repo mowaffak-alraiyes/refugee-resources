@@ -35,14 +35,14 @@
 7. Access To Law, Inc.
 2415 Beaver Ruin Road NW Ste B, Norcross, GA 30071
 🌐 http://www.accesstolawfoundation.org
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (770) 685-1499
 📝 Areas of legal assistance: Adjustment of Status, Asylum applications, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, Habeas Corpus, NACARA, Naturalization/Citizenship, Removal hearings, Special Immigrant Juvenile Status, T visas, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 8. Angkor Resource Center, Inc.
 640 Highway 138 SW, Riverdale, GA 30274
 🌐 http://arc707.org
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization, Employment-based immigrant and non-immigrant petitions
 📞 404-594-8770
 📝 Areas of legal assistance: Adjustment of Status, Asylum applications, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Employment-based immigrant and non-immigrant petitions, Family-based petitions, Habeas Corpus, Humanitarian Parole, NACARA, Naturalization/Citizenship, P1 or P2 for Afghans, Removal hearings, Special Immigrant Juvenile Status, Special Immigrant Visa (SIV), T visas, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
@@ -55,28 +55,28 @@
 
 10. Bridging the Gap Project, Inc.
 2100 Parklake Dr, Suite H, Atlanta, GA 30345
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (770) 938-1112
 📝 Areas of legal assistance: Adjustment of Status, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, Naturalization/Citizenship Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 11. Center for Pan Asian Community Services, Inc.
 3510 Shallowford Rd N.E., Atlanta, GA 30341
 🌐 http://www.cpacs.org
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (770) 936-0969
 📝 Areas of legal assistance: Adjustment of Status, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, Naturalization/Citizenship Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 12. Immigrant Connection of Georgia
 8561 GA-85, Riverdale, GA 30274
 🌐 https://wicga.com/
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization, Employment-based immigrant and non-immigrant petitions
 📞 (404) 907-1927
 📝 Areas of legal assistance: Adjustment of Status, Asylum applications, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Employment-based immigrant and non-immigrant petitions, Family-based petitions, Habeas Corpus, NACARA, Naturalization/Citizenship, T visas, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 13. Immigrant Hope - Atlanta
 1302 N. Druid Hills Rd NE, Atlanta, GA 30319
 🌐 http://www.immigranthope.org
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (404) 500-8097
 📝 Areas of legal assistance: Adjustment of Status, Asylum applications, Consular Processing, Employment authorization, Family-based petitions, Naturalization/Citizenship, U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
@@ -90,7 +90,7 @@
 15. Latin American Association (Atlanta Office)
 2750 Buford Hwy, Atlanta, GA 30324
 🌐 http://www.thelaa.org
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (404) 471-1889
 📝 Areas of legal assistance: Adjustment of Status, Asylum applications, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, NACARA, Naturalization/Citizenship, Removal hearings, Special Immigrant Juvenile Status, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
@@ -190,3 +190,226 @@
 🏥 Services: Immigration legal help
 📞 (470) 481-7400
 📝 Source: U.S. Department of Justice, Recognition and Accreditation roster, report updated November 1, 2026, retrieved 2026-11-09.
+
+32. Atlanta Career Center
+223 Courtland Street, Suite 200, Atlanta, GA 30303
+🌐 https://dol.georgia.gov/locations/gwinnett-county
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 404-232-6730
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=33.760400,-84.383620
+
+33. Career Resource Center - Douglas County
+5903 Stewart Parkway, Douglasville, GA  30135, Douglasville, GA 30135
+🌐 https://atlantaregional.org/what-we-do/workforce-solutions/career-resource-centers/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 470-249-4633
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=33.717074,-84.771153
+
+34. Clayton County Career Center
+5600 Stonewall Tell Road, Suite 201, College Park, GA 30349
+🌐 https://atlantaregional.org/what-we-do/workforce-solutions/career-resource-centers/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 678-284-0200
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=33.601424,-84.549903
+
+35. Covington Career Center
+7249 Industrial Blvd North East, Covington, GA 30014
+🌐 https://negrc.org/workforce-development/services/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 770-784-2455
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=33.603447,-83.839062
+
+36. DeKalb WorkSorce Center
+4572 Memorial Drive, Decatur, GA 30032
+🌐 https://atlworks.org/job-seekers/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 404-687-3400
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=33.780841,-84.241368
+
+37. Douglas Career Center, Georgia Department of Labor
+70 Lockwood Drive, Douglas, GA 31533
+🌐 https://dol.georgia.gov/locations/douglas
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 912-389-4254
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=31.546700,-82.812300
+
+38. Dublin Career Center
+910 North Jefferson Street, Dublin, GA 31021
+🌐 https://dol.georgia.gov/locations/dublin
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 478-275-6501
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=32.548540,-82.910767
+
+39. Gwinnett County Career Resource Center
+3805 Crestwood Pkwy NW  Duluth, Suite 300, Deluth, GA 30096
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center. Programs for ex-offenders: Yes.
+📞 678-268-6610
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=33.945086,-84.131535
+
+40. Job Training Unlimited, Inc.
+107 North Duval Street, Claxton, GA 30417
+🌐 https://www.worksourceheartofgeorgia.org/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 912-739-7158 Toll Free 800-503-0204
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=32.164280,-81.903492
+
+41. Tifton Career Center
+310 South Tift Ave, Tifton, GA 31794
+🌐 https://dol.georgia.gov/locations/tifton
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 229-386-3322
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=31.451261,-83.508002
+
+42. Toccoa Career Center, Georgia Department of Labor
+37 Foreacre Street, Toccoa, GA 30577
+🌐 https://dol.georgia.gov/locations/toccoa
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 Virtual Agent – 877-709-8185
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=34.578528,-83.330026
+
+43. Vidalia Career Center, Georgia Department of Labor
+206 Queen Street - Carter Center Plaza, Suite 16, Vidalia, GA 30474
+🌐 https://dol.georgia.gov/locations/vidalia
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 888-741-6216
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=32.214800,-82.412700
+
+44. WorkSource Atlanta Regional - Clayton Career Resource Center
+3000 Corporate Center Drive, Suite 350, Morrow, GA 30260
+🌐 https://atlworks.org/job-seekers/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 678-271-3554
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=33.570900,-84.332209
+
+45. WorkSource Atlanta Regional Rockdale
+1400 Parker Road, Lobby A (no lobby), Conyers, GA 30094
+🌐 https://atlworks.org/job-seekers/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 678-821-2236
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=33.652832,-84.019522
+
+46. Bainbridge Career Center
+310 South Scott Street, Bainbridge, GA 39819
+🌐 https://dol.georgia.gov/locations/career-center
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 229-248-2618
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=30.902814,-84.567940
+
+47. Blue Ridge Career Center, Georgia Department of Labor
+946 Appalachian Highway, PO Box 488, Blue Ridge, GA 30513
+🌐 https://dol.georgia.gov/locations/blue-ridge
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 706-510-0546
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=34.878765,-84.296792
+
+48. Brunswick  Career Center/Georgia Department of Labor
+2517 Tara Lane, Brunswick, GA 31520-2758
+🌐 https://dol.georgia.gov/locations/brunswick
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 912-264-7244
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=31.191386,-81.489536
+
+49. Chatham One Stop
+7216 Skidaway Road, Suite C, Savannah, GA 31406
+🌐 https://worksourcecoastal.org/services/adult-services/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 912-354-6174
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=31.993248,-81.077417
+
+50. Columbus Career Center, Georgia Department of Labor
+700 Veterans Parkway, Columbus, GA 31901
+🌐 https://dol.georgia.gov/locations/columbus
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 706-649-7423
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=32.459087,-84.987515
+
+51. Gainesville Career Center, Georgia Department of Labor
+2756 Atlanta Highway, Gainesville, GA 30504
+🌐 https://dol.georgia.gov/locations/gainesville
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 770-535-5484
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=34.235812,-83.856465
+
+52. Houston County Career Center
+96 Cohen Walker Drive, Warner Robins, GA 31088
+🌐 https://middlegaworks.com/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 478-988-7130
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=32.545502,-83.674866
+
+53. Kings Bay Career Center, Georgia Department of Labor
+1712 Osborne Road, Suite G, St. Marys, GA 31558-9103
+🌐 https://dol.georgia.gov/locations/brunswick
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 912-439-3720
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=30.744290,-81.555690
+
+54. LaGrange Career Center, Georgia Department of Labor
+1002 Longley Place, LaGrange, GA 30240
+🌐 https://dol.georgia.gov/locations/lagrange
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 706-845-4000
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=33.013648,-85.050678
+
+55. Macon-Bibb One-Stop Career Center
+3090 Mercer University Dr, Macon, GA 31204
+🌐 https://www.careeronestop.org/LocalHelp/AmericanJobCenters/find-american-job-centers-details.aspx?location=31088&radius=25&centerID=22083&dist=15.0&ct=0&y=0&w=0&e=0&locationSelected=0&sortcolumns=Distance&sortdirections=ASC&curPage=1&pagesize=10
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 478-751-6164
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=32.825397,-83.678297
+
+56. Moultrie Career Center
+220 North Main Street, Moultrie, GA 31768
+🌐 https://dol.georgia.gov/locations/moultrie
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 229-891-7147
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=31.181845,-83.788876
+
+57. Rome Career Center
+462 Riverside Parkway NE, PO Box 5107, Rome, GA 30162
+🌐 https://dol.georgia.gov/locations/rome
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 706-295-6051
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=34.275204,-85.169998
+
+58. Thomasville Career Center
+403 N Broad Street, Thomasville, GA 31792
+🌐 https://dol.georgia.gov/locations/thomasville
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 229-225-4033
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=30.840530,-83.983068
+
+59. WorkSource Atlanta
+818 Pollard Blvd SW, Atlanta, GA 30315
+🌐 https://www.worksourceatlanta.org
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 404-546-3049
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=33.732275,-84.390841

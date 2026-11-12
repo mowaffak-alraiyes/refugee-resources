@@ -49,35 +49,35 @@
 9. Catholic Charities of Green Bay (Green Bay Office)
 1825 Riverside Dr, Green Bay, WI 54301
 🌐 https://catholiccharitiesgb.org/our-services/immigration-legal-services/
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (920) 272-8234
 📝 Areas of legal assistance: Adjustment of Status, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, Humanitarian Parole, Naturalization/Citizenship, P1 or P2 for Afghans, Special Immigrant Visa (SIV), T visas, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 10. Catholic Charities of Green Bay (Menasha Office)
 1475 Opportunity Way, Menasha, WI 54952
 🌐 https://catholiccharitiesgb.org/our-services/immigration-legal-services/
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (920) 734-2601
 📝 Areas of legal assistance: Adjustment of Status, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, Humanitarian Parole, Naturalization/Citizenship, Special Immigrant Visa (SIV), T visas, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 11. Catholic Charities of La Crosse
 3710 East Ave S., La Crosse, WI 54602
 🌐 https://www.cclse.org
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (608) 782-0710
 📝 Areas of legal assistance: Adjustment of Status, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, Naturalization/Citizenship, Special Immigrant Juvenile Status, Special Immigrant Visa (SIV), T visas, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 12. Catholic Charities of Milwaukee -Refugee and Immigration Services
 1233 S 45th St., West Milwaukee, WI 53214
 🌐 http://www.risccmke.org
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (414) 643-8570
 📝 Areas of legal assistance: Adjustment of Status, Asylum applications, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, NACARA, Naturalization/Citizenship, Removal hearings, Special Immigrant Juvenile Status, T visas, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 13. Catholic Multicultural Center
 1862 Beld Street, Madison, WI 53713
 🌐 https://cmcmadison.org/
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (608) 441-0114
 📝 Areas of legal assistance: Adjustment of Status, Asylum applications, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, Humanitarian Parole, Naturalization/Citizenship, Special Immigrant Juvenile Status, Special Immigrant Visa (SIV), T visas, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
@@ -105,13 +105,13 @@
 17. Faith Community Church - Immigration Legal Services Outreach
 2931 Lucerne Drive, Janesville, WI 53545
 🌐 http://www.faithcommunitychurch.net
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (608) 758-2850
 📝 Areas of legal assistance: Adjustment of Status, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, Naturalization/Citizenship, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 18. James Place Immigration Services (Milwaukee Office)
 807 S 14th Street, Suite 200, Milwaukee, WI 53204
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (414) 269-9952
 📝 Areas of legal assistance: Adjustment of Status, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, Naturalization/Citizenship, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
@@ -124,7 +124,7 @@
 20. RISE Law Center/Centro Legal RISE
 1400 E. Washington Avenue, Suite 262, Madison, WI 53703
 🌐 https://www.facebook.com/pages/RISE-Law-Center/276984419010325
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (608) 256-1015
 📝 Areas of legal assistance: Adjustment of Status, Asylum applications, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, Naturalization/Citizenship, Removal hearings, Special Immigrant Juvenile Status, T visas, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
@@ -240,3 +240,194 @@
 🏥 Services: Immigration legal help
 📞 (920) 231-3600
 📝 Source: U.S. Department of Justice, Recognition and Accreditation roster, report updated November 1, 2026, retrieved 2026-11-09.
+
+40. Ashland Job Center
+417 9th Avenue West, Ashland, WI 54806
+🌐 https://nwcep.org/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center. Programs for ex-offenders: Yes.
+📞 715-682-9141
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=46.584775,-90.891648
+
+41. Chippewa County Job Center
+2829 County Hwy I, Suite 2A, Chippewa Falls, WI 54729
+🌐 https://www.workforceresource.org/home.php
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 715-723-2248
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=44.949036,-91.357134
+
+42. Clark County Job Center
+501 Hewett Street, Neillsville, WI 54456
+🌐 https://www.workforceresource.org/seekers.html
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 715-743-4631
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=44.559950,-90.596295
+
+43. Door County - Job Center of Wisconsin
+1300 Egg Harbor Road, Suite 124, Sturgeon Bay, WI 54235
+🌐 https://jobcenterofwisconsin.com/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 920-743-6915
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=44.847555,-87.362868
+
+44. Dunn County Job Center
+401 Technology Drive East, Menomonie, WI 54751
+🌐 https://www.workforceresource.org/about_locations.html
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 715-232-7380
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=44.879019,-91.891873
+
+45. Marinette County Job Center
+1605 University Avenue., Marinette, WI 54143
+🌐 https://bayareawdb.org/resources/job-centers/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 715-679-5530
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=45.070103,-87.628809
+
+46. Menominee Job Center
+North 172 State Hwy. 47/55, Po Box 1179, Keshena, WI 54135
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 715-799-5600
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=44.794010,-88.609740
+
+47. Northern Advantage Job Center
+51 A North Brown Street, Rhinelander, WI 54501
+🌐 https://jobcenterofwisconsin.com/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 (715) 261-8700
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=45.646600,-89.398800
+
+48. Park Falls Job Center
+1157 South 4th Avenue, Park Falls, WI 54552
+🌐 https://nwcep.org/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center. Programs for ex-offenders: Yes.
+📞 715-762-2477
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=45.921021,-90.450420
+
+49. Pepin County Job Center
+403 - 3rd Avenue West, Suite 200, Durand, WI 54736
+🌐 https://www.workforceresource.org
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 715-672-8801
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=44.626600,-91.966980
+
+50. Polk County Job Center
+317 A Main Street, PO Box 278, Balsam Lake, WI 54810
+🌐 https://www.workforceresource.org
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 715-485-3115
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=45.450379,-92.453334
+
+51. St. Croix Valley Job Center
+704-B North Main Street, River Falls, WI 54022
+🌐 https://www.workforceresource.org
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 715-426-0388, Ext. 1710
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=44.868068,-92.621063
+
+52. Wisconsin Rapids Job Center
+320 W Grand Ave, Suite 102, Wisconsin Rapids, WI 54495
+🌐 https://jobcenterofwisconsin.com/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 (715) 679-5614
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=44.393705,-89.828882
+
+53. Workforce Development Center of Jefferson County
+874 Collins Road, Jefferson, WI 53549
+🌐 https://www.scwijobs.com/jefferson
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center. Programs for ex-offenders: Yes.
+📞 920-674-7500
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=42.991804,-88.824876
+
+54. Barron County Job Center
+331 South Main St, Ste 6, Rice Lake, WI 54868
+🌐 https://www.workforceresource.org/home.php
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 715-679-5570; 715-234-6302
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=45.496405,-91.733288
+
+55. Brown County Job Center
+515 Pine Street, Green Bay, WI 54301
+🌐 https://bayareawdb.org/resources/job-centers/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 920-930-6570
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=44.514810,-88.009760
+
+56. Dane County Job Center
+1819 Aberg Avenue, Madison, WI 53704
+🌐 https://www.scwijobs.com/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 608-405-4400
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=43.114154,-89.360601
+
+57. Eau Claire County Job Center
+221 West Madison St, Eau Claire, WI 54703
+🌐 https://www.workforceresource.org/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 715-679-5551
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=44.815477,-91.510621
+
+58. Job Center Central (Maximus)
+4201 North 27th Street, Suite 400, Milwaukee, WI 53216
+🌐 https://www.employmilwaukee.org/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 414-203-8500
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=43.093151,-87.948929
+
+59. Oskosh Job Center
+2211 Oregon Street, Unit U, Oshkosh, WI 54902
+🌐 https://oshkoshjobcenter.com/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 920-404-6801
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=43.993906,-88.544471
+
+60. Sheboygan County Job Center
+3620 Wilgus Avenue, Sheboygan, WI 53081
+🌐 https://www.facebook.com/SheboyganCoJC/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 920-930-6565
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=43.759390,-87.754973
+
+61. Superior Job Center
+1805 North 14th Street, Suite 1, Superior, WI 54880
+🌐 https://nwcep.org/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 715-392-7800
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=46.722198,-92.104417
+
+62. Waukesha American Job Center
+2607 N. Grandview, Waukesha, WI 53186
+🌐 https://www.wfdc.org/job-seekers
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 262-695-7800
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=43.040165,-88.255199
+
+63. Western Wisconsin Workforce Development Center
+2615 East Avenue South, Suite 101, La Crosse, WI 54601
+🌐 https://jobcenterofwisconsin.com/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 608-405-4545
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=43.784798,-91.228064

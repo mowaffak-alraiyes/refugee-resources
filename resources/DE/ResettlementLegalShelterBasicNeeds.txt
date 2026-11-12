@@ -8,7 +8,7 @@
 2. Catholic Charities Inc., Diocese of Wilmington
 2601 W. 4th St, Wilmington, DE 19805
 🌐 http://www.ccwilm.org/
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (302) 655-9624
 📝 Areas of legal assistance: Adjustment of Status, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, Naturalization/Citizenship, Temporary Protected Status (TPS) Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
@@ -35,14 +35,14 @@
 
 6. Delaware Alliance for Community Advancement
 408 East 8th Street, Wilmington, DE 19801
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization, Employment-based immigrant and non-immigrant petitions
 📞 (302) 656-8200
 📝 Areas of legal assistance: Adjustment of Status, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Employment-based immigrant and non-immigrant petitions, Family-based petitions, Naturalization/Citizenship, Temporary Protected Status (TPS) Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 7. La Esperanza, Inc.
 216 North Race St., Georgetown, DE 19947
 🌐 http://www.laesperanza.org
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (302) 854-9262
 📝 Areas of legal assistance: Adjustment of Status, Asylum applications, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, Humanitarian Parole, NACARA, Naturalization/Citizenship, Removal hearings, Special Immigrant Juvenile Status, Special Immigrant Visa (SIV), T visas, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
@@ -74,3 +74,27 @@
 🏥 Services: Immigration legal help
 📞 (302) 655-7338
 📝 Source: U.S. Department of Justice, Recognition and Accreditation roster, report updated November 1, 2026, retrieved 2026-11-09.
+
+13. Dover American Job Center
+655 S Bay Rd, Suite 2H, Dover, DE 19901
+🌐 https://labor.delaware.gov/divisions/employment-training/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 302-739-5473
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=39.149819,-75.503439
+
+14. Fox Valley American Job Center
+4425 North Market Street, Wilmington, DE 19802
+🌐 https://labor.delaware.gov/divisions/employment-training/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 302-761-8085
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=39.762351,-75.518703
+
+15. Newark American Job Center
+252 Chapman Road, 2nd Floor Suite 210, Newark, DE 19702
+🌐 https://labor.delaware.gov/divisions/employment-training/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 302-453-4350
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=39.668616,-75.677775

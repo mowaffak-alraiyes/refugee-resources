@@ -18,21 +18,21 @@
 3. Catholic Charities Hawaii (Island of Hawai'i Office)
 62 Kinoole Street, Hilo, HI 96720
 🌐 http://www.catholiccharitieshawaii.org
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (808) 961-7030
 📝 Areas of legal assistance: Adjustment of Status, Employment authorization, Family-based petitions, Naturalization/Citizenship, T visas, U visas Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 4. Hawaii Immigrant Justice Center at the Legal Aid Society of Hawaii
 245 N Kukui Street, Ste. 206, Honolulu, HI 96817
 🌐 http://www.legalaidhawaii.org/immigrant-justice-center.html
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (808) 536-4302
 📝 Areas of legal assistance: Adjustment of Status, Employment authorization, Naturalization/Citizenship, Removal hearings, Special Immigrant Juvenile Status, T visas, U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 5. The Legal Clinic
 1020 S. Beretania St., Honolulu, HI 96814
 🌐 https://twww.tlchawaii.org
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (808) 777-7071
 📝 Areas of legal assistance: Adjustment of Status, Asylum applications, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, Habeas Corpus, Humanitarian Parole, NACARA, Naturalization/Citizenship, P1 or P2 for Afghans, Removal hearings, Special Immigrant Juvenile Status, Special Immigrant Visa (SIV), T visas, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
@@ -65,3 +65,42 @@
 🏥 Services: Immigration legal help
 📞 (808) 777-7071
 📝 Source: U.S. Department of Justice, Recognition and Accreditation roster, report updated November 1, 2026, retrieved 2026-11-09.
+
+11. American Job Center  C/O Maui County Business Resource Center
+110 `Ala`ihi Street, Maui County Service Center, #209, Kahului, HI 96732
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 808-270-5777
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=20.878892,-156.450029
+
+12. Workforce Development - WorkSource Molokai
+55 Makaena Street, Room 4, Kaunakakai, HI 96748
+🌐 https://labor.hawaii.gov/wdd/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 808-553-1755
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=21.090206,-156.952820
+
+13. American Job Center Hawaii - Hawaii Island
+88 Kanoelehua Avenue, Waiakea Kai Plaza Suite A-24, Hilo, HI 96720
+🌐 https://labor.hawaii.gov/wdd/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 808-935-6527
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=19.721543,-155.064739
+
+14. American Job Center Hawaii - Kauai
+4444 Rice Street, Suite 302, Lihue, HI 96766
+🌐 https://labor.hawaii.gov/wdd/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 808-274-3056
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=21.975157,-159.369082
+
+15. American Job Center Hawaii - Oahu
+680 Iwilei Road. Suite 700, Dole Cannery Office Bldg, Honolulu, HI 96817
+🌐 https://labor.hawaii.gov/wdd/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 808-768-5701
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=21.316860,-157.870838

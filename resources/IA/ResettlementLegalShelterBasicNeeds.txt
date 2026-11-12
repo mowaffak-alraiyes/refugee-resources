@@ -55,34 +55,34 @@
 11. Catholic Charities of Archdiocese of Dubuque - Immigration Legal Services
 420 6th SE, Suite 220, Cedar Rapids, IA 52401
 🌐 https://www.catholiccharitiesdubuque.org/catholic-charities-services/immigration-legal-services/
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (319) 364-7121
 📝 Areas of legal assistance: Adjustment of Status, Asylum applications, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, NACARA, Naturalization/Citizenship, Removal hearings, Special Immigrant Juvenile Status, T visas, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 12. Diocesan Immigration Program, Diocese of Davenport
 780 West Central Park Ave, Davenport, IA 52804-1901
 🌐 http://www.davenportdiocese.org/socialaction/saimmigrationprogram.htm
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization, Employment-based immigrant and non-immigrant petitions
 📝 Areas of legal assistance: Adjustment of Status, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Employment-based immigrant and non-immigrant petitions, Family-based petitions, Naturalization/Citizenship, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 13. Drake Refugee Clinic
 2400 University Ave., Des Moines, IA 50311
 🌐 https://www.drake.edu/law/clinics-centers/clinic/refugeeclinic/
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (515) 271-3851
 📝 Areas of legal assistance: Adjustment of Status, Asylum applications, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Humanitarian Parole, Naturalization/Citizenship, P1 or P2 for Afghans, Removal hearings, Special Immigrant Juvenile Status, Special Immigrant Visa (SIV), T visas, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 14. Immigrant Connection at Table Church
 855 17th St, Des Moines, IA 50314
 🌐 https://tablechurchdsm.org/ic-home
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (515) 207-0365
 📝 Areas of legal assistance: Adjustment of Status, Consular Processing, Employment authorization, Family-based petitions, Naturalization/Citizenship, Temporary Protected Status (TPS) Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 15. Immigrant Connection of Northwest Iowa
 303 N Main Ave, Sioux Center, IA 51250
 🌐 https://mariamagdalenarca.org/immigrant-connection/
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 712-722-3003
 📝 Areas of legal assistance: Adjustment of Status, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, Naturalization/Citizenship Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
@@ -102,7 +102,7 @@
 18. Mary J. Treglia Community House
 900 Jennings St, Sioux City, IA 51105
 🌐 http://www.marytreglia.org
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (712) 258-5137
 📝 Areas of legal assistance: Adjustment of Status, Asylum applications, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, Naturalization/Citizenship, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
@@ -171,3 +171,107 @@
 210 Emerson Place, Suite 200, Davenport, IA 52801
 🏥 Services: Immigration legal help
 📝 Source: U.S. Department of Justice, Recognition and Accreditation roster, report updated November 1, 2026, retrieved 2026-11-09.
+
+30. IowaWORKS Center - Decorah
+312 Winnebago Street, Suite A, Decorah, IA 52101
+🌐 https://workforce.iowa.gov/jobs/iowaworks/iowaworks-decorah-satellite
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 563-382-0457
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=43.302257,-91.787079
+
+31. IowaWORKS Center - Denison
+504 Hwy 39 N, Denison, IA 51442
+🌐 https://workforce.iowa.gov/jobs/iowaworks/iowaworks-denison
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 712-792-2685
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=42.021548,-95.368651
+
+32. IowaWORKS Center - Burlington
+550 S. Gear Avenue Suite 35, West Burlington, IA 52655
+🌐 https://workforce.iowa.gov/jobs/iowaworks/iowaworks-burlington
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 319-753-1671
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=40.821079,-91.167388
+
+33. IowaWORKS Center - Creston
+215 North Elm, Creston, IA 50801
+🌐 https://workforce.iowa.gov/jobs/iowaworks/iowaworks-creston
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 641-782-2119
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=41.058810,-94.363801
+
+34. IowaWORKS Center - Davenport
+1801 East Kimberly Road, Suite A, Davenport, IA 52807
+🌐 https://workforce.iowa.gov/jobs/iowaworks/iowaworks-davenport
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 563-445-3200
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=41.555001,-90.550541
+
+35. IowaWORKS Center - Des Moines
+200 Army Post Road, Suite 44, Des Moines, IA 50315
+🌐 https://workforce.iowa.gov/jobs/iowaworks/iowaworks-des-moines
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 515-281-9619
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=41.525720,-93.618660
+
+36. IowaWORKS Center - Dubuque
+680 Main Street, 2nd Floor; NICC Town Clock Center for Professional Development, Dubuque, IA 52001-6818
+🌐 https://workforce.iowa.gov/jobs/iowaworks/iowaworks-dubuque
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 563-556-5800
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=42.500112,-90.666688
+
+37. IowaWORKS Center - Iowa City (Satellite)
+1700 South 1st Avenue, Suite 11B, Iowa City, IA 52240-6036
+🌐 https://workforce.iowa.gov/jobs/iowaworks/iowaworks-iowa-city-satellite
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 319-351-1035
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=41.642036,-91.505899
+
+38. IowaWORKS Center - Mason City
+600 South Pierce Avenue, Mason City, IA 50401
+🌐 https://workforce.iowa.gov/jobs/iowaworks/iowaworks-mason-city
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 641-422-1524
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=43.146408,-93.221121
+
+39. IowaWORKS Center - Ottumwa
+15260 Truman Street, Indian Hills Community College - North Campus, Ottumwa, IA 52501
+🌐 https://workforce.iowa.gov/jobs/iowaworks/iowaworks-ottumwa
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 641-684-5401
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=41.111042,-92.431782
+
+40. IowaWORKS Center - Sioux City
+2508 4th Street, Sioux City, IA 51101
+🌐 https://workforce.iowa.gov/jobs/iowaworks/iowaworks-sioux-city
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 712-233-9030
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=42.494321,-96.376028
+
+41. IowaWorks Center - Spencer
+217 W 5th Street, Spencer, IA 51301-1087
+🌐 https://workforce.iowa.gov/jobs/iowaworks/iowaworks-spencer
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 712-262-1971
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=43.142257,-95.147833
+
+42. Waterloo IowaWORKS
+3420 University Avenue, Waterloo, IA 50701
+🌐 https://workforce.iowa.gov/jobs/iowaworks/iowaworks-waterloo
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 319-235-2123
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=42.502762,-92.392433

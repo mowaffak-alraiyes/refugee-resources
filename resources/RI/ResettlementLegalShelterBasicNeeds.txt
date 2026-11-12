@@ -23,21 +23,21 @@
 4. Catholic Charities of Providence - Office of Immigration and Refugee Services
 1 Cathedral Sq, Providence, RI 02903
 🌐 http://www.dioceseofprovidence.org
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization, Employment-based immigrant and non-immigrant petitions
 📞 (401) 421-7833
 📝 Areas of legal assistance: Adjustment of Status, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Employment-based immigrant and non-immigrant petitions, Family-based petitions, Naturalization/Citizenship, Temporary Protected Status (TPS) Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 5. Progreso Latino, Inc.
 626 Broad St, Central Falls, RI 02863
 🌐 https://www.progresolatino.org
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (401) 728-5920
 📝 Areas of legal assistance: Adjustment of Status, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, Naturalization/Citizenship, Temporary Protected Status (TPS) Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 6. Sojourner House
 386 Smith Street, Providence, RI 02908
 🌐 http://www.sojournerri.org
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (401) 861-6191
 📝 Areas of legal assistance: Adjustment of Status, Asylum applications, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Naturalization/Citizenship, Removal hearings, T visas, U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
@@ -46,3 +46,27 @@
 🏥 Services: Immigration legal help
 📞 (401) 784-8600
 📝 Source: U.S. Department of Justice, Recognition and Accreditation roster, report updated November 1, 2026, retrieved 2026-11-09.
+
+8. West Warwick American Job Center
+1330 Main Street, West Warwick, RI 02893
+🌐 https://dlt.ri.gov/individuals/jobseeker-resources/career-centers
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 401-462-4100
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=41.701979,-71.523296
+
+9. Woonsocket American Job Center
+219 Pond Street, Woonsocket, RI 02895
+🌐 https://dlt.ri.gov/individuals/jobseeker-resources/career-centers
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 401-235-1201
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=42.008406,-71.510919
+
+10. Providence American Job Center
+50 Sims Ave, Providence, RI 02909
+🌐 https://dlt.ri.gov/individuals/jobseeker-resources/career-centers
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 401-680-5101
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=41.826355,-71.433181

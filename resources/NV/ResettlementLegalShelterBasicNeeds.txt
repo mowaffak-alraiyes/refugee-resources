@@ -20,28 +20,28 @@
 4. Catholic Charities of Northern Nevada - Mother Cabrini Immigration Legal Services
 480 E Moana Ln., Reno, NV 89502
 🌐 https://ccsnn.org/pages/immigration-assistance
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (775) 393-3877
 📝 Areas of legal assistance: Adjustment of Status, Asylum applications, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, Humanitarian Parole, NACARA, Naturalization/Citizenship, Removal hearings, Special Immigrant Juvenile Status, Special Immigrant Visa (SIV), T visas, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 5. Immigrant Home Foundation
 2900 Stewart Ave, Las Vegas, NV 89101
 🌐 https://www.immigrantfoundation.org
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 702-889-4431
 📝 Areas of legal assistance: Adjustment of Status, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, Humanitarian Parole, Naturalization/Citizenship, Special Immigrant Juvenile Status, T visas, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 6. Immigration Center for Women and Children
 732 S 6th Street, Suite 101, Las Vegas, NV 89101
 🌐 https://www.icwclaw.org
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 702-430-7981
 📝 Areas of legal assistance: Adjustment of Status, Asylum applications, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, Naturalization/Citizenship, Removal hearings, Special Immigrant Juvenile Status, T visas, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 7. Legal Aid Center of Southern Nevada
 725 E. Charleston Blvd, Las Vegas, NV 89104
 🌐 http://www.lacsn.org
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (702) 386-1070
 📝 Areas of legal assistance: Adjustment of Status, Asylum applications, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Naturalization/Citizenship, Special Immigrant Juvenile Status, Special Immigrant Visa (SIV), T visas, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
@@ -62,7 +62,7 @@
 10. Progressive Leadership Alliance of Nevada's Citizenship and Immigration Program
 495 Apple St Suite 108, Reno, NV 89502
 🌐 https://www.plancip.org
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📝 Areas of legal assistance: Adjustment of Status, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, Naturalization/Citizenship, Temporary Protected Status (TPS) Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 11. UNLV Immigration Clinic
@@ -75,7 +75,7 @@
 12. Washoe Legal Services
 299 S. Arlington Ave., Reno, NV 89501
 🌐 http://www.washoelegalservices.org
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (775) 329-2727
 📝 Areas of legal assistance: Adjustment of Status, Asylum applications, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, Naturalization/Citizenship, Removal hearings, Special Immigrant Juvenile Status, T visas, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
@@ -113,3 +113,91 @@
 🏥 Services: Immigration legal help
 📞 (775) 432-9929
 📝 Source: U.S. Department of Justice, Recognition and Accreditation roster, report updated November 1, 2026, retrieved 2026-11-09.
+
+19. Carson City EmployNV Business/Career Hub
+1929 North Carson Street, Carson City, NV 89701
+🌐 https://www.employnv.gov/vosnet/Default.aspx
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 775-684-0400
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=39.177968,-119.766806
+
+20. EmployNV Career Hub
+2281 Pyramid Way, Sparks, NV 89431
+🌐 https://www.employnv.gov/vosnet/Default.aspx
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center. Programs for ex-offenders: Yes.
+📞 775-284-9520
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=39.551755,-119.752699
+
+21. EmployNV Career and Youth Hub
+1020 E Wilson Rd, Pahrump, NV 89048
+🌐 https://employnvyouthhub.org/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 775-727-9970
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=36.212747,-115.995328
+
+22. EmployNV Career/Business Hub
+121 Industrial Way, Fallon, NV 89406
+🌐 https://www.employnv.gov/vosnet/default.aspx
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center. Programs for ex-offenders: Yes.
+📞 775-423-5115
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=39.473736,-118.796872
+
+23. EmployNV Career/Business Hub
+172 S. Sixth Street, Elko, NV 89801
+🌐 https://www.employnv.gov/vosnet/default.aspx
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 775-753-1900
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=40.831103,-115.758897
+
+24. Henderson EmployNV Career Hub
+4500 East Sunset Road, Suite 40, Henderson, NV 89014
+🌐 https://www.employnv.gov/vosnet/default.aspx
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 702-486-0300
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=36.072250,-115.076314
+
+25. Las Vegas EmployNV Career Hub
+3405 S Maryland Parkway, Las Vegas, NV 89169
+🌐 https://www.employnv.gov/vosnet/default.aspx
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 702-486-0100
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=36.128273,-115.137068
+
+26. NV JobConnect/Ely
+1500 Avenue F, Suite 1, Ely, NV 89301
+🌐 https://employnv.gov/vosnet/default.aspx
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 775-289-1616
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=39.257940,-114.860032
+
+27. North Las Vegas EmployNV Career Hub
+2827 Las Vegas Boulevard North, North Las Vegas, NV 89030
+🌐 https://www.employnv.gov/vosnet/default.aspx
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 702-486-0200
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=36.211108,-115.104896
+
+28. Comprehensive EmployNV Career Hub
+6330 W Charleston Blvd, Suite 190, Las Vegas, NV 89146
+🌐 https://www.employnv.gov/vosnet/default.aspx
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 702-822-4200
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=36.159304,-115.231389
+
+29. EmployNV Career/Business Hub - Reno
+4001 South Virginia Street, Suite 11 and H, Reno, NV 89502
+🌐 https://detr.nv.gov/Page/EmployNV_Business_Hubs_or_Solutions
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 775-284-9600
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=39.487186,-119.794273

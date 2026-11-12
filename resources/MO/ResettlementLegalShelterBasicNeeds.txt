@@ -50,28 +50,28 @@ WashU Law, 1 Brookings Drive, St. Louis, MO 63130
 9. Catholic Charities of Central and Northern Missouri - Family Immigration Services
 1015 Edmonds Street, Jefferson City, MO 65109
 🌐 http://www.cccnmo.org
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (573) 635-7719
 📝 Areas of legal assistance: Adjustment of Status, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, Habeas Corpus, Naturalization/Citizenship, Temporary Protected Status (TPS) Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 10. Hand In Hand Multicultural Center
 1436 W Hovey, Springfield, MO 65802
 🌐 http://www.hihmc.org
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization, Employment-based immigrant and non-immigrant petitions
 📞 (417) 865-4673
 📝 Areas of legal assistance: Adjustment of Status, Asylum applications, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Employment-based immigrant and non-immigrant petitions, Family-based petitions, Naturalization/Citizenship, P1 or P2 for Afghans, Special Immigrant Juvenile Status, Special Immigrant Visa (SIV), T visas, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 11. Immigrant Connection - North County
 1309 N. Elizabeth Avenue, Ferguson, MO 63135
 🌐 https://www.fergusonchurch.org/immigrant-connection-north-county.html
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization, Employment-based immigrant and non-immigrant petitions
 📞 (314) 635-8034
 📝 Areas of legal assistance: Adjustment of Status, Asylum applications, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Employment-based immigrant and non-immigrant petitions, Family-based petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 12. Immigration Professionals
 5545, Suite 15 B, Kansas City, MO 64118
 🌐 http://www.immigrationprofessionals.us
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (816) 221-2277
 📝 Areas of legal assistance: Adjustment of Status, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, Naturalization/Citizenship, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
@@ -85,7 +85,7 @@ WashU Law, 1 Brookings Drive, St. Louis, MO 63130
 14. Jewish Vocational Service
 4600 The Paseo , Kansas City, MO 64105
 🌐 http://www.jvskc.org
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (816) 471-2808
 📝 Areas of legal assistance: Adjustment of Status, Asylum applications, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, Naturalization/Citizenship, Temporary Protected Status (TPS) Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
@@ -98,28 +98,28 @@ WashU Law, 1 Brookings Drive, St. Louis, MO 63130
 16. Legal Services of Eastern Missouri - Immigration Law Project (St. Louis Office)
 4232 Forest Park Ave., St. Louis, MO 63108
 🌐 http://www.lsem.org
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 314-256-8756
 📝 Areas of legal assistance: Adjustment of Status, Consular Processing, Employment authorization, Family-based petitions, NACARA, Naturalization/Citizenship, Removal hearings, Special Immigrant Juvenile Status, T visas, U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 17. Migrant and Immigrant Community Action Project
 2650 Cherokee St, St. Louis, MO 63118
 🌐 http://www.mica-project.org
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (314) 995-6995
 📝 Areas of legal assistance: Adjustment of Status, Asylum applications, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, NACARA, Naturalization/Citizenship, Removal hearings, Special Immigrant Juvenile Status, T visas, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 18. St. Francis Community Services - Catholic Immigration Law Project
 100 N. Tucker Blvd., Suite 726, St. Louis, MO 63101
 🌐 https://sfcsstl.org/locations/clam/
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (314) 977-3993
 📝 Areas of legal assistance: Adjustment of Status, Asylum applications, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, Naturalization/Citizenship, Removal hearings, Special Immigrant Juvenile Status, T visas, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 19. The Asylum Clinic Kansas City (VERA NETWORK)
 2005 Swift Avenue, North Kansas City, MO 64116
 🌐 https://www.asylumclinickc.org/
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 816-641-5777
 📝 Areas of legal assistance: Adjustment of Status, Asylum applications, Employment authorization, Family-based petitions, Removal hearings, Special Immigrant Juvenile Status, T visas, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
@@ -152,3 +152,274 @@ Sacred Heart Parish, 105 Waugh Street, Columbia, MO 65201
 🏥 Services: Immigration legal help
 📞 (314) 534-4200
 📝 Source: U.S. Department of Justice, Recognition and Accreditation roster, report updated November 1, 2026, retrieved 2026-11-09.
+
+25. East Missouri Action Agency - St.. Genevieve
+95  St. Genevieve Drive, Saint Genevieve, MO 63670
+🌐 https://www.job4you.org/employment
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 573-883-7252
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=37.967719,-90.039300
+
+26. East Missouri Action Agency- Ironton
+321 South Knob, Ironton, MO 63650
+🌐 https://www.job4you.org/employment
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 573-431-5191
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=37.597830,-90.626563
+
+27. Gamm, Inc.
+103 S 3rd St, PO Box 49, LaBelle, MO 63447
+🌐 https://gamminc.org/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 660-213-3221
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=40.114242,-91.911545
+
+28. Missouri Career Center - Northland Human Services Center
+5440 North Oak Trafficway, Suite 100, Kansas City, MO 64119-4465
+🌐 https://www.feckc.org/overview-of-services
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 816-468-8767
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=39.193548,-94.576960
+
+29. Missouri Job Center - Cape Girardeau
+612 Broadway, Cape Girardeau, MO 63701
+🌐 https://jobs.mo.gov/job-centers
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 573-381-2464
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=37.306833,-89.525705
+
+30. Missouri Job Center - Fort Leonard Wood
+13486 Replacement Ave, Room 2202, Bldg 470, Fort Leonard Wood, MO 65473
+🌐 https://leonardwood.armymwr.com/employment
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 573-596-0294
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=37.761497,-92.119420
+
+31. Missouri Job Center - Warrenton
+111 Steinhagen Road, PO Box 429, Warrenton, MO 63383
+🌐 https://jobs.mo.gov/job-centers
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 636-456-9467 or 1-800-264-5872
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=38.812330,-91.139890
+
+32. New Madrid County Family Resource Center
+420 Virginia Avenue, New Madrid, MO 63869
+🌐 https://www.nmcfamilyresourcecenter.com/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 573-748-2778
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=36.588262,-89.525875
+
+33. Pike-Lincoln Technical Center
+342 Vo Tech Road, Eolia, MO 63344
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 573-485-2900
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=39.245326,-91.020712
+
+34. South Central Missouri Community Action Agency
+1716 South Broadway, Poplar Bluff, MO 63901
+🌐 https://scmcaa.org/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 573-785-4727
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=36.742588,-90.395341
+
+35. Susanna Wesley Family Learning Center
+601 W. Marshall St., PO Box 187, Charleston, MO 63834
+🌐 http://www.swflc.com/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 573-233-8391
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=36.920629,-89.357460
+
+36. Workforce Development Director  Youth Alliance
+5223 Mitchell Ave., St. Joseph, MO 64507
+🌐 https://jobs.mo.gov/job-centers/maryville-job-center
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 (816) 232-0050 ext. 105
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=39.756043,-94.772379
+
+37. Missouri Career Center - Arnold
+3675 West Outer Road, Suite 102, Arnold, MO 63010
+🌐 https://jobs.mo.gov/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 636-865-6060
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=38.411900,-90.390980
+
+38. Missouri Career Center - Central Kansas City
+1740 Paseo Blvd, Kansas City, MO 64108
+🌐 https://www.feckc.org/overview-of-services
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 816-471-2330
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=39.092227,-94.564768
+
+39. Missouri Career Center - Florissant
+4040 Seven Hills Drive, Suite 166, Florissant, MO 63033-6767
+🌐 https://jobs.mo.gov/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 636-524-8558
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=38.777760,-90.277813
+
+40. Missouri Career Center - Independence
+15301 East 23rd Street, Independence, MO 64055
+🌐 https://www.feckc.org/overview-of-services
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 816-521-5700
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=39.078186,-94.390493
+
+41. Missouri Career Center - Lebanon
+2639 South Jefferson Avenue, Suite 1, Lebanon, MO 65536-5205
+🌐 https://jobs.mo.gov
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 417-532-6146
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=37.643025,-92.649639
+
+42. Missouri Career Center - St. Joseph
+2202 Frederick Ave., St. Joseph, MO 64506
+🌐 https://jobs.mo.gov/job-centers/st-joseph-job-center
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 816-387-2380
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=39.774549,-94.833857
+
+43. Missouri Job Center - Branson
+2720 Shepherd of the Hills Expressway, Suite B, Branson, MO 65616
+🌐 https://jobs.mo.gov/job-centers/branson-job-center
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 417-334-4156
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=36.652616,-93.275448
+
+44. Missouri Job Center - Chillicothe
+601 W Mohawk Road, Suite A, Chillicothe, MO 64601-3919
+🌐 https://jobs.mo.gov/job-centers/chillicothe-job-center
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 660-646-0671
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=39.818858,-93.550682
+
+45. Missouri Job Center - Columbia
+101 Park De Ville Dr., Suite E, Columbia, MO 65203
+🌐 https://cwdregion.com/gettinghired/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 573-441-6361
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=38.957337,-92.385790
+
+46. Missouri Job Center - Crossings at Northwest
+715 Northwest Plaza Drive, St. Ann, MO 63074
+🌐 https://jobs.mo.gov/job-centers
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 314-615-6010
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=38.734008,-90.400572
+
+47. Missouri Job Center - Hannibal
+203 North Sixth Street, Hannibal, MO 63401-3412
+🌐 https://jobs.mo.gov/job-centers
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 573-248-2520
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=39.708638,-91.360979
+
+48. Missouri Job Center - Joplin
+730 South Wall Ave, Joplin, MO 64801
+🌐 https://jobs.mo.gov/job-centers/joplin-job-center
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 417-629-3000
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=37.083171,-94.515829
+
+49. Missouri Job Center - Kennett
+1100 South By-Pass, Suite 2, Kennett, MO 63857-3738
+🌐 https://jobs.mo.gov/job-centers
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 573-888-4518
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=36.237000,-90.046700
+
+50. Missouri Job Center - Kirksville
+2105 East Normal Street, Kirksville, MO 63501
+🌐 https://jobs.mo.gov/job-centers
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 660-785-2400
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=40.189882,-92.560655
+
+51. Missouri Job Center - Nevada
+14230 E. HWY 54, Suite C, Nevada, MO 64772-1022
+🌐 https://jobs.mo.gov/job-centers
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 417-448-1177
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=37.873178,-94.375991
+
+52. Missouri Job Center - Park Hills
+403 Parkway Drive, Suite A, Park Hills, MO 63601-1510
+🌐 https://jobs.mo.gov/job-centers
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 573-518-2431
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=37.864067,-90.500089
+
+53. Missouri Job Center - Poplar Bluff
+2080 Three Rivers Blvd, Harry Crisp Building, Room 110, Poplar Bluff, MO 63901
+🌐 https://www.scwib.org/job-seekers.php
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 573-840-9595
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=36.775920,-90.430591
+
+54. Missouri Job Center - Rolla
+1107 Kingshighway, Rolla, MO 65401
+🌐 https://cwdregion.com/gettinghired/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 573-368-2354
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=37.943395,-91.786310
+
+55. Missouri Job Center - West Plains
+408 Washington Ave, Suite 100, West Plains, MO 65775-5789
+🌐 https://www.scwib.org/job-seekers.php
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 417-256-3158
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=36.730369,-91.852216
+
+56. Missouri Job Center of St. Charles County
+3757 Harry S. Truman Boulevard, St. Charles, MO 63301
+🌐 https://www.sccmo.org/163/Workforce-Business-Development
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 636-255-6060
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=38.795635,-90.563980
+
+57. Sedalia Job Center
+515 S. Kentucky, Sedalia, MO 65301
+🌐 https://jobs.mo.gov/job-centers
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 660-530-5627
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=38.706329,-93.229965
+
+58. Springfield Job Center
+1660 N Campbell Avenue, Springfield, MO 65803
+🌐 https://jobs.mo.gov/job-centers/springfield-job-center
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 417-887-4343
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=37.228104,-93.292432

@@ -28,28 +28,28 @@
 5. Catholic Charities of Idaho- Treasure Valley Center
 7201 W Franklin Rd, Boise, ID 83709
 🌐 http://www.ccidaho.org
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (208) 345-6031
 📝 Areas of legal assistance: Adjustment of Status, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, Naturalization/Citizenship, Special Immigrant Juvenile Status, T visas, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 6. Community Council of Idaho
 317 Happy Day Blvd, Caldwell, ID 83607
 🌐 http://www.communitycouncilofidaho.org
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (208) 453-3107
 📝 Areas of legal assistance: Adjustment of Status, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, Naturalization/Citizenship, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 7. International Rescue Committee (Boise Office)
 7287 W Franklin Rd, Boise, ID 83709
 🌐 http://www.rescue.org
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (208) 344-1792
 📝 Areas of legal assistance: Adjustment of Status, Consular Processing, Employment authorization, Family-based petitions, Naturalization/Citizenship, Temporary Protected Status (TPS) Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 8. University of Idaho College of Law Immigration Law Clinic
 875 Perimeter Dr, Mail Stop 2322, Moscow, ID 83844
 🌐 https://www.uidaho.edu/law/academics/practical-skills/clinics/immigration
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (208) 885-6541
 📝 Areas of legal assistance: Adjustment of Status, Asylum applications, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, Naturalization/Citizenship, Special Immigrant Juvenile Status, T visas, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 9. Catholic Charities of Idaho — Eastern Idaho Extension Office
@@ -63,3 +63,67 @@
 🏥 Services: Immigration legal help
 📞 (208) 709-0131
 📝 Source: U.S. Department of Justice, Recognition and Accreditation roster, report updated November 1, 2026, retrieved 2026-11-09.
+
+11. Idaho Department of Labor - Boise
+317 W. Main Street, 1st Floor, East, Boise, ID 83735-0030
+🌐 https://www.labor.idaho.gov/Local-Office-Directory/#southWestern
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center. Programs for ex-offenders: Yes.
+📞 208-332-3575
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=43.612744,-116.198429
+
+12. Idaho Department of Labor - Burley
+127 West 5th Street North, Burley, ID 83318-3457
+🌐 https://www.labor.idaho.gov/Local-Office-Directory/#southCentral
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center. Programs for ex-offenders: Yes.
+📞 208-678-5518
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=42.547255,-113.793717
+
+13. Idaho Department of Labor - Caldwell
+4514 Thomas Jefferson Street, Caldwell, ID 83605
+🌐 https://www.labor.idaho.gov/Local-Office-Directory/#southWestern
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center. Programs for ex-offenders: Yes.
+📞 208-364-7781
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=43.659737,-116.642646
+
+14. Idaho Department of Labor - Magic Valley
+601 Pole Line Rd., Suite 1, Twin Falls, ID 83301
+🌐 https://www.labor.idaho.gov/Local-Office-Directory/#southCentral
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center. Programs for ex-offenders: Yes.
+📞 208-735-2500
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=42.592732,-114.467570
+
+15. Idaho Department of Labor - Pocatello
+430 N 5th Avenue, PO Box 4087 (83205), Pocatello, ID 83201
+🌐 https://www.labor.idaho.gov/Local-Office-Directory/#southEastern
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center. Programs for ex-offenders: Yes.
+📞 208-236-6710
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=42.869093,-112.446368
+
+16. Idaho Department of Labor - Post Falls
+600 N Thornton Street, Post Falls, ID 83854
+🌐 https://www.labor.idaho.gov/Local-Office-Directory/#northern
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center. Programs for ex-offenders: Yes.
+📞 208-457-8789
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=47.713162,-116.901033
+
+17. Idaho Department of Labor - Idaho Falls
+1515 East Lincoln Road, Idaho Falls, ID 83401
+🌐 https://www.labor.idaho.gov/Local-Office-Directory/#eastern
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 208-557-2500
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=43.511287,-112.003652
+
+18. Idaho Department of Labor - Lewiston
+1158 Idaho Street, Lewiston, ID 83501-1960
+🌐 https://www.labor.idaho.gov/Local-Office-Directory/#northCentral
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 208-799-5000
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=46.417125,-117.018722

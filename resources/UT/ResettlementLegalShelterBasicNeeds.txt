@@ -20,14 +20,14 @@
 4. BYU Community Legal Clinic
 Wilkinson Center #2400, 1060 E. Campus Dr., Provo, UT 84604
 🌐 https://law.byu.edu/explore/resources/centers-clinics/community-legal-clinic
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (801) 422-3025
 📝 Areas of legal assistance: Adjustment of Status, Asylum applications, Employment authorization, Family-based petitions, Naturalization/Citizenship Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 5. Catholic Community Services of Utah - Migration & Refugee Services
 224 North 2200 West, Salt Lake City, UT 84116
 🌐 http://www.ccsutah.org
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization, Employment-based immigrant and non-immigrant petitions
 📞 (801) 977-9119
 📝 Areas of legal assistance: Adjustment of Status, Asylum applications, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Employment-based immigrant and non-immigrant petitions, Family-based petitions, NACARA, Naturalization/Citizenship, Removal hearings, Special Immigrant Juvenile Status, T visas, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
@@ -41,14 +41,14 @@ Wilkinson Center #2400, 1060 E. Campus Dr., Provo, UT 84604
 7. Holy Cross Ministries of Utah - Immigration Services
 860 E. 4500 S, Suite 204, Salt Lake City, UT 84107
 🌐 http://www.holycrossministries.org
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (801) 261-3440
 📝 Areas of legal assistance: Adjustment of Status, Asylum applications, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, NACARA, Naturalization/Citizenship, Special Immigrant Juvenile Status, T visas, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 8. Immigrant Legal Services
 715 East 3900 South, #109, Salt Lake City, UT 84107
 🌐 http://www.immigrantlegalservices.org
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization, Employment-based immigrant and non-immigrant petitions
 📝 Areas of legal assistance: Adjustment of Status, Asylum applications, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Employment-based immigrant and non-immigrant petitions, Family-based petitions, Humanitarian Parole, NACARA, Naturalization/Citizenship, Removal hearings, Special Immigrant Juvenile Status, T visas, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 9. Alliance Community Services
@@ -98,3 +98,83 @@ Wilkinson Center #2400, 1060 E. Campus Dr., Provo, UT 84604
 🏥 Services: Immigration legal help
 📞 (801) 328-8891
 📝 Source: U.S. Department of Justice, Recognition and Accreditation roster, report updated November 1, 2026, retrieved 2026-11-09.
+
+17. Department of Workforce Services - Blanding Employment Center
+544 North 100 East, Blanding, UT 84511
+🌐 https://jobs.utah.gov/jobseeker/js.html
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 1-866-435-7414
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=37.630973,-109.476160
+
+18. Department of Workforce Services - Emery County Employment Center
+550 W. Hwy 29, Castle Dale, UT 84513
+🌐 https://jobs.utah.gov/jobseeker/js.html
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 435 865 5513
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=39.227910,-111.036767
+
+19. Department of Workforce Services - Moab Employment Center
+457 Kane Creek Boulevard, Moab, UT 84532
+🌐 https://jobs.utah.gov/jobseeker/js.html
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 801-526-0950
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=38.565953,-109.552686
+
+20. Department of Workforce Services - South County Employment Center
+5735 South Redwood Road, Taylorsville, UT 84123
+🌐 https://jobs.utah.gov/jobseeker/js.html
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 801-269-4700
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=40.647420,-111.938667
+
+21. Department of Workforce Services - Delta Employment Center
+44 South 350 East, Delta, UT 84624
+🌐 https://jobs.utah.gov/jobseeker/js.html
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 435-864-3525
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=39.351635,-112.566864
+
+22. Department of Workforce Services - Kanab Employment Center
+468 East 300 South, Kanab, UT 84741
+🌐 https://jobs.utah.gov/jobseeker/js.html
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 435-644-8911
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=37.043081,-112.518405
+
+23. Department of Workforce Services - Loa Employment Center
+18 South Main, PO Box 267, Loa, UT 84747
+🌐 https://jobs.utah.gov/jobseeker/js.html
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 435-836-2406
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=38.398254,-111.642720
+
+24. Department of Workforce Services - Manti Employment Center
+55 South Main, Suite #3, Manti, UT 84642
+🌐 https://jobs.utah.gov/jobseeker/js.html
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 435-835-0771
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=39.113343,-111.708687
+
+25. Department of Workforce Services - Panguitch Employment Center
+665 North Main, PO Box 61, Panguitch, UT 84759
+🌐 https://jobs.utah.gov/jobseeker/js.html
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 435-865-5505
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=37.832735,-112.436178
+
+26. Department of Workforce Services - St. George Employment Center
+162 North 400 East, Building B100, St. George, UT 84770
+🌐 https://jobs.utah.gov/jobseeker/js.html
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 435-986-3527
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=37.110404,-113.574601

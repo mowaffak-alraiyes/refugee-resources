@@ -23,35 +23,35 @@
 4. Catholic Social Services of Montgomery - Immigrant Services
 4455 Narrow Lane Rd, Montgomery, AL 36116
 🌐 http://www.cssalabama.org
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (334) 288-8890
 📝 Areas of legal assistance: Adjustment of Status, Asylum applications, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, Naturalization/Citizenship, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 5. Gulf States Immigration Services
 126 Mobile Street, Mobile, AL 36607
 🌐 https://gulfstatesvisas.org
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization, Employment-based immigrant and non-immigrant petitions
 📞 (251) 391-6012
 📝 Areas of legal assistance: Adjustment of Status, Asylum applications, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Employment-based immigrant and non-immigrant petitions, Family-based petitions, Naturalization/Citizenship, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 6. Hispanic and Immigrant Center of Alabama (¡HICA!)
 117 Southcrest Dr, Birmingham, AL 35209
 🌐 https://hicaalabama.org/en/home
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 205-942-5505
 📝 Areas of legal assistance: Adjustment of Status, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, Naturalization/Citizenship, T visas, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 7. Hispanic Catholic Social Services - La Casita
 92 Oxmoor Rd., Birmingham, AL 35209
 🌐 http://hcsslacasita.org/immigration/
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (205) 876-8190
 📝 Areas of legal assistance: Adjustment of Status, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, Naturalization/Citizenship, U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 8. Southern Center for Equity Advancement and Immigrant Refuge
 811 5th Ave, Tuscalosoa, AL 35401
 🌐 https://www.sceair.org
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (205) 886-9988
 📝 Areas of legal assistance: Adjustment of Status, Asylum applications, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, Humanitarian Parole, Naturalization/Citizenship, Special Immigrant Juvenile Status, T visas, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
@@ -95,3 +95,320 @@
 🏥 Services: Immigration legal help
 📞 (205) 886-9988
 📝 Source: U.S. Department of Justice, Recognition and Accreditation roster, report updated November 1, 2026, retrieved 2026-11-09.
+
+16. Alabaster Career Center
+109 Plaza Circle, Alabaster, AL 35007
+🌐 https://alabamaworks.workforce.alabama.gov/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 205-663-2542
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=33.218511,-86.826172
+
+17. Alexander City Career Center
+1375 CACC Drive, Alexander City, AL 35010
+🌐 https://alabamaworks.alabama.gov/vosnet/ContactUs.aspx?tab=4
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 256-414-6146
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=32.943100,-85.949700
+
+18. Andalusia Career Center
+212 South Three Notch Street, Andalusia, AL 36420
+🌐 https://alabamaworks.alabama.gov/vosnet/ContactUs.aspx?tab=2
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 334-328-6739
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=31.306739,-86.483129
+
+19. Brewton Career Center
+1023 Douglas Avenue, Suite 314, Brewton, AL 36426
+🌐 https://www.swapte.org/brewton-career-center
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 251-867-4376
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=31.121454,-87.068847
+
+20. Decatur Career Center
+1819 Bassett Avenue, South East, Decatur, AL 35601
+🌐 https://www.northalabamaworks.com/career-centers/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 256-355-0142
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=34.577852,-86.977751
+
+21. Enterprise Career Center
+2021 Boll Weevil Circle, Enterprise, AL 36330
+🌐 https://alabamaworks.alabama.gov/vosnet/ContactUs.aspx?tab=2
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 334-347-0044
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=31.324677,-85.889520
+
+22. Eufaula Career Center
+122 Paul Lee Parkway, Eufaula, AL 36027
+🌐 https://www.facebook.com/eufaulacareercenter
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 334-687-8251
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=31.865490,-85.153114
+
+23. Fayette Career Center
+2631 Temple Avenue North, Room 37-B, Fayette, AL 35555
+🌐 https://www.facebook.com/fayettecareercenter
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center. Programs for ex-offenders: Yes.
+📞 205-303-6030
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=33.724618,-87.815522
+
+24. Foley Career Center
+200 West Michigan Avenue, Foley, AL 36535
+🌐 https://www.swapte.org/foley-career-center
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 251-943-1575
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=30.392143,-87.685587
+
+25. Fort Deposit Career Center
+11 Milner Street, Public Library, Fort Deposit, AL 36032
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 334-404-4400
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=31.987174,-86.579108
+
+26. Fort Payne Career Center
+2401 Calvin Drive SW, Fort Payne, AL 35967
+🌐 https://www.northalabamaworks.com/career-centers/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 256-845-2900
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=34.423924,-85.761332
+
+27. Gadsden Career Center
+216 North 5th Street, Gadsden, AL 35901
+🌐 https://alabamaworks.alabama.gov/vosnet/ContactUs.aspx?tab=4
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 256-546-4667
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=34.014665,-86.004035
+
+28. Greenville Affiliate Career Center
+117 West Commerce Street, Greenville, AL 36037
+🌐 https://wioa-alabama.org/career-services/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 334-382-3128
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=31.829661,-86.624531
+
+29. Haleyville Career Center
+2010 9th Avenue North, Haleyville, AL 35565
+🌐 https://alabamaworks.alabama.gov/vosnet/ContactUs.aspx?tab=2
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 205-486-4154
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=34.226466,-87.624072
+
+30. Hamilton Career Center
+1481 Military Street South, Hamilton, AL 35570
+🌐 https://www.facebook.com/HamiltonCareer/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center. Programs for ex-offenders: Yes.
+📞 205-921-5672
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=34.132684,-87.990116
+
+31. Hayneville Career Center
+22 Washington Street N, Family Guidance Center, Hayneville, AL 36040
+🌐 https://alabamaworks.alabama.gov/vosnet/ContactUs.aspx?tab=2
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 334-548-6307
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=32.184427,-86.579860
+
+32. Jackson Career Center
+205 Walker Springs Road, Jackson, AL 36545
+🌐 https://www.swapte.org/jackson-career-center
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 251-246-2453
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=31.557694,-87.874619
+
+33. Jasper Career Center
+2604 Viking Drive, Jasper, AL 35501
+🌐 https://www.facebook.com/Jasper.AL.Career.Center
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 205-221-2576
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=33.840900,-87.245162
+
+34. Jefferson State Community College One Stop Career Center - Birmingham East
+2601 Carson Road, LWH Room 216, Birmingham, AL 35215
+🌐 https://www.jeffersonstate.edu/career-job-resources/career-job-resources-client-services/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 205-856-8029
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=33.651317,-86.709485
+
+35. Livingston Career Center
+201 Monroe St., Livingston, AL 35470
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 334-289-0202
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=32.584560,-88.188893
+
+36. Monroeville Career Center
+2119 Hwy 21 Bypass, Suite 100, Monroeville, AL 36460
+🌐 https://alabamaworks.alabama.gov/vosnet/ContactUs.aspx?tab=2
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 251-575-3894
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=31.495057,-87.319915
+
+37. Oneonta Career Center
+728 2nd Ave. E., Suite B, Oneonta, AL 35121
+🌐 https://www.facebook.com/OneontaCareerCenter/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 205-687-9140
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=33.951395,-86.469858
+
+38. Ozark Career Center
+3259 south Hwy 231, Ozark, AL 36360
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 334 792-2121  ext 85335
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=31.431285,-85.626186
+
+39. Pell City Career Center
+311 Miles Parkway, Suite 102; PO Box 1045, Pell City, AL 35125
+🌐 https://alabamaworks.workforce.alabama.gov/vosnet/ContactUs.aspx?tab=2
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 205-338-5440
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=33.602278,-86.266318
+
+40. Phil Campbell Career Center
+2080 College Road, NW Shoals Community College, Phil Campbell, AL 35581
+🌐 https://alabamaworks.alabama.gov/vosnet/ContactUs.aspx?tab=2
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center. Programs for ex-offenders: Yes.
+📞 256-331-6285
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=34.345516,-87.729592
+
+41. Roanoke Career Center
+3928 Hwy 431, Roanoke, AL 36274
+🌐 https://alabamaworks.alabama.gov/vosnet/ContactUs.aspx?tab=2
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 256-414-6200
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=33.150415,-85.358800
+
+42. Scottsboro Career Center
+23123 John T. Reid Parkway, Scottsboro, AL 35769
+🌐 https://alabamaworks.alabama.gov/vosnet/ContactUs.aspx?tab=2
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 256-672-6030
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=34.650381,-86.029094
+
+43. Selma Career Center
+1112 Water Avenue, Selma, AL 36703
+🌐 https://alabamaworks.alabama.gov/vosnet/default.aspx
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 334-872-0471
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=32.406644,-87.018974
+
+44. Sheffield Career Center
+500 South Montgomery Avenue, Suite 102, Sheffield, AL 35660
+🌐 https://alabamaworks.workforce.alabama.gov/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 256-383-5610
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=34.753338,-87.698844
+
+45. Talladega Career Center
+1005 South Street East, Talladega, AL 35160
+🌐 https://alabamaworks.alabama.gov/vosnet/ContactUs.aspx?tab=4
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 256-521-0500
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=33.436700,-86.080900
+
+46. Troy Career Center
+1023 S Brundidge Street, Troy, AL 36081
+🌐 https://www.facebook.com/TroyCareerCenter
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 334-566-3920
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=31.793754,-85.965928
+
+47. Valley Satellite Career Center
+3300 23rd Drive, Suite A, Valley, AL 36854
+🌐 https://alabamaworks.alabama.gov/vosnet/ContactUs.aspx?tab=4
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 334-275-3967
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=32.840340,-85.181708
+
+48. Alabama Career Center - Cullman
+1201 Katherine Street, NW, Cullman, AL 35055
+🌐 https://alabamaworks.alabama.gov/vosnet/default.aspx
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 256-734-5580
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=34.180867,-86.850035
+
+49. Alabama Career Center - Huntsville
+2535 Sparkman Drive, Huntsville, AL 35810
+🌐 https://alabamaworks.alabama.gov/vosnet/ContactUs.aspx?tab=2
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 256-851-0537
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=34.763238,-86.596683
+
+50. Anniston Career Center
+1731 Coleman Road, Anniston, AL 36207
+🌐 https://alabamaworks.alabama.gov/vosnet/ContactUs.aspx?tab=4
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 256-832-0147
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=33.621851,-85.803401
+
+51. Birmingham Career Center
+3216 4th Avenue South, Birmingham, AL 35222
+🌐 https://www.facebook.com/birminghamcareercenter
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 205-582-5200
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=33.517500,-86.785050
+
+52. Dothan Career Center
+787 Ross Clark Circle, Dothan, AL 36303
+🌐 https://alabamaworks.alabama.gov/vosnet/ContactUs.aspx?tab=2
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 334-792-2121
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=31.227568,-85.360209
+
+53. Mobile  Career Center
+515 Springhill Plaza Court, Mobile, AL 36608
+🌐 https://www.swapte.org/alabama-career-center
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 251-461-4146
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=30.705360,-88.124460
+
+54. Montgomery Career Center
+1060 East South Blvd, Montgomery, AL 36116
+🌐 https://www.facebook.com/MgmCareerCenter
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 334-286-1746
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=32.326437,-86.289947
+
+55. Tuscaloosa Area Career Center
+202 Skyland Drive, Tuscaloosa, AL 35405
+🌐 https://alabamaworks.alabama.gov/vosnet/ContactUs.aspx?tab=2
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 205-758-7591
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=33.167577,-87.537482

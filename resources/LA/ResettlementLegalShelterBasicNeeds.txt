@@ -3,35 +3,35 @@
 1. Catholic Charities Archdioces of New Orleans - Hispanic Apostolate Community Services
 2505 Maine Ave, Metairie, LA 70003
 🌐 http://www.ccano.org/programs/hacs/
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization, Employment-based immigrant and non-immigrant petitions
 📞 (504) 310-6873
 📝 Areas of legal assistance: Adjustment of Status, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Employment-based immigrant and non-immigrant petitions, Family-based petitions, NACARA, Naturalization/Citizenship, Removal hearings, Special Immigrant Juvenile Status, T visas, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 2. Catholic Charities Archdiocese of New Orleans - Immigration and Refugee Services
 1000 Howard Ave., Suite 200, New Orleans, LA 70113
 🌐 http://www.ccano.org
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (504) 310-6862
 📝 Areas of legal assistance: Adjustment of Status, Asylum applications, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, Habeas Corpus, NACARA, Naturalization/Citizenship, Removal hearings, Special Immigrant Juvenile Status, T visas, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 3. Catholic Charities of North Louisiana
 902 Olive Street, Shreveport, LA 71104
 🌐 https://www.ccnla.org
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 318-865-0200
 📝 Areas of legal assistance: Adjustment of Status, Asylum applications, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, Naturalization/Citizenship, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 4. Diocese of Lafayette - Migration and Refugee Services
 1408 Carmel Drive, Lafayette, LA 70501
 🌐 http://www.diolaf.org
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (337) 261-5535
 📝 Areas of legal assistance: Adjustment of Status, Asylum applications, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, Naturalization/Citizenship, Special Immigrant Juvenile Status, Temporary Protected Status (TPS), Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 5. Gulf Coast Center for Law & Policy
 620 Oak Harbor Blvd., Ste 203, Slidell, LA 70458
 🌐 https://www.gcclp.org
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (985) 643-6186
 📝 Areas of legal assistance: Adjustment of Status, Asylum applications, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, Naturalization/Citizenship, Removal hearings, Special Immigrant Juvenile Status, T visas, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
@@ -45,14 +45,14 @@
 7. Immigration Services and Legal Advocacy (ISLA)
 3801 Canal Street, Suite 210, New Orleans, LA 70119
 🌐 http://www.islaimmigration.org
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization, Employment-based immigrant and non-immigrant petitions
 📞 504-265-0416
 📝 Areas of legal assistance: Adjustment of Status, Asylum applications, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Employment-based immigrant and non-immigrant petitions, Family-based petitions, Habeas Corpus, Humanitarian Parole, NACARA, Naturalization/Citizenship, P1 or P2 for Afghans, Removal hearings, Special Immigrant Juvenile Status, Special Immigrant Visa (SIV), T visas, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 8. Louisiana Organization for Refugees and Immigrants (LORI)
 1120 Government Street , Baton Rouge , LA 70802
 🌐 https://www.mylori.org
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 225-239-7819
 📝 Areas of legal assistance: Adjustment of Status, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, Naturalization/Citizenship, Temporary Protected Status (TPS) Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
@@ -66,13 +66,13 @@
 10. Project Ishmael
 3401 Canal Street, New Orleans, LA 70119
 🌐 http://www.projectishmaelnola.org/
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (504) 233-3057
 📝 Areas of legal assistance: Adjustment of Status, Asylum applications, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Naturalization/Citizenship, Removal hearings, Special Immigrant Juvenile Status, T visas, U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 11. St. Frances Cabrini Immigration Law Center
 3226 Lake St, Lake Charles, LA 70601
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📝 Areas of legal assistance: Adjustment of Status, Consular Processing, Employment authorization, Family-based petitions, Naturalization/Citizenship, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 12. Catholic Charities Archdiocese of New Orleans — S. I-10 Service Road West Extension Office
@@ -91,3 +91,394 @@
 🏥 Services: Immigration legal help
 📞 (412) 867-5597
 📝 Source: U.S. Department of Justice, Recognition and Accreditation roster, report updated November 1, 2026, retrieved 2026-11-09.
+
+15. Acadia American Job Center
+223 West. 5th Street, Crowley, LA 70526
+🌐 https://acadianaworkforce.org/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 337-347-9239
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=30.212539,-92.375093
+
+16. Ascension American Job Center
+1060 E. Worthy Street, Gonzales, LA 70737
+🌐 https://www.geauxjobs.org/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 985-902-4200
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=30.226887,-90.910998
+
+17. Assumption American Job Center
+205 Hwy 1008, Napoleonville, LA 70390
+🌐 https://workconnectioninc.org
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 985-369-1810
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=29.938957,-91.031235
+
+18. Avoyelles American Job Center
+310 Acton Road, Suite B, Marksville, LA 71351
+🌐 https://www.wdb60.com/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 318-240-8820
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=31.118880,-92.070924
+
+19. Balance of Caddo American Job Center
+125 East Louisiana St., Vivian, LA 71082
+🌐 https://www.cdconline.org/wioa-job-seekers
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 318-676-5721
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=32.872090,-93.986010
+
+20. Beauregard American Job Center
+1102 West First Street, DeRidder, LA 70634
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center. Programs for ex-offenders: Yes.
+📞 337-462-5838
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=30.846970,-93.298334
+
+21. Caldwell American Job Center
+6563 Highway 165, Columbia, LA 71418
+🌐 https://www.wdb83.com/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 318-649-5398 / 318-435-5687
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=32.112959,-92.071900
+
+22. Catahoula American Job Center
+1533 4th Street, Jonesville, LA 71343
+🌐 https://www.wdb60.com/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 318-339-7667
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=31.629107,-91.829739
+
+23. DeSoto/Red River American Job Center
+142 Lake Road, Mansfield, LA 71052
+🌐 https://www.cdconline.org/wioa-job-seekers
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 318-871-2391
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=32.038782,-93.695281
+
+24. East Carroll American Job Center
+409 2nd Street, Suite 6, Lake Providence, LA 71254
+🌐 https://www.wdb83.com/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 318-366-3959
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=32.804761,-91.179422
+
+25. East Jefferson Parish American Job Center
+1801 Airline Highway, Suite F, Metairie, LA 70001
+🌐 https://www.jeffparish.gov/869/Jefferson-Parish-American-Job-Center-Ser
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 504-838-5678
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=29.973810,-90.144560
+
+26. Evangeline American Job Center
+306 West Main Street, Ville Platte, LA 70586
+🌐 https://acadianaworkforce.org/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center. Programs for ex-offenders: Yes.
+📞 337-363-6241
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=30.690423,-92.279180
+
+27. Grant American Job Center
+205 Main Street, Colfax, LA 71417
+🌐 https://www.wdb60.com/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 318-627-3754
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=31.517294,-92.711600
+
+28. Iberia American Job Center
+601 Ember Drive, New Iberia, LA 70560
+🌐 https://acadianaworkforce.org/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 337-347-9537
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=30.036043,-91.867558
+
+29. Iberville/West Baton Rouge American Job Center
+23510 Railroad Avenue, Plaquemine, LA 70764
+🌐 https://www.geauxjobs.org/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 225-687-0969
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=30.289076,-91.236399
+
+30. Jackson American Job Center
+236 Industrial Drive, Jonesboro, LA 71251
+🌐 https://www.wdb83.com/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 318-480-5050
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=32.216020,-92.713760
+
+31. LaSalle American Job Center
+3108 North First Street, Jena, LA 71342
+🌐 https://www.wdb60.com/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 318-992-8264
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=31.673182,-92.125069
+
+32. Lafayette American Job Center
+706 East Vermilion Street, Lafayette, LA 70501
+🌐 https://acadianaworkforce.org/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 337-347-9115
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=30.221008,-92.012502
+
+33. Lincoln/Bienville Parish American Job Center
+307 North Homer Street, Suite 307, Ruston, LA 71270
+🌐 https://www.cdconline.org/wioa-job-seekers
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 318-251-5023
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=32.531133,-92.643918
+
+34. Livingston American Job Center (Serving East Feliciana)
+29940 S. Magnolia Street, P.O Box 1327, Livingston, LA 70754
+🌐 https://www.laworks.net/SLdetails.asp?id==17
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 225-435-0606
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=30.502345,-90.749208
+
+35. Madison American Job Center
+132 Old Hwy 65 South, Tallulah, LA 71282
+🌐 https://www.wdb83.com
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 830-461-8187 (Text Only)
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=32.395501,-91.200040
+
+36. Natchitoches-East American Job Center
+303 Bienville Street, Natchitoches, LA 71457
+🌐 https://www.cdconline.org/wioa-job-seekers
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 318-357-3145
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=31.752090,-93.081642
+
+37. Pointe Coupee and West Feliciana American Job Center
+128 Poydras Street, New Roads, LA 70760
+🌐 https://Www.geauxjobs.org
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 225-638-6356
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=30.694703,-91.436075
+
+38. Richland American Job Center
+146 Christian Drive, Rayville, LA 71269
+🌐 https://www.wdb83.com/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 318-728-3348 ext 303
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=32.459859,-91.757811
+
+39. Sabine American Job Center
+1125 West Mississippi Avenue, Suite A, Many, LA 71449
+🌐 https://www.cdconline.org/wioa-job-seekers
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 318-256-2698
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=31.565779,-93.478759
+
+40. St. Bernard-Tri-Parish Works -
+3700 LaFontaine Sreet, Kane Technology Building, Room A-122, Chalmette, LA 70043
+🌐 https://www.triparishworks.net/jobseekers
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 504-278-6214
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=29.955325,-89.962565
+
+41. St. James American Job Center
+2631 Hwy 20 West, Vacherie, LA 70090
+🌐 https://www.stcharlesparish.gov/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 225-562-2458
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=29.993560,-90.724530
+
+42. St. John American Job Center
+1708 Chantilly Drive, Suite A, LaPlace, LA 70068
+🌐 https://www.stcharlesparish.gov/residents/business-and-career-solutions-center-wia
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 985-543-4118
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=30.080842,-90.500295
+
+43. St. Martin American Job Center
+215 Evangeline Blvd, St. Martinville, LA 70582
+🌐 https://acadianaworkforce.org/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 337-347-9373
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=30.122119,-91.827932
+
+44. St. Mary -East  American Job Center
+900 Youngs Road, Morgan City, LA 70380
+🌐 https://acadianaworkforce.org/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 985-384-4995
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=29.690767,-91.197957
+
+45. St. Mary West American Job Center
+600 Main Street, Franklin, LA 70538
+🌐 https://acadianaworkforce.org/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 337-347-9648
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=29.791595,-91.500267
+
+46. Tensas Parish American Job Center
+205 Hancock Street, St. Joseph, LA 71366
+🌐 https:///www.wdb83.com
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 318-766-3542
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=31.914628,-91.236697
+
+47. Union Parish American Job Center
+303-B East Water Street, Farmerville, LA 71241
+🌐 https://www.wdb83.com/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 318-368-7001
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=32.773262,-92.402716
+
+48. Washington American Job Center
+537 Kentucky Ave, Bogalusa, LA 70427
+🌐 https://www.geauxjobs.org/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 985-545-1050
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=30.785460,-89.855790
+
+49. Webster/Claiborne  Parish American Job Center
+902 Lee Street, Minden, LA 71055
+🌐 https://www.cdconline.org/wioa-job-seekers
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 318-371-3024 ext 104
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=32.632858,-93.283455
+
+50. Winn American Job Center
+103 West Boundary Street, Winnfield, LA 71483
+🌐 https://www.wdb60.com/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 318-628-4641
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=31.926295,-92.644717
+
+51. American Job Center - Work Connection Inc.
+200 Point Street, Houma, LA 70360
+🌐 https://workconnectioninc.org
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 985-876-8990
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=29.596931,-90.744385
+
+52. Bossier and Caddo Parish American Job Center
+4000 Viking Drive, Suite B-1, Bossier City, LA 71111
+🌐 https://www.cdconline.org/wioa-job-seekers
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 318-741-2746
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=32.550843,-93.687748
+
+53. Caddo American Job Center
+2121 Fairfield Avenue, Suite 100, Shreveport, LA 71104
+🌐 https://www.shreveportla.gov/908/Workforce
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 318-676-7788
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=32.491315,-93.750508
+
+54. Calcasieu American Job Center
+2424 3rd Street, Lake Charles, LA 70601
+🌐 https://www.calcasieu.gov/services/human-services/american-job-center/workforce-development-board
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 337-721-4010
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=30.223359,-93.184824
+
+55. Concordia American Job Center
+2100 E E.Wallace Boulevard N, Ferriday, LA 71334
+🌐 https://www.wdb60.com/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 318-719-3450
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=31.628700,-91.556300
+
+56. East Baton Rouge North (Serving Wooddale)
+4523 Plank Road, Baton Rouge, LA 70805
+🌐 https://employbr.com/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 225-358-4579
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=30.491079,-91.156173
+
+57. Morehouse American Job Center
+250 Holt Drive, Bastrop, LA 71220
+🌐 https://www.wdb83.com/career-services
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 318-283-0849
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=32.779650,-91.889360
+
+58. New Orleans American Job Center- Job1 and Job 1Youth Works Center
+1307 Oretha Castle Haley Blvd., New Orleans, LA 70113
+🌐 https://www.job1nola.org
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 504-658-4500
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=29.942376,-90.078667
+
+59. Rapides American Job Center
+5610 B Coliseum Blvd, Alexandria, LA 71303
+🌐 https://rppj.com/departments/office-of-economic-and-workforce-development-oewd/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 318-487-5532
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=31.301700,-92.503500
+
+60. St. Charles AJC-Let`s Work! River Parrish
+737 Paul Maillard Road Suite 2A, Luling, LA 70070
+🌐 https://www.stcharlesparish.gov/residents/business-and-career-solutions-center-wia
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 985-783-5030
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=29.927939,-90.368140
+
+61. St. Landry American Job Center
+1065 Hwy 749, Suite C, Opelousas, LA 70570
+🌐 https://acadianaworkforce.org/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 337-948-1330
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=30.556937,-92.089957
+
+62. St.Tammany-Tri-Parish Works
+520 Old Spanish Trail, Suite 4C:, Slidell, LA 70458
+🌐 https://www.triparishworks.net
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 985-646-3940
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=30.265190,-89.783730
+
+63. West Jefferson American Job Center
+709 Churchill Parkway, Room  244, Avondale, LA 70094
+🌐 https://www.laworks.net/SLDetails.asp?ID=10
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 504-227-1283
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=29.909969,-90.202858

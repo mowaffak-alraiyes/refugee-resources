@@ -44,55 +44,55 @@
 
 8. Catholic Community Services of Southern Arizona Catholic Social Services
 140 W. Speedway Blvd, Suite 130, Tucson, AZ 85705
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (520) 623-0344
 📝 Areas of legal assistance: Adjustment of Status, Asylum applications, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, NACARA, Naturalization/Citizenship, Removal hearings, Special Immigrant Juvenile Status, T visas, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 9. Chicanos Por La Causa
 373 W Prince Rd, Tucson, AZ 85705
 🌐 https://cplc.org/hhs/immigration.php
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 520.918.6782
 📝 Areas of legal assistance: Adjustment of Status, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, Naturalization/Citizenship, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 10. Friendly House, Inc.
 113 W Sherman St, Phoenix, AZ 85003
 🌐 http://www.friendlyhouse.org
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 602-416-7200
 📝 Areas of legal assistance: Adjustment of Status, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, Naturalization/Citizenship, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 11. Global Family Legal Services (Tubac Office)
 29 Tubac Plaza, Tubac, AZ 85646-8001
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (520) 398-3388
 📝 Areas of legal assistance: Adjustment of Status, Asylum applications, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, Naturalization/Citizenship, Special Immigrant Juvenile Status, U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 12. Immigrant Hope - Mesa
 1818 E Southern Ave, Ste 4A, Mesa, AZ 85204
 🌐 https://www.immigranthopemesa.org
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 480-524-8131
 📝 Areas of legal assistance: Adjustment of Status, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, Humanitarian Parole, Naturalization/Citizenship, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 13. International Rescue Committee (Phoenix Office)
 4425 West Olive Avenue, #400, Glendale, AZ 85302-3847
 🌐 http://www.rescue.org/us-program/us-phoenix-az
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization, Employment-based immigrant and non-immigrant petitions
 📞 (602) 433-2440
 📝 Areas of legal assistance: Adjustment of Status, Asylum applications, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Employment-based immigrant and non-immigrant petitions, Family-based petitions, Naturalization/Citizenship, Removal hearings, T visas, Temporary Protected Status (TPS) Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 14. Lutheran Social Services of the Southwest - Refugee & Immigration Services (Tucson Office)
 3777 E. Broadway Blvd , Ste 100, Tucson, AZ 85716
 🌐 http://www.lss-sw.org
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (520) 721-4444
 📝 Areas of legal assistance: Adjustment of Status, Employment authorization, Family-based petitions, Naturalization/Citizenship Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 15. Northern Arizona Immigration Legal Services
 2500 N. Rose St. Ste 102, Flagstaff, AZ 86004
 🌐 https://thinkliteracy.org/nails
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 928-440-5513
 📝 Areas of legal assistance: Adjustment of Status, Asylum applications, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, Naturalization/Citizenship, T visas, U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
@@ -106,7 +106,7 @@
 17. Southern Arizona Legal Aid, Inc.
 2343 E. Broadway Blvd, Suite 200, Tucson, AZ 85719
 🌐 http://www.sazlegalaid.org
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (520) 623-9461
 📝 Areas of legal assistance: Adjustment of Status, Employment authorization, Naturalization/Citizenship, Special Immigrant Juvenile Status, T visas, U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
@@ -198,3 +198,368 @@
 🏥 Services: Immigration legal help
 📞 (602) 252-5225
 📝 Source: U.S. Department of Justice, Recognition and Accreditation roster, report updated November 1, 2026, retrieved 2026-11-09.
+
+33. ARIZONA@WORK  Lake Havasu City (Satellite Office)
+2031 Spawr Circle, Lake Havasu City, AZ 86403
+🌐 https://www.azjobconnection.gov/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 928-854-0350
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=34.508303,-114.344455
+
+34. ARIZONA@WORK - Graham County Business and Workforce Development Center
+626 S. 6th Avenue, Safford, AZ 85546
+🌐 https://arizonaatwork.com/locations/southeastern-arizona/adult-job-seekers
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 928-432-6932
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=32.832475,-109.713859
+
+35. ARIZONA@WORK - Payson
+216 E. Hwy 260, Payson, AZ 85541
+🌐 https://www.navajocountyaz.gov/261/Northeastern-Arizona-Local-Workforce-Dev
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 928-468-9800
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=34.240583,-111.322732
+
+36. ARIZONA@WORK Affiliate Office Prescott Valley
+3262 Bob Drive, Suite 6, Prescott Valley, AZ 86314
+🌐 https://arizonaatwork.com/locations
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 928-759-1669
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=34.588439,-112.315170
+
+37. ARIZONA@WORK City of Phoenix - South
+4635 South Central Avenue, Phoenix, AZ 85040
+🌐 https://arizonaatwork.com/locations
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 602-495-6905
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=33.403897,-112.073191
+
+38. ARIZONA@WORK- Cochise County Business and Workforce Development Center
+515 East 7th Street, Douglas, AZ 85607
+🌐 https://arizonaatwork.com/locations
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 520-364-8906
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=31.341218,-109.554230
+
+39. ARIZONA@WORK-Southeastern Arizona Greenlee County Business and Workforce Development Center
+558 N Coronado Blvd, PO Box 816, Clifton, AZ 85533
+🌐 https://arizonaatwork.com/locations/southeastern-arizona/adult-job-seekers
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 928-439-4632
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=33.056160,-109.311270
+
+40. Arizona Department of Economic Security - Yuma
+1800 East Palo Verde Street, Yuma, AZ 85365
+🌐 https://arizonaatwork.com/locations
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 602-542-9935
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=32.677558,-114.601682
+
+41. Cochise College Human Resources
+901 North Colombo Avenue (Sierra Vista Campus), 4190 W Highway 80, Douglas, AZ 85607 (Douglas Campus), Sierra Vista, AZ 85635
+🌐 https://www.cochise.edu/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 520-515-3623
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=31.560176,-110.248659
+
+42. Cocopah Indian Tribe - Cocopah Vocational Training Center
+14515 S Veterans Drive, Somerton, AZ 85350
+🌐 https://www.cocopah.com/departments.html
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 928-627-8026
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=32.616090,-114.767889
+
+43. Colorado River Indian Tribes Employment Development and Training
+13370 First Avenue, 26600 Mohave Road, Parker, AZ 85344
+🌐 https://www.crit-nsn.gov/critemployeedev/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 928-669-8555
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=34.135943,-114.302823
+
+44. DES Arizona at Work Workforce Service - Tucson - North
+316 W Fort Lowell, Tucson, AZ 85705
+🌐 https://arizonaatwork.com/locations
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 520-638-2230
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=32.264777,-110.976640
+
+45. Department of Economic Security - ARIZONA@WORK East Tucson
+1455 South Alvernon Way, Tucson, AZ 85711
+🌐 https://arizonaatwork.com/locations
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 520-872-9095
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=32.204359,-110.907616
+
+46. Department of Economic Security - DES
+1032 Hopi Avenue, Parker, AZ 85344
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 928-216-8120
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=34.150512,-114.287765
+
+47. Department of Economic Security - Winslow Office
+319 E Third St, 335C (site code), Winslow, AZ 86047
+🌐 https://www.navajocountyaz.gov/261/Northeastern-Arizona-Local-Workforce-Dev
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 928-289-4644
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=35.023010,-110.694718
+
+48. Fort Mojave Indian Tribe Workforce Development
+8490 South Highway 95, Suite 102; PO  Box 5896 (86446), Mohave Valley, AZ 86440
+🌐 https://arizonaatwork.com/locations
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 928-346-1787
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=34.909705,-114.597669
+
+49. Hopi Tribe Career Center
+Main Street off Highway 264, PO Box 123, Kykotsmovi, AZ 86039
+🌐 https://arizonaatwork.com/locations
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 928-734-3531
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=35.745600,-110.527700
+
+50. Hualapai Education and Training Center
+460 Hualapai Way, PO Box 179, Peach Springs, AZ 86434
+🌐 https://hualapai-nsn.gov/services/new-education-page/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 928-769-2200
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=35.538300,-113.420554
+
+51. Martin Luther King Jr Center
+300 South 13th Avenue, Yuma, AZ 85364
+🌐 https://www.ypic.com/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 928-783-9347
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=32.721971,-114.635995
+
+52. Page Employment Service - DES
+1057 Vista Ave, Page, AZ 86040
+🌐 https://arizonaatwork.com/locations/coconino-county/one-stop-job-center-overview
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 928-213-3532
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=36.924657,-111.458426
+
+53. Pascua Yaqui Tribe
+7410 South Camino Vahcom, Pascua Pueblo, Tucson, AZ 85757
+🌐 https://arizonaatwork.com/locations/nineteen-tribal-nations/job-seeker-resources
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 520-879-5840
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=32.116724,-111.070355
+
+54. Pima County Arizona @ Work Youth One Stop Center
+175  W .Irvington Rd., Tucson, AZ 85714-3050
+🌐 https://arizonaatwork.com/locations
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 520-724-9649
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=32.162817,-110.970452
+
+55. Pima County One Stop Kino Veterans Workforce Center
+2801 East Ajo Way, Tucson, AZ 85713
+🌐 https://www.pima.gov/804/Community-Workforce-Development
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 520-724-2646
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=32.178566,-110.930075
+
+56. Salt River Pima-Maricopa Indian Community
+10005 East Osborn Road, Scottsdale, AZ 85256
+🌐 https://srpmic-nsn.gov/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 480-362-7950
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=33.487707,-111.864513
+
+57. San Carlos Apache Tribe-College
+PO BOX 344, San Carlos, AZ 85550
+🌐 https://arizonaatwork.com/locations
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 928-475-2305
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=33.350500,-110.452600
+
+58. San Luis Resource Center
+1435 Main  Street, San Luis, AZ 85349
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center. Programs for ex-offenders: Yes.
+📞 928-236-1230
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=32.504435,-114.786113
+
+59. Somerton Resource Center
+201 North Bingham Avenue, Suite 6, Somerton, AZ 85350
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center. Programs for ex-offenders: Yes.
+📞 928-550-6064
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=32.597732,-114.704780
+
+60. Vista Del Camino Community Center-Career Center
+7700 East Roosevelt St, Scottsdale, AZ 85257
+🌐 https://www.scottsdaleaz.gov/careers/career-services
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 480-312-0060
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=33.458315,-111.914674
+
+61. White Mountain Apache Tribe
+201 E. Walnut Street, Whiteriver, AZ 85941
+🌐 https://arizonaatwork.com/locations
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 928-338-4818
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=33.836795,-109.962174
+
+62. Yavapai Workforce Connection  East County
+1500 East Cherry Street, Suite F, Cottonwood, AZ 86326
+🌐 https://arizonaatwork.com/locations/yavapai-county
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 928-634-3337
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=34.732410,-112.010929
+
+63. ARIZONA@WORK  Bullhead City
+2601 Highway 95, Bullhead City, AZ 86442
+🌐 https://arizonaatwork.com/locations
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 928-758-0702
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=35.090830,-114.599090
+
+64. ARIZONA@WORK - Cochise Business and Workforce Development Center
+2600 East Wilcox Drive, Room H-106, Sierra Vista, AZ 85635
+🌐 https://arizonaatwork.com/locations
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 520-458-9309
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=31.552137,-110.272179
+
+65. ARIZONA@WORK - Santa Cruz County
+610 N Morley Avenue, Nogales, AZ 85621
+🌐 https://santacruzonestop.org/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 520-375-7670
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=31.343076,-110.931480
+
+66. ARIZONA@WORK City of Phoenix - West
+3406 North 51st Avenue, Phoenix, AZ 85031
+🌐 https://arizonaatwork.com/locations/city-phoenix
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 602-495-6906
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=33.488289,-112.169004
+
+67. ARIZONA@WORK Coconino County
+1701 N. Fourth St., Flagstaff, AZ 86004
+🌐 https://des.az.gov/services/employment/job-seekers
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 928-213-3541
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=35.202847,-111.609381
+
+68. ARIZONA@WORK Lake Havasu City - Comprehensive center
+2031 Spawr Circle, Lake Havasu City, AZ 86404
+🌐 https://arizonaatwork.com/locations
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 928-453-0710
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=34.508986,-114.344934
+
+69. ARIZONA@WORK Maricopa County East Valley Campus
+1001 West Southern Avenue, Suite 101, Mesa, AZ 85210
+🌐 https://arizonaatwork.com/locations
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 602-372-9700
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=33.392193,-111.842766
+
+70. ARIZONA@WORK Maricopa County West Valley Career Center
+4425 W Olive Ave Avenue, Suite 190, Glendale, AZ 85032
+🌐 https://arizonaatwork.com/locations
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 602-372-4200
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=33.566425,-112.153670
+
+71. ARIZONA@WORK Pinal County Business and Career Center
+820 E. Cottonwood Lane, Building E, Casa Grande, AZ 85122
+🌐 https://arizonaatwork.com/locations
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 520-509-3555
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=32.895314,-111.742779
+
+72. ARIZONA@WORK Yuma County
+3826 W. 16th Street, Yuma, AZ 85364
+🌐 https://arizonaatwork.com/locations
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 928-329-0990 Ext: 2001 or 8011
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=32.698490,-114.665614
+
+73. American Job Center @ Yavapai College
+1100 E Sheldon Street, Prescott, AZ 86301
+🌐 https://www.yc/edu/amjc
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 928-776-2038
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=34.546708,-112.456097
+
+74. Arizona Department of Economic Security - Show Low
+20 E. White Mountain Blvd, Pinetop, AZ 85935
+🌐 https://www.navajocountyaz.gov/261/Northeastern-Arizona-Local-Workforce-Dev
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 928-532-4326
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=34.142381,-109.953675
+
+75. Gila River Indian Community
+192 South Skill Center Road, Suite 208; PO Box 97, Sacaton, AZ 85147
+🌐 https://arizonaatwork.com/locations
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 520-563-3387/88
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=33.353600,-111.432200
+
+76. Globe Comprehensive One-Stop
+5515 South Apache Avenue, Suite 200, Globe, AZ 85501
+🌐 https://www.gilacountyaz.gov/index.php
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 928-425-7631
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=33.413882,-110.812903
+
+77. Kingman Comprehensive Job Center
+700 West Beale Street, PO Box 7000 Zip 86402-7000, Kingman, AZ 86402
+🌐 https://arizonaatwork.com/locations
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 928-753-0723
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=35.190675,-114.065399
+
+78. Sullivan Jackson Employment Center
+400 East 26th Street, Tucson, AZ 85713
+🌐 https://www.pima.gov/988/Sullivan-Jackson-Employment-Center
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 520-724-7300
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=32.202434,-110.963611

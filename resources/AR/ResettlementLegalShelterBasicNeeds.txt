@@ -8,21 +8,21 @@
 2. Aiding Survivors of Human Trafficking and Child Abuse
 1200 W Walnut St, Suite 3409, Rogers, AR 72756
 🌐 https://aidarkansas.com/
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (479) 925-9095
 📝 Areas of legal assistance: Adjustment of Status, Asylum applications, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, Naturalization/Citizenship, Removal hearings, Special Immigrant Juvenile Status, T visas, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 3. Catholic Immigration Services - Springdale
 2022 W. Sunset Ave, Springdale, AR 72762
 🌐 https://www.dolr.org/catholic-charities/immigration-springdale
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (479) 927-1996
 📝 Areas of legal assistance: Adjustment of Status, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, Naturalization/Citizenship, T visas, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 4. University of Arkansas School of Law - Immigration Clinic
 1045 W. Maple St., 107 Waterman Hall, Fayetteville, AR 72701
 🌐 https://law.uark.edu/service-outreach/clinics/immigration-clinic.php
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (479) 575-3056
 📝 Areas of legal assistance: Adjustment of Status, Asylum applications, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, NACARA, Naturalization/Citizenship, Removal hearings, Special Immigrant Juvenile Status, T visas, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
@@ -49,3 +49,137 @@
 🏥 Services: Immigration legal help
 📞 (479) 927-1996
 📝 Source: U.S. Department of Justice, Recognition and Accreditation roster, report updated November 1, 2026, retrieved 2026-11-09.
+
+9. Arkansas Workforce Center at Camden
+237 Jackson St. SW, P.O. Box 717, Camden, AR 71701
+🌐 https://www.sautech.edu/adult-education
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 870-836-5024
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=33.583590,-92.831180
+
+10. Arkansas Workforce Center at Crossett
+304 North Alabama, PO Box 1220, Crossett, AR 71635
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 870-619-4737
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=33.132331,-91.963072
+
+11. Arkansas Workforce Center at Fayetteville
+2153 East Joyce Boulevard, Suite 201, Fayetteville, AR 72701
+🌐 https://nwaedd.org/workforce-development/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 479-521-5730
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=36.119239,-94.130634
+
+12. Arkansas Workforce Center at Harrison
+818 N. Hwy. 62-65, Harrison, AR 72601
+🌐 https://nwaedd.org/workforce-development/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 870-741-8236
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=36.252967,-93.122421
+
+13. Arkansas Workforce Center at Lake Village
+103 Main Street, PO Box 806, Lake Village, AR 71653
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 870-619-4744
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=33.330776,-91.281936
+
+14. Arkansas Workforce Center at Lonoke
+902 N. Center Street, P.O. Box 300, Lonoke, AR 72086
+🌐 https://www.workforcear.com
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 501-676-2721
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=34.791530,-91.900510
+
+15. Arkansas Workforce Center at Monticello
+477 S.  Main Street, Monticello, AR 71655
+🌐 https://dws.arkansas.gov/workforce-services/arkansas-workforce-centers/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 870-224-7075
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=33.620665,-91.791079
+
+16. Arkansas Workforce Center at Morrilton
+104 E Railroad Ave, Morrilton, AR 72110
+🌐 https://wcapdd.org/workforce-centers
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 501-354-9793
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=35.152069,-92.744902
+
+17. Arkansas Workforce Center at North Little Rock Pulaski County
+324 W Pershing Blvd., Suite 1, North Little Rock, AR 72114
+🌐 https://www.workforcear.com/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 501-376-4119
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=34.779152,-92.270336
+
+18. Arkansas Workforce Center at Fort Smith
+616 Garrison Ave, Suite 101, PO Box 1987, Fort Smith, AR 72901
+🌐 https://dws.arkansas.gov/workforce-services/arkansas-workforce-centers/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 479-783-0231
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=35.386455,-94.424879
+
+19. Arkansas Workforce Center at Hope
+205 Smith Road, Suite A, Hope, AR 71801
+🌐 https://dws.arkansas.gov/workforce-services/arkansas-workforce-centers/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 870-777-3421
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=33.696967,-93.593992
+
+20. Arkansas Workforce Center at Hot Springs
+201 Market St, Suite 300,  PO Box 2278 (71914), Hot Springs, AR 71901
+🌐 https://wcapdd.org/workforce-centers
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 501-525-3450
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=34.507643,-93.054938
+
+21. Arkansas Workforce Center at Jonesboro
+2311 E. Nettleton Avenue, Jonesboro, AR 72401
+🌐 https://www.neaworks.com/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 870-935-5594
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=35.827600,-90.676456
+
+22. Arkansas Workforce Center at Little Rock
+5401 S. University Ave., P.O. Box 4970 (72214), Little Rock, AR 72209
+🌐 https://dws.arkansas.gov/workforce-services/arkansas-workforce-centers/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 501-682-0228
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=34.700434,-92.344461
+
+23. Arkansas Workforce Center at Russellville
+104 S. Rochester Avenue, Russellville, AR 72801
+🌐 https://wcapdd.org/workforce-centers
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 479-968-2784
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=35.277408,-93.112912
+
+24. Arkansas Workforce Center at Searcy
+501 W. Arch Ave., Searcy, AR 72143
+🌐 https://dws.arkansas.gov/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 501-305-7223
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=35.249822,-91.742257
+
+25. Arkansas Workforce Center at West Memphis
+2003 W Broadway, North Campus; PO Box 1928, West Memphis, AR 72301
+🌐 https://dws.arkansas.gov/workforce-services/arkansas-workforce-centers/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 870-400-2269
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=35.146824,-90.233488

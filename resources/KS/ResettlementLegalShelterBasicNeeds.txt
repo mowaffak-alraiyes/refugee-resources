@@ -24,42 +24,42 @@
 5. Catholic Charities of Northeast Kansas - La Luz Center for Legal Assistance
 600 Minnesota Avenue, Kansas City, KS 66101
 🌐 http://www.catholiccharitiesks.org
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (913) 621-1504
 📝 Areas of legal assistance: Adjustment of Status, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, Naturalization/Citizenship, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 6. Catholic Charities of Southwest Kansas
 705 Ballinger St, Garden City, KS 67846
 🌐 https://www.catholiccharitiesswks.org
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 620-272-0010
 📝 Areas of legal assistance: Adjustment of Status, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, Naturalization/Citizenship, Temporary Protected Status (TPS) Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 7. Catholic Charities Wichita Immigration Services
 437 N. Topeka St., Wichita, KS 67202
 🌐 http://www.catholiccharitieswichita.org
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization, Employment-based immigrant and non-immigrant petitions
 📞 (316) 264-0282
 📝 Areas of legal assistance: Adjustment of Status, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Employment-based immigrant and non-immigrant petitions, Family-based petitions, Humanitarian Parole, Naturalization/Citizenship, Temporary Protected Status (TPS), Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 8. El Centro de Servicios Para Hispanos
 134 NE Lake, Topeka, KS 66616
 🌐 http://www.elcentrooftopeka.org
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (785) 232-8207
 📝 Areas of legal assistance: Adjustment of Status, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, Naturalization/Citizenship Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 9. Immigrant Connection, Inc.
 116 E Chestnut St #106, Garden City, KS 67846
 🌐 https://www.immigrantconnectioninc.org
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 620-277-9998
 📝 Areas of legal assistance: Adjustment of Status, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, Humanitarian Parole, NACARA, Naturalization/Citizenship, Special Immigrant Juvenile Status, Special Immigrant Visa (SIV), T visas, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 10. Immigrant Connection, Inc.
 15320 S Ridgeview Rd, Olathe, KS 66062
 🌐 http://www.immigrantconnectioninc.org
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (913) 210-1776
 📝 Areas of legal assistance: Adjustment of Status, Asylum applications, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, NACARA, Naturalization/Citizenship, Special Immigrant Juvenile Status, Special Immigrant Visa (SIV), T visas, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
@@ -105,3 +105,162 @@ The Expatriates Building 1701 S. Broadway Avenue, Wichita, KS 67211
 🏥 Services: Immigration legal help
 📞 (316) 351-5495
 📝 Source: U.S. Department of Justice, Recognition and Accreditation roster, report updated November 1, 2026, retrieved 2026-11-09.
+
+18. Cowley Workforce Center
+221 West Chestnut Ave, Arkansas City, KS 67005
+🌐 https://workforce-ks.com/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 620-441-5313
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=37.063264,-97.041301
+
+19. KANSASWORKS Southeast - Emporia
+215 W. 6th Ave, Suite 107, Emporia, KS 66801
+🌐 https://sekworks.org/emporia/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center. Programs for ex-offenders: Yes.
+📞 620-342-3355
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=38.404852,-96.182944
+
+20. KANSASWORKS Southeast - Independence
+2615 West Main Street, Suite 111, Independence, KS 67301
+🌐 https://www.kansasworks.com/office_contacts/8700
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 620-332-5904
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=37.223938,-95.738869
+
+21. Leavenworth County Workforce Center
+1901 Spruce Street, Suite 100, Leavenworth, KS 66048
+🌐 https://workforcepartnership.com/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 913-600-7015
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=39.309283,-94.948608
+
+22. Sumner County Workforce Center
+215 S Washington, Wellington, KS 67152
+🌐 https://workforce-ks.com/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 3167716633
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=37.264095,-97.397537
+
+23. Butler Workforce Center
+201 E. Central, El Dorado, KS 67042-3180
+🌐 https://workforce-ks.com/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 316-321-2350
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=37.816605,-96.848043
+
+24. Colby Workforce Center
+350 South Range, Suite 5, Colby, KS 67701
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 785-493-8018
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=39.392130,-101.055482
+
+25. Johnson County Workforce Center
+8535 Bluejacket Street, Lenexa, KS 66214-1656
+🌐 https://workforcepartnership.com/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 913-577-5900
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=38.973012,-94.711172
+
+26. Junction City Workforce Center
+1012 A West 6th Street, Junction City, KS 66441-3998
+🌐 https://www.kansasworks.com/office_contacts/3720
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 785-762-8870
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=39.029027,-96.847644
+
+27. KANSASWORKS Dodge City
+236 N. San Jose Dr., RM 45A, Dodge City, KS 67801
+🌐 https://www.kansasworks.com/office_contacts/6301
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 620-227-2149
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=37.757700,-100.018700
+
+28. KANSASWORKS Garden City
+107 East Spruce Street, Garden City, KS 67846-0994
+🌐 https://www.kansasworks.com/office_contacts/6600
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 620-276-2339
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=37.969726,-100.872879
+
+29. KANSASWORKS Great Bend
+1025 Main Street, Great Bend, KS 67530-4429
+🌐 https://www.kansasworks.com/office_contacts/6500
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 620-793-5445
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=38.361609,-98.765156
+
+30. KANSASWORKS Hays
+332 East 8th Street, Hays, KS 67601-4145
+🌐 https://www.kansasworks.com/office_contacts/4500
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 785-625-5654
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=38.868697,-99.327070
+
+31. KANSASWORKS Hutchinson
+609 East 14th, Hutchinson, KS 67501
+🌐 https://www.kansasworks.com/office_contacts/6101
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 620-665-3559
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=38.068602,-97.919436
+
+32. KANSASWORKS Salina
+631 E Crawford, Suite 221, Salina, KS 67401
+🌐 https://www.kansasworks.com/office_contacts/4101
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 785-827-0385
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=38.827743,-97.601766
+
+33. KANSASWORKS Southeast - Chanute
+4101 S Ross Ln, Chanute, KS 66720
+🌐 https://sekworks.org/chanute/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 620-432-0439
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=37.639446,-95.459465
+
+34. KANSASWORKS Topeka Workforce Center
+1430 SW Topeka Boulevard, Topeka, KS 66612
+🌐 https://www.kansasworks.com/office_contacts/3101
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 785-235-5627
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=39.040830,-95.682759
+
+35. Kansas WorkforceONE
+1005 E. Jefferson, P.O. Box 267, Pittsburg, KS 66762
+🌐 https://sekworks.org/pittsburg/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 620-231-4250
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=37.400322,-94.687462
+
+36. Manhattan Workforce Center
+322 Houston St, Suite 112, Manhattan, KS 66502-6111
+🌐 https://www.kansasworks.com/office_contacts/3701
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 785-539-5691
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=39.178597,-96.561277
+
+37. Wichita Workforce Center
+2021 N. Amidon, Suite 1100, Wichita, KS 67203
+🌐 https://workforce-ks.com/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 316-771-6800
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=37.719445,-97.363120

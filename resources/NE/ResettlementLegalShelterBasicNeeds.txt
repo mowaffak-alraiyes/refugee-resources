@@ -33,28 +33,28 @@
 7. Catholic Charities of Omaha - Immigration Legal Services
 5211 S. 31st Street, Omaha, NE 68107
 🌐 http://www.ccomaha.org/what-we-do/immigration-legal-assistance.html
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (402) 939-4615
 📝 Areas of legal assistance: Adjustment of Status, Asylum applications, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, Humanitarian Parole, Naturalization/Citizenship, Removal hearings, T visas, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 8. Catholic Social Services of Southern Nebraska (Lincoln Office)
 2241 O St., Lincoln, NE 68510
 🌐 http://www.cssisus.org
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (402) 474-1600
 📝 Areas of legal assistance: Adjustment of Status, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Naturalization/Citizenship Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 9. Center for Legal Immigration Assistance (CLIA)
 3047 N 70th Street, Lincoln, NE 68507
 🌐 https://clianeb.org
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (402) 471-1777
 📝 Areas of legal assistance: Adjustment of Status, Asylum applications, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, Naturalization/Citizenship, Removal hearings, Special Immigrant Juvenile Status, T visas, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 10. Centro Hispano Comunitario de Nebraska
 3214 25th St, Columbus, NE 68601
 🌐 https://www.centrohispanone.org
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (402) 564-2110
 📝 Areas of legal assistance: Adjustment of Status, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, Naturalization/Citizenship, Temporary Protected Status (TPS) Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
@@ -68,21 +68,21 @@
 12. Lutheran Family Services - Lutheran Immigration Services (Grand Island Office)
 1811 W. 2nd Street, Suite 440, Grand Island, NE 68803
 🌐 http://www.lfsneb.org/community/immigration.asp
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (308) 382-4255
 📝 Areas of legal assistance: Adjustment of Status, Asylum applications, Consular Processing, Employment authorization, Family-based petitions, Habeas Corpus, NACARA, Naturalization/Citizenship, Removal hearings, Special Immigrant Juvenile Status, T visas, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 13. Lutheran Family Services of Nebraska (Omaha Office)
 1941 South 42nd Street, Ste. 402, The Center Mall, Omaha, NE 68105
 🌐 https://www.lfsneb.org/service/immigration-legal-services/
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (402) 536-3529
 📝 Areas of legal assistance: Adjustment of Status, Asylum applications, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, NACARA, Naturalization/Citizenship, Removal hearings, Special Immigrant Juvenile Status, T visas, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 14. Multicultural Coalition
 325 W Fourth St., Grand Island, NE 68803
 🌐 https://www.mcofgi.org/
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 308-385-5242
 📝 Areas of legal assistance: Adjustment of Status, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Naturalization/Citizenship Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
@@ -212,3 +212,67 @@
 🏥 Services: Immigration legal help
 📞 (402) 345-6555
 📝 Source: U.S. Department of Justice, Recognition and Accreditation roster, report updated November 1, 2026, retrieved 2026-11-09.
+
+36. NE Department of Labor, Scottsbluff Office
+505 A Broadway Avenue, Suite 300, Scottsbluff, NE 69361-2708
+🌐 https://dol.nebraska.gov/ContactUs
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center. Programs for ex-offenders: Yes.
+📞 308-632-1420
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=41.880700,-103.654000
+
+37. Nebraska City Career Center
+917 Wildwood Lane, Suite 104, Nebraska City, NE 68410
+🌐 https://dol.nebraska.gov/ReemploymentServices
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 402-873-3384
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=40.669153,-95.883997
+
+38. American Job Center, Department of Labor - Grand Island
+203 E. Stolley Park Road, Suite A, Grand Island, NE 68801
+🌐 https://nrrs.ne.gov/resource/29851/72
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 308-385-6300
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=40.901582,-98.337789
+
+39. Columbus Career Center
+3100 23rd Street, Suite 22, Columbus, NE 68601-4254
+🌐 https://dol.nebraska.gov/ReemploymentServices
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 402-564-7160
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=41.438749,-97.365615
+
+40. Heartland Workforce Solutions
+5752 Ames Avenue, Omaha, NE 68104
+🌐 https://hws-ne.org/career-seekers/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 402-444-4700
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=41.299632,-96.002016
+
+41. Lincoln American Job Center (Lancaster and Saunders Counties)
+1330 N Street, Suite A, Lincoln, NE 68508
+🌐 https://ajc.lincoln.ne.gov/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 402-441-1640 Ext. 1
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=40.812801,-96.701809
+
+42. Nebraska Department of Labor Beatrice Career Center
+2317 North 6th st., Suite 3, Beatrice, NE 68310-1408
+🌐 https://dol.nebraska.gov/ReemploymentServices
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 402-223-6060 Ext: Reemployment Services #5
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=40.290231,-96.748972
+
+43. North Platte Career Center
+600 E. Francis, Suite 9, North Platte, NE 69101
+🌐 https://dol.nebraska.gov/ReemploymentServices
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 308-535-8320
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=41.122504,-100.757789

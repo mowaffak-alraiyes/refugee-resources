@@ -83,27 +83,27 @@
 14. Catholic Charities Diocese of Owensboro
 600 Locust St, Owensboro, KY 42301
 🌐 https://owensborodiocese.org/catholic-charities/
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 270-852-8367
 📝 Areas of legal assistance: Adjustment of Status, Asylum applications, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, Humanitarian Parole, NACARA, Naturalization/Citizenship, P1 or P2 for Afghans, Special Immigrant Juvenile Status, Special Immigrant Visa (SIV), T visas, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 15. Catholic Charities of Louisville, Inc. - Immigration Legal Services
 435 E. Broadway, Louisville, KY 40202
 🌐 http://www.cclou.org
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization, Employment-based immigrant and non-immigrant petitions
 📞 (502) 637-9097
 📝 Areas of legal assistance: Adjustment of Status, Asylum applications, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Employment-based immigrant and non-immigrant petitions, Family-based petitions, Humanitarian Parole, Naturalization/Citizenship, Removal hearings, T visas, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 16. Community Response Coalition of Kentucky Inc.
 153 Patchen Dr, St 39, Lexington, KY 40517
 🌐 https://www.crc4me.org/
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📝 Areas of legal assistance: Asylum applications, Employment authorization Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 17. Kentucky Refugee Ministries, Inc. (Louisville Office)
 969-B Cherokee Rd, Louisville, KY 40204
 🌐 http://www.kyrm.org
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (502) 479-9180
 📝 Areas of legal assistance: Adjustment of Status, Asylum applications, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, Naturalization/Citizenship Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
@@ -138,14 +138,14 @@
 22. Maxwell Street Legal Clinic - Kentucky Equal Justice Center
 315 Lexington Ave, Lexington, KY 40508
 🌐 https://www.kyequaljustice.org/maxlegalaid
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization
 📞 (859) 233-3840
 📝 Areas of legal assistance: Adjustment of Status, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, Naturalization/Citizenship, Special Immigrant Juvenile Status, T visas, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 23. Union of Refugees and Immigrants for Development in America, Inc (URIDA)
 325 Emmett Ave , Bowling Green , KY 42101
 🌐 http://www.uridabgky.com
-🏥 Services: Immigration legal services
+🏥 Services: Immigration legal services, Employment authorization, Employment-based immigrant and non-immigrant petitions
 📝 Areas of legal assistance: Asylum applications, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Employment-based immigrant and non-immigrant petitions, Family-based petitions, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
 
 24. Community Response Coalition of Kentucky Inc.
@@ -177,3 +177,465 @@
 🏥 Services: Immigration legal help
 📞 (270) 781-8336
 📝 Source: U.S. Department of Justice, Recognition and Accreditation roster, report updated November 1, 2026, retrieved 2026-11-09.
+
+29. Allen county Public Library
+106 Public Square, Scottsville, KY 42164
+🌐 https://southcentralworkforce.com
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 271-237-3861
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=36.753015,-86.191243
+
+30. Anderson Public Library
+114 N. Main Steet, Lawrenceburg, KY 40342
+🌐 https://www.ckycareers.com/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 502-839-6420
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=38.038374,-84.896431
+
+31. Bourbon Public Library
+701 High Street, Paris, KY 40361
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 859-987-4419
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=38.210683,-84.252806
+
+32. Campbell County Public Library
+3920 Alexandria Pike, Cold Springs, KY 41076
+🌐 https://www.nkcareercenter.org/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 859-781-6166
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=39.023898,-84.443949
+
+33. Clark Public Library
+370 S Burns Avenue, Winchester, KY 40391
+🌐 https://www.ckycareers.com/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 859-744-5661
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=37.988509,-84.188479
+
+34. Covington CVG Airport
+3087 Terminal Drive, Hebron, KY 41048
+🌐 https://www.nkcareercenter.org/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 859-767-6952
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=39.055331,-84.656141
+
+35. Cumberland County Office
+213 Upper River Street, Burkesville, KY 42717
+🌐 https://cumberlandsworkforce.com
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 270-894-9316
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=36.789260,-85.368328
+
+36. Edmonson County Public Library (Access Point)
+280 Ferguson Street, Brownsville, KY 42210
+🌐 https://kcc.ky.gov/Pages/Locations.aspx
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 270-597-2146
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=37.192693,-86.257129
+
+37. Estill Public Library
+184 BroadwayStreet, Irvine, KY 40336
+🌐 https://www.ckycareers.com/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 606-723-3030
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=37.699744,-83.972038
+
+38. Ft. Campbell Career Center (Access Point)
+5661 Screaming Eagle Blvd, Fort. Campbell, KY 42223
+🌐 https://www.wkworkforce.work/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 270-798-5000
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=36.621200,-87.442900
+
+39. Gateway Community Action
+151 University Drive, PO Box 367, West Liberty, KY 41472
+🌐 https://ekcep.org/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 606-743-3133
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=37.900500,-83.289500
+
+40. Hancock County Career Center
+1605 US Highway 60 West, Hawesville, KY 42348
+🌐 https://grad.com
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 270-927-8066
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=37.912653,-86.782312
+
+41. Harrison Public Library (Access Point)
+104 North Main Street, Cynthiana, KY 41031
+🌐 https://www.ckycareers.com/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 859-234-4881
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=38.390828,-84.297041
+
+42. Henderson County Public Library
+101 South Main Street, Henderson, KY 42420
+🌐 https://gradd.com
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 270-826-3712
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=37.838161,-87.594452
+
+43. Jessamine Public Libraries
+600 S. Main Street, Nicholasville, KY 40356
+🌐 https://www.ckycareers.com/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 859-885-3523
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=37.873116,-84.575385
+
+44. Kenton County Public Library- Erlanger Branch (Access Point)
+401 Kenton lane Road, Erlanger, KY 41018
+🌐 https://www.nkcareercenter.org/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 859-962-4000
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=39.029715,-84.593707
+
+45. Kentuck Career Center- Monticello
+121 N Main Street, Monticello, KY 42633
+🌐 https://cumberlandsworkforce.com
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 606-348-0075
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=36.831027,-84.848367
+
+46. Kentucky Career Center - Corbin
+103 Northside Plaza, Corbin, KY 40701
+🌐 https://cumberlandsworkforce.com
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 606-528-3460
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=36.962162,-84.092018
+
+47. Kentucky Career Center - Danville
+121 East Broadway, Danville, KY 40422
+🌐 https://www.ckycareers.com/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 859-239-7004
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=37.647238,-84.768293
+
+48. Kentucky Career Center - Florence
+8020 Veterans Memorial Dr, Florence, KY 41042
+🌐 https://www.nkcareercenter.org/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 859-372-8400
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=38.996449,-84.641652
+
+49. Kentucky Career Center - Harlan
+319 Camden Street, PO Box 1556, Harlan, KY 40831
+🌐 https://ekcep.org/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 606-573-5335
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=36.842687,-83.327439
+
+50. Kentucky Career Center - Jackson County - McKee
+5748 Highway 290, McKee, KY 40447
+🌐 https://ekcep.org/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 606-364-4484
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=37.402500,-84.005000
+
+51. Kentucky Career Center - JobNet
+75 Railroad Street, Madisonville, KY 42431
+🌐 https://www.wkworkforce.work/career-center-services
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 270-821-9966
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=37.327594,-87.500973
+
+52. Kentucky Career Center - Laurel County
+100 University Drive, KCTCS - London Campus, London, KY 40741
+🌐 https://cumberlandsworkforce.com
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 606-330-2115
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=37.117309,-84.061369
+
+53. Kentucky Career Center - Louisa
+180 Bulldog Lane, Louisa, KY 41230
+🌐 https://ekcep.org/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 606-638-4949
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=38.097968,-82.604190
+
+54. Kentucky Career Center - Manchester
+1535 Shamrock Road, Manchester, KY 40962
+🌐 https://ekcep.org/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 606-598-5127
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=37.153400,-83.753900
+
+55. Kentucky Career Center - Maysville
+201 Government St, Suite 101, Maysville, KY 41056
+🌐 https://tencocareercenter.com
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center. Programs for ex-offenders: Yes.
+📞 606-564-3347, ext. 42822
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=38.646139,-83.760991
+
+56. Kentucky Career Center - Mount Sterling
+108 East Locust Street, Suite 3, Mt. Sterling, KY 40353
+🌐 https://tencocareercenter.com/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 859-274-8480
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=38.055167,-83.939973
+
+57. Kentucky Career Center - Paducah
+416 S. Sixth Street, Paducah, KY 42003
+🌐 https://www.wkworkforce.work/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 270-575-7000
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=37.082092,-88.597912
+
+58. Kentucky Career Center - Pineville
+129 Pine St, PO Box 159, Pineville, KY 40977
+🌐 https://kcc.ky.gov/Pages/Locations.aspx
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 606-337-3044, Ext. 208
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=36.763840,-83.693305
+
+59. Kentucky Career Center - Russell County
+2384 Lakeway Dr, PO Box 1570, Russell Springs, KY 42642
+🌐 https://cumberlandsworkforce.com
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 270-866-6733 or 270-866-8435
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=37.066685,-85.073246
+
+60. Kentucky Career Center JobSight
+464 Court Square, Barbourville, KY 40906
+🌐 https://ekcep.org/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 606-546-2639
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=36.866463,-83.888194
+
+61. Kentucky Career Center JobSight, Whitesburg
+417 Highway 2034, Whitesburg, KY 41858
+🌐 https://ekcep.org/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 606-633-3154
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=37.116157,-82.797162
+
+62. Kentucky Career Center Prestonsburg - Career Development Office
+686 North Lake Drive, Prestonsburg, KY 41653
+🌐 https://ekcep.org/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 606-889-1772
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=37.675498,-82.778243
+
+63. Lincoln Public Library
+201 Lancaster Street, Stanford, KY 40484
+🌐 https://www.ckycareers.com/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 606-365-7513
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=37.530425,-84.662278
+
+64. Logan County Semaritan
+602 E 4th Street, Russellville, KY 42276
+🌐 https://southcentralworkforce.com
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 270-725-9002
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=36.847185,-86.879515
+
+65. McCreary OET/WIOA Local Office
+141 College St., Whitley City, KY 42653
+🌐 https://cumberlandsworkforce.com
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 606-376-7512
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=36.715097,-84.467846
+
+66. McLean County Public Library
+116 East 2nd Street, Livermore, KY 42352
+🌐 https://gradd.com
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 270-278-9184
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=37.487338,-87.135103
+
+67. Middle Kentucky Community Action Partnership, Inc.
+500 Brown Street, Jackson, KY 41339
+🌐 https://ekcep.org/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center. Programs for ex-offenders: Yes.
+📞 606-666-2369
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=37.553401,-83.383497
+
+68. Monroe County Public Library
+500 W 4th Street, Tompkinsville, KY 42167
+🌐 https://southcentralworkforce.com
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 270-487-5301
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=36.705161,-85.697122
+
+69. Nicholas Publoic Library
+223 N Broadway St., Carlisle, KY 40311
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 859-289-5595
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=38.312633,-84.027296
+
+70. Ohio County Career Center
+130 East Washington Street, Suite 105, Hartford, KY 42347
+🌐 https://gradd.com
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 270-298-4408
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=37.451150,-86.906767
+
+71. Paul Sawyer Library (Access Point)
+318 Wapping Street, Frankfort, KY 40601
+🌐 https://www.ckycareers.com/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 502-352-2665
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=38.197906,-84.879681
+
+72. Pikeville - Office of Vocational Rehabilitation
+138 College ST, Pikeville, KY 41501
+🌐 https://ekcep.org/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 606-433-7618
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=37.476580,-82.521050
+
+73. VA.Regional Benefit Office -Transition Assistance Program (TAP)
+26 Persshing Drive, Graham Hall Annex Bldg. 1379 Department of Veterans Affairsd, Fort Knox, KY 40121
+🌐 https://ltcareercenter.org/
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 502-287-5459
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=37.894886,-85.957582
+
+74. Warren County Adult Education;SC Ky technical College-(Access Point)
+1845 Loop Drive, Bowling Green, KY 42101
+🌐 https://southcentral.kctcs.edu/workforce-solutions/adult-education/index.aspx
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 270-901-1089
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=36.984813,-86.479115
+
+75. Webster County Public Library (Access Point)
+101 KY-132, Dixon, KY 42409
+🌐 https://gradd.com
+🏥 Services: Job search and employment assistance. Program type: Affiliate American Job Center.
+📞 270-639-9171
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=37.517619,-87.688599
+
+76. Kentucky Career Center - Ashland
+1844 Carter Ave, Ashland, KY 41101
+🌐 https://tencocareercenter.com
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 606-920-2024
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=38.476285,-82.637531
+
+77. Kentucky Career Center - Bowling Green
+803 Chestnut St, Bowling Green, KY 42101
+🌐 https://kcc.ky.gov/Pages/Locations.aspx
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 270-746-7425
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=36.992778,-86.438515
+
+78. Kentucky Career Center - Covington
+1324 Madison Avenue, Covington, KY 41011
+🌐 https://www.nkcareercenter.org/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 859-292-6666
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=39.075460,-84.507600
+
+79. Kentucky Career Center - Green River
+3108 Fairview Drive, Owensboro, KY 42303
+🌐 https://www.kccgreenriver.com
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 270-687-7297
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=37.747168,-87.061458
+
+80. Kentucky Career Center - Hopkinsville
+110 Riverfront Dr, Hopkinsville, KY 42240
+🌐 https://www.wkworkforce.work/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 270-889-6509
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=36.870710,-87.488030
+
+81. Kentucky Career Center - Lexington
+2473 Fortune Dr, Suite 180, Lexington, KY 40509
+🌐 https://www.ckycareers.com/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 859-267-2223
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=38.031901,-84.445979
+
+82. Kentucky Career Center - Lincoln Trail
+233 Ring Rd Suite 100, Elizabethtown, KY 42701
+🌐 https://ltcareercenter.org/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 270-766-5115
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=37.692274,-85.912408
+
+83. Kentucky Career Center - Morehead
+1225 US 60 W, Suite 106, Morehead, KY 40351
+🌐 https://tencocareercenter.com
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 606-783-8525
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=38.162446,-83.447649
+
+84. Kentucky Career Center Hazard
+412 Roy Campbell Dr, Hazard, KY 41701
+🌐 https://kcc.ky.gov/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 606-436-3161
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=37.274707,-83.226196
+
+85. Kentucky Career Center-  Somerset
+410 E Mount Vernon St., PO Box 29, Somerset, KY 42502-0029
+🌐 https://cumberlandsworkforce.com
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 502-764-1940
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=37.093781,-84.600224
+
+86. Norton Healthcare Goodwill Opportunity Campus
+2820 W Broadway, Louisville, KY 40211
+🌐 https://www.kentuckianaworks.org/
+🏥 Services: Job search and employment assistance. Program type: Comprehensive American Job Center.
+📞 502-388-3010
+📝 Source: CareerOneStop, U.S. Department of Labor, Comprehensive and Affiliate American Job Centers download, file modified September 18, 2026, retrieved November 12, 2026.
+https://maps.google.com/?q=38.247843,-85.799644
