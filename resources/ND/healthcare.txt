@@ -4,6 +4,7 @@
 301 Np Ave N, Fargo, ND, 58102-4835
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Dental; Health Care for the Homeless
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 50 hours per week.
 📞 701-271-3344
 
 🌐 https://www.famhealthcare.org
@@ -52,6 +53,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.northlandchc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 701-363-2296
 
 9. Rolette Clinic
@@ -59,6 +61,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.northlandchc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 701-246-3391
 
 10. Bismarck Clinic
@@ -110,6 +113,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.northlandchc.org/
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 701-448-2054
 
 18. CCCHC Killdeer Clinic
@@ -1060,6 +1064,7 @@ US-281 N, Cando, ND 58324-6365
 164. COAL COUNTRY COMMUNITY HEALTH CENTER - BEULAH
 1312 Highway 49 N, Beulah, ND 58523-6038
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 47 hours per week.
 📞 (701) 873-4445
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -1072,6 +1077,7 @@ US-281 N, Cando, ND 58324-6365
 166. NORTHLAND COMMUNITY HEALTH CENTER
 18 Main St SW, Bowbells, ND 58721-7711
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 32 hours per week.
 📞 (701) 377-4758
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 

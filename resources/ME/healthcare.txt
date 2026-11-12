@@ -17,6 +17,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.portlandcommunityhealthcenter.org
 🏥 Services: Ryan White HIV/AIDS Program; Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 55 hours per week.
 📞 207-874-2141
 
 4. Mobile Van #1
@@ -49,6 +50,7 @@
 15 Oak St, Springvale, ME, 04083-1926
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 48 hours per week.
 📞 207-324-0546
 
 9. CCS @ Recovery Connections of Maine
@@ -88,6 +90,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.healthreachchc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 49 hours per week.
 📞 207-737-4359
 
 15. DFD RUSSELL MEDICAL CENTER - TURNER
@@ -95,6 +98,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.dfdrussell.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 47.5 hours per week.
 📞 207-524-3501
 
 16. Gardiner Area High School Health Center
@@ -115,6 +119,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.healthreachchc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 51.5 hours per week.
 📞 207-549-7581
 
 19. BELGRADE REGIONAL HEALTH CENTER
@@ -122,6 +127,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.healthreachchc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 207-495-3323
 
 20. Mid-Coast Health Net/Knox Clinic Main Site
@@ -142,6 +148,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.healthreachchc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 49.5 hours per week.
 📞 207-437-9388
 
 23. Islands Community Medical Center Annex
@@ -154,6 +161,7 @@
 135 Main St, North Haven, ME, 04853-3320
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 8 hours per week.
 📞 207-867-2021
 
 25. VINALHAVEN ELDERCARE SERVICES
@@ -166,6 +174,7 @@
 22 Arcola Ln, Vinalhaven, ME, 04863-4014
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, seasonal, 2 hours per week.
 📞 207-863-4800
 
 27. North Haven Community School
@@ -185,6 +194,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.healthreachchc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 50.75 hours per week.
 📞 207-684-4010
 
 30. MT. ABRAM REGIONAL HEALTH CENTER
@@ -192,6 +202,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.healthreachchc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 50 hours per week.
 📞 207-265-4555
 
 31. Boys and Girls Club of Souhegan Valley
@@ -205,6 +216,7 @@ WORKMAN TERRACE, LINCOLN, ME, 04457-0000
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.healthreachchc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 43 hours per week.
 📞 207-864-3303
 
 33. Health Center, Wellness and Administration Center, Palmyra
@@ -258,18 +270,21 @@ WORKMAN TERRACE, LINCOLN, ME, 04457-0000
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.hhcme.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 52 hours per week.
 📞 207-924-5200
 
 41. Brewer Community School
 92 Pendleton St, Brewer, ME, 04412-1734
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 207-992-2393
 
 42. Hope House
 181 Corporate Dr, Bangor, ME, 04401-4314
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 50 hours per week.
 📞 207-992-2636
 
 43. Bangor School Dept. SBHC James F Doughty Middle School
@@ -282,12 +297,14 @@ WORKMAN TERRACE, LINCOLN, ME, 04457-0000
 1012 Union St, Bangor, ME, 04401-3060
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 54 hours per week.
 📞 207-945-5247
 
 45. Dental Center
 1048 Union St, Bangor, ME, 04401-8600
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Dental
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 38 hours per week.
 📞 207-945-5247
 
 46. Penobscot Pediatrics
@@ -312,6 +329,7 @@ WORKMAN TERRACE, LINCOLN, ME, 04457-0000
 1068 Union St, Bangor, ME, 04401-3016
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 50 hours per week.
 📞 207-947-0147
 
 50. SUNBURY VILLAGE RETIREMENT RESD.
@@ -324,6 +342,7 @@ WORKMAN TERRACE, LINCOLN, ME, 04457-0000
 261 Center St, Brewer, ME, 04412-1900
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 1 hours per week.
 📞 207-992-2456
 
 52. Brewer Medical Center
@@ -331,6 +350,7 @@ WORKMAN TERRACE, LINCOLN, ME, 04457-0000
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.pchcbangor.org/index.htm
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 61.5 hours per week.
 📞 207-945-5247
 
 53. Downeast School - PCHC Dental
@@ -344,6 +364,7 @@ WORKMAN TERRACE, LINCOLN, ME, 04457-0000
 21 Boyd St, Bangor, ME, 04401-6560
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 10 hours per week.
 📞 207-941-2820
 
 55. Bangor School Department School-Based Health Center
@@ -363,6 +384,7 @@ WORKMAN TERRACE, LINCOLN, ME, 04457-0000
 159 Hogan Rd, Bangor, ME, 04401-5603
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 3 hours per week.
 📞 207-941-4400
 
 58. KVHC Piscataquis Community High School
@@ -375,6 +397,7 @@ WORKMAN TERRACE, LINCOLN, ME, 04457-0000
 9 Alumni Dr, Orono, ME, 04473-3479
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 30 hours per week.
 📞 207-866-7011
 
 60. KVHC Foxcroft Academy
@@ -451,6 +474,7 @@ WORKMAN TERRACE, LINCOLN, ME, 04457-0000
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.hanfqhc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 207-794-6700
 
 71. Jackman Community Health Center
@@ -458,12 +482,14 @@ WORKMAN TERRACE, LINCOLN, ME, 04457-0000
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.pchcbangor.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 207-668-4300
 
 72. Health Access Network Lincoln
 175 W Broadway, Lincoln, ME, 04457-4000
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 50 hours per week.
 📞 207-794-6700
 
 73. Mattanawcook Academy School Based Health Center
@@ -471,6 +497,7 @@ WORKMAN TERRACE, LINCOLN, ME, 04457-0000
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.hanfqhc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 25 hours per week.
 📞 207-794-6700
 
 74. Northern Pine Care Estates
@@ -485,6 +512,7 @@ WORKMAN TERRACE, LINCOLN, ME, 04457-0000
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.kvhc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 53.4 hours per week.
 📞 207-538-3700
 
 76. EHC Machias
@@ -499,6 +527,7 @@ WORKMAN TERRACE, LINCOLN, ME, 04457-0000
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.rmcl.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 207-255-0102
 
 78. EAST GRAND HEALTH CENTER
@@ -513,6 +542,7 @@ WORKMAN TERRACE, LINCOLN, ME, 04457-0000
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.rmcl.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, seasonal, 35 hours per week.
 📞 207-733-2432
 
 80. EASTPORT HEALTH CARE, INC.
@@ -520,6 +550,7 @@ WORKMAN TERRACE, LINCOLN, ME, 04457-0000
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.eastporthealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 52.5 hours per week.
 📞 207-853-6001
 
 81. KVHC Southern Aroostook Community School
@@ -534,6 +565,7 @@ WORKMAN TERRACE, LINCOLN, ME, 04457-0000
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.pineshealthservices.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 207-472-0590
 
 83. PINES Caribou Health Center
@@ -541,12 +573,14 @@ WORKMAN TERRACE, LINCOLN, ME, 04457-0000
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.pineshealthservices.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 54 hours per week.
 📞 207-498-2356
 
 84. Pines WOMEN & CHILDREN'S CENTER
 163 Van Buren Rd STE 4, Caribou, ME, 04736-3567
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 50.5 hours per week.
 📞 207-498-1697
 
 85. North Woods Senior Living LLC
@@ -574,6 +608,7 @@ WORKMAN TERRACE, LINCOLN, ME, 04457-0000
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.pineshealthservices.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 50 hours per week.
 📞 207-868-2796
 
 89. School-Based Health Center-St. Agatha
@@ -588,6 +623,7 @@ WORKMAN TERRACE, LINCOLN, ME, 04457-0000
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.frrh.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 207-316-6446
 
 91. Down East Aids Network
@@ -612,6 +648,7 @@ WORKMAN TERRACE, LINCOLN, ME, 04457-0000
 63 Preble St, Portland, ME 04101
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🏥 Services: Ryan White HIV/AIDS Program, Dental, Mental Health
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 41.25 hours per week.
 📞 (207) 874-2141
 
 95. Penobscot Community Health Care - Capehart Community Health Center
@@ -832,6 +869,7 @@ P.O. Box 1189, Bangor, ME 04402
 59 Riverton Drive, Portland, ME 04103
 🌐 https://www.greaterportlandhealth.org
 🏥 Services: Mental Health
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 36 hours per week.
 📞 (207) 874-2141
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 
@@ -1816,12 +1854,14 @@ P.O. Box 346, Buxton, ME 04093
 272. HEALTHREACH COMMUNITY HEALTH CENTERS
 8 S Main St, Madison, ME 04950-4501
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 47.5 hours per week.
 📞 (207) 696-3992
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 273. WESTERN MAINE FAMILY HEALTH CENTER
 16 Depot St, Livermore Falls, ME 04254
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 49.5 hours per week.
 📞 (207) 897-4345
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -1870,18 +1910,21 @@ RFD 1 BOX 1391, Albion, ME 04910
 281. REGIONAL MEDICAL CENTER AT LUBEC
 43 S Lubec Rd, Lubec, ME 04652-3620
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 44 hours per week.
 📞 (207) 733-5541
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 282. D F D RUSSELL MEDICAL CENTER
 180 Church Hill Rd, Suite 1, Leeds, ME 04263-3448
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 51.5 hours per week.
 📞 (207) 524-3501
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 283. ST CROIX REGIONAL FAMILY HEALTH CENTER
 136 Mill St, Princeton, ME 04668-3344
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 50.5 hours per week.
 📞 (207) 796-5503
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -1894,6 +1937,7 @@ RFD 1 BOX 1391, Albion, ME 04910
 285. SEBASTICOOK FAMILY DOCTORS DETROIT
 118 Moosehead Trl STE 5, Newport, ME 04953-4056
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 50 hours per week.
 📞 (207) 368-5189
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -1918,6 +1962,7 @@ RFD 1 BOX 1391, Albion, ME 04910
 289. KATAHDIN VALLEY HEALTH CENTER
 59 Bangor St, Houlton, ME 04730-1740
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 80 hours per week.
 📞 (207) 528-2285
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -1954,12 +1999,14 @@ RFD 1 BOX 1391, Albion, ME 04910
 295. PINES HEALTH SERVICES
 66 Spruce St, Presque Isle, ME 04769
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 50 hours per week.
 📞 (207) 769-2025
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 296. BREWER HIGH SCHOOL BASED CLINIC
 79 Parkway S, Brewer, ME 04412
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (207) 992-2456
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -1972,6 +2019,7 @@ RFD 1 BOX 1391, Albion, ME 04910
 298. D F D RUSSELL MEDICAL CENTER
 11 Academy Rd, Monmouth, ME 04259
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 46.5 hours per week.
 📞 (207) 933-9646
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -2020,6 +2068,7 @@ RFD 1 BOX 1391, Albion, ME 04910
 306. KATAHDIN VALLEY HEALTH CENTER
 33 Walker St, Ashland, ME 04732-3429
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (207) 528-2285
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 

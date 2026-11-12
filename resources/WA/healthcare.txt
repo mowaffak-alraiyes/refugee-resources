@@ -11,6 +11,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.kingcounty.gov/healthservices/health/personal/HCHN.aspx
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 168 hours per week.
 📞 206-296-5091
 
 3. Harborview Max Clinic
@@ -38,6 +39,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.neighborcare.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 43.5 hours per week.
 📞 206-728-4143
 
 7. Robert Clewis Center
@@ -53,6 +55,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.ichs.com
 🏥 Services: Primary Care; Dental
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 60 hours per week.
 📞 206-788-3700
 
 9. Neighborcare Health at Bailey Gatzert Elementary
@@ -60,6 +63,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.neighborcare.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, seasonal, 30 hours per week.
 📞 206-461-6935
 
 10. SEATTLE INDIAN HEALTH BOARD
@@ -67,6 +71,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.sihb.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 48 hours per week.
 📞 206-324-9360
 
 11. New Horizons
@@ -106,6 +111,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.cdchc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 66 hours per week.
 📞 206-299-1900
 
 17. UW Homeless Youth Clinic
@@ -118,6 +124,7 @@
 3639 M L King Jr Way S, Seattle, WA, 98144-6847
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 16 hours per week.
 📞 206-788-3700
 
 19. Neighborcare Health at West Seattle High School
@@ -125,6 +132,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.neighborcare.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 206-658-8048
 
 20. COLUMBIA PUBLIC HEALTH CTR
@@ -153,6 +161,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.neighborcare.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 206-548-3166
 
 24. Mobile Van 01
@@ -166,12 +175,14 @@
 1753 NW 56th St Ste 200, Seattle, WA, 98107-5279
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 36.5 hours per week.
 📞 206-782-5939
 
 26. Neighborcare Health at Highland Park Elementary
 1012 SW Trenton St., Seattle, WA, 98106-2421
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, seasonal, 32 hours per week.
 📞 206-455-9025
 
 27. Sea Mar CHC - Seattle 8720 14th Ave. S.
@@ -179,6 +190,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.seamar.org
 🏥 Services: Primary Care; Migrant health center
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 48 hours per week.
 📞 206-762-3730
 
 28. Neighborcare Health at Magnuson
@@ -200,12 +212,14 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.seamar.org
 🏥 Services: Primary Care; Dental; Mental health; Migrant health center
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 48 hours per week.
 📞 206-965-1000
 
 31. White Center Public Health Center
 9934 8TH AVE SW, SEATTLE, WA, 98106-3036
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, 49 hours per week.
 📞 206-477-0000
 
 32. Sea Mar CHC - Seattle 17th Place S.
@@ -213,6 +227,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.seamar.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 206-766-6976
 
 33. Rainier Beach School-Based Health Center
@@ -226,6 +241,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.neighborcare.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 60 hours per week.
 📞 206-721-2326
 
 35. Ryther South Seattle Youth Center
@@ -253,6 +269,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.ichs.com
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 59 hours per week.
 📞 425-373-3000
 
 39. Peninsula Community Health Services - Bainbridge Island Clinic
@@ -272,6 +289,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.seamar.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 48 hours per week.
 📞 206-812-6140
 
 42. HealthPoint Highline Campus Health Center
@@ -291,12 +309,14 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.healthpointchc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 49 hours per week.
 📞 425-226-5536
 
 45. HealthPoint Specialty Services Clinic
 947 Powell Ave SW  STE 100B, Renton, WA, 98057
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 425-277-1311
 
 46. Friends of Youth The Landing
@@ -311,6 +331,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.healthpointchc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 206-277-7200
 
 48. HealthPoint at Family First Community Center
@@ -374,6 +395,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://chcsno.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 63 hours per week.
 📞 425-835-5200
 
 58. Sea Mar CHC - Des Moines S. 242nd St.
@@ -381,6 +403,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.seamar.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 206-212-4500
 
 59. PCHS-Kingston Clinic
@@ -395,6 +418,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.pchsweb.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 52.5 hours per week.
 📞 360-377-3776
 
 61. HealthPoint Kent Urgent Care
@@ -408,6 +432,7 @@
 233 2nd Ave. S., Kent, WA, 98032-5852
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 48 hours per week.
 📞 206-436-6380
 
 63. Meadowdale High School
@@ -421,6 +446,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.healthpointchc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 59 hours per week.
 📞 206-870-3590
 
 65. Peninsula Community Health Services - Pendleton Place
@@ -482,6 +508,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://chcsno.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 63 hours per week.
 📞 425-551-6001
 
 74. HealthPoint Auburn North
@@ -552,6 +579,7 @@
 1215 S 11TH ST, TACOMA, WA, 98405-4020
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Dental; Migrant health center
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 48 hours per week.
 📞 253-280-9840
 
 🌐 http://www.seamar.org
@@ -560,6 +588,7 @@
 1202 Martin Luther King Jr. Way, Tacoma, WA, 98405-3926
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 70 hours per week.
 📞 253-597-3813
 
 86. Everett Central Clinic
@@ -604,6 +633,7 @@
 1708 E   44th St, Tacoma, WA, 98404-4611
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 60 hours per week.
 📞 253-471-4553
 
 93. New Puyallup Clinic
@@ -624,6 +654,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.commhealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 253-536-2020
 
 96. LAKEWOOD CLINIC
@@ -631,6 +662,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.commhealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 60 hours per week.
 📞 253-589-7030
 
 97. Sea Mar CHC - Puyallup 101st Avenue Ct. E.
@@ -638,6 +670,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.seamar.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 253-864-4770
 
 98. Sea Mar CHC - Marysville Grove St. NE
@@ -656,6 +689,7 @@
 14916 Washington Ave. SW, Lakewood, WA, 98498-2271
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 253-280-9890
 
 101. Granite Falls High School
@@ -689,6 +723,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.seamar.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 360-359-4840
 
 106. Peninsula Community Health Services - Franklin Street
@@ -702,6 +737,7 @@
 3775 Martin Way E Ste A, Olympia, WA, 98506-5007
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 50 hours per week.
 📞 360-236-7166
 
 108. Sea Mar CHC - Yelm Cullens St. NW
@@ -709,6 +745,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.seamar.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 360-400-4800
 
 109. Sea Mar CHC - Olympia 3030 Limited Lane NW
@@ -716,6 +753,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.seamar.org
 🏥 Services: Primary Care; Migrant health center
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 360-491-1399
 
 110. Sea Mar CHC - Oak Harbor SE Ireland St.
@@ -787,6 +825,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.unitycarenw.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 55.5 hours per week.
 📞 360-752-7406
 
 121. UCNW Portable Clinical Care
@@ -813,6 +852,7 @@
 3350 AIRPORT DR, BELLINGHAM, WA, 98226-7696
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, 40 hours per week.
 📞 360-734-5458
 
 125. Sea Mar CHC - Bellingham Cordata Parkway
@@ -820,6 +860,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.seamar.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 48 hours per week.
 📞 360-671-3225
 
 126. Sea Mar CHC - Aberdeen Sumner Ave.
@@ -827,6 +868,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.seamar.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 360-538-1293
 
 127. Sea Mar CHC - Everson Hannegan Rd.
@@ -834,6 +876,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.seamar.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 42 hours per week.
 📞 360-354-0776
 
 128. CVCH Youth Behavioral Health
@@ -855,6 +898,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.chcw.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 58 hours per week.
 📞 509-962-1414
 
 131. CVCH New Path
@@ -869,6 +913,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://cvch.org/our-locations/connect
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 73 hours per week.
 📞 509-662-6000
 
 133. CVCH WIC
@@ -883,6 +928,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.seamar.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 360-289-2427
 
 135. Castle Rock Clinic
@@ -910,6 +956,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.chcw.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 509-653-2235
 
 139. CVCH Manson Elementary School Health Center
@@ -930,6 +977,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.cowlitzfamilyhealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 55 hours per week.
 📞 360-353-5511
 
 142. Grade Street Campus
@@ -944,6 +992,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.cowlitzfamilyhealth.oeg
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 50 hours per week.
 📞 360-423-7740
 
 144. 14th Avenue Clinic
@@ -964,6 +1013,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.yvfwc.com
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 509-574-3200
 
 147. CVCH Chelan MS/HS School Health Center
@@ -1026,6 +1076,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.ynhs.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 60 hours per week.
 📞 509-454-4143
 
 156. Rhonda D Hauff Resource Center
@@ -1051,6 +1102,7 @@
 1120 South 18th Street RM 150, Yakima, WA, 98901-3654
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 509-573-5530
 
 160. FHC Twisp Medical
@@ -1072,6 +1124,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://cowlitzfamilyhealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 360-225-4310
 
 163. Wapato Mid-Valley Clinic
@@ -1139,6 +1192,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.cbha.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 55 hours per week.
 📞 509-932-3535
 
 173. Ephrata Community Dental Clinic
@@ -1167,6 +1221,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.seamar.org
 🏥 Services: Primary Care; Dental; Migrant health center
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 48 hours per week.
 📞 360-574-4074
 
 177. One Community Health - Stevenson
@@ -1194,6 +1249,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.seamar.org
 🏥 Services: Primary Care; Migrant health center
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 48 hours per week.
 📞 360-566-4402
 
 181. Immediate Care
@@ -1201,12 +1257,14 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.yvfwc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 64.5 hours per week.
 📞 509-882-3444
 
 182. Family Health Centers Omak
 1003 Koala Ave., Omak, WA, 98841-9576
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 509-422-5700
 
 183. YVFWC GRANDVIEW CLINIC
@@ -1214,6 +1272,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.yvfwc.com
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 64.75 hours per week.
 📞 509-882-3444
 
 184. MOSES LAKE COMMUNITY HEALTH CENTER
@@ -1228,6 +1287,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.myfamilyhealth.org/
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 509-486-0114
 
 186. Denny Murphy Clinic
@@ -1235,6 +1295,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.chas.org/
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 61.5 hours per week.
 📞 509-444-8200
 
 187. NATIVE Project
@@ -1242,6 +1303,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.nativeproject.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45.75 hours per week.
 📞 509-483-7535
 
 188. Unify Community Health
@@ -1249,6 +1311,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.yvfwc.com
 🏥 Services: Primary Care; Migrant health center
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 56.25 hours per week.
 📞 509-326-4343
 
 189. North Central Clinic
@@ -1283,6 +1346,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.chas.org/
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 61.5 hours per week.
 📞 509-444-8200
 
 194. CHAS Health at Shadle Park High School
@@ -1336,6 +1400,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.newhealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 47.5 hours per week.
 📞 509-464-3627
 
 202. Cheney Health Center
@@ -1356,6 +1421,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.newhealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 32 hours per week.
 📞 509-258-4234
 
 205. NEW Health Newport
@@ -1370,6 +1436,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.newhealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 50 hours per week.
 📞 509-935-8424
 
 207. INCHELIUM COMMUNITY HLTH CENTER
@@ -1377,6 +1444,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.colvilletribes.com
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 37.5 hours per week.
 📞 509-722-7006
 
 208. NEW Health Colville Medical
@@ -1391,6 +1459,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.newhealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 36 hours per week.
 📞 509-442-3514
 
 210. Lewis and Clark Dental Clinic
@@ -1398,6 +1467,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.chas.org/
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 52.5 hours per week.
 📞 208-848-8300
 
 211. Othello Clinic
@@ -1419,6 +1489,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.yvfwc.com
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 66.5 hours per week.
 📞 509-525-6695
 
 214. TCCH Pasco – Medical, Pharmacy & Optometry
@@ -1426,6 +1497,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.mytcch.org/
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 76.5 hours per week.
 📞 509-547-2204
 
 215. TCCH Pasco – Dental, Behavioral Health & WIC
@@ -1433,6 +1505,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.mytcch.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 56.25 hours per week.
 📞 509-547-2204
 
 216. West Pasco Clinic
@@ -1454,6 +1527,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.myfamilyhealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 509-486-4400
 
 219. TCCH Kennewick – Pediatric Endocrinology & Primary Care
@@ -1473,6 +1547,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.mytcch.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 54.5 hours per week.
 📞 509-547-2204
 
 222. TCCH Richland – Endocrinology & Diabetes Center
@@ -1527,6 +1602,7 @@
 325 9th Ave, Seattle, WA 98104-2420
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🏥 Services: Ryan White HIV/AIDS Program
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 37.5 hours per week.
 📞 (206) 744-5100
 
 231. Sea Mar CHC - Geropsych Facility and Child Development Center
@@ -1547,6 +1623,7 @@
 1112 S Cushman Ave, Tacoma, WA 98405-3631
 📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🏥 Services: Dental; Migrant health center
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 42 hours per week.
 📞 (253) 593-2144
 🌐 http://www.seamar.org
 
@@ -1575,6 +1652,7 @@
 2121 S 19th St, Tacoma, WA 98405-2922
 📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🏥 Services: Migrant health center; Primary care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (253) 396-1634
 🌐 http://www.seamarchc.org/
 
@@ -1596,6 +1674,7 @@
 4001 N Cook St, Spokane, WA 99207-5879
 📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🏥 Services: Migrant health center, Primary Care, Dental, Mental Health
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 61.25 hours per week.
 📞 (509) 326-4343
 🌐 http://www.yvfwc.org
 
@@ -1603,6 +1682,7 @@
 8915 14th Ave S, Seattle, WA 98108-4813
 📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🏥 Services: Dental; Migrant health center
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 48 hours per week.
 📞 (206) 762-3263
 🌐 http://www.seamar.org/
 
@@ -1617,6 +1697,7 @@
 12359 Lake City Way NE, Seattle, WA 98125-5401
 📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🏥 Services: Dental
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 (206) 205-8580
 🌐 http://www.kingcounty.gov/healthservices/health/locations/dental.aspx
 
@@ -1637,6 +1718,7 @@
 3815 S Othello St, Seattle, WA 98118-3510
 📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🏥 Services: Dental
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 75 hours per week.
 📞 (206) 788-3500
 🌐 https://www.ichs.com
 
@@ -1644,6 +1726,7 @@
 510 19th Ave E, Seattle, WA 98112-4095
 📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🏥 Services: Dental
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (206) 299-1600
 🌐 http://www.cdchc.org/
 
@@ -1753,6 +1836,7 @@ P.O. Box 2253, Spokane, WA 99210
 7803 NE Fourth Plain Blvd, Vancouver, WA 98662-7294
 🌐 http://www.seamarchc.org/
 🏥 Services: Dental
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (360) 768-9030
 📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
 
@@ -1781,6 +1865,7 @@ P.O. Box 2253, Spokane, WA 99210
 6020 35th Ave SW, Seattle, WA 98126-3002
 🌐 http://www.neighborcare.org
 🏥 Services: Dental
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 50 hours per week.
 📞 (206) 548-3058
 📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
 
@@ -3408,6 +3493,7 @@ P.O. Box 2253, Spokane, WA 99210
 617 Scoon Road, Sunnyside, WA 98944
 🌐 https://www.ynhs.org
 🏥 Services: Mental Health
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 57.5 hours per week.
 📞 (509) 837-8200
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 
@@ -3478,6 +3564,7 @@ P.O. Box 2849, Yakima, WA 98907
 504 Orondo Avenue, Wenatchee, WA 98801
 🌐 https://www.cvch.org
 🏥 Services: Mental Health
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 47 hours per week.
 📞 (509) 662-6000
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 
@@ -3591,6 +3678,7 @@ P.O. Box 2849, Yakima, WA 98907
 5007 Claremont Way, Everett, WA 98203
 🌐 https://www.seamar.org
 🏥 Services: Mental Health
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 44 hours per week.
 📞 (425) 609-5505
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 
@@ -5218,6 +5306,7 @@ P.O. Box 2849, Yakima, WA 98907
 779. VALLEY VIEW HEALTH CENTER - CENTRALIA
 1800 Cooks Hill Rd, Ste F, Centralia, WA 98531-9162
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 70 hours per week.
 📞 (360) 669-0335
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -5398,12 +5487,14 @@ P.O. Box 2849, Yakima, WA 98907
 809. NORTHPORT COMMUNITY HEALTH CENTER
 411 Summit Ave, Northport, WA 99157-5136
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 1 hours per week.
 📞 (509) 732-4252
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 810. LOON LAKE MEDICAL CLINIC
 3994 Colville Rd, Loon Lake, WA 99148-9789
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 32 hours per week.
 📞 (509) 233-8412
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -5422,6 +5513,7 @@ P.O. Box 2849, Yakima, WA 98907
 813. YAKIMA VALLEY FARM WORKER CLINIC-YAKIM
 602 E Nob Hill Blvd, Yakima, WA 98901-3534
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 55 hours per week.
 📞 (509) 248-3334
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -5440,12 +5532,14 @@ P.O. Box 2849, Yakima, WA 98907
 816. SEA MAR COMMUNITY HLT CTR-SKAGIT CLINI
 1400 N Laventure Rd, Mount Vernon, WA 98273-2766
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 48 hours per week.
 📞 (206) 762-3730
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 817. SEA MAR COMMUNITY HEALTH CENTERS
 9710 State Ave, Marysville, WA 98270-2232
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (206) 762-3730
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -5482,12 +5576,14 @@ P.O. Box 2849, Yakima, WA 98907
 823. HEALTHPOINT
 403 E Meeker St, Ste 200, Kent, WA 98030-5904
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 51 hours per week.
 📞 (206) 852-2866
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 824. AUBURN COMMUNITY HEALTH CENTER
 126 Auburn Ave STE 300, Auburn, WA 98002-5082
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 48 hours per week.
 📞 (253) 735-0166
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -5500,12 +5596,14 @@ P.O. Box 2849, Yakima, WA 98907
 826. HEALTHPOINT - BOTHELL
 10414 Beardslee Blvd, Bothell, WA 98011-3205
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (206) 486-0658
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 827. COWLITZ FAMILY HEALTH CENTER
 1057 12th Ave, Longview, WA 98632-2509
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 55 hours per week.
 📞 (360) 636-3892
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -5518,6 +5616,7 @@ P.O. Box 2849, Yakima, WA 98907
 829. COMMUNITY HEALTH ASSOCIATION OF SPOKAN
 5921 N Market St, Spokane, WA 99208-2484
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 61.5 hours per week.
 📞 (509) 444-8200
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -5542,12 +5641,14 @@ P.O. Box 2849, Yakima, WA 98907
 833. CENTRAL WASHINGTON FAMILY MEDICINE
 1806 W Lincoln Ave, Yakima, WA 98902-2473
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 50 hours per week.
 📞 (509) 452-4520
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 834. COLUMBIA BASIN HEALTH ASSOC - 14TH AVE MED CENTER
 475 N 14th Ave, Othello, WA 99344-1226
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 49 hours per week.
 📞 (509) 331-1632
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -5560,6 +5661,7 @@ P.O. Box 2849, Yakima, WA 98907
 836. SEA MAR CHC - PUYALLUP CLINIC
 10217 125th Street Ct E, Puyallup, WA 98374-2761
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (206) 764-8010
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -5578,6 +5680,7 @@ P.O. Box 2849, Yakima, WA 98907
 839. COMMUNITY HEALTH CARE-SPANAWAY CLINIC
 134 188th St S, Spanaway, WA 98387-4618
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 60 hours per week.
 📞 (253) 847-8856
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -5590,6 +5693,7 @@ P.O. Box 2849, Yakima, WA 98907
 841. MOUNTAINVIEW WOMENS HEALTH CENTER
 240 Division St, Grandview, WA 98930-1357
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 46.25 hours per week.
 📞 (509) 882-4700
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -5614,6 +5718,7 @@ P.O. Box 2849, Yakima, WA 98907
 845. CHAS-DEER PARK MEDICAL CLINIC
 401 S Main St, Deer Park, WA 99006-8238
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 52.5 hours per week.
 📞 (509) 651-1100
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -5626,6 +5731,7 @@ P.O. Box 2849, Yakima, WA 98907
 847. VALLEY VIEW HEALTH CENTER - ONALASKA
 1810 State Highway 508, Onalaska, WA 98570-9636
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 40 hours per week.
 📞 (360) 478-7400
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -5680,18 +5786,21 @@ P.O. Box 2849, Yakima, WA 98907
 856. FAMILY HEALTH CENTER - WAHKIAKUM CLINIC
 335 Una Ave, Cathlamet, WA 98612-9583
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (360) 795-3201
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 857. PENINSULA COMM HLTH SVCS BREMERTON CLINIC
 616 6th St, Bremerton, WA 98337-1420
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 61.25 hours per week.
 📞 (360) 377-3776
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 858. VALLEY VIEW HEALTH CENTER - RAYMOND
 300 Ocean Ave, Raymond, WA 98577-3016
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (360) 942-3040
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -5710,6 +5819,7 @@ P.O. Box 2849, Yakima, WA 98907
 861. EDMONDS CLINIC
 23320 Highway 99, Edmonds, WA 98026-8744
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 63 hours per week.
 📞 (425) 640-5401
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -5722,12 +5832,14 @@ P.O. Box 2849, Yakima, WA 98907
 863. COMMUNITY HEALTH CENTERS OF KING COUNTY
 13030 Military Rd S, Ste 200, Tukwila, WA 98168-3001
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 (206) 439-3289
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 864. SEA MAR CHC - EVERETT MEDICAL
 1920 100th St SE, Everett, WA 98208-3832
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 48 hours per week.
 📞 (425) 312-0202
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -5758,6 +5870,7 @@ P.O. Box 2849, Yakima, WA 98907
 869. NEIGHBORCARE HEALTH AT ROOSEVELT HIGH SCHOOL.
 1410 NE 66th St, Seattle, WA 98115-6744
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, seasonal, 40 hours per week.
 📞 (206) 527-8336
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -5770,30 +5883,35 @@ P.O. Box 2849, Yakima, WA 98907
 871. NEIGHBORCARE HEALTH AT LAKE CITY
 12721 30th Ave NE, Ste 101, Seattle, WA 98125-4498
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 (206) 414-0326
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 872. NEIGHBORCARE HEALTH AT DEARBORN PARK INTERNATIONAL
 2820 S Orcas St, Seattle, WA 98108-3066
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, seasonal, 32 hours per week.
 📞 (206) 548-3166
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 873. COMMUNITY HEALTH CENTER OF SNOHOMISH COUNTY
 326 S Stillaguamish Ave, Arlington, WA 98223-1652
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 63 hours per week.
 📞 (360) 572-5400
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 874. FAMILY HEALTH CENTERS - BRIDGEPORT
 1015 Columbia Ave, Bridgeport, WA 98813-9805
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (509) 686-0603
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 875. ICHS SHORELINE MEDICAL AND DENTAL CLINIC
 16549 Aurora Ave N, Shoreline, WA 98133-5308
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, 59 hours per week.
 📞 (206) 788-3650
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -5812,6 +5930,7 @@ P.O. Box 2849, Yakima, WA 98907
 878. WEST SEATTLE ELEMENTARY SHOOL BASED HEALTH CENTER
 6760 34th Ave SW, Seattle, WA 98126-4208
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, 32 hours per week.
 📞 (206) 548-3164
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -5854,6 +5973,7 @@ P.O. Box 2849, Yakima, WA 98907
 885. EASTGATE PUBLIC HEALTH CENTER
 14350 SE Eastgate Way, Bellevue, WA 98007-6458
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 (206) 477-8000
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -5896,6 +6016,7 @@ P.O. Box 2849, Yakima, WA 98907
 892. MADISON SCHOOL BASED HEALTH
 3429 45th Ave SW, Seattle, WA 98116-3347
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 32 hours per week.
 📞 (206) 548-3114
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 

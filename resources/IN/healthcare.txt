@@ -7,6 +7,7 @@
 📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program; Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.usc.salvationarmy.org
 🏥 Services: Primary Care; Health Care for the Homeless; Women's health
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 3.5 hours per week.
 📞 317-637-5551
 
 2. Raphael Health Center - Salvation Army
@@ -64,12 +65,14 @@
 1537 Central Ave, Indianapolis, IN, 46202-2606
 🌐 https://www.dayspringcenter.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 3.5 hours per week.
 📞 317-635-6780
 
 11. Tech Teen Clinic
 1500 E Michigan St, Indianapolis, IN, 46201-3079
 🌐 https://www.indyhealthnet.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, seasonal, 34.1 hours per week.
 📞 317-693-5420
 
 12. H.L. Harshman Middle School - SBC
@@ -113,12 +116,14 @@
 18. Interfaith Hospitality Network
 1850 N ARSENAL AVE, INDIANAPOLIS, IN, 46218-4237
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 2 hours per week.
 📞 317-261-1562
 
 19. Peoples Health Center
 2340 E   10th St, Indianapolis, IN, 46201-2008
 🌐 https://www.indyhealthnet.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 51 hours per week.
 📞 317-957-2200
 
 20. George Washington High School - SBC
@@ -147,6 +152,7 @@
 3208 E Michigan St, Indianapolis, IN, 46201-3318
 📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program; Health Center Service Delivery Site. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Women's health; Health Care for the Homeless
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 9.5 hours per week.
 📞 317-687-3630
 
 🌐 http://www.indyhealthnet.org
@@ -184,6 +190,7 @@
 3401 E Raymond St, Indianapolis, IN, 46203-4744
 🌐 https://www.indyhealthnet.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 50 hours per week.
 📞 317-957-2100
 🗣 Languages: English Espa, Ntilde, Ol Burmese Hakha Chin Search For, Burmese, English
 
@@ -191,6 +198,7 @@
 653 N Somerset Ave, Indianapolis, IN, 46222-3327
 🌐 https://www.shalom-hcc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 40 hours per week.
 📞 317-226-4267
 
 31. HealthNet Administration/HealthNet Specialty Care at Barrington
@@ -204,6 +212,7 @@
 2855 N Keystone Ave STE 100, Indianapolis, IN, 46218-2790
 🌐 https://www.indyhealthnet.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 48 hours per week.
 📞 317-957-2300
 
 33. IPS Short Ridge High School
@@ -224,6 +233,7 @@
 📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 https://www.usc.salvationarmy.org
 🏥 Services: Primary Care; Health Care for the Homeless
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 6 hours per week.
 📞 317-972-1450
 
 36. IPS School 43 - James Whitcomb Riley
@@ -237,6 +247,7 @@
 5317 E 16TH ST, INDIANAPOLIS, IN, 46218-4897
 🌐 https://www.janepauleychc.com
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 47.5 hours per week.
 📞 844-695-7242
 
 38. Adult and Child Health Irvington Location
@@ -270,12 +281,14 @@
 4326 PATRICIA ST, INDIANAPOLIS, IN, 46222-1543
 🌐 https://www.shalom-hcc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, seasonal, 40 hours per week.
 📞 317-226-4194
 
 43. SHALOM PRIMARY CARE CENTER
 3400 Lafayette Rd, Indianapolis, IN, 46222-1146
 🌐 https://www.shalomhealthcenter.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 42 hours per week.
 📞 317-291-7422
 
 44. Sankofa at Arlington Woods#99
@@ -313,6 +326,7 @@
 6029 W   10th St, Indianapolis, IN, 46224-6115
 🌐 https://www.indyhealthnet.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 53 hours per week.
 📞 317-957-2550
 🗣 Languages: English Espa, Ntilde, Ol Burmese Hakha Chin Search For, Burmese, English
 
@@ -477,6 +491,7 @@
 55 N. Milford Drive, Franklin, IN, 46131-7308
 🌐 https://www.windrosehealth.net
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 51.5 hours per week.
 📞 317-739-4848
 
 73. Aspire Indiana Health - Noblesville
@@ -487,6 +502,7 @@
 74. IHC Hamilton County WIC
 942 N   10th St, Noblesville, IN, 46060-1801
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 43 hours per week.
 📞 317-776-3445
 🌐 https://None
 
@@ -502,6 +518,7 @@
 14 Trafalgar Sq, Trafalgar, IN, 46181-9515
 🌐 https://www.windrosehealth.net
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 48.5 hours per week.
 📞 317-412-9190
 
 77. Boone County Community Clinic
@@ -565,6 +582,7 @@
 85. IHC Clinton County WIC
 2120 Washington Ave, Frankfort, IN, 46041-8207
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 43 hours per week.
 📞 765-659-2131
 🌐 https://None
 
@@ -613,6 +631,7 @@
 93. IHC at Kokomo
 3118 S Lafountain St, Kokomo, IN, 46902-3710
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 52.5 hours per week.
 📞 765-864-4160
 🌐 https://None
 
@@ -715,11 +734,13 @@
 201 W Academy St, Bloomingdale, IN, 47832-8095
 🌐 https://www.valleyprohealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 43 hours per week.
 📞 765-498-9000
 
 110. Riggs Community Health Center South Street
 2316 South St, Lafayette, IN, 47904-2971
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 765-742-1567
 
 111. Ferry
@@ -805,11 +826,13 @@
 1436 Locust St, Terre Haute, IN, 47807-1648
 🌐 https://www.wabashvalleyhealthcenter.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 47 hours per week.
 📞 812-232-7447
 
 125. IHC Peru
 661 E Main St, Peru, IN, 46970-2662
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 44 hours per week.
 📞 765-472-3192
 🌐 https://indianahealthonline.org
 🗣 Languages: English
@@ -834,6 +857,7 @@
 129. IHC Logansport
 1700 Dividend Dr, Logansport, IN, 46947-1572
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45.5 hours per week.
 📞 574-722-7407
 🌐 https://None
 
@@ -1043,6 +1067,7 @@
 3350 E PAULDING RD, FORT WAYNE, IN, 46816-4513
 🌐 https://www.nhci.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 260-458-2641
 
 165. Tecumseh Harrison Elementary
@@ -1088,6 +1113,7 @@
 1717 S Calhoun St, Fort Wayne, IN, 46802-5257
 🌐 https://www.nhci.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 49 hours per week.
 📞 260-458-2641
 
 173. Mobile Dental Unit
@@ -1168,12 +1194,14 @@
 215 Middlebury St, Goshen, IN, 46528-2956
 🌐 https://www.mchcc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 574-534-3300
 
 187. Northside Community Health Center
 213 Middlebury Street, Goshen, IN, 46528-2956
 🌐 https://www.mchcc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 574-534-3300
 
 188. Maple City Mobile
@@ -1198,6 +1226,7 @@
 148 W Hively Ave Ste 1, Elkhart, IN, 46517-2191
 🌐 https://www.heartcityhealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 574-293-0052
 🗣 Languages: English
 
@@ -1225,6 +1254,7 @@
 420 W    4th St, Mishawaka, IN, 46544-1948
 🌐 https://www.healthlincchc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 63.5 hours per week.
 📞 219-462-7173
 
 196. HealthLinc IUSB Medical
@@ -1261,6 +1291,7 @@
 201. IHC at Oaklawn
 415 E MADISON ST, SOUTH BEND, IN, 46617-2322
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 8 hours per week.
 📞 574-234-9033
 🌐 https://indianahealthonline.org
 🗣 Languages: English
@@ -1274,6 +1305,7 @@
 203. IHC at South Bend
 1901 WEST WESTERN AVE STE B, SOUTH BEND, IN, 46619-3521
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 49 hours per week.
 📞 574-234-9033
 🌐 https://None
 
@@ -1345,6 +1377,7 @@
 215. Stacy McKay Health & Education Center
 6450 Us Highway 6, Portage, IN, 46368-5110
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 52.5 hours per week.
 📞 219-763-8112
 
 216. NorthShore Mobile Clinic
@@ -1409,6 +1442,7 @@
 225. NorthShore Dr. Fernando Rivera Dental Center
 3099 Central Ave, Lake Station, IN, 46405-2207
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 42 hours per week.
 📞 219-962-1418
 
 226. Regional Mobile Health Unit1
@@ -1529,6 +1563,7 @@
 9443 E 38th St, Indianapolis, IN 46235-2132
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🏥 Services: Ryan White HIV/AIDS Program, Mental Health
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 60 hours per week.
 📞 (317) 880-3500
 
 245. Eskenazi Health Center North Arlington
@@ -1547,6 +1582,7 @@
 6940 Michigan Rd, Indianapolis, IN 46268-2800
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🏥 Services: Ryan White HIV/AIDS Program
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 57.5 hours per week.
 📞 (317) 880-3500
 
 248. Eskenazi Health Center West 38Th Street
@@ -1559,6 +1595,7 @@
 2732 W Michigan St, Indianapolis, IN 46222-3750
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🏥 Services: Ryan White HIV/AIDS Program, Mental Health
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 58.5 hours per week.
 📞 (317) 880-3500
 
 250. Eskenazi Heath Center Forest Manor
@@ -1645,6 +1682,7 @@
 401 E 34th St, Indianapolis, IN 46205-3754
 🏥 Services: Ryan White HIV/AIDS Program
 📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 
 264. Indiana University School Of Dentistry
 1121 W Michigan St, Indianapolis, IN 46202-5211
@@ -6015,6 +6053,7 @@
 922. RIGGS COMMUNITY HEALTH CENTER
 1716 Hartford St, Lafayette, IN 47904-2173
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 44 hours per week.
 📞 (765) 742-1567
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -6027,6 +6066,7 @@
 924. HEART HEALTH CENTER INC
 236 Simpson Ave, Elkhart, IN 46516-4666
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 (219) 293-0052
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -6069,6 +6109,7 @@
 931. SOUTHWEST HEALTH CENTER
 1522 W Morris St, Indianapolis, IN 46221-1629
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 57.5 hours per week.
 📞 (317) 788-9769
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -6087,6 +6128,7 @@
 934. RIGGS COMMUNITY HEALTH CENTER ANNEX
 1324 Tippecanoe St, Lafayette, IN 47904-2051
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 32 hours per week.
 📞 (765) 429-2741
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -6099,12 +6141,14 @@
 936. JANE PAULEY COMMUNITY HEALTH CENTER
 8931 E 30th St, Indianapolis, IN 46219-1501
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (317) 355-9320
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 937. NORTHSHORE EDISON SENIOR HIGH SCHOOL
 3304 Parkside Ave, Lake Station, IN 46405-1199
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, seasonal, 32 hours per week.
 📞 (219) 763-8112
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -6117,12 +6161,14 @@
 939. MERRILLVILLE HEALTH CENTER
 6091 Broadway, Merrillville, IN 46410-2619
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 49 hours per week.
 📞 (219) 764-5356
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 940. MERIDIAN HEALTH SERVICES
 3620 W White River Blvd, Muncie, IN 47304-4286
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 53 hours per week.
 📞 (765) 254-5142
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -6141,6 +6187,7 @@
 943. NORTHEAST HEALTH CENTER
 3908 Meadows Dr, Indianapolis, IN 46205-3114
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 48 hours per week.
 📞 (317) 000-0000
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -6177,6 +6224,7 @@
 949. REGIONAL COMMUNITY HEALTH CENTER
 559 State St, Hammond, IN 46320-1533
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 44 hours per week.
 📞 (219) 736-7183
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -6195,18 +6243,21 @@
 952. HOLY FAMILY SHELTER
 907 N Holmes Ave, Indianapolis, IN 46222-3714
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 3 hours per week.
 📞 (317) 957-2013
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 953. MERIDIAN HEALTH SERVICES
 509 Conrad Harcourt Way, Rushville, IN 46173-1165
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 (765) 288-1928
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 954. NORTHSHORE MERRILLVILLE HIGH SCHOOL CLINIC
 276 E 68th Ave, Merrillville, IN 46410-3554
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, seasonal, 32 hours per week.
 📞 (219) 763-8112
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -6219,12 +6270,14 @@
 956. FAMILY HEALTH CENTERS OF SOUTHERN INDIANA
 1000 E Spring St, New Albany, IN 47150-2943
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 32 hours per week.
 📞 (812) 411-1701
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 957. FAMILY HEALTH CENTERS OF SOUTHERN INDIANA
 290 N Harrison Dr, Corydon, IN 47112-1725
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 24 hours per week.
 📞 (812) 738-7576
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -6237,12 +6290,14 @@
 959. JANE PAULEY COMMUNITY HEALTH CENTER INC
 1210 Medical Arts Blvd, Ste 300, Anderson, IN 46011-3439
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (317) 355-9337
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 960. JANE PAULEY COMMUNITY HEALTH CENTER AT GREENFIELD
 1107 N State St, Greenfield, IN 46140-1207
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (317) 000-0000
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 

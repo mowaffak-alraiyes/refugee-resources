@@ -299,6 +299,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://mountainparkhealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 52.5 hours per week.
 📞 602-243-7277
 
 47. Wesley Health Center - Recker Road
@@ -336,6 +337,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.adelantehealthcare.com
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 55 hours per week.
 📞 480-964-2273
 
 53. Apache Junction
@@ -343,6 +345,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.mhwaz.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 480-983-0065
 
 54. Desert Senita Community Health Center - Stanfield
@@ -377,6 +380,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.adelantehealthcare.com
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 602-964-2273
 
 59. Adelante Healthcare Wickenburg
@@ -384,6 +388,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.adelantehealthcare.com
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 480-964-2273
 
 60. ELK RIDGE - PAYSON
@@ -403,6 +408,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.yavapaihealth.com
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 55 hours per week.
 📞 928-583-1000
 
 63. MHC Counseling and Wellness Center
@@ -429,12 +435,14 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.desertsenita.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 47 hours per week.
 📞 520-387-5651
 
 67. Cottonwood Mobile CHC
 51 S Brian Mickelsen Parkway, Cottonwood, AZ, 86326
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 55 hours per week.
 📞 928-583-1000
 
 68. Santa Catalina Health Center
@@ -442,6 +450,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.maranahealthcenter.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, 40 hours per week.
 📞 520-825-6763
 
 69. Oracle
@@ -455,6 +464,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://maranahealthcenter.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 520-887-0800
 
 71. EL RIO NORTHWEST MEDICAL
@@ -462,6 +472,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.elrio.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 65 hours per week.
 📞 520-670-3707
 
 72. United Community Health Center at Three Points
@@ -483,6 +494,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.elrio.org
 🏥 Services: Primary Care, Ryan White HIV/AIDS Program
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 73 hours per week.
 📞 520-670-3707
 
 75. HealthOn University
@@ -510,6 +522,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.elrio.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 520-879-6006
 
 79. EL RIO OB/GYN ASSOCIATES
@@ -517,6 +530,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.elrio.org
 🏥 Services: Primary Care; Women's health
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 520-670-3707
 
 80. EL PUEBLO HEALTH CENTER
@@ -524,6 +538,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.elrio.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 73 hours per week.
 📞 520-670-3707
 
 81. Wilmot Family Health Center
@@ -544,6 +559,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.elrio.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 520-806-2650
 
 84. Elk Ridge -- Mobile Unit
@@ -563,6 +579,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.uchcaz.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 520-576-5770
 
 87. ELK RIDGE - WILLIAMS
@@ -576,6 +593,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.uchcaz.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 42 hours per week.
 📞 520-762-5200
 
 89. United Community Health Center at Freeport McMoRan Copper & Gold Building
@@ -603,6 +621,7 @@
 2650 E Show Low Lake Rd, Show Low, AZ, 85901-7955
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 55 hours per week.
 📞 928-537-4300
 
 93. Sunset Community Health Center- Wellton
@@ -616,6 +635,7 @@
 620 WEST LEE STREET, Winslow, AZ, 86047-2435
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 928-289-2000
 
 95. Chiricahua Community Health Centers, Inc. Benson Family Health Center
@@ -636,6 +656,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.mariposachc.net
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 48 hours per week.
 📞 520-281-1550
 
 98. MCHC - Patagonia Family Health Center Site
@@ -657,6 +678,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.mariposachc.net
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 41.5 hours per week.
 📞 520-281-1550
 
 101. Mariposa Community Health Center
@@ -682,6 +704,7 @@
 488 S MOUNTAIN AVE, SPRINGERVILLE, AZ, 85938-5103
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 55 hours per week.
 📞 928-333-0127
 
 105. SUNSET CHC - SAN LUIS DENTAL
@@ -689,12 +712,14 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://mysunsethealth.org/
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 42.5 hours per week.
 📞 928-627-8584
 
 106. ELK RIDGE - GRAND CANYON SITE
 1 Clinic Rd, Grand Canyon, AZ, 86023-0290
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 928-638-2551
 
 107. Chiricahua Community Health Centers, Inc. Cliff Whetten Clinic
@@ -702,6 +727,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.cchci.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 520-642-2222
 
 108. Bisbee Administration and Community Health
@@ -1042,6 +1068,7 @@
 635 E Baseline Rd, Phoenix, AZ 85042-6583
 🌐 http://mountainparkhealth.org/
 🏥 Services: Dental, Mental Health
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 79 hours per week.
 📞 (602) 243-7277
 📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
 
@@ -1049,6 +1076,7 @@
 1705 W Main St, Mesa, AZ 85201-6920
 🌐 https://adelantehealthcare.com/locations/mesa/
 🏥 Services: Dental
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 68 hours per week.
 📞 (480) 964-2273
 📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
 
@@ -1070,6 +1098,7 @@
 340 W Prince Rd, Tucson, AZ 85705-6168
 🌐 http://www.elrio.org/
 🏥 Services: Dental
+⏰ Hours: HRSA 2025 site report: full-time, 50 hours per week.
 📞 (520) 670-3909
 📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
 
@@ -1119,6 +1148,7 @@
 6950 E Golf Links Rd, Tucson, AZ 85730-1017
 🌐 https://www.elrio.org/location/southeast-campus/
 🏥 Services: Mental Health
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 73 hours per week.
 📞 (520) 792-9890
 📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
 
@@ -2902,6 +2932,7 @@ BIA State Route 19, Suites 403-409, Sells, AZ 85634
 467 Vista Avenue, Page, AZ 86040
 🌐 https://canyonlandschc.org
 🏥 Services: Mental Health
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 52.5 hours per week.
 📞 (928) 645-8123
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 
@@ -4868,12 +4899,14 @@ U.S. Highway 160 Mile Post 394.3, Kayenta, AZ 86033
 713. MARIPOSA COMMUNITY HEALTH CENTER, INC.
 1852 N Mastick Way, Nogales, AZ 85621-1063
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 52 hours per week.
 📞 (520) 281-1550
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 714. SUN LIFE FAMILY HEALTH CENTER
 205 N Stuart Blvd, Eloy, AZ 85131-2507
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (520) 836-3446
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -4886,6 +4919,7 @@ U.S. Highway 160 Mile Post 394.3, Kayenta, AZ 86033
 716. SUN LIFE FAMILY HEALTH CENTER, INC.
 865 N Arizola Rd, Casa Grande, AZ 85122-6011
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 67 hours per week.
 📞 (520) 836-3446
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -4898,6 +4932,7 @@ U.S. Highway 160 Mile Post 394.3, Kayenta, AZ 86033
 718. NORTH COUNTRY HEALTHCARE-FLAGSTAFF
 2920 N 4th St, Flagstaff, AZ 86004-1816
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 70 hours per week.
 📞 (928) 522-9879
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -4910,6 +4945,7 @@ U.S. Highway 160 Mile Post 394.3, Kayenta, AZ 86033
 720. YAVAPAI COUNTY COMMUNITY HEALTH SERVICES
 1090 Commerce Dr, Prescott, AZ 86305-3700
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 55 hours per week.
 📞 (928) 442-5285
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -5090,6 +5126,7 @@ U.S. Highway 160 Mile Post 394.3, Kayenta, AZ 86033
 750. BISBEE FAMILY HEALTH CENTER
 108 Arizona Street, Bisbee, AZ 85603-1896
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 60 hours per week.
 📞 (520) 432-3309
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 

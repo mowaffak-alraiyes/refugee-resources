@@ -5,6 +5,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.oneworldomaha.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 402-505-8180
 
 2. Charles Drew Health Center, Inc. at Jackson Tower
@@ -12,6 +13,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Public Housing Program. Source: data.hrsa.gov.
 🌐 https://www.CharlesDrew.com
 🏥 Services: Primary Care; Public housing primary care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 8 hours per week.
 📞 402-457-1243
 
 3. Charles Drew Health Center, Inc. at Kellom Elementary School
@@ -19,6 +21,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.CharlesDrew.com
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 16 hours per week.
 📞 402-505-5451
 
 4. Charles Drew Health Center, Inc. Dental Mobile Unit - Tooth Mobile
@@ -33,6 +36,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.CharlesDrew.com
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 12 hours per week.
 📞 402-502-5644
 
 6. OneWorld Teen and Young Adult Health Center South
@@ -144,6 +148,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.norfolkchcc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 39.5 hours per week.
 📞 402-454-3304
 
 23. Midtown Health Center - Woodland Park Elementary School
@@ -248,6 +253,7 @@
 5904 Henninger Dr, Omaha, NE 68104-1258
 📝 HRSA Federally Qualified Health Center (FQHC), Public Housing Program. Source: data.hrsa.gov.
 🏥 Services: Public housing primary care; Primary care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 8 hours per week.
 📞 (402) 457-1240
 🌐 http://charlesdrew.com
 
@@ -255,6 +261,7 @@
 5100 Florence Blvd, Omaha, NE 68110-5346
 📝 HRSA Federally Qualified Health Center (FQHC), Public Housing Program. Source: data.hrsa.gov.
 🏥 Services: Public housing primary care; Primary care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 4 hours per week.
 📞 (402) 457-1241
 🌐 http://charlesdrew.com/phhc/
 
@@ -262,6 +269,7 @@
 1490 N 16th St, Omaha, NE 68102-4101
 📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🏥 Services: Health Care for the Homeless; Primary care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 20 hours per week.
 📞 (402) 345-9860
 🌐 http://charlesdrew.com
 
@@ -276,6 +284,7 @@
 3600 N 24th St, Omaha, NE 68110-1872
 📝 HRSA Federally Qualified Health Center (FQHC), Public Housing Program. Source: data.hrsa.gov.
 🏥 Services: Public housing primary care; Primary care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 4 hours per week.
 📞 (402) 457-1242
 🌐 http://charlesdrew.com/phhc/
 
@@ -325,6 +334,7 @@
 4229 N 90th St, Omaha, NE 68134-4136
 🌐 http://www.oneworldomaha.org
 🏥 Services: Dental
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 50 hours per week.
 📞 (402) 734-4110
 📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
 
@@ -2032,6 +2042,7 @@ P.O. Box 1392, Norfolk, NE 68701
 313. PEOPLES HEALTH CENTER
 1021 N 27th St, Lincoln, NE 68503-1803
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 50 hours per week.
 📞 (402) 476-1640
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -2056,12 +2067,14 @@ P.O. Box 1392, Norfolk, NE 68701
 317. BELEVEDERE PUBLIC ELEMENTARY SCHOOL
 3775 Curtis Ave, Omaha, NE 68111-1169
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 12 hours per week.
 📞 (402) 457-1200
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 318. NORTHWEST HIGH SCHOOL
 8204 Crown Point Ave, Omaha, NE 68134-1922
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (402) 457-1200
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -2080,12 +2093,14 @@ P.O. Box 1392, Norfolk, NE 68701
 321. ONE WORLD COMMUNITY HEALTH CENTERS INC
 4101 S 120th St, Omaha, NE 68137-1250
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 50 hours per week.
 📞 (402) 502-8842
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 322. BRYAN HIGH SCHOOL BASED HEALTH CENTER
 4700 Giles Rd, Omaha, NE 68157-2641
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 46 hours per week.
 📞 (402) 991-3904
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 

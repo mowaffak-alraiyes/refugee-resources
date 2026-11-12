@@ -26,12 +26,14 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://healthy-connections.org
 🏥 Services: Primary Care; Migrant health center
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 479-437-3449
 
 5. COLLEGE STATION CLINIC
 4206 FRAZIER PIKE, COLLEGE STATION, AR, 72053
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 49 hours per week.
 📞 501-490-2440
 
 6. ARcare - 091
@@ -151,6 +153,7 @@
 309 S EDLINE, ALTHEIMER, AR, 72004-8559
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 870-766-8411
 
 24. ARcare-140
@@ -164,6 +167,7 @@
 1101 S Tennessee St, Pine Bluff, AR, 71601-5801
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 57 hours per week.
 📞 870-543-2315
 
 26. Healthy Connections- Jessieville School Based Health Center
@@ -212,6 +216,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.mid-delta.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 46.5 hours per week.
 📞 870-747-3381
 
 33. Lion's Clinic
@@ -226,6 +231,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.bmrhc.net
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 501-745-7888
 
 35. Star City Community Health Center
@@ -272,6 +278,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://cabun.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 38 hours per week.
 📞 870-687-3637
 
 42. Mount Ida School Based Health Center-Elementary Campus
@@ -368,6 +375,7 @@
 509 Jackson St, Madison, AR, 72359-7000
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 8 hours per week.
 📞 870-633-0330
 
 57. BOSTON MOUNTAIN RURAL HLTH CTR
@@ -389,12 +397,14 @@ HC 31 Box 310, DEER, AR, 72628
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.rvpcs.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 44 hours per week.
 📞 479-431-2050
 
 60. HUGHES CLINIC
 503 S Broadway St, Hughes, AR, 72348-9701
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 8 hours per week.
 📞 870-339-4181
 
 61. Waldron Family Clinic
@@ -461,6 +471,7 @@ HC 31 Box 310, DEER, AR, 72628
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.rvpcs.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 479-997-1484
 
 71. Mulberry Family Clinic
@@ -482,6 +493,7 @@ HC 31 Box 310, DEER, AR, 72628
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://cabun.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 38 hours per week.
 📞 870-797-7620
 
 74. MAINLINE HEALTH SYSTEM, INC.
@@ -489,6 +501,7 @@ HC 31 Box 310, DEER, AR, 72628
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.mainlinehealth.net
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 42 hours per week.
 📞 870-737-2221
 
 75. 1st Choice Healthcare Highland
@@ -516,6 +529,7 @@ HC 31 Box 310, DEER, AR, 72628
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.arcare.net
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 44 hours per week.
 📞 870-802-3586
 
 79. ASU Mid South Community College
@@ -530,6 +544,7 @@ HC 31 Box 310, DEER, AR, 72628
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://cabun.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 38 hours per week.
 📞 870-921-5781
 
 81. RVPCS Mountainburg Family Clinic
@@ -570,6 +585,7 @@ HC 31 Box 310, DEER, AR, 72628
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.mainlinehealth.net
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 38 hours per week.
 📞 870-355-2512
 
 87. Northside Clinic at 6th Street
@@ -577,6 +593,7 @@ HC 31 Box 310, DEER, AR, 72628
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.rvpcs.org
 🏥 Services: Primary Care; Migrant health center
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 479-783-3900
 
 88. Community Clinic Elkins
@@ -671,6 +688,7 @@ HC 31 Box 310, DEER, AR, 72628
 801 VINEY GROVE RD, PRAIRIE GROVE, AR, 72753-2623
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 479-846-8100
 
 103. Community Clinic Springdale Medical Family Practice and Women's Health
@@ -678,6 +696,7 @@ HC 31 Box 310, DEER, AR, 72628
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center; Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.communityclinicnwa.org
 🏥 Services: Primary Care; Migrant health center; Women's health
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 55 hours per week.
 📞 479-751-7417
 
 104. Community Clinic Rogers Dental
@@ -685,6 +704,7 @@ HC 31 Box 310, DEER, AR, 72628
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.communityclinicnwa.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 41 hours per week.
 📞 479-936-8600
 
 105. 1st Choice Healthcare Mobile Health Clinic
@@ -692,6 +712,7 @@ HC 31 Box 310, DEER, AR, 72628
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.1stchoice-ar.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 47 hours per week.
 📞 870-857-3334
 
 106. Infinity Care Solutions
@@ -718,6 +739,7 @@ HC 31 Box 310, DEER, AR, 72628
 1500 N Mount Olive St Ste 1, Siloam Springs, AR, 72761-9509
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 479-524-8175
 
 110. Gentry Medical Center
@@ -821,6 +843,7 @@ N 25th St, Fort Smith, AR 72901-3431
 4900 Kelley Hwy, Fort Smith, AR 72904-5000
 📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🏥 Services: Migrant health center; Primary care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 (479) 785-5700
 🌐 http://www.rvpcs.org
 
@@ -1144,6 +1167,7 @@ P.O. Box 251970, Little Rock, AR 72225
 54 Tate Springs, Melbourne, AR 72556
 🌐 https://www.arcare.net
 🏥 Services: Mental Health
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (870) 368-5030
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 
@@ -1158,6 +1182,7 @@ P.O. Box 251970, Little Rock, AR 72225
 4100 Harrison Street, Batesville, AR 72501
 🌐 https://www.arcare.net/
 🏥 Services: Mental Health
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (870) 307-0001
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 
@@ -1228,6 +1253,7 @@ P.O. Box 727, Fordyce, AR 71742
 406 Rodgers Drive, Searcy, AR 72143
 🌐 https://www.arcare.net
 🏥 Services: Mental Health
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 60 hours per week.
 📞 (501) 279-7979
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 
@@ -1473,6 +1499,7 @@ P.O. Box 1589, Benton, AR 72018
 1500 Museum Road, Suite 104, Conway, AR 72032
 🌐 https://www.arcare.net/
 🏥 Services: Mental Health
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 48 hours per week.
 📞 (501) 932-9010
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 
@@ -1508,6 +1535,7 @@ P.O. Box 1589, Benton, AR 72018
 2624 Highway 42, Cherry Valley, AR 72324
 🌐 https://www.arcare.net
 🏥 Services: Mental Health
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (870) 442-2040
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 
@@ -3640,6 +3668,7 @@ P.O. Box 251950, Monticello, AR 71657
 557. EAST ARKANSAS FAMILY HLTH CTR INC
 102 Broad St, Lepanto, AR 72354
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 (504) 475-2977
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -3682,6 +3711,7 @@ P.O. Box 251950, Monticello, AR 71657
 564. AUGUSTA MEDICAL CLINIC
 400 Highway 64 E, Augusta, AR 72006
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (870) 347-2508
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -3706,6 +3736,7 @@ P.O. Box 251950, Monticello, AR 71657
 568. BALD KNOB MEDICAL CLINIC
 178 Highway 167 N, Bald Knob, AR 72010-4058
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (501) 347-2534
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -3730,6 +3761,7 @@ P.O. Box 251950, Monticello, AR 71657
 572. WYNNE HEALTH CENTER
 601 Julia Ave E, Wynne, AR 72396-3506
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 44 hours per week.
 📞 (870) 347-2534
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -3784,12 +3816,14 @@ HIGHWAY 16 - VALLEY HEALTH DRIVE, Deer, AR 72628
 581. ARCARE 35
 1175 Vine St, Batesville, AR 72501-3526
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 48 hours per week.
 📞 (870) 251-9933
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 582. LAKE CITY HEALTH CENTER
 1009 Highway 18, Lake City, AR 72437-9622
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (870) 237-9928
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -3808,6 +3842,7 @@ HIGHWAY 16 - VALLEY HEALTH DRIVE, Deer, AR 72628
 585. MONTGOMERY COUNTY COMMUNITY CLINIC
 534 Luzerne St, Mount Ida, AR 71957-9449
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 50 hours per week.
 📞 (870) 867-4244
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -3826,6 +3861,7 @@ HIGHWAY 16 - VALLEY HEALTH DRIVE, Deer, AR 72628
 588. TRUMANN FAMILY HEALTH CENTER
 417 W Main St, Trumann, AR 72472-3116
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 (870) 483-1025
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -3844,6 +3880,7 @@ HIGHWAY 16 - VALLEY HEALTH DRIVE, Deer, AR 72628
 591. BOSTON MOUNTAIN RURAL HEALTH CENTER, INC
 1103 W Main St, Green Forest, AR 72638
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (870) 438-6500
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -3862,12 +3899,14 @@ HIGHWAY 16 - VALLEY HEALTH DRIVE, Deer, AR 72628
 594. OWL CREEK SCHOOL BASED HEALTH CENTER
 375 N Rupple Rd, Fayetteville, AR 72704-6110
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (479) 718-0200
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 595. HELENA FAMILY HEALTH CENTER
 513 Porter St, Helena, AR 72342-3217
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 49 hours per week.
 📞 (870) 817-0122
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -3886,18 +3925,21 @@ HIGHWAY 16 - VALLEY HEALTH DRIVE, Deer, AR 72628
 598. LAMAR SCHOOL DISTRICT HEALTH CENTER
 635 Childers St, Lamar, AR 72846
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 40 hours per week.
 📞 (479) 885-3966
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 599. ARCARE 46
 5830 Highway 5, Cabot, AR 72023
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 44 hours per week.
 📞 (501) 941-1376
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 600. ARCARE 47
 1310 N Center St, Lonoke, AR 72086
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 48 hours per week.
 📞 (501) 676-0181
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -3922,12 +3964,14 @@ HIGHWAY 16 - VALLEY HEALTH DRIVE, Deer, AR 72628
 604. GEORGE ELEMENTARY SCHOOL BASED HEALTH CENTER
 2878 Powell St, Springdale, AR 72764-7333
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (479) 872-3045
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 605. BOSTON MOUNTAIN RURAL HEALTH CENTER, INC
 326 Southside Rd, Bee Branch, AR 72013-9137
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (501) 654-2006
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 

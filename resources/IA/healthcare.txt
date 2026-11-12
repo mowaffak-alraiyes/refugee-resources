@@ -13,6 +13,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.phciowa.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 515-643-4610
 
 3. Primary Health Care - Bery Engebretsen Clinic
@@ -20,6 +21,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.phcinc.net
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 48 hours per week.
 📞 515-248-1400
 
 4. Primary Health Care - East Side Clinic
@@ -27,6 +29,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.phcinc.net
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 60 hours per week.
 📞 515-248-1600
 
 5. Primary Health Care - Story County
@@ -78,6 +81,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://chcsi.org/
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 10 hours per week.
 📞 641-446-2383
 
 13. MT. AYR COMM JUNIOR/SENIOR SBHC
@@ -85,6 +89,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://chcsi.org/
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 10 hours per week.
 📞 641-446-2383
 
 14. MT. AYR ELEMENTARY SCHOOL
@@ -92,6 +97,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://chcsi.org/
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 10 hours per week.
 📞 641-446-2383
 
 15. Mount Ayr Office
@@ -105,6 +111,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://chcsi.org/
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, seasonal, 10 hours per week.
 📞 641-446-2383
 
 17. Proteus, Inc. - Fort Dodge Site
@@ -150,6 +157,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.riverhillshealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 48 hours per week.
 📞 641-683-5773
 
 24. RHCHC-Wapello County Behavioral Health Clinic
@@ -224,6 +232,7 @@
 1548 S Gilbert St, Iowa City, IA, 52240-4304
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 563-264-0880
 
 36. Abraham Lincoln High School
@@ -236,6 +245,7 @@
 902 S 6TH ST, COUNCIL BLUFFS, IA, 51501-6441
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, 57 hours per week.
 📞 712-325-1990
 
 38. New Visions Homeless Services
@@ -288,6 +298,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.slandchc.com
 🏥 Services: Primary Care, Ryan White HIV/AIDS Program
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 61 hours per week.
 📞 712-252-2477
 
 46. Smart Junior High
@@ -308,6 +319,7 @@
 500 W River Dr, Davenport, IA, 52801-1014
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 59.5 hours per week.
 📞 563-336-3000
 
 49. Crescent Community Health Center Ophthalmology Clinic
@@ -340,6 +352,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.promisechc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 60 hours per week.
 📞 712-722-1700
 
 54. Promise CHC Rock Valley Schools
@@ -377,6 +390,7 @@
 125 Scott St, Davenport, IA 52801-1130
 📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🏥 Services: Dental
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 54.5 hours per week.
 📞 (563) 336-3221
 🌐 https://www.davchc.com
 
@@ -1497,6 +1511,7 @@ P.O. Box 34, Atlantic, IA 50022
 905 Franklin Street, Waterloo, IA 50703
 🌐 https://www.peoples-clinic.com
 🏥 Services: Mental Health
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 61 hours per week.
 📞 (319) 874-3000
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 
@@ -2215,6 +2230,7 @@ P.O. Box 34, Atlantic, IA 50022
 302 NE 14th Street, Leon, IA 50144
 🌐 https://www.weareinfinityhealth.org
 🏥 Services: Substance use treatment, Mental Health
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 50 hours per week.
 📞 (641) 856-6471
 📝 Substance use treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 
@@ -3541,6 +3557,7 @@ P.O. Box 34, Atlantic, IA 50022
 545. COMMUNITY HEALTH CENTER OF FORT DODGE INC
 126 N 10th St, Fort Dodge, IA 50501-3915
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 63 hours per week.
 📞 (515) 576-6500
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -3565,12 +3582,14 @@ P.O. Box 34, Atlantic, IA 50022
 549. BEHAVIORAL HEALTH CENTERS OF SOUTHERN IOWA-LAMONI
 215 S Oak St, Lamoni, IA 50140-1519
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 4 hours per week.
 📞 (641) 446-2383
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 550. BEHAVIORAL HEALTH CENTERS OF SOUTHERN IOWA-LEON
 203 SW Lorraine St, Leon, IA 50144-1176
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 4 hours per week.
 📞 (641) 446-2383
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -3601,12 +3620,14 @@ P.O. Box 34, Atlantic, IA 50022
 555. COMM HEALTH CENTER OF SOUTHERN IOWA INC DMS LAMONI
 802 Ackerly St, Lamoni, IA 50140-1544
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (641) 784-3371
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 556. RIVER HILLS COMMUNITY HEALTH CENTER INC
 100 W Main St, Richland, IA 52585-9212
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (319) 456-2045
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 

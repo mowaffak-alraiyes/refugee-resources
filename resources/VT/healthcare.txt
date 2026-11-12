@@ -11,6 +11,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.chcb.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 40.25 hours per week.
 📞 802-652-1080
 
 3. School-Based Dental Center at the Integrated Arts Academy (IAA)
@@ -18,6 +19,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.chcb.org
 🏥 Services: Primary Care; Dental
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 20.25 hours per week.
 📞 802-658-4869
 
 4. LUND Family Center
@@ -66,6 +68,7 @@
 61 Pine St Bldg 4, Bristol, VT, 05443-1043
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 40 hours per week.
 📞 802-453-3911
 
 12. Swanton Health Center
@@ -126,6 +129,7 @@ East Hill Road, Plainfield, VT, 05667-9525
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://thcplainfield.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 60 hours per week.
 📞 802-454-8336
 
 21. NORTHERN COUNTIES DENTAL CENTER
@@ -133,6 +137,7 @@ East Hill Road, Plainfield, VT, 05667-9525
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.nchcvt.org/
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 51 hours per week.
 📞 802-472-2260
 
 22. Hardwick Area Health Center
@@ -140,6 +145,7 @@ East Hill Road, Plainfield, VT, 05667-9525
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.nchcvt.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 48 hours per week.
 📞 802-472-3300
 
 23. Braintree Elementary School
@@ -173,6 +179,7 @@ East Hill Road, Plainfield, VT, 05667-9525
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://thcplainfield.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 8 hours per week.
 📞 802-454-8336
 
 28. Randolph Union Middle/High School
@@ -186,6 +193,7 @@ East Hill Road, Plainfield, VT, 05667-9525
 420 Grove St, Brandon, VT, 05733-9062
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 42 hours per week.
 📞 802-247-6305
 
 30. Gifford Pediatric and Adolescent Medicine
@@ -200,6 +208,7 @@ East Hill Road, Plainfield, VT, 05667-9525
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.giffordhealthcare.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 802-685-4400
 
 32. DANVILLE HEALTH CENTER
@@ -228,6 +237,7 @@ East Hill Road, Plainfield, VT, 05667-9525
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.nchcvt.org/
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 47.5 hours per week.
 📞 802-748-5041
 
 36. Community Health North Main Street
@@ -255,12 +265,14 @@ East Hill Road, Plainfield, VT, 05667-9525
 1 General Wing Rd, Rutland, VT, 05701-4681
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 59 hours per week.
 📞 802-773-9131
 
 40. Rutland Community Health Center
 215 Stratton Rd, Rutland, VT, 05701-4621
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 58 hours per week.
 📞 802-747-3295
 
 41. Wells River
@@ -274,6 +286,7 @@ East Hill Road, Plainfield, VT, 05667-9525
 69 Allen St STE 10, Rutland, VT, 05701-4564
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 48 hours per week.
 📞 802-774-5050
 
 43. Bradford Elementary School
@@ -308,6 +321,7 @@ East Hill Road, Plainfield, VT, 05667-9525
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.nchcvt.org/
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 48 hours per week.
 📞 802-695-2512
 
 48. Thetford Elementary School
@@ -321,6 +335,7 @@ East Hill Road, Plainfield, VT, 05667-9525
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.nchcvt.org/
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 46.5 hours per week.
 📞 802-723-4300
 
 50. Ludlow Health Center
@@ -345,6 +360,7 @@ East Hill Road, Plainfield, VT, 05667-9525
 100 River St, Springfield, VT, 05156-2930
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 50 hours per week.
 📞 802-886-8998
 
 54. Chester Dental Center
@@ -401,6 +417,7 @@ East Hill Road, Plainfield, VT, 05667-9525
 617 Riverside Ave, Burlington, VT 05401-1601
 🌐 http://www.chcb.org
 🏥 Services: Dental, Mental Health
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 49.5 hours per week.
 📞 (802) 864-6309
 📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
 
@@ -821,6 +838,7 @@ P.O. Box 749, Morrisville, VT 05661
 23 Upper Plain, Bradford, VT 05033
 🌐 https://www.valleyvistarecovery.com
 🏥 Services: Substance use treatment, Mental Health
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 168 hours per week.
 📞 (802) 222-5201
 📝 Substance use treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 
@@ -941,12 +959,14 @@ P.O. Box 749, Morrisville, VT 05661
 141. CASTLETON FAMILY HEALTH CENTER
 275 Route 30 N, Bomoseen, VT 05732-9647
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 68 hours per week.
 📞 (802) 468-5641
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 142. METTOWEE VALLEY FAMILY HEALTH CENTER
 278 Vt Route 149, West Pawlet, VT 05775-9798
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 56 hours per week.
 📞 (802) 645-0580
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -965,6 +985,7 @@ P.O. Box 749, Morrisville, VT 05661
 145. SAFE HARBOR
 184 S Winooski Ave, Burlington, VT 05401-4535
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 37 hours per week.
 📞 (802) 860-4310
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -989,6 +1010,7 @@ P.O. Box 749, Morrisville, VT 05661
 149. BATTENKILL VALLEY HEALTH CENTER INC
 9 Church St, Arlington, VT 05250-4457
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 52 hours per week.
 📞 (802) 375-6566
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -1001,18 +1023,21 @@ P.O. Box 749, Morrisville, VT 05661
 151. GIFFORD HEALTH CARE INC
 1823 Vt Rte 107, Bethel, VT 05032-9324
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 (802) 234-9913
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 152. GIFFORD HEALTH CARE INC
 44 S Main St, Randolph, VT 05060-1381
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 58 hours per week.
 📞 (802) 728-2416
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 153. GIFFORD HEALTH CARE INC
 235 S Main St, Rochester, VT 05767-9683
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 34 hours per week.
 📞 (802) 767-3704
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -1073,6 +1098,7 @@ P.O. Box 749, Morrisville, VT 05661
 163. BURLINGTON HEALTH AND REHAB
 300 Pearl St, Burlington, VT 05401-8531
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 25.5 hours per week.
 📞 (802) 264-8158
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 

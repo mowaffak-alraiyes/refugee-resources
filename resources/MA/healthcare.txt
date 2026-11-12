@@ -4,6 +4,7 @@
 17 Court St, Boston, MA, 02108-2601
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Health Care for the Homeless
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 20 hours per week.
 📞 617-371-1772
 
 🌐 http://www.bhchp.org/
@@ -12,6 +13,7 @@
 25 Staniford St, Boston, MA, 02114-2503
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program; Health Center Service Delivery Site. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Mental health; Health Care for the Homeless
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 5 hours per week.
 📞 617-626-8500
 
 🌐 http://www.bhchp.org/
@@ -33,12 +35,14 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.northendwaterfronthealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 56.5 hours per week.
 📞 617-643-8085
 
 6. Kingston House
 39 Kingston St, Boston, MA, 02111-2208
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Health Care for the Homeless
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 4 hours per week.
 📞 617-482-8819
 
 🌐 http://www.bhchp.org/
@@ -47,6 +51,7 @@
 39 Boylston St, Boston, MA, 02116-4702
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Health Care for the Homeless
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 31 hours per week.
 📞 617-524-4704
 
 🌐 http://www.bhchp.org/
@@ -56,6 +61,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.scchc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 42.5 hours per week.
 📞 617-521-6760
 
 9. SCCHC Pharmacy
@@ -68,6 +74,7 @@
 67 Newbury St, Boston, MA, 02116-3010
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program; Health Center Service Delivery Site. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Women's health; Health Care for the Homeless
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 14 hours per week.
 📞 617-267-0200
 
 🌐 http://www.bhchp.org/
@@ -77,12 +84,14 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.ebnhc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 617-569-5800
 
 12. PINE STREET INN Women's Clinic
 363 Albany St, Boston, MA, 02118-2503
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program; Health Center Service Delivery Site. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Women's health; Health Care for the Homeless
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 39 hours per week.
 📞 857-654-1865
 
 🌐 http://www.bhchp.org
@@ -111,6 +120,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.shchc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 56 hours per week.
 📞 617-464-7509
 
 17. Engagement Center
@@ -131,6 +141,7 @@
 794 Massachusetts Ave, Boston, MA, 02118-2319
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Health Care for the Homeless
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 42.5 hours per week.
 📞 617-534-7101
 
 🌐 http://www.bhchp.org/
@@ -147,6 +158,7 @@
 889 Harrison Ave, Boston, MA, 02118-4004
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Health Care for the Homeless
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 14 hours per week.
 📞 617-442-9322
 
 🌐 http://www.bhchp.org/
@@ -156,6 +168,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.wshc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 66 hours per week.
 📞 617-427-1000
 
 23. Boston Day and Evening Academy
@@ -168,6 +181,7 @@
 90 Cushing Ave, Dorchester, MA, 02125-2028
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 20 hours per week.
 📞 617-436-8600
 
 25. Y2Y Harvard Square
@@ -199,6 +213,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.charlesriverhealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 24 hours per week.
 📞 617-783-0500
 
 30. DORCHESTER HOUSE MULTI SVS/WIC
@@ -233,12 +248,14 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.charlesriverhealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 59 hours per week.
 📞 617-783-0500
 
 35. Pine Street Inn at the Shattuck
 170 Morton St, Jamaica Plain, MA, 02130-3735
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 36 hours per week.
 📞 617-971-3787
 
 36. Codman Square WIC
@@ -259,6 +276,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.hhsi.us
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 55 hours per week.
 📞 617-282-3200
 
 39. Neighborhealth Corporation – 10 Garofola St
@@ -272,12 +290,14 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.codman.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, seasonal, 27.5 hours per week.
 📞 617-822-8272
 
 41. EMPath
 10 Perthshire Rd, Brighton, MA, 02135-1723
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 21 hours per week.
 📞 617-782-7600
 
 42. Young Achievers Science and Math Pilot School
@@ -290,12 +310,14 @@
 1135 Morton St FL 2, Mattapan, MA, 02126-2834
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 62.5 hours per week.
 📞 617-533-2400
 
 44. Entre Familia
 209 River St, Mattapan, MA, 02126-2727
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 17.5 hours per week.
 📞 617-536-7969
 
 45. Transitions
@@ -309,12 +331,14 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.manetchc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 62 hours per week.
 📞 617-376-3000
 
 47. HOLMES STREET CLINIC
 88 Holmes, Quincy, MA, 02171-2431
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 46.5 hours per week.
 📞 617-318-3200
 
 48. Mattapan Community Health Center
@@ -322,6 +346,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.mattapanchc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 44 hours per week.
 📞 617-296-0061
 
 49. CLASSICAL HIGH SCHOOL
@@ -329,6 +354,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://lchcnet.org/aboutus
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, seasonal, 40 hours per week.
 📞 781-592-8634
 
 50. Drewicz Elementary School - School Based Health Center
@@ -342,6 +368,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.manetchc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 48 hours per week.
 📞 617-471-8683
 
 52. BREED MIDDLE SCHOOL
@@ -349,6 +376,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://lchcnet.org/aboutus/
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, seasonal, 35 hours per week.
 📞 781-598-0287
 
 53. Lynn Vocational Technical High School, School Based Health Center, Annex
@@ -363,6 +391,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://lchcnet.org/aboutus/
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 781-596-3500
 
 55. MSFHS AT WESTERN AVENUE
@@ -370,6 +399,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://lchcnet.org/aboutus/
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 48 hours per week.
 📞 781-595-7348
 
 56. MANET CHC AT SNUG HARBOR
@@ -377,6 +407,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.manetchc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 48 hours per week.
 📞 617-471-4715
 
 57. Program for All-Inclusive Care for the Elderly (PACE) Site
@@ -384,6 +415,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.lchcnet.org/AboutUs/
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 781-595-4713
 
 58. Lynn Multiservice Center
@@ -391,6 +423,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://lchcnet.org/aboutus/
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 4 hours per week.
 📞 781-581-0739
 
 59. RAW Art Works
@@ -409,6 +442,7 @@
 269 Union St, Lynn, MA, 01901-1314
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 73 hours per week.
 📞 781-581-3900
 
 62. INGALLS ELEMENTARY SCHOOL
@@ -416,6 +450,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://lchcnet.org/aboutus/
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, seasonal, 35 hours per week.
 📞 781-593-0734
 
 63. Pickering Middle School SBHC
@@ -429,6 +464,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.manetchc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 53 hours per week.
 📞 781-925-4550
 
 65. Horace Mann Laboratory School
@@ -443,6 +479,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.nschi.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 978-532-4903
 
 67. Collins Middle School
@@ -528,6 +565,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.glfhc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 4 hours per week.
 📞 978-975-4547
 
 80. Lawrence High School
@@ -548,6 +586,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.lchealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 66 hours per week.
 📞 978-937-9700
 
 83. Lowell CHC - 101 Jackson Street
@@ -562,6 +601,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.glfhc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 47 hours per week.
 📞 978-689-2400
 
 85. GLFHC at Lawrence General Hospital
@@ -569,6 +609,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.glfhc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 44 hours per week.
 📞 978-725-7400
 
 86. GLFHC Mobile Unit
@@ -583,6 +624,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.glfhc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 1 hours per week.
 📞 978-725-7400
 
 88. GREATER LAWRENCE FAMILY HEALTH
@@ -603,6 +645,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.glfhc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 8 hours per week.
 📞 978-725-7400
 
 91. GLFHC-NORTH
@@ -610,6 +653,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.glfhc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 48 hours per week.
 📞 978-685-1770
 
 92. GLFHC at Element Care
@@ -629,6 +673,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.nschi.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 42.5 hours per week.
 📞 978-744-8388
 
 95. Edward M. Kennedy Community Health Center Milford
@@ -643,6 +688,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.glfhc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 6 hours per week.
 📞 978-725-7400
 
 97. EMMAUS HOUSE
@@ -650,6 +696,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.glfhc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 4 hours per week.
 📞 978-725-7400
 
 98. Community Action Drop-In Center
@@ -676,6 +723,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.kennedychc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, seasonal, 4 hours per week.
 📞 508-798-3229
 
 102. NORTH HIGH SCHOOL HLTH CENTER-112-A,I,K,M
@@ -683,6 +731,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.kennedychc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, seasonal, 40 hours per week.
 📞 508-791-5789
 
 103. Leominster Community Health and Urgent Care Center
@@ -696,6 +745,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.kennedychc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, seasonal, 40 hours per week.
 📞 508-791-4326
 
 105. BURNCOAT SCHOOL BASED  HEALTH CENTER-507
@@ -703,6 +753,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.kennedychc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, seasonal, 40 hours per week.
 📞 508-854-3266
 
 106. UMass Memorial Health, Belmont Campus
@@ -710,6 +761,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.umassmemorial.org
 🏥 Services: Ryan White HIV/AIDS Program; Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 168 hours per week.
 📞 508-860-7700
 
 107. Family Health Center of Worcester, Inc.
@@ -717,6 +769,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 http://www.fhcw.org
 🏥 Services: Ryan White HIV/AIDS Program; Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 71 hours per week.
 📞 508-860-7700
 
 108. Worcester Health Care for the Homeless
@@ -731,6 +784,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.fhcw.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, seasonal, 40 hours per week.
 📞 508-757-3401
 
 110. SSTAR Integrated Health Services Center
@@ -745,6 +799,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.sstar.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 54.5 hours per week.
 📞 508-675-1054
 
 112. HealthFirst Family Care Center Inc.
@@ -752,6 +807,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.healthfirstfr.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 62 hours per week.
 📞 508-679-8111
 
 113. SSTAR’s South End Services
@@ -773,6 +829,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.gnbchc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 60 hours per week.
 📞 508-992-6553
 
 116. WELLFLEET HEALTH CENTER
@@ -780,6 +837,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://OUTERCAPE.ORG
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 71 hours per week.
 📞 508-349-3131
 
 117. Centerville Recreation Building
@@ -794,6 +852,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.duffyhealthcenter.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 51 hours per week.
 📞 508-771-9599
 
 119. North Quabbin Health Center- Dental
@@ -860,6 +919,7 @@
 287 STATE ST, SPRINGFIELD, MA, 01105-1812
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Health Care for the Homeless
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 9 hours per week.
 📞 413-737-7062
 
 🌐 http://www.springfieldcityhall.com
@@ -875,6 +935,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.hhcinc.org/
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 54.51 hours per week.
 📞 413-420-2111
 
 131. HSH Health Center & Dental Clinic
@@ -895,6 +956,7 @@
 327 Liberty St, Springfield, MA, 01104-3733
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 8.5 hours per week.
 📞 413-785-1921
 
 134. Caring Health Center Main Street Clinic
@@ -916,6 +978,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 http://www.baystatehealth.com/Baystate/Main+Nav/About+Us/Locations
 🏥 Services: Ryan White HIV/AIDS Program; Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 57.5 hours per week.
 📞 413-794-4458
 
 137. East Hampton High School SBHC
@@ -929,6 +992,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.hchcweb.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 30 hours per week.
 📞 413-667-0142
 
 139. HUNTINGTON HEALTH CENTER
@@ -936,6 +1000,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.hchcweb.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 60 hours per week.
 📞 413-667-3009
 
 140. CHP Lee Family Practice
@@ -943,6 +1008,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.chpberkshires.org/
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 413-243-0536
 
 141. CHP Great Barrington Family Health and Dental Center
@@ -950,6 +1016,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.chpberkshires.org/
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 413-528-8580
 
 142. CHP Berkshire Pediatrics
@@ -1029,6 +1096,7 @@
 19 Tacoma St, Worcester, MA 01605-3516
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🏥 Services: Ryan White HIV/AIDS Program
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 61 hours per week.
 📞 (508) 852-1805
 
 155. Fenway: Ansin Building
@@ -1068,6 +1136,7 @@
 444 Harrison Ave, Boston, MA 02118-2404
 📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🏥 Services: Health Care for the Homeless; Primary care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 82 hours per week.
 📞 (617) 414-7626
 🌐 http://www.bhchp.org/
 
@@ -1208,6 +1277,7 @@ CONFIDENTIAL, Boston, MA 02112
 170 Apricot St, Worcester, MA 01603-1297
 🌐 http://www.fhcw.org
 🏥 Services: Mental Health
+⏰ Hours: HRSA 2025 site report: part-time, seasonal, 40 hours per week.
 📞 (508) 860-7700
 📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
 
@@ -1615,6 +1685,7 @@ P.O. Box 3490, Worcester, MA 01613
 1 Washington Street, Taunton, MA 02780
 🌐 https://www.comcounseling.org
 🏥 Services: Mental Health
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 56 hours per week.
 📞 (508) 828-9116
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 
@@ -1622,6 +1693,7 @@ P.O. Box 3490, Worcester, MA 01613
 365 East Street, Saunders Building, Tewksbury, MA 01876
 🌐 https://www.casaesperanza.org
 🏥 Services: Mental Health
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 4 hours per week.
 📞 (617) 272-8896
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 
@@ -1699,6 +1771,7 @@ P.O. Box 3490, Worcester, MA 01613
 326 Nichols Road, Fitchburg, MA 01420
 🌐 https://www.chcfhc.org
 🏥 Services: Mental Health
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 55 hours per week.
 📞 (978) 878-8100
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 
@@ -2134,6 +2207,7 @@ Phillip J Philbin Federal Building, 881 Main Street, Fitchburg, MA 01420
 107 Commercial Street, Mashpee, MA 02649
 🌐 https://www.chcofcapecod.org
 🏥 Services: Mental Health
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 50 hours per week.
 📞 508-477-7090 x3106
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 
@@ -2421,6 +2495,7 @@ P.O. Box 4219, Pittsfield, MA 01202
 45 Dimock Street, Roxbury, MA 02119
 🌐 https://www.dimock.org
 🏥 Services: Mental Health
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 58 hours per week.
 📞 617-442-8800 x1289
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 
@@ -2730,6 +2805,7 @@ P.O. Box 4219, Pittsfield, MA 01202
 175 Connors Street, Gardner, MA 01440
 🌐 https://www.chcfhc.org
 🏥 Services: Mental Health
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 54 hours per week.
 📞 (978) 410-6131
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 
@@ -3604,6 +3680,7 @@ P.O. Box 4219, Pittsfield, MA 01202
 280 Union Street, Suite 302, Lynn, MA 01901
 🌐 https://www.cleanslatecenters.com
 🏥 Services: Substance use treatment
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 52 hours per week.
 📞 (781) 731-6804
 📝 Substance use treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 
@@ -3836,6 +3913,7 @@ P.O. Box 4219, Pittsfield, MA 01202
 561. SALEM FAMILY HEALTH CENTER
 47 Congress St, Salem, MA 01970-7308
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 49.5 hours per week.
 📞 (978) 532-4903
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -3854,6 +3932,7 @@ P.O. Box 4219, Pittsfield, MA 01202
 564. SOUTH COVE COMMUNITY HEALTH CENTER
 885 Washington Street, Boston, MA 02111-1416
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 47 hours per week.
 📞 (617) 482-7555
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -3896,6 +3975,7 @@ P.O. Box 4219, Pittsfield, MA 01202
 571. CHICOPEE HEALTH CENTER
 505 Front Street, Chicopee, MA 01013-3140
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 47 hours per week.
 📞 (413) 420-2222
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -3950,6 +4030,7 @@ P.O. Box 4219, Pittsfield, MA 01202
 580. CARING HEALTH CENTER, INC
 532 Sumner Avenue, Springfield, MA 01108-2458
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 38.75 hours per week.
 📞 (413) 739-1100
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -3962,12 +4043,14 @@ P.O. Box 4219, Pittsfield, MA 01202
 582. SOUTH COVE COMMUNITY HEALTH CENTER, INC
 435 Hancock Street, Quincy, MA 02171-2287
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 48.5 hours per week.
 📞 (617) 745-0280
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 583. LYNN COMMUNITY HLTH CNTR BEHAVIORAL HLTH SERVICES
 20 Central Avenue, Lynn, MA 01901-1201
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 60 hours per week.
 📞 (781) 477-7222
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -3980,6 +4063,7 @@ P.O. Box 4219, Pittsfield, MA 01202
 585. GREATER LAWRENCE FAMILY HEALTH CENTER, INC
 57 River Road, Andover, MA 01810-1199
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (978) 686-8521
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -3992,12 +4076,14 @@ P.O. Box 4219, Pittsfield, MA 01202
 587. COMMUNITY HEALTH CENTER OF CAPE COD-FALMOUTH
 210 Jones Road, Falmouth, MA 02540-2974
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 44 hours per week.
 📞 (508) 540-2949
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 588. CHP NEIGHBORHOOD HEALTH CENTER
 510 North Street, Pittsfield, MA 01201-5493
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 54 hours per week.
 📞 (413) 447-2351
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -4016,12 +4102,14 @@ P.O. Box 4219, Pittsfield, MA 01202
 591. EDWARD M KENNEDY COMMUNITY HEALTH CENTER, INC
 354 Waverly Street, Framingham, MA 01702
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 60 hours per week.
 📞 (508) 370-0113
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 592. COBBET ELEMENTARY SCHOOL
 40 Franklin Street, Lynn, MA 01902-4106
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, seasonal, 35 hours per week.
 📞 (781) 477-7341
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -4034,6 +4122,7 @@ P.O. Box 4219, Pittsfield, MA 01202
 594. HARBOR COMMUNITY HEALTH CENTER - PLYMOUTH
 10 Cordage Park Circle, #115, Plymouth, MA 02360-7318
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 55 hours per week.
 📞 (508) 778-5480
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -4058,18 +4147,21 @@ P.O. Box 4219, Pittsfield, MA 01202
 598. TRACEY ELEMENTARY SCHOOL
 35 Walnut Street, Lynn, MA 01905-1694
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, seasonal, 35 hours per week.
 📞 (781) 477-7466
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 599. FORD ELEMENTARY SCHOOL
 49 Hollingsworth Street, Lynn, MA 01902-3509
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, seasonal, 35 hours per week.
 📞 (781) 477-7375
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 600. BRICKETT ELEMENTARY SCHOOL
 123 Lewis Street, Lynn, MA 01902-4897
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, seasonal, 35 hours per week.
 📞 (781) 477-7333
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -4100,6 +4192,7 @@ P.O. Box 4219, Pittsfield, MA 01202
 605. THE TEEN HEALTH CENTER SALEM HIGH SCHOOL
 77 Willson Street, Salem, MA 01970-2898
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (978) 825-1109
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -4118,6 +4211,7 @@ P.O. Box 4219, Pittsfield, MA 01202
 608. LYNN CHC SBHC CONNERY ELEMENTRY
 50 Elm Street, Lynn, MA 01905-2475
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, seasonal, 35 hours per week.
 📞 (781) 477-7344
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 

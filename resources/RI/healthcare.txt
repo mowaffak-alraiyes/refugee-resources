@@ -23,6 +23,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.providencechc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 42.5 hours per week.
 📞 401-444-0550 x3568
 
 5. CENTRAL HEALTH CENTER
@@ -30,6 +31,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.providencechc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 42.5 hours per week.
 📞 401-444-0580 x3868
 
 6. Thundermist Special Populations Providence
@@ -56,6 +58,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.providencechc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 76 hours per week.
 📞 401-444-0570
 
 10. Atwood Street Health Center
@@ -76,6 +79,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.comcap.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 58 hours per week.
 📞 401-943-1981
 
 13. MOLAR EXPRESS-DENTAL VAN / Mobile Medical Unit Primary Care
@@ -83,6 +87,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.comcap.org
 🏥 Services: Primary Care; Dental
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 40 hours per week.
 📞 401-467-9610
 
 14. Tri-County Community Health Center
@@ -90,6 +95,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.tricountyri.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 54 hours per week.
 📞 401-519-1940
 
 15. Blackstone Valley Community Healthcare I – 42 Park Pl
@@ -103,6 +109,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.ebcap.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 48 hours per week.
 📞 401-437-1008
 
 17. Central Falls SBHC
@@ -124,6 +131,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.bvchc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 44 hours per week.
 📞 401-724-7110
 
 20. CCAP: Integrated Primary Care Partners
@@ -165,6 +173,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.thundermisthealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, seasonal, 24 hours per week.
 📞 401-615-2900
 
 26. FAMILY HEALTH SVCS OF COVENTRY
@@ -172,6 +181,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.comcap.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 401-467-9610
 
 27. HealthHut - Woonsocket Middle School
@@ -212,6 +222,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.woodriverhealthservices.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 62 hours per week.
 📞 401-539-2461
 
 33. WRHS Westerly Site
@@ -268,6 +279,7 @@
 210 Main St, Pawtucket, RI 02860-4008
 📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🏥 Services: Dental
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (401) 729-5239
 🌐 https://www.bvchc.org
 
@@ -318,6 +330,7 @@
 226 Buttonwoods Ave, Warwick, RI 02886-7541
 🌐 http://www.comcap.org
 🏥 Services: Dental, Mental Health
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 58 hours per week.
 📞 (401) 732-9090
 📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
 
@@ -458,6 +471,7 @@
 33 Maple Avenue, North Providence, RI 02911
 🌐 https://www.tricountyri.org
 🏥 Services: Mental Health
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 48 hours per week.
 📞 (401) 519-1903
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 
@@ -658,12 +672,14 @@
 99. THUNDERMIST HEALTH CTR OF SO COUNTY
 1 River St, Wakefield, RI 02879-3214
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 76 hours per week.
 📞 (401) 767-4163
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 100. BLACKSTONE VALLEY COMMUNITY HEALTH CARE
 39 East Ave, Pawtucket, RI 02860-4003
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 50 hours per week.
 📞 (401) 312-9813
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -682,12 +698,14 @@
 103. WELLONE PRIMARY MEDICAL AND DENTAL CARE
 36 Bridge Way, Pascoag, RI 02859-3131
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 55 hours per week.
 📞 (401) 568-7664
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 104. WELLONE PRIMARY MEDICAL AND DENTAL CARE
 308 Callahan Rd, North Kingstown, RI 02852-7739
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 43 hours per week.
 📞 (401) 285-5119
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -718,24 +736,28 @@
 109. CHAFEE HEALTH CENTER
 1 Warren Way, Providence, RI 02905-5000
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 42.5 hours per week.
 📞 (401) 444-0530
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 110. WELLONE PRIMARY MEDICAL AND DENTAL CARE
 142A Danielson Pike, Foster, RI 02825-1485
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 43 hours per week.
 📞 (401) 647-3702
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 111. WOONSOCKET HS HEALTH CLINIC
 777 Cass Ave, Woonsocket, RI 02895-4719
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, seasonal, 24 hours per week.
 📞 (401) 767-4700
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 112. EAST BAY COMMUNITY ACTION PROGRAM
 6 John H Chafee Blvd, Newport, RI 02840-1034
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 55 hours per week.
 📞 (401) 848-2160
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 

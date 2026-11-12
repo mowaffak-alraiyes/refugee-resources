@@ -25,6 +25,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.cwwilliams.org
 🏥 Services: Ryan White HIV/AIDS Program; Primary Care; Migrant health center; Dental
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 61 hours per week.
 📞 704-391-0819
 
 5. Dave Cathcart Pediatric Clinic
@@ -220,6 +221,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.kintegra.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 704-874-0377
 
 33. Kintegra at Community Public Charter School
@@ -269,6 +271,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.crchc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 50 hours per week.
 📞 704-792-2203
 
 40. Kintegra Mobile Dentistry Unit - 5
@@ -304,6 +307,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.kintegra.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 704-772-4700
 
 45. Kintegra at Hunter Huss High School
@@ -497,6 +501,7 @@
 1022 Shelton Ave, Statesville, NC, 28677-6729
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 50 hours per week.
 📞 704-874-3316
 
 73. Kintegra at Newton Conover High
@@ -625,6 +630,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.arms-chc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 42 hours per week.
 📞 704-694-6700 x223
 
 92. Kintegra Family Medicine - Boiling Springs
@@ -791,6 +797,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.brchs.com
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 48 hours per week.
 📞 828-692-4289
 
 116. Kintegra at Forbush Middle
@@ -1024,6 +1031,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.highcountrycommunityhealth.com
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 36 hours per week.
 📞 828-262-3886
 
 152. High Country Community Health Primedical
@@ -1031,6 +1039,7 @@ HWY 91 W. 140 SCHOOL DRIVE, SNOW HILL, NC, 28530-0000
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.highcountrycommunityhealth.com/departments
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 828-262-3886
 
 153. Hardin Park Elementary School
@@ -1050,6 +1059,7 @@ HWY 91 W. 140 SCHOOL DRIVE, SNOW HILL, NC, 28530-0000
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.tapmedicine.com
 🏥 Services: Primary Care; Pediatrics
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 42 hours per week.
 📞 336-272-1050
 
 156. Siler City Community Health Center
@@ -1089,6 +1099,7 @@ HWY 91 W. 140 SCHOOL DRIVE, SNOW HILL, NC, 28530-0000
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.brchs.com
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, seasonal, 35 hours per week.
 📞 828-692-4289
 
 162. NORTH HENDERSON HIGH SCHOOL
@@ -1096,6 +1107,7 @@ HWY 91 W. 140 SCHOOL DRIVE, SNOW HILL, NC, 28530-0000
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.brchs.com
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, seasonal, 35 hours per week.
 📞 828-692-4289
 
 163. AppHealthCare -Ashe Health Center
@@ -1117,6 +1129,7 @@ HWY 91 W. 140 SCHOOL DRIVE, SNOW HILL, NC, 28530-0000
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://brchs.com
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 57 hours per week.
 📞 828-692-4289
 
 166. Trojan Health Center
@@ -1174,6 +1187,7 @@ HWY 91 W. 140 SCHOOL DRIVE, SNOW HILL, NC, 28530-0000
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.advancechc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 919-833-3111
 
 175. Advance CarePlex - Wake Forest
@@ -1193,6 +1207,7 @@ HWY 91 W. 140 SCHOOL DRIVE, SNOW HILL, NC, 28530-0000
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.advancechc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 37.5 hours per week.
 📞 919-833-3111
 
 178. BDIHS Admin
@@ -1213,6 +1228,7 @@ HWY 91 W. 140 SCHOOL DRIVE, SNOW HILL, NC, 28530-0000
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.commwellhealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 44 hours per week.
 📞 877-935-5255
 
 181. Holton Wellness Center
@@ -1220,6 +1236,7 @@ HWY 91 W. 140 SCHOOL DRIVE, SNOW HILL, NC, 28530-0000
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.lincolnchc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45.25 hours per week.
 📞 919-530-8210
 
 182. Lincoln CHC -Durham County Human Services
@@ -1227,6 +1244,7 @@ HWY 91 W. 140 SCHOOL DRIVE, SNOW HILL, NC, 28530-0000
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.lincolnchc.org
 🏥 Services: Primary Care; Migrant health center
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 919-560-7726
 
 183. LYON PARK CLINIC
@@ -1234,6 +1252,7 @@ HWY 91 W. 140 SCHOOL DRIVE, SNOW HILL, NC, 28530-0000
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.lincolnchc.org
 🏥 Services: Primary Care; Migrant health center
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 36 hours per week.
 📞 919-536-4205
 
 184. WALLTOWN CLINIC
@@ -1253,12 +1272,14 @@ HWY 91 W. 140 SCHOOL DRIVE, SNOW HILL, NC, 28530-0000
 507 N Brightleaf Blvd STE 209, Smithfield, NC, 27577-4405
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 44 hours per week.
 📞 877-935-5255
 
 187. Piedmont Health Mobile Unit
 301 Lloyd St, Carrboro, NC, 27510-1823
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 56 hours per week.
 📞 919-942-8741
 
 188. CommWell Health Mobile Health Care – Unit 3
@@ -1278,6 +1299,7 @@ HWY 91 W. 140 SCHOOL DRIVE, SNOW HILL, NC, 28530-0000
 7228 Moncure Pittsboro Rd, Moncure, NC, 27559-9595
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 52 hours per week.
 📞 919-542-4991
 
 191. Advance Community Health-Franklin County CarePlex
@@ -1290,6 +1312,7 @@ HWY 91 W. 140 SCHOOL DRIVE, SNOW HILL, NC, 28530-0000
 163 Chatham Business Dr, Pittsboro, NC, 27312-9726
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 919-545-7337
 
 193. North Carolina Farmworkers' Project
@@ -1329,6 +1352,7 @@ HWY 91 W. 140 SCHOOL DRIVE, SNOW HILL, NC, 28530-0000
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.rhgnc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 53.67 hours per week.
 📞 252-438-3549
 
 199. GOSHEN MEDICAL CENTER - ROSEWOOD WELLNESS
@@ -1343,6 +1367,7 @@ HWY 91 W. 140 SCHOOL DRIVE, SNOW HILL, NC, 28530-0000
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.goshenmedical.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 919-242-4382
 
 201. Lee Student Health Center
@@ -1369,6 +1394,7 @@ HWY 91 W. 140 SCHOOL DRIVE, SNOW HILL, NC, 28530-0000
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.goshenmedical.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 919-739-8680
 
 205. Person Family Dental Center Roxboro Site
@@ -1395,6 +1421,7 @@ HWY 91 W. 140 SCHOOL DRIVE, SNOW HILL, NC, 28530-0000
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.piedmonthealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 50 hours per week.
 📞 336-506-5840
 
 209. Rural Health Group at Twin County
@@ -1402,6 +1429,7 @@ HWY 91 W. 140 SCHOOL DRIVE, SNOW HILL, NC, 28530-0000
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.rhgnc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 252-586-5151
 
 210. GOSHEN MEDICAL CENTER - MOUNT OLIVE MOBILE UNIT
@@ -1428,6 +1456,7 @@ HWY 91 W. 140 SCHOOL DRIVE, SNOW HILL, NC, 28530-0000
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://stedmanwadehealthservices.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 910-483-3150
 
 214. CommWell Health of Salemburg
@@ -1435,6 +1464,7 @@ HWY 91 W. 140 SCHOOL DRIVE, SNOW HILL, NC, 28530-0000
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.commwellhealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 44 hours per week.
 📞 877-935-5255
 
 215. GOSHEN MEDICAL CENTER - CAPE FEAR
@@ -1442,6 +1472,7 @@ HWY 91 W. 140 SCHOOL DRIVE, SNOW HILL, NC, 28530-0000
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.goshenmedical.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 910-354-1720
 
 216. GOSHEN MEDICAL CENTER - CLINTON
@@ -1449,6 +1480,7 @@ HWY 91 W. 140 SCHOOL DRIVE, SNOW HILL, NC, 28530-0000
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.goshenmedical.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 910-592-1462
 
 217. Rural Health Group at Whitakers
@@ -1456,6 +1488,7 @@ HWY 91 W. 140 SCHOOL DRIVE, SNOW HILL, NC, 28530-0000
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.rhgnc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 49 hours per week.
 📞 252-437-2171
 
 218. LaGrange Elementary School
@@ -1470,6 +1503,7 @@ HWY 91 W. 140 SCHOOL DRIVE, SNOW HILL, NC, 28530-0000
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.greenecountyhealthcare.com
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 53 hours per week.
 📞 252-747-4199
 
 220. CFMC at North Village Pharmacy
@@ -1484,6 +1518,7 @@ HWY 91 W. 140 SCHOOL DRIVE, SNOW HILL, NC, 28530-0000
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.greenecountyhealthcare.com
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 40 hours per week.
 📞 252-747-8162
 
 222. Rural Health Group at Lake Gaston
@@ -1537,6 +1572,7 @@ HWY 91 W. 140 SCHOOL DRIVE, SNOW HILL, NC, 28530-0000
 2064 NC HIGHWAY 125, ROANOKE RAPIDS, NC, 27870-9436
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 54.67 hours per week.
 📞 252-536-5440
 
 230. Rural Health Group at Roanoke Rapids
@@ -1544,6 +1580,7 @@ HWY 91 W. 140 SCHOOL DRIVE, SNOW HILL, NC, 28530-0000
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.rhgnc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 48 hours per week.
 📞 252-536-5000
 
 231. Contentnea-Savannah School
@@ -1571,6 +1608,7 @@ HWY 91 W. 140 SCHOOL DRIVE, SNOW HILL, NC, 28530-0000
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.commwellhealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 44 hours per week.
 📞 877-935-5255
 
 235. Happy Teeth Mobile
@@ -1598,6 +1636,7 @@ HWY 91 W. 140 SCHOOL DRIVE, SNOW HILL, NC, 28530-0000
 119 CROSSOVER RD, BEULAVILLE, NC, 28518-8801
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 910-298-3125
 
 239. CommWell Health of Harrells
@@ -1612,6 +1651,7 @@ HWY 91 W. 140 SCHOOL DRIVE, SNOW HILL, NC, 28530-0000
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.goshenmedical.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 910-289-3086
 
 241. CommWell Health of Dublin - Dental
@@ -1626,6 +1666,7 @@ HWY 91 W. 140 SCHOOL DRIVE, SNOW HILL, NC, 28530-0000
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.rhgnc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 49.75 hours per week.
 📞 252-534-1661
 
 243. GOSHEN MEDICAL CENTER - ELIZABETHTOWN
@@ -1645,6 +1686,7 @@ HWY 91 W. 140 SCHOOL DRIVE, SNOW HILL, NC, 28530-0000
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.rhcchealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 910-844-5253
 
 246. New Construction - New Lumberton Health Center
@@ -1659,6 +1701,7 @@ HWY 91 W. 140 SCHOOL DRIVE, SNOW HILL, NC, 28530-0000
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.rhgnc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 47 hours per week.
 📞 252-539-2082
 
 248. Dr. A. J. Robinson Health Center
@@ -1693,6 +1736,7 @@ HWY 91 W. 140 SCHOOL DRIVE, SNOW HILL, NC, 28530-0000
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.metropolitancommunity.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 252-945-2011
 
 253. Woodland Primary Care
@@ -1747,6 +1791,7 @@ HWY 91 W. 140 SCHOOL DRIVE, SNOW HILL, NC, 28530-0000
 305 Beechwood Blvd, Murfreesboro, NC, 27855-1134
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 41.5 hours per week.
 📞 252-398-3638
 
 261. GOSHEN MEDICAL CENTER - NEW BERN
@@ -1766,6 +1811,7 @@ HWY 91 W. 140 SCHOOL DRIVE, SNOW HILL, NC, 28530-0000
 120 Health Center Drive, Ahoskie, NC, 27910-8131
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 48 hours per week.
 📞 252-332-3548
 
 264. GOSHEN MEDICAL CENTER - CHADBOURN
@@ -1786,6 +1832,7 @@ HWY 91 W. 140 SCHOOL DRIVE, SNOW HILL, NC, 28530-0000
 109 W River St, Colerain, NC, 27924-9006
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 34 hours per week.
 📞 252-356-2404
 
 267. Gateway Community Health Centers, Inc. Mobile Primary Care Clinic
@@ -1793,6 +1840,7 @@ HWY 91 W. 140 SCHOOL DRIVE, SNOW HILL, NC, 28530-0000
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.gatewaycommunityhealthcentersinc.
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 252-357-1226
 
 268. MedNorth Health Center
@@ -1904,6 +1952,7 @@ HWY 91 W. 140 SCHOOL DRIVE, SNOW HILL, NC, 28530-0000
 815 Broad St, Durham, NC 27705-4137
 📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🏥 Services: Migrant health center; Primary care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 36 hours per week.
 📞 (919) 416-1254
 
 286. Reliable Health Services Inc.
@@ -1917,6 +1966,7 @@ HWY 91 W. 140 SCHOOL DRIVE, SNOW HILL, NC, 28530-0000
 412 Liberty St, Durham, NC 27701-3408
 📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🏥 Services: Health Care for the Homeless; Primary care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 20 hours per week.
 📞 (919) 683-1722
 
 288. State Of North Carolina Department Of Health & Human Services
@@ -1928,6 +1978,7 @@ HWY 91 W. 140 SCHOOL DRIVE, SNOW HILL, NC, 28530-0000
 1301 Fayetteville St, Durham, NC 27707-2325
 🏥 Services: Ryan White HIV/AIDS Program
 📝 Ryan White HIV/AIDS Program provider. Source: data.hrsa.gov HAB providers, reporting year 2023. No phone on the record.
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 61 hours per week.
 
 290. Duke University
 2200 W Main St, Durham, NC 27705-4640
@@ -2557,6 +2608,7 @@ P.O. Box 25719, Charlotte, NC 28229
 448 Cranberry Street, Newland, NC 28657
 🌐 https://www.highcountrycommunityhealth.com
 🏥 Services: Mental Health
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 43 hours per week.
 📞 (828) 737-0221
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 
@@ -6096,6 +6148,7 @@ Bancroft Street, AS-213, 2nd Floor, Jacksonville, NC 28540
 908. RURAL HEALTH GROUP AT ENFIELD
 114 Market Street, Enfield, NC 27823-1423
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 48 hours per week.
 📞 (252) 536-5791
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -6126,12 +6179,14 @@ Bancroft Street, AS-213, 2nd Floor, Jacksonville, NC 28540
 913. RURAL HEALTH GROUP AT HALIFAX REGIONAL MEDICAL CTR
 250 Smith Church Road, Roanoke Rapids, NC 27870-4928
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 60 hours per week.
 📞 (252) 535-0424
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 914. ENGELHARD MEDICAL CENTER
 33270 US Highway 264, Engelhard, NC 27824-9557
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (252) 925-7000
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -6162,6 +6217,7 @@ Bancroft Street, AS-213, 2nd Floor, Jacksonville, NC 28540
 919. GOSHEN MEDICAL CENTER-FAIRVIEW
 408 Fairview Street, Clinton, NC 28328-2312
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (910) 596-2400
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -6174,6 +6230,7 @@ Bancroft Street, AS-213, 2nd Floor, Jacksonville, NC 28540
 921. GOSHEN MEDICAL CENTER-ROSEWOOD
 104 Adair Drive, Goldsboro, NC 27530-4516
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (919) 648-4435
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -6330,6 +6387,7 @@ Bancroft Street, AS-213, 2nd Floor, Jacksonville, NC 28540
 947. SENIOR TOTAL LIFE CARE
 1875 Remount Road, Gastonia, NC 28054-7413
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 55 hours per week.
 📞 (704) 874-0600
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -6840,6 +6898,7 @@ Bancroft Street, AS-213, 2nd Floor, Jacksonville, NC 28540
 1032. PERSON FAMILY MEDICAL
 702 N Main St, Roxboro, NC 27573-4755
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 (919) 599-9271
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -6930,6 +6989,7 @@ ROUTE 2 BOX 337, Rose Hill, NC 28458
 1047. NEW HANOVER COMMUNITY HLTH CENTER
 925 N 4th St, Wilmington, NC 28401-3450
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 63 hours per week.
 📞 (910) 341-4325
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -6948,6 +7008,7 @@ ROUTE 2 BOX 337, Rose Hill, NC 28458
 1050. GASTON FAMILY SERVICES INC
 991 W Hudson Blvd, Gastonia, NC 28052-6430
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 57.5 hours per week.
 📞 (704) 853-5261
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -6972,6 +7033,7 @@ ROUTE 2 BOX 337, Rose Hill, NC 28458
 1054. WILSON COMMUNITY HEALTH CENTER INC
 303 Green St E, Wilson, NC 27893-4105
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 49 hours per week.
 📞 (252) 243-9800
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -6984,6 +7046,7 @@ ROUTE 2 BOX 337, Rose Hill, NC 28458
 1056. SCOTT CLINIC
 5270 Union Ridge Rd, Burlington, NC 27217-7594
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 48 hours per week.
 📞 (919) 933-8494
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -6996,6 +7059,7 @@ ROUTE 2 BOX 337, Rose Hill, NC 28458
 1058. MINNIE JONES HEALTH CENTER
 257 Biltmore Ave, Asheville, NC 28801-4120
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 50 hours per week.
 📞 (828) 285-0622
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -7008,6 +7072,7 @@ ROUTE 2 BOX 337, Rose Hill, NC 28458
 1060. GREEN DENTAL SERVICES
 6 Professional Drive, Snow Hill, NC 28580-1333
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 (252) 747-8162
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -7038,6 +7103,7 @@ ROUTE 2 BOX 337, Rose Hill, NC 28458
 1065. J H LUCAS SR WELLNESS CTR AT HILLSIDE HS
 3727 Fayetteville Street, Durham, NC 27707-4718
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 38 hours per week.
 📞 (919) 956-4000
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -7116,6 +7182,7 @@ ROUTE 2 BOX 337, Rose Hill, NC 28458
 1078. GOSHEN MEDICAL CENTER WALLACE
 110 Eastwood Dr, Wallace, NC 28466-9201
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (910) 285-2330
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -7134,6 +7201,7 @@ ROUTE 2 BOX 337, Rose Hill, NC 28458
 1081. LOGAN FAMILY RESOURCE CENTER
 298 Lincoln Street Southwest, Concord, NC 28025-5469
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 46 hours per week.
 📞 (704) 792-2242
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -7182,6 +7250,7 @@ ROUTE 2 BOX 337, Rose Hill, NC 28458
 1089. RURAL HEALTH GROUP AT SCOTLAND NECK
 919 Jr High School Road, Scotland Neck, NC 27874-1219
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 (252) 826-3143
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -7200,6 +7269,7 @@ ROUTE 2 BOX 337, Rose Hill, NC 28458
 1092. GOSHEN MEDICAL CENTER-BOLTON
 213 9th Street, Bolton, NC 28423-8410
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (910) 655-8300
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -7260,6 +7330,7 @@ ROUTE 2 BOX 337, Rose Hill, NC 28458
 1102. GOSHEN MEDICAL CENTER-NEW RIVER
 1200 Hargett St, Jacksonville, NC 28540-5933
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 44 hours per week.
 📞 (910) 219-1082
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -7302,6 +7373,7 @@ ROUTE 2 BOX 337, Rose Hill, NC 28458
 1109. GATEWAY COMMUNITY HEALTH CENTERS-TYNER
 2869 Virginia Road, Tyner, NC 27980-9777
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 10 hours per week.
 📞 (252) 384-4805
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -7314,12 +7386,14 @@ ROUTE 2 BOX 337, Rose Hill, NC 28458
 1111. DAVIDSON HEALTH SERVICES
 420 N Salisbury St, Lexington, NC 27292-3548
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (704) 874-1904
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 1112. BAKERSVILLE COMMUNITY HEALTH CENTER
 86 N Mitchell Ave, Bakersville, NC 28705-6502
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 51 hours per week.
 📞 (828) 688-2104
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -7338,6 +7412,7 @@ ROUTE 2 BOX 337, Rose Hill, NC 28458
 1115. SYLVAN COMMUNITY HEALTH CENTER
 7718 Sylvan Road, Snow Camp, NC 27349-9504
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 20 hours per week.
 📞 (336) 506-0631
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -7380,6 +7455,7 @@ ROUTE 2 BOX 337, Rose Hill, NC 28458
 1122. RURAL HEALTH GROUP AT JACKSON/DENTAL
 9409 NC Highway 305, Jackson, NC 27845-9679
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 37.3 hours per week.
 📞 (252) 536-5920
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 

@@ -508,6 +508,7 @@ BOX 7281, BO STATION, San Juan, PR 00916
 75. MIGRANT HEALTH CENTER WESTERN REGION MARICAO
 7 Calle Zuzuarregui, Maricao, PR 00606
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 47.5 hours per week.
 📞 (787) 838-3029
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -676,6 +677,7 @@ COLLE GEORGETTI , CARR 167, COMERIO, PR 00782, Naranjito, PR 00719
 103. NEOMED CENTER, INC
 11 Calle Condado, San Lorenzo, PR 00754
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 84 hours per week.
 📞 (787) 715-1260
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 

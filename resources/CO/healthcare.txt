@@ -7,6 +7,7 @@
 📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 https://www.coloradocoalition.org
 🏥 Services: Primary Care; Health Care for the Homeless
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 40 hours per week.
 📞 303-573-3707
 🗣 Languages: ASL
 
@@ -19,12 +20,14 @@
 CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 🌐 https://www.coloradocoalition.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 303-764-2100
 
 4. West Campus
 951 ELATI ST, DENVER, CO, 80204-3939
 🌐 https://www.denverhealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 720-423-5456
 
 5. Mobile Health Center 3
@@ -131,12 +134,14 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 501 28th St, Denver, CO, 80205-3003
 🌐 https://www.denverhealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 303-602-6333
 🗣 Languages: Spanish, Arabic, Polish, Urdu, Hindi, French, Ukrainian, Swahili, Korean, Vietnamese
 
 21. Manual Campus
 1700 E   28th Ave, Denver, CO, 80205-4502
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, seasonal, 40 hours per week.
 📞 720-423-6435
 
 22. East High School-Based Health Center
@@ -161,12 +166,14 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 2960 N. SPEER BLVD, DENVER, CO, 80211-3795
 🌐 https://www.denverhealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 720-423-2718
 
 26. Lake Campus
 1820 LOWELL BLVD, DENVER, CO, 80204-1549
 🌐 https://www.denverhealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 720-424-0281
 
 27. Beacon Place
@@ -174,6 +181,7 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 https://www.coloradocoalition.org
 🏥 Services: Primary Care; Health Care for the Homeless
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 168 hours per week.
 📞 303-629-1667
 🗣 Languages: ASL
 
@@ -193,6 +201,7 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 https://www.denverhealth.org
 🏥 Services: Primary Care; Health Care for the Homeless
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 303-602-6700
 
 31. Primary Care Clinic at WellPower
@@ -206,6 +215,7 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 3955 Steele St, Denver, CO, 80205-3613
 🌐 https://www.denverhealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 720-424-1232
 🗣 Languages: Spanish, Arabic, Polish, Urdu, Hindi, French, Ukrainian, Swahili, Korean, Vietnamese
 
@@ -218,6 +228,7 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 911 S Hazel Ct, Denver, CO, 80219-3418
 🌐 https://www.denverhealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 720-424-0126
 
 35. Clinica Tepeyac - Clinic
@@ -230,6 +241,7 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 1700 E. LOUISANA STREET, DENVER, CO, 80210-1810
 🌐 https://www.denverhealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 720-423-6260
 
 37. Sheridan Health Services-Urban Peak
@@ -254,6 +266,7 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 1797 KENDALL ST, LAKEWOOD, CO, 80214-1454
 🌐 https://www.coloradocoalition.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 57.5 hours per week.
 📞 303-237-6132
 
 41. 48th Avenue East Shelter Health Center
@@ -277,6 +290,7 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 2285 S FEDERAL BLVD, DENVER, CO, 80219-5433
 🌐 https://www.denverhealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 720-423-5020
 🗣 Languages: Spanish, Arabic, Polish, Urdu, Hindi, French, Ukrainian, Swahili, Korean, Vietnamese
 
@@ -296,6 +310,7 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 2250 S. Quitman Way, Denver, CO, 80219-5139
 🌐 https://www.denverhealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 720-424-0156
 
 48. Renaissance Xenia Village
@@ -303,11 +318,13 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 https://www.coloradocoalition.org
 🏥 Services: Primary Care; Health Care for the Homeless
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 303-355-9196
 
 49. Place Bridge Academy
 7125 Cherry Creek Drive North, Denver, CO, 80224-2044
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, seasonal, 40 hours per week.
 📞 720-424-2050
 🌐 https://www.coloradocoalition.org
 🗣 Languages: ASL
@@ -321,6 +338,7 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 3515 S Delaware St, Englewood, CO, 80110-3529
 🌐 https://www.mcpn.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 52.5 hours per week.
 📞 303-788-0782
 
 52. Renaissance at Lowry Boulevard
@@ -328,6 +346,7 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 https://www.coloradocoalition.org
 🏥 Services: Primary Care; Health Care for the Homeless
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 303-340-3940
 
 53. STRIDE CHC  -  Oneida
@@ -340,6 +359,7 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 1701 W. 72ND AVE, DENVER, CO, 80221-2721
 🌐 https://WWW.CLINICA.ORG
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 49 hours per week.
 📞 303-650-4460
 🗣 Languages: English
 
@@ -352,6 +372,7 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 2855 S. LAMAR ST, DENVER, CO, 80227-3809
 🌐 https://www.denverhealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 720-423-4355
 
 57. Salud Commerce City
@@ -366,6 +387,7 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 1410 Moline St APT 108, Aurora, CO, 80010-3625
 🌐 https://www.coloradocoalition.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 303-363-8391
 🗣 Languages: ASL
 
@@ -373,6 +395,7 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 3950 S Holly St, Denver, CO, 80237-1117
 🌐 https://www.denverhealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, seasonal, 40 hours per week.
 📞 720-423-7190
 
 60. Salud Adams City High School
@@ -399,6 +422,7 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 12600 Albrook Dr, Denver, CO, 80239-4604
 🌐 https://www.denverhealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 44 hours per week.
 📞 303-602-4000
 
 64. STRIDE CHC - Overland High School
@@ -417,29 +441,34 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 5000 CROWN BLVD, DENVER, CO, 80239-4329
 🌐 https://www.denverhealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 720-423-5808
 
 67. Rachel B. Noel Campus
 5290 Kittredge St, Denver, CO, 80239-5628
 🌐 https://www.denverhealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 720-424-0909
 
 68. STRIDE CHC  -  Hampden and Chambers
 15132 E Hampden Ave STE G, Aurora, CO, 80014-5038
 🌐 https://stridechc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 52.5 hours per week.
 📞 303-752-8070
 
 69. Evie Garrett Dennis Campus
 4800 Telluride St, Denver, CO, 80249-6803
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, seasonal, 40 hours per week.
 📞 720-423-7610
 
 70. Martin Luther King Junior Early College Campus
 19535 E. 46TH AVE, DENVER, CO, 80249-6637
 🌐 https://www.denverhealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 720-424-0476
 
 71. Smoky Hill High School Community Health Clinic
@@ -504,24 +533,28 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 203 S Rollie Ave, Fort Lupton, CO, 80621-1508
 🌐 https://www.saludclinic.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 25 hours per week.
 📞 303-892-6401
 
 81. Salud Fort Lupton
 1115 2nd St, Fort Lupton, CO, 80621-1745
 🌐 https://www.saludclinic.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 303-697-2583
 
 82. Salud Frederick
 5995 IRIS PARKWAY, FREDERICK, CO, 80530
 🌐 https://www.saludclinic.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 303-697-2583
 
 83. Boulder Shelter For The Homeless
 4869 Broadway, Boulder, CO, 80304-0523
 🌐 https://www.clinica.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 2 hours per week.
 📞 303-442-4646
 🗣 Languages: English
 
@@ -529,12 +562,14 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 220 E Rogers Rd, Longmont, CO, 80501-6027
 🌐 https://www.saludclinic.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 303-697-2583
 
 85. Health Center at Strasburg
 55981 E COLFAX AVE, STRASBURG, CO, 80136-8014
 🌐 https://www.peakvista.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, 59 hours per week.
 📞 303-622-9237
 
 86. South Loveland Community Health Center
@@ -547,12 +582,14 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 1250 N Wilson Ave, Loveland, CO, 80537-4461
 🌐 https://sunrisecommunityhealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 970-353-9403
 
 88. Sunrise Centennial Children's Clinic
 1400 37th St, Evans, CO, 80620-1906
 🌐 https://sunrisecommunityhealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 42 hours per week.
 📞 970-348-1138
 
 89. Sunrise Thompson Health Clinic
@@ -577,6 +614,7 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 100 N   11th Ave, Greeley, CO, 80631-2011
 🌐 https://sunrisecommunityhealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 52.5 hours per week.
 📞 970-352-8898
 
 93. SUNRISE ADELANTE CLINIC
@@ -601,12 +639,14 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 1300 N   17th Ave, Greeley, CO, 80631-9584
 🌐 https://sunrisecommunityhealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 20 hours per week.
 📞 970-353-9403
 
 97. Salud Estes Park
 1950 Redtail Hawk Dr, Estes Park, CO, 80517-9780
 🌐 https://www.saludclinic.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 303-697-2583
 
 98. Summit Cove Elementary
@@ -675,6 +715,7 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.saludclinic.org
 🏥 Services: Ryan White HIV/AIDS Program; Primary Care; Migrant health center
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 303-697-2583
 
 110. Health Center at Academy, Suite 3300
@@ -712,6 +753,7 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.peakvista.org
 🏥 Services: Primary Care; Women's health
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 719-344-6948
 
 116. Health Center at Wahsatch, Behavioral Health Center
@@ -719,6 +761,7 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.peakvista.org
 🏥 Services: Primary Care; Mental health
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 52.5 hours per week.
 📞 719-632-5700
 
 117. Enrollment Services
@@ -772,6 +815,7 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 410 Gold Pass Hts, Colorado Springs, CO, 80906-3882
 🌐 https://www.peakvista.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 52.5 hours per week.
 📞 719-632-5700
 
 126. Salud Fort Morgan Middle School
@@ -802,6 +846,7 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 350 Lyckman Dr, Fountain, CO, 80817-2861
 🌐 https://www.peakvista.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 52.5 hours per week.
 📞 719-632-5700
 
 131. Health Center  at Limon
@@ -849,6 +894,7 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 1008 N Grand Ave, Pueblo, CO, 81003-2916
 🌐 http://www.pueblochc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 30 hours per week.
 📞 719-584-3964
 🗣 Languages: Assistance Ftca Seal
 
@@ -868,6 +914,7 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 300 Colorado Ave, Pueblo, CO, 81004-2006
 🌐 http://www.PuebloCHC.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 50.5 hours per week.
 📞 719-543-8711
 🗣 Languages: Assistance Ftca Seal
 
@@ -885,12 +932,14 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 2030 Lake Ave, Pueblo, CO, 81004-3536
 🌐 http://www.pueblochc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 719-564-4823
 
 145. Northwest Colorado Health Community Health Center  -  Routt County
 940 Central Park Dr Ste 101, Steamboat Springs, CO, 80487-8853
 🌐 https://www.northwestcoloradohealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 46 hours per week.
 📞 970-879-1632
 
 146. AVONDALE CLINIC
@@ -914,6 +963,7 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 1410 S    7th Ave, Sterling, CO, 80751-4557
 🌐 https://www.saludclinic.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 303-697-2583
 
 150. Valley-Wide Ordway
@@ -926,6 +976,7 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 545 MOFFAT WAY, MOFFAT, CO, 81143-0000
 🌐 https://www.vwhs.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 16.5 hours per week.
 📞 719-256-4025
 
 152. Hayden Schools
@@ -951,6 +1002,7 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 903 S   12th St, Rocky Ford, CO, 81067-2127
 🌐 https://WWW.VWHS.ORG
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 55 hours per week.
 📞 719-254-7623
 
 156. Valley-Wide Integrated Care Clinic - La Junta
@@ -983,18 +1035,21 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 245 Vine Ave, Las Animas, CO, 81054-1039
 🌐 https://www.vwhs.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 54 hours per week.
 📞 719-456-2653
 
 162. Center Community Clinic
 186 Hurt St, Center, CO, 81125-9002
 🌐 https://www.vwhs.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45.5 hours per week.
 📞 719-754-2778
 
 163. Fort Lyon Health Center
 30999 County Road 15 Bldg 5, Fort Lyon, CO, 81054-9499
 🌐 https://www.coloradocoalition.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40.5 hours per week.
 📞 719-662-1142
 
 164. Edward M. Kennedy Health Clinic
@@ -1029,12 +1084,14 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 1131 Main St, Alamosa, CO, 81101-2446
 🌐 https://www.vwhs.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 80 hours per week.
 📞 719-589-2562
 
 170. High Plains Adult Community Health Center
 2221 Wellness Way, Lamar, CO, 81052-3867
 🌐 https://www.highplainschc.net
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 42.5 hours per week.
 📞 719-336-0261
 
 171. Valley-Wide Support Services- Lamar
@@ -1056,6 +1113,7 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 233 Main Street STE B, San Luis, CO, 81152-0000
 🌐 https://www.vwhs.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 27 hours per week.
 📞 719-672-3352
 
 175. River Valley Family Health Center of Delta
@@ -1073,12 +1131,14 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 421 WALNUT ST, LA JARA, CO, 81140-0000
 🌐 https://www.vwhs.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 719-274-8948
 
 178. Olathe Community Clinic, Inc.
 308 Main St, Olathe, CO, 81425-5066
 🌐 https:///www.rivervalleyfhc.com/
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 9.75 hours per week.
 📞 970-323-6141
 
 179. Sanford School District
@@ -1160,6 +1220,7 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 1350 SOUTH ASPEN STREET, NORWOOD, CO, 81423-0280
 🌐 https://umclinic.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 51.5 hours per week.
 📞 970-327-4233
 
 193. Durango Integrated Healthcare
@@ -1302,6 +1363,7 @@ CU Anschutz Health and Wellness Center, 12348 E. Montview Blvd, Aurora, CO 80045
 2130 Stout St, Denver, CO 80205-2827
 📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🏥 Services: Health Care for the Homeless, Primary Care, Mental Health
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 (303) 293-2220
 🌐 http://www.coloradocoalition.org/
 
@@ -1316,6 +1378,7 @@ CU Anschutz Health and Wellness Center, 12348 E. Montview Blvd, Aurora, CO 80045
 5050 W Colfax Ave, Denver, CO 80204-1015
 📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🏥 Services: Health Care for the Homeless; Primary care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 27 hours per week.
 📞 (303) 312-9750
 🌐 http://coloradocoalition.org/
 
@@ -1344,6 +1407,7 @@ CU Anschutz Health and Wellness Center, 12348 E. Montview Blvd, Aurora, CO 80045
 2135 Stout St, Denver, CO 80205-2830
 📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🏥 Services: Health Care for the Homeless; Primary care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (303) 295-8146
 🌐 http://coloradocoalition.org
 
@@ -1497,6 +1561,7 @@ CU Anschutz Health and Wellness Center, 12348 E. Montview Blvd, Aurora, CO 80045
 1100 Federal Blvd, Denver, CO 80204-3295
 🌐 http://www.denverhealth.org/
 🏥 Services: Dental
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 44 hours per week.
 📞 (303) 602-5122
 📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
 
@@ -1525,6 +1590,7 @@ CU Anschutz Health and Wellness Center, 12348 E. Montview Blvd, Aurora, CO 80045
 4320 W Alaska Pl, Denver, CO 80219-2454
 🌐 http://www.denverhealth.org/
 🏥 Services: Mental Health
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (720) 956-2900
 📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
 
@@ -3962,6 +4028,7 @@ CU Anschutz Health and Wellness Center, 12348 E. Montview Blvd, Aurora, CO 80045
 610. VALLEY-WIDE HEALTH SYSTEMS, INC.
 128 Market St, Alamosa, CO 81101-2290
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 57 hours per week.
 📞 (719) 587-5955
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -4052,6 +4119,7 @@ CU Anschutz Health and Wellness Center, 12348 E. Montview Blvd, Aurora, CO 80045
 625. SALUD FAMILY HEALTH
 1860 E Egbert St, Brighton, CO 80601-2404
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (303) 659-4000
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -4088,6 +4156,7 @@ W 10th Ave & Dahlia St, Antonito, CO 81120-5010
 631. C C F H S - CLINICA CAMPESINA FAMILY HEALTH SERVIC
 2525 13th St, Boulder, CO 80304-4104
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 49 hours per week.
 📞 (303) 449-6050
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -4100,6 +4169,7 @@ W 10th Ave & Dahlia St, Antonito, CO 81120-5010
 633. PLAN DE SALUD DEL VALLE
 729 E Railroad Ave, Fort Morgan, CO 80701-3340
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (303) 867-0300
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -4154,12 +4224,14 @@ W 10th Ave & Dahlia St, Antonito, CO 81120-5010
 642. C C F H S - CLINICA CAMPESINA FAMILY HEALTH
 8990 Washington St, Thornton, CO 80229-4537
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 49 hours per week.
 📞 (303) 412-8180
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 643. MOUNTAIN FAMILY HEALTH CENTER
 1905 Blake Ave, Ste 101, Glenwood Springs, CO 81601-4206
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 50 hours per week.
 📞 (970) 945-2840
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -4274,6 +4346,7 @@ W 10th Ave & Dahlia St, Antonito, CO 81120-5010
 662. MOUNTAIN FAMILY HEALTH CENTERS-RIFLE
 195 W 14th STE C, Rifle, CO 81650-4717
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 50 hours per week.
 📞 (970) 945-2840
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -4292,6 +4365,7 @@ W 10th Ave & Dahlia St, Antonito, CO 81120-5010
 665. LOGAN HEALTH CENTER AT MYRON STRATTON
 430 Gold Pass Hts, Colorado Springs, CO 80906-3501
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 52.5 hours per week.
 📞 (719) 344-7139
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -4322,6 +4396,7 @@ W 10th Ave & Dahlia St, Antonito, CO 81120-5010
 670. SHERIDAN HEALTH SERVICES
 3525 W Oxford Ave, Unit G-3, Denver, CO 80236-3115
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (303) 797-4260
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -4346,6 +4421,7 @@ W 10th Ave & Dahlia St, Antonito, CO 81120-5010
 674. HIGH PLAINS COMMUNITY HEALTH DENTAL CLINIC
 200 Kendall Dr, Lamar, CO 81052-3940
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 52.5 hours per week.
 📞 (719) 336-0261
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 

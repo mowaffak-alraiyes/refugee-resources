@@ -12,6 +12,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.hunterhealthclinic.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 43 hours per week.
 📞 316-262-2415
 
 3. GraceMed Meyer Family Clinic
@@ -31,6 +32,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.gracemed.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 78 hours per week.
 📞 316-866-2600
 
 6. GraceMed Good Samaritan
@@ -38,6 +40,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.gracemed.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 316-688-5020
 
 7. HealthCore Mobile Clinic
@@ -51,6 +54,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://WWW.HUNTERHEALTH.ORG/
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 43 hours per week.
 📞 316-262-2415
 
 9. Health Ministries Clinic Dental Office
@@ -89,6 +93,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://carearc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 53 hours per week.
 📞 620-342-4864
 
 15. St. John Clinic Site
@@ -122,6 +127,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.heartofkansas.com
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 43 hours per week.
 📞 620-792-5700
 
 20. Community Health Center of Southeast Kansas/Independence
@@ -140,6 +146,7 @@
 1110 W    8th St, Coffeyville, KS, 67337-3916
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 34 hours per week.
 📞 620-252-1798
 
 23. CHC/SEK Parsons Senior High School
@@ -547,6 +554,7 @@ Overland Park, KS
 1122 N Topeka St, Wichita, KS 67214-2810
 🌐 http://www.gracemed.org
 🏥 Services: Dental
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (316) 866-2000
 📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
 
@@ -2868,6 +2876,7 @@ P.O. Box 210, Newton, KS 67114
 447. SALINA FAMILY HEALTHCARE CENTER
 651 E Prescott Rd, Salina, KS 67401-7408
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 53 hours per week.
 📞 (785) 825-7251
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -2892,18 +2901,21 @@ P.O. Box 210, Newton, KS 67114
 451. DOWNING CHILDREN CLINIC
 2201 E 25th St N, Wichita, KS 67219-4701
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (316) 558-3150
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 452. COMMUNITY HEALTH CENTER OF SOUTHEAST KANSAS INC
 2990 Military Ave, Baxter Springs, KS 66713-2331
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 58 hours per week.
 📞 (620) 856-2900
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 453. COMMUNITY HEALTH CENTER OF SOUTHEAST KANSAS INC
 102 Cline Rd, Coffeyville, KS 67337-3022
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 34 hours per week.
 📞 (620) 252-6989
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -2916,6 +2928,7 @@ P.O. Box 210, Newton, KS 67114
 455. HEALTH PARTNERSHIP CLINIC INC
 407 S Clairborne Rd, Suite 104, Olathe, KS 66062-1744
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 57 hours per week.
 📞 (913) 393-9918
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -2940,12 +2953,14 @@ P.O. Box 210, Newton, KS 67114
 459. COMMUNITY HEALTH CENTER OF SOUTHEAST KANSAS INC
 924 N Broadway St, Pittsburg, KS 66762-3910
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 84 hours per week.
 📞 (620) 231-9873
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 460. GRACEMED OAKLAWN FAMILY CLINIC
 5000 S Clifton Ave, #200, Wichita, KS 67216-3408
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, 40 hours per week.
 📞 (316) 866-2001
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 

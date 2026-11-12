@@ -5,6 +5,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.riverstonehealth.org
 🏥 Services: Primary Care, Ryan White HIV/AIDS Program
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 52 hours per week.
 📞 406-247-3350
 
 2. Health Care for the Homeless - MRM
@@ -39,6 +40,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.agworker.org
 🏥 Services: Primary Care; Dental
+⏰ Hours: HRSA 2025 site report: full-time, seasonal, 40 hours per week.
 📞 800-813-4492
 
 7. One Health - Hardin High School
@@ -59,6 +61,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.bighornvalley.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 48 hours per week.
 📞 406-665-4103
 
 10. One Health - Crow Public School
@@ -239,6 +242,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.bullhook.com
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 55 hours per week.
 📞 406-395-4305
 
 38. One Health - Glendive
@@ -300,6 +304,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://partnershiphealthcenter.org/
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 49 hours per week.
 📞 406-258-4789
 
 47. PHC - Creamery
@@ -307,6 +312,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://partnershiphealthcenter.org/
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 54.5 hours per week.
 📞 406-258-4789
 
 48. PHC - Poverello Center
@@ -376,6 +382,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://na
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 46.5 hours per week.
 📞 406-293-3755
 
 59. Glacier Dental Clinic
@@ -1667,6 +1674,7 @@ P.O Box 1587, Livingston, MT 59047
 255. BUTTE SILVER BOW PRIMARY HLTH CARE CLC
 445 Centennial Ave, Butte, MT 59701-2870
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 66 hours per week.
 📞 (406) 723-4075
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -1727,12 +1735,14 @@ P.O Box 1587, Livingston, MT 59047
 265. LINCOLN COUNTY COMMUNITY HEALTH CENTER-LIBBY HS
 150 Education Way, Libby, MT 59923-2816
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 16 hours per week.
 📞 (406) 293-3755
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 266. GLACIER COMMUNITY HEALTH CENTER
 519 E Main St, Cut Bank, MT 59427-3015
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 57 hours per week.
 📞 (406) 873-5670
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -1775,6 +1785,7 @@ P.O Box 1587, Livingston, MT 59047
 273. WORDEN COMMUNITY HEALTH CENTER
 2469 Main St, Worden, MT 59088-2227
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 24 hours per week.
 📞 (406) 967-2255
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 

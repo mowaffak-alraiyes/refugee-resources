@@ -5,6 +5,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.kphc.org
 🏥 Services: Primary Care; Migrant health center
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 808-792-5566
 
 2. Waikiki Health at Lili'uokalani Center
@@ -25,6 +26,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.kphc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 808-853-1700
 
 5. Kalihi Palama Health Center – 710 N King St
@@ -39,6 +41,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.kphc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 808-841-0011
 
 7. BEHAVIORAL HEALTH/MEDICAL/HEALTH EDUCATION/ADMINISTRATION
@@ -46,6 +49,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.kphc.org
 🏥 Services: Primary Care; Mental health
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 46 hours per week.
 📞 808-841-7981
 
 8. KOHOU CLINIC
@@ -53,6 +57,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 https://www.kphc.org
 🏥 Services: Primary Care; Health Care for the Homeless
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 40 hours per week.
 📞 808-791-6370
 
 9. Waikiki Health Mobile Medical Unit  1
@@ -60,6 +65,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.waikikihc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 28 hours per week.
 📞 808-922-4787
 
 10. Waikiki Health Makahiki
@@ -67,6 +73,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.waikikihealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 64.5 hours per week.
 📞 808-922-4787
 
 11. KUHIO PARK TERRACE PUB. HOUSING
@@ -74,6 +81,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.kkv.net
 🏥 Services: Primary Care; Migrant health center
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 32 hours per week.
 📞 808-845-3130
 
 12. KKV Wellness Center
@@ -81,6 +89,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.kkv.net
 🏥 Services: Primary Care; Migrant health center
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 60 hours per week.
 📞 808-791-9400
 
 13. KKV Mobile Clinic 1
@@ -96,6 +105,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.kkv.net
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 5 hours per week.
 📞 808-848-6687
 
 15. KALIHI VALLEY HOMES PUB. HOUSING
@@ -103,6 +113,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.kkv.net
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 5 hours per week.
 📞 808-845-0585
 
 16. Waikiki Health - Jarrett Middle School
@@ -122,6 +133,7 @@
 94-428 Mokuola St.  STE 213, Waipahu, HI, 96797-3396
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 44 hours per week.
 📞 808-697-3839
 
 19. Ewa - West O`ahu Community Health Center
@@ -175,6 +187,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.wcchc.com
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 44 hours per week.
 📞 808-697-3300
 
 27. WAIANAE COAST COMPREHENSIVE HEALTH CTR
@@ -209,6 +222,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.wcchc.com
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 10 hours per week.
 📞 808-697-3496
 
 32. Waianae High School School-based Health Center
@@ -257,6 +271,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.ccmaui.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 60 hours per week.
 📞 808-871-7772
 
 39. Lokelani Intermediate School
@@ -270,6 +285,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.hoolalahui.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 808-240-0200
 
 41. HO'OLA LAHUI HAWAI'I
@@ -277,6 +293,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.hoolalahui.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 808-240-0170
 
 42. HLH West Mobile 1
@@ -309,12 +326,14 @@
 68-1845 Waikoloa Rd, Suite 207, Waikoloa, HI, 96738-5581
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 42.5 hours per week.
 📞 808-769-5160
 
 47. School Based Mobile Health West
 74-5214 Keanalehu Dr, Kailua Kona, HI, 96740
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 42.5 hours per week.
 📞 808-326-5629
 
 48. WHCHC Kealakehe Intermediate SBHC
@@ -354,6 +373,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.hamakua-health.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 60 hours per week.
 📞 808-333-8410
 
 54. Hamakua-Kohala Health, Bank of Hawaii building
@@ -434,6 +454,7 @@
 277 Ohua Ave, Honolulu, HI 96815-6612
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🏥 Services: Ryan White HIV/AIDS Program; Migrant health center
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 64.5 hours per week.
 📞 (808) 524-2575
 🌐 https://www.waikikihc.org
 
@@ -454,6 +475,7 @@
 415 Keoniana St, Honolulu, HI 96815-2018
 📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🏥 Services: Migrant health center; Primary care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 20 hours per week.
 📞 (808) 537-8438
 🌐 https://waikikihc.org/
 
@@ -461,6 +483,7 @@
 1846 Gulick Ave, Honolulu, HI 96819-4212
 📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🏥 Services: Migrant health center; Primary care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 49.5 hours per week.
 📞 (808) 791-9410
 🌐 http://www.kkv.net
 
@@ -489,6 +512,7 @@
 915 N King St, Honolulu, HI 96817-4544
 📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🏥 Services: Migrant health center, Primary Care, Dental
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 50 hours per week.
 📞 (808) 848-1438
 🌐 http://www.kphc.org
 
@@ -1140,6 +1164,7 @@
 174. HHSC-KAUAI REGION CLINICS THE CLINIC AT WAIMEA
 4643 Waimea Canyon Dr, Waimea, HI 96796
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (808) 338-8311
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13. Also a rural health clinic on the CMS list.
 
@@ -1236,6 +1261,7 @@
 190. HANA COMMUNITY HEALTH CENTER
 4590 Hana Hwy, Hana, HI 96713
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 58 hours per week.
 📞 (808) 248-7515
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -1260,6 +1286,7 @@
 194. KO'OLAULOA COMMUNITY HEALTH & WELLNESS CENTER, INC
 54-316 Kamehameha Hwy, Hauula, HI 96717-9998
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 42 hours per week.
 📞 (808) 293-9216
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 

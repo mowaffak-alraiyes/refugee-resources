@@ -20,6 +20,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.anhc.org
 🏥 Services: Ryan White HIV/AIDS Program; Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 63.5 hours per week.
 📞 907-743-7200
 
 4. SCF Detox
@@ -40,6 +41,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.mshsak.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 50 hours per week.
 📞 907-376-2411
 
 7. Girdwood Health Clinic
@@ -80,6 +82,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.pchsak.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 53 hours per week.
 📞 907-262-3119
 
 13. PCHS - KENAI MEDICAL AND BEHAVIORAL HEALTH CENTER
@@ -100,6 +103,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.svthw.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 52 hours per week.
 📞 907-226-2228 x106
 
 16. Cross Road Medical Center
@@ -128,6 +132,7 @@ Mile 187 Glenn Hwy, Building B, Glennallen, AK, 99588
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.scf.cc
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 907-729-5400
 
 20. Pedro Bay Clinic
@@ -163,6 +168,7 @@ Mile 187 Glenn Hwy, Building B, Glennallen, AK, 99588
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://WWW.YKHC.ORG
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 168 hours per week.
 📞 907-675-4556
 
 25. McGrath School
@@ -211,6 +217,7 @@ Mile 1420.5 Alaska Highway  UNIT 1-C, Delta Junction, AK, 99737
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.crossroadmc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 41 hours per week.
 📞 907-895-6233
 
 32. SLEETMUTE CLINIC
@@ -218,6 +225,7 @@ Mile 1420.5 Alaska Highway  UNIT 1-C, Delta Junction, AK, 99737
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://WWW.YKHC.ORG
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 168 hours per week.
 📞 907-675-4556
 
 33. Ouzinkie Health Clinic
@@ -288,6 +296,7 @@ General Delivery, Beaver, AK, 99724-9999
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.catg.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 907-662-2460
 
 43. MYRA ROBERTS CLINIC
@@ -295,6 +304,7 @@ General Delivery, Beaver, AK, 99724-9999
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.catg.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 907-849-8712
 
 44. Chalkyitsik Health Clinic
@@ -356,6 +366,7 @@ General Delivery, Beaver, AK, 99724-9999
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.catg.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 907-587-5229
 
 53. Front Street Clinic Juneau
@@ -400,6 +411,7 @@ D STREET, TENAKEE SPRINGS, AK, 99841-0000
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.searhc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 907-788-4600
 
 60. Pelican Health Center
@@ -407,6 +419,7 @@ D STREET, TENAKEE SPRINGS, AK, 99841-0000
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.searhc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 25 hours per week.
 📞 907-735-2250
 
 61. Haines Dental Clinic
@@ -426,6 +439,7 @@ D STREET, TENAKEE SPRINGS, AK, 99841-0000
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.searhc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 11.5 hours per week.
 📞 907-767-5699
 
 64. Pt Baker Clinic
@@ -457,6 +471,7 @@ Community Building, Whale Pass, AK, 99950
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.searhc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 30 hours per week.
 📞 907-828-8848
 
 69. Craig Health Clinic
@@ -470,6 +485,7 @@ Community Building, Whale Pass, AK, 99950
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.searhc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 907-285-3462
 
 71. Edna Bay Clinic
@@ -866,6 +882,7 @@ Mile 266.5 Richardson Highway, Delta Junction, AK 99737
 7300 Klawock-Hollis Highway, Klawock, AK 99925
 🌐 https://www.searhc.org
 🏥 Services: Mental Health
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (907) 523-4386
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 

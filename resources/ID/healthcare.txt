@@ -32,6 +32,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.trhs.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 52.5 hours per week.
 📞 208-344-3512
 
 6. Boise Dental
@@ -39,6 +40,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.trhs.org
 🏥 Services: Primary Care; Dental
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 52.5 hours per week.
 📞 208-336-8801
 
 7. Skyline Transitional Care Center
@@ -101,6 +103,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.trhs.org
 🏥 Services: Primary Care; Dental
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 52.5 hours per week.
 📞 208-466-0515
 
 16. Middleton Middle School, Annex A Room 21A
@@ -120,6 +123,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.vfhc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 48 hours per week.
 📞 208-365-1065
 
 19. Melba Elementary, Jr and Sr High School
@@ -134,6 +138,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.trhs.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 39 hours per week.
 📞 208-495-1011
 
 21. Caldwell Cleveland Clinic
@@ -244,6 +249,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.fhsid.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 47 hours per week.
 📞 208-732-7125
 
 37. FAMILY HEALTH SERVICES - I.B. PERRINE ELEMENTARY SCHOOL
@@ -258,6 +264,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.fhsid.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 56.5 hours per week.
 📞 208-734-0451
 
 39. FAMILY HEALTH SERVICES - ADMINISTRATION
@@ -300,6 +307,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.healthwestinc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 53 hours per week.
 📞 208-238-2000
 
 45. HAWTHORNE MIDDLE SCHOOL
@@ -499,6 +507,7 @@
 223 16th Ave N, Nampa, ID 83687-4058
 📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🏥 Services: Migrant health center; Primary care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 57.5 hours per week.
 📞 (208) 467-4431
 🌐 http://www.trhs.org
 
@@ -804,6 +813,7 @@ W Northview St, Boise, ID 83704
 777 N Raymond St, Boise, ID 83704-9251
 🌐 https://www.fullcircleidaho.org/patients/
 🏥 Services: Ryan White HIV/AIDS Program,  Mental Health
+⏰ Hours: HRSA 2025 site report: full-time, 51 hours per week.
 📞 (208) 514-2500
 📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
 
@@ -1827,6 +1837,7 @@ P.O. Box 742, Clark Fork, ID 83811
 300 North Plymouth Avenue, New Plymouth, ID 83655
 🌐 https://www.vfhc.org
 🏥 Services: Mental Health
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (541) 473-2101
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 
@@ -1897,6 +1908,7 @@ P.O. Box 742, Clark Fork, ID 83811
 740 McKinley Avenue West, Kellogg, ID 83837
 🌐 https://www.myheritagehealth.org
 🏥 Services: Mental Health
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 50 hours per week.
 📞 (208) 783-1267
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 
@@ -1939,6 +1951,7 @@ P.O. Box 742, Clark Fork, ID 83811
 1441 NE 10th Avenue, Payette, ID 83661
 🌐 https://www.vfhc.org
 🏥 Services: Mental Health
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 52.5 hours per week.
 📞 (208) 642-9376
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 
@@ -2037,6 +2050,7 @@ P.O. Box 246, Pocatello, ID 83204
 6509 Highway 2, Suite 101, Priest River, ID 83856
 🌐 https://www.kchnorthidaho.org
 🏥 Services: Mental Health
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 54 hours per week.
 📞 (208) 448-2321
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 
@@ -2144,6 +2158,7 @@ P.O. Box 191, Saint Maries, ID 83861
 2005 Arlington Avenue, Caldwell, ID 83605
 🌐 https://www.trhs.org
 🏥 Services: Mental Health
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 (208) 318-1362
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 
@@ -2753,6 +2768,7 @@ P.O. Box 191, Saint Maries, ID 83861
 408. AMERICAN FALLS MEDICAL CLINIC
 823 Reed St, American Falls, ID 83211-1336
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 44 hours per week.
 📞 (208) 226-2822
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -2765,6 +2781,7 @@ P.O. Box 191, Saint Maries, ID 83861
 410. VALLEY HEALTH CARE
 350 Main St, Grand View, ID 83624-7739
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 32 hours per week.
 📞 (208) 834-2929
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -2783,6 +2800,7 @@ P.O. Box 191, Saint Maries, ID 83861
 413. FAMILY HEALTH SERVICES-BUHL HEALTH CTR
 725 Fair Ave, Buhl, ID 83316
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 50 hours per week.
 📞 (208) 543-8271
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -2819,6 +2837,7 @@ P.O. Box 191, Saint Maries, ID 83861
 419. BOUNDARY REGIONAL COMMUNITY HEALTH CTR
 6615 Comanche St, Bonners Ferry, ID 83805-7523
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 54 hours per week.
 📞 (208) 267-1718
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -2843,6 +2862,7 @@ P.O. Box 191, Saint Maries, ID 83861
 423. FAMILY HEALTH SERVICES - FAIRFIELD
 401 Camas Ave W, Fairfield, ID 83327
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 43 hours per week.
 📞 (208) 436-0734
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -2891,6 +2911,7 @@ P.O. Box 191, Saint Maries, ID 83861
 431. FAMILY HEALTH SERVICES
 325 Martin St, Twin Falls, ID 83301-4563
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 50 hours per week.
 📞 (208) 733-4069
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -2915,12 +2936,14 @@ P.O. Box 191, Saint Maries, ID 83861
 435. TERRY REILLY MEDICAL/DENTAL - MIDDLETON
 201 S Paradise Ave, Middleton, ID 83644-5809
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 50 hours per week.
 📞 (208) 467-4461
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 436. HEALTH WEST FAMILY MEDICINE CLINIC
 465 Memorial Dr, Pocatello, ID 83201-4008
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 57 hours per week.
 📞 (208) 232-7862
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -2933,6 +2956,7 @@ P.O. Box 191, Saint Maries, ID 83861
 438. DIRNE CHC UGM CLINIC
 196 W Haycraft Ave, Coeur D Alene, ID 83815-9317
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (208) 292-0292
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -2945,12 +2969,14 @@ P.O. Box 191, Saint Maries, ID 83861
 440. FAMILY HEALTH SERVICES KIMBERLY
 132 Main St N, Kimberly, ID 83341
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 51 hours per week.
 📞 (208) 481-7212
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 441. FAMILY MEDICINE HEALTH CENTER - KUNA
 708 E Wythe Creek Ct, Ste 103, Kuna, ID 83634-5005
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 48 hours per week.
 📞 (208) 922-5130
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 

@@ -44,6 +44,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.nvhealthcenters.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 8 hours per week.
 📞 702-220-9905
 
 8. Nevada Health Centers at Enterprise
@@ -58,6 +59,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.nvhealthcenters.org
 🏥 Services: Primary Care; Dental
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 55 hours per week.
 📞 702-735-9334
 
 10. Aghaby: North Las Vegas
@@ -71,6 +73,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.nvhealthcenters.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 702-383-1961
 
 12. FirstMed Pediatrics
@@ -90,6 +93,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.firstmednv.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 702-731-0909
 
 15. Cambridge Family Health Center
@@ -97,6 +101,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.nvhealthcenters.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 53 hours per week.
 📞 702-307-5415
 
 16. Hope Christian Health Center Decatur
@@ -185,6 +190,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.nvhealthcenters.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 49 hours per week.
 📞 775-372-5432
 
 29. Change Point
@@ -192,6 +198,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.nnhopes.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 31 hours per week.
 📞 775-348-2882
 
 30. Northern Nevada HIV Outpatient Program Education and Services
@@ -199,6 +206,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.nnhopes.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 53 hours per week.
 📞 775-786-4673
 
 31. Willow Street Health Center
@@ -233,6 +241,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.chanevada.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 25 hours per week.
 📞 775-329-6300
 
 36. Sun Valley Health Center (New)
@@ -261,6 +270,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.nvhealthcenters.org
 🏥 Services: Primary Care; Migrant health center
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 52.5 hours per week.
 📞 775-257-7455
 
 40. Nevada Health Centers Carson City School Based
@@ -330,6 +340,7 @@
 2225 Civic Center Dr, North Las Vegas, NV 89030-6338
 📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🏥 Services: Migrant health center; Primary care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40.5 hours per week.
 📞 (702) 214-5948
 🌐 http://www.nevadahealthcenters.org
 
@@ -1650,6 +1661,7 @@
 246. MOBILE DENTAL SERVICES 1
 762 14th St, Elko, NV 89801-3413
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 53 hours per week.
 📞 (775) 738-5850
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -1722,6 +1734,7 @@
 258. NORTH LAS VEGAS FAMILY HEALTH
 1802 N Carson St, Suite 100, Carson City, NV 89701-1227
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 30 hours per week.
 📞 (775) 887-1590
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -1776,6 +1789,7 @@
 267. HAWC NEIL RD HEALTH CENTER
 3915 Neil Rd, Reno, NV 89502-6808
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 52.5 hours per week.
 📞 (775) 870-4633
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 

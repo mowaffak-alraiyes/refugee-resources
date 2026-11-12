@@ -23,21 +23,25 @@
 1171 Mission St, San Francisco, CA, 94103-1519
 🌐 https://www.sfdph.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 20 hours per week.
 📞 415-734-4201
 
 5. EPISCOPAL SANCTUARY
 201 8th St, San Francisco, CA, 94103-3910
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 19 hours per week.
 📞 415-255-3525
 
 6. HAMILTON FAMILY RESIDENCE
 260 GOLDEN GATE AVE, SAN FRANCISCO, CA, 94102-3706
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 19 hours per week.
 📞 415-255-3525
 
 7. SALVATION ARMY-HARBOR LIGHT
 1275 HARRISON ST, SAN FRANCISCO, CA, 94103-4405
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 19 hours per week.
 📞 415-626-2950
 
 8. NORTH EAST MEDICAL SERVICES - POLK
@@ -54,6 +58,7 @@
 10. CURRY SENIOR CLINIC
 333 TURK ST, SAN FRANCISCO, CA, 94102-3703
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 415-885-2274
 
 11. Saint Anthony Medical Clinic
@@ -97,17 +102,20 @@
 1049 Howard St, San Francisco, CA, 94103-2822
 🌐 https://www.healthright360.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 19 hours per week.
 📞 415-255-3525
 
 19. CONNECTING POINT
 995 MARKET ST, SAN FRANCISCO, CA, 94103-1702
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 19 hours per week.
 📞 415-255-3525
 
 20. MISSION NEIGHBORHOOD HEALTH CTR
 240 Shotwell St, San Francisco, CA, 94110-1323
 🌐 https://www.mnhc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 59 hours per week.
 📞 415-552-3870
 
 21. San Francisco Community Clinic Consortium
@@ -119,16 +127,19 @@
 22. WINDSOR HOTEL
 238 EDDY ST, SAN FRANCISCO, CA, 94102-2756
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 19 hours per week.
 📞 415-255-3525
 
 23. NEXT DOOR TRANSITIONAL SHELTER
 1001 Polk St, San Francisco, CA, 94109-6915
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 19 hours per week.
 📞 415-255-3525
 
 24. MARTIN DE PORRES
 225 POTRERO AVE, SAN FRANCISCO, CA, 94103-4814
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 19 hours per week.
 📞 415-552-0240
 
 25. SF Community Health Pine Street
@@ -139,6 +150,7 @@
 26. MAXINE HALL HEALTH CENTER
 1301 PIERCE ST, SAN FRANCISCO, CA, 94115-4005
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 415-292-1300
 
 27. CASTRO-MISSION HEALTH CENTER
@@ -149,11 +161,13 @@
 28. MULTI-SERVICE CENTER SOUTH
 525 5TH ST, SAN FRANCISCO, CA, 94107-1012
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 19 hours per week.
 📞 415-255-3525
 
 29. SAINT MARTHA'S SHELTER
 1050 S. VAN NESS AVE, SAN FRANCISCO, CA, 94110-2616
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 19 hours per week.
 📞 415-255-3525
 
 30. ADULT MEDICINE CLINICS
@@ -190,6 +204,7 @@
 36. CHINATOWN PUBLIC HEALTH CENTER
 1490 MASON ST, SAN FRANCISCO, CA, 94133-4222
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 415-934-7700
 
 37. NEMS PACIFIC PHARMACY
@@ -213,6 +228,7 @@
 40. CHPY-COLE STREET CLINIC
 555 Cole St, San Francisco, CA, 94117-2800
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 19 hours per week.
 📞 415-751-8181
 
 41. SFCHC-Bryant Navigation Center
@@ -223,16 +239,19 @@ Bryant St, San Francisco, CA, 94107
 42. POTRERO HILL HEALTH CENTER
 1050 Wisconsin St, San Francisco, CA, 94107-3328
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 415-648-3022
 
 43. DAY LABOR PROGRAM
 3358 CESAR CHAVEZ, SAN FRANCISCO, CA, 94110-4607
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 19 hours per week.
 📞 415-255-3525
 
 44. SILVER AVENUE HEALTH CENTER
 1525 SILVER AVE, SAN FRANCISCO, CA, 94134-1229
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 415-657-1700
 
 45. NEMS SUNSET ENROLLMENT SERVICE CENTER AND RADIOLOGY
@@ -244,6 +263,7 @@ Bryant St, San Francisco, CA, 94107
 46. OCEAN PARK HEALTH CENTER
 1351 24TH AVE, SAN FRANCISCO, CA, 94122-1616
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 415-682-1900
 
 47. Southeast Family Health Center
@@ -254,6 +274,7 @@ Bryant St, San Francisco, CA, 94107
 48. BALBOA TEEN HEALTH CENTER
 1000 CAYUGA, SAN FRANCISCO, CA, 94112-3236
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 19 hours per week.
 📞 415-469-4512
 
 49. Excelsior Clinic
@@ -270,6 +291,7 @@ Bryant St, San Francisco, CA, 94107
 51. HAWKINS VILLAGE MEDICAL CLINIC
 333 Schwerin St, San Francisco, CA, 94134-3246
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 19 hours per week.
 📞 415-585-2451
 
 52. DALY CITY YOUTH HEALTH CENTER
@@ -282,18 +304,21 @@ Bryant St, San Francisco, CA, 94107
 1400 Emeline Ave Ste 150,277,280, SANTA CRUZ, CA, 95060-1976
 🌐 https://www.santacruzhealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 831-454-4170
 
 54. DALY CITY CLINIC
 380 90th St, Daly City, CA, 94015-1807
 🌐 https://www.co.sanmateo.ca.us
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 650-301-8600
 
 55. WEST OAKLAND HEALTH CENTER..
 700 Adeline St, Oakland, CA, 94607-2608
 🌐 https://wohc@wohc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 56.5 hours per week.
 📞 510-835-9610
 
 56. AHS Mobile Unit #2
@@ -312,6 +337,7 @@ Bryant St, San Francisco, CA, 94107
 58. LifeLong Medical Care--West Oakland
 991 14th St.  BLDG H, Oakland, CA, 94607-3230
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 32.5 hours per week.
 📞 510-407-1341
 
 59. LifeLong Street Medicine Van #6
@@ -329,18 +355,21 @@ Bryant St, San Francisco, CA, 94107
 2607 Myrtle St, Oakland, CA, 94607-3415
 🌐 https://www.childrenshospitaloakland.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, seasonal, 40 hours per week.
 📞 510-835-1393
 
 62. Rolland & Kathryn Lowe Medical Center
 835 Webster St, Oakland, CA, 94607-4219
 🌐 https://www.asianhealthservices.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 35 hours per week.
 📞 510-318-5800
 
 63. Chenming & Margaret Hu Medical Center
 818 Webster St, Oakland, CA, 94607-4220
 🌐 https://www.asianhealthservices.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 44.5 hours per week.
 📞 510-986-6800
 
 64. ARC 201 Mental Health Clinic
@@ -353,12 +382,14 @@ Bryant St, San Francisco, CA, 94107
 345 9th St STE 302, Oakland, CA, 94607-6523
 🌐 https://www.asianhealthservices.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 39.5 hours per week.
 📞 510-986-6888
 
 66. Asian Resource Center Clinic
 817 Harrison St, Oakland, CA, 94607-4422
 🌐 https://www.asianhealthservices.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 21 hours per week.
 📞 510-986-0430
 
 67. LifeLong Our Place
@@ -432,12 +463,14 @@ Bryant St, San Francisco, CA, 94107
 837 Addison St, Berkeley, CA, 94710-2047
 🌐 https://WWW.LIFELONGMEDICAL.ORG
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 37.5 hours per week.
 📞 510-981-4200
 
 80. OVER 60 HEALTH CENTER - BERKELEY
 3260 SACRAMENTO ST, BERKELEY, CA, 94702-2739
 🌐 https://WWW.LIFELONGMEDICAL.ORG
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 38.75 hours per week.
 📞 510-601-6060
 
 81. Frank Kiang Medical Center
@@ -467,18 +500,21 @@ Bryant St, San Francisco, CA, 94107
 2960 SACRAMENTO ST, BERKELEY, CA, 94702-2510
 🌐 https://wohc@wohc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 510-549-3166
 
 86. SAN ANTONIO NEIGHBORHOOD HEALTH CENTER
 1030 INTERNATIONAL BLVD, OAKLAND, CA, 94606-3730
 🌐 https://www.laclinica.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 49.75 hours per week.
 📞 510-238-5400
 
 87. Franklin Elementary School
 915 Foothill Blvd  RM 35, Oakland, CA, 94606-3013
 🌐 https://www.asianhealthservices.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, seasonal, 6 hours per week.
 📞 510-874-3354
 
 88. La Clínica Dental at Children's Hospital Oakland
@@ -491,6 +527,7 @@ Bryant St, San Francisco, CA, 94107
 5220 Claremont Ave, Oakland, CA, 94618-1033
 🌐 https://www.cho.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 51 hours per week.
 📞 510-428-3129
 
 90. LifeLong Berkeley Food and Housing, Russell Street Residence - Supportive Housing Program
@@ -507,12 +544,14 @@ Bryant St, San Francisco, CA, 94107
 4351 BROADWAY, OAKLAND, CA, 94611-4612
 🌐 https://www.laclinica.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 42 hours per week.
 📞 510-450-5421
 
 93. ROOSEVELT HEALTH CENTER (aka Roosevelt Middle School-Based Clinic)
 1926 19th Avenue, Oakland, CA, 94606-4126
 🌐 https://www.laclinica.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 42 hours per week.
 📞 510-535-2893
 
 94. Tamalpais High School Teen Clinic
@@ -524,12 +563,14 @@ Bryant St, San Francisco, CA, 94107
 2001 DWIGHT WAY, BERKELEY, CA, 94704-2608
 🌐 https://WWW.LIFELONGMEDICAL.ORG
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 48 hours per week.
 📞 510-204-4666
 
 96. FAMILY OPTICAL I
 3060 E    9th St STE B, Oakland, CA, 94601-2925
 🌐 https://www.laclinica.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 39.5 hours per week.
 📞 510-535-5500
 
 97. Alameda Health System Highland Care Pavilion Specialty Care
@@ -554,12 +595,14 @@ Koret Building Floors 6 & 7Highland General Hospital Campus1411 E. 31st Street, 
 1700 28TH AVE, OAKLAND, CA, 94601-2455
 🌐 https://www.laclinica.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 37.25 hours per week.
 📞 510-436-6440
 
 101. CASA DEL SOL III
 1415-1423 Fruitvale Avenue, Oakland, CA, 94601-2322
 🌐 https://www.laclinica.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 37.3 hours per week.
 📞 510-535-8400
 
 102. LA CLINICA DE LA RAZA - WIC PROGRAM
@@ -571,23 +614,27 @@ Koret Building Floors 6 & 7Highland General Hospital Campus1411 E. 31st Street, 
 1515 FRUITVALE AVE, OAKLAND, CA, 94601-2322
 🌐 https://www.laclinica.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 39.5 hours per week.
 📞 510-535-6300
 
 104. COMMUNITY HEALTH EDUCATION
 1531 FRUITVALE AVE, OAKLAND, CA, 94601-2322
 🌐 https://www.laclinica.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 510-535-4110
 
 105. La Clinica TRUCHA
 1525 Fruitvale Ave, Oakland, CA, 94601-2322
 🌐 https://www.laclinica.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 510-535-6286
 
 106. El Cerrito High School-Based Health Center
 540 Ashbury Ave, El Cerrito, CA, 94530-3221
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 20 hours per week.
 📞 510-231-1437
 🌐 https://www.edcchc.org
 
@@ -595,6 +642,7 @@ Koret Building Floors 6 & 7Highland General Hospital Campus1411 E. 31st Street, 
 4610 FOOTHILL BLVD, OAKLAND, CA, 94601-4618
 🌐 https://www.laclinica.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 39.6 hours per week.
 📞 510-434-2001
 
 108. LifeLong William Jenkins Health Center
@@ -627,6 +675,7 @@ Koret Building Floors 6 & 7Highland General Hospital Campus1411 E. 31st Street, 
 1390 66th Ave, Oakland, CA, 94621-3506
 🌐 https://www.laclinica.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 42 hours per week.
 📞 510-639-1981
 
 114. ACHCH Cardea Health Eddie's Place Medical Respite
@@ -650,6 +699,7 @@ Koret Building Floors 6 & 7Highland General Hospital Campus1411 E. 31st Street, 
 7501 International Blvd, OAKLAND, CA, 94621-2843
 🌐 https://wohc@wohc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 510-735-9610
 
 118. LifeLong Brookside Community Health Center San Pablo
@@ -670,11 +720,13 @@ Koret Building Floors 6 & 7Highland General Hospital Campus1411 E. 31st Street, 
 121. LifeLong Medical Care - Eastmont
 7200 Bancroft Ave STE 125A, Oakland, CA, 94605-2457
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 37.5 hours per week.
 📞 510-981-4100
 
 122. West County Health Center
 13601 San Pablo Ave, San Pablo, CA, 94806-3818
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 60 hours per week.
 📞 510-231-1200
 
 123. Marin Community Clinic - Greenbrae
@@ -704,12 +756,14 @@ Koret Building Floors 6 & 7Highland General Hospital Campus1411 E. 31st Street, 
 5 Bon Air Rd Ste 117, Larkspur, CA, 94939-1138
 🌐 https://www.marinclinic.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 415-448-1500
 
 128. Marin Community Clinic - San Rafael Campus
 3260 Kerner Blvd., San Rafael, CA, 94901-4861
 🌐 https://www.marinclinic.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 415-448-1500
 
 129. La Clinica at 95th Avenue
@@ -720,12 +774,14 @@ Koret Building Floors 6 & 7Highland General Hospital Campus1411 E. 31st Street, 
 130. LifeLong Medical Care - Elmhurst
 1800 98th Ave, Oakland, CA, 94603-2702
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 32.5 hours per week.
 📞 510-639-3287
 
 131. ALBERT J THOMAS MEDICAL CLINIC
 10615 INTERNATIONAL BLVD, OAKLAND, CA, 94603-3805
 🌐 https://wohc@wohc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 510-568-9230
 
 132. CASTLEMONT HIGH SCHOOL-YOUTH UPRISING
@@ -761,12 +817,14 @@ Koret Building Floors 6 & 7Highland General Hospital Campus1411 E. 31st Street, 
 2970 Hilltop Mall Rd STE 307, San Pablo, CA, 94806-5274
 🌐 https://www.cchealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 20 hours per week.
 📞 510-231-1200
 
 138. LMC - EAST OAKLAND CLINIC
 10700 MacArthur Blvd  STE 14, OAKLAND, CA, 94605-5298
 🌐 https://WWW.LIFELONGMEDICAL.ORG
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 510-563-4300
 
 139. Center Point Outpatient Services
@@ -800,6 +858,7 @@ Koret Building Floors 6 & 7Highland General Hospital Campus1411 E. 31st Street, 
 50 E Lewelling Blvd RM S5, San Lorenzo, CA, 94580-1732
 🌐 https://www.laclinica.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 39.5 hours per week.
 📞 510-317-3167
 
 145. OHI - Hillside Elementary
@@ -821,6 +880,7 @@ Koret Building Floors 6 & 7Highland General Hospital Campus1411 E. 31st Street, 
 16335 E   14th St, San Leandro, CA, 94578-3109
 🌐 https://www.laclinica.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 39.5 hours per week.
 📞 510-481-4554
 
 149. MCHWC Women's Health Clinic
@@ -868,6 +928,7 @@ Koret Building Floors 6 & 7Highland General Hospital Campus1411 E. 31st Street, 
 156. Behavioral Family Support Services
 22211 Foothill Blvd, Hayward, CA, 94541-2712
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 510-471-5880
 
 157. Castro Valley Health Center
@@ -901,6 +962,7 @@ Koret Building Floors 6 & 7Highland General Hospital Campus1411 E. 31st Street, 
 27035 WHITMAN ST RM A-1, HAYWARD, CA, 94545-4027
 🌐 https://www.tvhc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 510-582-1635
 
 163. Coastside Health Center
@@ -923,6 +985,7 @@ Mobile UnitContra Costa County, Martinez, CA, 94553
 1805 Bay Rd, Palo Alto, CA, 94303-1312
 🌐 https://www.ravenswoodfhc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 510-409-6339
 
 167. Canyon Vista
@@ -935,6 +998,7 @@ Mobile UnitContra Costa County, Martinez, CA, 94553
 168. Silva Pediatric Clinic
 680 Tennyson Rd, Hayward, CA, 94544-5236
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 47.5 hours per week.
 📞 510-780-9110
 
 169. San Mateo County Homeless Navigation Center
@@ -946,6 +1010,7 @@ Mobile UnitContra Costa County, Martinez, CA, 94553
 1580 A MAPLE STREET, REDWOOD CITY, CA, 94603-4364
 🌐 https://www.shelternetwork.com
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 650-364-4664
 
 171. Martinez Health Center - Family Medicine 2A
@@ -963,6 +1028,7 @@ Mobile UnitContra Costa County, Martinez, CA, 94553
 200 JAMES AVE, REDWOOD CITY, CA, 94062-5123
 🌐 https://www.sanmateo.ca.us
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 650-261-3710
 
 174. MOBILE CLINIC SITE
@@ -991,11 +1057,13 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 2710 Middlefield Rd, Redwood City, CA, 94063-3404
 🌐 https://www.sanmateo.ca.us
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 650-363-4602
 
 179. Willow Pass Wellness Center
 1420 Willow Pass Rd, Concord, CA, 94520-5223
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time.
 📞 925-370-5824
 
 180. LA CLINICA MONUMENT
@@ -1017,12 +1085,14 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 183. Family Health Services - Vallejo
 365 Tuolumne St, Vallejo, CA, 94590-5700
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 48 hours per week.
 📞 707-553-5509
 
 184. LOGAN HEALTH CENTER
 1800 H St.  RM 80, UNION CITY, CA, 94587-3321
 🌐 https://WWW.TVHC.ORG
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 510-471-2520
 
 185. La Clinica Dental Union City
@@ -1033,6 +1103,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 186. Concord Health Center Building 2
 3024 Willow Pass Rd, Concord, CA, 94519-2588
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 44 hours per week.
 📞 925-646-5215
 
 187. RAVENSWOOD MOBILE HEALTH  CLINIC
@@ -1050,12 +1121,14 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 189. Homeless Respite Care and Shelter Clinic - Concord
 2047 Arnold Industrial Way, Concord, CA, 94520-5342
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 20 hours per week.
 📞 925-313-6000
 
 190. La Clínica Vallejo Great Beginnings Administrative & Support Services
 170 Hospital Dr, Vallejo, CA, 94589-2517
 🌐 https://www.laclinica.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 41.5 hours per week.
 📞 707-641-1900
 
 191. Axis Community Health - Regional
@@ -1068,6 +1141,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 6066 Civic Terrace Ave, Newark, CA, 94560-3746
 🌐 https://www.newarkahs.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 510-505-1600
 
 193. Peninsula Healthcare Connection
@@ -1109,12 +1183,14 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 200. Liberty St Health Clinic
 39500 Liberty St, Fremont, CA, 94538-2211
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 62 hours per week.
 📞 510-770-8040
 
 201. Axis Community Health - Hacienda
 5925 W Las Positas Blvd UNIT 100, Pleasanton, CA, 94588-8537
 🌐 http://www.axishealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 48 hours per week.
 📞 925-462-1755
 
 202. CHA Dental
@@ -1143,6 +1219,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 215 Pacifica Ave, Bay Point, CA, 94565-2904
 🌐 https://www.cchealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 44 hours per week.
 📞 925-427-8300
 
 207. Axis Community Health - Pleasanton Site
@@ -1171,6 +1248,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 900 HOPPER ST, PETALUMA, CA, 94952-3388
 🌐 https://www.phealthcenter.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 21.5 hours per week.
 📞 707-559-7500
 
 212. OLE Health Mobile Health Center
@@ -1182,12 +1260,14 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 2311 Loveridge Rd, Pittsburg, CA, 94565-5117
 🌐 https://www.cchealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 64 hours per week.
 📞 925-431-2300
 
 214. LA CLINICA PITTSBURG - MEDICAL
 2240 Gladstone Dr STE 4, Pittsburg, CA, 94565-5126
 🌐 https://www.laclinica.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 37 hours per week.
 📞 925-431-2100
 
 215. ALVISO HEALTH CENTER
@@ -1200,6 +1280,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 660 S. Fair Oaks Ave, First Floor and Second Floor, SUNNYVALE, CA, 94086-7913
 🌐 http://www.scvmed.org/SCC/docs%2FSanta%20Clara%20Valley%20Medical%20Center%20%28DEP%29%2Fattachments%2FSCVHC-ClinicCards2008FairOaks.pdf
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 408-992-4980
 
 217. Dental Mobile Unit #5
@@ -1218,12 +1299,14 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 680 Sonoma Mountain Pkwy, Petaluma, CA, 94954-8553
 🌐 https://www.phealthcenter.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, seasonal, 2 hours per week.
 📞 707-778-3919
 
 220. South Napa Shelter
 100 Hartle Ct, Napa, CA, 94559-4020
 🌐 https://www.clinicole.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 8 hours per week.
 📞 707-252-4096
 
 221. OLE Health - South Napa Campus
@@ -1239,6 +1322,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 223. Sonoma Valley Community Health Center
 19270 Sonoma Highway, Sonoma, CA, 95476-5414
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 53.5 hours per week.
 📞 707-939-6070
 
 224. Petaluma Eye Care Center
@@ -1273,24 +1357,28 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 3490 THE ALAMEDA, SANTA CLARA, CA, 95050-4333
 🌐 https://www.gardnerhealthservices.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 4 hours per week.
 📞 408-243-0222
 
 230. CITY TEAM MINISTRIES
 580 CHARLES ST, SAN JOSE, CA, 95112-1424
 🌐 https://www.gardnerhealthservices.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 8 hours per week.
 📞 408-288-2189
 
 231. Indian Health Center of Santa Clara Valley - Family Medicine Center
 455 O'Connor Drive Suite 200, San Jose, CA, 95128-1632
 🌐 https://www.indianhealthcenter.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 408-283-7676
 
 232. LA CLINICA OAKLEY
 2021 Main St, Oakley, CA, 94561-3302
 🌐 https://www.laclinica.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 38.6 hours per week.
 📞 925-776-8200
 
 233. O'Connor Medical Clinic Hospital Campus
@@ -1302,6 +1390,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 171 Sand Creek Rd STE A, Brentwood, CA, 94513-7345
 🌐 https://www.cchealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 60 hours per week.
 📞 925-513-6810
 
 235. VHC Moorpark-Maternal Fetal Medicine
@@ -1329,6 +1418,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 55 E Julian St, San Jose, CA, 95112-4007
 🌐 https://www.gardnerhealthservices.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 408-918-2600
 
 240. Independence SB Health Clinic
@@ -1340,6 +1430,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 1149 E Julian St BLDG H, San Jose, CA, 95116-1005
 🌐 https://www.schoolhealthclinics.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 408-284-2282
 
 242. Gardner Downtown Health Center
@@ -1379,6 +1470,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 2101 Alexian Drive  STE D, San Jose, CA, 95116-1901
 🌐 https://www.sccgov.gov
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 24 hours per week.
 📞 408-272-6050
 
 249. Gardner Alum Rock Health Center
@@ -1402,12 +1494,14 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 3030 ALUM ROCK AVE, SAN JOSE, CA, 95127-2807
 🌐 https://www.gardnerhealthservices.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 48 hours per week.
 📞 408-272-6300
 
 253. WASHINGTON NEIGHBORHOOD HLTH
 100 Oak St, San Jose, CA, 95110-2817
 🌐 https://www.schoolhealthclinics.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 408-284-2282
 
 254. NEMS PACE San Jose Center
@@ -1430,18 +1524,21 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 2011 Little Orchard St, San Jose, CA, 95125-1031
 🌐 https://www.sccgov.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 408-294-2100
 
 258. OVERFELT NEIGHBORHOOD HLTH CLIN.
 1835 CUNNINGHAM AVE, SAN JOSE, CA, 95122-1712
 🌐 https://www.schoolhealthclinics.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 408-284-2282
 
 259. FRANKLIN MCKINLEY NEIGHBRHD HLTH CLINIC
 645 Wool Creek Dr, San Jose, CA, 95112-2617
 🌐 https://www.schoolhealthclinics.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 408-284-2282
 
 260. Aborn Rd Health Clinic
@@ -1463,11 +1560,13 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 599 Bellevue Ave, Santa Rosa, CA, 95407-7713
 🌐 https://srhealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 707-583-8777
 
 264. Community Medical Centers, Vacaville Dental
 600 Nut Tree Road, Ste. 120, Vacaville, CA, 95687-4656
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 58.5 hours per week.
 📞 209-636-5555
 
 265. Sebastopol Community Health Center
@@ -1479,6 +1578,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 266. Gravenstein South
 652 Petaluma Ave STE C-F, Sebastopol, CA, 95472-4256
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 707-869-5977
 
 267. Bridge Campus
@@ -1497,6 +1597,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 711 Stony Point Rd STE 17, Santa Rosa, CA, 95407-6848
 🌐 https://srhealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 707-303-3600
 
 270. St. Joseph’s Dental Clinic
@@ -1530,6 +1631,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 1110 N Dutton Ave, Santa Rosa, CA, 95401-4606
 🌐 https://srhealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 707-303-3600
 
 276. Promaster Van
@@ -1558,6 +1660,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 3569 Round Barn Cir, Santa Rosa, CA, 95403-1757
 🌐 https://srhealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 61.5 hours per week.
 📞 707-303-3600
 
 281. Isleton Elementary School
@@ -1570,6 +1673,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 3802 MAIN STREET, OCCIDENTAL, CA, 95465
 🌐 https://www.wchealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 707-874-2444
 
 283. Community Medical Centers, Tracy Grant Line Road
@@ -1586,6 +1690,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 6550 Front St, Forestville, CA, 95436-9686
 🌐 https://Www.wchealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 40 hours per week.
 📞 707-887-0290
 
 286. School Clinic - El Molino
@@ -1597,6 +1702,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 911 Washington St, Calistoga, CA, 94515-1433
 🌐 https://www.clinicole.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 40 hours per week.
 📞 707-709-2308
 
 288. Winters Healthcare 172 E. Grant Avenue
@@ -1635,6 +1741,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 1080 EMELINE AVE, SANTA CRUZ, CA, 95060-1966
 🌐 https://www.santacruzhealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 831-454-4100
 
 295. Green Acres Elementary School
@@ -1695,6 +1802,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 200 7TH AVE, SANTA CRUZ, CA, 95062-4668
 🌐 https://www.janussc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 168 hours per week.
 📞 831-462-1060
 
 306. Gilroy Neighborhood Health Clinic
@@ -1721,6 +1829,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 7526 Monterey St, Gilroy, CA, 95020-5826
 🌐 https://www.Gardnerhealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 48 hours per week.
 📞 408-848-9400
 
 311. Salud at 64 Aspen Way
@@ -1776,18 +1885,21 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 1430 Freedom Blvd Ste A, Watsonville, CA, 95076-2752
 🌐 https://www.santacruzhealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 53.5 hours per week.
 📞 831-763-8400
 
 321. CESAR CHAVEZ SBHC
 440 Arthur Rd Rm A, Watsonville, CA, 95076-3701
 🌐 https://www.splg.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 831-761-6125
 
 322. SALUD PARA LA GENTE, INC.
 204 E Beach St, Watsonville, CA, 95076-4809
 🌐 https://WWW.SPLG.ORG
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 72 hours per week.
 📞 831-728-0222
 
 323. CSVS - PAJARO CLINIC
@@ -1801,18 +1913,21 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 250 Salinas Rd  STE 4A, Watsonville, CA, 95076-5229
 🌐 https://www.splg.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 40 hours per week.
 📞 831-728-0222
 
 325. CSVS - CASTROVILLE CLINIC
 10561 Merritt St, Castroville, CA, 95012-3310
 🌐 https://www.csvs.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 48 hours per week.
 📞 831-633-1514
 
 326. GVHC - WESTLEY
 301 HOWARD ROAD, WESTLEY, CA, 95387-0000
 🌐 https://www.gvhc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 13.5 hours per week.
 📞 209-894-3141
 
 327. SAN BENITO HEALTH FOUNDATION
@@ -1873,12 +1988,14 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 637 Merced St, Newman, CA, 95360-1070
 🌐 https://www.gvhc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 209-862-0270
 
 337. CSVS - SANBORN CLINIC
 219 N Sanborn Rd, Salinas, CA, 93905-2218
 🌐 https://www.csvs.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 49 hours per week.
 📞 831-757-1365
 
 338. Manteca Clinic
@@ -1928,12 +2045,14 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 1121 HAMMOND ST, MODESTO, CA, 95351-3509
 🌐 https://www.gvhc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 209-576-4437
 
 346. GVHC - Hanshaw
 1717 LAS VEGAS ST, MODESTO, CA, 95358-5500
 🌐 https://www.gvhc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 209-579-4200
 
 347. WellSpace Health Tom Gagen Community Health Center
@@ -1999,6 +2118,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 http://www.dhhs.saccounty.net/PRI/Pages/PRI-Home.aspx
 🏥 Services: Ryan White HIV/AIDS Program; Primary Care; Migrant health center
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 916-874-9777
 
 359. Las Palmas Elementary School
@@ -2132,6 +2252,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 8231 E Stockton Blvd STE C, Sacramento, CA, 95828-8202
 📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Dental
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 916-737-5573
 
 383. Woodridge Elementary School
@@ -2236,6 +2357,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 721 Calaveras St, Lodi, CA, 95240-0628
 🌐 https://communitymedicalcenters.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 40 hours per week.
 📞 209-331-8019
 
 401. Western Sierra Medical Clinic - Rock Creek
@@ -2253,6 +2375,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 4941 Olivehurst Ave, Olivehurst, CA, 95961-4225
 🌐 https://www.amplahealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 73 hours per week.
 📞 530-743-4611
 
 404. El Dorado Community Health Center - Placerville
@@ -2310,6 +2433,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 1000 Sutter St, Yuba City, CA, 95991-3459
 🌐 https://www.amplahealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 75 hours per week.
 📞 530-673-9420
 
 414. Peach Tree-Yuba City/Colusa
@@ -2366,6 +2490,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 9980 LIVE OAK BLVD., LIVE OAK, CA, 95953-2334
 🌐 https://www.pickpeach.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 530-741-6245 x120
 
 424. Western Sierra Medical Clinic - Litton Drive
@@ -2392,12 +2517,14 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 520 Kentucky St, Gridley, CA, 95948-2116
 🌐 https://www.amplahealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 49 hours per week.
 📞 530-846-6231
 
 429. GVHC - RIVERBANK
 4150 Patterson Road, Riverbank, CA, 95367-2566
 🌐 https://www.gvhc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 209-383-1848
 
 430. McHenry Medical Office
@@ -2409,6 +2536,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 1510 Florida Ave, Modesto, CA, 95350-4437
 🌐 https://www.gvhc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 72.5 hours per week.
 📞 209-574-1365
 
 432. GVHC - McHenry Suite 550
@@ -2451,6 +2579,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 1114 6th St, Modesto, CA, 95354-2203
 🌐 https://www.gvhc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 209-576-2845
 
 439. Family and Pediatric Health Center
@@ -2474,6 +2603,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 8465 Old Redwood Hwy. STE 320, Windsor, CA, 95492-9244
 🌐 https://www.alliancemed.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 55 hours per week.
 📞 707-433-5494
 
 443. Windsor Wellness Center
@@ -2514,6 +2644,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 442 S. Los Angeles St., Los Angeles, CA, 90013-1425
 📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Women's health
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 18 hours per week.
 📞 213-223-2900
 
 🌐 https://www.jwchinstitute.org
@@ -2522,6 +2653,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 303 E    5th St, Los Angeles, CA, 90013-1505
 🌐 https://www.lachc.com
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 3 hours per week.
 📞 213-629-1227
 
 451. Wesley Health Centers- Crocker Care Campus
@@ -2547,6 +2679,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.jwchinstitute.org
 🏥 Services: Primary Care; Migrant health center
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 40 hours per week.
 📞 213-353-1118
 
 455. JWCH Institute, Inc. Medical Clinic / Weingart Center
@@ -2571,6 +2704,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 545 S San Pedro St, Los Angeles, CA, 90013-2101
 📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Health Care for the Homeless
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 42.5 hours per week.
 📞 213-347-6357
 
 🌐 http://www.lachc.com
@@ -2584,6 +2718,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 625 S San Pedro St, Los Angeles, CA, 90014-2424
 🌐 https://www.jwchinstitute.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 6 hours per week.
 📞 213-353-1118
 
 461. CSC - COMMUNITY HEALTH CENTER Suite 213
@@ -2611,6 +2746,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.altamed.org
 🏥 Services: Primary Care; Migrant health center
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 38 hours per week.
 📞 888-499-9303
 
 465. APLA Health & Wellness Wilshire Dental Clinic
@@ -2640,6 +2776,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 180 Union Pl, Los Angeles, CA, 90026-5715
 🌐 https://www.aphcv.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 323-644-3885
 
 470. Gracelight Community Health - Westlake North
@@ -2690,6 +2827,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.eisnerhealth.org
 🏥 Services: Ryan White HIV/AIDS Program; Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 48.5 hours per week.
 📞 213-744-0801
 
 478. Northeast Community Clinic
@@ -2754,6 +2892,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 1921 Maple Ave., Los Angeles, CA, 90011-1036
 🌐 https://www.eisnerhealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 40 hours per week.
 📞 213-747-5542 x3563
 
 488. Via Care Los Angeles Trade Tech College
@@ -2811,6 +2950,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.arroyovista.org
 🏥 Services: Primary Care; Migrant health center
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 56.5 hours per week.
 📞 323-987-2000 x0
 
 498. Kwang He Won- Broadway
@@ -2847,6 +2987,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 150 N. RENO ST, LOS ANGELES, CA, 90026-4656
 🌐 https://gracelight.org/
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 54 hours per week.
 📞 323-953-7330
 
 504. San Judas Community Health Center - Wilshire
@@ -2876,6 +3017,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 508. Wellness Center at Jefferson High School
 3410 HOOPER AVE, LOS ANGELES, CA, 90011-2161
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, 54 hours per week.
 📞 323-908-4402
 
 509. AltaMed Medical Group:  Ramona Gardens
@@ -2883,6 +3025,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.altamed.org
 🏥 Services: Primary Care; Migrant health center
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 38 hours per week.
 📞 888-499-9303
 
 510. St. Anthony Medical Centers - Pico Site
@@ -2895,6 +3038,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 2512 Alta St, Los Angeles, CA, 90031-2457
 🌐 https://www.wellchild.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 323-541-1411
 
 512. Kheir-Wilshire Clinic
@@ -2919,6 +3063,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.altamed.org
 🏥 Services: Primary Care; Migrant health center
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 38 hours per week.
 📞 888-499-9303
 
 516. JWCH PATH Clinic
@@ -2946,6 +3091,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 520. Kedren Community Care Clinic
 4211 Avalon Blvd Ste B, Los Angeles, CA, 90011-5622
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 49.5 hours per week.
 📞 323-234-0616
 🌐 https://www.kedrenmentalhealth.com
 
@@ -2959,6 +3105,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 1111  E. Vernon Avenue, Los Angeles, CA, 90011-3718
 🌐 https://www.scfhc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 55 hours per week.
 📞 323-908-4200
 
 523. SCFHC Medical/Dental Annex
@@ -2980,6 +3127,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.apla.org
 🏥 Services: Ryan White HIV/AIDS Program; Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 213-201-1600
 
 526. Kheir Clinic-Dental & Optometry
@@ -3005,6 +3153,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center; Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.altamed.org
 🏥 Services: Primary Care; Dental; Migrant health center
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 47 hours per week.
 📞 888-499-9303
 
 530. Wesley Health Centers-- Vermont Annex
@@ -3017,6 +3166,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 4815 EAST VALLEY BLVD STE C, LOS ANGELES, CA, 90032-3300
 🌐 https://www.arroyovista.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 323-222-1134 x0
 
 532. Centro Medico Community Clinic Los Angeles Ste 101
@@ -3028,11 +3178,13 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 4618 FOUNTAIN AVE, LOS ANGELES, CA, 90029-1977
 🌐 https://gracelight.org/
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 47.5 hours per week.
 📞 323-953-7330
 
 534. SJCH Manual Arts High School-based Clinic
 4085 S Vermont Ave, Los Angeles, CA, 90037-1942
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 323-541-1411
 
 535. Complete Care Community Health Center - N. Vermont Avenue
@@ -3046,6 +3198,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://WWW.APHCV.ORG
 🏥 Services: Primary Care; Migrant health center
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 58 hours per week.
 📞 323-644-3888
 
 537. AltaMed General Pediatrics @ Children's Hospital
@@ -3053,6 +3206,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center; Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.altamed.org
 🏥 Services: Primary Care, Pediatrics, Migrant health center, Ryan White HIV/AIDS Program
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 76 hours per week.
 📞 888-499-9303
 
 538. AltaMed Behavioral Health at Animo Ellen Ochoa Charter Middle School
@@ -3077,6 +3231,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 541. CHLA Division of Adolescent and Young Adult Medicine
 5000 W Sunset Blvd Ste 440, Los Angeles, CA, 90027-5861
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 12 hours per week.
 📞 323-361-2153
 
 542. T.H.E. CLINIC, INC.
@@ -3084,6 +3239,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.ToHelpEveryone.org
 🏥 Services: Ryan White HIV/AIDS Program; Primary Care; Migrant health center
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 62 hours per week.
 📞 323-730-1920 x3007
 
 543. BHS- Nuestra Health Center
@@ -3138,12 +3294,14 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 551. Childrens Hospital Los Angeles - Covenant House California
 1325 N Western Ave, Los Angeles, CA, 90027-5615
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 11 hours per week.
 📞 323-461-3131
 
 552. SJCH LEWIS FRAYSER CLINIC
 5701 S. HOOVER ST, LOS ANGELES, CA, 90037-4045
 🌐 https://www.sjch.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 323-541-1411
 
 553. SJCH S. Mark Taper Foundation Chronic Disease and Environmental Health Center
@@ -3180,6 +3338,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 501 S Woods Ave, Los Angeles, CA, 90022-1976
 🌐 https://viacarela.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 323-269-2623
 
 559. SJCH - Avalon Health and Access Center
@@ -3196,6 +3355,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 561. Via Care Mobile 01
 507 S Atlantic Blvd, Los Angeles, CA, 90022-2621
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 50 hours per week.
 📞 323-268-9191
 
 562. Via Care Primary 607
@@ -3224,6 +3384,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 566. My Friend's Place - CHLA
 5850 Hollywood Blvd, Los Angeles, CA, 90028-5611
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 29 hours per week.
 📞 323-669-2503
 
 567. SCFHC- Santa Fe
@@ -3348,6 +3509,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 587. LAGLC Youth Center on Highland
 1220 N HIGHLAND AVE, LOS ANGELES, CA, 90038-1207
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 22 hours per week.
 📞 323-860-2280
 
 588. The Center at Blessed Sacrament
@@ -3384,12 +3546,14 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.wattshealth.org
 🏥 Services: Primary Care; Migrant health center
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 323-568-5460
 
 594. HOUSE OF UHURU
 8005 S. FIGUEROA ST, LOS ANGELES, CA, 90003-2720
 🌐 https://www.wattshealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 168 hours per week.
 📞 323-778-5290
 
 595. Yehowa Medical Services - Crenshaw
@@ -3440,6 +3604,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.apla.org
 🏥 Services: Ryan White HIV/AIDS Program; Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 323-329-9900
 
 603. APLA Health - Michael Gottlieb Health Center
@@ -3453,6 +3618,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 6505 8th Avenue, Los Angeles, CA, 90043-4313
 🌐 https://wellchild.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 323-541-1411
 
 605. Cali-Med Corporation
@@ -3497,6 +3663,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 6912 AJAX AVE, BELL GARDENS, CA, 90201-4057
 🌐 http://www.jwchinstitute.org/Clinic Bg.htm
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 54 hours per week.
 📞 323-562-5813
 
 613. Westmont Health Center
@@ -3591,11 +3758,13 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 628. JWCH Medical Clinic - Lynwood
 3591 E Imperial Hwy, Lynwood, CA, 90262-2684
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 310-638-9007
 
 629. SJCH Leavey Community Clinic
 3628 E Imperial Hwy Ste 301, Lynwood, CA, 90262-2646
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 323-541-1411
 
 630. BeverlyCare - Pediatric Center
@@ -3711,12 +3880,14 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 2115 N Wilmington Ave, Compton, CA, 90222-2030
 🌐 https://www.wellchild.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 323-541-1411
 
 649. The Achievable Foundation
 5901 Green Valley Cir Ste 405, Culver City, CA, 90230-6971
 🌐 http://www.achievable.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 47 hours per week.
 📞 424-266-7474
 
 650. Southern California Medical Center
@@ -3774,6 +3945,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 1311 N San Fernando Blvd, Burbank, CA, 91504-4236
 🌐 http://www.aichc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 55 hours per week.
 📞 818-843-9900
 
 660. ChapCare by AltaMed Medical Group  -  Pasadena, Lake
@@ -3861,12 +4033,14 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 12113 Woodruff Ave  STE A, Downey, CA, 90241-5605
 🌐 https://www.fhccgla.com
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 562-928-9600
 
 675. SJCH at Dominguez High School
 15301 S San Jose Ave, Compton, CA, 90221-3131
 🌐 https://sjch.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 323-541-1411
 
 676. Center for Family Health & Education, Inc. dba Priority Care Medical Group El Monte 1
@@ -3885,6 +4059,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 15715 S Atlantic Ave FL 2, Compton, CA, 90221-4242
 🌐 https://www.wellchild.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 323-541-1411
 
 679. AltaMed PACE - Compton
@@ -3959,6 +4134,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 905 Venice Blvd, Venice, CA, 90291-4904
 🌐 https://www.venicefamilyclinic.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 310-664-7960
 
 692. CMWC - Rio Hondo
@@ -4066,12 +4242,14 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 200 E Anaheim St, Wilmington, CA, 90744-4516
 🌐 https://www.necc.net
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 42 hours per week.
 📞 310-522-8700
 
 711. Wilmington Community Clinic
 1009 N Avalon Blvd, Wilmington, CA, 90744-4505
 🌐 https://www.wilmingtoncc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 67 hours per week.
 📞 310-549-5760
 
 712. AltaMed PACE - Long Beach
@@ -4131,6 +4309,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 22310 Wardham Ave, Hawaiian Gardens, CA, 90716-1740
 🌐 https://www.fhccgla.com
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 562-928-9600
 
 722. Bellflower Health Center Suite 307, 309, 311
@@ -4165,6 +4344,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 7761 Garden Grove Blvd., Garden Grove, CA, 92841-4200
 🌐 https://www.nhanhoa.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 49 hours per week.
 📞 714-898-8888
 
 728. Livingstone Community Health Clinic
@@ -4177,11 +4357,13 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 12360 FIRESTONE BLVD, NORWALK, CA, 90650-4324
 🌐 http://www.jwchinstitute.org/Clinic Norwalk.htm
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 60 hours per week.
 📞 562-281-0305
 
 730. St. Jude Pediatric Dental Clinic
 7758 Knott Ave, Buena Park, CA, 90620-2420
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 16 hours per week.
 📞 714-522-8723
 
 731. KCS Buena Park Homeless Shelter Clinic
@@ -4339,6 +4521,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 2720 S Bristol St Rm 100, Santa Ana, CA, 92704-6207
 🌐 https://www.altamed.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 43 hours per week.
 📞 888-499-9303
 
 758. VCC: The Gary Center
@@ -4441,11 +4624,13 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 140 Elm St, San Diego, CA, 92101-2602
 🌐 https://www.fhcsd.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 32 hours per week.
 📞 619-515-2300
 
 775. FamilyHealth at City College
 1550 BROADWAY STE 2, SAN DIEGO, CA, 92101-5713
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 24 hours per week.
 📞 619-515-2300
 
 776. Healthy Development Services Center - Central Region
@@ -4456,6 +4641,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 777. Logan Heights Patient Care Support Services
 1827 Logan Ave STE 2, San Diego, CA, 92113-2137
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 42.5 hours per week.
 📞 619-906-4621
 
 778. San Ysidro Health Sherman Heights
@@ -4485,6 +4671,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 3177 Ocean View Blvd, San Diego, CA, 92113-1432
 📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Migrant health center
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 619-662-4100
 
 🌐 http://www.syhealth.org
@@ -4506,6 +4693,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 823 Gateway Center Way, San Diego, CA, 92102-4541
 📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🏥 Services: Primary Care, Migrant health center, Ryan White HIV/AIDS Program
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 30 hours per week.
 📞 619-515-2300
 
 🌐 http://www.fhcsd.org
@@ -4527,6 +4715,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 4388 Thorn St Bldg 300, San Diego, CA, 92105-4238
 🌐 https://www.lamaestra.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 19.9 hours per week.
 📞 619-563-6801
 
 789. La Maestra Central Elementary School Clinic
@@ -4538,12 +4727,14 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 4725 Market Street  BLDG A, San Diego, CA, 92102-4715
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🏥 Services: Ryan White HIV/AIDS Program; Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 619-515-2560
 
 791. La Maestra National City Clinic
 217 Highland Ave, San Diego, CA, 91950-1518
 🌐 https://www.lamaestra.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 619-434-7308
 
 792. MID-CITY COMMUNITY CLINIC-PEDIATRICS
@@ -4556,12 +4747,14 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 793. San Ysidro Health Lincoln High School
 4777 Imperial Ave., San Diego, CA, 92113-2071
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 20 hours per week.
 📞 619-266-6500
 
 794. Rosa Parks Elementrary School
 4510 Landis St, San Diego, CA, 92105-2822
 🌐 https://sdfamilycare.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 19 hours per week.
 📞 619-282-6803
 
 795. San Ysidro Health South Bay
@@ -4573,6 +4766,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 4185 Fairmount Ave, San Diego, CA, 92105-1609
 🌐 https://www.lamaestra.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 619-280-4213
 
 797. La Maestra Behavioral Health Services
@@ -4585,6 +4779,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 286 Euclid Ave.  STE 309, San Diego, CA, 92114-3613
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🏥 Services: Ryan White HIV/AIDS Program; Primary Care; Migrant health center
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 619-662-4100
 
 🌐 http://www.syhealth.org
@@ -4594,6 +4789,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.lamaestra.org
 🏥 Services: Primary Care; Dental
+⏰ Hours: HRSA 2025 site report: part-time, seasonal, 19.9 hours per week.
 📞 619-584-9285
 
 800. LINDA VISTA HEALTH CARE CENTER
@@ -4624,6 +4820,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 2743 Highland Ave, National City, CA, 91950-7410
 🌐 https://www.opsam.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 48 hours per week.
 📞 844-200-2426
 
 805. Opsam Specialty and Behavioral Health Services, National City
@@ -4658,6 +4855,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.fhcsd.org
 🏥 Services: Ryan White HIV/AIDS Program; Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 619-515-2444
 
 811. San Ysidro Health Specialty Care
@@ -4679,16 +4877,19 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 7592 Broadway, Lemon Grove, CA, 91945-1604
 🌐 https://www.fhcsd.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 41.25 hours per week.
 📞 619-515-2550
 
 815. San Ysidro Health Chula Vista
 678 Third Ave, Chula Vista, CA, 91910-5736
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 64 hours per week.
 📞 619-662-4100
 
 816. La Maestra Lemon Grove Clinic
 7967 Broadway, Lemon Grove, CA, 91945-1809
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 619-741-7423
 
 817. San Ysidro Health Sports Medicine
@@ -4720,6 +4921,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 3845 Spring Dr., Spring Valley, CA, 91977-1030
 🌐 https://www.fhcsd.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 619-515-2385
 
 823. IMPERIAL BEACH HEALTH CENTER
@@ -4763,6 +4965,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 3364 Beyer Blvd, San Diego, CA, 92173-1322
 🌐 https://www.syhc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 619-662-4100
 
 831. San Ysidro Health Precision Park
@@ -4778,6 +4981,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 833. San Ysidro Health Maternal & Child Health Center
 4050 Beyer Blvd, San Ysidro, CA, 92173-2007
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 619-662-4100
 
 834. DAP Health - Centro Medico El Cajon
@@ -4795,6 +4999,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 855 E Madison Ave, El Cajon, CA, 92020-3819
 🌐 https://www.nhcare.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 44 hours per week.
 📞 619-440-2751
 
 837. Neighborhood Healthcare ~ Mollison
@@ -4812,6 +5017,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 10737 Camino Ruiz STE 235, San Diego, CA, 92126-2375
 🌐 https://www.opsam.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 46 hours per week.
 📞 858-578-4220
 
 840. Opsam Health Mira Mesa Boulevard
@@ -4847,6 +5053,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 10039A VINE ST, LAKESIDE, CA, 92040-3130
 🌐 https://www.nhcare.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 39.5 hours per week.
 📞 619-390-9135
 
 846. Neighborhood Healthcare ~ Gold Family Health Center
@@ -4899,6 +5106,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 855. Neighborhood Healthcare ~ Valley Parkway
 728 E Valley Pkwy, Escondido, CA, 92025-3052
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 760-737-6900
 
 856. Hickory Head Start
@@ -4964,6 +5172,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 134 Grapevine Rd., Vista, CA, 92083-4004
 🌐 https://www.vcc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 47.5 hours per week.
 📞 760-631-5000
 
 868. VCC: Durian Senior Adult Care
@@ -4975,12 +5184,14 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 1000 Vale Terrace Dr, Vista, CA, 92084-5218
 🌐 https://WWW.VCC.ORG
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 64.5 hours per week.
 📞 760-631-5000
 
 870. VCC: PIER VIEW
 818 Pier View Way, Oceanside, CA, 92054-2803
 🌐 https://www.vcc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 54 hours per week.
 📞 760-631-5000
 
 871. VCC: Mission Pediatric & Family Dentistry
@@ -4993,6 +5204,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 517 N Horne St, Oceanside, CA, 92054-2518
 🌐 https://www.vcc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 760-631-5000
 
 873. Oceanside Family Counseling Center
@@ -5004,6 +5216,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 4700 N River Road, Oceanside, CA, 92057-6043
 🌐 https://www.vcc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 760-631-5000
 
 875. Lilac School
@@ -5035,6 +5248,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 1328 S Mission Rd, Fallbrook, CA, 92028-4006
 🌐 https://www.chsica.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 760-451-4720
 
 881. Neighborhood Healthcare ~ Fallbrook
@@ -5046,6 +5260,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 41840 Enterprise Cir N, Temecula, CA, 92590-5654
 🌐 https://www.nhcare.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 951-225-6400
 
 883. Camino Health Center - San Clemente
@@ -5126,6 +5341,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 896. Neighborhood Healthcare ~ Menifee Suite C
 26926 Cherry Hills Blvd Ste C, Menifee, CA, 92586-2500
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 760-520-8300
 
 897. CLCHC - The Adam Raine Healing Center
@@ -5281,6 +5497,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 91275 66TH AVE STE 300, MECCA, CA, 92254-6610
 🌐 https://www.innercare.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 760-396-0521
 
 925. Unicare Community Health Center - Riverside 5537
@@ -5310,6 +5527,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 2933 University Ave, Riverside, CA, 92507-243
 🌐 https://www.chsica.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 47.5 hours per week.
 📞 951-224-8220
 
 930. SAC Indio CVRM
@@ -5368,6 +5586,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.clinicasierravista.org
 🏥 Services: Primary Care; Migrant health center
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 559-457-5400
 
 940. West Fresno Community Health Center
@@ -5375,6 +5594,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.clinicasierravista.org
 🏥 Services: Primary Care; Migrant health center
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 559-457-5700
 
 941. CHCA Fresno Primary Care Suite 301
@@ -5391,6 +5611,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 943. Gaston Middle School Health and Wellness Center
 1120 E CHURCH AVE, FRESNO, CA, 93706-4257
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 559-457-5800
 
 944. Fresno -Mobile Unit
@@ -5398,6 +5619,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.clinicasierravista.org
 🏥 Services: Primary Care; Migrant health center
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 84 hours per week.
 📞 559-457-5800
 
 945. Elm Women's & Pediatric Health Center
@@ -5405,6 +5627,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center; Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.clinicasierravista.org
 🏥 Services: Primary Care; Women's health; Pediatrics; Migrant health center
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 60 hours per week.
 📞 559-457-5300
 
 946. Todos Para La Salud: N. Fresno
@@ -5429,6 +5652,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.clinicasierravista.org
 🏥 Services: Primary Care; Migrant health center
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40.01 hours per week.
 📞 559-457-5650
 
 950. United Health Centers Fresno First Street
@@ -5500,6 +5724,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 2502 Jensen Ave, Sanger, CA, 93657-2250
 🌐 https://www.unitedhealthcenters.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 559-646-6618 x0010
 
 962. Camarena Health  -  Madera Ranchos
@@ -5524,12 +5749,14 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 702 S    8th St, Kerman, CA, 93630-1803
 🌐 https://www.vht.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 559-364-2975
 
 966. Kerman Dental Center/ Valley Optometric Center
 942 S Madera Ave, Kerman, CA, 93630-1743
 🌐 https://www.vht.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 559-364-2980
 
 967. Camarena Health - Tesoro Viejo
@@ -5573,6 +5800,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 344 E    6th St, Madera, CA, 93638-3631
 🌐 https://www.camarenahealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 73 hours per week.
 📞 559-664-4000
 
 974. Aria Community Health Center Riverdale
@@ -5627,6 +5855,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 21890 W Colorado Ave, San Joaquin, CA, 93660-9773
 🌐 https://www.vht.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 51 hours per week.
 📞 559-693-2462
 
 983. Dinuba Community Health Center  -  Building 2
@@ -5644,6 +5873,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 445 11th St, Orange Cove, CA, 93646-2211
 🌐 https://WWW.UNITEDHEALTHCENTERS.ORG
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 559-646-6618 x0010
 
 986. United Health Centers Lemoore
@@ -5674,6 +5904,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 121 Barboza St, Mendota, CA, 93640-1901
 🌐 https://WWW.UNITEDHEALTHCENTERS.ORG
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 77.5 hours per week.
 📞 559-646-6618 x0010
 
 991. Family HealthCare Network - Mobile Van #1
@@ -5735,6 +5966,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 13161 JEFFERSON ST, LE GRAND, CA, 95333-9766
 🌐 https://www.gvhc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 209-389-1900
 
 1002. Altura Centers for Health Cartmill Campus
@@ -5749,12 +5981,14 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 1101 N Cherry St, Tulare, CA, 93274-2231
 🌐 https://www.altura.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 62 hours per week.
 📞 559-686-9097
 
 1004. Family HealthCare Network - Farmersville Health Center
 730 N. Farmersville Blvd, Farmersville, CA, 93223-1220
 🌐 https://www.fhcn.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 67.5 hours per week.
 📞 877-960-3426
 
 1005. Famersville Health Care Center
@@ -5778,6 +6012,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 1405 CALIFORNIA AVE, DOS PALOS, CA, 93620-2300
 🌐 https://www.gvhc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 209-382-2111
 
 1009. Aria Community Health Center Kettleman City
@@ -5802,6 +6037,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 797 W. CHILDS AVE, MERCED, CA, 95341-6805
 🌐 https://www.gvhc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 47.5 hours per week.
 📞 209-383-5871
 
 1013. GVHC  -  Senior Health and Wellness Center
@@ -5814,6 +6050,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 847 W. CHILDS AVE, MERCED, CA, 95341-6862
 🌐 https://www.gvhc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 50 hours per week.
 📞 209-383-7441
 
 1015. CHCA Merced Alternative Medicine Health Center
@@ -5860,6 +6097,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 1133 W Poplar Ave, Porterville, CA, 93257-5839
 🌐 https://www.fhcn.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 67.5 hours per week.
 📞 877-960-3426
 
 1023. GVHC - LOS BANOS DENTAL
@@ -5872,6 +6110,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 476 E. WASHINGTON AVE, EARLIMART, CA, 93219-0000
 🌐 https://WWW.UNITEDHEALTHCENTERS.ORG
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 559-646-6618 x0010
 
 1025. Livingston Wolves Center
@@ -5896,6 +6135,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 441 Diaz Ave, Delano, CA, 93215-4121
 🌐 https://www.clinicasierravista.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 661-725-3882
 
 1029. Delano Walk In Clinic
@@ -5908,6 +6148,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 7970 Lander Ave STE A/B, Hilmar, CA, 95324-8350
 🌐 https://lumirahealthcare.com
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 209-850-3500
 
 1031. GVHC - TURLOCK PEDIATRIC HEALTH CENTER 1199 Suite 3
@@ -5968,12 +6209,14 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 808 Oak Ave, Greenfield, CA, 93927-5648
 🌐 https://www.csvs.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 44 hours per week.
 📞 831-678-0881
 
 1041. CSVS - SOLEDAD CLINIC
 799 Front St, Soledad, CA, 93960-3017
 🌐 https://www.csvs.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 831-678-0881
 
 1042. COMMUNITY HEALTH CENTERS LOS ROBLES
@@ -6085,12 +6328,14 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 30257 San Martinez Rd, Castaic, CA, 91384-2472
 🌐 https://www.sdfhc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 60 hours per week.
 📞 661-257-4008
 
 1061. Fillmore High school
 555 Central Ave, Ventura, CA, 93015-1331
 🌐 https://www.clinicas.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 24 hours per week.
 
 1062. San Cayetano Elementary School
 514 Mountain View St, Fillmore, CA, 93015-1506
@@ -6174,18 +6419,21 @@ GINGHAM AVE, LANCASTER, CA, 93535
 1077. California Institute of the Arts
 24700 MCBEAN PKWY, VALENCIA, CA, 91355-2340
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 8 hours per week.
 📞 661-255-7830
 
 1078. Canyon Country Health Center
 27225 Camp Plenty Rd STE 2, Canyon Country, CA, 91351-2654
 🌐 https://www.sdfhc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 60 hours per week.
 📞 661-424-1220
 
 1079. COUNTY HLTH CLINIC - CARPINTERIA
 931 WALNUT AVE, CARPINTERIA, CA, 93013-2028
 🌐 https://WWW.SBCPHD.ORG
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 805-560-1050
 
 1080. American Indian Health and Services Carpinteria Dental
@@ -6198,6 +6446,7 @@ GINGHAM AVE, LANCASTER, CA, 93535
 18533 Soledad Canyon Rd, Canyon Country, CA, 91351-3722
 🌐 https://www.nevhc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 48 hours per week.
 📞 661-673-8800
 
 1082. SCV Dental & Wellness Center
@@ -6231,6 +6480,7 @@ GINGHAM AVE, LANCASTER, CA, 93535
 1136 E Montecito St, Santa Barbara, CA, 93103-2635
 🌐 https://WWW.SBCPHD.ORG
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 805-568-2099
 
 1088. Eastside Family Dental Clinic
@@ -6253,6 +6503,7 @@ GINGHAM AVE, LANCASTER, CA, 93535
 1091. TRANSITION HOUSE
 425 E. COTA ST, SANTA BARBARA, CA, 93101-1662
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 4 hours per week.
 📞 805-866-9668
 
 1092. Wesley Palmdale
@@ -6263,6 +6514,7 @@ GINGHAM AVE, LANCASTER, CA, 93535
 1093. SANTA BARBARA RESCUE MISSION
 535 E. YANONALI ST, SANTA BARBARA, CA, 93103-3254
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 8 hours per week.
 📞 805-966-1316
 
 1094. USARC
@@ -6274,6 +6526,7 @@ GINGHAM AVE, LANCASTER, CA, 93535
 1095. SALVATION ARMY HOSPITALITY HOUSE
 423 CHAPALA ST, SANTA BARBARA, CA, 93101-3409
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 4 hours per week.
 📞 805-962-6281
 
 1096. Moorpark High School
@@ -6285,17 +6538,20 @@ GINGHAM AVE, LANCASTER, CA, 93535
 345 CAMINO DEL RE, SANTA BARBARA, CA, 93110-1332
 🌐 https://WWW.SBCPHD.ORG
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 805-681-5423
 
 1098. Clinicas del Camino Real, Incorporated - Moorpark
 4279 Tierra Rejada Rd, Moorpark, CA, 93021-3775
 🌐 https://www.clinicas.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 46 hours per week.
 📞 805-222-2323
 
 1099. Pediatric Diagnostic Center
 300 Hillmont Ave Bldg 340 # 302, Ventura, CA, 93003-1651
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 42 hours per week.
 📞 805-652-6255
 
 1100. La Cumbre Junior High School
@@ -6307,6 +6563,7 @@ GINGHAM AVE, LANCASTER, CA, 93535
 1101. VENTURA COUNTY HEALTHCARE FOR THE HOMELESS PROGRAM
 3147 Loma Vista Rd, Ventura, CA, 93003-2917
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 805-652-6694
 
 1102. West Ventura Medical Clinic
@@ -6327,6 +6584,7 @@ GINGHAM AVE, LANCASTER, CA, 93535
 1105. Las Posas Family Medical Group
 3801 Las Posas Rd. STE 214, Camarillo, CA, 93010-1426
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 805-437-0900
 
 1106. Goleta Neighborhood Clinic
@@ -6369,6 +6627,7 @@ GINGHAM AVE, LANCASTER, CA, 93535
 13356 Eldridge Ave, Sylmar, CA, 91342-3200
 🌐 https://WWW.NEVHC.ORG
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 42.5 hours per week.
 📞 818-362-6182
 
 1114. Frontier High School
@@ -6391,6 +6650,7 @@ GINGHAM AVE, LANCASTER, CA, 93535
 1600 San Fernando Rd, San Fernando, CA, 91340-3115
 🌐 https://WWW.NEVHC.ORG
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 69 hours per week.
 📞 818-365-8086
 
 1118. Isla Vista Neighborhood Clinic
@@ -6511,6 +6771,7 @@ Anonymous, Santa Maria, CA, 93454-0000
 1139. TC HOUSE
 412 E. TUNNELL, SANTA MARIA, CA, 96454-4146
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 1 hours per week.
 📞 805-925-2160
 
 1140. Serenity Care Health Group - Owensmouth
@@ -6522,16 +6783,19 @@ Anonymous, Santa Maria, CA, 93454-0000
 9140 Van Nuys Blvd Ste 207, Panorama City, CA, 91402-6763
 🌐 https://www.elproyecto.us
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 818-830-7181
 
 1142. SALVATION ARMY OF SANTA MARIA
 402 S. MILLER, SANTA MARIA, CA, 93454-5755
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 1.5 hours per week.
 📞 805-349-2421
 
 1143. COMMUNITY HEALTH CENTERS BROADWAY DENTAL
 210 N Broadway, Santa Maria, CA, 93454-4415
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 805-929-3211
 
 1144. KHW Panorama City
@@ -6559,12 +6823,14 @@ Anonymous, Santa Maria, CA, 93454-0000
 8902 Woodman Ave, Arleta, CA, 91331-6401
 🌐 https://www.elproyecto.us
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 818-830-7033
 
 1149. COUNTY HEALTH CLINIC-SANTA MARIA
 2115 Centerpointe Pkwy, Santa Maria, CA, 93455-1334
 🌐 https://WWW.SBCPHD.ORG
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 805-346-8410
 
 1150. GOOD SAMARITAN SHELTER
@@ -6654,11 +6920,13 @@ Anonymous, Santa Maria, CA, 93454-0000
 1165. Transitions to Wellness
 6551 Van Nuys Blvd.  Suite 201, Van Nuys, CA, 91401-1328
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 39 hours per week.
 📞 818-765-8656
 
 1166. Children's Hospital La Family Housing
 7817 LANKERSHIM BLVD, NORTH HOLLYWOOD, CA, 91605-2523
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 0.5 hours per week.
 📞 818-982-4091
 
 1167. Eisner Health at Van Nuys
@@ -6683,6 +6951,7 @@ Anonymous, Santa Maria, CA, 93454-0000
 6801 Coldwater Canyon Ave, North Hollywood, CA, 91605-5162
 🌐 https://www.valleycommunityhealthcare.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 60 hours per week.
 📞 818-763-8836
 
 1171. Noalab Dental
@@ -6716,11 +6985,13 @@ Anonymous, Santa Maria, CA, 93454-0000
 1176. BRIDGEHOUSE- LOMPOC
 2025 SWEENEY RD, LOMPOC, CA, 93436-9639
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 2 hours per week.
 📞 805-737-9443
 
 1177. Victory Outreach
 1641 W Central Ave, Lompoc, CA, 93436-2723
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 2 hours per week.
 📞 805-737-9968
 
 1178. MARK'S HOUSE
@@ -6758,6 +7029,7 @@ Anonymous, Santa Maria, CA, 93454-0000
 223 W Cole Blvd, Calexico, CA, 92231-9722
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 55 hours per week.
 📞 213-808-1792
 
 1184. Wesley Health Centers-Downey 1
@@ -6777,6 +7049,7 @@ Anonymous, Santa Maria, CA, 93454-0000
 1203 N Cherry St, Tulare, CA, 93274-2233
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 619-662-4100
 
 1187. Juniper Elementary School
@@ -6796,6 +7069,7 @@ Anonymous, Santa Maria, CA, 93454-0000
 2000 Physicians Blvd, Bakersfield, CA, 93301-1277
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 408-445-3400
 
 1190. Valley Health Center - San Jose 1410
@@ -6815,6 +7089,7 @@ Anonymous, Santa Maria, CA, 93454-0000
 200 Cottage Ave, Ste 202, Manteca, CA, 95336-4935
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 66.5 hours per week.
 📞 209-624-5800
 
 1193. Steve Schilling Mobile Unit
@@ -6907,6 +7182,7 @@ Admin office: UCSD Family Medicine, 9500 Gilman Drive #0696, La Jolla, CA 92093
 5454 El Cajon Blvd, San Diego, CA 92115-3621
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🏥 Services: Ryan White HIV/AIDS Program
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (619) 515-2400
 
 1208. HIV Care Coordination (Hcc Clinic)
@@ -6919,6 +7195,7 @@ Admin office: UCSD Family Medicine, 9500 Gilman Drive #0696, La Jolla, CA 92093
 1809 National Ave, San Diego, CA 92113-2113
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🏥 Services: Ryan White HIV/AIDS Program
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 56.5 hours per week.
 📞 (619) 515-2300
 
 1210. Los Angeles General Medical Center
@@ -6937,6 +7214,7 @@ Admin office: UCSD Family Medicine, 9500 Gilman Drive #0696, La Jolla, CA 92093
 3544 30th St, San Diego, CA 92104-4120
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🏥 Services: Ryan White HIV/AIDS Program
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (619) 515-2424
 
 1213. Regents Of University Of California
@@ -7020,6 +7298,7 @@ S San Pedro St, Los Angeles, CA 90014-2417
 515 E 6th St, Los Angeles, CA 90021-1009
 📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🏥 Services: Migrant health center; Primary care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (213) 622-2639
 🌐 http://www.jwchinstitute.org
 
@@ -7068,6 +7347,7 @@ S San Pedro St, Los Angeles, CA 90014-2417
 1625 E 4th St, Los Angeles, CA 90033-4299
 📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🏥 Services: Migrant health center, Primary Care, Dental
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 51.5 hours per week.
 📞 (323) 268-8391
 🌐 http://www.lachc.com
 
@@ -7096,6 +7376,7 @@ S San Pedro St, Los Angeles, CA 90014-2417
 1685 Hollister St, San Diego, CA 92154-4548
 📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🏥 Services: Migrant health center; Primary care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 20 hours per week.
 📞 (619) 662-4100
 🌐 http://www.syhc.org
 
@@ -7131,12 +7412,14 @@ S San Pedro St, Los Angeles, CA 90014-2417
 4171 Fairmount Ave, San Diego, CA 92105-1609
 📝 HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🏥 Services: Health Care for the Homeless; Primary care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (619) 584-1612
 
 1242. South Central Family Health Center - Main Site
 4425 S Central Ave, Los Angeles, CA 90011-3629
 📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🏥 Services: Migrant health center, Primary Care, Dental
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (323) 908-4247
 🌐 http://www.scfhc.org
 
@@ -7144,6 +7427,7 @@ S San Pedro St, Los Angeles, CA 90014-2417
 2391 Island Ave, San Diego, CA 92102-2941
 📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🏥 Services: Migrant health center; Primary care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (619) 269-4041
 🌐 http://www.fhcsd.org
 
@@ -7256,6 +7540,7 @@ S San Pedro St, Los Angeles, CA 90014-2417
 3415 Martin Luther King Jr Blvd, Sacramento, CA 95817-3648
 📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🏥 Services: Migrant health center, Primary Care, Dental
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (916) 737-5555
 🌐 http://www.wellspacehealth.org/
 
@@ -7270,6 +7555,7 @@ S San Pedro St, Los Angeles, CA 90014-2417
 5425 Pomona Blvd, Los Angeles, CA 90022-1716
 📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🏥 Services: Migrant health center; Primary care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 (323) 725-8751
 🌐 http://altamed.org
 
@@ -7284,6 +7570,7 @@ S San Pedro St, Los Angeles, CA 90014-2417
 3455 Percy St, Los Angeles, CA 90023-1716
 📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🏥 Services: Migrant health center; Primary care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 20 hours per week.
 📞 (213) 893-1930
 🌐 http://www.lachc.com
 
@@ -7312,6 +7599,7 @@ S Main St, Los Angeles, CA 90013-1319
 6973 Linda Vista Rd, San Diego, CA 92111-6342
 📝 HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🏥 Services: Migrant health center; Primary care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (858) 279-9676
 🌐 http://www.sdfamilycare.org
 
@@ -7358,6 +7646,7 @@ S Main St, Los Angeles, CA 90013-1319
 3690 Mission Blvd, San Diego, CA 92109-7368
 📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🏥 Services: Women's health
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 33.5 hours per week.
 📞 (619) 515-2444
 🌐 https://www.fhcsd.org
 
@@ -7365,6 +7654,7 @@ S Main St, Los Angeles, CA 90013-1319
 2756 S Elm Ave, Fresno, CA 93706-5435
 📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🏥 Services: Dental
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (559) 457-5345
 🌐 https://www.clinicasierravista.org
 
@@ -7812,6 +8102,7 @@ S Main St, Los Angeles, CA 90013-1319
 4837 Huntington Dr N, Suite 1, Los Angeles, CA 90032-1953
 🌐 http://www.arroyovista.org
 🏥 Services: Dental
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 45 hours per week.
 📞 (323) 225-0024
 📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
 
@@ -7853,6 +8144,7 @@ S Main St, Los Angeles, CA 90013-1319
 1500 S Olive St, Los Angeles, CA 90015-3023
 🌐 http://www.eisnerhealth.org/
 🏥 Services: Dental, Mental Health
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (213) 747-5542
 📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
 
@@ -7860,6 +8152,7 @@ S Main St, Los Angeles, CA 90013-1319
 1530 S Olive St, Los Angeles, CA 90015-3023
 🌐 http://www.pedcenter.org
 🏥 Services: Dental
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (213) 747-5542
 📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
 
@@ -7888,6 +8181,7 @@ S Main St, Los Angeles, CA 90013-1319
 4448 York Blvd, Los Angeles, CA 90041-3328
 🌐 http://www.gracelight.org
 🏥 Services: Dental
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (323) 953-7330
 📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
 
@@ -7958,6 +8252,7 @@ S Main St, Los Angeles, CA 90013-1319
 2204 National Ave, San Diego, CA 92113-3615
 🌐 http://www.fhcsd.org
 🏥 Services: Mental Health
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 53.75 hours per week.
 📞 (619) 269-4041
 📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
 
@@ -7993,6 +8288,7 @@ S Main St, Los Angeles, CA 90013-1319
 1016 Outer Rd, San Diego, CA 92154-1351
 🌐 http://www.ibclinic.org
 🏥 Services: Mental Health
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 56 hours per week.
 📞 (619) 429-3733
 📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
 
@@ -10623,6 +10919,7 @@ P.O. Box 847, Folsom, CA 95763
 680 Cohasset Road, Chico, CA 95926
 🌐 https://www.amplahealth.org
 🏥 Services: Mental Health
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 71 hours per week.
 📞 (530) 740-5198
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 
@@ -11283,6 +11580,7 @@ P.O. Box 847, Folsom, CA 95763
 7981 State Highway 90, Los Molinos, CA 96055
 🌐 https://www.amplahealth.org
 🏥 Services: Mental Health
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (530) 384-4010
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 
@@ -11640,6 +11938,7 @@ P.O. Box 847, Folsom, CA 95763
 Ampla Health Orland, 1211 Cortina Drive, Orland, CA 95963
 🌐 https://www.amplahealth.org
 🏥 Services: Mental Health
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 (530) 865-5544
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 
@@ -11781,6 +12080,7 @@ Ampla Health Orland, 1211 Cortina Drive, Orland, CA 95963
 Ampla Health Oroville, 2800 Lincoln Blvd, Oroville, CA 95966
 🌐 https://www.amplahealth.org
 🏥 Services: Mental Health
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 58 hours per week.
 📞 530-534-7500 x2596
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 
@@ -12020,6 +12320,7 @@ Ampla Health Oroville, 2800 Lincoln Blvd, Oroville, CA 95966
 29632 Highway 299 East, Round Mountain, CA 96084
 🌐 https://www.hillcountryclinic.org
 🏥 Services: Mental Health
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 36 hours per week.
 📞 (530) 337-5750
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 
@@ -13025,6 +13326,7 @@ Ampla Health North Plumas Medical, 1231 Plumas Street, Yuba City, CA 95991
 205 South Street, Fort Bragg, CA 95437
 🌐 https://www.mendocinocoastclinics.org
 🏥 Services: Mental Health
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 55 hours per week.
 📞 (707) 969-7950
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 
@@ -13304,6 +13606,7 @@ Ampla Health North Plumas Medical, 1231 Plumas Street, Yuba City, CA 95991
 2101 Courage Drive, MS 10-300, Fairfield, CA 94533
 🌐 https://www.solanocounty.gov/government/health-social-services-hss/behavioral-health
 🏥 Services: Mental Health
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (707) 784-2080
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 
@@ -13751,6 +14054,7 @@ Ampla Health North Plumas Medical, 1231 Plumas Street, Yuba City, CA 95991
 15206 Parthenia Street, North Hills, CA 91343
 🌐 https://mccn.org
 🏥 Services: Mental Health
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 36 hours per week.
 📞 818-895-3100 x399
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 
@@ -14516,6 +14820,7 @@ Ampla Health North Plumas Medical, 1231 Plumas Street, Yuba City, CA 95991
 306 Spruce Avenue, South San Francisco, CA 94080
 🌐 https://www.sitike.org
 🏥 Services: Substance use treatment
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (650) 589-9305
 📝 Substance use treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 
@@ -15422,6 +15727,7 @@ Ampla Health North Plumas Medical, 1231 Plumas Street, Yuba City, CA 95991
 10200 Sepulveda Boulevard, Suite 370, Mission Hills, CA 91345
 🌐 https://www.conclusionstreatment.com
 🏥 Services: Substance use treatment
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (818) 221-3076
 📝 Substance use treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 
@@ -18910,6 +19216,7 @@ Ampla Health North Plumas Medical, 1231 Plumas Street, Yuba City, CA 95991
 2965. OLE HEALTH
 1141 Pear Tree Ln, Napa, CA 94558-6484
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 60 hours per week.
 📞 (707) 254-1774
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -18922,24 +19229,28 @@ Ampla Health North Plumas Medical, 1231 Plumas Street, Yuba City, CA 95991
 2967. NORTH EAST MEDICAL SERVICES - TARAVAL
 2308 Taraval St, San Francisco, CA 94116-2252
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (415) 391-9686
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 2968. NORTHEASTERN HEALTH CENTER
 1850 Spring Ridge Dr, Susanville, CA 96130-6100
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 50 hours per week.
 📞 (916) 257-5563
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 2969. BURNEY HEALTH CENTER
 37491 Enterprise Dr, Burney, CA 96013-4379
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 52 hours per week.
 📞 (530) 335-5457
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 2970. SUPPORTIVE HOUSING PROGRAM
 616 16th St, Oakland, CA 94612
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 38.5 hours per week.
 📞 (610) 918-4122
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -18982,6 +19293,7 @@ Ampla Health North Plumas Medical, 1231 Plumas Street, Yuba City, CA 95991
 2977. ALL FOR HEALTH, HEALTH FOR ALL, INC
 519 E Broadway, Glendale, CA 91205-1110
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 41.25 hours per week.
 📞 (408) 885-5700
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -18994,6 +19306,7 @@ Ampla Health North Plumas Medical, 1231 Plumas Street, Yuba City, CA 95991
 2979. TELEHEALTH AND VISITING SPECIALIST CENTER
 2426 Buhne St, Eureka, CA 95501-3207
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 46 hours per week.
 📞 (707) 442-4038
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -19006,6 +19319,7 @@ Ampla Health North Plumas Medical, 1231 Plumas Street, Yuba City, CA 95991
 2981. CASA DEL SOL
 1501 Fruitvale Ave, Oakland, CA 94601-2322
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 44.5 hours per week.
 📞 (510) 535-4170
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -19024,6 +19338,7 @@ Ampla Health North Plumas Medical, 1231 Plumas Street, Yuba City, CA 95991
 2984. LA CLINICA VALLEJO GREAT BEGINNINGS
 210 Hospital Dr, Vallejo, CA 94589-2517
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 38.75 hours per week.
 📞 (707) 645-7316
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -19048,6 +19363,7 @@ Ampla Health North Plumas Medical, 1231 Plumas Street, Yuba City, CA 95991
 2988. OILDALE COMMUNITY HEALTH CENTER
 525 Roberts Ln, Bakersfield, CA 93308-4799
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (661) 392-7850
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -19072,6 +19388,7 @@ Ampla Health North Plumas Medical, 1231 Plumas Street, Yuba City, CA 95991
 2992. TIBURCIO VASQUEZ HEALTH CENTER, INC
 33255 9th St, Union City, CA 94587-2199
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 47.5 hours per week.
 📞 (510) 471-5907
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -19084,6 +19401,7 @@ Ampla Health North Plumas Medical, 1231 Plumas Street, Yuba City, CA 95991
 2994. THE CHILDREN'S CLINIC FAMILY HLTH CTR/N LONG BEACH
 1060 E 70th St, Long Beach, CA 90805-1008
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 (562) 531-7284
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -19102,6 +19420,7 @@ Ampla Health North Plumas Medical, 1231 Plumas Street, Yuba City, CA 95991
 2997. THE VASEK POLAK CHILDREN'S CLINIC FAMILY HEALTH CT
 1057 Pine Avenue, Long Beach, CA 90813-3118
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 (562) 933-0506
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -19120,12 +19439,14 @@ Ampla Health North Plumas Medical, 1231 Plumas Street, Yuba City, CA 95991
 3000. VALLEY HEALTH CENTER LENZEN
 976 Lenzen Ave, San Jose, CA 95126-2737
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (408) 885-5000
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 3001. OMNI FAMILY HEALTH
 3409 Calloway Dr, Unit 300, Bakersfield, CA 93312-2532
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 (661) 387-6930
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -19150,6 +19471,7 @@ Ampla Health North Plumas Medical, 1231 Plumas Street, Yuba City, CA 95991
 3005. MENDOCINO COAST CLINICS, INC
 855 Sequoia Cir, Fort Bragg, CA 95437-5466
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 47.5 hours per week.
 📞 (707) 964-1251
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -19162,6 +19484,7 @@ Ampla Health North Plumas Medical, 1231 Plumas Street, Yuba City, CA 95991
 3007. REGIONAL MEDICAL COMMUNITY HEALTH CENTER
 2505 E Divisadero St, Fresno, CA 93721-1401
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (559) 457-5500
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -19174,12 +19497,14 @@ Ampla Health North Plumas Medical, 1231 Plumas Street, Yuba City, CA 95991
 3009. LA CLINICA NORTH VALLEJO
 220 Hospital Dr, Vallejo, CA 94589-2517
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 55.5 hours per week.
 📞 (707) 641-1900
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 3010. LIFELONG MEDICAL CARE - HOWARD DANIEL CLINIC
 9933 Macarthur Blvd, Oakland, CA 94605-4853
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 32 hours per week.
 📞 (510) 568-3206
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -19234,6 +19559,7 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3019. MORENO VALLEY FAMILY HEALTH CENTER
 22675 Alessandro Blvd, Moreno Valley, CA 92553-8551
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (951) 571-2300
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -19252,24 +19578,28 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3022. WESTWOOD FAMILY PRACTICE
 209 Birch St, Westwood, CA 96137
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 36 hours per week.
 📞 (530) 256-3152
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 3023. AMPLA HEALTH HAMILTON CITY MEDICAL
 278 Main St, Hamilton City, CA 95951-9646
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (916) 826-3694
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 3024. SLAUSON PLAZA MEDICAL GROUP
 9436 Slauson Ave, Pico Rivera, CA 90660-4748
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 53 hours per week.
 📞 (310) 949-6069
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 3025. NORTH EAST MEDICAL SERVICES
 1520 Stockton St, San Francisco, CA 94133-3354
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 58 hours per week.
 📞 (415) 391-9686
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -19282,6 +19612,7 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3027. COMMUNITY MEDICAL CENTERS, LODI
 2401 W Turner Rd, Ste 450, Lodi, CA 95242-2191
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 66.5 hours per week.
 📞 (209) 370-1700
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -19324,12 +19655,14 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3034. MCFARLAND COMMUNITY HEALTH CENTER
 217 W Kern Ave, Mc Farland, CA 93250-1360
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (805) 792-3038
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 3035. LAMONT COMMUNITY HEALTH CENTER
 8787 Hall Rd, Lamont, CA 93241-1953
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 66 hours per week.
 📞 (661) 845-3731
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -19354,6 +19687,7 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3039. NIPOMO COMMUNITY MEDICAL CENTER
 150 Tejas Pl, Nipomo, CA 93444-9123
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 52 hours per week.
 📞 (805) 929-3211
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -19372,12 +19706,14 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3042. FAMILY HEALTHCARE NETWORK
 1107 W Poplar Ave, Porterville, CA 93257-5839
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 67.5 hours per week.
 📞 (559) 781-7242
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 3043. WASCO MEDICAL/DENTAL CENTER
 2101 7th St, Wasco, CA 93280-1502
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 59.5 hours per week.
 📞 (805) 764-6318
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -19390,6 +19726,7 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3045. GOLDEN VALLEY HEALTH CENTER-LOS BANOS
 821 Texas Ave, Los Banos, CA 93635-3453
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 (209) 826-1045
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -19402,6 +19739,7 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3047. TAFT COMMUNITY MEDICAL AND DENTAL CENTER
 1100 4th St, Taft, CA 93268-2415
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 (805) 764-6318
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -19414,6 +19752,7 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3049. MID-CITY COMMUNITY CLINIC
 4290 Polk Ave, San Diego, CA 92105-1592
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 46 hours per week.
 📞 (619) 563-0507
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -19426,6 +19765,7 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3051. LIFELONG DENTAL CARE
 1860 Alcatraz Ave, Berkeley, CA 94703-2715
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 35 hours per week.
 📞 (510) 644-6060
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -19462,18 +19802,21 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3057. BLOOMINGTON COMMUNITY HEALTH CENTER
 18601 Valley Blvd, Bloomington, CA 92316-1800
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (909) 877-1818
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 3058. MENDOCINO COMMUNITY HEALTH CLINIC
 333 Laws Ave, Ukiah, CA 95482-6540
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 57.5 hours per week.
 📞 (707) 468-1010
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 3059. NORTHEAST VALLEY HEALTH - PACOIMA HEALTH CENTER
 12756 Van Nuys Blvd, Pacoima, CA 91331-1696
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 61 hours per week.
 📞 (818) 896-0531
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -19504,6 +19847,7 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3064. REDWOOD COAST MEDICAL SERVICES
 46900 Ocean Dr, Gualala, CA 95445
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 70 hours per week.
 📞 (707) 884-4005
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -19558,18 +19902,21 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3073. VALLEY HEALTH CENTER SAN JOSE
 750 S Bascom Ave, San Jose, CA 95128-2603
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 48 hours per week.
 📞 (408) 885-5000
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 3074. UNITED HEALTH CENTER OF SAN JOAQUIN
 517 S Madera Ave, Kerman, CA 93630-1523
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (559) 846-6330
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 3075. LONG VALLEY HEALTH CENTER
 50 Branscomb Rd, Laytonville, CA 95454-9744
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 46.5 hours per week.
 📞 (707) 984-6131
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -19600,12 +19947,14 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3080. DEL NORTE COMMUNITY HEALTH CENTER
 550 E Washington Blvd, Ste 100, Crescent City, CA 95531-8161
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 56 hours per week.
 📞 (707) 826-8633
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 3081. EUREKA COMMUNITY HEALTH CENTER
 2200 Tydd St, Eureka, CA 95501-1284
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 46 hours per week.
 📞 (707) 441-1624
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -19660,6 +20009,7 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3090. DELANO COMMUNITY HEALTH CENTER
 1508 Garces Hwy, Delano, CA 93215-3604
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (805) 725-4780
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -19672,12 +20022,14 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3092. SHASTA COMMUNITY HEALTH CENTER
 1035 Placer St, Redding, CA 96001-1170
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (530) 246-5710
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 3093. INDIAN HEALTH CENTER OF SANTA CLARA VALLEY
 1333 Meridian Ave, San Jose, CA 95125-5212
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 55 hours per week.
 📞 (408) 445-3400
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -19702,12 +20054,14 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3097. TULELAKE HEALTH CENTER
 498 Main St, Tulelake, CA 96134-9411
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (530) 667-2285
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 3098. TRI-CITY HEALTH CENTER
 2299 Mowry Ave, Ste 3B, Fremont, CA 94538-1621
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 53 hours per week.
 📞 (510) 713-6670
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -19720,48 +20074,56 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3100. AMPLA HEALTH COLUSA MEDICAL & DENTAL
 555 Fremont St, Colusa, CA 95932-2534
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (916) 458-8635
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 3101. PARADISE HILLS FAMILY CLINIC
 2400 E 8th St, Ste A, National City, CA 91950-2956
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (619) 662-4100
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 3102. CHULA VISTA FAMILY HEALTH CENTER
 251 Landis Ave, Chula Vista, CA 91910-2628
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (619) 515-2500
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 3103. TRUECARE
 3220 Mission Ave, Ste 1, Oceanside, CA 92058-1354
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (760) 433-3155
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 3104. NORTH EAST MEDICAL SERVICES - SAN BRUNO AVENUE
 2574 San Bruno Ave, San Francisco, CA 94134-1505
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 58 hours per week.
 📞 (415) 391-9686
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 3105. ARBUCKLE FAMILY HEALTH CENTER
 89 Putnam Way, Arbuckle, CA 95912-9814
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (530) 674-4261
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 3106. OPSAM HEALTH 2835 HIGHLAND
 2835 Highland Ave, Ste A, National City, CA 91950-7406
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (619) 474-5567
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 3107. HURTT FAMILY HEALTH CLINIC, INC
 1 Hope Dr, Tustin, CA 92782-0221
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 30 hours per week.
 📞 (714) 247-0300
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -19792,6 +20154,7 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3112. ALTAMED MEDICAL AND DENTAL GROUP - SANTA ANA, MAIN
 1400 N Main St, Santa Ana, CA 92701-2304
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 43 hours per week.
 📞 (714) 541-6815
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -19864,6 +20227,7 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3124. NEIGHBORHOOD HEALTHCARE - PEDIATRICS
 426 N Date St, Escondido, CA 92025-3409
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 39.5 hours per week.
 📞 (760) 520-8300
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -19888,12 +20252,14 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3128. HUNTINGTON PARK FAMILY HEALTH CENTER
 2680 Saturn Ave, Huntington Park, CA 90255-4377
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (323) 588-8847
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 3129. WESTSIDE FAMILY HEALTH CENTER
 3861 Sepulveda Blvd, Culver City, CA 90230-4605
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 30 hours per week.
 📞 (310) 450-4773
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -19906,12 +20272,14 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3131. POINT ARENA COMMUNITY HEALTH CENTER
 30 Mill, Point Arena, CA 95468
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (707) 882-1704
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 3132. SANTA CRUZ WOMEN'S HEATLH CENTER
 250 Locust St, Santa Cruz, CA 95060-3889
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 62 hours per week.
 📞 (831) 427-3500
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -19942,6 +20310,7 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3137. ELICA HEALTH CENTERS
 155 15th St, West Sacramento, CA 95691-3737
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (916) 275-3747
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -19954,12 +20323,14 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3139. CENTRAL CITY COMMUNITY HEALTH CENTER
 12116 Beach Blvd, Stanton, CA 90680-3704
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (714) 898-2222
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 3140. PERINATAL SERVICES OF NORTHCOUNTRY CLINIC
 3800 Janes Rd, #101, Arcata, CA 95521-4742
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 (707) 822-1385
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -19984,12 +20355,14 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3144. NORTH EAST MEDICAL SERVICES - EASTMOOR
 211 Eastmoor Ave, Daly City, CA 94015-2036
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 48 hours per week.
 📞 (415) 391-9686
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 3145. HEALTHRIGHT 360
 558 Clayton St, San Francisco, CA 94117-2907
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (415) 762-3700
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -20008,12 +20381,14 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3148. MENDOCINO COAST CLINICS PEDIATRIC GROUP
 510 Cypress St, Fort Bragg, CA 95437-5411
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 47.5 hours per week.
 📞 (707) 964-1251
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 3149. INDIAN HEALTH CENTER OF SANTA CLARA VALLEY
 1642 E Capitol Expy, San Jose, CA 95121-1800
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 (408) 531-9726
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -20038,6 +20413,7 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3153. HESPERIA CLINIC
 16453 Bear Valley Rd, Hesperia, CA 92345-1752
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 42 hours per week.
 📞 (760) 246-4699
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -20050,6 +20426,7 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3155. CAMARENA HEALTH
 505 E Almond Ave, Ste 101, Madera, CA 93637-5745
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 40 hours per week.
 📞 (559) 664-4000
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -20062,12 +20439,14 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3157. THE CHILDREN'S CL FAMILY HEALTH CTR IN BELLFLOWER
 17660 Lakewood Blvd, Bellflower, CA 90706-6410
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (562) 933-0471
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 3158. THE CHILDREN'S CL FAMILY HEALTH IN CTR LONG BEACH
 2360 Pacific Ave, Long Beach, CA 90806-3051
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (562) 933-0471
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -20098,6 +20477,7 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3163. ALTAMED MEDICAL & DENTAL GROUP-WEST COVINA
 1300 S Sunset Ave, West Covina, CA 91790-3342
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 47 hours per week.
 📞 (626) 960-6999
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -20110,18 +20490,21 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3165. COUNTY OF SAN BERNARDINO
 11336 Bartlett Ave, Adelanto, CA 92301-1935
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (760) 246-4699
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 3166. COMMUNITY HEALTH CENTERS OF THE CENTRAL COAST
 260 Station Way, Arroyo Grande, CA 93420-3359
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (805) 481-3652
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 3167. CLINICAS DEL CAMINO REAL, INC-SIMI VALLEY MADERA
 1424 Madera Rd, Simi Valley, CA 93065-3053
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 46 hours per week.
 📞 (805) 522-5722
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -20134,12 +20517,14 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3169. SANTA BARBARA CNTY PUBLIC HLTH DEPT-PATH
 816 Cacique St, Santa Barbara, CA 93103-3622
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 14 hours per week.
 📞 (805) 884-8481
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 3170. FAIRFIELD FAMILY HEALTH SERVICES
 2201 Courage Dr, Fairfield, CA 94533-6733
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 52 hours per week.
 📞 (707) 784-8514
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -20152,6 +20537,7 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3172. NORTH EAST MEDICAL SERVICES - 1400 NORIEGA
 1400 Noriega St, San Francisco, CA 94122-4432
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 58 hours per week.
 📞 (415) 391-9686
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -20188,6 +20574,7 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3178. COMMUNITY HEALTH CENTERS, ARBOR
 1418 E Main St, #210, Santa Maria, CA 93454-4802
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 60 hours per week.
 📞 (805) 928-3678
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -20200,12 +20587,14 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3180. CENTRAL CITY COMMUNITY HEALTH CENTER INC
 12511 Brookhurst St, Garden Grove, CA 92840-4806
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (714) 643-7176
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 3181. CAMINO HEALTH CENTER
 30300 Camino Capistrano, San Juan Capistrano, CA 92675-1304
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 52 hours per week.
 📞 (949) 240-2030
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -20254,6 +20643,7 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3189. NORTHCOUNTRY CLINIC - ARCATA
 785 18th St, Arcata, CA 95521-5683
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (707) 822-2481
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -20272,6 +20662,7 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3192. GREENVILLE RANCHERIA TRIBAL HEALTH
 1425 Montgomery Rd, Red Bluff, CA 96080-4605
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 48 hours per week.
 📞 (916) 528-8600
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -20296,6 +20687,7 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3196. BIG VALLEY MEDICAL CENTER
 554-850 Medical Center Dr, Bieber, CA 96009-8000
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (916) 294-5241
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -20332,12 +20724,14 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3202. CANOGA PARK HEALTH CENTR
 7107 Remmet Ave, Canoga Park, CA 91303-2016
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (818) 898-1388
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 3203. KERMAN HEALTH CENTER
 449 S Madera Ave, Kerman, CA 93630-1537
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 51 hours per week.
 📞 (209) 846-9359
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -20362,6 +20756,7 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3207. NORTHCOUNTRY CLINIC - MCKINLE
 1644 Central Ave, Mckinleyville, CA 95519-4342
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (707) 839-1909
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -20416,6 +20811,7 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3216. FAMILY HEALTHCARE NETWORK-VISALIA
 501 N Bridge St, Visalia, CA 93291-5014
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 85.5 hours per week.
 📞 (559) 734-1247
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -20440,12 +20836,14 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3220. PETALUMA HEALTH CENTER
 1179 N McDowell Blvd, Petaluma, CA 94954-6559
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 63.5 hours per week.
 📞 (707) 559-7500
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 3221. SHINGLETOWN MEDICAL CENTER, INC
 31292 Alpine Meadows Rd, Shingletown, CA 96088-9462
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 42 hours per week.
 📞 (530) 474-3390
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -20458,6 +20856,7 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3223. NORTH EAST MEDICAL SERVICES-LELAND AVENUE
 82 Leland Ave, San Francisco, CA 94134-2804
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (415) 391-9686
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -20476,12 +20875,14 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3226. GROSSMONT SPRING VALLEY FAMILY HEALTH CENTER
 8788 Jamacha Road, Spring Valley, CA 91977-4035
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (619) 667-6737
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 3227. SHASTA LAKE CITY FAMILY HEALTH CENTER
 4215 Front St, Shasta Lake, CA 96019-9430
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (530) 276-9168
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -20500,6 +20901,7 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3230. MENDOCINO COMMUNITY HEALTH CLINIC-LAKEVIEW HEALTH
 5335 Lakeshore Blvd, Lakeport, CA 95453-6123
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 48 hours per week.
 📞 (707) 263-7725
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -20518,6 +20920,7 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3233. FAMILY HEALTHCARE NETWORK
 41651 Sierra Dr, #A, Three Rivers, CA 93271-9678
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 (559) 561-4683
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -20530,6 +20933,7 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3235. CHC THE DOCTOR'S OFFICE
 1057 E Grand Ave, Arroyo Grande, CA 93420-2504
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (805) 481-7220
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -20572,6 +20976,7 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3242. MARIN COMMUNITY CLINICS
 6100 Redwood Blvd, Novato, CA 94945-4501
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (415) 798-3133
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -20596,6 +21001,7 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3246. MENDOCINO COMMUNITY HEALTH CLINIC LITTLE LAKE
 45 Hazel St, Willits, CA 95490-4222
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (707) 456-9600
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -20608,6 +21014,7 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3248. FAMILY HEALTHCARE NETWORK
 400 E Oak Ave, Visalia, CA 93291-5034
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 57.5 hours per week.
 📞 (559) 741-4500
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -20686,18 +21093,21 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3261. EAST OAKLAND HEALTH CENTER
 7450 International Blvd, Oakland, CA 94621-2806
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (510) 430-9401
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 3262. VALLEY HEALTH CENTER AT TULLY
 500 Tully Rd, San Jose, CA 95111-1917
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 52 hours per week.
 📞 (408) 793-6576
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 3263. VALLEY HEALTH CENTER AT EAST VALLEY
 1993 McKee Rd, San Jose, CA 95116-1406
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 75 hours per week.
 📞 (408) 254-6310
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -20710,12 +21120,14 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3265. ARVIN COMMUNITY HEALTH CENTER
 1305 Bear Mountain Blvd, Arvin, CA 93203-1231
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 84 hours per week.
 📞 (661) 854-3131
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 3266. SOUTH BAKERSFIELD COMMUNITY HEALTH CENTER
 2400 Wible Rd, Ste 14, Bakersfield, CA 93304-4734
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 84 hours per week.
 📞 (661) 835-1240
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -20746,6 +21158,7 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3271. LA CLINICA DE LA RAZA
 3451 E 12th St, Oakland, CA 94601-3463
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 44.43 hours per week.
 📞 (510) 535-4000
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -20758,12 +21171,14 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3273. SECOND MOBILE UNIT
 3696 Jacobs Ave, Eureka, CA 95501-0911
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 32 hours per week.
 📞 (707) 443-4666
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 3274. COMMUNITY HEALTH CENTERS WOMENS HEALTH
 1551 Bishop St, Ste 240, San Luis Obispo, CA 93401-4661
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (805) 781-5542
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -20776,6 +21191,7 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3276. WELLSPACE HEALTH ROSEVILLE COMMUNITY HEALTH CENTER
 5 Medical Plaza Dr, Ste 170, Roseville, CA 95661-2867
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (916) 978-1738
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -20788,6 +21204,7 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3278. DTFHC AT CONNECTIONS
 1250 6th Ave, Ste 100, San Diego, CA 92101-4368
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (619) 515-2430
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -20806,6 +21223,7 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3281. MAGNOLIA COMMUNITY HEALTH CENTER
 9380 Magnolia Ave, Riverside, CA 92503-3749
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 47.5 hours per week.
 📞 (951) 571-5620
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -20830,6 +21248,7 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3285. COMMUNITY MEDICAL CENTERS, MARIPOSA ROAD
 2015 S Mariposa Rd, Stockton, CA 95205-7735
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 53.5 hours per week.
 📞 (209) 751-1900
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -20848,6 +21267,7 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3288. SHARE OUR SELVES COMMUNITY HEALTH CENTER
 1550 Superior Ave, Costa Mesa, CA 92627-3778
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 54.25 hours per week.
 📞 (949) 650-0640
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -20860,6 +21280,7 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3290. NORTH EAST MEDICAL SERVICES-1870 LUNDY
 1870 Lundy Ave, San Jose, CA 95131-1826
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 58 hours per week.
 📞 (408) 573-9686
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -20896,6 +21317,7 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3296. ALEXANDER VALLEY REGIONAL MEDICAL CENTER
 6 Tarman Dr, Cloverdale, CA 95425-3932
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 54 hours per week.
 📞 (707) 894-2954
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -20914,6 +21336,7 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3299. MISSION CITY COMMUNITY NETWORK, INC-PARTHENIA
 15210 Parthenia St, North Hills, CA 91343-5305
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (818) 895-3100
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -20938,6 +21361,7 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3303. ASIAN PACIFIC HEALTH CARE VENTURE, INC-EL MONTE/
 9960 Baldwin Place, El Monte, CA 91731-2204
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (626) 774-2988
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -20950,6 +21374,7 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3305. MORONGO BASIN COMMUNITY HEALTH CENTER
 58375 29 Palms Hwy, Yucca Valley, CA 92284-5813
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 53 hours per week.
 📞 (760) 365-9305
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -21010,6 +21435,7 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3315. OMNI FAMILY HEALTH
 4131 Ming Ave, Bakersfield, CA 93309-4994
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (661) 241-5006
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -21028,6 +21454,7 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3318. INDIAN HEALTH CENTER OF SANTA CLARA VALLEY
 1685 Westwood Dr, Ste 1, San Jose, CA 95125-5104
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 47 hours per week.
 📞 (408) 445-3400
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -21040,6 +21467,7 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3320. HERALD CHRISITAN HEALTH CENTER
 923 S San Gabriel Blvd, San Gabriel, CA 91776-2743
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 39.5 hours per week.
 📞 (626) 216-4560
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -21064,6 +21492,7 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3324. CENTRAL CITY COMMUNITY HEALTH CENTER
 1860 Hamner Ave, Norco, CA 92860-2945
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (951) 479-0070
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -21076,6 +21505,7 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3326. EAST NILES COMMUNITY HEALTH CENTER
 7800 Niles St, Bakersfield, CA 93306-4922
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (661) 328-4284
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -21124,6 +21554,7 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3334. EL DORADO COMMUNITY HEALTH CENTER CAMERON PARK
 3104 Ponte Morino Dr, Ste 110, Cameron Park, CA 95682-8282
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (530) 621-7700
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -21166,12 +21597,14 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3341. VENICE FAMILY CLINIC-COLEN FAMILY HEALTH CENTER
 4700 Inglewood Blvd, Ste 102, Culver City, CA 90230-5896
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 59 hours per week.
 📞 (310) 392-8636
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 3342. VENICE FAMILY CLINIC
 604 Rose Ave, Venice, CA 90291-2767
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 57 hours per week.
 📞 (310) 664-7901
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -21244,6 +21677,7 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3354. CLINICAS DEL CAMINO REAL, INC - EAST SIMI VALLEY
 4370 Eve Rd, Simi Valley, CA 93063-2323
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (805) 915-4400
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -21262,6 +21696,7 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3357. SOUTH OF MARKET HEALTH CENTER-SENIOR CLINIC
 317 Clementina St, San Francisco, CA 94103-4104
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 39 hours per week.
 📞 (415) 284-2270
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -21346,6 +21781,7 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3371. DALY CITY YOUTH HEALTH CENTER
 2780 Junipero Serra Blvd, Daly City, CA 94015-1634
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (650) 991-2240
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -21370,12 +21806,14 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3375. WELLSPACE HEALTH RANCHO CORDOVA COMMUNITY HEALTH
 10423 Old Placerville Rd, Ste A, Sacramento, CA 95827
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (916) 737-5555
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 3376. WELLSPACE HEALTH SAN JUAN COMMUNITY HEALTH CENTER
 5959 Greenback Ln, Suite 500, Citrus Heights, CA 95621-4700
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round.
 📞 (916) 737-5555
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -21400,12 +21838,14 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3380. T H E CLINIC, INC AT LA BREA
 3721 S La Brea Ave, Los Angeles, CA 90016-5309
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 40 hours per week.
 📞 (323) 730-1920
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 3381. T.H.E. CLINIC, INC. AT LENNOX
 10223 Firmona Ave, Inglewood, CA 90304-1421
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 40 hours per week.
 📞 (323) 730-1920
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -21442,6 +21882,7 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3387. NORTH PARK FAMILY HEALTH CENTER, II
 3514 30th St, San Diego, CA 92104-4120
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (619) 515-2424
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -21544,6 +21985,7 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3404. GARDNER PACKARD CHILDREN'S HEALTH CENTER
 3351 El Camino Real, Ste 100, Atherton, CA 94027-3802
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 51 hours per week.
 📞 (650) 497-8820
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -21826,6 +22268,7 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3451. MARIN COMMUNITY CLINIC 4TH ST DENTAL, STE A
 411 4th St, Ste A, San Rafael, CA 94901-5716
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 72 hours per week.
 📞 (415) 798-8532
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -22612,6 +23055,7 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3582. TRANSITIONS TO WELLNESS NORTH HOLLYWOOD
 7843 Lankershim Blvd, North Hollywood, CA 91605-2523
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (818) 826-5555
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -23356,12 +23800,14 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3706. SAN ANTONIO HIGH SCHOOL HEALTH CLINIC
 500 Vallejo St, Petaluma, CA 94952-3364
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 3.5 hours per week.
 📞 (707) 559-7500
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 3707. CASA GRANDE HIGH SCHOOL HEALTH CLINIC
 333 Casa Grande Rd, Petaluma, CA 94954-5706
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, 10.5 hours per week.
 📞 (707) 559-7500
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -23452,6 +23898,7 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3722. ALLIANCE MEDICAL CENTER - MOBILE VISION CLINIC
 1381 University St, Healdsburg, CA 95448-3314
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 58 hours per week.
 📞 (707) 433-5494
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -23572,6 +24019,7 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 3742. NATIONAL HEALTH SERVICES
 1001 Main St, Delano, CA 93215-1731
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 4 hours per week.
 📞 (866) 707-6664
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 

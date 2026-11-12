@@ -40,6 +40,7 @@
 2041 Martin Luther King Jr Avenue SE, Suite M-8, Washington, DC 20020
 🌐 https://www.mbihs.com
 🏥 Services: Mental Health
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 48 hours per week.
 📞 (202) 388-4300
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 
@@ -217,6 +218,7 @@
 425 2nd Street NW, Suite 2-N, Washington, DC 20001
 🌐 https://www.cleanandsoberstreets.org
 🏥 Services: Substance use treatment, Mental Health
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40.25 hours per week.
 📞 (202) 783-7343
 📝 Substance use treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 
@@ -281,6 +283,7 @@
 41. MARY'S CENTER FOR MATERNAL AND CHILD CARE - MOBILE
 2333 Ontario Rd NW, Washington, DC 20009-2627
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 54 hours per week.
 📞 (202) 483-8319
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -293,6 +296,7 @@
 43. COMMUNITY OF HOPE HEALTH SERVICES
 2155 Champlain St NW, Washington, DC 20009-2795
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 51.5 hours per week.
 📞 (202) 232-9022
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -317,18 +321,21 @@
 47. UHC STANTON ROAD HEALTH CENTER
 3240 Stanton Rd SE, Washington, DC 20020-2910
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 60 hours per week.
 📞 (202) 889-3754
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 48. UHC HARBOR LIGHT
 2100 New York Ave NE, Washington, DC 20002-1826
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 3.5 hours per week.
 📞 (202) 255-3469
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 49. UNITY HEALTH CARE INC.
 4713 Wisconsin Ave NW, Washington, DC 20016-4609
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 3 hours per week.
 📞 (202) 364-1419
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -365,6 +372,7 @@
 55. LA CLINICA DEL PUEBLO INC
 2831 15th St NW, Washington, DC 20009-4607
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 56 hours per week.
 📞 (240) 582-8828
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -377,6 +385,7 @@
 57. MARY'S CENTER FOR MATERNAL AND CHILD CARE, INC
 3912 Georgia Ave NW, Washington, DC 20011-5861
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 64 hours per week.
 📞 (202) 483-8196
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -413,6 +422,7 @@
 63. COMMUNITY OF HOPE INC
 4 Atlantic St SW, Washington, DC 20032-2350
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 53 hours per week.
 📞 (202) 407-7747
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 

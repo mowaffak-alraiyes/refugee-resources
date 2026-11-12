@@ -52,6 +52,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.varietycare.org
 🏥 Services: Primary Care; Pediatrics
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 72 hours per week.
 📞 405-235-6466
 
 9. Variety Care at Sequoyah
@@ -65,18 +66,21 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.varietycare.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 50 hours per week.
 📞 405-632-6688
 
 11. Variety Care Portland
 5320 N. Portland Ave., Oklahoma City, OK, 73112-2098
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 405-632-6688
 
 12. Variety Care Mobile Van #1
 1025 Straka Ter, Oklahoma City, OK, 73139-2544
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Women's health
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 65 hours per week.
 📞 405-632-6688
 
 13. Millwood School Clinic
@@ -112,6 +116,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.communityhealthok.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 405-769-3301
 
 18. Community Health Mobile Unit #1
@@ -137,6 +142,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.varietycare.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 50 hours per week.
 📞 405-632-6688
 
 22. South Central Medical Center- Dibble Campus
@@ -157,6 +163,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.communityhealthok.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 405-865-2020
 
 25. South Central Medical Center-Chickasha
@@ -220,6 +227,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://ecofhc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 52 hours per week.
 📞 405-452-5400
 
 35. LCHC Medicine Park
@@ -305,6 +313,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.fairfaxclinic.com
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 918-642-3100
 
 48. Good Shepherd Community Clinic, Inc-2401 N Commerce
@@ -324,6 +333,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.mortonhealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 918-295-6942
 
 51. FHCSO - Coalgate
@@ -343,6 +353,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.mortonhealth.org
 🏥 Services: Primary Care; Migrant health center
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 44 hours per week.
 📞 918-587-2171
 
 54. K-W- Clinical Construction Project
@@ -356,6 +367,7 @@
 2325 S Harvard Ave, Tulsa, OK, 74114-3300
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 24 hours per week.
 📞 918-295-6100
 
 56. Newkirk Family Health Center
@@ -375,6 +387,7 @@
 405 S. Oklahoma Ave, Cherokee, OK, 73728-2545
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 53.5 hours per week.
 📞 580-596-2800
 
 59. Community Health Connection, Inc. - Ellen Ochoa
@@ -518,6 +531,7 @@
 131 e. Main, Hulbert, OK, 74441-8901
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 918-772-2727
 
 81. NeoHealth Mobile Medical Van
@@ -611,6 +625,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.neohealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 918-723-3997
 
 95. Community Health Center of Miami
@@ -3139,6 +3154,7 @@ E 146th St N, Collinsville, OK 74021-3132
 480. EAST CENTRAL OKLAHOMA FAMILY HEALTH CENTER INC
 1102 W Main St, Henryetta, OK 74437-4232
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (918) 652-9615
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -3313,6 +3329,7 @@ E 146th St N, Collinsville, OK 74021-3132
 509. NORTHEASTERN OKLA COMMUNITY HEALTH CTR
 124 E Main St, Hulbert, OK 74441-8902
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 (918) 772-2879
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -3331,6 +3348,7 @@ E 146th St N, Collinsville, OK 74021-3132
 512. PUSHMATAHA FAMILY MEDICAL CENTER INC
 1020 N Lawson Blvd, Clayton, OK 74536
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 51 hours per week.
 📞 (918) 917-9999
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -3379,6 +3397,7 @@ E 146th St N, Collinsville, OK 74021-3132
 520. OKLAHOMA COMMUNITY HEALTH SERVICES, INC
 3851 Tinker Diagonal, Oklahoma City, OK 73115-2109
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 (405) 677-1129
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -3409,6 +3428,7 @@ E 146th St N, Collinsville, OK 74021-3132
 525. SHORTGRASS COMMUNITY HEALTH CENTER, INC
 400 E Sycamore St, Hollis, OK 73550-1436
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (580) 688-2800
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 

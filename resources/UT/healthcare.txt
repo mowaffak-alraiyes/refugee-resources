@@ -24,6 +24,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.chc-ut.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 55 hours per week.
 📞 801-955-2360
 
 5. Midtown Community Health Center South Salt Lake
@@ -69,6 +70,7 @@
 22 S State St, Clearfield, UT, 84015-1043
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 50 hours per week.
 📞 801-393-5355
 
 12. Midtown Community Health Center Children's Clinic
@@ -81,6 +83,7 @@
 2563 Monroe, Ogden, UT, 84401-2513
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 801-334-2213
 
 14. Mountainlands Community Health Center Main Site Clinic
@@ -88,6 +91,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.mountainlands.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 64 hours per week.
 📞 801-374-9660
 
 15. East Bay Health Center
@@ -136,6 +140,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://carbonmedicalservice.com
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 435-472-7000
 
 22. Price Clinic
@@ -169,6 +174,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.grmedicalcenter.org/
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 50 hours per week.
 📞 435-564-3434
 
 27. WCHC Physical Therapy Building
@@ -194,6 +200,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://evmc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 48 hours per week.
 📞 435-878-2281
 
 31. Family Healthcare Main Street Clinic
@@ -3100,6 +3107,7 @@ P.O. Box 3617, Logan, UT 84323
 450. M C H C - MIDTOWN COMMUNITY HEALTH CENTER
 2240 Adams Ave, Ogden, UT 84401-1511
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 65 hours per week.
 📞 (801) 393-5355
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -3160,6 +3168,7 @@ P.O. Box 3617, Logan, UT 84323
 460. MOUNTAINLANDS COMMUNITY HEALTH CENTER INC
 1680 W Highway 40, Ste 201, Vernal, UT 84078-4142
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (801) 429-2000
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 

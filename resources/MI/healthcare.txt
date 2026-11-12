@@ -17,6 +17,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.centralcityhealth.com/
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, 47 hours per week.
 📞 331-831-3160
 
 4. Advantage Health Centers - Alexandrine
@@ -56,6 +57,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.chasscenter.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 52 hours per week.
 📞 313-849-3920 x2016
 
 10. The Wellness Plan, Gateway Medical Center
@@ -63,6 +65,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.wellplan.com
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 50 hours per week.
 📞 313-875-5932
 
 11. Institute for Population Health Family Health Center
@@ -82,6 +85,7 @@
 1700 WATERMAN, DETROIT, MI, 48209-2022
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 16 hours per week.
 📞 313-841-1699
 🌐 https://www.covenantcommunitycare.org
 🌐 https://www.covenantcommunitycare.org
@@ -110,6 +114,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.dchcquality.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 313-897-7700
 
 18. Family Medical Center - Durfee Innovations Society
@@ -167,6 +172,7 @@
 25650 OUTER DR, LINCOLN PARK, MI, 48146-2096
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 734-941-4991
 
 27. Covenant 17625 Joy Road
@@ -186,6 +192,7 @@
 15400 W. McNichols St, Detroit, MI, 48235-3724
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 49 hours per week.
 📞 313-416-6262
 
 30. Edison Elementary School
@@ -210,6 +217,7 @@
 21040 Greenfield Rd., Oak Park, MI, 48237
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 50 hours per week.
 📞 248-967-6500
 
 34. Greenfield
@@ -264,6 +272,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.mycarehealthcenter.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 53 hours per week.
 📞 586-783-2222
 
 42. Groesbeck
@@ -271,6 +280,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.mycarehealthcenter.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 42 hours per week.
 📞 586-493-0961
 
 43. Avondale High School Health Center
@@ -471,6 +481,7 @@ G-3373 S. Saginaw Street, Burton, MI, 48529
 2900 N. Saginaw, Flint, MI, 48505-4452
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 44 hours per week.
 📞 810-406-4246
 
 74. Family Medical Center of MI - Madison Schools
@@ -484,6 +495,7 @@ G-3373 S. Saginaw Street, Burton, MI, 48529
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://hamiltonchn.org/
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 810-787-4445
 
 76. HCHN - DENTAL NORTH
@@ -491,6 +503,7 @@ G5399 N Saginaw St, Flint, MI, 48505-1536
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.hamiltonchn.org/
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 44 hours per week.
 📞 810-785-0863
 
 77. CFH - Northeast Health Center
@@ -498,12 +511,14 @@ G5399 N Saginaw St, Flint, MI, 48505-1536
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.centerforfamilyhealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 32 hours per week.
 📞 517-748-5500
 
 78. Clio Heath Center
 4154 W Vienna Rd, Clio, MI, 48420-2809
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 810-406-4246
 
 79. CFH - Downtown Site
@@ -518,6 +533,7 @@ G5399 N Saginaw St, Flint, MI, 48505-1536
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.centerforfamilyhealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 517-748-5500
 
 81. CFH - LifeWays
@@ -525,6 +541,7 @@ G5399 N Saginaw St, Flint, MI, 48505-1536
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.centerforfamilyhealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 24 hours per week.
 📞 517-748-5500
 
 82. CFH - Parkside Health Center
@@ -532,6 +549,7 @@ G5399 N Saginaw St, Flint, MI, 48505-1536
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.centerforfamilyhealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 517-748-5500
 
 83. Great Lakes Bay Health Centers Integrated Care Shiawassee
@@ -539,12 +557,14 @@ G5399 N Saginaw St, Flint, MI, 48505-1536
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://greatlakesbayhealthcenters.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 8 hours per week.
 📞 989-759-6400
 
 84. CFH - Northwest Community Health Center
 6700 Rives Junction Rd, Jackson, MI, 49201-7448
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 517-748-5500
 
 85. Family Medical Center - Morenci
@@ -589,6 +609,7 @@ G5399 N Saginaw St, Flint, MI, 48505-1536
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://greatlakesbayhealthcenters.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 50 hours per week.
 📞 989-755-6319
 
 92. Grace Health, Inc.
@@ -596,6 +617,7 @@ G5399 N Saginaw St, Flint, MI, 48505-1536
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.gracehealthmi.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 52.5 hours per week.
 📞 517-629-6540
 
 93. Great Lakes Bay Health Centers Mobile Medical 3
@@ -737,6 +759,7 @@ G5399 N Saginaw St, Flint, MI, 48505-1536
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.cherryhealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 51 hours per week.
 📞 616-225-9650
 
 116. FAMILY HEALTH CENTER MILLCORK
@@ -750,6 +773,7 @@ G5399 N Saginaw St, Flint, MI, 48505-1536
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.midmichigan.org/chs
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 989-246-3500
 
 118. Beaverton School Wellness Center
@@ -797,6 +821,7 @@ G5399 N Saginaw St, Flint, MI, 48505-1536
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.cherryhealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 50 hours per week.
 📞 616-235-7272
 
 125. Belknap Commons Dental Center
@@ -804,6 +829,7 @@ G5399 N Saginaw St, Flint, MI, 48505-1536
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.cherryhealth.org
 🏥 Services: Primary Care; Dental
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 6 hours per week.
 📞 616-742-9945
 
 126. Cross Roads Bible Church
@@ -817,6 +843,7 @@ G5399 N Saginaw St, Flint, MI, 48505-1536
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.cherryhealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 51.5 hours per week.
 📞 616-235-1480
 
 128. Catherine's Health Mobile Van
@@ -830,6 +857,7 @@ G5399 N Saginaw St, Flint, MI, 48505-1536
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.cherryhealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 47.5 hours per week.
 📞 616-791-6593
 
 130. Catherine's Health Center Godfrey ECC
@@ -843,6 +871,7 @@ G5399 N Saginaw St, Flint, MI, 48505-1536
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.cherryhealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 51 hours per week.
 📞 616-247-3638
 
 132. Ottawa Hills High School Health Center
@@ -850,12 +879,14 @@ G5399 N Saginaw St, Flint, MI, 48505-1536
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.cherryhealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 47.5 hours per week.
 📞 616-776-5110
 
 133. Cherry Health - Mobile Unit
 2929 Burlingame Ave SW, Wyoming, MI, 49509-2609
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 52.5 hours per week.
 📞 616-954-1991
 
 134. Wyoming Junior High - RM2113
@@ -914,6 +945,7 @@ G5399 N Saginaw St, Flint, MI, 48505-1536
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.intercare.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 49 hours per week.
 📞 855-869-6900
 
 143. Grant Child and Adolescent Health Center
@@ -921,6 +953,7 @@ G5399 N Saginaw St, Flint, MI, 48505-1536
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.familyhealthcare.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 231-834-1350
 
 144. FAMILY HEALTH CARE - GRANT
@@ -928,6 +961,7 @@ G5399 N Saginaw St, Flint, MI, 48505-1536
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.familyhealthcare.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 61 hours per week.
 📞 231-834-0444
 
 145. Tri County Middle School E3 Program
@@ -965,6 +999,7 @@ G5399 N Saginaw St, Flint, MI, 48505-1536
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.hccc-health.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 52.75 hours per week.
 📞 231-737-1335
 
 151. Three Oaks Public School Academy
@@ -984,6 +1019,7 @@ G5399 N Saginaw St, Flint, MI, 48505-1536
 80 W Southern Ave, Muskegon, MI, 49441-2541
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 41 hours per week.
 📞 231-733-6680
 
 154. Bunker Elementary School
@@ -1003,6 +1039,7 @@ G5399 N Saginaw St, Flint, MI, 48505-1536
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.intercare.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 855-869-6900
 
 157. White Cloud Child and Adolescent Center
@@ -1010,6 +1047,7 @@ G5399 N Saginaw St, Flint, MI, 48505-1536
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.familyhealthcare.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 231-689-3268
 
 158. Whitehall Middle School
@@ -1037,6 +1075,7 @@ G5399 N Saginaw St, Flint, MI, 48505-1536
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.nmhsi.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 48.5 hours per week.
 📞 231-861-2130
 
 162. Reed City Schools CAHC
@@ -1082,6 +1121,7 @@ G5399 N Saginaw St, Flint, MI, 48505-1536
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.midmichigan.org/chs
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, seasonal, 40 hours per week.
 📞 989-366-2061
 
 169. STERLING AREA HEALTH CTR DENTAL
@@ -1089,6 +1129,7 @@ G5399 N Saginaw St, Flint, MI, 48505-1536
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://sterlinghealth.net
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 42.5 hours per week.
 📞 989-873-5152
 
 170. MIDMICHIGAN MEDICAL OFFICES - ROSCOMMON
@@ -1096,6 +1137,7 @@ G5399 N Saginaw St, Flint, MI, 48505-1536
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.midmichigan.org/chs
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 989-275-8931
 
 171. Northwest Michigan Health Services, Inc.
@@ -1123,6 +1165,7 @@ G5399 N Saginaw St, Flint, MI, 48505-1536
 1035 E Wilcox Ave, White Cloud, MI, 49349-8794
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 58 hours per week.
 📞 920-994-4342
 
 175. Traverse City West Middle School CAHC
@@ -1151,6 +1194,7 @@ G5399 N Saginaw St, Flint, MI, 48505-1536
 611 Martin Luther King Jr Blvd, Detroit, MI 48201-2273
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🏥 Services: Ryan White HIV/AIDS Program, Migrant health center, Mental Health
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (313) 832-6300
 🌐 http://dchcquality.org
 
@@ -1351,6 +1395,7 @@ G5399 N Saginaw St, Flint, MI, 48505-1536
 5716 Michigan Ave, Detroit, MI 48210-3039
 🌐 http://www.covenantcommunitycare.org
 🏥 Services: Dental
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 51 hours per week.
 📞 (313) 554-1095
 📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
 
@@ -1358,6 +1403,7 @@ G5399 N Saginaw St, Flint, MI, 48505-1536
 4909 E Outer Dr, Detroit, MI 48234-3494
 🌐 http://www.wellplan.com
 🏥 Services: Dental
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 50 hours per week.
 📞 (313) 202-8500
 📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
 
@@ -1386,6 +1432,7 @@ G5399 N Saginaw St, Flint, MI, 48505-1536
 2303 Kalamazoo Ave SE, Grand Rapids, MI 49507-3780
 🌐 https://cherryhealth.org/locations/southside-health-center/
 🏥 Services: Mental Health
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 51 hours per week.
 📞 (616) 965-8390
 📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
 
@@ -2256,6 +2303,7 @@ G-3169 Beecher Road, Flint, MI 48532
 1375 R Dale Wertz Drive, Bad Axe, MI 48413
 🌐 https://www.huroncmh.org
 🏥 Services: Mental Health
+⏰ Hours: HRSA 2025 site report: full-time, 8 hours per week.
 📞 (989) 269-9293
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 
@@ -5884,6 +5932,7 @@ W11650 US Highway 2, Naubinway, MI 49762-5116
 889. MOROSS HEALTH CENTER
 20901 Moross Rd, Grosse Pointe, MI 48236-2058
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (313) 626-2600
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -5914,12 +5963,14 @@ W11650 US Highway 2, Naubinway, MI 49762-5116
 894. OSCAR PASKAL HEALTH CENTER
 12800 E Warren Ave, Detroit, MI 48215-2061
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (313) 821-2591
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 895. HOUGHTON FAMILY HEALTH CENTER
 600 Macinnes Dr, Houghton, MI 49931
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 47.5 hours per week.
 📞 (906) 346-3202
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -5932,12 +5983,14 @@ W11650 US Highway 2, Naubinway, MI 49762-5116
 897. HANCOCK FAMILY HEALTH CENTER
 500 Campus Dr, Hancock, MI 49930-1452
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 49 hours per week.
 📞 (906) 346-3202
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 898. LAKE LINDEN FAMILY HEALTH CENTER
 945 9th St, Lake Linden, MI 49945-1100
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 (906) 346-3202
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -5950,12 +6003,14 @@ W11650 US Highway 2, Naubinway, MI 49762-5116
 900. ONTONAGON FAMILY HEALTH CENTER
 751 S 7th St, Ontonagon, MI 49953-1450
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 52.5 hours per week.
 📞 (906) 346-3202
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 901. NORTHWEST MICHIGAN HEALTH SERVICES
 10767 E Traverse Hwy, Traverse City, MI 49684-6219
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, seasonal, 52.5 hours per week.
 📞 (231) 947-1112
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -5968,6 +6023,7 @@ W11650 US Highway 2, Naubinway, MI 49762-5116
 903. ICE LAKE FAMILY HEALTH CENTER
 1500 W Ice Lake Rd, Iron River, MI 49935-8509
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 42.5 hours per week.
 📞 (906) 346-3202
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -6004,6 +6060,7 @@ W11650 US Highway 2, Naubinway, MI 49762-5116
 909. MENOMINEE FAMILY HEALTH CARE
 1110 10th Ave, Menominee, MI 49858-3058
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 34 hours per week.
 📞 (906) 346-9668
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -6196,6 +6253,7 @@ W11650 US Highway 2, Naubinway, MI 49762-5116
 941. BALDWIN FAMILY HEALTH CARE VISION CENTER
 1101 Washington St, Baldwin, MI 49304-8199
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (231) 745-5045
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -6394,6 +6452,7 @@ W11650 US Highway 2, Naubinway, MI 49762-5116
 974. EAST JORDAN FAMILY HEALTH CENTER
 601 Bridge St, East Jordan, MI 49727-9421
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 54 hours per week.
 📞 (616) 536-2206
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -6412,6 +6471,7 @@ W11650 US Highway 2, Naubinway, MI 49762-5116
 977. FAMILY MEDICAL CENTER
 8765 Lewis Ave, Temperance, MI 48182-9583
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 51 hours per week.
 📞 (313) 847-3802
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -6430,6 +6490,7 @@ W11650 US Highway 2, Naubinway, MI 49762-5116
 980. JANES STREET COMMUNITY HEALTH CTR
 1522 Janes Ave, Saginaw, MI 48601-1819
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 60 hours per week.
 📞 (517) 792-8751
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -6478,12 +6539,14 @@ US-2 E, Spalding, MI 49886
 988. ALCONA HLTH CTR-OSSINEKE BRANCH CLINIC
 11745 US Highway 23 S, Ossineke, MI 49766-9582
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 47.5 hours per week.
 📞 (517) 736-6500
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 989. ALCONA HEALTH CTR-PEDIATRICS-DRS OFC
 1185 US-23 N, Alpena, MI 49707-3658
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 53 hours per week.
 📞 (517) 736-6500
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -6496,6 +6559,7 @@ US-2 E, Spalding, MI 49886
 991. SOLIS MEMORIAL HEALTH CENTER
 6270 W Main St, Eau Claire, MI 49111-9480
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 50 hours per week.
 📞 (517) 000-0000
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -6550,6 +6614,7 @@ N5241 US Highway 45, Watersmeet, MI 49969-5115
 1000. OGEMAW CLINIC OF THE STERLING AREA HC
 1827 Greenwood Rd, Prescott, MI 48756
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (517) 873-6200
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -6598,6 +6663,7 @@ N5241 US Highway 45, Watersmeet, MI 49969-5115
 1008. GREAT LAKES BAY HEALTH CENTERS BRIDGEPORT
 6297 Dixie Hwy, Bridgeport, MI 48722-9635
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 50 hours per week.
 📞 (989) 777-2151
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -6622,6 +6688,7 @@ N5241 US Highway 45, Watersmeet, MI 49969-5115
 1012. HDI OB-GYB MIDWIFERY SERVICES
 3175 Professional Ct, Bay City, MI 48706-2823
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 (989) 667-3377
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -6676,6 +6743,7 @@ N5241 US Highway 45, Watersmeet, MI 49969-5115
 1021. THUNDER BAY COMMUNITY HEALTH SERVICES, INC
 21258 M 68 Hwy, Onaway, MI 49765-9663
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 53 hours per week.
 📞 (989) 733-2082
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -6730,24 +6798,28 @@ N5241 US Highway 45, Watersmeet, MI 49969-5115
 1030. GREAT LAKES FAMILY CARE
 117 N Roland St, Mc Bain, MI 49657-9683
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (231) 825-2643
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 1031. NOLAN FAMILY HEALTH CENTER
 111 W 7 Mile Rd, Highland Park, MI 48203-1968
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (313) 369-2600
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 1032. DCHC EASTSIDE HEALTH CENTER
 7900 Kercheval St, Detroit, MI 48214-2439
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (313) 921-5500
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 1033. INTERCARE CHILD AND ADOLESCENT HEALTH CENTER
 870 Colfax Ave, Benton Harbor, MI 49022-7409
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (269) 605-1277
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -6784,6 +6856,7 @@ N5241 US Highway 45, Watersmeet, MI 49969-5115
 1039. COMMUNITY FIRST HEALTH CENTERS
 1011 Military St, Port Huron, MI 48060-5416
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 46.5 hours per week.
 📞 (810) 488-8000
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -6796,6 +6869,7 @@ N5241 US Highway 45, Watersmeet, MI 49969-5115
 1041. KI SAWYER FAMILY HEALTH CENTER
 301 Explorer St, Gwinn, MI 49841-2813
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 47 hours per week.
 📞 (906) 346-4924
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -6808,12 +6882,14 @@ N5241 US Highway 45, Watersmeet, MI 49969-5115
 1043. ALCONA HEALTH CENTERS LICNOLN SCHOOL WILDCAT HEALT
 309 W Lake St, Alpena, MI 49707-2216
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, seasonal, 39 hours per week.
 📞 (989) 358-3998
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 1044. ALCONA CITIZENS FOR HEALTH, INC
 51 N Barlow Rd, Harrisville, MI 48740-9606
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 40 hours per week.
 📞 (989) 736-8534
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -6832,6 +6908,7 @@ N5241 US Highway 45, Watersmeet, MI 49969-5115
 1047. HEART OF THE CITY HEALTH CENTER WEST
 201 Sheldon Ave SE, Grand Rapids, MI 49503-4513
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (616) 965-8200
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -6856,6 +6933,7 @@ N5241 US Highway 45, Watersmeet, MI 49969-5115
 1051. BALDWIN FAMILY HEALTH CARE
 525 4th St, Baldwin, MI 49304-9518
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 42 hours per week.
 📞 (231) 745-5045
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 

@@ -5,6 +5,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🌐 https://www.siouxfalls.org/fch
 🏥 Services: Ryan White HIV/AIDS Program; Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 46 hours per week.
 📞 605-367-8793
 
 2. Horizon Health - Alcester
@@ -19,6 +20,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.horizonhealthcare.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 59 hours per week.
 📞 605-772-4574
 
 4. Access Health - Brookings
@@ -39,6 +41,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.horizonhealthcare.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 42 hours per week.
 📞 605-847-4484
 
 7. Access Health - Mitchell
@@ -66,6 +69,7 @@ PO BOX 368, Woonsocket, SD, 57385-0368
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.ruralhc.net
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 48 hours per week.
 📞 605-234-6584
 
 11. Access Health - Highmore
@@ -73,6 +77,7 @@ PO BOX 368, Woonsocket, SD, 57385-0368
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://WWW.RURALHC.NET
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 44.5 hours per week.
 📞 605-852-2238
 
 12. Horizon Health - Aberdeen
@@ -101,6 +106,7 @@ PO BOX 368, Woonsocket, SD, 57385-0368
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.horizonhealthcare.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 62 hours per week.
 📞 605-856-4703
 
 16. Access Health - Murdo
@@ -108,6 +114,7 @@ PO BOX 368, Woonsocket, SD, 57385-0368
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://WWW.RURALHC.NET
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 42.5 hours per week.
 📞 605-669-2121
 
 17. Horizon Health - White River
@@ -115,6 +122,7 @@ PO BOX 368, Woonsocket, SD, 57385-0368
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.horizonhealthcare.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 605-259-3121
 
 18. Horizon Health - Eagle Butte
@@ -128,6 +136,7 @@ PO BOX 368, Woonsocket, SD, 57385-0368
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.chcbh.com
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 20 hours per week.
 📞 605-721-8939
 
 20. Main Clinic
@@ -985,6 +994,7 @@ Avera Professional Plaza, 2412 South Cliff Avenue, Sioux Falls, SD 57105
 152. H H C - AURORA COUNTY CLINIC
 106 S Main St, Plankinton, SD 57368-2264
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 43 hours per week.
 📞 (605) 942-7711
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -997,6 +1007,7 @@ Avera Professional Plaza, 2412 South Cliff Avenue, Sioux Falls, SD 57105
 154. H H C - DE SMET COMMUNITY HEALTH CENTER
 401 Prairie Ave SW, De Smet, SD 57231
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 50 hours per week.
 📞 (605) 854-3455
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -1087,6 +1098,7 @@ HC 77, BOX 537, Howes, SD 57748
 169. ACCESS HEALTH - FORT PIERRE
 202 Island Dr, Suite 1, Fort Pierre, SD 57532-7303
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 44.5 hours per week.
 📞 (605) 223-2200
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -1105,6 +1117,7 @@ HC 77, BOX 537, Howes, SD 57748
 172. F C H - SCHOOL BASED HEALTH SERVICES - HAWTHORNE
 601 N Spring Ave, Sioux Falls, SD 57104-2721
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, seasonal, 14 hours per week.
 📞 (605) 367-4580
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -1135,6 +1148,7 @@ HC 77, BOX 537, Howes, SD 57748
 177. FALLS COMMUNITY HEALTH SCHOOL BASED SITE/HAYWARD
 410 N Valley View Rd, Sioux Falls, SD 57107-1022
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 20 hours per week.
 📞 (605) 367-8793
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 

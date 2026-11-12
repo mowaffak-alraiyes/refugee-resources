@@ -12,12 +12,14 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.excelth.com
 🏥 Services: Primary Care; Migrant health center
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 504-524-1210
 
 3. Community Resource and Referral Center
 1530 Gravier St, New Orleans, LA, 70112-2104
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 35 hours per week.
 📞 504-658-2785
 
 4. Tulane Adolescent Drop-In Clinic
@@ -25,6 +27,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 http://tulane.edu/som/dropin/clinic.cfm http://tulane.edu/som/dropin/
 🏥 Services: Primary Care; Health Care for the Homeless
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 20 hours per week.
 📞 504-584-1112
 
 5. DePaul Community Health Center - Central City
@@ -39,6 +42,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
 🌐 http://www.nola.gov/health/programs/homeless/
 🏥 Services: Primary Care; Health Care for the Homeless
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 35 hours per week.
 📞 504-658-2785
 
 7. CrescentCare Mid-City
@@ -64,6 +68,7 @@
 1936 Magazine St, New Orleans, LA, 70130-5016
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🏥 Services: Ryan White HIV/AIDS Program; Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 50 hours per week.
 📞 504-529-5558
 
 11. St. Thomas Community Health Center
@@ -77,6 +82,7 @@
 1111 Newton St, New Orleans, LA, 70114-2500
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🏥 Services: Primary Care; Dental
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 504-658-2550
 
 13. Warren Easton High School SBHC
@@ -144,6 +150,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Migrant Health Center. Source: data.hrsa.gov.
 🌐 https://www.depaulcommunityhealthcenters.org/
 🏥 Services: Primary Care; Migrant health center
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 42 hours per week.
 📞 504-941-6041
 
 23. Baptist Community Health Services- Upper 9th Ward
@@ -178,6 +185,7 @@
 3943 Saint Bernard Ave, New Orleans, LA, 70122-1147
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 52 hours per week.
 📞 504-529-5588
 
 28. DePaul Community Health Centers - Westbank Expressway
@@ -192,6 +200,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.accesshelthla.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 985-785-7145
 
 30. EXCELth Family Health Center - Algiers
@@ -199,6 +208,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.excelth.com
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 48 hours per week.
 📞 504-526-1179
 
 31. DePaul Community Health Centers - Audubon Gentilly School
@@ -220,6 +230,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.jphsa.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 51.5 hours per week.
 📞 504-349-8708
 
 34. Priority Health Care-Marrero
@@ -240,6 +251,7 @@
 4300 Patriot St, Marrero, LA, 70072-4305
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 985-785-7145
 
 37. Common Ground Health Clinic-Gretna
@@ -253,6 +265,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.accesshealthla.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 985-785-7145
 
 39. InclusivCare-Marrero
@@ -302,6 +315,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.accesshealthla.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 504-398-1100
 
 46. Emmett Gilbert Elementary School-101
@@ -363,6 +377,7 @@
 434 South St, Paradis, LA, 70080-2244
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 504-433-2400
 
 55. Teche Health @ Reserve
@@ -483,12 +498,14 @@
 1014 W Tunnel Blvd, Houma, LA, 70360-4050
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 44 hours per week.
 📞 985-851-1717
 
 74. Teche Health @ Thibodaux
 1709 Ridgefield Rd, Thibodaux, LA, 70301-4333
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 985-446-7341
 
 75. Southeast Community Health Systems - Albany Location
@@ -562,6 +579,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.accesshealthla.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 985-785-5800
 
 87. RKM at Grays Creek Elementary
@@ -757,6 +775,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.tabhealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 44 hours per week.
 📞 985-384-2371
 
 119. Kenilworth S&T School Healthy Students
@@ -782,6 +801,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.shchc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 35 hours per week.
 📞 888-414-7247
 
 123. RKM Primary Care Baton Rouge
@@ -801,6 +821,7 @@
 4705 Lanier Dr., Baton Rouge, LA, 70812-4020
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, seasonal, 8 hours per week.
 📞 225-774-1120
 
 126. SCHS-St. Helena Arts and Technology Academy
@@ -808,6 +829,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.shchc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 35 hours per week.
 📞 225-222-3240
 
 127. Capitol Middle School
@@ -940,6 +962,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.rkmcare.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, seasonal, 42.5 hours per week.
 📞 225-683-1340
 
 148. Teche Health @ Franklin
@@ -947,6 +970,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.tabhealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 72 hours per week.
 📞 337-828-2550
 
 149. RKM at Caneview K-8 School
@@ -987,6 +1011,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://arborfamilyhealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 225-412-0404
 
 155. Pointe Coupee Central School Based Clinic
@@ -994,6 +1019,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://arborfamilyhealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 225-638-3767
 
 156. Surrey Street Community Health Center Extension Site
@@ -1001,6 +1027,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.icchc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 337-000-0000
 
 157. Northside  Community Health Care
@@ -1008,6 +1035,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.swlpch.com
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 337-232-6787
 
 158. SWLA Center for Health Services - Lafayette
@@ -1015,6 +1043,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.swlahealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 337-769-9451
 
 159. Beau Chene High School
@@ -1035,6 +1064,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.swlphc.com
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, seasonal, 16 hours per week.
 📞 337-663-3478
 
 162. All Kids Pediatrics of Opelousas
@@ -1274,6 +1304,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.tensashealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 36 hours per week.
 📞 318-766-1967
 
 198. Tensas Health Mobile
@@ -1281,6 +1312,7 @@
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.tensashealth.com
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 318-766-1967
 
 199. Jena High SBHC
@@ -1379,6 +1411,7 @@ mobile, shreveport, LA, 71107
 2120 Bert Kouns Industrial Loop, Suite A, SHREVEPORT, LA, 71118-3351
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 42 hours per week.
 📞 318-688-3350
 
 214. CASSE Stonewall Clinic
@@ -1407,6 +1440,7 @@ mobile, shreveport, LA, 71107
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://davidraineschc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 318-624-1995
 
 218. Mercy Medical Health Center of Arcadia and Mercy Medicine of Arcadia
@@ -1449,6 +1483,7 @@ mobile, shreveport, LA, 71107
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.outpatientmedical.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 42 hours per week.
 📞 318-352-9299
 
 224. Mercy Dental
@@ -1470,6 +1505,7 @@ mobile, shreveport, LA, 71107
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.icchc.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 337-365-4945
 
 227. Provencal Elementary SBHC
@@ -1497,6 +1533,7 @@ mobile, shreveport, LA, 71107
 425 W Lafayette St, Winnfield, LA, 71483-3463
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 318-648-0375
 
 231. Winn CHC Pharmacy Services
@@ -1549,6 +1586,7 @@ mobile, shreveport, LA, 71107
 620 Riverside Dr, Monroe, LA, 71201-6211
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: part-time, year-round, 4 hours per week.
 📞 318-996-6030
 
 239. CommuniHealth Services - Monroe Community Health Center
@@ -1568,6 +1606,7 @@ mobile, shreveport, LA, 71107
 850 S    2nd St, Monroe, LA, 71202-2112
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 318-651-0041
 
 242. PHSC DENTAL CLINIC
@@ -1601,6 +1640,7 @@ mobile, shreveport, LA, 71107
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://www.communihealth.org
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 318-281-8422
 
 247. CommuniHealth Services - Behavioral Health Wellness Clinic
@@ -1627,6 +1667,7 @@ mobile, shreveport, LA, 71107
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 http://www.dchc-delhi.com
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 318-878-5717
 
 251. Delhi Community Health Center Dental Clinic
@@ -1641,6 +1682,7 @@ mobile, shreveport, LA, 71107
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
 🌐 https://hcset.com
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 44 hours per week.
 📞 936-327-4660
 
 253. Family Medical Clinic-Behavioral Health
@@ -1673,6 +1715,7 @@ mobile, shreveport, LA, 71107
 3201 S Carrollton Ave, New Orleans, LA 70118-4307
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
 🏥 Services: Ryan White HIV/AIDS Program, Migrant health center, Dental, Mental Health
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 64 hours per week.
 📞 (504) 669-7350
 🌐 http://www.dcsno.org/
 
@@ -1752,6 +1795,7 @@ mobile, shreveport, LA, 71107
 9900 Lake Forest Blvd, New Orleans, LA 70127-2609
 📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🏥 Services: Dental
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (504) 620-0500
 🌐 https://www.excelth.com
 
@@ -1850,6 +1894,7 @@ mobile, shreveport, LA, 71107
 288. Daughters of Charity Health Center - Gentilly
 100 Warrington Dr, New Orleans, LA 70122-3000
 🏥 Services: Dental, Mental Health
+⏰ Hours: HRSA 2025 site report: full-time, 45 hours per week.
 📞 (504) 212-9510
 📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
 
@@ -2060,6 +2105,7 @@ mobile, shreveport, LA, 71107
 5630 Read Boulevard, 2nd Floor, New Orleans, LA 70127
 🌐 https://www.mhsdla.org
 🏥 Services: Mental Health
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 63 hours per week.
 📞 (504) 568-3130
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 
@@ -2396,6 +2442,7 @@ mobile, shreveport, LA, 71107
 501 Broadway Street, Delhi, LA 71232
 🌐 https://dchc-delhi.com/
 🏥 Services: Mental Health
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 2 hours per week.
 📞 (318) 878-8656
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 
@@ -5236,6 +5283,7 @@ mobile, shreveport, LA, 71107
 818. OUTPATIENT MEDICAL CENTER INC, TALLULAH
 804 N Beech St, Tallulah, LA 71282-3809
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 42 hours per week.
 📞 (318) 574-1453
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -5248,6 +5296,7 @@ mobile, shreveport, LA, 71107
 820. SOUTHWEST LA CENTER FOR HEALTH SERVICE
 2000 Opelousas St, Lake Charles, LA 70601-2641
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (337) 439-9983
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -5284,6 +5333,7 @@ mobile, shreveport, LA, 71107
 826. DAVID RAINES COMMUNITY HEALTH CENTER
 1625 David Raines Rd, Shreveport, LA 71107-5899
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (318) 227-3350
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -5296,6 +5346,7 @@ mobile, shreveport, LA, 71107
 828. DAVID RAINES COMMUNITY HEALTH CENTER
 12763 Lay St, Gilliam, LA 71029
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (318) 425-2252
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -5320,18 +5371,21 @@ mobile, shreveport, LA, 71107
 832. INNIS COMMUNITY HEALTH CENTER
 6450 LA Highway 1, Batchelor, LA 70715-3212
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (225) 492-3775
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 833. TECHE ACTION CLINIC AT DULAC
 189 Mozart Dr, Houma, LA 70363-7990
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (985) 868-3700
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 834. DAVID RAINES COMMUNITY HEALTH CENTER
 128 Homer Rd, Minden, LA 71055-2732
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (318) 377-5588
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -5416,12 +5470,14 @@ mobile, shreveport, LA, 71107
 848. ST MARTIN PARISH COMMUNITY HEALTH CENTER
 317 Dernier St, Saint Martinville, LA 70582-3809
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (337) 342-2566
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 849. DAVID RAINES COMMUNITY HEALTH CENTER
 1514 Doctors Dr, Bossier City, LA 71111-3322
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (318) 549-3492
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -5446,12 +5502,14 @@ mobile, shreveport, LA, 71107
 853. NORCO COMMUNITY HEALTH CENTER
 16004 River Rd, Norco, LA 70079-2040
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (985) 785-5800
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 854. ST TAMMYANY COMMUNITY HEALTH CENTER SLIDELL
 501 Robert Blvd, Slidell, LA 70458-1667
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (985) 785-5800
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -5506,6 +5564,7 @@ mobile, shreveport, LA, 71107
 863. ST BERNARD HEALTH CENTER
 8050 W Judge Perez Dr, Chalmette, LA 70043-1734
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 55 hours per week.
 📞 (504) 281-2800
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -5530,18 +5589,21 @@ mobile, shreveport, LA, 71107
 867. PRIMARY HEALTH SERVICES CENTER
 2915 Betin Ave, Monroe, LA 71201-7257
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
 📞 (318) 651-9945
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 868. DELHI COMMUNITY SCHOOL BASED CENTER - ELEM & HIGH
 509 Main St, Delhi, LA 71232-2537
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (318) 878-8965
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 869. DEPAUL COMMUNITY HEALTH CENTERS
 111 N Causeway Blvd, Metairie, LA 70001-5450
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 42 hours per week.
 📞 (504) 482-0084
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -5554,18 +5616,21 @@ mobile, shreveport, LA, 71107
 871. DELHI COMMUNITY SCHOOL BASED CENTER-DELHI MIDDLE
 106 Toombs St, Delhi, LA 71232-2647
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 8 hours per week.
 📞 (318) 878-6748
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 872. GRANT COMMUNITY HEALTH CENTER
 340 Webb Smith Dr, Colfax, LA 71417
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (318) 648-0375
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 873. DAVID RAINES COMMUNITY HEALTH
 3021 W 70th St, Shreveport, LA 71108-4603
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (318) 227-3350
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -5596,6 +5661,7 @@ mobile, shreveport, LA, 71107
 878. JEFFCARE EAST JEFFERSON
 3616 S I 10 Service Rd W, Suite 100, Metairie, LA 70001-1884
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 52.5 hours per week.
 📞 (504) 838-5215
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -5608,6 +5674,7 @@ mobile, shreveport, LA, 71107
 880. MOREHOUSE COMMUNITY MEDICAL CENTERS, INC.
 402 Highland Ave, Bastrop, LA 71220-2241
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 (318) 239-3883
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
@@ -5626,6 +5693,7 @@ mobile, shreveport, LA, 71107
 883. INCLUSIVCARE
 5140 Church St, Lafitte, LA 70067-5256
 🏥 Services: Primary Care
+⏰ Hours: HRSA 2025 site report: full-time, year-round, 8 hours per week.
 📞 (504) 689-3300
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
