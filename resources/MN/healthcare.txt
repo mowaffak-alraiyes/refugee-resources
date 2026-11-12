@@ -879,12 +879,7 @@ L Orient St, Saint Paul, MN 55117
 📞 (651) 925-8400
 📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
 
-131. Federal Bureau of Prisons (BOP) - Federal Medical Center (FMC) ROCHESTER
-2110 E Center St, Rochester, MN 55904-4735
-🌐 http://www.bop.gov/locations/institutions/rch/index.jsp
-🏥 Services: Mental Health
-📞 (866) 307-1045
-📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
 
 132. Essentia Health - Adult Partial Hospitalization Program
 530 E 2nd St, Duluth, MN 55805-1998

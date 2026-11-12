@@ -2110,12 +2110,7 @@ PO BOX 790355, Saint Louis, MO 63179-0355
 📞 (417) 761-5000
 📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
 
-318. Federal Bureau of Prisons (BOP) - Medical Center for Federal Prisoners (MCFP) SPRINGFIELD
-1900 W Sunshine St, Springfield, MO 65807-2240
-🌐 http://www.bop.gov/locations/institutions/spg/index.jsp
-🏥 Services: Mental Health
-📞 (866) 307-1045
-📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+
 
 319. ReDiscover - South Clinic
 6801 E 117th St, Kansas City, MO 64134-3701
