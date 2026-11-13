@@ -1317,11 +1317,12 @@
 143. Aunt Martha’s Humboldt Park Community Health Center
 2641 W Division St, Chicago, IL 60622
 📝 Last verified: 08/2025
+📝 Source: Aunt Martha's Health and Wellness location page, https://www.auntmarthas.org/location/humboldt-park-community-health-center/, retrieved November 13, 2026. The page says to schedule an appointment.
 📞 (877) 692-8686
-🌐 https://auntmarthas.org/
+🌐 https://www.auntmarthas.org/location/humboldt-park-community-health-center/
 🗣 Languages: English, Spanish
-🏥 Services: Primary Care, women’s health (OB/GYN), Pediatrics, Behavioral Health, Family Planning, Care Coordination
-⏰ Hours: Mon - Fri 8:30 AM - 4:00 PM
+🏥 Services: Primary Care, women’s health (OB/GYN), Pediatrics, Behavioral Health, Family Planning, Care Coordination, Health Insurance Resources, Men's Health, Support for New Parents, Telehealth, Women's Health and OB/GYN Services
+⏰ Hours: Wed 8:30 AM - 5:00 PM; Thu 8:30 AM - 6:00 PM
 
 144. Aunt Martha’s Roseland Community Health Center
 45 W 111th St, Chicago, IL 60628
@@ -1859,10 +1860,11 @@ New Beginnings Church  -  6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 209. Southeast Side Community Health Center
 3528 E  118th St, Chicago, IL, 60617-7314
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🌐 http://www.auntmarthas.org
-⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
+📝 Source: Aunt Martha's Health and Wellness location page, https://www.auntmarthas.org/location/southeast-side-community-health-center/, retrieved November 13, 2026. The page says to schedule an appointment.
+🌐 https://www.auntmarthas.org/location/southeast-side-community-health-center/
+⏰ Hours: Mon 8:30 AM - 5:00 PM; Tue 8:30 AM - 7:00 PM; Wed 8:00 AM - 7:00 PM; Thu 8:30 AM - 5:00 PM
 📞 (877) 692-8686
-🏥 Services: Primary Care
+🏥 Services: Primary Care, Behavioral Health, Care Coordination, Family Planning, Health Insurance Resources, Men's Health, Pediatrics, Telehealth, Women's Health and OB/GYN Services
 
 210. TCA Health, Inc.
 1029 E  130th St, Chicago, IL, 60628-6908
@@ -1938,17 +1940,20 @@ New Beginnings Church  -  6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 219. South Suburban Homeless Outreach Center
 15420 Dixie Hwy Unit G, Harvey, IL, 60426-3479
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🌐 http://www.auntmarthas.org
+📝 Source: Aunt Martha's Health and Wellness location page, https://www.auntmarthas.org/location/harvey-health-outreach-center/, retrieved November 13, 2026. The page says to schedule an appointment.
+🌐 https://www.auntmarthas.org/location/harvey-health-outreach-center/
 📞 (877) 692-8686
-🏥 Services: Primary Care
+🏥 Services: Primary Care, Care Coordination, Family Planning, Health Insurance Resources, Men's Health, Pediatrics, Telehealth
+⏰ Hours: Mon 8:00 AM - 5:00 PM
 
 220. South Holland Community Health Center
 52 W  162nd St, South Holland, IL, 60473-2061
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026; HRSA Health Center Program  -  Last reviewed 07/2026
-🌐 http://www.auntmarthas.org
-⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
+📝 Source: Aunt Martha's Health and Wellness location page, https://www.auntmarthas.org/location/south-holland-community-health-center/, retrieved November 13, 2026. The page says to schedule an appointment.
+🌐 https://www.auntmarthas.org/location/south-holland-community-health-center/
+⏰ Hours: Mon 8:30 AM - 5:00 PM; Tue 8:30 AM - 5:00 PM; Wed 8:30 AM - 5:00 PM; Thu 8:30 AM - 5:00 PM; Fri 8:30 AM - 4:30 PM
 📞 (877) 692-8686
-🏥 Services: Ryan White HIV/AIDS Program, Primary Care
+🏥 Services: Ryan White HIV/AIDS Program, Primary Care, Behavioral Health, Care Coordination, Family Planning, Health Insurance Resources, Men's Health, Pediatrics, Telehealth, Women's Health and OB/GYN Services
 
 221. Legacy Medical Care - Addison
 2055 W Army Trail Rd Ste 104, Addison, IL, 60101-1478
@@ -1992,10 +1997,11 @@ New Beginnings Church  -  6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 226. Aunt Martha's Chicago Heights Pediatric Health and Wellness Center
 500 Dixie Hwy, Chicago Heights, IL, 60411-1741
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🌐 http://www.auntmarthas.org
-⏰ Hours: HRSA 2025 site report: full-time, year-round, 50 hours per week.
+📝 Source: Aunt Martha's Health and Wellness location page, https://www.auntmarthas.org/location/family-health-wellness-center/, retrieved November 13, 2026. The page says to schedule an appointment.
+🌐 https://www.auntmarthas.org/location/family-health-wellness-center/
+⏰ Hours: Mon 8:30 AM - 5:30 PM; Tue 8:00 AM - 6:00 PM; Wed 8:00 AM - 8:00 PM; Thu 8:30 AM - 5:00 PM; Fri 8:00 AM - 5:00 PM
 📞 (877) 692-8686
-🏥 Services: Primary Care
+🏥 Services: Primary Care, Family Planning, Pediatrics, Telehealth, Women's Health and OB/GYN Services
 🗣 Languages: Spanish, English
 
 227. AUNT MARTHA'S WOMEN'S HLTH CTR
@@ -2150,10 +2156,11 @@ New Beginnings Church  -  6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 246. CARPENTERSVILLE COMMUNITY HEALTH CENTER
 3003 WAKEFIELD BLVD., CARPENTERSVILLE, IL, 60110-2422
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🌐 http://www.auntmarthas.org
-⏰ Hours: HRSA 2025 site report: full-time, year-round, 45 hours per week.
+📝 Source: Aunt Martha's Health and Wellness location page, https://www.auntmarthas.org/location/carpentersville-community-health-center/, retrieved November 13, 2026. The page says to schedule an appointment.
+🌐 https://www.auntmarthas.org/location/carpentersville-community-health-center/
+⏰ Hours: Mon 8:30 AM - 6:30 PM; Tue 8:30 AM - 5:00 PM; Wed 8:30 AM - 5:00 PM; Thu 8:30 AM - 6:00 PM; Fri 8:30 AM - 4:30 PM
 📞 (877) 692-8686
-🏥 Services: Primary Care
+🏥 Services: Primary Care, Behavioral Health, Care Coordination, Family Planning, Health Insurance Resources, Immigrants and New Residents, Men's Health, Pediatrics, Support for New Parents, Telehealth, Women's Health and OB/GYN Services
 
 247. VNA Health Care- Joliet
 1501 W Jefferson St, Joliet, IL, 60435-6703
@@ -2265,9 +2272,11 @@ New Beginnings Church  -  6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 261. Kankakee Community Health Center
 1777 E. Court Street, Kankakee, IL, 60901-2670
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🌐 http://www.auntmarthas.org
+📝 Source: Aunt Martha's Health and Wellness location page, https://www.auntmarthas.org/location/kankakee-community-health-center/, retrieved November 13, 2026. The page says to schedule an appointment.
+🌐 https://www.auntmarthas.org/location/kankakee-community-health-center/
 📞 (877) 692-8686
-🏥 Services: Primary Care
+🏥 Services: Primary Care, Behavioral Health, Care Coordination, Family Planning, Health Insurance Resources, Men's Health, Pediatrics, Telehealth, Women's Health and OB/GYN Services
+⏰ Hours: Mon 8:00 AM - 7:00 PM; Tue 8:00 AM - 7:00 PM; Wed 8:00 AM - 7:00 PM; Thu 8:30 AM - 5:00 PM
 
 262. Mobile Medical and Dental Van 02
 202 N Schuyler Ave, Kankakee, IL, 60901-3865
@@ -11084,3 +11093,97 @@ P.O. Box 878, Urbana, IL 61803
 📞 (630) 293-4124
 🏥 Services: Family medicine, Pediatrics, Obstetrics and gynecology, Behavioral health, Medication Assisted Recovery (M.A.R.), Illinois Family Planning Program, Psychiatry
 ⏰ Hours: Mon 8:00 AM - 8:00 PM; Tue 8:00 AM - 8:00 PM; Wed 8:00 AM - 8:00 PM; Thu 8:00 AM - 8:00 PM; Fri 8:00 AM - 6:00 PM; Sat 8:00 AM - 12:00 PM; Sun closed
+
+1591. Aunt Martha's Aurora Community Health Center
+2124 Ogden Ave, Aurora, IL 60504
+📝 Source: Aunt Martha's Health and Wellness location page, https://www.auntmarthas.org/location/aurora-community-health-center/, retrieved November 13, 2026. The page says to schedule an appointment.
+🌐 https://www.auntmarthas.org/location/aurora-community-health-center/
+📞 (877) 692-8686
+🏥 Services: Behavioral Health, Care Coordination, Child Wellness - DCFS Programs, Family Planning, HealthWorks, Health Insurance Resources, Immigrants and New Residents, Men's Health, Pediatrics, Primary Care, Support for New Parents, Telehealth
+⏰ Hours: Mon 8:30 AM - 5:30 PM; Tue 8:30 AM - 5:00 PM; Wed 8:30 AM - 5:00 PM; Thu 8:30 AM - 5:00 PM; Fri 8:30 AM - 4:30 PM
+
+1592. Aunt Martha's Aurora Health and Outreach Center
+680 S River St (Hesed House), Aurora, IL 60506
+📝 Source: Aunt Martha's Health and Wellness location page, https://www.auntmarthas.org/location/aurora-health-and-outreach-center/, retrieved November 13, 2026. The page says to schedule an appointment.
+🌐 https://www.auntmarthas.org/location/aurora-health-and-outreach-center/
+📞 (877) 692-8686
+🏥 Services: Care Coordination, Family Planning, Health Insurance Resources, Men's Health, Primary Care, Telehealth, Women's Health and OB/GYN Services
+⏰ Hours: Tue 8:30 AM - 5:00 PM; Wed 8:30 AM - 5:00 PM; Thu 8:30 AM - 5:00 PM
+
+1593. Aunt Martha's Chicago Heights Community Health Center
+1536 Vincennes Ave, Chicago Heights, IL 60411
+📝 Source: Aunt Martha's Health and Wellness location page, https://www.auntmarthas.org/location/chicago-heights-community-health-center/, retrieved November 13, 2026. The page says to schedule an appointment.
+🌐 https://www.auntmarthas.org/location/chicago-heights-community-health-center/
+📞 (877) 692-8686
+🏥 Services: Behavioral Health, Care Coordination, Family Planning, Health Insurance Resources, Men's Health, Primary Care, Telehealth, Women's Health and OB/GYN Services
+⏰ Hours: Mon 8:30 AM - 5:00 PM; Tue 8:30 AM - 5:00 PM; Thu 8:30 AM - 6:00 PM; Fri 8:30 AM - 5:00 PM
+
+1594. Aunt Martha's East Joliet Community Health Center
+1200 Eagle St, Joliet, IL 60432
+📝 Source: Aunt Martha's Health and Wellness location page, https://www.auntmarthas.org/location/east-joliet-community-health-center/, retrieved November 13, 2026. The page says to schedule an appointment.
+🌐 https://www.auntmarthas.org/location/east-joliet-community-health-center/
+📞 (877) 692-8686
+🏥 Services: Behavioral Health, Care Coordination, Family Planning, Health Insurance Resources, Men's Health, Pediatrics, Primary Care, Telehealth, Women's Health and OB/GYN Services, Support for New Parents
+⏰ Hours: Mon 8:30 AM - 5:30 PM; Tue 8:30 AM - 5:00 PM; Wed 8:30 AM - 5:00 PM; Thu 8:30 AM - 7:00 PM; Fri 8:30 AM - 5:00 PM; Sat 8:30 AM - 1:00 PM
+
+1595. Aunt Martha's Palos Heights Community Health Center
+12021 S Harlem Ave, Palos Heights, IL 60463
+📝 Source: Aunt Martha's Health and Wellness location page, https://www.auntmarthas.org/location/palos-heights-community-health-center/, retrieved November 13, 2026. The page says to schedule an appointment.
+🌐 https://www.auntmarthas.org/location/palos-heights-community-health-center/
+📞 (877) 692-8689
+🏥 Services: Community Support, Crisis Services
+
+1596. Aunt Martha's Park Forest Community Wellness Center
+23485 Western Ave, Park Forest, IL 60466
+📝 Source: Aunt Martha's Health and Wellness location page, https://www.auntmarthas.org/location/park-forest-community-wellness-center/, retrieved November 13, 2026. The page says to schedule an appointment.
+🌐 https://www.auntmarthas.org/location/park-forest-community-wellness-center/
+📞 (877) 692-8686
+🏥 Services: Child Wellness - DCFS Programs, Community Support, Crisis Services, HealthWorks, Supportive Services, Support for New Parents
+⏰ Hours: Mon 8:30 AM - 5:00 PM; Tue 8:30 AM - 5:00 PM; Wed 8:30 AM - 5:00 PM; Thu 8:30 AM - 5:00 PM; Fri 8:30 AM - 5:00 PM
+
+1597. Aunt Martha's Rockford Community Health Center
+345 Executive Pkwy suite l 1, Rockford, IL 61107
+📝 Source: Aunt Martha's Health and Wellness location page, https://www.auntmarthas.org/location/rockford-community-health-center/, retrieved November 13, 2026. The page says to schedule an appointment.
+🌐 https://www.auntmarthas.org/location/rockford-community-health-center/
+📞 (877) 692-8686
+🏥 Services: Behavioral Health, Care Coordination, Family Planning, Health Insurance Resources, Men's Health, Pediatrics, Primary Care, Telehealth, Women's Health and OB/GYN Services
+⏰ Hours: Mon 8:00 AM - 5:30 PM; Tue 8:00 AM - 6:30 PM; Wed 8:00 AM - 5:30 PM; Thu 8:00 AM - 6:00 PM; Fri 8:00 AM - 5:30 PM; Sat 8:30 AM - 12:30 PM
+
+1598. Aunt Martha's Southeast Alcohol and Drug Abuse Center
+8640 S South Chicago Ave, Chicago, IL 60617
+📝 Source: Aunt Martha's Health and Wellness location page, https://www.auntmarthas.org/location/southeast-alcohol-and-drug-abuse-center-seadac/, retrieved November 13, 2026. The page says to schedule an appointment.
+🌐 https://www.auntmarthas.org/location/southeast-alcohol-and-drug-abuse-center-seadac/
+📞 (877) 692-8686
+🏥 Services: Behavioral Health, Care Coordination, Community Support, Health Insurance Resources, Men's Health, Primary Care, Support for New Parents, Telehealth, Women's Health and OB/GYN Services
+
+1599. Aunt Martha's Woodstock Community Health Center
+3703 Doty Rd, Woodstock, IL 60098
+📝 Source: Aunt Martha's Health and Wellness location page, https://www.auntmarthas.org/location/woodstock-community-health-center/, retrieved November 13, 2026. The page says to schedule an appointment.
+🌐 https://www.auntmarthas.org/location/woodstock-community-health-center/
+📞 (877) 692-8686
+🏥 Services: Behavioral Health, Care Coordination, Family Planning, Health Insurance Resources, Men's Health, Pediatrics, Primary Care, Telehealth, Women's Health and OB/GYN Services
+⏰ Hours: Mon 8:30 AM - 5:30 PM; Tue 8:00 AM - 5:30 PM; Wed 8:30 AM - 5:30 PM; Thu 8:30 AM - 5:30 PM
+
+1600. Aunt Martha's West Joliet Community Health Center
+2219 W. Jefferson Street, Joliet, IL 60435
+📝 Source: Aunt Martha's Health and Wellness location page, https://www.auntmarthas.org/location/west-joliet-community-health-center/, retrieved November 13, 2026. The page says to schedule an appointment.
+🌐 https://www.auntmarthas.org/location/west-joliet-community-health-center/
+📞 (877) 692-8686
+🏥 Services: Care Coordination, Health Insurance Resources, Men's Health, Pediatrics, Primary Care, Telehealth, Women's Health and OB/GYN Services
+⏰ Hours: Mon 8:30 AM - 5:00 PM; Thu 8:30 AM - 5:00 PM; Fri 8:30 AM - 5:00 PM
+
+1601. Aunt Martha's Hazel Crest
+17850 Kedzie Ave suite 1150, Hazel Crest, IL 60429
+📝 Source: Aunt Martha's Health and Wellness location page, https://www.auntmarthas.org/location/hazel-crest/, retrieved November 13, 2026. The page says to schedule an appointment.
+🌐 https://www.auntmarthas.org/location/hazel-crest/
+📞 (877) 692-8686
+🏥 Services: Care Coordination, Family Planning, Health Insurance Resources, Men's Health, Pediatrics, Primary Care, Telehealth, Women's Health and OB/GYN Services
+⏰ Hours: Mon 8:30 AM - 5:00 PM; Tue 8:30 AM - 5:00 PM; Wed 8:30 AM - 5:00 PM; Thu 8:30 AM - 5:00 PM; Fri 8:30 AM - 5:00 PM
+
+1602. Aunt Martha's Vermilion Area Community Health Center
+614 N Gilbert St, Danville, IL 61832
+📝 Source: Aunt Martha's Health and Wellness location page, https://www.auntmarthas.org/location/vermillion-area-community-health-center/, retrieved November 13, 2026. The page says to schedule an appointment.
+🌐 https://www.auntmarthas.org/location/vermillion-area-community-health-center/
+📞 (877) 692-8686
+🏥 Services: Behavioral Health, Care Coordination, Family Planning, Health Insurance Resources, Men's Health, Pediatrics, Primary Care, Telehealth, Women's Health and OB/GYN Services
+⏰ Hours: Mon 8:00 AM - 6:00 PM; Tue 8:00 AM - 6:00 PM; Wed 8:00 AM - 6:00 PM; Thu 8:00 AM - 6:00 PM; Fri 8:00 AM - 4:30 PM
