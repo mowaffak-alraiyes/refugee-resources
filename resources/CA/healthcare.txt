@@ -316,7 +316,6 @@ Bryant St, San Francisco, CA, 94107
 
 55. WEST OAKLAND HEALTH CENTER..
 700 Adeline St, Oakland, CA, 94607-2608
-🌐 https://wohc@wohc.org
 🏥 Services: Primary Care
 ⏰ Hours: HRSA 2025 site report: full-time, year-round, 56.5 hours per week.
 📞 510-835-9610
@@ -498,7 +497,6 @@ Bryant St, San Francisco, CA, 94107
 
 85. WILLIAM BYRON RUMFORD MED CLINIC
 2960 SACRAMENTO ST, BERKELEY, CA, 94702-2510
-🌐 https://wohc@wohc.org
 🏥 Services: Primary Care
 ⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 510-549-3166
@@ -697,7 +695,6 @@ Koret Building Floors 6 & 7Highland General Hospital Campus1411 E. 31st Street, 
 
 117. COMMUNITY RECOVERY CENTER EAST
 7501 International Blvd, OAKLAND, CA, 94621-2843
-🌐 https://wohc@wohc.org
 🏥 Services: Primary Care
 ⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 510-735-9610
@@ -779,7 +776,6 @@ Koret Building Floors 6 & 7Highland General Hospital Campus1411 E. 31st Street, 
 
 131. ALBERT J THOMAS MEDICAL CLINIC
 10615 INTERNATIONAL BLVD, OAKLAND, CA, 94603-3805
-🌐 https://wohc@wohc.org
 🏥 Services: Primary Care
 ⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 510-568-9230
@@ -6346,7 +6342,6 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 3041 West Avenue K Student Services Building SSV  RM 187, Lancaster, CA, 93535
 🏥 Services: Primary Care
 📞 661-874-4050
-🌐 https://www@bachc.org
 
 1064. Clinicas del Camino Real Inc - Fillmore
 355 CENTRAL AVE, FILLMORE, CA, 93015-1920
@@ -6374,12 +6369,6 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 25115 Avenue Stanford Ste A-103, Valencia, CA, 91355-1290
 🏥 Services: Primary Care
 📞 661-468-7405
-
-1069. BACHC PARKING GARAGE
-GINGHAM AVE, LANCASTER, CA, 93535
-🌐 https://www@bachc.org
-🏥 Services: Primary Care
-📞 661-874-4050
 
 1070. Santa Paula Hospital Clinic
 845 N 10th St Ste 3, Santa Paula, CA, 93060-1348
