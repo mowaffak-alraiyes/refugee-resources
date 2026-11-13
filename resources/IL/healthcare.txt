@@ -161,7 +161,8 @@
 19. Esperanza Brighton Park
 4700 S California Ave, Chicago, IL 60632-2016
 📝 HRSA database - Last reviewed April 2025
-🌐 https://esperanzachicago.org
+📝 Source: https://www.esperanzachicago.org/location/esperanza-brighton-park-north, retrieved November 13, 2026. Schedule an appointment. Closed on the holidays listed on that page.
+🌐 https://www.esperanzachicago.org/location/esperanza-brighton-park-north
 📞 (773) 584-6200
 🗣 Languages: English; Spanish
 🏥 Services: Adult & Pediatric Primary Care, Women's Health, Behavioral Health
@@ -180,7 +181,8 @@
 2001 S California Ave, Ste 100, Chicago, IL 60608-2486
 📝 HRSA database - Last reviewed April 2025
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
-🌐 https://esperanzachicago.org
+📝 Source: https://www.esperanzachicago.org/location/esperanza-california, retrieved November 13, 2026. Schedule an appointment. Closed on the holidays listed on that page.
+🌐 https://www.esperanzachicago.org/location/esperanza-california
 📞 (773) 584-6200
 🗣 Languages: English; Spanish
 🏥 Services: Adult & Pediatric Primary Care, Women’s Health (Ob/Gyn), Behavioral Health, Mental Health
@@ -198,16 +200,18 @@
 23. Esperanza Little Village
 3059 W 26th St, Chicago, IL 60623-4131
 📝 HRSA database - Last reviewed April 2025
-🌐 https://esperanzachicago.org
+📝 Source: Esperanza Little Village location page, https://www.esperanzachicago.org/location/esperanza-little-village, retrieved November 13, 2026. Call (773) 584-6200 to make an appointment. Closed on the holidays listed on that page.
+🌐 https://www.esperanzachicago.org/location/esperanza-little-village
 📞 (773) 932-2111
 🗣 Languages: English; Spanish
 🏥 Services: Adult & Pediatric Primary Care, Women's Health, Behavioral Health
-⏰ Hours: Mon 7:30 am - 5:30 pm; Tue 7:30 am - 5:45 pm; Wed 7:30 am - 5:30 pm; Thu 11:00 am - 7:15 pm (1st & 3rd), 7:30 am - 4:30 pm (others); Fri 8:00 am - 5:30 pm; Sat 8:00 am - 4:00 pm (except 5th Sat); Sun closed
+⏰ Hours: Mon - Wed 7:15 AM - 5:30 PM; Thu 8:45 AM - 6:00 PM; Fri 7:15 AM - 4:30 PM; Sat 7:30 AM - 4:00 PM; Sun closed
 
 24. Esperanza Marquette
 6550 S Richmond St, Chicago, IL 60629-2821
 📝 HRSA database - Last reviewed April 2025
-🌐 https://esperanzachicago.org
+📝 Source: Esperanza Marquette location page, https://www.esperanzachicago.org/location/esperanza-marquette, retrieved November 13, 2026. Bilingual school-based health center for students and the community, regardless of immigration status, insurance status, or ability to pay. Call (773) 584-6200 to make an appointment.
+🌐 https://www.esperanzachicago.org/location/esperanza-marquette
 📞 (773) 584-6200
 🗣 Languages: English; Spanish
 🏥 Services: School-based health center  -  Primary care (family medicine, Pediatrics), Women's Health, Behavioral Health
@@ -216,7 +220,8 @@
 25. Esperanza at 63rd
 4058 W 63rd St, Chicago, IL 60629-4639
 📝 HRSA database - Last reviewed April 2025
-🌐 https://esperanzachicago.org
+📝 Source: https://www.esperanzachicago.org/location/esperanza-63rd-street, retrieved November 13, 2026. Schedule an appointment. Closed on the holidays listed on that page.
+🌐 https://www.esperanzachicago.org/location/esperanza-63rd-street
 📞 (773) 584-6200
 🗣 Languages: English; Spanish
 🏥 Services: Adult & Pediatric Primary Care, Women's Health, Behavioral Health
@@ -1823,10 +1828,11 @@ New Beginnings Church  -  6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 208. Greater Family Health  -  10225 Grand Ave
 10225 Grand Ave, Franklin Park, IL, 60131-3138
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026; HRSA Health Center Program  -  Last reviewed 07/2026
-🌐 http://greaterfamilyhealth.org
+📝 Source: Greater Family Health clinic page, https://greaterfamilyhealth.org/clinics/greater-family-health-franklin-park/, retrieved November 13, 2026. The page has a request-an-appointment link.
+🌐 https://greaterfamilyhealth.org/clinics/greater-family-health-franklin-park/
 📞 (844) 599-3700
-🏥 Services: Ryan White HIV/AIDS Program, Primary Care
-🗣 Languages: English Espa, English
+🏥 Services: Ryan White HIV/AIDS Program, Primary Care, Family Practice, Pediatrics, Obstetrics / Gynecology, Behavioral Health
+⏰ Hours: Mon - Thu 8:00 AM - 7:30 PM; Fri 8:00 AM - 5:00 PM; Sat 8:00 AM - 5:00 PM; Sun closed
 
 209. Southeast Side Community Health Center
 3528 E  118th St, Chicago, IL, 60617-7314
@@ -1869,10 +1875,11 @@ New Beginnings Church  -  6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 214. Greater Family Health  -  1515 Lee St
 1515 Lee St, Des Plaines, IL, 60018-1518
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 Source: Greater Family Health clinic page, https://greaterfamilyhealth.org/clinics/greater-family-health-des-plaines/, retrieved November 13, 2026. The page has a request-an-appointment link.
 📞 (844) 599-3700
 🏥 Services: Primary Care
-🌐 http://www.greaterfamilyhealth.org
-🗣 Languages: English Espa, English
+🌐 https://greaterfamilyhealth.org/clinics/greater-family-health-des-plaines/
+⏰ Hours: Mon - Thu 8:00 AM - 7:30 PM; Fri 8:00 AM - 5:00 PM; Sat 8:00 AM - 5:00 PM; Sun closed
 
 215. VNA Health Center - Bensenville
 213 W Main St, Bensenville, IL, 60106-2134
@@ -1938,10 +1945,11 @@ New Beginnings Church  -  6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 223. Greater Family Health  -  300 MCHENRY RD
 300 MCHENRY RD, WHEELING, IL, 60090-2696
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026; HRSA Health Center Program  -  Last reviewed 07/2026
-🌐 http://www.greaterfamilyhealth.org
+📝 Source: Greater Family Health clinic page, https://greaterfamilyhealth.org/clinics/greater-family-health-wheeling/, retrieved November 13, 2026. The page has a request-an-appointment link.
+🌐 https://greaterfamilyhealth.org/clinics/greater-family-health-wheeling/
 📞 (844) 599-3700
-🏥 Services: Ryan White HIV/AIDS Program, Primary Care
-🗣 Languages: English Espa, English
+🏥 Services: Ryan White HIV/AIDS Program, Primary Care, Family Practice, Pediatrics, Obstetrics / Gynecology, Behavioral Health
+⏰ Hours: Mon - Thu 8:00 AM - 7:30 PM; Fri 8:00 AM - 5:00 PM; Sat 8:00 AM - 5:00 PM; Sun closed
 
 224. VNA Health Center - Carol Stream
 350 S Schmale Rd Ste 150, Carol Stream, IL, 60188-2778
@@ -2023,18 +2031,20 @@ New Beginnings Church  -  6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 234. Greater Family Health  -  345 W Northwest Hwy
 345 W Northwest Hwy, Palatine, IL, 60067-2414
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026; HRSA Health Center Program  -  Last reviewed 07/2026
+📝 Source: Greater Family Health clinic page, https://greaterfamilyhealth.org/clinics/greater-family-health-palatine/, retrieved November 13, 2026. The page has a request-an-appointment link.
 📞 (855) 599-3700
 🏥 Services: Ryan White HIV/AIDS Program, Primary Care
-🌐 http://greaterfamilyhealth.org
-🗣 Languages: English Espa, English
+🌐 https://greaterfamilyhealth.org/clinics/greater-family-health-palatine/
+⏰ Hours: Mon - Thu 8:00 AM - 7:30 PM; Fri 8:00 AM - 5:00 PM; Sat 8:00 AM - 5:00 PM; Sun closed
 
 235. Greater Family Health  -  1515 E Lake St Ste 202
 1515 E Lake St Ste 202, Hanover Park, IL, 60133-7152
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026; HRSA Health Center Program  -  Last reviewed 07/2026
-🌐 http://www.greaterfamilyhealth.org
+📝 Source: Greater Family Health clinic page, https://greaterfamilyhealth.org/clinics/greater-family-health-hanover-park/, retrieved November 13, 2026. The page has a request-an-appointment link.
+🌐 https://greaterfamilyhealth.org/clinics/greater-family-health-hanover-park/
 📞 (844) 599-3700
-🏥 Services: Ryan White HIV/AIDS Program, Primary Care
-🗣 Languages: English Espa, English
+🏥 Services: Ryan White HIV/AIDS Program, Primary Care, Family Practice, Internal Medicine, Behavioral Health
+⏰ Hours: Mon - Fri 8:30 AM - 5:00 PM; Sat/Sun closed
 
 236. Legacy Medical Care - Hanover Park
 6620 Barrington Rd, Hanover Park, IL, 60133-3935
@@ -2053,10 +2063,11 @@ New Beginnings Church  -  6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 238. Greater Family Health  -  135 Irving Park Road
 135 Irving Park Road, Streamwood, IL, 60107
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026; HRSA Health Center Program  -  Last reviewed 07/2026
-🌐 http://www.greaterfamilyhealth.org
+📝 Source: Greater Family Health clinic page, https://greaterfamilyhealth.org/clinics/greater-family-health-streamwood/, retrieved November 13, 2026. The page has a request-an-appointment link.
+🌐 https://greaterfamilyhealth.org/clinics/greater-family-health-streamwood/
 📞 (844) 599-3700
 🏥 Services: Ryan White HIV/AIDS Program, Primary Care
-🗣 Languages: English Espa, English
+⏰ Hours: Mon - Thu 8:00 AM - 7:30 PM; Fri 8:00 AM - 5:00 PM; Sat 8:00 AM - 5:00 PM; Sun closed
 
 239. VNA Health Center - Elgin Villa
 801 Villa St, Elgin, IL, 60120
@@ -2097,18 +2108,20 @@ New Beginnings Church  -  6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 244. Greater Family Health  -  373 Summit St
 373 Summit St, Elgin, IL, 60120-3733
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026; HRSA Health Center Program  -  Last reviewed 07/2026
-🌐 http://www.greaterfamilyhealth.org
+📝 Source: Greater Family Health clinic page, https://greaterfamilyhealth.org/clinics/373-summit-st/, retrieved November 13, 2026. The page has a request-an-appointment link.
+🌐 https://greaterfamilyhealth.org/clinics/373-summit-st/
 📞 (844) 599-3700
-🏥 Services: Ryan White HIV/AIDS Program, Primary Care
-🗣 Languages: English Espa, English
+🏥 Services: Ryan White HIV/AIDS Program, Primary Care, Family Practice, Internal Medicine, Behavioral Health
+⏰ Hours: Mon 6:00 AM - 7:30 PM; Tue - Thu 8:00 AM - 7:30 PM; Fri 8:00 AM - 5:00 PM; Sat 8:00 AM - 5:00 PM; Sun closed
 
 245. Greater Family Health  -  450 Dundee Ave
 450 Dundee Ave, Elgin, IL, 60120-4205
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🌐 http://www.greaterfamilyhealth.org
+📝 Source: Greater Family Health clinic page, https://greaterfamilyhealth.org/clinics/greater-family-health-elgin-450-dundee-ave/, retrieved November 13, 2026. The page has a request-an-appointment link.
+🌐 https://greaterfamilyhealth.org/clinics/greater-family-health-elgin-450-dundee-ave/
 📞 (844) 599-3700
 🏥 Services: Primary Care
-🗣 Languages: English Espa, English
+⏰ Hours: Mon - Thu 8:00 AM - 7:30 PM; Fri 8:00 AM - 5:00 PM; Sat 8:00 AM - 5:00 PM; Sun closed
 
 246. CARPENTERSVILLE COMMUNITY HEALTH CENTER
 3003 WAKEFIELD BLVD., CARPENTERSVILLE, IL, 60110-2422
@@ -2196,10 +2209,11 @@ New Beginnings Church  -  6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 257. Greater Family Health  -  1435 N Randall Rd Ste 408
 1435 N Randall Rd Ste 408, Elgin, IL, 60123-2305
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026; HRSA Health Center Program  -  Last reviewed 07/2026
-🌐 http://www.greaterfamilyhealth.org
+📝 Source: Greater Family Health clinic page, https://greaterfamilyhealth.org/clinics/greater-family-health-elgin-1435-n-randall-rd/, retrieved November 13, 2026. The page has a request-an-appointment link.
+🌐 https://greaterfamilyhealth.org/clinics/greater-family-health-elgin-1435-n-randall-rd/
 📞 (844) 599-3700
 🏥 Services: Ryan White HIV/AIDS Program, Primary Care
-🗣 Languages: English Espa, English
+⏰ Hours: Mon 3:00 PM - 7:30 PM; Tue - Sun closed
 
 258. Zion Health Center
 1911 27th St, Zion, IL, 60099-2542
@@ -2218,11 +2232,11 @@ New Beginnings Church  -  6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 260. Greater Family Health  -  3901 Mercy Dr
 3901 Mercy Dr, Mchenry, IL, 60050-3151
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026; HRSA Health Center Program  -  Last reviewed 07/2026
-🌐 http://www.greaterfamilyhealth.org
-⏰ Hours: HRSA 2025 site report: full-time, year-round, 64 hours per week.
+📝 Source: Greater Family Health clinic page, https://greaterfamilyhealth.org/clinics/greater-family-health-mchenry/, retrieved November 13, 2026. The page has a request-an-appointment link.
+🌐 https://greaterfamilyhealth.org/clinics/greater-family-health-mchenry/
+⏰ Hours: Mon - Thu 8:00 AM - 7:30 PM; Fri 8:00 AM - 5:00 PM; Sat 8:00 AM - 5:00 PM; Sun closed
 📞 (844) 599-3700
 🏥 Services: Ryan White HIV/AIDS Program, Primary Care
-🗣 Languages: English Espa, English
 
 261. Kankakee Community Health Center
 1777 E. Court Street, Kankakee, IL, 60901-2670
@@ -2242,11 +2256,11 @@ New Beginnings Church  -  6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 263. Greater Family Health  -  165 E Plank Rd
 165 E Plank Rd, Sycamore, IL, 60178-8757
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026; HRSA Health Center Program  -  Last reviewed 07/2026
-🌐 http://www.greaterfamilyhealth.org
-⏰ Hours: HRSA 2025 site report: full-time, year-round, 64 hours per week.
+📝 Source: Greater Family Health clinic page, https://greaterfamilyhealth.org/clinics/greater-family-health-sycamore/, retrieved November 13, 2026. The page has a request-an-appointment link.
+🌐 https://greaterfamilyhealth.org/clinics/greater-family-health-sycamore/
+⏰ Hours: Mon - Thu 8:00 AM - 7:30 PM; Fri 8:00 AM - 5:00 PM; Sat 8:00 AM - 5:00 PM; Sun closed
 📞 (844) 599-3700
 🏥 Services: Ryan White HIV/AIDS Program, Primary Care
-🗣 Languages: English Espa, English
 
 264. Greater Family Health  -  2550 N Annie Glidden Rd
 2550 N Annie Glidden Rd, Dekalb, IL, 60115-1389
@@ -2255,7 +2269,6 @@ New Beginnings Church  -  6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 ⏰ Hours: HRSA 2025 site report: part-time, year-round, 34 hours per week.
 📞 (844) 599-3700
 🏥 Services: Ryan White HIV/AIDS Program, Primary Care
-🗣 Languages: English Espa, English
 
 265. Susana P. Castro Health Center - Dental Clinic
 62 N Ayer Street, Suites C & D, Harvard, IL, 60033-2871
@@ -2415,10 +2428,11 @@ New Beginnings Church  -  6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 287. GREATER FAMILY HEALTH
 10225 Grand Ave, Franklin Park, IL, 60131-3138
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026
+📝 Source: Greater Family Health clinic page, https://greaterfamilyhealth.org/clinics/greater-family-health-franklin-park/, retrieved November 13, 2026. The page has a request-an-appointment link.
 📞 (844) 599-3700
-🏥 Services: Ryan White HIV/AIDS Program care and support services (HIV medical care, Case Management, and related HAB-funded supports)
-🌐 http://greaterfamilyhealth.org
-🗣 Languages: English Espa, English
+🏥 Services: Ryan White HIV/AIDS Program care and support services (HIV medical care, Case Management, and related HAB-funded supports), Family Practice, Pediatrics, Obstetrics / Gynecology, Behavioral Health
+🌐 https://greaterfamilyhealth.org/clinics/greater-family-health-franklin-park/
+⏰ Hours: Mon - Thu 8:00 AM - 7:30 PM; Fri 8:00 AM - 5:00 PM; Sat 8:00 AM - 5:00 PM; Sun closed
 
 288. BLUE ISLAND HEALTH CENTER
 12757 Western Ave, Blue Island, IL, 60406-2155
@@ -4396,10 +4410,12 @@ W 15th Pl & S California Ave, Chicago, IL 60608
 
 587. Esperanza Little Village
 3059 West 26th Street, Chicago, IL 60623
-🌐 https://www.esperanzachicago.org
+🌐 https://www.esperanzachicago.org/location/esperanza-little-village
 🏥 Services: Mental Health
 📞 (773) 584-6200
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+📝 Source: Esperanza Little Village location page, https://www.esperanzachicago.org/location/esperanza-little-village, retrieved November 13, 2026. Call (773) 584-6200 to make an appointment. Closed on the holidays listed on that page.
+⏰ Hours: Mon - Wed 7:15 AM - 5:30 PM; Thu 8:45 AM - 6:00 PM; Fri 7:15 AM - 4:30 PM; Sat 7:30 AM - 4:00 PM; Sun closed
 
 588. Lawndale Christian Health Center - Farragut
 3256 West 24th Street, Chicago, IL 60623
@@ -4602,10 +4618,12 @@ W 15th Pl & S California Ave, Chicago, IL 60608
 
 615. Greater Family Health - Palatine
 345 West NW Highway, Palatine, IL 60067
-🌐 https://www.greaterfamilyhealth.org
+🌐 https://greaterfamilyhealth.org/clinics/greater-family-health-palatine/
 🏥 Services: Mental Health
 📞 (844) 599-3700
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+📝 Source: Greater Family Health clinic page, https://greaterfamilyhealth.org/clinics/greater-family-health-palatine/, retrieved November 13, 2026. The page has a request-an-appointment link.
+⏰ Hours: Mon - Thu 8:00 AM - 7:30 PM; Fri 8:00 AM - 5:00 PM; Sat 8:00 AM - 5:00 PM; Sun closed
 
 616. Compass Health Center - Oakbrook
 750 Oakmont Lane, Westmont, IL 60559
@@ -4893,10 +4911,12 @@ W 15th Pl & S California Ave, Chicago, IL 60608
 
 656. Greater Family Health - Franklin Park
 10225 Grand Avenue, Franklin Park, IL 60131
-🌐 https://www.greaterfamilyhealth.org
-🏥 Services: Mental Health
+🌐 https://greaterfamilyhealth.org/clinics/greater-family-health-franklin-park/
+🏥 Services: Mental Health, Family Practice, Pediatrics, Obstetrics / Gynecology, Behavioral Health
 📞 (844) 599-3700
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+📝 Source: Greater Family Health clinic page, https://greaterfamilyhealth.org/clinics/greater-family-health-franklin-park/, retrieved November 13, 2026. The page has a request-an-appointment link.
+⏰ Hours: Mon - Thu 8:00 AM - 7:30 PM; Fri 8:00 AM - 5:00 PM; Sat 8:00 AM - 5:00 PM; Sun closed
 
 657. Sinnissippi Centers Inc
 524 West Stephenson Lane, Suite 340, Freeport, IL 61032
@@ -5104,10 +5124,12 @@ W 15th Pl & S California Ave, Chicago, IL 60608
 
 686. Greater Family Health - Hanover Park
 1515 East Lake Street, Suite 202, Hanover Park, IL 60133
-🌐 https://www.greaterfamilyhealth.org
-🏥 Services: Mental Health
+🌐 https://greaterfamilyhealth.org/clinics/greater-family-health-hanover-park/
+🏥 Services: Mental Health, Family Practice, Internal Medicine, Behavioral Health
 📞 (844) 599-3700
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+📝 Source: Greater Family Health clinic page, https://greaterfamilyhealth.org/clinics/greater-family-health-hanover-park/, retrieved November 13, 2026. The page has a request-an-appointment link.
+⏰ Hours: Mon - Fri 8:30 AM - 5:00 PM; Sat/Sun closed
 
 687. Community Resource Center
 421 West Main Street, Vandalia, IL 62471
@@ -6333,10 +6355,12 @@ P.O. Box 1047, Effingham, IL 62401
 
 861. Greater Family Health - Sycamore
 165 East Plank Road, Sycamore, IL 60178
-🌐 https://www.greaterfamilyhealth.org
+🌐 https://greaterfamilyhealth.org/clinics/greater-family-health-sycamore/
 🏥 Services: Mental Health
 📞 (844) 599-3700
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+📝 Source: Greater Family Health clinic page, https://greaterfamilyhealth.org/clinics/greater-family-health-sycamore/, retrieved November 13, 2026. The page has a request-an-appointment link.
+⏰ Hours: Mon - Thu 8:00 AM - 7:30 PM; Fri 8:00 AM - 5:00 PM; Sat 8:00 AM - 5:00 PM; Sun closed
 
 862. Braden Counseling Center
 1815 Mediterranean Drive, Suite 102, Sycamore, IL 60178
