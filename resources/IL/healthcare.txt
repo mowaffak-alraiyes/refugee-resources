@@ -378,37 +378,41 @@
 43. LCHC Health & Fitness - 3750
 3750 W Ogden Ave, Chicago, IL 60623-2426
 📝 HRSA database - Last reviewed April 2025; Ryan White HIV/AIDS Program (HRSA HAB) provider. Source: data.hrsa.gov Ryan White HIV/AIDS Care sites, updated 12/19/2024.
+📝 Source: Lawndale Christian Health Center locations page, https://lawndale.org/locations, retrieved November 12, 2026.
 🌐 https://lawndale.org
 📞 (872) 588-3000
 🗣 Languages: English, Spanish
-🏥 Services: Ryan White HIV/AIDS Program; Women’s health (OB/GYN), Pediatrics, Family Dental Clinic, On-Site Lab
+🏥 Services: Ryan White HIV/AIDS Program; Women’s health (OB/GYN), Pediatrics, Family Dental Clinic, On-Site Lab, Behavioral Health
 ⏰ Hours: Mon 7:15am - 7:00pm; Tue - Fri 7:15am - 5:00pm; Dental: Mon/Wed/Fri 7:00am - 5:00pm; Tue/Thu 7:00am - 7:00pm; Sat/Sun closed
 
 44. LCHC at 3745
 3745 W Ogden Ave, Chicago, IL 60623-2427
 📝 HRSA database - Last reviewed April 2025
+📝 Source: Lawndale Christian Health Center locations page, https://lawndale.org/locations, retrieved November 12, 2026.
 🌐 https://lawndale.org
 📞 (872) 588-3183
 🗣 Languages: English, Spanish
 🏥 Services: Senior Day Services (SDS) and PACE elderly care program
-⏰ Hours: No public clinic hours (services by schedule for seniors)
+⏰ Hours: Mon - Fri 9:00 AM - 3:00 PM; Sat/Sun closed
 
 45. LCHC at 3910
 3910 W Ogden Ave, Chicago, IL 60623-2470
 📝 HRSA database - Last reviewed April 2025
+📝 Source: Lawndale Christian Health Center locations page, https://lawndale.org/locations, retrieved November 12, 2026.
 🌐 https://lawndale.org
 📞 (872) 588-3000
 🗣 Languages: English, Spanish
 🏥 Services: Immediate Care (urgent care for minor illness/injury), On-site pharmacy
-⏰ Hours: Mon - Fri 8:00am - 7:30pm; Sat/Sun closed; Pharmacy: Mon - Sat 9:00am - 5:00pm; Sun closed
+⏰ Hours: Mon - Fri 8:00 AM - 7:30 PM; Sat/Sun closed; Pharmacy: Mon - Sat 9:00 AM - 5:00 PM; Sun closed; last Friday of every month 9:30 AM - 7:30 PM
 
 46. LCHC at Archer Avenue
 5122 S Archer Ave, Chicago, IL 60632-4508
 📝 HRSA database - Last reviewed April 2025
+📝 Source: Lawndale Christian Health Center locations page, https://lawndale.org/locations, retrieved November 12, 2026.
 🌐 https://lawndale.org
 📞 (872) 588-3000
 🗣 Languages: English, Spanish
-🏥 Services: Adult/internal medicine, Pediatrics, Women’s & prenatal care, Vaccinations, On-Site Lab
+🏥 Services: Adult/internal medicine, Pediatrics, Women’s & prenatal care, Vaccinations, On-Site Lab, Behavioral Health
 ⏰ Hours: Mon 8:30am - 5:00pm; Tue 8:30am - 7:00pm; Wed - Fri 8:30am - 5:00pm; Sat/Sun closed
 
 47. LCHC at Bobby E. Wright
@@ -441,11 +445,12 @@
 50. LCHC at Farragut Academy
 3256 W 24th St, Chicago, IL 60623-3407
 📝 HRSA database - Last reviewed April 2025
+📝 Source: Lawndale Christian Health Center locations page, https://lawndale.org/locations, retrieved November 12, 2026.
 🌐 https://lawndale.org
 📞 (872) 588-3000
 🗣 Languages: English, Spanish
-🏥 Services: School-based primary healthcare for students
-⏰ Hours: Mon - Fri 8:30am - 5:00pm; Sat/Sun closed
+🏥 Services: School-based primary healthcare for students, Adult Health, Behavioral Health, Children's Health, Women's and prenatal care
+⏰ Hours: Mon 8:30 AM - 5:00 PM; Tue 8:30 AM - 7:00 PM; Wed - Fri 8:30 AM - 5:00 PM; Sat/Sun closed
 
 51. LCHC at Franciscan Harrison
 2715 W Harrison St, Chicago, IL 60612-3422
@@ -459,10 +464,11 @@
 52. LCHC at Garfield Park FamilyPlex
 3219 W Carroll Ave FL 1, Chicago, IL 60624-2031
 📝 HRSA database - Last reviewed April 2025
+📝 Source: Lawndale Christian Health Center locations page, https://lawndale.org/locations, retrieved November 12, 2026.
 🌐 https://lawndale.org
 📞 (872) 588-3000
 🗣 Languages: English, Spanish
-🏥 Services: Family Practice, Internal Medicine, Pediatrics, OB/GYN, Prenatal care
+🏥 Services: Family Practice, Internal Medicine, Pediatrics, OB/GYN, Prenatal care, Behavioral Health, HIV Care
 ⏰ Hours: Mon 8:30am - 5:00pm; Tue 8:30am - 7:00pm; Wed - Fri 8:30am - 5:00pm; Sat/Sun closed
 
 53. LCHC at Habilitative Systems
@@ -972,83 +978,92 @@
 109. Erie Amundsen School Based Health Center
 5110 N Damen Ave, Chicago, IL 60625-1317
 📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
+📝 Source: Erie Family Health Centers location page, retrieved November 12, 2026. The page says this office accepts Medicaid and many private plans, and offers a sliding fee scale based on income.
 🌐 https://www.eriefamilyhealth.org/locations/amundsen/
 📞 (312) 666-3494
 🗣 Languages: English, Spanish
 🏥 Services: Behavioral Health / Counseling, Health and Wellness Programs, Teen Health Services, Substance Use Services, Telehealth
-⏰ Hours: Mon, Tue, Thu, Fri 8:00 AM - 4:30 PM; Wed 10:00 AM - 4:30 PM; Sat - Sun Closed
+⏰ Hours: Mon, Tue, Thu, Fri 8:00 AM - 4:30 PM; Wed 10:00 AM - 4:30 PM; Sat - Sun Closed; also closed when the school is closed
 
 110. Erie Clemente Wildcats Student Health Center
 1147 N Western Ave, Chicago, IL 60622-2931
 📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
+📝 Source: Erie Family Health Centers location page, retrieved November 12, 2026. The page says this office accepts Medicaid and many private plans, and offers a sliding fee scale based on income.
 🌐 https://www.eriefamilyhealth.org/locations/clemente/
 📞 (773) 394-8821
 🗣 Languages: English, Spanish
 🏥 Services: Behavioral Health / Counseling, Health and Wellness Programs, Teen Health Services, Substance Use Services, Telehealth
-⏰ Hours: Mon, Tue, Thu, Fri 8:00 AM - 4:30 PM; Wed 10:00 AM - 4:30 PM; Sat - Sun Closed
+⏰ Hours: Mon, Tue, Thu, Fri 8:00 AM - 4:30 PM; Wed 10:00 AM - 4:30 PM; Sat - Sun Closed; also closed when the school is closed
 
 111. Erie Division Street Health Center
 2418 W Division St, Chicago, IL 60622-2940
 📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
+📝 Source: Erie Family Health Centers location page, retrieved November 12, 2026. The page says this office accepts Medicaid and many private plans, and offers a sliding fee scale based on income.
 🌐 https://www.eriefamilyhealth.org/locations/division/
 📞 (312) 432-7394
 🗣 Languages: English, Spanish
-🏥 Services: Children’s, Adult and Senior Health, Teen Health, Reproductive Health, Family Planning and Prenatal Care, Behavioral Health / Counseling, Health and Wellness Programs, Case and Care Management, Substance Use Services, Medication Assisted Treatment Program, Covid-19 Testing for Patients, Telehealth
-⏰ Hours: Mon, Tue, Thu, Fri 8:30 AM - 5:30 PM; Wed 10:00 AM - 5:30 PM; Sat - Sun Closed
+🏥 Services: Children’s, Adult and Senior Health, Teen Health, Reproductive Health, Family Planning and Prenatal Care, Behavioral Health / Counseling, Health and Wellness Programs, Case and Care Management, Substance Use Services, Medication Assisted Treatment Program, Covid-19 Testing for Patients, Telehealth, WIC
+⏰ Hours: Mon, Tue, Thu, Fri 8:30 AM - 5:30 PM; Wed 10:00 AM - 7:00 PM; Sat - Sun Closed
 
 112. Erie Foster Avenue Health Center
 5215 N California Ave STE F700, Chicago, IL 60625-8562
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026; Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
+📝 Source: Erie Family Health Centers location page, retrieved November 12, 2026. The page says this office accepts Medicaid and many private plans, and offers a sliding fee scale based on income.
 🌐 https://www.eriefamilyhealth.org/locations/foster/
 📞 (312) 666-3494
 🗣 Languages: English, Spanish
-🏥 Services: Ryan White HIV/AIDS Program, Children’s, Adult and Senior Health, Teen Health, Reproductive Health, Family Planning and Prenatal Care, Oral Health, Behavioral Health / Counseling, Hepatitis C Management and Treatment, HIV/AIDS Specialized Services, Health and Wellness Programs, Case and Care Management, Substance Use Services, Medication Assisted Treatment Program, Covid-19 Testing for Patients, Telehealth
-⏰ Hours: Mon, Tue, Thu, Fri 8:30 AM - 5:30 PM; Wed 10:00 AM - 7:00 PM; Sat 10:00 AM - 2:00 PM; Sun Closed
+🏥 Services: Ryan White HIV/AIDS Program, Children’s, Adult and Senior Health, Teen Health, Reproductive Health, Family Planning and Prenatal Care, Oral Health, Behavioral Health / Counseling, Hepatitis C Management and Treatment, HIV/AIDS Specialized Services, Health and Wellness Programs, Case and Care Management, Substance Use Services, Medication Assisted Treatment Program, Covid-19 Testing for Patients, Telehealth, WIC
+⏰ Hours: Mon, Tue, Thu, Fri 8:30 AM - 5:30 PM; Wed 10:00 AM - 7:00 PM; Sat 10:00 AM - 2:00 PM; Sun Closed; call for current dental hours
 
 113. Erie Helping Hands Health Center
 4747 N Kedzie Ave, Chicago, IL 60625-4420
 📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
+📝 Source: Erie Family Health Centers location page, retrieved November 12, 2026. The page says this office accepts Medicaid and many private plans, and offers a sliding fee scale based on income.
 🌐 https://www.eriefamilyhealth.org/locations/helping-hands/
 📞 (312) 666-3494
 🗣 Languages: English, Spanish
 🏥 Services: Children’s, Adult and Senior Health, Teen Health, Reproductive Health, Family Planning and Prenatal Care, Behavioral Health / Counseling, Health and Wellness Programs, Case and Care Management, Substance Use Services, Medication Assisted Treatment Program, Covid-19 Testing for Patients, Telehealth
-⏰ Hours: Mon, Thu, Fri 8:30 AM - 5:30 PM; Tue 7:00 AM - 8:00 PM; Wed 10:00 AM - 7:00 PM; Sat - Sun Closed
+⏰ Hours: Mon, Tue, Thu, Fri 8:30 AM - 5:30 PM; Wed 10:00 AM - 7:00 PM; Sat - Sun Closed
 
 114. Erie Humboldt Park Health Center
 2750 W North Ave, Chicago, IL 60647-5247
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026; Last verified: 08/2025
+📝 Source: Erie Family Health Centers location page, retrieved November 12, 2026. The page says this office accepts Medicaid and many private plans, and offers a sliding fee scale based on income.
 🌐 https://www.eriefamilyhealth.org/locations/humboldt/
 📞 (312) 666-3493
 🗣 Languages: English, Spanish
 🏥 Services: Ryan White HIV/AIDS Program, Children’s, Adult and Senior Health, Teen Health, Reproductive Health, Family Planning and Prenatal Care, Oral Health, Behavioral Health / Counseling, HIV/AIDS Care, PrEP Navigation Services, Health and Wellness Programs, Case and Care Management, WIC Services, Substance Use Services, Medication Assisted Treatment Program, Covid-19 Testing for Patients, Telehealth
-⏰ Hours: Mon, Tue, Thu, Fri 8:30 AM - 5:30 PM; Wed 10:00 AM - 7:00 PM; Sat 10:00 AM - 2:00 PM; Sun Closed
+⏰ Hours: Mon, Tue, Thu, Fri 8:30 AM - 5:30 PM; Wed 10:00 AM - 7:00 PM; Sat 10:00 AM - 2:00 PM; Sun Closed; call for current dental hours
 
 115. Erie Johnson School-Based Health Center
 1504 S Albany Ave, Chicago, IL 60623-2209
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026; Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
+📝 Source: Erie Family Health Centers location page, retrieved November 12, 2026. The page says this office accepts Medicaid and many private plans, and offers a sliding fee scale based on income.
 🌐 https://www.eriefamilyhealth.org/locations/johnson/
 📞 (312) 666-3494
 🗣 Languages: English, Spanish
-🏥 Services: Ryan White HIV/AIDS Program, Behavioral Health / Counseling, Health and Wellness Programs, Teen Health Services, Substance Use Services, Telehealth
+🏥 Services: Ryan White HIV/AIDS Program, Behavioral Health / Counseling, Health and Wellness Programs, Teen Health Services, Substance Use Services, Telehealth, Adult and Senior Health, Children's Health
 ⏰ Hours: Mon, Tue, Thu, Fri 8:00 AM - 4:30 PM; Wed 10:00 AM - 4:30 PM; Sat - Sun Closed
 
 116. Erie Lake View School Based Health Center
 4015 N Ashland Ave, Chicago, IL 60613-2593
 📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
+📝 Source: Erie Family Health Centers location page, retrieved November 12, 2026. The page says this office accepts Medicaid and many private plans, and offers a sliding fee scale based on income.
 🌐 https://www.eriefamilyhealth.org/locations/lake-view/
 📞 (312) 666-3494
 🗣 Languages: English, Spanish
 🏥 Services: Behavioral Health / Counseling, Health and Wellness Programs, Teen Health Services, Substance Use Services, Telehealth
-⏰ Hours: Mon, Tue, Thu, Fri 8:00 AM - 4:30 PM; Wed 10:00 AM - 4:30 PM; Sat - Sun Closed
+⏰ Hours: Mon, Tue, Thu, Fri 8:00 AM - 4:30 PM; Wed 10:00 AM - 4:30 PM; Sat - Sun Closed; also closed when the school is closed
 
 117. Erie West Town Health Center
 1701 W Superior St, Chicago, IL 60622-5646
 📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
+📝 Source: Erie Family Health Centers location page, retrieved November 12, 2026. The page says this office accepts Medicaid and many private plans, and offers a sliding fee scale based on income.
 🌐 https://www.eriefamilyhealth.org/locations/west-town/
 📞 (312) 666-3494
 🗣 Languages: English, Spanish
-🏥 Services: Children’s, Adult and Senior Health, Teen Health, Reproductive Health, Family Planning and Prenatal Care, Behavioral Health / Counseling, Health and Wellness Programs, Case and Care Management, Substance Use Services, Medication Assisted Treatment Program, Covid-19 Testing for Patients, Telehealth, Ryan White HIV/AIDS Program
-⏰ Hours: Mon, Thu, Fri 8:30 AM - 5:30 PM; Tue 8:30 AM - 7:30 PM; Wed 10:00 AM - 7:00 PM; Sat - Sun Closed
+🏥 Services: Children’s, Adult and Senior Health, Teen Health, Reproductive Health, Family Planning and Prenatal Care, Behavioral Health / Counseling, Health and Wellness Programs, Case and Care Management, Substance Use Services, Medication Assisted Treatment Program, Covid-19 Testing for Patients, Telehealth, Ryan White HIV/AIDS Program, WIC
+⏰ Hours: Mon, Tue, Thu, Fri 8:30 AM - 5:30 PM; Wed 10:00 AM - 7:00 PM; Sat - Sun Closed
 
 118. PRIMECARE Fullerton
 3924 W Fullerton Ave, Chicago, IL 60647-2228
@@ -1565,11 +1580,11 @@ New Beginnings Church  -  6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 177. Erie Westside Health Center at Laura S. Ward Elementary
 646 N Lawndale Ave, Chicago, IL, 60624-1254
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🌐 http://www.eriefamilyhealth.org
+📝 Serves students at the school and people of all ages. Source: Erie Family Health Centers location page, retrieved November 12, 2026. The page says this office accepts Medicaid and many private plans, and offers a sliding fee scale based on income.
+🌐 https://www.eriefamilyhealth.org/locations/westside/
 📞 (312) 666-3494
-🏥 Services: Primary Care
-🗣 Languages: They Speak, English
-⏰ Hours: Monday: 8:00 AM - 5:30 PM
+🏥 Services: Primary Care, Adult and Senior Health, Children and Teen Health, Reproductive Health, Family Planning and Prenatal Care, Behavioral Health and Counseling, Substance Use Treatment, Health and Wellness Programs
+⏰ Hours: Mon, Tue, Thu, Fri 8:00 AM - 4:30 PM; Wed 10:00 AM - 4:30 PM; Sat - Sun Closed
 
 178. LCHC at American Islamic College-KLEO
 640 W Irving Park Rd  RM 1, Chicago, IL, 60613-3106
@@ -1582,10 +1597,12 @@ New Beginnings Church  -  6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 179. LCHC at the Gallery
 3824 W Ogden Ave Fl 1, Chicago, IL, 60623-2458
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 Location page phone: (872) 588-3290. Source: Lawndale Christian Health Center locations page, https://lawndale.org/locations, retrieved November 12, 2026.
 🌐 http://lawndale.org
 📞 (872) 588-3000
-🏥 Services: Primary Care
+🏥 Services: Primary Care, Substance use disorder clinic, Recovery community
 🗣 Languages: English
+⏰ Hours: Mon - Fri 9:00 AM - 5:00 PM; Sat/Sun closed
 
 180. PCC Collaborative Bridges Health Center
 4221 W Lake St, Chicago, IL, 60624-1707
@@ -1597,11 +1614,11 @@ New Beginnings Church  -  6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 181. Erie Sankofa Village Health Center
 4305 W Madison St, Chicago, IL, 60624-2224
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 Source: Erie Family Health Centers location page, retrieved November 12, 2026. The page says this office accepts Medicaid and many private plans, and offers a sliding fee scale based on income.
 📞 (312) 666-3494
-🏥 Services: Primary Care
-🌐 https://www.eriefamilyhealth.org
-🗣 Languages: They Speak, English
-⏰ Hours: Monday: 8:00 AM - 5:30 PM
+🏥 Services: Primary Care, Adult and Senior Health, Children's Health, Teen Health, Reproductive Health and Family Planning, Prenatal Care, Health and Wellness Programs, Case and Care Management, WIC, Oral Health, Behavioral Health and Counseling, Substance Use Treatment
+🌐 https://www.eriefamilyhealth.org/locations/sankofavillage/
+⏰ Hours: Mon, Tue, Thu, Fri 8:30 AM - 5:30 PM; Wed 10:00 AM - 7:00 PM; Sat - Sun Closed; call for dental hours
 
 182. Sunnyside Health Center
 4140 N Broadway St, Chicago, IL, 60613-2121
@@ -1757,11 +1774,11 @@ New Beginnings Church  -  6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 202. Erie Evanston/Skokie Health Center
 1285 Hartrey, Evanston, IL, 60202-1056
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🌐 http://www.eriefamilyhealth.org
-📞 (312) 666-3494
-🏥 Services: Primary Care
-🗣 Languages: They Speak, English
-⏰ Hours: Monday: 8:00 AM - 5:30 PM
+📝 Source: Erie Family Health Centers location page, retrieved November 12, 2026. The page says this office accepts Medicaid and many private plans, and offers a sliding fee scale based on income.
+🌐 https://www.eriefamilyhealth.org/locations/evanston/
+📞 (847) 666-3494
+🏥 Services: Primary Care, Adult and Senior Health, Children's Health, Teen Health, Oral Health, Health and Wellness Programs, Case and Care Management, Reproductive Health and Family Planning, Prenatal Care, Behavioral Health and Counseling, Substance Use Treatment
+⏰ Hours: Mon, Tue, Thu, Fri 8:30 AM - 5:30 PM; Wed 10:00 AM - 7:00 PM; Sat 10:00 AM - 2:00 PM; Sun Closed; call for current dental hours. Saturday appointments moved to Erie Foster Avenue on November 1
 
 203. Hamdard Health Skokie
 4159 Main St, Skokie, IL, 60076-2780
@@ -2118,11 +2135,11 @@ New Beginnings Church  -  6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 249. Erie Waukegan Health Center
 2323 Grand Ave, Waukegan, IL, 60085-3312
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
-📞 (312) 666-3494
-🏥 Services: Primary Care
-🌐 https://www.eriefamilyhealth.org
-🗣 Languages: They Speak, English
-⏰ Hours: Monday: 8:00 AM - 5:30 PM
+📝 Medical and dental care. Source: Erie Family Health Centers location page, retrieved November 12, 2026. The page says this office accepts Medicaid and many private plans, and offers a sliding fee scale based on income.
+📞 (847) 666-3494
+🏥 Services: Primary Care, Adult and Senior Health, Children's Health, Teen Health, Reproductive Health, Family Planning, and Prenatal Care, Oral Health, Behavioral Health and Counseling, Substance Use Treatment, Health and Wellness Programs, Case and Care Management, Medication Assisted Treatment, COVID-19 Testing for Patients
+🌐 https://www.eriefamilyhealth.org/locations/waukegan/
+⏰ Hours: Mon, Tue, Thu, Fri 8:30 AM - 5:30 PM; Wed 10:00 AM - 7:00 PM; Sat 10:00 AM - 2:00 PM; Sun Closed; call for current dental hours
 
 250. Association for Individual Development - Bowes Road
 1135 Bowes Road, Elgin, IL, 60123
@@ -3941,16 +3958,20 @@ W 15th Pl & S California Ave, Chicago, IL 60608
 524. Lawndale Christian Health Center - Homan Square Clinic
 3517 West Arthington Street, Chicago, IL 60624
 🌐 https://lawndale.org
-🏥 Services: Mental Health
+🏥 Services: Mental Health, Adult Health, Children's Health, Dental
 📞 (872) 588-3000
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+📝 Source: Lawndale Christian Health Center locations page, https://lawndale.org/locations, retrieved November 12, 2026.
+⏰ Hours: Mon - Tue 7:15 AM - 7:00 PM; Wed - Fri 8:30 AM - 5:00 PM; Sat/Sun closed
 
 525. Lawndale Christian Health Center - Breakthrough Clinic
 3219 West Carroll Avenue, Chicago, IL 60624
 🌐 https://lawndale.org
-🏥 Services: Mental Health
+🏥 Services: Mental Health, Adult Health, Behavioral Health, Children's Health, HIV Care
 📞 (872) 588-3000
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+📝 Source: Lawndale Christian Health Center locations page, https://lawndale.org/locations, retrieved November 12, 2026.
+⏰ Hours: Mon 8:30 AM - 5:00 PM; Tue 8:30 AM - 7:00 PM; Wed - Fri 8:30 AM - 5:00 PM; Sat/Sun closed
 
 526. Habilitative Systems Inc
 4133 West Madison Street, Chicago, IL 60624
@@ -4383,23 +4404,29 @@ W 15th Pl & S California Ave, Chicago, IL 60608
 588. Lawndale Christian Health Center - Farragut
 3256 West 24th Street, Chicago, IL 60623
 🌐 https://lawndale.org
-🏥 Services: Mental Health
+🏥 Services: Mental Health, Adult Health, Behavioral Health, Children's Health, Women's and prenatal care
 📞 (872) 588-3000
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+📝 Source: Lawndale Christian Health Center locations page, https://lawndale.org/locations, retrieved November 12, 2026.
+⏰ Hours: Mon 8:30 AM - 5:00 PM; Tue 8:30 AM - 7:00 PM; Wed - Fri 8:30 AM - 5:00 PM; Sat/Sun closed
 
 589. Lawndale Christian Health Center - Ogden Avenue
 3860 West Ogden Avenue, Chicago, IL 60623
 🌐 https://lawndale.org
-🏥 Services: Mental Health
+🏥 Services: Mental Health, Adult Health, Behavioral Health, Children's Health, HIV Care, Specialty Care
 📞 (872) 588-3000
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+📝 Source: Lawndale Christian Health Center locations page, https://lawndale.org/locations, retrieved November 12, 2026.
+⏰ Hours: Mon 8:30 AM - 7:00 PM; Tue 7:15 AM - 7:00 PM; Wed - Fri 7:15 AM - 5:00 PM; Sat 8:00 AM - 12:30 PM; Sun closed
 
 590. Lawndale Christian Health Center - Health and Fitness Center
 3750 West Ogden Avenue, Chicago, IL 60623
 🌐 https://lawndale.org
-🏥 Services: Mental Health
+🏥 Services: Mental Health, Women's and prenatal care, Behavioral Health, Children's Health, Dental
 📞 (872) 588-3000
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+📝 Source: Lawndale Christian Health Center locations page, https://lawndale.org/locations, retrieved November 12, 2026.
+⏰ Hours: Mon 7:15 AM - 7:00 PM; Tue - Fri 7:15 AM - 5:00 PM; Sat/Sun closed
 
 591. Trilogy Inc
 1400 West Greenleaf Avenue, Chicago, IL 60626
@@ -4447,9 +4474,11 @@ W 15th Pl & S California Ave, Chicago, IL 60608
 597. Lawndale Christian Health Center - Archer Ave
 5122 South Archer Avenue, Chicago, IL 60632
 🌐 https://lawndale.org
-🏥 Services: Mental Health
+🏥 Services: Mental Health, Adult Health, Behavioral Health, Children's Health, Women's and prenatal care
 📞 (872) 588-3000
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+📝 Source: Lawndale Christian Health Center locations page, https://lawndale.org/locations, retrieved November 12, 2026.
+⏰ Hours: Mon 8:30 AM - 5:00 PM; Tue 8:30 AM - 7:00 PM; Wed - Fri 8:30 AM - 5:00 PM; Sat/Sun closed
 
 598. Esperanza Brighton Park - Brighton Park North
 4700 South California Avenue, Chicago, IL 60632
@@ -10960,3 +10989,11 @@ P.O. Box 878, Urbana, IL 61803
 🏥 Services: Primary Care
 📞 (773) 268-7600
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
+
+1587. Lawndale Christian Health Center - Family and Senior Health Center
+3814 W Ogden Ave, Chicago, IL 60623
+🌐 https://lawndale.org/family-senior-health-center
+📞 (872) 588-3000
+🏥 Services: Adult Health, Behavioral Health, Children's Health, Senior Clinic, Optometry
+⏰ Hours: Mon - Fri 8:00 AM - 5:00 PM; Sat/Sun closed
+📝 Source: Lawndale Christian Health Center locations page, https://lawndale.org/locations, retrieved November 12, 2026.
