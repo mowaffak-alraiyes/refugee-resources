@@ -3006,8 +3006,9 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 
 507. Kheir Family & Pediatrics - Olympic
 2675 West Olympic Boulevard, Suite 103, Los Angeles, CA, 90006-2810
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.LAKheir.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care, Pediatrics
 📞 213-235-2500
 
 508. Wellness Center at Jefferson High School
@@ -4755,6 +4756,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 
 795. San Ysidro Health South Bay
 330/340 East 8th Street, National City, CA, 91950-9195
+📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 🏥 Services: Primary Care
 📞 619-662-4100
 
@@ -5770,6 +5772,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 
 969. Kingsburg Community Health Center
 121 W Sierra St, Kingsburg, CA, 93631
+📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 🌐 https://www.vht.org
 🏥 Services: Primary Care
 📞 559-326-5320
@@ -6074,6 +6077,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 
 1019. Camarena Health - Los Banos
 2520 Pacheco Boulevard, Los Banos, CA, 93635-9403
+📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 🌐 https://www.camarenahealth.org
 🏥 Services: Primary Care
 📞 559-664-4000
@@ -6699,6 +6703,7 @@ MULTIPLE SITES EAST,CENTR,WEST, MARTINEZ, CA, 94553-4667
 
 1128. Maclay Wellness Center
 12451 W. Gain Street, Pacoima, CA, 91331-1642
+📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 🌐 https://WWW.NEVHC.ORG
 🏥 Services: Primary Care
 📞 818-897-2193
@@ -7673,13 +7678,6 @@ S Main St, Los Angeles, CA 90013-1319
 📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🏥 Services: Dental
 📞 (619) 662-4100
-
-1280. Kheir Family & Pediatrics - Olympic
-2675 W Olympic Blvd, Suite 103, Los Angeles, CA 90006-2880
-📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
-🏥 Services: Pediatrics
-📞 (213) 235-2500
-🌐 https://www.LAKheir.org
 
 1281. County Of Sacramento
 7001 A East Pkwy, Ste 600, Sacramento, CA 95823
@@ -13615,17 +13613,10 @@ Ampla Health North Plumas Medical, 1231 Plumas Street, Yuba City, CA 95991
 
 2130. Fred Browns Recovery Services Inc - Residential Facility
 270 West 14th Street, San Pedro, CA 90731
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 🌐 https://www.fredbrown.org
 🏥 Services: Mental Health
 📞 (310) 519-8723
-📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
-
-2131. Fred Browns Recovery Services Inc - Residential Facility
-270, 276, and 278 West 14th Street, San Pedro, CA 90731
-🌐 https://www.fredbrown.org
-🏥 Services: Mental Health
-📞 (310) 519-8723
-📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 
 2132. Guidance Center - San Pedro
 1360 West 6th Street, Suite 205, San Pedro, CA 90731
@@ -15193,23 +15184,16 @@ Ampla Health North Plumas Medical, 1231 Plumas Street, Yuba City, CA 95991
 
 2354. Lighthouse Treatment Inc
 1243 West Pearl Street, Anaheim, CA 92801
+📝 Substance use treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 🌐 https://lighthousetreatment.com
 🏥 Services: Substance use treatment, Mental Health
 📞 (888) 972-6212
-📝 Substance use treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 
 2355. Anaheim Lighthouse
 1300 West Pearl Street, Anaheim, CA 92801
 🌐 https://anaheimlighthouse.com
 🏥 Services: Substance use treatment
 📞 (714) 780-1174
-📝 Substance use treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
-
-2356. Lighthouse Treatment Inc
-1243.5 West Pearl Street, Anaheim, CA 92801
-🌐 https://lighthousetreatment.com
-🏥 Services: Substance use treatment, Mental Health
-📞 (888) 972-6212
 📝 Substance use treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 
 2357. Anaheim Lighthouse
@@ -21774,12 +21758,6 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 📞 (650) 991-2240
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
-3372. KINGSBURG COMMUNITY HEALTH CENTER
-121 Sierra St, Kingsburg, CA 93631-1732
-🏥 Services: Primary Care
-📞 (559) 326-5320
-📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
-
 3373. OMNI FAMILY HEALTH
 659 S Central Valley Hwy, Shafter, CA 93263-2790
 🏥 Services: Primary Care
@@ -21891,12 +21869,6 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 503 Olympic Blvd, Santa Monica, CA 90401
 🏥 Services: Primary Care
 📞 (310) 664-7901
-📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
-
-3391. SAN YSIDRO HEALTH SOUTH BAY
-330 E 8th St, National City, CA 91950-2312
-🏥 Services: Primary Care
-📞 (619) 662-4100
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 3392. HOWONQUET CLINIC
@@ -22945,12 +22917,6 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 📞 (323) 581-5120
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
-3566. MACLAY WELLNESS CENTER
-12451 Gain St, Pacoima, CA 91331-1642
-🏥 Services: Primary Care
-📞 (818) 897-2193
-📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
-
 3567. COMPLETE CARE COMMUNITY HEALTH CENTER-MONTEREY PAR
 941 S Atlantic Blvd, Ste 101, Monterey Park, CA 91754-4722
 🏥 Services: Primary Care
@@ -23951,12 +23917,6 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 📞 (877) 960-3426
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
-3733. CAMARENA HEALTH - LOS BANOS
-2520 E Pacheco Blvd, Los Banos, CA 93635-9403
-🏥 Services: Primary Care
-📞 (559) 664-4000
-📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
-
 3734. SACRAMENTO COMMUNITY CLINIC - SUNRISE
 2485 Sunrise Blvd, #A, Gold River, CA 95670-4344
 🏥 Services: Primary Care
@@ -24041,4 +24001,3 @@ State Highway 96 & CA-169, Hoopa, CA 95546-9213
 🏥 Services: Primary Care
 📞 (714) 805-7719
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
-

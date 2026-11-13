@@ -100,8 +100,9 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 
 15. Adult Dental and OMFS Clinic
 660 N. Bannock St  STE 7770, Denver, CO, 80204-4506
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
 🌐 https://www.denverhealth.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care, Dental
 📞 303-436-4949
 🗣 Languages: Spanish, Arabic, Polish, Urdu, Hindi, French, Ukrainian, Swahili, Korean, Vietnamese
 
@@ -192,6 +193,7 @@ CIVIC CTR APT, 25 E. 16TH AVE, DENVER, CO, 80202-5136
 
 29. Inner City Health Center
 3800 York St.Denver, CO 80205-3540, Denver, CO, 80205-3540
+📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 🌐 https://www.innercityhealth.org
 🏥 Services: Primary Care
 📞 303-296-1767
@@ -1494,13 +1496,6 @@ CU Anschutz Health and Wellness Center, 12348 E. Montview Blvd, Aurora, CO 80045
 🏥 Services: Mental health
 📞 (970) 221-0999
 🌐 https://www.turningpnt.org/
-
-233. Adult Dental and OMFS Clinic
-660 Bannock St, Denver, CO 80204-4506
-📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
-🏥 Services: Dental
-📞 (303) 436-4949
-🌐 https://www.denverhealth.org
 
 234. Denver Dept. Of Public Health And Enviro
 101 W Colfax Ave, Denver, CO 80202-5167
@@ -3983,12 +3978,6 @@ CU Anschutz Health and Wellness Center, 12348 E. Montview Blvd, Aurora, CO 80045
 📞 (970) 485-6826
 📝 Rural health clinic. Source: data.hrsa.gov CMS rural health clinics, retrieved 2026-10-13.
 
-603. INNER CITY HEALTH CENTER
-3800 N York St, Denver, CO 80205-3540
-🏥 Services: Primary Care
-📞 (303) 296-1767
-📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
-
 604. MARILLAC HEALTH
 510 29 Rd, #1-2, Grand Junction, CO 81504-5002
 🏥 Services: Primary Care
@@ -4514,4 +4503,3 @@ W 10th Ave & Dahlia St, Antonito, CO 81120-5010
 🏥 Services: Primary Care
 📞 (719) 344-6747
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
-

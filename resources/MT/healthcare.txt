@@ -310,6 +310,7 @@
 47. PHC - Creamery
 401 Railroad St W, Missoula, MT, 59802-4109
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 🌐 https://partnershiphealthcenter.org/
 🏥 Services: Primary Care
 ⏰ Hours: HRSA 2025 site report: full-time, year-round, 54.5 hours per week.
@@ -1831,12 +1832,6 @@ P.O Box 1587, Livingston, MT 59047
 📞 (406) 258-4789
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
-281. PHC CREAMERY
-401 West Railroad Street, Missoula, MT 59802-4178
-🏥 Services: Primary Care
-📞 (406) 258-4789
-📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
-
 282. BIGHORN VALLEY HEALTH CENTER
 10 4th Street West, Hardin, MT 59034-1804
 🏥 Services: Primary Care
@@ -1968,4 +1963,3 @@ P.O Box 1587, Livingston, MT 59047
 🏥 Services: Primary Care
 📞 (406) 241-5012
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
-

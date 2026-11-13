@@ -172,7 +172,8 @@
 
 27. Adult and Child Health - Garfield Park
 234 E Southern Ave, Indianapolis, IN, 46225-2121
-🏥 Services: Primary Care
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+🏥 Services: Primary Care, Mental Health
 📞 317-882-5122
 🌐 https://www.adultandchild.org
 🗣 Languages: Assistance, Amp, Auxiliary Aids Client, Patient Non
@@ -2245,13 +2246,6 @@
 🌐 https://theeshllc.com
 🏥 Services: Mental Health
 📞 (317) 683-0051
-📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
-
-349. Adult and Child Health - Garfield Park
-234 East Southern Avenue, Indianapolis, IN 46225
-🌐 https://www.adultandchild.org
-🏥 Services: Mental Health
-📞 (317) 882-5122
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 
 350. NewDay Center
@@ -6696,4 +6690,3 @@
 🏥 Services: Primary Care
 📞 (317) 455-2366
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
-

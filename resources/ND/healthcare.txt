@@ -323,10 +323,11 @@
 
 49. Dakota Boys and Girls Ranch - Western Plains
 1227 North 35th Street, Bismarck, ND 58501
-🌐 https://www.dakotaranch.org
-🏥 Services: Mental Health
-📞 (701) 224-1789
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+📝 Substance use treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+🌐 https://www.dakotaranch.org
+🏥 Services: Mental Health, Substance use treatment
+📞 (701) 224-1789
 
 50. CHI Saint Alexius Health - Archway Mental Health Services
 900 East Broadway Avenue, Bismarck, ND 58501
@@ -555,13 +556,6 @@ P.O. Box 5007, Minot, ND 58702
 🌐 https://www.heartview.org
 🏥 Services: Substance use treatment
 📞 (701) 222-0386
-📝 Substance use treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
-
-83. Dakota Boys and Girls Ranch - Western Plains
-1227 35th Street North, Bismarck, ND 58501
-🌐 https://www.dakotaranch.org
-🏥 Services: Substance use treatment, Mental Health
-📞 (701) 224-1789
 📝 Substance use treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 
 84. New Day Recovery Counseling
@@ -1092,4 +1086,3 @@ US-281 N, Cando, ND 58324-6365
 🏥 Services: Primary Care
 📞 (701) 352-4048
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
-

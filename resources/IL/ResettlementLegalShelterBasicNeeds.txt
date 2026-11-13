@@ -378,10 +378,11 @@ Chicago, IL (citywide hotline)
 
 49. Life Span Center for Legal Services and Advocacy
 70 E. Lake Street, Suite 600, Chicago, IL 60601
-🌐 https://www.life-span.org
-🏥 Services: Immigration legal services
-📞 (312) 408-1210
 📝 Areas of legal assistance: Removal hearings, U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
+📝 Source: U.S. Department of Justice, Recognition and Accreditation roster, report updated November 1, 2026, retrieved 2026-11-09.
+🌐 https://www.life-span.org
+🏥 Services: Immigration legal services, Immigration legal help
+📞 (312) 408-1210
 
 50. Mano a Mano Family Resource Center
 6 E. Main St, Round Lake Park, IL 60073
@@ -406,10 +407,11 @@ Chicago, IL (citywide hotline)
 
 53. National Immigrant Justice Center
 111 W. Jackson Blvd. , Suite 800, Chicago, IL 60604
-🌐 http://www.immigrantjustice.org
-🏥 Services: Immigration legal services, Employment authorization
-📞 (312) 660-1370
 📝 Areas of legal assistance: Adjustment of Status, Asylum applications, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, Habeas Corpus, NACARA, Naturalization/Citizenship, Removal hearings, Special Immigrant Juvenile Status, T visas, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
+📝 Source: U.S. Department of Justice, Recognition and Accreditation roster, report updated November 1, 2026, retrieved 2026-11-09.
+🌐 http://www.immigrantjustice.org
+🏥 Services: Immigration legal services, Employment authorization, Immigration legal help
+📞 (312) 660-1370
 
 54. North Suburban Legal Aid Clinic
 3500 Western Avenue, Suite 2A, Highland Park, IL 60035-2652
@@ -551,10 +553,11 @@ Chicago, IL (citywide hotline)
 
 74. Centro Romero
 6216 North Clark, Chicago, IL 60660
-🌐 http://www.centroromero.org
-🏥 Services: Immigration legal services, Employment authorization
-📞 (773) 508-5300
 📝 Areas of legal assistance: Adjustment of Status, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, NACARA, Naturalization/Citizenship, Temporary Protected Status (TPS) Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
+📝 Source: U.S. Department of Justice, Recognition and Accreditation roster, report updated November 1, 2026, retrieved 2026-11-09.
+🌐 http://www.centroromero.org
+🏥 Services: Immigration legal services, Employment authorization, Immigration legal help
+📞 (773) 508-5300
 
 75. Chicago-Kent College of Law - Immigration Clinic
 565 W. Adams St. , Suite. 600, Chicago, IL 60661
@@ -664,12 +667,6 @@ Chicago, IL (citywide hotline)
 📞 (630) 707-0898
 📝 Source: U.S. Department of Justice, Recognition and Accreditation roster, report updated November 1, 2026, retrieved 2026-11-09.
 
-92. Centro Romero
-6216 N. Clark Street, Chicago, IL 60660
-🏥 Services: Immigration legal help
-📞 (773) 508-5300
-📝 Source: U.S. Department of Justice, Recognition and Accreditation roster, report updated November 1, 2026, retrieved 2026-11-09.
-
 93. Chicago Workers Collaborative
 300 Grand Avenue, Waukegan, IL 60085
 🏥 Services: Immigration legal help
@@ -751,12 +748,6 @@ Chicago, IL (citywide hotline)
 📞 (773) 542-7011
 📝 Source: U.S. Department of Justice, Recognition and Accreditation roster, report updated November 1, 2026, retrieved 2026-11-09.
 
-107. Life Span Center for Legal Services and Advocacy
-70 East Lake Street, Suite 600, Chicago, IL 60601
-🏥 Services: Immigration legal help
-📞 (312) 408-1210
-📝 Source: U.S. Department of Justice, Recognition and Accreditation roster, report updated November 1, 2026, retrieved 2026-11-09.
-
 108. Life Span Center for Legal Services and Advocacy — Des Plaines Extension Office
 701 Lee Street, Suite 700, Des Plaines, IL 60016
 🏥 Services: Immigration legal help
@@ -779,12 +770,6 @@ Chicago, IL (citywide hotline)
 7301 Lincoln Ave, Suite 202, Lincolnwood, IL 60712
 🏥 Services: Immigration legal help
 📞 (773) 409-4597
-📝 Source: U.S. Department of Justice, Recognition and Accreditation roster, report updated November 1, 2026, retrieved 2026-11-09.
-
-112. National Immigrant Justice Center
-111 W. Jackson Blvd, Suite 800, Chicago, IL 60604
-🏥 Services: Immigration legal help
-📞 (312) 660-1370
 📝 Source: U.S. Department of Justice, Recognition and Accreditation roster, report updated November 1, 2026, retrieved 2026-11-09.
 
 113. Northern Illinois Justice for Our Neighbors DBA Immigration Law and Justice of Northern Illinois

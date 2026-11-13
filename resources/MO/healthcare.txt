@@ -128,8 +128,9 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 19. HCC Network - Buckner
 324 S Hudson St, Buckner, MO, 64016-8142
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 🌐 https://hccnetwork.org/
-🏥 Services: Primary Care
+🏥 Services: Primary Care, Mental Health
 📞 816-249-1521
 
 20. Swope Health - Excelsior Springs Pediatric Clinic
@@ -208,8 +209,9 @@ Mobile. Partner sites include Casa de Salud, 3200 Chouteau Ave, St. Louis, MO 63
 31. HCC Network  - Concordia
 206 N Bismark STE A, Concordia, MO, 64020-8101
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 🌐 https://hccnetwork.org/
-🏥 Services: Primary Care
+🏥 Services: Primary Care, Mental Health
 ⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
 📞 660-463-0234
 
@@ -2110,8 +2112,6 @@ PO BOX 790355, Saint Louis, MO 63179-0355
 📞 (417) 761-5000
 📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
 
-
-
 319. ReDiscover - South Clinic
 6801 E 117th St, Kansas City, MO 64134-3701
 🌐 http://www.rediscovermh.org/contactus.htm
@@ -2888,13 +2888,6 @@ PO BOX 790355, Saint Louis, MO 63179-0355
 📞 (573) 647-2826
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 
-430. HCC Network - Buckner
-324 South Hudson Street, Buckner, MO 64016
-🌐 https://www.hccnetwork.org
-🏥 Services: Mental Health
-📞 (816) 249-1521
-📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
-
 431. Arthur Center Community Health - Montgomery City
 1225 Aguilar Drive, Montgomery City, MO 63361
 🌐 https://arthurcenter.com/
@@ -3090,13 +3083,6 @@ PO BOX 790355, Saint Louis, MO 63179-0355
 🌐 https://www.cccntr.com
 🏥 Services: Mental Health
 📞 (573) 334-1100
-📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
-
-459. HCC Network - Concordia
-206 North Bismark Street, Suite A, Concordia, MO 64020
-🌐 https://www.hccnetwork.org
-🏥 Services: Mental Health
-📞 (660) 463-0234
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 
 460. Compass Health/DBA Crider Health Ctr - Pathways Assisted Living Facility
@@ -7179,4 +7165,3 @@ N 3rd St, Thayer, MO 65791-1128
 🏥 Services: Primary Care
 📞 (314) 615-0400
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
-

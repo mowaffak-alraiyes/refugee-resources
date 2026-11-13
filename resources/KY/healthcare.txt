@@ -746,6 +746,7 @@ Maurice Bowling Middle School2380 Hwy. 22E,, Owenton, KY, 40359
 118. HomePlace Clinic - Winchester
 123 N Main Street, Winchester, KY, 40391
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 🌐 https://www.mtcomp.org/homeplace
 🏥 Services: Primary Care
 📞 859-737-2900
@@ -1421,8 +1422,6 @@ Maurice Bowling Middle School2380 Hwy. 22E,, Owenton, KY, 40359
 🏥 Services: Dental
 📞 (502) 772-8574
 📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
-
-
 
 225. Seven Counties Services - Adult East
 4710 Champions Trace Ln, Louisville, KY 40218-3495
@@ -8725,12 +8724,6 @@ US Highway 23 S, Prestonsburg, KY 41653
 📞 (606) 349-5126
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
-1358. HOMEPLACE CLINIC WINCHESTER
-123 S Main St, Winchester, KY 40391
-🏥 Services: Primary Care
-📞 (859) 737-2900
-📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
-
 1359. TAYLOR FAMILY MEDICAL CENTER
 101 Winston Way, Lot C, Campbellsville, KY 42718-4963
 🏥 Services: Primary Care
@@ -9252,4 +9245,3 @@ US Highway 23 S, Prestonsburg, KY 41653
 🏥 Services: Primary Care
 📞 (606) 414-2280
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
-

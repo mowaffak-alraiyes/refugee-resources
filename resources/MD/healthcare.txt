@@ -953,7 +953,8 @@ Wilmer Eye Institute, 600 N. Wolfe St, Baltimore, MD 21287
 137. Turning Point Clinic
 2401 E North Ave, Baltimore, MD 21213-1517
 📝 HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
-🏥 Services: Mental health
+📝 Substance use treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+🏥 Services: Mental health, Substance use treatment
 📞 (410) 675-2113
 🌐 https://turningpointclinic.org
 
@@ -4194,13 +4195,6 @@ P.O. Box 489, Secretary, MD 21664
 📞 410-467-4357 x201
 📝 Substance use treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 
-608. Turning Point Clinic
-2401 East North Avenue, Baltimore, MD 21213
-🌐 https://www.turningpointclinic.org
-🏥 Services: Substance use treatment
-📞 410-675-2113 x226
-📝 Substance use treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
-
 609. Northern Parkway Treatment Servs Inc
 3007 East Northern Parkway, Baltimore, MD 21214
 🏥 Services: Substance use treatment
@@ -5398,4 +5392,3 @@ P.O. Box 489, Secretary, MD 21664
 🏥 Services: Primary Care
 📞 (301) 493-2400
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
-

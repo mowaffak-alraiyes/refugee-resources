@@ -1199,9 +1199,9 @@
 
 180. WAIMANALO HEALTH CENTER
 41-1330 Kalanianaole Hwy, Waimanalo, HI 96795-1298
+📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 🏥 Services: Primary Care
 📞 (808) 259-7948
-📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 181. WAIANAE ELEMENTARY SCHOOL
 85-220 Mcarthur St, Waianae, HI 96792-2619
@@ -1213,12 +1213,6 @@
 766 N King St, Honolulu, HI 96817-4559
 🏥 Services: Primary Care
 📞 (808) 845-8578
-📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
-
-183. WAIMANALO HEALTH CENTER
-41-1347 Kalanianaole Hwy, Waimanalo, HI 96795-1247
-🏥 Services: Primary Care
-📞 (808) 259-7948
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 184. SUMNER STREET CLINIC
@@ -1319,15 +1313,8 @@
 📞 (808) 697-3300
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
-200. WAIMANALO HEALTH CENTER
-41-1295 Kalanianaole Hwy, Waimanalo, HI 96795-1536
-🏥 Services: Primary Care
-📞 (808) 259-7948
-📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
-
 201. JAMES AND ABIGAIL CAMPBELL CLINIC
 89-102 Farrington Hwy, Unit 3000, Waianae, HI 96792-4160
 🏥 Services: Primary Care
 📞 (808) 697-3900
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
-

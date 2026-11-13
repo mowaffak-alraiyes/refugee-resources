@@ -252,7 +252,8 @@
 39. North Valley Pediatrics
 702 East Bell Road, Phoenix, AZ, 85022
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care, Pediatrics
 📞 602-482-7311
 
 40. Valle del Sol_Mesa_334
@@ -277,7 +278,8 @@
 43. Sun Life Health - Chandler Center for Women
 655 S Dobson Rd Ste 201, Chandler, AZ, 85224-5669
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care, Women's health
 📞 480-307-9477
 
 44. Adelante Healthcare Goodyear
@@ -843,18 +845,6 @@
 📞 (602) 776-0776
 🌐 http://www.circlethecity.org
 
-125. Sun Life Health - Chandler Center for Women
-655 South Dobson Road, #201, Chandler, AZ 85224
-📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
-🏥 Services: Women's health
-📞 (480) 307-9477
-
-126. North Valley Pediatrics
-702 E Bell Rd, Phoenix, AZ 85022-6639
-📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
-🏥 Services: Pediatrics
-📞 (602) 482-7311
-
 127. Chandler Pediatrics
 600 S Dobson Rd, Chandler, AZ 85224-5678
 📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
@@ -1139,10 +1129,11 @@
 
 169. Denova Collaborative Health - South Mountain
 610 E Baseline Rd, Phoenix, AZ 85042-6536
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 🌐 http://www.denova.com
 🏥 Services: Mental Health
 📞 (602) 230-7373
-📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
 
 170. El Rio Health - Southeast Clinic
 6950 E Golf Links Rd, Tucson, AZ 85730-1017
@@ -1465,13 +1456,6 @@
 🌐 https://www.sbhservices.org
 🏥 Services: Mental Health
 📞 602-268-8748 x3321
-📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
-
-216. Denova Collaborative Health - South Mountain
-610 East Baseline Road, Suite 5, Phoenix, AZ 85042
-🌐 https://www.denova.com
-🏥 Services: Mental Health
-📞 (602) 230-7373
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 
 217. Goshen Methadone Clinic
@@ -5177,4 +5161,3 @@ U.S. Highway 160 Mile Post 394.3, Kayenta, AZ 86033
 🏥 Services: Primary Care
 📞 (928) 768-7113
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
-

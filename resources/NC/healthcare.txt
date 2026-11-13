@@ -1478,6 +1478,7 @@ HWY 91 W. 140 SCHOOL DRIVE, SNOW HILL, NC, 28530-0000
 216. GOSHEN MEDICAL CENTER - CLINTON
 906 US HIGHWAY 421, CLINTON, NC, 28328-3502
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 🌐 https://www.goshenmedical.org
 🏥 Services: Primary Care
 ⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
@@ -1544,6 +1545,7 @@ HWY 91 W. 140 SCHOOL DRIVE, SNOW HILL, NC, 28530-0000
 225. GOSHEN MEDICAL CENTER - KENANSVILLE
 102 N Main Street, Suites 1 & 2, Kenansville, NC, 28349-8966
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 🌐 https://goshenmedical.org
 🏥 Services: Primary Care
 📞 910-275-0195
@@ -6475,12 +6477,6 @@ Bancroft Street, AS-213, 2nd Floor, Jacksonville, NC 28540
 📞 (252) 222-0204
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
-962. GOSHEN MEDICAL CENTER-KENANSVILLE
-102 Main St, Kenansville, NC 28349-9044
-🏥 Services: Primary Care
-📞 (910) 275-0195
-📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
-
 963. RURAL HEALTH GROUP AT HALIFAX COMMUNITY COLLEGE
 100 College Dr, Weldon, NC 27890-1121
 🏥 Services: Primary Care
@@ -7080,12 +7076,6 @@ ROUTE 2 BOX 337, Rose Hill, NC 28458
 118 W Martin Luther King Jr Dr, Washington, NC 27889-4906
 🏥 Services: Primary Care
 📞 (252) 940-0602
-📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
-
-1062. GOSHEN MEDICAL CENTER CLINTON
-906 North Us 421 Highway, Clinton, NC 28328-0410
-🏥 Services: Primary Care
-📞 (910) 592-1462
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 1063. GREEN COUNTY HEALTH CARE INCORPORATED
@@ -7926,4 +7916,3 @@ NC Highway 105 Ext, Boone, NC 28607-4711
 🏥 Services: Primary Care
 📞 (828) 670-5000
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
-

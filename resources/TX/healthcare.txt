@@ -519,6 +519,7 @@
 76. Pearland Family Health Center
 2552 E. Broadway, Suite 102, Pearland, TX, 77581-4904
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 🏥 Services: Primary Care
 📞 281-824-1480
 
@@ -678,6 +679,7 @@
 99. Bayside Clinic
 621 S. Ross Sterling, Anahuac, TX, 77514
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 🌐 https://www.chambershealth.org
 🏥 Services: Primary Care
 📞 409-267-4126
@@ -3285,11 +3287,11 @@ PO BOX 660299, Dallas, TX 75266-0299
 
 495. TRIAD Mental Health - Youth Service Center
 6300 Chimney Rock Road, Houston, TX 77081
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
 🌐 https://resources.harriscountytx.gov
 🗣 Languages: Spanish
 🏥 Services: Mental Health
 📞 (713) 295-2500
-📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
 
 496. Healing Hands Ministries - Dallas
 8515 Greenville Ave, Suite N 108, Dallas, TX 75243-7035
@@ -9758,12 +9760,6 @@ P.O. Box 134, Hungerford, TX 77448
 📞 (512) 978-8531
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
-1471. PEARLAND FAMILY HEALTH CENTER
-2552 Broadway St, Pearland, TX 77581-4904
-🏥 Services: Primary Care
-📞 (281) 824-1480
-📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
-
 1472. MONTWOOD HIGH SCHOOL
 12000 Montwood Dr, El Paso, TX 79936-4400
 🏥 Services: Primary Care
@@ -10864,12 +10860,6 @@ US-83 & Oak Hill Dr, Leakey, TX 78873
 📞 (281) 592-2224
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
-1652. BAYSIDE CLINIC
-621 N Ross Sterling Ave, Anahuac, TX 77514-1721
-🏥 Services: Primary Care
-📞 (409) 267-4126
-📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
-
 1653. WACO FAMILY MEDICINE
 120 Hillcrest Medical Blvd, Bldg II, Waco, TX 76712-8948
 🏥 Services: Primary Care
@@ -11918,12 +11908,3 @@ US-83 & Oak Hill Dr, Leakey, TX 78873
 🏥 Services: Primary Care
 📞 (254) 313-5792
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
-
-1824. TRIAD Mental Health - Youth Service Center
-6300 Chimney Rock Road, Houston, TX 77081
-🌐 https://resources.harriscountytx.gov
-🗣 Languages: Spanish
-🏥 Services: Mental Health
-📞 (713) 295-2500
-📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov. Language line is what the facility reported.
-

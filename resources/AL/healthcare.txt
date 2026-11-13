@@ -675,6 +675,7 @@
 96. West Mobile Family Medical Center
 801 University Boulevard BLDG D, Mobile, AL, 36609-2949
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 🏥 Services: Primary Care
 📞 251-344-1964
 
@@ -3842,12 +3843,6 @@
 📞 (256) 659-2422
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
-591. WEST MOBILE FAMILY MEDICAL CENTER
-801 S University Blvd, Ste D, Mobile, AL 36609-2949
-🏥 Services: Primary Care
-📞 (251) 344-1964
-📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
-
 592. FAMILY HEALTH CARE CLINIC, INC
 318 Coffee Ave NE, Russellville, AL 35653
 🏥 Services: Primary Care
@@ -3912,4 +3907,3 @@
 🏥 Services: Primary Care
 📞 (256) 492-0131
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
-

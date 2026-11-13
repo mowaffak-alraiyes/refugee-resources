@@ -437,6 +437,7 @@
 64. Chota Community Health Services
 1206 US HIGHWAY 411, VONORE, TN, 37885-2455
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 🌐 http://www.chotahealth.org
 🏥 Services: Primary Care
 ⏰ Hours: HRSA 2025 site report: full-time, year-round, 40 hours per week.
@@ -6054,12 +6055,6 @@ RT 4 BOX 542B, Smithville, TN 37166
 📞 (423) 884-7271
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
-925. CHOTA COMMUNITY HEALTH SERVICES
-1206 Highway 411, Vonore, TN 37885-2455
-🏥 Services: Primary Care
-📞 (423) 884-7271
-📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
-
 926. LIFESPAN HEALTH
 207 Main St, Clifton, TN 38425-5547
 🏥 Services: Primary Care
@@ -6225,4 +6220,3 @@ RT 4 BOX 542B, Smithville, TN 37166
 🏥 Services: Primary Care
 📞 (931) 685-9000
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
-

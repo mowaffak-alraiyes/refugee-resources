@@ -112,6 +112,7 @@
 17. Personal Frontiers Inc.
 310 S Miller Ave, Gillette, WY 82716-3944
 📝 HRSA Substance Use Disorder Facility, SAMHSA Certified Opioid Treatment Program  Facility. Source: data.hrsa.gov.
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 🏥 Services: Mental health
 📞 (307) 686-1189
 🌐 http://www.personalfrontiers.org
@@ -159,13 +160,6 @@
 🏥 Services: Mental Health
 📞 (307) 399-0791
 📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
-
-25. Personal Frontiers Inc
-310 South Miller Avenue, Suite G, Gillette, WY 82716
-🌐 https://www.personalfrontiers.org
-🏥 Services: Mental Health
-📞 (307) 686-1189
-📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 
 26. Volunteers of America Northern Rockies - Gillette Clinic
 2200 Foothills Boulevard, Gillette, WY 82716
@@ -734,4 +728,3 @@ P.O. Box 847, Powell, WY 82435
 🏥 Services: Primary Care
 📞 (307) 764-4107
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
-

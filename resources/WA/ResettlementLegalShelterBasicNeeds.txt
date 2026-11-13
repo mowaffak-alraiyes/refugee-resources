@@ -234,10 +234,11 @@
 
 37. Neighborhood House
 1225 South Weller St. , Suite 510, Seattle, WA 98144
-🌐 http://www.nhwa.org
-🏥 Services: Immigration legal services
-📞 (206) 461-8430
 📝 Areas of legal assistance: Naturalization/Citizenship Source: Immigration Advocates Network National Immigration Legal Services Directory, https://www.immigrationadvocates.org/nonprofit/legaldirectory/, retrieved 2026-10-15.
+📝 Source: U.S. Department of Justice, Recognition and Accreditation roster, report updated November 1, 2026, retrieved 2026-11-09.
+🌐 http://www.nhwa.org
+🏥 Services: Immigration legal services, Immigration legal help
+📞 (206) 461-8430
 
 38. Northwest Immigrant Rights Project (Seattle Office)
 615 2nd Ave, Suite 400, Seattle, WA 98104
@@ -396,12 +397,6 @@
 32008 32nd Avenue South, Federal Way, WA 98001
 🏥 Services: Immigration legal help
 📞 (253) 584-5615
-📝 Source: U.S. Department of Justice, Recognition and Accreditation roster, report updated November 1, 2026, retrieved 2026-11-09.
-
-65. Neighborhood House
-1225 South Weller Street, Suite 510, Seattle, WA 98144
-🏥 Services: Immigration legal help
-📞 (206) 461-8430
 📝 Source: U.S. Department of Justice, Recognition and Accreditation roster, report updated November 1, 2026, retrieved 2026-11-09.
 
 66. Neighborhood House — 8th Avenue Extension Office

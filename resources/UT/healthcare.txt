@@ -152,8 +152,9 @@
 23. Carbon Medical Service Association, Inc.
 331 Highway 123, Sunnyside, UT, 84539
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 🌐 https://carbonmedicalservice.com
-🏥 Services: Primary Care
+🏥 Services: Primary Care, Mental Health
 📞 435-888-4411
 
 24. Mountainlands Family Health Center Vernal Dental Clinic
@@ -2202,13 +2203,6 @@ P.O. Box 2841, Cedar City, UT 84721
 📞 (571) 488-5926
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 
-318. Carbon Medical Service Association Inc
-331 East Highway 123, Sunnyside, UT 84539
-🌐 https://www.carbonmedicalservice.com
-🏥 Services: Mental Health
-📞 (435) 888-4411
-📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
-
 319. CAPSA
 P.O. Box 3617, Logan, UT 84323
 🌐 https://www.capsa.org/
@@ -3231,4 +3225,3 @@ P.O. Box 3617, Logan, UT 84323
 🏥 Services: Primary Care
 📞 (435) 888-4411
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
-

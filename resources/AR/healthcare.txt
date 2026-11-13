@@ -395,8 +395,9 @@ HC 31 Box 310, DEER, AR, 72628
 59. RIVER VALLEY PRIMARY CARE SERVICES
 9755 W State Highway 22, Ratcliff, AR, 72951-9000
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 🌐 https://www.rvpcs.org
-🏥 Services: Primary Care
+🏥 Services: Primary Care, Mental Health
 ⏰ Hours: HRSA 2025 site report: full-time, year-round, 44 hours per week.
 📞 479-431-2050
 
@@ -570,6 +571,7 @@ HC 31 Box 310, DEER, AR, 72628
 84. Bonanza Wellness Center
 920 Highway 45 S, Bonanza, AR, 72916
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 🏥 Services: Primary Care
 📞 479-279-7690
 
@@ -2083,13 +2085,6 @@ P.O. Box 251950, Monticello, AR 71657
 🌐 https://www.arisahealth.org
 🏥 Services: Mental Health
 📞 (870) 892-7111
-📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
-
-303. River Valley Primary Care Services
-9755 West State Highway 22, P.O. Box 130, Ratcliff, AR 72951
-🌐 https://rvpcs.org
-🏥 Services: Mental Health
-📞 (479) 431-2050
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 
 304. Harbor House Inc
@@ -4143,12 +4138,6 @@ HIGHWAY 16 - VALLEY HEALTH DRIVE, Deer, AR 72628
 📞 (870) 347-2534
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
-634. BONANZA WELLNESS CENTER
-920 S Highway 45, Bonanza, AR 72916-3420
-🏥 Services: Primary Care
-📞 (479) 279-7690
-📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
-
 635. ARCARE51
 401 East St, Texarkana, AR 71854-6507
 🏥 Services: Primary Care
@@ -4190,4 +4179,3 @@ HIGHWAY 16 - VALLEY HEALTH DRIVE, Deer, AR 72628
 🏥 Services: Primary Care
 📞 (479) 307-8760
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
-

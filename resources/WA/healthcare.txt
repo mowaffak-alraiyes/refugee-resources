@@ -1278,6 +1278,7 @@
 184. MOSES LAKE COMMUNITY HEALTH CENTER
 605 S Coolidge St, Moses Lake, WA, 98837-1893
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 🌐 https://www.mlchc.org
 🏥 Services: Primary Care
 📞 509-765-0674
@@ -1518,6 +1519,7 @@
 217. MIRAMAR HEALTH CENTER
 1608 N Road 44, Pasco, WA, 99301-2667
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 🌐 https://www.yvfwc.com
 🏥 Services: Primary Care
 📞 509-543-9280
@@ -5703,12 +5705,6 @@ P.O. Box 2849, Yakima, WA 98907
 📞 (360) 267-6766
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
-843. MOSES LAKE COMMUNITY HEALTH CENTER
-605 Coolidge Dr, Moses Lake, WA 98837
-🏥 Services: Primary Care
-📞 (509) 765-0674
-📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
-
 844. QUINCY COMMUNITY HEALTH CENTER
 1450 1st Ave SW, Quincy, WA 98848-1695
 🏥 Services: Primary Care
@@ -5720,12 +5716,6 @@ P.O. Box 2849, Yakima, WA 98907
 🏥 Services: Primary Care
 ⏰ Hours: HRSA 2025 site report: full-time, year-round, 52.5 hours per week.
 📞 (509) 651-1100
-📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
-
-846. MIRAMAR HEALTH CENTER
-1608 Road 44, Pasco, WA 99301-2667
-🏥 Services: Primary Care
-📞 (509) 543-9280
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
 847. VALLEY VIEW HEALTH CENTER - ONALASKA
@@ -6133,4 +6123,3 @@ P.O. Box 2849, Yakima, WA 98907
 🏥 Services: Primary Care
 📞 (509) 543-9280
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
-

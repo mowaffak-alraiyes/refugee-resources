@@ -2912,10 +2912,11 @@ G-3169 Beecher Road, Flint, MI 48532
 
 428. Pine Rest Christian Mental Hlth Servs - Holland Clinic
 926 South Washington Street, Suite 210, Holland, MI 49423
-🌐 https://www.pinerest.org/holland
-🏥 Services: Mental Health
-📞 (616) 820-3780
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+📝 Substance use treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+🌐 https://www.pinerest.org/holland
+🏥 Services: Mental Health, Substance use treatment
+📞 (616) 820-3780
 
 429. Samaritas - Holland
 2450 Van Ommen Drive, Suite C, Holland, MI 49424
@@ -4588,13 +4589,6 @@ G-3169 Beecher Road, Flint, MI 48532
 🌐 https://www.bearriverhealth.com
 🏥 Services: Substance use treatment, Mental Health
 📞 (231) 545-4141
-📝 Substance use treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
-
-669. Pine Rest Christian Mental Hlth Servs - Holland Clinic
-926 Washington Street, Suite 210, Holland, MI 49423
-🌐 https://www.pinerest.org/holland
-🏥 Services: Substance use treatment, Mental Health
-📞 (616) 820-3780
 📝 Substance use treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 
 670. Victory Clinical Services III
@@ -7104,4 +7098,3 @@ N5241 US Highway 45, Watersmeet, MI 49969-5115
 🏥 Services: Primary Care
 📞 (989) 654-2491
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
-

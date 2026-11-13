@@ -2677,6 +2677,7 @@ One Keener Building, Wards' Island, NY, 10035-6002
 389. SBHC-MARATHON JR/SR HIGH SCHOOL
 1 E Main St, Marathon, NY, 13803
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 🌐 https://www.familyhealthnetwork.org
 🏥 Services: Primary Care
 📞 607-849-3900
@@ -12892,12 +12893,6 @@ BRONX MEDICAL WELLNESS CENTER , 1277 EDWARD G HW, Bronx, NY 10452
 📞 (607) 201-1204
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
-1910. SBHC-MARATHON JR/SR HIGH SCHOOL
-1 Main St, Marathon, NY 13803-7708
-🏥 Services: Primary Care
-📞 (607) 849-3900
-📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
-
 1911. NORTHERN OSWEGO COUNTY HEALTH SERVICES INC
 3045 State Rte 49, Central Square, NY 13036-2611
 🏥 Services: Primary Care
@@ -13099,4 +13094,3 @@ BRONX MEDICAL WELLNESS CENTER , 1277 EDWARD G HW, Bronx, NY 10452
 🏥 Services: Primary Care
 📞 (718) 942-3888
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
-

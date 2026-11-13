@@ -2281,10 +2281,11 @@
 
 346. Northern Ohio Recovery Association
 1400 E 55th St, Cleveland, OH 44103-1304
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 🌐 https://norainc.org/
 🏥 Services: Mental Health
 📞 (216) 391-6672
-📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
 
 347. Health Partnership of Western Ohio - Bulldog Health Center
 2400 Collingwood Blvd, Toledo, OH 43620-1152
@@ -2677,13 +2678,6 @@ East 151st Street, Cleveland, OH 44128
 🌐 https://www.ctcprograms.com/location/cleveland-com
 🏥 Services: Mental Health
 📞 (216) 220-0035
-📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
-
-403. Northern Ohio Recovery Association
-1400 East 55th Street, Cleveland, OH 44103
-🌐 https://www.norainc.org
-🏥 Services: Mental Health
-📞 (216) 391-6672
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 
 404. Community Action Against Addiction
@@ -9973,4 +9967,3 @@ East 151st Street, Cleveland, OH 44128
 🏥 Services: Primary Care
 📞 (419) 502-2800
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
-

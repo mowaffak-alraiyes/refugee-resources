@@ -460,6 +460,7 @@
 67. RKM at Woodland Park Magnet
 1000 Range Rd  RM 36, Hamond, LA, 70403
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 🏥 Services: Primary Care
 📞 225-683-5292 x50401
 
@@ -479,6 +480,7 @@
 70. RKM at Greenville Park Leadership Academy
 111 JW Davis Drive  RM Library, Hammond, LA, 70403
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 🏥 Services: Primary Care
 📞 225-683-5292 x50211
 
@@ -610,6 +612,7 @@
 91. RKM at Amite Westside Magnet
 401 Oak Street  BLDG T6, Amite, LA, 70422
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 🏥 Services: Primary Care
 📞 225-683-5292 x50601
 
@@ -6081,12 +6084,6 @@ mobile, shreveport, LA, 71107
 📞 (225) 683-5292
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
-948. RKM AT AMITE WESTSIDE MAGNET
-401 E Oak St, Amite, LA 70422-2821
-🏥 Services: Primary Care
-📞 (225) 683-5292
-📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
-
 949. RKM AT CHAMP COOPER ELEMENTARY
 42530 Highway 445, Ponchatoula, LA 70454-5562
 🏥 Services: Primary Care
@@ -6101,12 +6098,6 @@ mobile, shreveport, LA, 71107
 
 951. RKM AT PONCHATOULA JR HIGH SCHOOL
 315 E Oak St, Ponchatoula, LA 70454-2632
-🏥 Services: Primary Care
-📞 (225) 683-5292
-📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
-
-952. RKM AT WOODLAND PARK MAGNET
-1000 S Range Rd, Hammond, LA 70403
 🏥 Services: Primary Care
 📞 (225) 683-5292
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
@@ -6153,15 +6144,8 @@ mobile, shreveport, LA, 71107
 📞 (225) 683-5292
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
-960. RKM AT GREENVILLE PARK LEADERSHIP ACADEMY
-111 J W Davis Dr, Hammond, LA 70403-3931
-🏥 Services: Primary Care
-📞 (225) 683-5292
-📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
-
 961. RKM AT TASP
 411 Crystal St, Hammond, LA 70401-1821
 🏥 Services: Primary Care
 📞 (225) 683-5292
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
-

@@ -219,6 +219,7 @@
 33. GSP Health Canton
 310 E Walnut St, Canton, OK, 73724
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 🏥 Services: Primary Care
 📞 580-596-2800
 
@@ -984,10 +985,11 @@
 
 149. HOPE Community Services, Inc.
 6100 S Walker Ave, Oklahoma City, OK 73139-7026
+📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
+📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
 🌐 http://www.hopecsi.org
 🏥 Services: Mental Health
 📞 (405) 634-4400
-📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
 
 150. Oklahoma City Indian Clinic - 5208 W Reno
 5208 W Reno Ave, Oklahoma City, OK 73127-6344
@@ -1264,13 +1266,6 @@
 
 189. HOPE Hall
 8125 South Walker Avenue, Oklahoma City, OK 73139
-🌐 https://hopecsi.org
-🏥 Services: Mental Health
-📞 (405) 634-4400
-📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
-
-190. HOPE Community Services Inc
-6100 South Walker Avenue, Oklahoma City, OK 73139
 🌐 https://hopecsi.org
 🏥 Services: Mental Health
 📞 (405) 634-4400
@@ -3540,12 +3535,6 @@ E 146th St N, Collinsville, OK 74021-3132
 📞 (918) 257-8029
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
-544. GSP HEALTH CANTON
-310 Walnut St, Canton, OK 73724
-🏥 Services: Primary Care
-📞 (580) 596-2800
-📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
-
 545. WELCH COMMUNITY HEALTH CENTER
 343 S Commercial St, Welch, OK 74369
 🏥 Services: Primary Care
@@ -3719,4 +3708,3 @@ E 146th St N, Collinsville, OK 74021-3132
 🏥 Services: Primary Care
 📞 (580) 436-5111
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
-

@@ -109,9 +109,10 @@
 13. Literacy Chicago
 641 W. Lake Street, Suite 104, Chicago, IL 60661
 📝 Last verified: 08/2025
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 🌐 https://www.literacychicago.org
 🗣 Languages: English
-🏥 Services: Free one-on-one tutoring in reading and English for low-literate adults, small-group ESL classes, U.S. civics and GED preparation assistance
+🏥 Services: Free one-on-one tutoring in reading and English for low-literate adults, small-group ESL classes, U.S. civics and GED preparation assistance, Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills, Workforce skills
 ⏰ Hours: Mon - Fri 9:00 AM  -  5:00 PM (evening tutoring by appointment)
 📞 (312) 858-6020
 
@@ -469,14 +470,6 @@ White Oaks Mall, Lower Level, 2500 Wabash Avenue, D02, Springfield IL 62704
 ⏰ Hours: 9-5 M-Th, 9-12 F
 📞 (773) 558-5914
 📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom.
-
-60. Literacy Chicago
-641 West Lake Street, Suite 104, Chicago IL 60661
-🌐 http://www.literacychicago.org/
-🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills, Workforce skills
-⏰ Hours: Classes are avaialbel Monday - Thursday
-📞 (312) 858-6020
-📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom,Computer-aided.
 
 61. Adult Education and Literacy
 202 S. Halsted St., Chicago Heights IL 60411

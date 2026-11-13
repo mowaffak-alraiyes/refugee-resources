@@ -149,10 +149,12 @@
 
 22. Literacy Council of Reading-Berks
 450 South 6th Street, Reading, PA 19602
-🌐 http://www.lcrb.org/
-🏥 Services: English Language Acquisition/ESL
-📞 610-670-9960
 📝 Services listed: Adult Basic Education, High School Equivalency Test Preparation, English Language Acquisition/ESL Source: Pennsylvania Department of Education adult education program list, https://www.paadultedresources.org/home/find-a-program/, retrieved 2026-10-16.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
+🌐 http://www.lcrb.org/
+🏥 Services: English Language Acquisition/ESL, Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills, Workforce skills
+📞 610-670-9960
+⏰ Hours: M - F 8:00 a.m. - 4:00 p.m.
 
 23. Literacy Pittsburgh
 411 Seventh Avenue, Suite 525, Pittsburgh, PA 15219
@@ -233,10 +235,12 @@
 
 34. Titusville Regional Literacy Council
 302 East Walnut Street, Titusville, PA 16354
-🌐 http://www.titusvilleregionalliteracycouncil.org/
-🏥 Services: English Language Acquisition/ESL
-📞 814-827-0543
 📝 Services listed: Adult Basic Education, Adult Secondary Education, High School Equivalency Test Preparation, English Language Acquisition/ESL, Family Literacy Source: Pennsylvania Department of Education adult education program list, https://www.paadultedresources.org/home/find-a-program/, retrieved 2026-10-16.
+📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Computer-aided,Family literacy program.
+🌐 http://www.titusvilleregionalliteracycouncil.org/
+🏥 Services: English Language Acquisition/ESL, Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Help my child learn, Math, Technology skills
+📞 814-827-0543
+⏰ Hours: 9:00 a.m. to 4:00 p.m.
 
 35. The Literacy Center
 1132 W. Hamilton Street, Suite 300, Allentown, PA 18101
@@ -275,10 +279,11 @@
 
 40. Vita Education Services
 8 East Court Street, 2nd Floor, Doylestown, PA 18901
-🌐 https://www.vitaeducation.org/
-🏥 Services: English Language Acquisition/ESL
-📞 215-345-8322
 📝 Services listed: Adult Basic Education, Adult Secondary Education, High School Equivalency Test Preparation, English Language Acquisition/ESL, Family Literacy Source: Pennsylvania Department of Education adult education program list, https://www.paadultedresources.org/home/find-a-program/, retrieved 2026-10-16.
+📝 Source: National Literacy Directory, retrieved 2026-11-09. Listing updated June 5, 2025. Cost: Program is free. Instruction type: In-person, Online.
+🌐 https://www.vitaeducation.org/
+🏥 Services: English Language Acquisition/ESL, Reading and writing, High school equivalency preparation, English classes, Math
+📞 215-345-8322
 
 41. York City School District (Family Literacy)
 701 Texas Avenue, York, PA 17404
@@ -402,14 +407,6 @@ Cathedral of Learning, Suite 801 4200 Fifth Avenue,, Pittsburgh, PA 15260
 📞 (412) 335-7446
 📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Instruction in Spanish.
 
-58. Titusville Regional Literacy Council
-302 E Walnut St, Titusville PA 16354
-🌐 https://titusvilleregionalliteracycouncil.org
-🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Family literacy, Help my child learn, Math, Technology skills
-⏰ Hours: 9:00 a.m. to 4:00 p.m.
-📞 (814) 827-0543
-📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Computer-aided,Family literacy program.
-
 59. Mid-State Literacy Council
 248 E Calder Way Ste 307, State College PA 16801
 🌐 http://www.mid-stateliteracycouncil.org
@@ -493,14 +490,6 @@ Cathedral of Learning, Suite 801 4200 Fifth Avenue,, Pittsburgh, PA 15260
 ⏰ Hours: 9:00 am-4:00 pm
 📞 (570) 297-3375
 📝 Source: National Literacy Directory, retrieved 2026-11-08. Instruction type: Classroom,Computer-aided,Instruction in Spanish.
-
-70. Literacy Council of Reading-Berks
-450 S. 6th Street, Reading PA 19602
-🌐 https://www.lcrb.org
-🏥 Services: Citizenship preparation, English classes, Reading and writing, High school equivalency preparation, Math, Technology skills, Workforce skills
-⏰ Hours: M - F 8:00 a.m. - 4:00 p.m.
-📞 (610) 670-9960
-📝 Source: National Literacy Directory, retrieved 2026-11-08. Directory cost field: no. Instruction type: Classroom.
 
 71. Mother Veronica Resource Center
 449 S 6th Street, Reading PA 19602
@@ -1779,13 +1768,6 @@ Call 1-833-750-5627 to speak with a representative , Philadelphia, PA 19102
 ⏰ Hours: Monday, Wednesday & Thursday 6:30-9:00pm
 📞 (215) 324-0746
 📝 Source: National Literacy Directory, retrieved 2026-11-09. Listing updated November 9, 2018. Cost: $70.00 Deposit $230.00 Balance (plus $10 if choosing payment plan) $300.00 ($310.00 if on payment plan) Total includes books. Deposit/Registration Fee is due at the time of registration prior to the beginning of class and the final balance is due on first day of class. Or Arrange a payment plan of $80.00/month Or Submit paperwork to Welfare if you qualify No Cash or Checks Money Orders Only Children are NOT permitted in classes. If you receive Public Assistance (Welfare), you will only need to pay the registration deposit fee of $70.00 (money order only) and submit your documents to Welfare for the balance. Welfare will give you a receipt and you must submit that receipt to us. If the Welfare check/payment is not received in a timely manner, you will be required to contact your Welfare worker for a letter proving they will pay or you are responsible for paying the balance. Instruction type: In-person, Online, Instruction in multiple languages.
-
-241. Vita Education Services
-8 E Court St Street, 2nd Floor, Doylestown, PA 18901
-🌐 http://www.vitaeducation.org
-🏥 Services: Reading and writing, High school equivalency preparation, English classes, Math
-📞 (215) 345-8322
-📝 Source: National Literacy Directory, retrieved 2026-11-09. Listing updated June 5, 2025. Cost: Program is free. Instruction type: In-person, Online.
 
 242. Love for Literacy and Literature
 2646 Kensington Avenue, Philadelphia, PA 19141

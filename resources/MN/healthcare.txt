@@ -3,8 +3,9 @@
 1. People Serving People
 614 S    3rd St, Minneapolis, MN, 55415-1104
 📝 HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Federally Qualified Health Center (FQHC), Homeless Program. Source: data.hrsa.gov.
+📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 🌐 http://www.hennepin.us/residents/health-medical/clinics-services
-🏥 Services: Primary Care; Health Care for the Homeless
+🏥 Services: Primary Care, Health Care for the Homeless
 📞 612-332-4500 x226
 
 2. Salvation Army Harbor Light Center
@@ -33,12 +34,14 @@
 5. NACC Behavioral Health Outpatient Programs
 1113 East Franklin Avenue  STE 103, Minneapolis, MN, 55404
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🏥 Services: Primary Care
+📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+🏥 Services: Primary Care, Mental health
 📞 612-872-8086
 
 6. NATIVE AMERICAN COMMUNITY CLINIC
 1213 E. FRANKLIN AVE, MINNEAPOLIS, MN, 55404-2923
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 🌐 https://www.nacc-healthcare.org
 🏥 Services: Primary Care, Ryan White HIV/AIDS Program
 📞 612-872-8086
@@ -721,12 +724,6 @@ L Orient St, Saint Paul, MN 55117
 📞 (651) 280-2310
 🌐 http://www.wilder.org
 
-103. NACC Behavioral Health Outpatient Programs
-1113 E Franklin Ave STE 103, Minneapolis, MN 55404-2975
-📝 HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
-🏥 Services: Mental health
-📞 (612) 872-8086
-
 104. Hennepin County
 300 S 6th St, Minneapolis, MN 55487-0999
 🏥 Services: Ryan White HIV/AIDS Program
@@ -878,8 +875,6 @@ L Orient St, Saint Paul, MN 55117
 🏥 Services: Dental
 📞 (651) 925-8400
 📝 Source: data.hrsa.gov. Street is printed on the HRSA record.
-
-
 
 132. Essentia Health - Adult Partial Hospitalization Program
 530 E 2nd St, Duluth, MN 55805-1998
@@ -5113,12 +5108,6 @@ RR 3, BOX 100, Cass Lake, MN 56633
 📞 (651) 241-1000
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
-754. NATIVE AMERICAN COMMUNITY CLINIC
-1213 Franklin Ave E, Minneapolis, MN 55404-2923
-🏥 Services: Primary Care
-📞 (612) 872-8086
-📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
-
 755. WSCHS, INC - FAMILY SERVICES CENTER
 2001 Van Dyke St N, Saint Paul, MN 55109
 🏥 Services: Primary Care
@@ -5217,12 +5206,6 @@ RR 3, BOX 100, Cass Lake, MN 56633
 📞 (612) 252-1242
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
 
-771. PEOPLE SERVING PEOPLE
-614 3rd St S, Minneapolis, MN 55415-1104
-🏥 Services: Primary Care
-📞 (612) 332-4500
-📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
-
 772. AXIS MEDICAL CENTER
 1 Lake St W, Minneapolis, MN 55408-3154
 🏥 Services: Primary Care
@@ -5246,4 +5229,3 @@ RR 3, BOX 100, Cass Lake, MN 56633
 🏥 Services: Primary Care
 📞 (218) 361-3300
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
-
