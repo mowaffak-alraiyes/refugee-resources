@@ -257,29 +257,32 @@
 29. FFHC-Beethoven
 25 W 47th St, Chicago, IL 60609-4627
 📝 HRSA database - Last reviewed April 2025
-🌐 http://friendfhc.org
-📞 (773) 702-0660
+📝 Source: Friend Health locations page, https://friendfhc.org/locations/, retrieved November 14, 2026. The page says appointments are encouraged and walk-ins are welcome. The page labels these school year hours.
+🌐 https://friendfhc.org/locations/
+📞 (312) 682-6110
 🗣 Languages: English; Spanish
-🏥 Services: School-based health center  -  Pediatric primary care, Immunizations, Behavioral Health (Students)
-⏰ Hours: Mon/Thu/Fri 8:00 am - 5:00 pm (school year); Tue/Wed/Sat/Sun closed
+🏥 Services: School-based health center  -  Pediatric primary care, Immunizations, Behavioral Health (Students), Medical
+⏰ Hours: School year: Mon, Tue, Wed, Thu, Fri 8:00 AM - 4:00 PM
 
 30. FFHC-Pulaski
 5635 S Pulaski Rd, Chicago, IL 60629-4438
 📝 HRSA database - Last reviewed April 2025
-🌐 http://friendfhc.org
-📞 (773) 585-3900
+📝 Source: Friend Health locations page, https://friendfhc.org/locations/, retrieved November 14, 2026. The page says appointments are encouraged and walk-ins are welcome.
+🌐 https://friendfhc.org/locations/
+📞 (312) 682-6110
 🗣 Languages: English; Spanish
-🏥 Services: Comprehensive primary care (adult & pediatric), Women's Health, Behavioral Health, On-Site Lab/Testing, HIV/STI services, Dental
-⏰ Hours: Mon 8:00 am - 5:00 pm; Tue 9:00 am - 5:00 pm; Wed/Thu/Fri 8:00 am - 5:00 pm; Sat/Sun closed
+🏥 Services: Comprehensive primary care (adult & pediatric), Women's Health, Behavioral Health, On-Site Lab/Testing, HIV/STI services, Dental, Immediate Care
+⏰ Hours: Mon, Tue, Wed, Thu, Fri 8:00 AM - 5:00 PM
 
 31. FFHC-Western
 5843 S Western Ave, Chicago, IL 60636-1526
 📝 HRSA database - Last reviewed April 2025
-🌐 http://friendfhc.org
-📞 (773) 434-8600
+📝 Source: Friend Health locations page, https://friendfhc.org/locations/, retrieved November 14, 2026. The page says appointments are encouraged and walk-ins are welcome.
+🌐 https://friendfhc.org/locations/
+📞 (312) 682-6110
 🗣 Languages: English; Spanish
-🏥 Services: Comprehensive primary care (adult & pediatric), Women's Health, Behavioral Health, On-Site Lab/Testing, HIV/STI services, Dental
-⏰ Hours: Mon/Fri 8:00 am - 5:00 pm; Tue/Thu 9:00 am - 5:00 pm; Wed 8:00 am - 8:00 pm; Sat/Sun closed
+🏥 Services: Comprehensive primary care (adult & pediatric), Women's Health, Behavioral Health, On-Site Lab/Testing, HIV/STI services, Dental, Medical
+⏰ Hours: Mon, Tue, Thu, Fri 8:00 AM - 5:00 PM; Wed 8:00 AM - 8:00 PM; Sat 8:00 AM - 12:00 PM
 
 32. FFHC-Woodlawn
 1522 E 63rd St, Chicago, IL 60637-2921
@@ -1367,11 +1370,12 @@
 147. Friend Health  -  Cottage Grove Center
 6250 S Cottage Grove Ave, Chicago, IL 60637
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026; Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
-🌐 https://friendhealth.org/
+📝 Source: Friend Health locations page, https://friendfhc.org/locations/, retrieved November 14, 2026. The page says appointments are encouraged and walk-ins are welcome.
+🌐 https://friendfhc.org/locations/
 📞 (312) 682-6110
 🗣 Languages: English, Spanish
-🏥 Services: Ryan White HIV/AIDS Program, Primary care (family medicine), Pediatrics, Women's Health, Behavioral Health, Infectious Disease, On-Site Pharmacy
-⏰ Hours: Mon & Wed 8 AM - 8 PM; Tue & Thu 9 AM - 5 PM; Fri 8 AM - 4:30 PM; Sat 8 AM - 12 PM
+🏥 Services: Ryan White HIV/AIDS Program, Primary care (family medicine), Pediatrics, Women's Health, Behavioral Health, Infectious Disease, On-Site Pharmacy, Immediate Care
+⏰ Hours: Mon, Wed 8:00 AM - 8:00 PM; Tue, Thu, Fri 8:00 AM - 5:00 PM; Sat 8:00 AM - 12:00 PM
 
 148. Beloved Community Family Wellness Center (Englewood)
 6821 S Halsted St, Chicago, IL 60621
@@ -2477,8 +2481,11 @@ New Beginnings Church  -  6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 285. CARE2PREVENT CLINIC AT FRIEND HEALTH
 6250 S Cottage Grove Ave, Chicago, IL, 60637-2530
 📝 Ryan White HIV/AIDS Program (HRSA HAB) provider  -  Last reviewed 07/2026
+📝 Source: Friend Health locations page, https://friendfhc.org/locations/, retrieved November 14, 2026. The page says appointments are encouraged and walk-ins are welcome.
 📞 (312) 682-6110
-🏥 Services: Ryan White HIV/AIDS Program care and support services (HIV medical care, Case Management, and related HAB-funded supports)
+🏥 Services: Ryan White HIV/AIDS Program care and support services (HIV medical care, Case Management, and related HAB-funded supports), Behavioral Health, Pharmacy, Immediate Care
+🌐 https://friendfhc.org/locations/
+⏰ Hours: Mon, Wed 8:00 AM - 8:00 PM; Tue, Thu, Fri 8:00 AM - 5:00 PM; Sat 8:00 AM - 12:00 PM
 
 286. WELLNESS CENTER @ SOUTH SHORE HOSPITAL
 8012 S Crandon Ave, Chicago, IL, 60617-1124
@@ -4086,10 +4093,12 @@ W 15th Pl & S California Ave, Chicago, IL 60608
 
 531. Friend Family Health Center - Pulaski
 5635 South Pulaski Road, Chicago, IL 60629
-🌐 https://www.friendfhc.org
-🏥 Services: Mental Health
-📞 (773) 702-2193
+🌐 https://friendfhc.org/locations/
+🏥 Services: Mental Health, Immediate Care
+📞 (312) 682-6110
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+📝 Source: Friend Health locations page, https://friendfhc.org/locations/, retrieved November 14, 2026. The page says appointments are encouraged and walk-ins are welcome.
+⏰ Hours: Mon, Tue, Wed, Thu, Fri 8:00 AM - 5:00 PM
 
 532. Chicago Department of Public Health - Greater Lawn Mental Health Center
 4150 West 55th Street, Chicago, IL 60632
@@ -4107,10 +4116,12 @@ W 15th Pl & S California Ave, Chicago, IL 60608
 
 534. Friend Health - Western
 5843 South Western Avenue, Chicago, IL 60636
-🌐 https://www.friendfhc.org
-🏥 Services: Mental Health
-📞 (773) 434-8600
+🌐 https://friendfhc.org/locations/
+🏥 Services: Mental Health, Medical, Behavioral Health, Dental
+📞 (312) 682-6110
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+📝 Source: Friend Health locations page, https://friendfhc.org/locations/, retrieved November 14, 2026. The page says appointments are encouraged and walk-ins are welcome.
+⏰ Hours: Mon, Tue, Thu, Fri 8:00 AM - 5:00 PM; Wed 8:00 AM - 8:00 PM; Sat 8:00 AM - 12:00 PM
 
 535. Habilitative Systems Inc - OE/Urban Behavioral Health
 6845 South Western Avenue, Chicago, IL 60636
@@ -4128,10 +4139,12 @@ W 15th Pl & S California Ave, Chicago, IL 60608
 
 537. Friend Family Health Center - Cottage Grove
 6250 South Cottage Grove, Chicago, IL 60637
-🌐 https://www.friendfhc.org
-🏥 Services: Mental Health
+🌐 https://friendfhc.org/locations/
+🏥 Services: Mental Health, Medical, Behavioral Health, Pharmacy, Immediate Care
 📞 (312) 682-6110
 📝 Mental health treatment facility. Source: SAMHSA FindTreatment.gov, retrieved 2026-10-13.
+📝 Source: Friend Health locations page, https://friendfhc.org/locations/, retrieved November 14, 2026. The page says appointments are encouraged and walk-ins are welcome.
+⏰ Hours: Mon, Wed 8:00 AM - 8:00 PM; Tue, Thu, Fri 8:00 AM - 5:00 PM; Sat 8:00 AM - 12:00 PM
 
 538. Light On Anxiety Treatment Center
 4619 North Ravenswood Avenue, Suite 304, Chicago, IL 60640
@@ -11235,3 +11248,19 @@ P.O. Box 878, Urbana, IL 61803
 📞 (773) 336-6100
 🏥 Services: Anxiety and depression screenings, Cancer screenings, Chronic disease management, Flu shots, Gynecology, Health coaching, Nutrition counseling, Pap smears, Physical exams, Psychiatric evaluation and medication management, School and sports physicals, Solution-focused counseling, Vaccines for children, Well-child exams
 ⏰ Hours: Mon, Tue, Wed, Thu, Fri 8:00 AM - 4:00 PM
+
+1604. Friend Health - Ashland
+4706 S Ashland Ave, Chicago, IL 60609
+📝 Source: Friend Health locations page, https://friendfhc.org/locations/, retrieved November 14, 2026. The page says appointments are encouraged and walk-ins are welcome.
+🌐 https://friendfhc.org/locations/
+📞 (312) 682-6110
+🏥 Services: Medical, Behavioral Health
+⏰ Hours: Mon, Tue, Wed, Thu, Fri 8:00 AM - 5:00 PM
+
+1605. Friend Health - Pulaski II
+5525 S. Pulaski Road, Chicago, IL 60629
+📝 Source: Friend Health locations page, https://friendfhc.org/locations/, retrieved November 14, 2026. The page says appointments are encouraged and walk-ins are welcome. The page says this site is collocated with UI Health.
+🌐 https://friendfhc.org/locations/
+📞 (312) 492-0060
+🏥 Services: Immediate Care, Behavioral Health
+⏰ Hours: Mon, Tue, Wed, Thu, Fri 8:00 AM - 5:00 PM
