@@ -1118,8 +1118,9 @@
 119. PRIMECARE West Town
 1431 N Western Ave STE 406, Chicago, IL 60622-1774
 📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
+📝 Source: PrimeCare Health location page, https://www.primecarehealth.org/west-town-health-center, retrieved November 14, 2026. The page says to book an appointment.
 🌐 https://www.primecarehealth.org/west-town-health-center
-📞 (312) 633-5841
+📞 (312) 491-5250
 🗣 Languages: English, Spanish
 🏥 Services: Primary care (family medicine), Behavioral Health, substance use (MAT) services
 ⏰ Hours: Mon, Wed, Fri 7:30 AM - 5:00 PM; Tue, Thu 7:30 AM - 8:00 PM; Sat 7:30 AM - 12:30 PM; Sun Closed
@@ -1127,8 +1128,9 @@
 120. PrimeCare Belmont Cragin
 5635 W Belmont Ave, Chicago, IL 60634-4384
 📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
+📝 Source: PrimeCare Health location page, https://www.primecarehealth.org/belmont-cragin-health-center, retrieved November 14, 2026. Dental office hours: Mon 8:00 AM - 7:00 PM; Tue 7:30 AM - 5:00 PM; Wed 7:00 AM - 6:00 PM; Thu 7:00 AM - 7:00 PM; Fri 7:00 AM - 5:00 PM; Sat closed; Sun closed. Dental phone (773) 269-5540. Substance use treatment: Mon, Tue, Thu, Fri 8:30 AM - 5:00 PM; Wed 12:00 PM - 8:00 PM; Sat closed; Sun closed. Walk-in hours are 1:00 PM to 3:00 PM on Tuesdays. Substance use clinic phone (773) 736-1835.
 🌐 https://www.primecarehealth.org/belmont-cragin-health-center
-📞 (312) 633-5841
+📞 (773) 736-1830
 🗣 Languages: English, Spanish, Polish, Mandarin
 🏥 Services: Primary care (adult and pediatric), Women's Health, Behavioral Health, Dental Care, Substance Use Treatment
 ⏰ Hours: Mon 6:30 AM - 8:00 PM; Tue 8:30 AM - 5:00 PM; Wed 6:30 AM - 8:00 PM; Thu 7:30 AM - 8:00 PM; Fri 8:30 AM - 5:00 PM; Sat 8:00 AM - 2:00 PM; Sun Closed
@@ -1136,6 +1138,7 @@
 121. PrimeCare Hamlin
 1920 N Hamlin Ave, Chicago, IL 60647-3411
 📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
+📝 Source: PrimeCare Health location page, https://www.primecarehealth.org/hamlin-health-center, retrieved November 14, 2026. The page says this center is inside the Military Leadership Academy and says to book an appointment.
 🌐 https://www.primecarehealth.org/hamlin-health-center
 📞 (773) 772-7202
 🗣 Languages: English, Spanish
@@ -1145,24 +1148,27 @@
 122. PrimeCare Northwest
 1649 N Pulaski Rd, Chicago, IL 60639-5207
 📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
+📝 Source: PrimeCare Health location page, https://www.primecarehealth.org/northwest-health-center, retrieved November 14, 2026. The page says to book an appointment.
 🌐 https://www.primecarehealth.org/northwest-health-center
 📞 (773) 278-6868
 🗣 Languages: English, Spanish
 🏥 Services: Primary care (family medicine), Pediatric Care, Behavioral Health
-⏰ Hours: Mon - Thu 7:30 AM - 5:00 PM; Wed 7:30 AM - 8:00 PM; Fri 7:30 AM - 5:00 PM; Sat 8:00 AM - 2:00 PM; Sun Closed
+⏰ Hours: Mon, Tue, Fri 7:30 AM - 5:00 PM; Wed 7:00 AM - 8:00 PM; Thu 7:00 AM - 5:00 PM; Sat 8:00 AM - 2:00 PM; Sun closed
 
 123. PrimeCare West Town Dental
 1431 N Western Ave STE 401, Chicago, IL 60622-7712
 📝 Last verified: 08/2025
+📝 Source: PrimeCare Health location page, https://www.primecarehealth.org/dental-closure, retrieved November 14, 2026. The page says the West Town dental office at suite 401 closed on June 1, 2026. Dental care continues at Belmont Cragin, 5635 W. Belmont. Call (773) 269-5540 to schedule. The page says Sonrisa Dental, a separate practice, is moving into suite 401.
 📞 (312) 633-5841
-🌐 https://www.primecarehealth.org/west-town-oral-health-center
+🌐 https://www.primecarehealth.org/dental-closure
 🗣 Languages: English, Spanish
 🏥 Services: Preventive, Restorative, and emergency dental services (exams, X-rays, Fillings, Sealants, Extractions, And More)
-⏰ Hours: Mon - Thu 7:30 AM - 6:00 PM; Fri - Sun Closed
+⏰ Hours: Closed as of June 1, 2026
 
 124. PrimeCare Wicker Park
-1127 N Oakley Blvd, Chicago, IL 60622-3507
+1127 N Oakley Blvd, 2nd Floor, Chicago, IL 60622-3507
 📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
+📝 Source: PrimeCare Health location page, https://www.primecarehealth.org/wicker-park-health-center, retrieved November 14, 2026. The page says the clinic is on the 2nd floor of Nazareth Family Center. Free patient parking is in the lot at approximately 2258 W Thomas St. If the gate is closed, call (312) 770-2457.
 🌐 https://www.primecarehealth.org/wicker-park-health-center
 📞 (312) 770-2040
 🗣 Languages: English, Spanish
@@ -1585,9 +1591,11 @@ New Beginnings Church  -  6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 172. Michael Michelini Center for Health
 1431 N Western Ave Ste 209, Chicago, IL, 60622-7712
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
-⏰ Hours: HRSA 2025 site report: full-time, year-round, 58.5 hours per week.
+📝 Source: PrimeCare Health location page, https://www.primecarehealth.org/michelini-center-for-health, retrieved November 14, 2026. The page calls this the substance use treatment clinic. Walk-in hours are 1:00 PM to 3:00 PM on Thursdays.
+⏰ Hours: Mon, Wed, Thu, Fri 8:30 AM - 5:00 PM; Tue 11:30 AM - 8:00 PM; Sat closed; Sun closed
 📞 (312) 491-5435
-🏥 Services: Primary Care
+🏥 Services: Primary Care, Substance use treatment
+🌐 https://www.primecarehealth.org/michelini-center-for-health
 
 173. LCHC at Covenant House
 2934 W Lake St  RM CHL, Chicago, IL, 60612-1924
