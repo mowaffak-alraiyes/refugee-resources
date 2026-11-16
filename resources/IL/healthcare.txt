@@ -1247,16 +1247,18 @@
 132. PCC Austin Family Health Center
 5461 W Lake St, Chicago, IL 60644-2343
 📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
+📝 Source: PCC Community Wellness location page, https://www.pccwellness.org/locations/pcc-austin-family-health-center/, retrieved November 15, 2026. The 3rd Wednesday is 9:00 AM - 8:00 PM. The page says services previously at Dr. Burdick Family Health Center are now at this center.
 🌐 https://www.pccwellness.org/locations/pcc-austin-family-health-center/
 📞 (773) 378-3347
 🗣 Languages: English, Spanish
-🏥 Services: Primary care (adult and pediatric), Behavioral Health, wellness programs (nutrition and fitness), dental and specialty services on campus
+🏥 Services: Primary care (adult and pediatric), Behavioral Health, wellness programs (nutrition and fitness), dental and specialty services on campus, Telehealth, Care coordination, Assisted Recovery Connection Services
 ⏰ Hours: Mon, Wed, Thu 8:00 AM - 8:00 PM; Tue 9:00 AM - 8:00 PM; Fri 8:00 AM - 5:00 PM; Sat 8:00 AM - 12:00 PM; Sun Closed
 
 133. PCC Clinic at The Boulevard
 3456 W Franklin Blvd, Chicago, IL 60624-1308
 📝 Last verified: 08/2025
-📞 (773) 295-3500
+📝 Source: PCC Community Wellness location page, https://www.pccwellness.org/locations/pcc-clinic-at-the-boulevard/, retrieved November 15, 2026. The page lists Wednesday and Thursday as 8:00pm-5:00pm, so those two lines were not used as the daytime schedule.
+📞 (773) 533-6013
 🌐 https://www.pccwellness.org/locations/pcc-clinic-at-the-boulevard/
 🗣 Languages: English, Spanish
 🏥 Services: On-site primary care for medical respite center residents (homeless adults)
@@ -1265,15 +1267,17 @@
 134. PCC Community Wellness Center at Steinmetz
 3030 N Mobile Ave, Chicago, IL 60634-4041
 📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
+📝 Source: PCC Community Wellness location page, https://www.pccwellness.org/locations/pcc-community-wellness-center-at-steinmetz/, retrieved November 15, 2026. The 3rd Wednesday is 9:00 AM - 8:00 PM. Enter through Door 8. Parking is behind the high school and a parking pass from the front desk is required.
 🌐 https://www.pccwellness.org/locations/pcc-community-wellness-center-at-steinmetz/
-📞 (708) 524-7686
+📞 (773) 622-5679
 🗣 Languages: English, Spanish
-🏥 Services: Primary care (all ages), prenatal and women's health (midwifery), Mental Health Counseling, Substance Use Treatment
+🏥 Services: Primary care (all ages), prenatal and women's health (midwifery), Mental Health Counseling, Substance Use Treatment, Gynecology, Postpartum care
 ⏰ Hours: Mon, Tue, Thu, Fri 8:00 AM - 5:00 PM; Wed 8:00 AM - 8:00 PM; Sat - Sun Closed
 
 135. PCC Dental and Specialty Care Center
 5425 W Lake St, Chicago, IL 60644-2342
 📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026; HRSA Health Center Service Delivery Site. Source: data.hrsa.gov.
+📝 Source: PCC Community Wellness location page, https://www.pccwellness.org/locations/pcc-dental-services/, retrieved November 15, 2026. Physical therapy appointments: (630) 377-1188, press 1. Orthopedics appointments: (773) 232-3221.
 🌐 https://www.pccwellness.org/locations/pcc-dental-services/
 📞 (773) 413-1920
 🗣 Languages: English, Spanish
@@ -1283,20 +1287,22 @@
 136. PCC Salud Family Health Center
 5359 W Fullerton Ave, Chicago, IL 60639-1450
 📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
+📝 Source: PCC Community Wellness location page, https://www.pccwellness.org/locations/pcc-salud-family-health-center/, retrieved November 15, 2026. The Dr. Tong location page says obstetrics and gynecology at this address are inside this center.
 🌐 https://www.pccwellness.org/locations/pcc-salud-family-health-center/
 📞 (773) 836-2785
 🗣 Languages: English, Spanish
-🏥 Services: Primary and preventive care (adult and pediatric), Family Planning, Prenatal Care, Behavioral Health, Chronic Disease Management
+🏥 Services: Primary and preventive care (adult and pediatric), Family Planning, Prenatal Care, Behavioral Health, Chronic Disease Management, Obstetrics and gynecology, Preconception planning, Birth planning, Postpartum care, High-risk pregnancy referrals, Immunizations, Laboratory services, Diabetes management
 ⏰ Hours: Mon - Thu 8:00 AM - 8:00 PM; *3rd Wed 9:00 AM - 8:00 PM; Fri 8:00 AM - 5:00 PM; Sat 8:00 AM - 12:00 PM; Sun Closed
 
 137. PCC West Town Family Health Center
 2434 W Division St, Chicago, IL 60622-2942
 📝 Last verified: 08/2025; HRSA Health Center Program  -  Last reviewed 07/2026
+📝 Source: PCC Community Wellness location page, https://www.pccwellness.org/locations/pcc-west-town-family-health-center/, retrieved November 15, 2026. The 3rd Wednesday is 9:00 AM - 5:00 PM.
 🌐 https://www.pccwellness.org/locations/pcc-west-town-family-health-center/
 📞 (773) 584-4178
 🗣 Languages: English, Spanish
 🏥 Services: Adult primary care (including OB/GYN), Adolescent/Teen Health, Pediatric Check-Ups, Behavioral Health, School And Work Physicals, COVID-19 testing/vaccination, Benefits Assistance
-⏰ Hours: Mon - Thu 8:00 AM - 5:00 PM; Fri - Sun Closed
+⏰ Hours: Mon, Tue, Wed, Thu, Fri 8:00 AM - 5:00 PM; Sat closed; Sun closed
 
 138. Heartland Alliance Health  -  Antonia
 4730 N Winthrop Ave, Chicago, IL 60640-5034
@@ -1664,9 +1670,11 @@ New Beginnings Church  -  6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 180. PCC Collaborative Bridges Health Center
 4221 W Lake St, Chicago, IL, 60624-1707
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
-📞 (872) 235-0777
+📝 Source: PCC Community Wellness location page, https://www.pccwellness.org/pcc-collaborative-bridges-health-center/, retrieved November 15, 2026. The page says to schedule an appointment.
+📞 (773) 565-2180
 🏥 Services: Primary Care
-🌐 https://www.pcccommunitywellness.org
+🌐 https://www.pccwellness.org/pcc-collaborative-bridges-health-center/
+⏰ Hours: Mon, Tue, Wed, Thu, Fri 8:30 AM - 5:00 PM; Sat closed; Sun closed
 
 181. Erie Sankofa Village Health Center
 4305 W Madison St, Chicago, IL, 60624-2224
@@ -1718,14 +1726,17 @@ New Beginnings Church  -  6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 187. PCC Thresholds Health Center
 5801 W Corcoran Pl, Chicago, IL, 60644-1854
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🌐 http://pccwellness.org
-📞 (773) 378-3347
+📝 Source: PCC Community Wellness location page, https://www.pccwellness.org/pcc-thresholds/, retrieved November 15, 2026. The 3rd Wednesday is 9:00 AM - 5:00 PM.
+🌐 https://www.pccwellness.org/pcc-thresholds/
+📞 (708) 383-2444
 🏥 Services: Primary Care
+⏰ Hours: Mon, Tue, Wed, Thu 8:00 AM - 6:30 PM; Fri 8:00 AM - 5:00 PM; Sat closed; Sun closed
 
 188. PCC Dr. Tong Health Center
 1 Erie Ct STE 6040, Oak Park, IL, 60302-2510
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
-🌐 http://www.pccwellness.org
+📝 Source: PCC Community Wellness location page, https://www.pccwellness.org/locations/pcc-dr-tong-health-center/, retrieved November 15, 2026. The page says services previously offered at this center have moved to PCC Salud Family Health Center, 5359 West Fullerton Avenue, Chicago, IL 60639.
+🌐 https://www.pccwellness.org/locations/pcc-dr-tong-health-center/
 ⏰ Hours: HRSA 2025 site report: full-time, year-round, 46.5 hours per week.
 📞 (708) 386-1301
 🏥 Services: Primary Care
@@ -1740,9 +1751,10 @@ New Beginnings Church  -  6620 S Martin Luther King Jr. Dr, Chicago, IL 60637
 190. PCC Walk-In Wellness Center
 3 Erie Ct STE 1300, Oak Park, IL, 60302-2519
 📝 HRSA Health Center Program  -  Last reviewed 07/2026
+📝 Source: PCC Community Wellness location page, https://www.pccwellness.org/locations-pcc-walk-in-wellness-center/, retrieved November 15, 2026. The page now lists this walk-in center at 5425 West Lake Street, Chicago, IL 60644, inside the Austin Dental and Specialty Care Center.
 📞 (708) 406-3929
 🏥 Services: Primary Care
-🌐 https://www.pcccommunitywellness.org
+🌐 https://www.pccwellness.org/locations-pcc-walk-in-wellness-center/
 
 191. LCHC at MWRD
 3034 W Foster Ave  RM Community, Chicago, IL, 60625-4154
@@ -10049,10 +10061,12 @@ P.O. Box 878, Urbana, IL 61803
 
 1414. SOUTH FAMILY HEALTH CENTER
 6201 Roosevelt Rd, Berwyn, IL 60402-1108
-🏥 Services: Primary Care
-⏰ Hours: HRSA 2025 site report: full-time, year-round, 61 hours per week.
-📞 (708) 386-0485
+🏥 Services: Primary Care, Prenatal care, Postpartum care
+⏰ Hours: Mon, Tue, Wed, Thu 8:00 AM - 8:00 PM; Fri 8:00 AM - 5:00 PM; Sun closed
+📞 (708) 386-0845
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
+📝 Source: PCC Community Wellness location page, https://www.pccwellness.org/locations/pcc-south-family-health-center/, retrieved November 15, 2026. The 3rd Wednesday starts at 9:00 AM. Saturday hours are the 1st and 3rd Saturday, 8:00 AM - 12:00 PM. The Birth Center is inside this building.
+🌐 https://www.pccwellness.org/locations/pcc-south-family-health-center/
 
 1415. HEARTLAND COMMUNITY HEALTH CLINIC AT CARVER
 711 W John H Gwynn Jr Ave, Peoria, IL 61605-2270
@@ -10442,9 +10456,11 @@ P.O. Box 878, Urbana, IL 61803
 1477. PCC COMMUNITY WELLNESS CENTER
 14 Lake St, Oak Park, IL 60302-2606
 🏥 Services: Primary Care
-⏰ Hours: HRSA 2025 site report: full-time, year-round, 61 hours per week.
+⏰ Hours: Mon, Tue, Wed, Thu 8:00 AM - 8:00 PM; Fri 8:00 AM - 5:00 PM; Sat 8:00 AM - 12:00 PM; Sun closed
 📞 (708) 383-0113
 📝 Federally qualified health center. Source: data.hrsa.gov CMS federally qualified health centers, retrieved 2026-10-13.
+📝 Source: PCC Community Wellness location page, https://www.pccwellness.org/locations/pcc-lake-street-family-health-center/, retrieved November 15, 2026. The 3rd Wednesday is 9:30 AM - 8:00 PM. The page says services previously at West Suburban Family Health Center have moved here, and billing and finance offices are on the second floor.
+🌐 https://www.pccwellness.org/locations/pcc-lake-street-family-health-center/
 
 1478. CISNE MEDICAL CENTER
 62 Park St, Cisne, IL 62823-9437
@@ -11278,3 +11294,27 @@ P.O. Box 878, Urbana, IL 61803
 📞 (312) 492-0060
 🏥 Services: Immediate Care, Behavioral Health
 ⏰ Hours: Mon, Tue, Wed, Thu, Fri 8:00 AM - 5:00 PM
+
+1606. PCC Walk-In Wellness Center
+5425 West Lake Street, Chicago, IL 60644
+📝 Source: PCC Community Wellness location page, https://www.pccwellness.org/locations-pcc-walk-in-wellness-center/, retrieved November 15, 2026. The page says patients can be seen without a scheduled appointment. It is inside the Austin Dental and Specialty Care Center.
+🌐 https://www.pccwellness.org/locations-pcc-walk-in-wellness-center/
+📞 (708) 406-3929
+🏥 Services: Urgent care for illnesses and injuries that are not emergencies
+⏰ Hours: Mon, Tue, Wed, Thu, Fri 9:00 AM - 9:00 PM; Sat, Sun 9:00 AM - 7:00 PM
+
+1607. PCC Birth Center
+6201 Roosevelt Road, Berwyn, IL 60402
+📝 Source: PCC Community Wellness location page, https://www.pccwellness.org/locations/pcc-birth-center/, retrieved November 15, 2026. The page says this birth center is inside South Family Health Center. Contact birthcenter@pccwellness.org.
+🌐 https://www.pccwellness.org/locations/pcc-birth-center/
+📞 (708) 386-0845
+🏥 Services: Certified nurse-midwives, Birthing suites, Postpartum follow-up, Free doula care for qualifying patients
+⏰ Hours: Open 24 hours, depending on the patient's labor
+
+1608. PCC Melrose Park Family Health Center
+1111 Superior Street, Suite 101, Melrose Park, IL 60160
+📝 Source: PCC Community Wellness location page, https://www.pccwellness.org/locations/pcc-melrose-park-family-health-center/, retrieved November 15, 2026. The 3rd Wednesday is 9:00 AM - 5:00 PM. The 1st Saturday is 8:30 AM - 1:00 PM. Park in Lot C or Lot B.
+🌐 https://www.pccwellness.org/locations/pcc-melrose-park-family-health-center/
+📞 (708) 406-3040
+🏥 Services: Primary Care, School physicals, Sports physicals
+⏰ Hours: Mon, Tue, Wed, Thu 8:00 AM - 9:00 PM; Fri 8:00 AM - 7:00 PM; Sat 9:00 AM - 1:00 PM; Sun closed
